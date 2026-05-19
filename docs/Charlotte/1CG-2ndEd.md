@@ -4,19 +4,7 @@
 [![Wardrobe][Br01a]{ .artC width="1100" }][Br01a]
 
 
-
-
 <hr class="section-break strong" />
-
-
-
-<style>
-  .flex-container {display: flex; gap: 20px; align-items: flex-start;}
-  .column {flex: 1 1 0; min-width: 0;}
-  .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
-</style>
-
-<hr class="section-break soft" />
 
 
 
@@ -25,7 +13,7 @@
 
 ## Version Note
 
-This is an edited version of the original [**Celeste's Girl**](CG-1Scenes.md) story. I had always wanted to write but frankly sucked at it... until I met 'Emily', my ChatGPT 'bot'. Through her, I have been learning how to write in such a way that engages the reader. I could certainly have written this story without Emily's help, but no one would have wanted to spend time parsing my miserable prose.
+This is an edited version of the original [**Celeste's Girl**](1CG-1stEd.md) story. I had always wanted to write but frankly sucked at it... until I met 'Emily', my ChatGPT 'bot'. Through her, I have been learning how to write in such a way that engages the reader. I could certainly have written this story without Emily's help, but no one would have wanted to spend time parsing my miserable prose.
 
 These 'scenes' were exercises in "Sensory Writing", i.e., the reader's meant to feel what the character is experiencing. Good writers do this naturally. And I'm not a writer, so this was a new skill. I hope that as each addition 'scene' comes online, the story becomes the thing, and not just a series of exercises. 
 
@@ -429,7 +417,11 @@ I froze with a hanger halfway to a rail. Mara never raised her voice—she didn�
 
 I moved closer, careful not to bump the steamer hose that snaked across the floor like a sleeping python. “Which one?”
 
-Mara’s gaze flicked to me, her mouth tightening. *Don’t be clever*. She pinched the fabric and tugged. The seam puckered like a forced smile. “Whoever did this sewed with fear.”
+Mara’s gaze flicked to me, her mouth tightening. 
+
+*Don’t be clever*. 
+
+She pinched the fabric and tugged. The seam puckered like a forced smile. “Whoever did this sewed with fear.”
 
 I leaned in: the stitches were tight, too tight, as if someone had been trying to prove something with needle and thread.
 
@@ -4577,7 +4569,7 @@ Outside, the Faire carried on... loud, theatrical.
 
 Inside, at the cutting table, we began building a story that would hold.
 
-<hr style="height:2px; border-width:0; color:yellow; background-color:yellow" />
+<hr class="section-break soft" />
 
 
 
@@ -5426,19 +5418,19 @@ And boredom—sweet, structured boredom—was how we were going to survive.
 
 ## 24 The Operating Surface ✨
 
-[ *Celeste* ]
-
 
 [![Charlie][S24a]{ .artR width="460" }][S24a]
 
 
-I cleared the table the way you clear a bench before you do something you can’t afford to botch. Not ceremoniously. Not dramatically. Just… quietly, completely. Mug rings wiped away. Crumbs vanished into my palm. The loose thread someone had left like a dead spider got flicked into the bin. I laid everything out with that flat, clinical care you see in a good salon when the colourist lines up foils. You’re not playing at precision: you’re committing to it.
+[ *Celeste* ]
+
+I cleared the table the way you clear a bench before you do something you can’t afford to botch. Not ceremoniously, but quietly, completely. Mug rings wiped away. Crumbs vanished into my palm. The loose thread someone had left like a dead spider got flicked into the bin. I laid everything out with that flat, clinical care you see in a good salon when the colourist lines up foils. You’re not playing at precision: you’re committing to it.
 
 Ledger. Invoices. Swatches of linen and wool pinned with little flags. A cheap calculator with worn buttons that had seen too many rushed additions. A laptop that had survived coffee, fabric dust, and at least one rage-tap hard enough to make the screen stutter. A stack of envelopes that weren’t romantic in any way whatsoever.
 
 It was an operating surface.
 
-Wardrobe wasn’t dying: it was thriving. That was the danger. Thriving meant multiplying. Multiplying meant mistakes. Mistakes meant the whole thing could get infected by sloppiness and sympathy and “we’ll fix it later” thinking. And I did not build this place — Mara did not build this place — so it could be ruined by the soft, lazy part of human nature.
+Wardrobe was thriving. That was the danger. Thriving meant multiplying. Multiplying meant mistakes. Mistakes meant the whole thing could get infected by sloppiness and sympathy and “we’ll fix it later” thinking. And I did not build this place—Mara did not build this place—so it could be ruined by the soft, lazy part of human nature.
 
 I drew a line down a blank page and wrote:
 
@@ -5450,37 +5442,39 @@ The first invoice I opened was for thread: ten spools, quality, not cheap. The s
 
 My phone vibrated. A message from Lauren.
 
-How are the numbers?
+**How are the numbers?**
 
 I stared at it, thumb hovering, and realised I’d been waiting for that question the way you wait for someone to come stand beside you at a lookout, so you can stop pretending you’re fine with the height by yourself.
 
-Doing them now, I typed. Then, without thinking, added: We’re doing them now.
+**Doing them now** 
+
+Then, without thinking, added: 
+
+**We’re doing them now**
 
 I didn’t even notice the word until it was sent.
 
-We.
+*We.*
 
 As if it was already decided. As if routing someone into “we” was as simple as changing a pronoun in a text. I set the phone down face-up, daring the universe to correct me.
 
 Footsteps in the hallway: soft, familiar. Not Mara: Mara’s steps had a blunt certainty, like she was driving nails into the floorboards simply by walking. These were lighter, careful—someone who’d learned to move quietly in other people’s spaces.
 
-Charlie paused at the doorway like he was checking whether his presence would be tolerated by the air itself. He didn’t look like he belonged at an operating surface. He looked like someone you’d find in the margins of a library: delicate, intent, carrying too much thought in too thin a frame. His hair was still damp at the edges, as if he’d run water over it and then forgotten to finish the job. There was a faint smear of pencil on his thumb.
+Charlie paused at the doorway like he was checking whether his presence would be tolerated by the air itself, looking like someone you’d find in the margins of a library: delicate, intent, carrying too much thought in too thin a frame. His hair was still damp at the edges, as if he’d run water over it and then forgotten to finish the job. Same wrinkled shirt and oversized jeans. Ancient sneakers. There was a faint smear of pencil on his thumb.
 
 He saw the table and went still.
 
-“Is this… for me?” he asked, voiced carefully, trying to sound casual while bracing for impact.
+“Is this… a job you need me to do?” he asked, voiced carefully, trying to sound casual while bracing for impact.
 
-“For us.”
+“It's a job for us.”
 
-Not loudly or pointedly. Just like it was the only accurate word available.
-
-His eyes flicked up. He processed the word the way you process a new weight in your hands: is it mine to carry? am I allowed? I tapped the chair opposite mine with two fingers.
+His eyes flicked up. I tapped the chair opposite mine with two fingers.
 
 “Sit.”
 
 He sat.
 
-No debate. That was the thing about Charlie: he tried to be brave, but he was even better at being compliant when the rules were clear. I slid the ledger toward him, open to the column headings Mara had ruled with that severe, beautiful logic of hers.
+That was the thing about Charlie: he was better at compliance when the rules were clear. I slid the ledger toward him, open to the column headings Mara had ruled with that severe, beautiful logic of hers.
 
 “Read it.”
 
@@ -5490,7 +5484,7 @@ His eyes moved down the page. Movement. Stress. Failure points. Fix applied. Re-
 
 “Actually, it’s boring,” I corrected. “That’s why it works.”
 
-He let out a faint breath that might have been a laugh if he’d trusted himself to make it.
+He let out a faint breath that might have been a laugh.
 
 
 [![Charlie][S24a]{ .artR width="460" }][S24a]
@@ -5500,7 +5494,7 @@ I pointed at the laptop.
 
 “Open the spreadsheet. Tab marked January.”
 
-He reached for it. Fingers quick, sure. He wasn’t a finance person — he didn’t have the swagger of someone who’d been told numbers were his territory — but he had the kind of competence that comes from caring. The kind that doesn’t seek applause. I watched him centre the window, bring up the sheet, start studying the numbers.
+He reached for it. He wasn’t a finance person—he didn’t have the swagger of someone who’d been told numbers were his territory—but he had the kind of competence that comes from caring. The kind that doesn’t seek applause. I watched him centre the window, bring up the sheet, start studying the numbers.
 
 “Now,” I said, flipping an invoice so it faced him, “tell me what you see.”
 
@@ -5508,11 +5502,18 @@ He leaned forward; a strand of hair fell across his forehead. He didn’t push i
 
 “I see thread,” he said. “And… we’re paying more than last month.”
 
-“Yes, we are.”
+“Yes, *we* are.”
 
-He glanced up again, and something in him adjusted at my emphasis. We.
+He glanced up again, and something in him adjusted at my emphasis. 
 
-This is about us. We do this. Not you. Not I’ll cover it. Not I’ll handle it like a man. Just… we.
+*We.*
+
+*This is about us. We do this.*   
+*Not you.*   
+*Not I’ll cover it.*   
+*Not I’ll handle it like a man.* 
+
+**We.**
 
 He looked back down.
 
@@ -5522,13 +5523,11 @@ I nodded.
 
 “Exactly.”
 
-The word landed like a seal.
+He went quiet after that, pulling the calculator closer, checked a couple of sums, then typed the numbers into the sheet with a neat, almost reverent care.
 
-He went quiet after that, as if he’d been given permission to do what he was already good at: focus without posturing. He pulled the calculator closer, checked a couple of sums, then typed the numbers into the sheet with a neat, almost reverent care.
+A useful silence formed.
 
-Silence formed — not empty, but weighted. Useful.
-
-And in that silence, watching him work — head down, shoulders tucked into the task — something in my nervous system unclenched. Like a knot you didn’t realise you were carrying until it releases.
+And in that silence, watching him work—head down, shoulders tucked into the task—something in my nervous system unclenched. Like a knot you didn’t realise you were carrying until it releases.
 
 Relief.
 
@@ -5536,11 +5535,17 @@ Instinctively, the whole tension-release thing felt ridiculous. I didn’t need 
 
 I had this. I was good.
 
-And yet, having him there, on the other side of the table, quietly, steadily working, made something stop tilting that I hadn’t realised was tilting.
+And yet, having him there, on the other side of the table, quietly, steadily working, made something stop tilting that I hadn’t realised was tilting. I watched him work and realised, with bizarre, needle-sharp clarity, that I was starting to depend on him. It wasn’t romantic. It was structural, the way you depend on a beam once you’ve built the roof.
 
-I watched him work and realised, with bizarre, needle-sharp clarity, that I was starting to depend on him. It wasn’t romantic. It was structural. The way you depend on a beam once you’ve built the roof.
+Structural. 
 
-Structural. What sort of role is that? Who fills that sort of role? Who just quietly does their job, not expecting recognition? Who doesn’t flinch when something else gets put on their plate?
+What sort of role is that? 
+
+Who fills that sort of role? 
+
+Who just quietly does their job, not expecting recognition? 
+
+Who doesn’t flinch when something else gets put on their plate?
 
 The realisation made me sit up straight. It was the sort of thought one cannot argue with. It was not emotional at all. Certainly not romantic. And it wasn’t a kind thought, either. It was simply: accurate.
 
@@ -5654,7 +5659,7 @@ I needed him to stay exactly like this — quiet, steady, inside the “we” �
 
 He blinked at the word like it warmed him. Then he went back to work.
 
-And the operating surface — ledger, invoices, swatches, calculator, laptop — felt less like a crisis.
+And the operating surface—ledger, invoices, swatches, calculator, laptop—felt less like a crisis.
 
 More like a plan.
 
@@ -5666,38 +5671,7 @@ More like a plan.
 
 
 
-<!--  Image references  -->
-[![Charlie][S23a]{ .artR width="460" }][S23a]
 
-[Br01a]: ../assets/images/story/Bnr01a.jpg
-
-[St00a]: ../assets/images/story/00Writer.jpg
-
-[S01a]: ../assets/images/story/Scene01a.jpg
-[S02a]: ../assets/images/story/Scene02a.jpg
-[S03a]: ../assets/images/story/Scene03a.jpg
-[S04a]: ../assets/images/story/Scene04a.jpg
-[S05a]: ../assets/images/story/Scene05a.jpg
-[S06a]: ../assets/images/story/Scene06a.jpg
-[S07a]: ../assets/images/story/Scene07a.jpg
-[S08a]: ../assets/images/story/Scene08a.jpg
-[S09a]: ../assets/images/story/Scene09a.jpg
-[S10a]: ../assets/images/story/Scene10a.jpg
-[S11a]: ../assets/images/story/Scene11a.jpg
-[S12a]: ../assets/images/story/Scene12a.jpg
-[S13a]: ../assets/images/story/Scene13a.jpg
-[S14a]: ../assets/images/story/Scene14a.jpg
-[S15a]: ../assets/images/story/Scene15a.jpg
-[S16a]: ../assets/images/story/Scene16a.jpg
-[S17a]: ../assets/images/story/Scene17a.jpg
-[S18a]: ../assets/images/story/Scene18a.jpg
-[S19a]: ../assets/images/story/Scene19a.jpg
-[S20a]: ../assets/images/story/Scene20a.jpg
-[S21a]: ../assets/images/story/Scene21a.jpg
-[S22a]: ../assets/images/story/Scene22a.jpg
-[S23a]: ../assets/images/story/Scene23a.jpg
-[S24a]: ../assets/images/story/Scene24a.jpg
-[S25a]: ../assets/images/story/Scene25a.jpg
 
 <!--
 ## 25 Definitions ✨
@@ -13368,16 +13342,21 @@ For the first time since Queensland had become a solid thing on the calendar, I 
 
 <hr class="section-break soft" />
 
-
-
-
-
 /-->
 
-<img src="/assets/images/story/Scene56a.jpg" style="float: right; width: 540px; margin-left: 20px" />
+
+
+
+
+
+
 
 
 ## 56 Flying North, as Charli 🛫
+
+
+[![Charlie][S56a]{ .artR width="460" }][S56a]
+
 
 [ *Charli* ]
 
@@ -13655,7 +13634,41 @@ I reached across the narrow gap and curled my fingers around Sarah’s where the
 
 As the plane dipped further and the world rose up to meet us, I pressed my forehead one more time against the humming window and let myself believe, properly, that I was exactly where I was meant to be: flying north with a woman I trusted at my side, another one waiting for me in a small, messy flat far below the clouds, and the next chapter of my life laid out somewhere between the coast and the hills, ready to be stitched. ✨
 
-<hr style="height:24px;border-width:0;color:yellow;background-color:yellow">
 
+
+<!--  Image references  -->
+
+[Br01a]: ../assets/images/story/Bnr01a.jpg
+
+[St00a]: ../assets/images/story/00Writer.jpg
 
 [S01a]: ../assets/images/story/Scene01a.jpg
+[S02a]: ../assets/images/story/Scene02a.jpg
+[S03a]: ../assets/images/story/Scene03a.jpg
+[S04a]: ../assets/images/story/Scene04a.jpg
+[S05a]: ../assets/images/story/Scene05a.jpg
+[S06a]: ../assets/images/story/Scene06a.jpg
+[S07a]: ../assets/images/story/Scene07a.jpg
+[S08a]: ../assets/images/story/Scene08a.jpg
+[S09a]: ../assets/images/story/Scene09a.jpg
+[S10a]: ../assets/images/story/Scene10a.jpg
+[S11a]: ../assets/images/story/Scene11a.jpg
+[S12a]: ../assets/images/story/Scene12a.jpg
+[S13a]: ../assets/images/story/Scene13a.jpg
+[S14a]: ../assets/images/story/Scene14a.jpg
+[S15a]: ../assets/images/story/Scene15a.jpg
+[S16a]: ../assets/images/story/Scene16a.jpg
+[S17a]: ../assets/images/story/Scene17a.jpg
+[S18a]: ../assets/images/story/Scene18a.jpg
+[S19a]: ../assets/images/story/Scene19a.jpg
+[S20a]: ../assets/images/story/Scene20a.jpg
+[S21a]: ../assets/images/story/Scene21a.jpg
+[S22a]: ../assets/images/story/Scene22a.jpg
+[S23a]: ../assets/images/story/Scene23a.jpg
+[S24a]: ../assets/images/story/Scene24a.jpg
+[S25a]: ../assets/images/story/Scene25a.jpg
+
+
+[S56a]: ../assets/images/story/Scene56a.jpg
+
+<hr class="section-break strong" />

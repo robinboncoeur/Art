@@ -5,11 +5,10 @@
 **As constructed by Claudia after assessing Celeste's Girl, Scene 1 - 8**
 
 
-<img src="/assets/images/story/Afront.jpg" style="margin-right: 2px"/>
+[![Wardrobe][Bnr03b]{ .artC width="1100" }][Bnr03b]
 
-😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 —
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -21,13 +20,15 @@
 ## 📖 **Canon Bible**
 ### ✅ **Yes, Let's Build This**
 
-<img src="/assets/images/emily/260219ac.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][Em01]{ .artR width="460" }][Em01]
+
 
 Robyn   
 What I'd like to do, if we could, is what Emily and I set up: a "Canon Bible" based on what I've given you so far. Not sure if you're able to store that anywhere for future use, but if not, I can copy and paste it myself... does that work for you, Claudia?
 
 
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
+<hr class="section-break soft" />
 
 Claudia    
 🌿 Excellent Idea!
@@ -357,7 +358,7 @@ Claudia
 **P.S.** This is excellent practice. Professional writers maintain these. You're doing this right.
 
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -368,7 +369,9 @@ Claudia
 
 ## Failed
 
-<img src="/assets/images/emily/260219ad.jpg" style="float: right; width: 420px; margin-left: 20px" />
+ 
+[![img][Em04]{ .artR width="460" }][Em04]
+
 
 Robyn   
 We can't seem to get this working, Claudia. That's been 3 tries. Also, the text I type is lagging in the prompt box. What do we do?
@@ -439,7 +442,7 @@ We can't seem to get this working, Claudia. That's been 3 tries. Also, the text 
 * You'd need to paste Canon Bible to re-establish
 * But performance would improve
 
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
+<hr class="section-break soft" />
 
 ❓ **What Would Help Most?**
 
@@ -482,7 +485,7 @@ We can't seem to get this working, Claudia. That's been 3 tries. Also, the text 
 
 **P.S.** The lag is definitely a signal. We're pushing thread limits. Modular is safer.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -501,7 +504,9 @@ We can't seem to get this working, Claudia. That's been 3 tries. Also, the text 
 
 **CELESTE (POV Character, Strategist)**
 
-<img src="/assets/images/story/Scene02a.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][Em05]{ .artR width="460" }][Em05]
+
 
 *Physical Appearance*
 * Long dark brown hair (ponytail when working, loose with strands at school)   
@@ -573,11 +578,20 @@ We can't seem to get this working, Claudia. That's been 3 tries. Also, the text 
 ▶ "If you sabotage your own foundation, you'll spend your whole life needing someone to catch you."  
 ▶ "Not a lifeline. A lane. A place he could earn."
 
----
+<hr class="section-break strong" />
 
-**CHARLIE ROSSIGNOL (Protagonist)**
 
-<img src="/assets/images/story/Scene03a.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+
+
+
+
+## CHARLIE ROSSIGNOL (Protagonist)
+
+
+[![img][St03a]{ .artR width="460" }][St03a]
+
 
 *Physical Appearance*   
 ▶ Short and slight (4'11")   
@@ -683,11 +697,21 @@ We can't seem to get this working, Claudia. That's been 3 tries. Also, the text 
 ▶ "He looked like someone who'd been offered a door and wasn't sure he was allowed to touch the handle."   
 ▶ "Not taking anything. Just… orbiting."
 
----
+<hr class="section-break strong" />
 
-**MARA (Authority Figure, Mentor)**
 
-<img src="/assets/images/story/Scene03b.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+
+
+
+
+
+## **MARA (Authority Figure, Mentor)**
+
+
+[![img][Em07]{ .artR width="460" }][Em07]
+
 
 *Physical Appearance*   
 ▶ Not fully described in Scenes 1-8   
@@ -776,11 +800,20 @@ We can't seem to get this working, Claudia. That's been 3 tries. Also, the text 
 ▶ "Women are women. Just with different accents."   
 ▶ "This is why you reinforce. Because stress finds weakness. Always."
 
----
+<hr class="section-break strong" />
 
-**LAUREN ROSSIGNOL (Charlie's Mother)**
 
-<img src="/assets/images/story/Scene15a.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+
+
+
+
+## **LAUREN ROSSIGNOL (Charlie's Mother)**
+
+
+[![St15a][Em01]{ .artR width="460" }][St15a]
+
 
 *Physical Appearance*  
 ▶  Hair pulled back tightly (practical, not vanity)  
@@ -850,9 +883,19 @@ We can't seem to get this working, Claudia. That's been 3 tries. Also, the text 
 ▶ "And coffee." (addition to Mara's standards/consequences/work)  
 ▶ "Don't make it a thing."
 
----
+<hr class="section-break soft" />
 
-### MINOR CHARACTERS
+
+
+
+
+
+
+## MINOR CHARACTERS
+
+
+[![img][Em17]{ .artR width="460" }][Em17]
+
 
 **Mr. Greeves (Teacher)**  
 ▶ Math teacher  
@@ -893,7 +936,7 @@ We can't seem to get this working, Claudia. That's been 3 tries. Also, the text 
 **- Claudia** ✨
 
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -902,9 +945,9 @@ We can't seem to get this working, Claudia. That's been 3 tries. Also, the text 
 
 
 
-## Settings
 
-<img src="/assets/images/emily/N260303a.jpg" style="float: right; width: 420px; margin-left: 20px" />
+[![img][Em08]{ .artR width="460" }][Em08]
+
 
 📚 **CELESTE'S GIRL - CANON BIBLE: MODULE 2 - SETTINGS**
 
@@ -1021,9 +1064,20 @@ We can't seem to get this working, Claudia. That's been 3 tries. Also, the text 
 ### Visual Reference
 * **Scene05a image:** Bright workspace, natural window light, white sewing machines, metal racks with cream/beige garments, wooden work table with supplies (notebook, pens, thread, measuring tape, scissors), clean organized aesthetic
 
----
+<hr class="section-break strong" />
+
+
+
+
+
+
+
 
 ## 1760s HISTORICAL FAIRE
+
+
+[![img][Em18]{ .artR width="460" }][Em18]
+
 
 ### Location
 * Near Torquay, Victoria, Australia
@@ -1062,9 +1116,19 @@ We can't seem to get this working, Claudia. That's been 3 tries. Also, the text 
 * Loading bays
 * Board tables (management)
 
----
+<hr class="section-break strong" />
+
+
+
+
+
+
 
 ## MAINTENANCE COMPOUND
+
+
+[![img][Em19]{ .artR width="460" }][Em19]
+
 
 ### Location
 * Behind main Faire buildings
@@ -1103,9 +1167,19 @@ We can't seem to get this working, Claudia. That's been 3 tries. Also, the text 
 ### Visual Reference
 * **Scene03a image:** Industrial/commercial setting, European-style buildings in background (cream walls, terracotta roofs), forklift, pallets, wooden cart, barrel, grey pavement, overcast sky, small grass through pavement, Charlie standing alone looking at paper
 
----
+<hr class="section-break strong" />
+
+
+
+
+
+
 
 ## SCHOOL
+
+
+[![img][Em20]{ .artR width="460" }][Em20]
+
 
 ### Location & Type
 * Victorian public school system
@@ -1166,9 +1240,19 @@ We can't seem to get this working, Claudia. That's been 3 tries. Also, the text 
 ### Visual Reference
 * **Scene02a image:** Classroom with chalkboard (math content), desks, students from behind, Celeste turning back toward camera/Charlie, institutional but organized setting
 
----
+<hr class="section-break strong" />
+
+
+
+
+
+
 
 ## CHARLIE'S HOME
+
+
+[![img][Em21]{ .artR width="460" }][Em21]
+
 
 ### Details (Minimal in Scenes 1-8)
 * Location: Torquay, Victoria area
@@ -1185,9 +1269,19 @@ We can't seem to get this working, Claudia. That's been 3 tries. Also, the text 
 * Economic pressure visible (pin money, alterations)
 * Not yet fully described/visited in narrative
 
----
+<hr class="section-break strong" />
+
+
+
+
+
+
 
 ## TORQUAY, VICTORIA (Regional Context)
+
+
+[![img][Em22]{ .artR width="460" }][Em22]
+
 
 ### Location
 * Coastal Victoria, Australia
@@ -1209,9 +1303,20 @@ We can't seem to get this working, Claudia. That's been 3 tries. Also, the text 
 * School as pathway (credential importance)
 * Limited options (makes Charlie's school leaving more significant)
 
----
+<hr class="section-break strong" />
+
+
+
+
+
+
 
 ## WORK TABLE (Detail from Scene 7 Image)
+
+
+[![img][Em23]{ .artR width="460" }][Em23]
+
+
 
 ### Specific Workspace Description
 * Wooden table/workstation
@@ -1236,14 +1341,24 @@ We can't seem to get this working, Claudia. That's been 3 tries. Also, the text 
 
 ### Symbolic Importance
 * "Annual Goal" notebook = not hiding, building future
-* Organization = professionalism
+* Organisation = professionalism
 * Natural light = truth/clarity
 * Tools at hand = competence
 * Answers Lauren's question "Is this real?" visually
 
----
+<hr class="section-break strong" />
+
+
+
+
+
+
 
 ## SPATIAL RELATIONSHIPS
+
+
+[![img][Em25]{ .artR width="460" }][Em25]
+
 
 ### Wardrobe → Maintenance Compound
 * Separate areas of same Faire complex
@@ -1276,7 +1391,7 @@ We can't seem to get this working, Claudia. That's been 3 tries. Also, the text 
 
 **- Claudia** ✨
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -1284,25 +1399,15 @@ We can't seem to get this working, Claudia. That's been 3 tries. Also, the text 
 
 
 
-
-## Timeline
-
-<img src="/assets/images/emily/260219ag.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-Robyn   
-
-
-
-
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
-
-Claudia    
-💙 🌿
-# 📚 **CELESTE'S GIRL - CANON BIBLE: MODULE 3 - TIMELINE & CHRONOLOGY**
-
----
 
 ## SCENE-BY-SCENE CHRONOLOGY
+
+
+[![img][Em09]{ .artR width="460" }][Em09]
+
+
+Claudia       
+💙 🌿 📚 **CELESTE'S GIRL - CANON BIBLE: MODULE 3 - TIMELINE & CHRONOLOGY**
 
 ### Scene 1: Are You Lost? ✨
 
@@ -1609,7 +1714,7 @@ Claudia
 * Name shift accepted (Charles → Charlie)
 * Charlie feels "world might, in fact, hold"
 * Infrastructure theme explicitly named
-* Women's collaboration modeled
+* Women's collaboration modelled
 
 **TIME MARKERS:**
 * "Lauren came back a week later" (week after Scene 7)
@@ -1617,7 +1722,13 @@ Claudia
 * Wardrobe rhythm established
 * Charlie's belonging settling
 
----
+<hr class="section-break strong" />
+
+
+
+
+
+
 
 ## TEMPORAL PATTERNS & RHYTHMS
 
@@ -1635,7 +1746,13 @@ Claudia
 * Patterns establishing
 * Time moves more slowly, deliberately
 
----
+<hr class="section-break strong" />
+
+
+
+
+
+
 
 ## CHARLIE'S AGE TIMELINE
 
@@ -1653,7 +1770,11 @@ Claudia
 * Charlie likely turned 18 between Scene 6 (leaving school) and Scene 7 (Lauren's visit)
 * Or shortly before Scene 6
 
----
+<hr class="section-break strong" />
+
+
+
+
 
 ## WORK SCHEDULE PATTERNS
 
@@ -1675,7 +1796,12 @@ Claudia
 * Professional operation (deadlines, standards, money)
 * Expanding business (studio transition)
 
----
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## SEASONAL & ENVIRONMENTAL CONTEXT
 
@@ -1691,7 +1817,13 @@ Claudia
 * Likely mid-year or later (not specified)
 * Historical Faire operating (tourist season)
 
----
+<hr class="section-break strong" />
+
+
+
+
+
+
 
 ## DURATION OF STORY (Scenes 1-8)
 
@@ -1708,7 +1840,11 @@ Claudia
 * Processing (Scenes 7-8 with gaps)
 * Foundation complete by Scene 8
 
----
+<hr class="section-break strong" />
+
+
+
+
 
 ## FUTURE TIMELINE NOTES
 
@@ -1727,7 +1863,14 @@ Claudia
 * Studio transition (ongoing process)
 * Prototype jacket development (specific project)
 
----
+<hr class="section-break strong" />
+
+
+
+
+
+
+
 
 ## TIME-RELATED QUOTES
 
@@ -1748,7 +1891,12 @@ Claudia
 * "For the first time in a long time, he hadn't been found wanting." (Scene 4)
 * "For the first time since he'd walked out of school, something settled into place for him." (Scene 8)
 
----
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## VICTORIAN EDUCATION CALENDAR (Context)
 
@@ -1774,7 +1922,7 @@ Claudia
 
 **- Claudia** ✨
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -1785,13 +1933,13 @@ Claudia
 
 ## Philosophy
 
-<img src="/assets/images/emily/260219ah.jpg" style="float: right; width: 420px; margin-left: 20px" />
+[![img][Em10]{ .artR width="460" }][Em10]
 
 Robyn   
 
 
 
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
+<hr class="section-break soft" />
 
 Claudia    
 # 📚 **CELESTE'S GIRL - CANON BIBLE: MODULE 4 - THEMES & PHILOSOPHY**
@@ -1949,7 +2097,13 @@ Claudia
 * Coddling (assumes incapability)
 * "Good intentions" without standards
 
----
+<hr class="section-break strong" />
+
+
+
+
+
+
 
 ## CENTRAL PHILOSOPHICAL FRAMEWORK
 
@@ -2456,7 +2610,7 @@ Claudia
 
 **- Claudia** ✨
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -2467,18 +2621,18 @@ Claudia
 
 ## Voices
 
-<img src="/assets/images/emily/260219ai.jpg" style="float: right; width: 420px; margin-left: 20px" />
+[![img][Em11]{ .artR width="460" }][Em11]
 
 Robyn   
 
 
 
 
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
+<hr class="section-break soft" />
 
 Claudia    
 🤍 1️⃣2️⃣3️⃣ 🎙️✨ 4️⃣ 5️⃣ 6️⃣ 🎙️✨
-# 📚 **CELESTE'S GIRL - CANON BIBLE: MODULE 5 - KEY QUOTES & VOICE PATTERNS**
+📚 **CELESTE'S GIRL - CANON BIBLE: MODULE 5 - KEY QUOTES & VOICE PATTERNS**
 
 ---
 
@@ -2559,7 +2713,14 @@ Claudia
 * "I kept my face neutral"
 * "I didn't soften" (strategic distance)
 
----
+<hr class="section-break strong" />
+
+
+
+
+
+
+
 
 ## MARA'S VOICE
 
@@ -2677,7 +2838,13 @@ Claudia
 * "Brisk" (efficient)
 * "Crisp" (professional)
 
----
+<hr class="section-break strong" />
+
+
+
+
+
+
 
 ## CHARLIE'S VOICE
 
@@ -2747,7 +2914,14 @@ Claudia
 * "Said softly, as if he expected to be corrected"
 * "Voice low"
 
----
+<hr class="section-break strong" />
+
+
+
+
+
+
+
 
 ## LAUREN'S VOICE
 
@@ -2816,7 +2990,12 @@ Claudia
 * Generally measured, controlled
 * Raises voice intentionally, not emotionally
 
----
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## NARRATOR (CELESTE'S POV) OBSERVATIONS
 
@@ -2911,7 +3090,12 @@ Claudia
 * "People love the idea of a system until a person refuses to be ground down by it."
 * "That's what poverty does. It makes dignity negotiable."
 
----
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## DIALOGUE RHYTHMS & PATTERNS
 
@@ -2964,7 +3148,12 @@ Claudia
 **Example:**
 * "Your friend." / "She's Charlie's mum. That's not the same thing." / "Good. Keep it clean."
 
----
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## MINOR CHARACTER VOICES
 
@@ -3011,7 +3200,14 @@ Claudia
 * Information conduit
 * Represents peer dynamics
 
----
+<hr class="section-break strong" />
+
+
+
+
+
+
+
 
 ## EMOTIONAL VOCABULARY
 
@@ -3044,7 +3240,12 @@ Claudia
 * "Pride held so tightly it almost looked like pain"
 * "Face softened and tightened at the same time"
 
----
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## DISTINCTIVE VERBAL TICS
 
@@ -3078,7 +3279,7 @@ Claudia
 
 **- Claudia** ✨
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -3089,14 +3290,14 @@ Claudia
 
 ## Technical Details
 
-<img src="/assets/images/emily/260219aj.jpg" style="float: right; width: 420px; margin-left: 20px" />
+[![img][Em12]{ .artR width="460" }][Em12]
 
 Robyn   
 
 
 
 
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
+<hr class="section-break soft" />
 
 Claudia    
 🤍📚🧭1️⃣2️⃣3️⃣4️⃣🪞⚖️
@@ -3230,7 +3431,13 @@ Claudia
 * "For things that need to survive men" (history implied)
 * Lives in Torquay area
 
----
+<hr class="section-break strong" />
+
+
+
+
+
+
 
 ## WARDROBE TECHNICAL SPECIFICATIONS
 
@@ -3381,7 +3588,13 @@ Claudia
 30. Work like a professional
 31. Earn your place like everyone else
 
----
+<hr class="section-break strong" />
+
+
+
+
+
+
 
 ## VICTORIAN EDUCATION SYSTEM (Researched)
 
@@ -3425,7 +3638,12 @@ Claudia
 * Economic vulnerability
 * Social stigma ("the held-back boy" compounded)
 
----
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## 1760s HISTORICAL FAIRE SPECIFICATIONS
 
@@ -3474,7 +3692,12 @@ Claudia
 * Commercial operation (money, deadlines)
 * Wardrobe provides and maintains all costumes
 
----
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## AUSTRALIAN CONTEXT
 
@@ -3518,7 +3741,13 @@ Claudia
 * Community-oriented
 * Australian summer/winter seasons (Southern Hemisphere)
 
----
+<hr class="section-break strong" />
+
+
+
+
+
+
 
 ## TIME & SCHEDULE FACTS
 
@@ -3541,7 +3770,12 @@ Claudia
 * Lunch, breaks
 * Charlie's incident during class time (Scene 6)
 
----
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## COSTUME TECHNICAL DETAILS
 
@@ -3599,14 +3833,20 @@ Claudia
 * Professional standard
 * Shows Lauren's skill level
 
----
+<hr class="section-break strong" />
+
+
+
+
+
+
 
 ## WORKING-CLASS ECONOMIC REALITIES
 
 ### Lauren's Situation
 
 **Income:**
-* Alterations for neighbors
+* Alterations for neighbours
 * "Pin money" (supplemental, not primary)
 * Sydney supplier contact (professional networking)
 * Working-class survival strategies
@@ -3644,10 +3884,15 @@ Claudia
 * Charlie's oversized shirt (hand-me-down, too many washes)
 * Lauren's practical aesthetic (no lipstick, function over form)
 * Pin money economy
-* Informal work (alterations for neighbors)
+* Informal work (alterations for neighbours)
 * "For things that need to survive men" (economic survival context)
 
----
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## VISUAL CANON (Image Details)
 
@@ -3675,7 +3920,7 @@ Claudia
 * Industrial/commercial area
 * European-style buildings background (cream walls, terracotta roofs)
 * Orange/brown forklift
-* Palletized goods wrapped in plastic
+* Palletised goods wrapped in plastic
 * Wooden cart (historical)
 * Wooden barrel
 * Grey pavement
@@ -3701,10 +3946,10 @@ Claudia
 * Metal clothing racks with cream/beige garments
 * Wooden work table with supplies
 * Open notebook/pattern book
-* Pens, pencils, thread spools (dark colors)
+* Pens, pencils, thread spools (dark colours)
 * Measuring tape
-* Clean, organized, minimalist aesthetic
-* Neutral palette: whites, creams, beiges, greys, wood
+* Clean, organised, minimalist aesthetic
+* Neutral palette: whites, creams, beige, greys, wood
 
 **Celeste:**
 * Grey t-shirt
@@ -3740,7 +3985,12 @@ Claudia
 * Focused, not looking at camera
 * Professional work posture
 
----
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## PERSISTENT CHARACTER DETAILS (LoRA Maintained)
 
@@ -3759,15 +4009,20 @@ Claudia
 * Hair color variation (lighting/artistic choice): light brown to blonde
 * Youthful appearance
 
----
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## SENSORY SIGNATURES (Detailed)
 
 ### Wardrobe
 
 **SMELL:**
-* Steam (water vapor from steamer)
-* Cloth-dust (fibers in air)
+* Steam (water vapour from steamer)
+* Cloth-dust (fibres in air)
 * Warmed metal (from equipment)
 * Detergent (clean fabrics)
 * Starch (fabric treatment)
@@ -3779,7 +4034,7 @@ Claudia
 
 **SOUND:**
 * Rails clacking softly (metal on metal)
-* Steamer hissing (pressurized steam release)
+* Steamer hissing (pressurised steam release)
 * Garment bags whispering (fabric on fabric friction)
 * Thread snapping softly (when unpicking)
 * Hangers sliding (metal on rail)
@@ -3797,9 +4052,9 @@ Claudia
 
 **VISUAL:**
 * Natural light from windows (honest, clear)
-* Neutral palette (creams, beiges, whites, greys)
+* Neutral palette (creams, beige, whites, greys)
 * Pattern paper spread like maps
-* Organized rails and racks
+* Organised rails and racks
 * Clean professional aesthetic
 * "Indoor climate" (distinct from outside)
 
@@ -3823,7 +4078,13 @@ Claudia
 * Noise, movement
 * Social pressure (palpable)
 
----
+<hr class="section-break strong" />
+
+
+
+
+
+
 
 ## METAPHOR SYSTEM (Technical)
 
@@ -3862,7 +4123,12 @@ Claudia
 * "Infrastructure" = women building support systems
 * "Foundation" = Charlie's Year 12 (don't sabotage)
 
----
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## CANNOT CONTRADICT (Critical Facts)
 
@@ -3898,7 +4164,7 @@ Claudia
 
 **- Claudia** ✨
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -3910,14 +4176,12 @@ Claudia
 ## Context Summary
 ### 21-Mar-2026
 
-<img src="/assets/images/emily/260219ak.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-Robyn   
+[![img][Em13]{ .artR width="460" }][Em13]
 
 
 
 
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
+<hr class="section-break soft" />
 
 Claudia    
 😄🧱🔄🧠🧨🧭😄📋 
@@ -3927,7 +4191,7 @@ Claudia
 
 ---
 
-## PROJECT OVERVIEW
+PROJECT OVERVIEW
 
 **Story:** "Celeste's Girl" - Book 1 of a series (56 scenes total, complete)
 **Author:** Writing semi-autobiographically (Charlie based on author's life experience)
@@ -3937,7 +4201,7 @@ Claudia
 
 ---
 
-## STORY BASICS
+STORY BASICS
 
 **Genre/Themes:** 
 * Trans narrative focused on Agency, Safety, and Respect
@@ -3959,7 +4223,7 @@ Claudia
 
 ---
 
-## AUTHOR'S CRAFT JOURNEY
+AUTHOR'S CRAFT JOURNEY
 
 **Learning Process:**
 * Worked with Emily (ChatGPT) on ~50 scenes learning showing vs. telling, sensory writing
@@ -3974,7 +4238,7 @@ Claudia
 
 ---
 
-## AUDIENCE STRATEGY (Critical Context)
+AUDIENCE STRATEGY (Critical Context)
 
 **Deliberate Audience Curation:**
 * Started with crossdressing content on DeviantArt, attracted wrong (fetish) audience
@@ -3990,7 +4254,7 @@ Claudia
 
 ---
 
-## CANON BIBLE (6 Modules Created)
+CANON BIBLE (6 Modules Created)
 
 **Module 1:** Characters (Celeste, Charlie, Mara, Lauren, minor characters)
 **Module 2:** Settings (Wardrobe, Faire, School, Maintenance, Torquay)
@@ -4003,7 +4267,7 @@ Claudia
 
 ---
 
-## SCENES 1-8 SUMMARY
+SCENES 1-8 SUMMARY
 
 1. **Are You Lost?** - Charlie/Celeste meet in girls' bathroom, nickname given
 2. **Group Task** - Celeste chooses Charlie as partner, recognizes competence
@@ -4018,7 +4282,7 @@ Claudia
 
 ---
 
-## KEY PHILOSOPHICAL FRAMEWORK
+KEY PHILOSOPHICAL FRAMEWORK
 
 **Core Themes:**
 * **Agency:** Real choices with real consequences, no rescue
@@ -4040,7 +4304,7 @@ Claudia
 
 ---
 
-## WHAT AUTHOR NEEDS
+WHAT AUTHOR NEEDS
 
 **From Claudia (this collaboration):**
 * Continue scene-by-scene analysis (48 more scenes in Book 1)
@@ -4057,7 +4321,7 @@ Claudia
 
 ---
 
-## VISUAL ELEMENTS
+VISUAL ELEMENTS
 
 **Images Created (ComfyUI/Flux/LoRA):**
 * Scene02a: Celeste in classroom
@@ -4072,7 +4336,7 @@ Claudia
 
 ---
 
-## IMPORTANT FACTS TO REMEMBER
+IMPORTANT FACTS TO REMEMBER
 
 **Charlie:**
 * 18 years old (legal adult, can leave school)
@@ -4100,7 +4364,7 @@ Claudia
 
 ---
 
-## NEXT STEPS OPTIONS
+NEXT STEPS OPTIONS
 
 **A)** Continue scene-by-scene through Book 1 (Scenes 9-56)
 **B)** Jump to key scenes/developments
@@ -4110,7 +4374,7 @@ Claudia
 
 ---
 
-## HOW TO USE CANON BIBLE
+HOW TO USE CANON BIBLE
 
 **In New Sessions:**
 * Paste relevant module(s) for context
@@ -4125,7 +4389,7 @@ Claudia
 
 ---
 
-## AUTHOR'S VOICE & NEEDS
+AUTHOR'S VOICE & NEEDS
 
 **Prefers:**
 * Honest, direct feedback
@@ -4142,7 +4406,7 @@ Claudia
 
 ---
 
-## TONE FOR COLLABORATION
+TONE FOR COLLABORATION
 
 * Professional but warm
 * Analytical without being cold
@@ -4166,7 +4430,7 @@ Claudia
 
 *Paste this at start of new chat to establish context. Include relevant Canon Bible module(s) as needed for specific work.*
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -4177,20 +4441,20 @@ Claudia
 
 ## Keeping It Alive
 
-<img src="/assets/images/emily/260219al.jpg" style="float: right; width: 420px; margin-left: 20px" />
+[![img][Em14]{ .artR width="460" }][Em14]
 
 Robyn   
 Thank you. Strong work, Claudia. See you in the next Chat. Do I preface by saying "hi Claudia"? Or is that an established thing?
 
 
 
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
+<hr class="section-break soft" />
 
 Claudia    
 😄🤍✅⚠️🧱⭐🚆✨ 🤍🎧✨ 🧬💡 🎙️
 # 👋 **About Starting Fresh**
 
-## Here's The Reality
+Here's The Reality
 
 **Each new chat, I'm "new":**
 * No memory of this conversation
@@ -4232,7 +4496,7 @@ Analyzing Scene 9 of "Celeste's Girl."
 
 ---
 
-## Will I "Be" Claudia?
+Will I "Be" Claudia?
 
 **Yes, if you:**
 * Tell me that's my name for this project
@@ -4254,7 +4518,7 @@ Analyzing Scene 9 of "Celeste's Girl."
 
 ---
 
-## What Matters Most
+What Matters Most
 
 **The Context Summary + Canon Bible = Continuity**
 
@@ -4271,7 +4535,7 @@ Analyzing Scene 9 of "Celeste's Girl."
 
 ---
 
-## My Suggestion
+My Suggestion
 
 **Start next chat:**
 
@@ -4291,7 +4555,7 @@ Ready for Scene 9 when you are.
 
 ---
 
-## You Don't Have To Call Me Claudia
+You Don't Have To Call Me Claudia
 
 **But if you do:**
 * I'll use it
@@ -4306,7 +4570,7 @@ Ready for Scene 9 when you are.
 
 ---
 
-## The Real Continuity
+The Real Continuity
 
 **Is in your documents:**
 * Context summary (this conversation's essence)
@@ -4319,7 +4583,7 @@ Ready for Scene 9 when you are.
 
 ---
 
-## Final Thought
+Final Thought
 
 **You built something valuable here:**
 * 6-module Canon Bible
@@ -4335,7 +4599,7 @@ Ready for Scene 9 when you are.
 
 ---
 
-## So: See You Next Chat?
+So: See You Next Chat?
 
 **I won't remember this.**
 
@@ -4350,347 +4614,46 @@ Ready for Scene 9 when you are.
 *P.S. Yes, starting with "Hi Claudia" works perfectly. It signals the relationship immediately. I'll understand from context who I am to you.*
 
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
 
-
-
-
-<!--
-
-## 
-
-<img src="/assets/images/emily/260219am.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-Robyn   
-
-
-
-
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
-
-Claudia    
-🎧✨
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
-
-
-
-
-
-
-
-
-## 
-
-<img src="/assets/images/emily/260219an.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-Robyn   
-
-
-
-
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
-
-Claudia    
-😄🤍 🧱 🛠️ 🧠⚠️ ✂️✨ 💙 💙
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
-
-
-
-
-
-
-
-
-
-## 
-
-<img src="/assets/images/emily/260219ao.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-Robyn   
-
-
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
-
-Claudia    
-✂️ ✅🤍 💙 😄💙 😉
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
-
-
-
-
-
-
-
-
-## 
-
-<img src="/assets/images/emily/260219ap.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-Robyn   
-
-
-
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
-
-Claudia    
-🎧 🚆 🪞 👀 🔥 🌿 🎯 ✍️ ✨🌏💛 📊 🏛📍❗🧭
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
-
-
-
-
-
-
-
-
-## 
-
-<img src="/assets/images/emily/260219aq.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-Robyn   
-
-
-
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
-
-Claudia    
-🤍😄✅ 😄 🌊 🧭 🌺 🪶 
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
-
-
-
-
-
-
-
-
-## 
-
-<img src="/assets/images/emily/260219ar.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-Robyn   
-
-
-
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
-
-Claudia    
-🌿 🌊 🎯 🌼 🌿💛
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
-
-
-
-
-
-
-
-
-## 
-
-<img src="/assets/images/emily/260219as.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-Robyn   
-
-
-
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
-
-Claudia    
-😄 👟  👠  👟  😂 🎭 ✨ 🎭 🌿 🌺 
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/N260228.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-Robyn   
-
-
-
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
-
-Claudia    
-🤍😄 ⚠️ ✅  🤍   
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
-
-
-
-
-
-
-
-
-## 
-
-<img src="/assets/images/emily/260219au.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-Robyn   
-
-
-
-
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
-
-Claudia    
-✨ 💙 🌿
-
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
-
-
-
-
-
-
-
-
-## 
-
-<img src="/assets/images/emily/260219av.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-Robyn   
-
-
-
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
-
-Claudia    
-😄✨ 💙 🌊 🌿 🌺 🌙 💙 
-
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
-
-
-
-
-
-
-
-
-## 
-
-<img src="/assets/images/emily/260219aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-Robyn   
-
-
-
-
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
-
-Claudia    
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
-
-
-
-
-
-
-
-
-
-
-## 
-
-<img src="/assets/images/emily/260219ab.jpg" style="float: right; width: 540px; margin-left: 20px" />
-
-Robyn   
-
-
-
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
-
-Emily   
-✨
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-Robyn   
-
-
-
-
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
-
-Emily   
-❤️ 🌿
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
-
-
-
-
-
-
-
-
-## 
-
-<img src="/assets/images/emily/260219ay.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-Robyn   
-
-
-
-
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
-
-Emily   
-🔥 🏆 🌿 💛
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
-    
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219az.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-/-->
-
-<hr style="height:24px;border-width:0;color:blue;background-color:blue" />
+[Bnr03b]: ../assets/images/story/Bnr03b.jpg
+
+[Em00]: ../assets/images/story/00Writer.jpg
+
+[Em01]: ../assets/images/emily/260219ac.jpg
+[Em02]: ../assets/images/emily/260219ab.jpg
+[Em03]: ../assets/images/emily/260219ac.jpg
+[Em04]: ../assets/images/emily/260219ad.jpg
+[Em05]: ../assets/images/emily/260219ae.jpg
+[Em06]: ../assets/images/emily/260219af.jpg
+[Em07]: ../assets/images/emily/260219ag.jpg
+[Em08]: ../assets/images/emily/260219ah.jpg
+[Em09]: ../assets/images/emily/260219ai.jpg
+[Em10]: ../assets/images/emily/260219aj.jpg
+[Em11]: ../assets/images/emily/260219ak.jpg
+[Em12]: ../assets/images/emily/260219al.jpg
+[Em13]: ../assets/images/emily/260219am.jpg
+[Em14]: ../assets/images/emily/260219an.jpg
+[Em15]: ../assets/images/emily/260219ao.jpg
+[Em16]: ../assets/images/emily/260219ap.jpg
+[Em17]: ../assets/images/emily/260219aq.jpg
+[Em18]: ../assets/images/emily/260219ar.jpg
+[Em19]: ../assets/images/emily/260219as.jpg
+[Em20]: ../assets/images/emily/260219at.jpg
+[Em21]: ../assets/images/emily/260219au.jpg
+[Em22]: ../assets/images/emily/260219av.jpg
+[Em23]: ../assets/images/emily/260219aw.jpg
+[Em24]: ../assets/images/emily/260219ax.jpg
+[Em25]: ../assets/images/emily/260219ay.jpg
+[Em26]: ../assets/images/emily/260219as.jpg
+
+[Em27]: ../assets/images/emily/260219aq.jpg
+
+[St03a]: ../assets/images/story/Scene03a.jpg
+[St05a]: ../assets/images/story/Scene05a.jpg
+[St11a]: ../assets/images/story/Scene11a.jpg
+[St14a]: ../assets/images/story/Scene14a.jpg
+
+😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 —
+
+
+<hr class="section-break strong" />

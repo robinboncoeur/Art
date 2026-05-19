@@ -28,7 +28,7 @@ These pages explore that cancellation through history, fiction, image-making, an
 
 I am interested in what those worlds did to women: what they permitted, what they punished, what they made invisible, and what women preserved anyway.
 
-I have developed a story around these themes: one in which women do not wait politely at the margins, and one in which old assumptions are not simply questioned, but overturned. It is called [*Celeste's Girl*](Charlotte/CG-2Scenes.md). The story takes place in present-day Victoria, south of Melbourne, at a fictitious historical faire, in the Wardrobe department.
+I have developed a story around these themes: one in which women do not wait politely at the margins, and one in which old assumptions are not simply questioned, but overturned. It is called [*Celeste's Girl*](Charlotte/1CG-1stEd.md). The story takes place in present-day Victoria, south of Melbourne, at a fictitious historical faire, in the Wardrobe department.
 
 <hr class="section-break soft" />
 

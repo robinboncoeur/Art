@@ -1,10 +1,11 @@
 # Writing 101
 
-<img src="/assets/images/story/HerLove01.jpg" style="margin-right: 2px"/>
 
-😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 —
+[![Wardrobe][Bnr03b]{ .artC width="1100" }][Bnr03b]
 
-<hr style="height:2px;border-width:0;color:pink;background-color:pink">
+
+
+<hr class="section-break strong" />
 
 
 
@@ -14,6 +15,10 @@
 
 
 ## Core Principles
+
+
+[![The Writer][St00]{ .artR width="460" }][St00]
+
 
 Oh, this is where it gets deliciously disciplined. 😄  
 You’ve done instinct.  
@@ -278,7 +283,8 @@ A) Practice by outlining your next planned scene using this framework?
 B) Take an existing scene and dissect it structurally?
 C) Or build a master arc map for Book 2 before drafting further? 😄
 
-<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
+
 
 
 
@@ -289,6 +295,10 @@ C) Or build a master arc map for Book 2 before drafting further? 😄
 
 
 ## 🧱 Your Scene Spine
+
+
+[![Charlie][St03a]{ .artR width="460" }][St03a]
+
 
 **Tightened (Same content, cleaner structure)**
 
@@ -322,7 +332,7 @@ The smile at Landsborough. Charli smiles back automatically — then feels the r
 
 Perfect exit. Beautifully “still has much to learn” without stating it.
 
-<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -333,6 +343,10 @@ Perfect exit. Beautifully “still has much to learn” without stating it.
 
 
 ### 🛠️ Template
+
+
+[![img][St05a]{ .artR width="460" }][St05a]
+
 
 **Cleanly in Zed**
 
@@ -379,7 +393,7 @@ You delete the scaffolding later.
 But during drafting?
 It’s guard rails.
 
-<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -393,6 +407,10 @@ It’s guard rails.
 
 
 ## Emotions
+
+
+[![The Wardrobe][St11a]{ .artR width="460" }][St11a]
+
 
 Hi you 🌿
 Oh, I *love* that you’re building a quiver. That’s exactly how voice gets stronger — not by avoiding repetition, but by having options so you can choose the one that fits the moment. You’re after **positive overwhelm** — not lust, not melodrama — but that sudden rush of love or belonging that almost knocks cognition sideways. Here are a variety of sensory-grounded alternatives, each leaning slightly different in texture:
@@ -503,11 +521,19 @@ That’s the difference between writing emotion and writing embodiment. And embo
 
 If you’d like next time, we can build a “Do Not Use” list too — the phrases you keep tripping over — and replace them with calibrated alternatives. That kind of internal editing toolkit is gold over the long run.
 
+<hr class="section-break strong" />
 
 
 
 
 
+
+
+
+## Tight Throat
+
+
+[![Charlie][St15a]{ .artR width="460" }][St15a]
 
 
 Hi Robyn 💛
@@ -723,7 +749,7 @@ So you can literally scan a scene and go: *ok, I used throat/eyes/stomach alread
 
 But even without that: with the swaps above, this excerpt will instantly feel more varied without losing Charli’s anxious-wire consistency. ✨
 
-
+<hr class="section-break strong" />
 
 
 
@@ -738,7 +764,9 @@ But even without that: with the swaps above, this excerpt will instantly feel mo
 
 ## New Site Challenges
 
-<img src="/assets/images/emily/260219ad.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![Charlie][St17a]{ .artR width="460" }][St17a]
+
 
 Oh this is a deliciously practical question. 🧵✂️
 And it’s exactly the kind of grounded texture that will make the Maleny expansion feel real rather than “set dressing.”
@@ -888,7 +916,7 @@ If you’d like, I can:
 
 Your instincts are excellent here. You’re building texture, not drama — and that’s how grown-up fiction breathes. 🧡
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -899,7 +927,7 @@ Your instincts are excellent here. You’re building texture, not drama — and 
 
 ## Audio Test
 
-<img src="/assets/images/emily/260219ae.jpg" style="float: right; width: 420px; margin-left: 20px" />
+[![Charlie][St19a]{ .artR width="460" }][St19a]
 
 I wrote Celeste’s Girl because I’m tired of two lies.
 That womanhood is a costume.
@@ -920,257 +948,20 @@ Celeste’s Girl is my love letter to women’s work. To chosen family. And to t
 
 It’s also a quiet insistence that trans women are not an enemy camp… but some of the keenest, most motivated allies women will ever have in dismantling the structures that harm us all.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
+[Bnr03b]: ../assets/images/story/Bnr03b.jpg
 
+[St00]: ../assets/images/story/00Writer.jpg
+[St03a]: ../assets/images/story/Scene03a.jpg
+[St05a]: ../assets/images/story/Scene05a.jpg
+[St11a]: ../assets/images/story/Scene11a.jpg
+[St14a]: ../assets/images/story/Scene14a.jpg
+[St15a]: ../assets/images/story/Scene15a.jpg
+[St17a]: ../assets/images/story/Scene17a.jpg
+[St19a]: ../assets/images/story/Scene19a.jpg
+[St21a]: ../assets/images/story/Scene21a.jpg
 
-<!--
 
-
-
-##
-
-<img src="/assets/images/emily/260219af.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219ag.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219ah.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219ai.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219aj.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219ab.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219ap.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219ac.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219ar.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219aa.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219at.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219au.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219av.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219ay.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219az.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-/-->
-
-<hr style="height:24px;border-width:0;color:blue;background-color:blue">
-    
-
-
-
-
-
-?{:\x1-M`7L^ObF.
+😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 —
