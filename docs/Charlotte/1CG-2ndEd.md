@@ -3,8 +3,10 @@
 
 [![Wardrobe][Br01a]{ .artC width="1100" }][Br01a]
 
+Updated to: =EDIT=
 
 <hr class="section-break strong" />
+
 
 
 
@@ -5422,7 +5424,7 @@ And boredom—sweet, structured boredom—was how we were going to survive.
 [![Charlie][S24a]{ .artR width="460" }][S24a]
 
 
-[ *Celeste* ]
+[ Celeste ]
 
 I cleared the table the way you clear a bench before you do something you can’t afford to botch. Not ceremoniously, but quietly, completely. Mug rings wiped away. Crumbs vanished into my palm. The loose thread someone had left like a dead spider got flicked into the bin. I laid everything out with that flat, clinical care you see in a good salon when the colourist lines up foils. You’re not playing at precision: you’re committing to it.
 
@@ -5442,29 +5444,29 @@ The first invoice I opened was for thread: ten spools, quality, not cheap. The s
 
 My phone vibrated. A message from Lauren.
 
-**How are the numbers?**
+How are the numbers?
 
 I stared at it, thumb hovering, and realised I’d been waiting for that question the way you wait for someone to come stand beside you at a lookout, so you can stop pretending you’re fine with the height by yourself.
 
-**Doing them now** 
+Doing them now 
 
-Then, without thinking, added: 
+Then, without thinking, changed it to: 
 
-**We’re doing them now**
+We’re doing them now
 
 I didn’t even notice the word until it was sent.
 
-*We.*
+We.
 
 As if it was already decided. As if routing someone into “we” was as simple as changing a pronoun in a text. I set the phone down face-up, daring the universe to correct me.
 
 Footsteps in the hallway: soft, familiar. Not Mara: Mara’s steps had a blunt certainty, like she was driving nails into the floorboards simply by walking. These were lighter, careful—someone who’d learned to move quietly in other people’s spaces.
 
-Charlie paused at the doorway like he was checking whether his presence would be tolerated by the air itself, looking like someone you’d find in the margins of a library: delicate, intent, carrying too much thought in too thin a frame. His hair was still damp at the edges, as if he’d run water over it and then forgotten to finish the job. Same wrinkled shirt and oversized jeans. Ancient sneakers. There was a faint smear of pencil on his thumb.
+Charlie paused at the doorway like he was checking whether his presence would be tolerated by the air itself, looking like someone you’d find in the margins of a library: delicate, intent, carrying too much thought in too thin a frame. His hair was still damp at the edges. Same wrinkled shirt and oversized jeans. Ancient sneakers. There was a faint smear of pencil on his thumb.
 
 He saw the table and went still.
 
-“Is this… a job you need me to do?” he asked, voiced carefully, trying to sound casual while bracing for impact.
+“Is this… a job you need me to do?” he asked, his voice careful, trying to sound casual while bracing for impact.
 
 “It's a job for us.”
 
@@ -5472,29 +5474,25 @@ His eyes flicked up. I tapped the chair opposite mine with two fingers.
 
 “Sit.”
 
-He sat.
+He sat, carefully.
 
-That was the thing about Charlie: he was better at compliance when the rules were clear. I slid the ledger toward him, open to the column headings Mara had ruled with that severe, beautiful logic of hers.
+That was the thing about Charlie: he was better at compliance when the rules were clear, and his compliance was never haphazard. I slid the ledger toward him, open to the column headings Mara had ruled with that severe, beautiful logic of hers.
 
 “Read it.”
 
 His eyes moved down the page. Movement. Stress. Failure points. Fix applied. Re-test. Signed.
 
-“This is… intense.”
+“This makes it look like I knew what I was doing.”
 
-“Actually, it’s boring,” I corrected. “That’s why it works.”
+“You did know what you were doing. That’s why Mara wrote it down.”
 
 He let out a faint breath that might have been a laugh.
-
-
-[![Charlie][S24a]{ .artR width="460" }][S24a]
-
 
 I pointed at the laptop.
 
 “Open the spreadsheet. Tab marked January.”
 
-He reached for it. He wasn’t a finance person—he didn’t have the swagger of someone who’d been told numbers were his territory—but he had the kind of competence that comes from caring. The kind that doesn’t seek applause. I watched him centre the window, bring up the sheet, start studying the numbers.
+He reached for it. He wasn’t a finance person—he didn’t have the swagger of someone who’d been told numbers were his territory—but he had the kind of competence that comes from being fastidious to a fault. The kind that doesn’t seek applause. I watched him centre the window, bring up the sheet, start studying the numbers.
 
 “Now,” I said, flipping an invoice so it faced him, “tell me what you see.”
 
@@ -5502,18 +5500,21 @@ He leaned forward; a strand of hair fell across his forehead. He didn’t push i
 
 “I see thread,” he said. “And… we’re paying more than last month.”
 
-“Yes, *we* are.”
+“Yes, we are.”
 
 He glanced up again, and something in him adjusted at my emphasis. 
 
-*We.*
+We.
 
-*This is about us. We do this.*   
-*Not you.*   
-*Not I’ll cover it.*   
-*Not I’ll handle it like a man.* 
+This is about us. We do this.   
 
-**We.**
+Not you.   
+
+Not I’ll cover it.   
+
+Not I’ll handle it like a man. 
+
+We.
 
 He looked back down.
 
@@ -5523,57 +5524,85 @@ I nodded.
 
 “Exactly.”
 
-He went quiet after that, pulling the calculator closer, checked a couple of sums, then typed the numbers into the sheet with a neat, almost reverent care.
+He went quiet after that, pulling the calculator closer, checked a couple of sums, then typed the numbers into the sheet with gentle taps on the keyboard.
 
 A useful silence formed.
 
-And in that silence, watching him work—head down, shoulders tucked into the task—something in my nervous system unclenched. Like a knot you didn’t realise you were carrying until it releases.
+He worked carefully, one finger holding his place while he copied the figures across. Not quickly or with any theatrical flourish of competence. He checked the line twice before entering the number, then glanced back at the stays lying on the table as if the cloth itself might object if he got it wrong.
+
+I had expected to supervise. Correct him, probably. Keep one eye on his mistakes while I did my own thinking around him.
+
+But after a minute I stopped watching for errors.
+
+He was doing it properly. Worse, he was doing it in exactly the way I would have wanted it done if I had thought to ask. More than that, he was doing it quietly. Methodically, as if the work mattered completely, and his role in doing it mattered not at all.
+
+Something in me eased, like a knot I hadn’t known I was carrying until it released.
 
 Relief.
 
-Instinctively, the whole tension-release thing felt ridiculous. I didn’t need taking care of, not by anyone. I certainly didn’t need a man. I didn’t need anybody to rescue me from my own competence.
+Initially, I was puzzled by the whole tension-release thing. I didn’t need taking care of. Certainly not by a boy who still looked startled whenever Mara entrusted him with a pencil. I didn’t need anyone rescuing me from my own competence.
 
 I had this. I was good.
 
-And yet, having him there, on the other side of the table, quietly, steadily working, made something stop tilting that I hadn’t realised was tilting. I watched him work and realised, with bizarre, needle-sharp clarity, that I was starting to depend on him. It wasn’t romantic. It was structural, the way you depend on a beam once you’ve built the roof.
+But that wasn’t what he was doing.
+
+He wasn’t taking over. He wasn’t performing competence at me. He wasn’t trying to become necessary by making himself large. He was doing the opposite. Making himself small enough to fit the work. Useful enough that the work changed shape around him. I watched him work and realised that I was starting to depend on him. 
+
+Earlier, I had identified his attitude as compliance—I had been calling it compliance because that was the nearest word, and because it made the whole thing sound simpler than it was. Compliance sounded like obedience. It sounded like yielding.
+
+But Charlie was not haphazardly obedient. That was the part people missed. Give him a vague expectation and he panicked into chaos dressed as usefulness, trying to fix, solve, provide—all those noisy little verbs boys were handed before they were old enough to know whether any of them fit.
+
+Give him a clear rule, though, and he changed. He settled. He became accurate.
+
+Watching him copy the figures, check the column, and glance back at the stays as if the cloth had the right to be represented honestly, I understood something I should have understood earlier.
+
+The role of 'provider' did not suit him.
+
+However, that of quiet structure did. 
+
+Which left me with an inconvenient problem. If I wanted him to stop lunging after the wrong kind of usefulness, I had to give him the kind that fit.
+
+Load carried without display. The beam no one praised because the roof had not fallen in.
 
 Structural. 
 
-What sort of role is that? 
+I watched him work, fingertips against my forehead.
 
-Who fills that sort of role? 
+What sort of person naturally carries out that kind of role? Who just quietly does their job, not expecting recognition? Who doesn’t flinch when something else gets put on their plate?
 
-Who just quietly does their job, not expecting recognition? 
+The realisation made me sit up straight.
 
-Who doesn’t flinch when something else gets put on their plate?
-
-The realisation made me sit up straight. It was the sort of thought one cannot argue with. It was not emotional at all. Certainly not romantic. And it wasn’t a kind thought, either. It was simply: accurate.
+It was the sort of thought one cannot argue with. It was simply—accurate.
 
 Wife.
 
-He’s my wife.
+Charlie’s my wife.
 
 The dissonance hit at once. The word was so gendered it jarred. I tried to swap it for something safer, something less loaded, something that carried the same shape.
 
 Nothing else fit.
 
-Wife, not in clothes, not in name, not yet in the way anyone else would mean it—but in function. Labour that doesn’t get a spotlight and doesn’t ask for one. Support: the kind that keeps the whole place standing while most people only notice the roof.
+Wife, not in name, nor yet in the way anyone else would mean it—but in function. Labour that doesn’t get a spotlight and doesn’t ask for one. Support: the kind that keeps the whole place standing while most people only notice the roof.
 
 The part that made my stomach go so tight it ached wasn’t the thought itself.
 
-It was that I dreaded losing it.
+It was that I dreaded losing access to it.
 
-I realised what this  meant. Sooner or later, I would have to define it: not just to myself, but to Charlie, to Wardrobe — to everyone. Spell it out. Clearly. As a boundary.
+I realised what this meant. Sooner or later, I would have to define it: not just to myself, but to Charlie, to Wardrobe—to everyone. Spell it out. Clearly. As a boundary.
 
 Charlie’s my wife.
 
-The sheer enormity of what I was contemplating gave me pause. There had to be another way to name it. A safer way to frame his role. I went over the options again.
+The sheer enormity of what I was contemplating gave me pause. There had to be another way to name it. A safer way to frame his role. 
+
+I went over the options again.
 
 And came up empty-handed.
 
 There was nothing else.
 
-Wife. That’s it. The concept solidified. Positive outcomes suggested themselves. Defining the role to Charlie would go a long way in resolving a looming problem: one that would have a negative impact on his relationship with Wardrobe. I had already seen that old provider story, that old expectation of himself, trying to crawl back in whenever he sensed a need — a reflex that wouldn’t die. I could see it in the way his shoulders tensed whenever a cost spiked, as if the numbers were personally accusing him.
+Wife. 
+
+That’s it. The concept solidified. Positive outcomes suggested themselves. Defining the role to Charlie would go a long way in resolving one looming problem: one that would have a negative impact on his relationship with Wardrobe. I had already seen that old provider story trying to crawl back in whenever he sensed a need—a reflex thanks to years of misguided expectations. I could see it in the way his shoulders tensed whenever a cost spiked, as if the numbers were personally accusing him.
 
 The provider fantasy wasn’t dead. Just dormant.
 
@@ -5589,19 +5618,25 @@ My first instinct was to snap at him, because snapping is easy and I’m very go
 
 But I didn’t.
 
-I looked at him for a long moment instead — long enough that he started to fidget. He noticed himself fidgeting and stopped. Then, a second later, fidgeted again. He was trying so hard. Which mattered.
+I looked at him for a long moment instead—long enough that he started to fidget. He caught himself fidgeting and stopped. Then, a second later, fidgeted again.
 
-“No,” I said finally. A breath. Calm. “Look, you don’t get to buy your place here.”
+“No,” I said finally. A breath. Calm. “That’s not the job that needs doing.”
 
-His eyes widened a fraction. I held his gaze and softened the next sentence without weakening it.
+He blinked. “What do you mean?”
 
-“You don’t have to earn us,” I said. “You just have to work with us.”
+“The job that needs doing is not: running at the loudest part of the problem.”
 
-Work with us.
+His mouth opened, then shut again. I saw the reflex pass across his face: fix it, solve it, be useful before someone decided he was extra weight. I softened my voice, not because I had changed my mind, but because I wanted him to hear the useful part.
 
-Not for me. Not as my man. Not as a hero.
+“That’s not where you’re useful.”
 
-With.
+He looked down at the ledger.
+
+“You’re far more useful long before that,” I said, “before a problem has time to get loud. You notice strain. You remember what moved. You write down the boring little facts everyone else wants to skip because they’re uninteresting.”
+
+I tapped the column headings Mara had ruled so neatly. Movement. Stress. Failure points. Fix applied. Re-test. Signed.
+
+“That is where you do the most good. Not by charging in. By making sure fewer things need charging into. That's not smaller work. It's far more valuable—it's earlier work. A stitch in time.”
 
 The tension in his shoulders didn’t vanish, but it changed shape—the difference between bracing for a punch and bracing to lift a weight.
 
@@ -5609,53 +5644,59 @@ He swallowed.
 
 “Okay,” he said. Quiet. Real. “Okay.”
 
-He looked back down as if grateful to be given something concrete.
+He looked back down as if grateful to be given something concrete. Or, perhaps, that an old rule no longer applied to him.
 
 “Then… tell me what you want me to look at next.”
 
-I didn’t miss the phrasing.
+I looked at him for half a second longer than I meant to.
 
-Not what should I do. Not how can I help. Not I’ll take care of it.
+Not what do I do?
 
-Just: tell me.
+Not I’ll fix it.
+
+Tell me.
+
+Good.
 
 I slid the next envelope across.
 
 “Waste,” I said. “Find me waste.”
 
-He nodded.
+He nodded, already reaching for the pencil. No performance, just the next clean edge of the task. I watched him bend over the numbers again and felt the shape of the room alter by one quiet degree.
 
-As he bent over the numbers again, pencil tapping once against the table, it hit me with a certainty I couldn’t argue with: this was exactly the right time to test the water.
+Wife.
 
-Not with clothes. Not with pronouns — not yet.
+The word appeared so cleanly I almost resented it.
 
-With structure.
+Not wife as in girl. Not wife as in dress-up, or whatever idiotic thing someone like his dad or Graham would come up with if allowed near the thought. Wife as in structure. Wife as in the person who knows where the scissors are, what has already been tried, who needs feeding, which seam is lying, and when to stop someone important from making a stupid decision because they are tired.
 
-With language.
+Wife as in: the work did not wobble when she was there.
 
-With we.
+I waited until his pencil stopped.
 
-Because the safest, sanest way to change someone’s life isn’t to push them off a cliff. It’s to build a room around them so gradually they stop remembering what it felt like to stand outside.
+“When we take this to Mara,” I said, “we’ll need the waste figures clean.”
 
 I picked up my phone and typed to Lauren before I could overthink it:
 
-Numbers are stabilising. Waste is the target. We’ve got Charlie on it.
+Numbers are stabilising.   
+
+Waste is the target.   
+
+We’ve got Charlie on it.
 
 Then I added, almost without meaning to:
 
-He’s good. We’ll keep him close.
-
-Chosen-ness, delivered like a logistical note. No theatre. No confession. Just a preference stated as fact.
+He’s good. I’m keeping him on this.
 
 I sent it.
 
 Across the table, Charlie looked up as if he’d felt the air shift. He caught my eye. He didn’t smile. He didn’t try to charm. He just waited: present, attentive, ready.
 
-And I realised something else, unexpectedly sharp: I didn’t need him to be a man. At all. In fact, quite the opposite. I didn’t even need him to be anything at all yet.
+And I felt, with unexpected force, how badly I did not want him to spoil it. Not by taking charge. Not by puffing himself up into some borrowed idea of usefulness. Not by becoming loud simply because boys were taught that quiet work did not count.
 
-I needed him to stay exactly like this — quiet, steady, inside the “we” — long enough for the old story in him to finally starve.
+I needed him here. Like this. Quiet, steady, inside the we, long enough for the old instruction in him to lose its grip.
 
-“Good,” I said once, when he circled a waste line item and drew a neat arrow.
+“Good,” I said, when he circled a waste line item and drew a neat arrow.
 
 He blinked at the word like it warmed him. Then he went back to work.
 
@@ -5673,24 +5714,132 @@ More like a plan.
 
 
 
-<!--
+
 ## 25 Definitions ✨
 
 [ *Celeste* ]
 
-The table stayed cleared. Not because I was being precious about it, but because the minute you let paper drift, you let thinking drift, and then you’re back to improvising your way into errors you could have prevented with ten seconds of discipline.
+The table stayed cleared after lunch. Not because I was being precious about it, but because the minute you let paper drift, you let thinking drift, and then you’re back to improvising your way into errors you could have prevented with ten seconds of discipline.
 
 The ledger remained open where we’d left it, its columns like rails. The invoices sat squared. The swatches were still pinned and flagged, as if they were specimens. The cheap calculator hadn’t moved an inch. Charlie had arranged his pencil and ruler parallel to the table edge without realising he’d done it.
 
-Order is contagious. So is anxiety. The trick is to choose which one you’re spreading.
+Order is contagious. So is anxiety. The trick is to choose which one you’re spreading. Charlie worked quietly, head bent, and I watched him the way you watch a new stitch line under tension, waiting to see where it would pull.
 
-He worked quietly, head bent, and I watched him the way you watch a new stitch line under tension, waiting to see where it would pull.
+The door burst open, and a paper bag landed on the table in front of me.
 
-The numbers weren’t the problem.
+“They didn't have chicken,“ Sarah said.
 
-He was.
+I peered at the rice paper rolls at the bottom of the bag.
 
-Not because he was failing: because he was succeeding in a way that threatened to wake the old story in him. Every clean solution made that reflex twitch: earn her gratitude; prove you matter; buy your place. Wardrobe didn’t do gratitude as payment. Wardrobe did standards. And I needed him to understand the difference before the habit hardened into entitlement.
+“Tofu?”
+
+“That's all they had.“ She turned to Charlie, who was still focused on the worksheet. “Hey, fashion statement, got you something.“ She pressed a Woolies shopping bag against his chest. ““Let’s just say I’m sick of the apologetic laundry-basket look.” Charlie's eyes grew wide as he retrieved two pairs of jeans and a T-shirt that was soft, narrow through the shoulders, and shaped enough to suggest someone had expected the wearer to possess a body rather than apologise for one.
+
+“Jeans,” Sarah said. “Ones that fit intentionally. And before you make that wounded woodland-creature face, they were four dollars. You can thank me later.”
+
+“Um, this T-shirt—“ he began.
+
+“Goes perfect with the jeans,“ Sarah cut in. Charlie looked at me, his jaw moving.
+
+“What size jeans did you get?“ I asked Sarah, ignoring him.
+
+“Ten,“ she said. “And I think that's ambitious.“ She frowned at him. “What?”
+
+He continued with the goldfish impression.
+
+“Charlie, go try them on, won't you?“ I said gently. 
+
+“Charlie’s been working miracles here on the spreadsheet,” I told Sarah as he disappeared behind the testing curtain. “Biggest issue is waste.”
+
+“And here I thought it was poor self-care.”
+
+“Sarah.”
+
+“What? I’m multi-tasking.”
+
+“Charlie is not a fashionista, granted—”
+
+“There are a lot of rungs on that ladder.”
+
+I sighed. “His clothes are always clean.”
+
+“The op-shop I got those jeans from would reject them.”
+
+“That’s not the point.”
+
+“It is a point. Possibly a public health one.”
+
+I stopped.
+
+Charlie stood beside the table, eyes as big as I’d ever seen them.
+
+The jeans fit. That was not the startling part. The startling part was how ordinary he looked once his clothes stopped apologising for him.
+
+And Sarah was right: the top did go well with the jeans. It did what his old shirts had spent months refusing to do: it admitted there was a person inside the fabric.
+
+Sarah looked him over with professional satisfaction.
+
+“Very nice,” she said. “Celeste?”
+
+I tipped my head to the side.
+
+It was an improvement. More than one.
+
+“You okay?” I asked him.
+
+He nodded slowly and glanced over at Sarah, who gave him a cheery grin.
+
+“Welcome to the civilised world,” she said. “And before you sulk, I looked at your waste sheet. Clean work. Annoyingly clean.”
+
+Charlie blinked.
+
+“That’s a compliment,” Sarah added. “Don’t make it weird.”
+
+He swallowed and settled carefully into his stool in front of the laptop. I slid an envelope toward him.
+
+“Keep tracing waste,” I said. “Flag anomalies.”
+
+He took it. He leaned into the mundanity like it was the point, because it was.
+
+A knock sounded at the doorway.
+
+Mara appeared without apology. She didn’t look at Charlie first. She looked at the table: the layout, the posture of the room.
+
+“Numbers?”
+
+“Stable,” I said. “Waste is the target. He’s flagging anomalies.”
+
+“I’ll mark anything that scales wrong,” he said simply.
+
+Mara watched him one beat longer than politeness required. She lifted her chin: acceptance, the kind you earn.
+
+“Good,” she said. And to me: “Re-test schedule. Off-white petticoats. Seam stress is shifting.”
+
+“Put it in,” I said to Charlie. Charlie reached for the pen and opened to the right page. He wrote:
+
+RETEST — OFF-WHITE PETTICOATS — SEAM-STRESS SHIFTING
+
+and left the signature spaces.
+
+Mara’s gaze flicked to the ledger.
+
+“If he’s doing it properly,” she said to me, “keep him on it.”
+
+Then she was gone.
+
+Charlie looked at the signature spaces.
+
+“Do I sign?”
+
+“Not yet,” I said. “But you will.”
+
+It was time for clarity, for definitions. Charlie kept succeeding in ways that threatened to wake an old, highly inaccurate and inconvenient story in him. Every clean solution made that reflex twitch: 
+
+*earn her gratitude; 
+prove you matter; 
+buy your place.* 
+
+He needed to understand that Wardrobe didn’t do gratitude as payment. Wardrobe did standards. The difference needed to be clear before the habit hardened into entitlement.
 
 I let him close the loop properly: sum, verify, enter, check.
 
@@ -5704,35 +5853,65 @@ He looked up, cautious. Thinking like the ledger.
 
 “Work,” he said. “Support.”
 
-“Correct,” I said. “Now we name it.”
+“Correct,” I said. “And who is the most supportive person you know?”
 
-I met his gaze calmly.
+He frowned, then glanced up at me.
+
+“You?”
+
+I shook my head.
+
+“Support, Charlie. Think. Someone who was the glue in your life, who found answers to questions before they were asked, who never asked for recognition but who was indispensable.”
+
+He stilled.
+
+“Mum.”
+
+I gave a quick nod.
+
+“That's right. Now, let me ask you. Do you feel you learned more skills from your dad or your mum?”
+
+His mouth squeezed to one side and he shrugged.
+
+“Mum, I guess.”
+
+“And from your dad? Did he teach you anything at all?”
+
+He shook his head. “Not really. He was never home and—”
+
+I held up my hand.
+
+“It's all good. You don't have to provide your dad with an alibi. The skills you have are far more useful than you realise. And you learned from your mum, not just the what, but more importantly: the how.”
+
+His face was expressionless.
+
+“So, you want me to do my job sort of like my mum would do it?”
+
+“Exactly. And you already do, Charlie. That's how you did that maths problem in Mr Greeve's class. And how you sorted pins. And how you're ferreting out waste. The essential role of quiet support.“ I let that land. “And, it has a name.”
+
+“Name?”
 
 “One word.” I let the silence do its job. “Wife.”
-
-
-<img src="/assets/images/story/Scene25a.jpg" style="float: right; width: 440px; margin-left: 20px" />
-
 
 His pencil hovered above the paper, as if his hand had forgotten its job. A small internal jolt passed through him: shoulders lifting a fraction, then settling. He took a breath, the kind you take when you’ve learned that saying the first thing you feel will only make it worse.
 
 I kept my eyes on the invoice. I didn’t pretend I hadn’t said it. Silence has weight. I let it sit. When he finally looked up, his expression was careful… recalculating.
 
-“Okay,” he said, quietly. “Define it. Define… ‘wife’. Why ‘wife—in your terms?”
+“Okay,” he said, quietly. “Define it. Define… ‘wife’. Why—'wife', in your terms?”
 
 That was the first win. Not agreement. Definition.
 
-I met his gaze. and turned the ledger slightly so it sat between us like a third party: neutral, unblinking.
+I met his gaze. Then I turned the ledger slightly so it sat between us like a third party: neutral, unblinking.
 
-“In my terms,” I said, “‘wife’ is function. No romance, no clothing. Not—” I watched his jaw tighten, “not faintly whatever you’re currently trying not to panic about.”
+“In my terms,” I said, “‘wife’ is function. Not—” I watched his jaw tighten. “Not faintly whatever you’re currently trying not to panic about.”
 
 He held still. I continued, my voice steady:
 
-“It’s the role that supports without expecting to be seen as the centre,” I said. “It’s the role that makes the machine run and doesn’t pretend the machine runs just because he showed up.”
+“It’s the role that supports without expecting to be the centre,” I said. “It’s the role that makes the machine run without pretending the machine runs because one person showed up.”
 
 A small flinch crossed his mouth. I let that land, then I tapped the ledger headings.
 
-“This is how Wardrobe works,” I said. “Logged responsibility. Shared load. Verified outcomes.”
+“That is how your Mum works, and how Wardrobe works,” I said. “Logged responsibility. Shared load. Verified outcomes.”
 
 He looked down. Movement / stress. Failure points. Fix applied. Re-test. A logic he could trust.
 
@@ -5748,17 +5927,17 @@ His shoulders eased a fraction. Boring was relief.
 
 “And—” He hesitated. Eyes flicking away and back. “And what does it do… in terms of—”
 
-In his story, it meant: worth. It meant: manhood. The script he knew. I wasn’t going to punish him for reaching for it. But I was going to correct it.
+In his story, it meant: worth. The script he knew. I wasn’t going to punish him for reaching for it. But I was going to correct it.
 
 “Being a wife doesn’t buy you anything,” I said. “It places you.”
 
 His brow furrowed.
 
-“It places you in the team,” I added, “where your work matters but your ego doesn’t get to invoice us for it.”
+“It places you in the team,” I added, “where your work matters but your ego doesn’t get to invoice for it.”
 
 He inhaled. Shallow first, then deeper.
 
-“So I’m… not supposed to be a provider.”
+“So I’m… *not* expected to be a provider.”
 
 “There are no providers at Wardrobe, Charlie,” I said, as implacable as a locked door. “Only contributors. There’s no room for that… story. Men get credit for ‘helping.’ Women get 'helping' counted as proper default behaviour. We don’t trade in credit.”
 
@@ -5766,9 +5945,13 @@ The sentence found its place in him. He could not help but recognise the archite
 
 “Okay.” Then, after a beat: “So, by your definition and in this context, what does this ‘wife’ role require? If it’s my role, what are the requirements?”
 
-There it was. The term: 'requirements'. The acceptance based on terms.
+There it was. 
 
-“Being a wife means being consistent,” I said. “No saving. No buying. Accepting direction, as you do. And when you don’t understand something,” I continued, “you do what you just did.”
+Requirements. 
+
+Acceptance, but on terms.
+
+“Being a wife means being consistent,” I said. “Accepting direction, as you do. And when you don’t understand something,” I continued, “you do what you just did.”
 
 “Ask for a definition.” His voice was soft.
 
@@ -5776,17 +5959,17 @@ There it was. The term: 'requirements'. The acceptance based on terms.
 
 “And,” he murmured, suddenly looking more intently at me, “why me?”
 
-He needed to understand: this wasn’t romance. It was operational. Still, the vulnerability his eyes reflected was unmistakable. I gave him the truth in the tone Wardrobe always used: factual, consequential.
+He needed to understand: this wasn’t romance. It was operational. Still, the vulnerability was there. Plain as chalk. I gave him the truth in the tone Wardrobe always used: factual, consequential.
 
 “Because you’re good at the kind of work that doesn’t demand applause,” I said. “Because you can hold a standard without turning it into a performance of yourself. Because you've demonstrated you're well-suited for the role.”
 
 Something in his face loosened, slightly.
 
-“You need to understand,” I added, because internal dialogues matter, “that if you keep feeding that "provider" reflex, you will end up breaking what we’re building. Not with malice at all, but with toxic habits.”
+“You need to understand,” I added, because internal dialogues matter, “that if you keep feeding that “provider“ reflex, you will end up breaking what we’re building. Not with malice, but with toxic habits.”
 
 He nodded, small and decisive. Then his voice tightened, stepping onto thin ice.
 
-“But I still don't get it… if I’m not a… provider… what am I allowed to be?”
+“But I still don't get it. What am I—allowed to be?”
 
 Allowed. There it was: the core of him. Asking permission.
 
@@ -5806,66 +5989,6 @@ He let out a breath—shaky at first, then steadier—like someone who’d been 
 
 “Okay,” he said, “tell me what to do next.”
 
-I slid an envelope toward him.
-
-“Keep tracing waste,” I said. “Flag anomalies.”
-
-He took it. He leaned into the mundanity like it was the point, because it was.
-
-A knock sounded at the doorway.
-
-Mara appeared without apology. She didn’t look at Charlie first. She looked at the table: the layout, the posture of the room.
-
-“Numbers?”
-
-“Stable,” I said. “Waste is the target. He’s flagging anomalies.”
-
-“I’ll mark anything that scales wrong,” he said simply.
-
-Mara watched him one beat longer than politeness required. She lifted her chin: acceptance, the kind you earn.
-
-“Good,” she said. And to me: “Re-test schedule. Green petticoats. Seam stress is shifting.”
-
-“Put it in,” I said to Charlie. Charlie reached for the pen and opened to the right page. He wrote:RETEST — GREEN PETTICOATS — SEAM-STRESS SHIFTING
-
-and left the signature spaces.
-
-Mara’s gaze flicked to the ledger.
-
-“If he’s learning it properly,” she said to me, “keep him on it.”
-
-Then she was gone.
-
-Charlie looked at the signature spaces.
-
-“Do I sign?”
-
-“Not yet,” I said. “But you will.”
-
-After a moment, he said softly, as if he was checking he’d understood the definition correctly: “So… when you said ‘wife’… you meant: I don’t get to belong by paying by my work. I belong by holding up my end.”
-
-“Correct,” I said firmly.
-
-He bent back over the envelope and started tracing the waste through the numbers with patient focus, as if he were mending something invisible. I watched him for a beat longer than necessary. Because I was measuring alignment, not argument.
-
-Good.
-
-I picked up my phone and messaged Lauren.
-
-He asked for definitions. He’s learning the ledger.
-
-Then, because it was true and because truth in this place was never a poem, I added:
-
-He’s fitting in.
-
-Across the table, Charlie glanced up once, as if he’d felt something shift, then returned to his work without trying to claim the moment. The belonging was already doing its work.
-
-Not by proclamation.
-
-By structure.
-
-By “we”.
-
 <hr class="section-break soft" />
 
 
@@ -5873,7 +5996,7 @@ By “we”.
 
 
 
-
+=EDIT=
 
 ## 26 Boring Miracles ✨
 
