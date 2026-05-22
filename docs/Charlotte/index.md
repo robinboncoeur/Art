@@ -350,5 +350,8 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 [St09a]: ../assets/images/story/09aParis.jpg
 
 
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
 
-<hr class="section-break soft" />
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
+
+<hr class="section-break strong" />
