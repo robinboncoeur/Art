@@ -50,6 +50,7 @@ There were two actresses from the Faire sitting on the bench by the windows, lac
 And Sarah—Sarah was sitting at one of the machines, leaning against the table with a satisfied grin, watching all of it like she owned shares. She saw me and her grin broadened. A grin that contained, inexplicably, both mischief and loyalty.
 
 
+---
 
 
 
@@ -57,6 +58,63 @@ And Sarah—Sarah was sitting at one of the machines, leaning against the table 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By the time Mr. Greeves started writing GROUP TASK on the board, the room had already made its decision. 
+
+You could see the room respond like a living organism: chairs quickly angling away from the back of the room, as if discomfort had coordinates; little coughs covering what no one wanted to name; everyone suddenly finding the floor fascinating.
+
+Normally, I'd watch it happen with the same detached interest I’d watch a flock of birds turn as one body: instinct, cowardice, and the lazy relief of belonging. 
+
+A well-rehearsed ritual to avoid being associated with the held-back boy. 
+
+It was such a common ritual. I normally never noticed it. 
+
+But today was different. 
+
+Today, the boy himself came into focus. Late, ridiculously so.
+
+Not the cautionary tale the room had agreed on. The person. 
+
+I stilled. 
+
+A quick flash: paper towels. A sink. Those startled doe eyes tipping up to meet mine. 
+
+Oh. 
+
+The wrong place, wrong door lad.
+
+
+
+
+
+---
+
+“Charlie.”
+
+He looked up, automatically attentive.
+
+“I’ve been employed by Wardrobe, at the historical Faire,” I continued, watching his face carefully. “A proper workplace. Think you might be interested?”
+
+The Faire employed half the local students one way or another, the way Macca’s or Hungry Jack’s did in other towns; the only difference was that here the uniforms came with petticoats, stays, linen shirts, and rules nobody could afford to misunderstand.
+
+His eyes flicked away, then back. He frowned slightly. “Wardrobe? Why me?”
+
+I stepped closer, so my answer didn’t have to compete with the corridor noise.
+
+“Because you already know how to survive without applause,” I said, “ and I need people who can keep their head. People who can do detail. People who can be invisible on purpose.”
 
 
 

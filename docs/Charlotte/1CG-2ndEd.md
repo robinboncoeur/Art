@@ -20,7 +20,18 @@ This is an edited version of the original [**Celeste's Girl**](1CG-1stEd.md) sto
 These 'scenes' were exercises in "Sensory Writing", i.e., the reader's meant to feel what the character is experiencing. Good writers do this naturally. And I'm not a writer, so this was a new skill. I hope that as each addition 'scene' comes online, the story becomes the thing, and not just a series of exercises. 
 
 
-## Introduction
+
+
+### Introduction
+
+My little “harmless” self-deprecating caveat—I’m not a writer—has been gently called into question. Wiser heads prevail. I shall no longer introduce myself by apologising for the thing I’m doing. Instead:
+
+I write character-driven fiction about gender, power, belonging, and the women who build the rooms other people survive in. I’m not formally published in the traditional sense, and I’ve had AI as a drafting partner, but I’ve been working seriously on a long fiction project about gender, belonging, and women’s authority and agency. I’m still learning, but I care about the craft.
+
+
+
+
+### Purpose
 
 [![Charlotte][St00a]{ .artL width="360" }][St00a]
 
@@ -188,21 +199,31 @@ I don’t always leave it alone.
 
 [ *Celeste* ]
 
-By the time Mr. Greeves started writing *GROUP TASK* on the board, the room had already made its decision.
+By the time Mr. Greeves started writing GROUP TASK on the board, the room had already made its decision. 
 
-It wasn’t an official decision, not one you could point to in a rulebook, but it lived in the way chairs angled away from the held-back boy, in the little coughs people used to cover their discomfort, in the speed at which everyone suddenly found the floor fascinating. I watched it happen with the same detached interest I’d watch a flock of birds turn as one body: instinct, cowardice, and the lazy relief of belonging.
+You could see the room respond like a living organism: chairs quickly angling away from the back of the room, as if discomfort had coordinates; little coughs covering what no one wanted to name; everyone suddenly finding the floor fascinating.
 
-And then—late, ridiculous—the boy himself came into focus. Not the role. Not the cautionary tale the room had agreed on. The person.
+Normally, I'd watch it happen with the same detached interest I’d watch a flock of birds turn as one body: instinct, cowardice, and the lazy relief of belonging. 
 
-A quick flash: paper towels. A sink. Those startled doe eyes tipping up to meet mine.
+A well-rehearsed ritual to avoid being associated with the held-back boy. 
 
-Oh.
+But today was different. 
+
+Today, the boy himself came into focus. Late, ridiculously so.
+
+Not the cautionary tale the room had agreed on. The person. 
+
+I stilled. 
+
+A quick flash: paper towels. A sink. Those startled doe eyes tipping up to meet mine. 
+
+Oh. 
 
 The wrong place, wrong door lad.
 
 I’d stood in the ladies’ and looked straight at him, and my brain hadn’t filed him as anyone from class because in class he wasn’t anyone you recognised—he was just a space people avoided.
 
-That was the trick of it: you can notice what a room does to someone without ever granting them the dignity of being properly seen. However, once you’ve seen someone, seen them *properly*, you can’t pretend you haven’t. And even then, some people don't resolve into a tidy equation.
+That was the trick of it: you can notice what a room does to someone without ever granting them the dignity of being properly seen. However, once you’ve seen someone, seen them properly, you can’t pretend you haven’t. And even then, some people don't resolve into a tidy equation.
 
 Mr. Greeves tapped the chalk like it had personally offended him. 
 
@@ -210,23 +231,25 @@ Mr. Greeves tapped the chalk like it had personally offended him.
 
 A few kids chuckled. Not because it was funny—because it was socially expedient.
 
-“Pairs,” he said, underlining it twice. “Pick a question from the set. Solve it. Then produce a one-page explanation that someone *else* can follow. If you can’t explain it, *you* don’t understand it.”
+“Pairs,” he said, underlining it twice. “Pick a question from the set. Solve it. Then produce a one-page explanation that someone else can follow. If you can’t explain it, you don’t understand it.”
 
 There was the usual scrape of chairs, the low panic of social arrangements. Everyone moved fast, because speed looked like confidence. 
 
 I didn’t move. I didn’t need to. People came to me.
 
 “Celeste, want to—”  
+
 “Celeste, I saved you a—”  
+
 “Celeste, I already have—”
 
 I gave them my polite face and none of my answer. My attention drifted to the back left, where Charlie sat. The boy of wrong place, wrong door. Uncollected, like something considered worthless, and therefore never properly looked at. 
 
-And so, I had a proper look.
+I had a proper look.
 
-He wasn’t particularly strange or unsightly. Yes, he was thin. And short—shorter than most of the boys, which seemed to bother them more than it bothered him. His uniform shirt sat awkwardly on his frame—too big at the shoulders, too loose at the waist—as if whoever gave it him hoped he would grow into it.
+He wasn’t particularly strange or unsightly. Yes, he was thin. And short—shorter than any of the boys, which seemed to bother them more than it bothered him. His uniform shirt sat awkwardly on his frame—too big at the shoulders, too loose at the waist—as if whoever gave it him hoped he would grow into it.
 
-I knew I should have clocked him, in the loo. I’d just never noticed him in class. Nobody did. The held-back boy. The one who re-did Year 11 because maths had eaten him alive the first time. People said it with the same tone they used for a failed appliance: *still doesn’t work.*
+I knew I should have clocked him, in the loo. I’d just never noticed him in class. Nobody did. The held-back boy. The one who re-did Year 11 because maths had eaten him alive the first time. People said it with the same tone they used for a failed appliance: still doesn’t work.
 
 I felt a fleeting twinge of guilt.
 
@@ -236,9 +259,13 @@ Mr. Greeves stepped from behind his desk.
 
 Charlie’s eyes flicked around the room: quick, skittish, looking down as much as he looked around, not begging, but scanning. When he realised no one was going to choose him, his mouth tightened in a familiar way: resignation borne of experience. He’d already accepted to be humiliated by the teacher as well as rejected by his peers.
 
-This had happened to him before. In this class. With this teacher. These classmates. 
+This had happened to him before. 
 
-*And I had been there? And not noticed?*
+In this class. 
+
+With this teacher and these classmates. 
+
+Which meant it had happened in front of me.
 
 “Time,” Mr. Greeves said. “Right. Charles—”
 
@@ -306,7 +333,7 @@ Charlie drew his angle bisector and then paused, frowning.
 
 He pointed. 
 
-“If you call that angle *x*… then this one has to be *x* too, because of the bisector. But the problem statement says this angle is thirty degrees, which means *x* is fifteen. Which means… your ratio is fixed.”
+“If you call that angle x… then this one has to be x too, because of the bisector. But the problem statement says this angle is thirty degrees, which means x is fifteen. Which means… your ratio is fixed.”
 
 As he spoke softly, his eyes flicked to me and away again as if he was stealing something.
 
@@ -320,7 +347,7 @@ He glanced up at me again, his hazel eyes quick, searching.
 
 There it was. The suspicion. Because kindness was too unusual, too unfamiliar. 
 
-*What did I want?*
+What did I want?
 
 “Because I hate waste,” I said.
 
@@ -332,7 +359,7 @@ His pencil hovered.
 
 He swallowed, and for a second his face did something raw, like he’d nearly believed me. I leaned closer, just enough to make my next words private.
 
-“Also,” I added, “you *are* going to owe me.” His shoulders stiffened. ”Not like that. Practical.”
+“Also,” I added, “you are going to owe me.” His shoulders stiffened. ”Not like that. Practical.”
 
 “What do you mean?”
 
@@ -358,13 +385,15 @@ I slid my notebook into my bag and stood.
 
 He looked up, automatically attentive.
 
-“I’m doing this thing after graduation,” I continued, watching his face carefully. “A project. A proper workplace. Interested?”
+“I’ve taken work in Wardrobe, at the historical Faire,” I continued, watching his face carefully. “A proper workplace. Interested?”
 
-His eyes flicked away, then back. He frowned slightly. “Why me?”
+The Faire employed half the local students, the way Macca’s or Hungry Jack’s did in other towns; the only difference was that here the uniforms came with petticoats, stays, linen shirts, and rules nobody could afford to misunderstand.
+
+His eyes flicked away, then back. He frowned slightly. “Wardrobe? Why me?”
 
 I stepped closer, so my answer didn’t have to compete with the corridor noise.
 
-“Because you already know how to survive without applause,” I said, “ and I need people who can keep their head. People who can do detail. People who can be invisible on purpose.” I grimaced. ”And because if I don’t pick you, someone else will. Someone stupider.”
+“Because you already know how to get work done without applause,” I said, “and Wardrobe needs people who can keep their heads. People who can do detail. People who can be invisible on purpose.” 
 
 His breath caught—then, he nodded once, careful, like he didn’t trust his own voice.
 
@@ -5997,145 +6026,70 @@ He let out a breath—shaky at first, then steadier—like someone who’d been 
 
 
 =EDIT=
-<!--
+
 
 ## 26 Boring Miracles ✨
 
 [ *Celeste* ]
 
-By the time it happened for me, it had already happened. That was the first thing I understood: there was no single moment where the room agreed. No vote. No declaration. No bright line you could point to and say:
-
-here, here is when we decided what he was to us.
-
-It was stronger than that, and better: it was repetition. It was the way you stop noticing a sound you once couldn’t sleep through.
+By the time it happened for me, it had already happened for the rest of Wardrobe.
 
 Wardrobe had grown a second pulse since Mara’s ledger arrived. The first pulse was the work itself: cloth, bodies, heat, the blunt honesty of fit. The second was the record of it: ink that refused to flatter, names that made claims and then held them.
 
-On the corkboard above the cutting table, the first page of wear-tests had been replaced. Then replaced again. Failures were neatly noted and fixes applied. Retests were signed. It looked like progress, the way a scar looks like healing: not pretty, but proof that the body had done the hard thing and survived.
+On the corkboard above the cutting table, the first page of wear-tests had been replaced. Then replaced again. 
 
+And then, it all went into the ledger. Tidy, meticulous, even fastidious.
 
-<img src="/assets/images/story/Scene26a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+Failures were neatly noted and fixes applied. Retests were signed. It looked like progress, the way a scar looks like healing: not pretty, but proof that the body had done the hard thing and survived.
 
+Charlie had a chair now, the 'Ledger Chair'.
 
-Charlie had a chair now.
+An old wooden chair had appeared one day and then simply stayed, tucked under the edge of the long table as if the wood itself had decided it belonged there.
 
-Not officially. Nothing in Wardrobe was official until it was written down. But the old wooden chair appeared and stayed, tucked under the edge of the long table as if the wood itself had decided it belonged there. So did his pencil: a cheap mechanical thing with a yellow eraser cap that never quite erased Mara’s chalk marks, but tried anyway.
+It was Mara’s ledger. I was fairly sure the chair was Mara’s doing too. But Charlie saw both more than she did. Charlie, the ledger and the chair became as much a fixture as the steam press and the rails.
 
-He sat with his shoulders lowered, head bent to the page, working through the loop as if he’d been born to it: sum, verify, enter, check.
+So did his pencil: a cheap mechanical thing with a pink eraser cap that never quite erased Mara’s chalk marks, but tried anyway.
 
-He wasn’t just testing garments anymore. He was testing the system, the room’s memory… the quiet guarantee that nothing slipped through the cracks simply because everyone was tired. Not asking to be forgiven for being there. Just… being useful.
+We’d finished with the Nymph line, and with that his role had shifted to Wear-test Assessor. As soon as an actress—or Sarah, or his mum—stepped behind the curtain, he would sit with his shoulders lowered and his head bent to the page, working through the test quietly, checking his notes now and again: sum, verify, enter, check.
 
-I watched him from the doorway, hand on the jamb, letting the room settle around me before I stepped in. That was a habit I’d learned the hard way. In a women’s space, you don’t arrive like a storm: you arrive like someone who understands you are not entitled to people’s nervous systems.
+A casual observer wouldn't notice him at all. That, in Wardrobe, was not invisibility. It was permission. 
+
+Since Sarah's "fashion intervention" he wore nothing else. She'd even made a point of how much he fit in now:
+
+"It used to be easy to find you, Charlie. Just look for anything scruffy, out of place, and there you were. And now?"
+
+And now, his clothes matched his work, and his hair matched both.
+
+I finally got him a few more tops—they were on special—just so he wouldn't wear out the one he wore pretty much every day. I do remember idly wondering why he had no problem with the tops when his mum had gotten him "really nice" dress shirts. Back then, he'd preferred dischevelled and hidden. 
+
+With the new tops and jeans, his attitude seemed to have changed. Now that he fit in, being seen no longer seemed to hurt.
+
+I watched him from the doorway, hand on the jamb, letting the room settle around me before I stepped in.
+
+In a women’s space, you don’t arrive like a storm: you arrive like someone who understands you are not entitled to people’s nervous systems.
 
 Lucy was sorting tape lengths into a tin like she was laying out surgical instruments.
 
 Leah had a bodice block pinned to the dress form, her fingers moving with the brisk assurance of someone who’d stopped negotiating with fabric and started commanding it.
 
-Talia was on her knees at the hem of a petticoat, seam ripper flashing, muttering to herself with the intimacy you only give a problem you fully intend to solve.
+Tahlia was on her knees at the hem of a petticoat, seam ripper flashing, muttering to herself with the intimacy you only give a problem you fully intend to solve.
 
-There were two actresses from the Faire sitting on the bench by the windows, lacing and unlacing stays under Mara’s supervision with the obedient patience of women who were paying to be uncomfortable on purpose.
+There were two actresses from the Faire sitting on the bench by the windows, lacing and unlacing stays under Mara’s supervision with the obedient patience of women who were being paid to be uncomfortable on purpose.
+
+And Sarah—Sarah was sitting at one of the machines, leaning against the table with a satisfied grin, watching all of it like she owned shares. She saw me and her grin broadened. A grin that contained, inexplicably, both mischief and loyalty.
+
+
+
+<img src="/assets/images/story/Scene26a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
+
+
 
 
 <img src="/assets/images/story/Scene26b.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 
-And Sarah—Sarah was sitting at one of the machines, leaning against the table with satisfied grin, watching all of it like she owned shares. She saw me and her grin broadened. A grin that contained, inexplicably, both mischief and loyalty.
 
-“Morning, boss.”
-
-“Don't call me that,” I replied, and stepped in.
-
-Mara didn’t look up. She rarely did when she was working—her style of governance. If she looked up at every movement, she’d spend her life reacting instead of making decisions.
-
-Charlie did look up. His eyes met mine. He nodded: tiny dip of the chin and went back to the ledger.
-
-Sarah wandered over to him. One would never think, given her easy manner, that she had once regarded him with the wary amusement she reserved for men who thought politeness was a currency that bought them access. She peered at the page he was filling in.
-
-“What’ve we got?”
-
-“Stays, green set,” Charlie answered quietly. “Wear-test number three. The grommets are holding. The waist tape shifted on the right side when she sat. I’m… noting it.”
-
-Sarah made a thoughtful sound that could have been praise if she’d been the praising type. She wasn’t. She was the type who acknowledged the world and expected it to keep up.
-
-“Problem defined,” she said. “Another boring miracle.”
-
-Charlie’s pencil paused briefly, processing. Sarah didn’t explain. She wandered off again, letting the phrase finish falling out of the air. I crossed to the worktable and set my folder down.
-
-“Any client arrivals today?”
-
-Lucy glanced at the chalkboard.
-
-“Courier at eleven. Fitting at two. Mara wants the blue gown re-checked before lunch.”
-
-Mara tapped the table once. Yes.
-
-I moved toward the gown on its stand. It was a deep indigo wool, cleaned and pressed into something that looked almost solemn. The stomacher lay beside it like a separate thought. All the pins were in a small dish, aligned as if they’d been measured. Charlie rose quietly and went to the shelf, fetched the tape, set it down beside me, and returned to his stool in one smooth movement. Intuitive. Seam-work, not trim.
-
-Helpful, but not helpful like a husband.
-
-Helpful like a wife.
-
-That was the thing. Problem wasn’t really the word for it: it was more like a pressure point. His usefulness came without hunger. No performance for applause, no angling for attention. He didn’t ask anyone to notice the work he’d done. He did the thing, quietly, and then he did the next thing.
-
-He had stopped trying to be liked. He had started trying to be correct.
-
-That’s what a women’s space responds to. Standards. Not charm.
-
-Sarah’s phone buzzed. She glanced down, thumb moving fast, and I caught the smallest flicker of her screen as she turned away. A message thread.
-
-A name.
-
-charli — no trailing e.
-
-Then it appeared again, on my phone, as if the room had reached out and tapped my shoulder.
-
-charli.
-
-I stared at it a beat too long. Spoken aloud, nothing had changed. On screens, it already had.
-
-I moved closer to the gown and pretended to focus on the seam, but I was watching the room with that particular kind of attention women develop when they’ve survived too many “small” changes that weren’t small at all. Leah’s phone buzzed next. She looked at it and snorted softly.
-
-“Tell her Charlie already fixed it.”
-
-I still heard 'Charlie'.
-
-Talia called without looking up from her hem, “Charlie, can you pass me the pins?”
-
-I still heard 'Charlie' — and yet the thought inserted itself, rudely, and would not back down:
-
-'Was it Charlie for them?'
-
-His name, spoken aloud, remained Charlie.
-
-On screens, it had become something else.
-
-Lauren arrived mid-morning, as she often did now, with a tote bag that looked like it contained either a lunch or a legal case. She didn’t announce herself. She simply entered, assessed the state of the room, and moved to where she was needed. It was one of the things I respected most about her: she didn’t make presence into performance.
-
-“Celeste,” she said, with that calm firmness that made even greeting sound like governance.
-
-“Lauren.”
-
-“I’ve had a whole slew of texts from the crew already this morning,” she said, the way a clear mind does triage. “I’m putting the important bits down before they get buried.”
-
-She went straight to the ledger. Charlie shifted slightly on his stool: readiness. Lauren stood over his shoulder and read what he’d written. I watched her face: the micro-movements, the places where she wanted to object and decided it wasn’t worth the oxygen.
-
-“Right waist tape,” she said. “Good catch.”
-
-“It… pulled when she sat.”
-
-Lauren held out her hand. “Ledger, please.”
-
-He passed it without comment. She flipped to a fresh page, wrote a quick header, then paused at the line where the wear-tester’s name would go. There was a fraction of a second—a small, visible resistance—and then she wrote fast, the way she did when she refused to dramatize a decision.
-
-Ink pressed into paper.
-
-CHARLI.
-
-It wasn’t pretty. Lauren’s handwriting never was when she was moving quickly. It was functional. It was unmistakable. She set the pencil down and closed the ledger.
-
-Charlie’s gaze followed the cover, then returned to his hands. If he noticed the spelling, he didn’t show it. And of course he wouldn’t. Spoken aloud, nothing had changed. To him it was the same sound. The same tolerable ambiguity. He seem oblivious, the way people miss earthquakes when they’re inside a building designed to sway.
-
-And I had been missing it too.
 
 
 <img src="/assets/images/story/Scene26c.jpg" style="float: right; width: 440px; margin-left: 20px" />
@@ -6169,67 +6123,7 @@ One syllable.
 
 The girl flushed. “Oh. Sorry. She.”
 
-It hit me, physically: not like trauma, like a deadbolt turning… decisive and final. The room had moved past tolerance. Past trial-phase. Past “let him have a go”. It had decided and corrected course based on that decision; unanimous, without a vote, because it didn't see any other way to have it make sense.
 
-Was it his demeanour? His quiet helpfulness? Was it the way he fit in, as no man ever would? Or could? The spelling appeared on screens the way you replace a pin placed in the wrong seam. Quick, clean, necessary. It was the spelling in their heads… because it fit.
-
-I was the only one still pretending it didn’t.
-
-Charli stood up with the garment bag and walked the actress to the fitting area. She followed him behind the curtain. He didn’t look at me, or at Sarah, or at Mara or at… anyone. He was just… doing his job. Quietly.
-
-Sarah sidled up to me with a grin like a lit match. Sarah didn’t ask for attention; she took it. She clearly saw something in my face, something too good to pass up.
-
-“Hey, girlfriend.”
-
-I didn’t dignify it with a response, just gave her a tired look. Sarah took that as encouragement: she held up her phone beside my shoulder.
-
-She scrolled.
-
-And scrolled.
-
-And on her screen it was everywhere: charli … charli … charli.
-
-Sarah grinned like someone who’d watched a seed sprout exactly where she’d planted it.
-
-Lauren set her bag down with a controlled exhale. She looked tired, end-of-an-exhausting-day tired. Her mouth was tight with the knowledge she’d already lost a clash with reality.
-
-Mara, without looking up, said, “Eat.”
-
-It was an order. It was also care.
-
-We broke for morning tea the way we did now: no bell, no announcement, just a mutual recognition that bodies needed fuel if we were going to keep holding the line. I stayed at the table longer than the others, finishing a set of notes. Charli returned from the fitting area and sat again, pencil moving. His posture was the same as always: small, contained, accurate.
-
-Sarah came back first, chewing an apple with the kind of confidence that made even eating look like a choice she’d made for the good of the team. She leaned beside me and glanced at my notes.
-
-“You’re doing the courier inventory?”
-
-“Yes.”
-
-“Good,” she said, and then, as if continuing the same practical thought: “Charli will handle the straps, yeah?”
-
-It wasn’t a question, it was a routing decision. I didn’t even look up.“Charlie will handle it.”
-
-Sarah’s apple paused halfway to her mouth. Her eyes slid to mine — sharp, fearless, the sort of gaze that could cut a thread cleanly in a single motion. Then she said, evenly, without malice and without softness:
-
-“Good. Your wife does the boring miracles.”
-
-The words landed. I waited. The room didn’t laugh. Lucy didn’t snort. Leah didn’t make a face. Talia didn’t mutter something under her breath. Even Lauren, passing behind us with her plate, didn’t correct it.
-
-Because there was nothing to correct. Not for them, anyway. Only, for me.
-
-Then, I finally saw what they saw. I saw Charli, focused on his work, his long hair down his back, his young face, earnest and quiet, no different in how he approached his work to how Lucy approached hers or the Faire actresses, theirs. I took a deep breath.
-
-Charli sat at his stool, pencil moving, head down, quietly making the system work. He wasn’t aware of a shift in the wind. Or if he was, the shift didn’t register as offensive. He was still living in the old assumption: that labels were optional, that belonging was something you could ask for.But the women in this room weren’t asking. They were deciding.I felt, in that small stillness after that moment with Sarah, the shape of the corner she’d painted me into. She did not do it maliciously, or even purposely, but with that effortless authority women have when they identify by name what is already true in fact.
-
-They had accepted Charli was my wife. It naturally followed that the room should chose the rest. If I tried to deny their facts, I wouldn’t be protecting him. I would be contradicting my own culture.
-
-I held Sarah’s gaze for one beat longer than was polite, and then, briefly closing my eyes in assent I nodded: once, slowly, in recognition of truth.
-
-Leadership sometimes means accepting the reality your people have already built.
-
-Sarah’s mouth curved. The apple crunched.
-
-And the pencil kept moving.
 
 <hr class="section-break soft" />
 
@@ -6240,7 +6134,7 @@ And the pencil kept moving.
 
 
 
-
+<!--
 
 ## 27 Stop Tiptoeing ✨
 

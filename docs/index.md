@@ -22,13 +22,13 @@ This site begins with a simple refusal:
 
 *women are* **not** *the supporting cast of human history*.
 
-For centuries, patriarchy trained societies to treat men as default and women as exception — useful, ornamental, obedient, domestic, secondary. That mindset did not merely limit women. It cancelled genius, labour, ambition, authority, anger, wit, desire, and whole lives before they were allowed to become visible.
+For centuries, patriarchy trained societies to treat men as default and women as exception—useful, ornamental, obedient, domestic, secondary. That mindset did not merely limit women. It cancelled genius, labour, ambition, authority, anger, wit, desire, and whole lives before they were allowed to become visible.
 
 These pages explore that cancellation through history, fiction, image-making, and research. The first worlds considered here are eighteenth-century France—the polished, unequal world before the Revolution—and early nineteenth-century France, where the promises of liberty had already begun to curdle into new forms of control.
 
 I am interested in what those worlds did to women: what they permitted, what they punished, what they made invisible, and what women preserved anyway.
 
-I have developed a story around these themes: one in which women do not wait politely at the margins, and one in which old assumptions are not simply questioned, but overturned. It is called [*Celeste's Girl*](Charlotte/1CG-1stEd.md). The story takes place in present-day Victoria, south of Melbourne, at a fictitious historical faire, in the Wardrobe department.
+I have developed a story around these themes: one in which women do not wait politely at the margins, and one in which old assumptions are not simply questioned, but overturned. It is called [*Celeste's Girl*](Charlotte/1CG-2ndEd.md). The story takes place in present-day Victoria, south of Melbourne, at a fictitious historical faire, in the Wardrobe department.
 
 <hr class="section-break soft" />
 
@@ -38,17 +38,21 @@ I have developed a story around these themes: one in which women do not wait pol
 
 ## The Technology
 
-The visual work here was created using ComfyUI, a node-based Stable Diffusion interface that gives me the flexibility to build, test, revise, and refine images as part of the storytelling process. The text is accompanied by audio files, which include short clips of the sort of music that provided the emotional atmosphere when I wrote. The music was created by transcribing notes from score PDFs into MuseScore, then rendering and refining the result in Reaper. Where possible, I use public-domain or otherwise permissible source material and avoid using commercial recordings.
+The visual work here was created using ComfyUI, a node-based Stable Diffusion interface to vision models. The vision models are designed for creating images based on a text prompt, or in some cases, another image. This gives me the flexibility to build, test, revise, and refine images as part of the storytelling process. 
 
-I use Large Language Models as part of my creative workflow, not as a substitute for imagination, but as a demanding collaborator: useful for research, structure, revision, and turning rough language into clean, enjoyable prose.
+The text is accompanied by audio files of the narration, recorded for the most part in ElevenLabs, a state-of-the-art Text-To-Speech audio file generator. The audio files are embellished by short clips of the sort of music that provided the emotional atmosphere when I wrote. 
 
-This is a working space.
+The music was created by transcribing notes from musical scores (PDFs) into MuseScore, then rendering and refining the result in Reaper, a digital audio workstation. I only use public-domain or otherwise permissible source material: the musical scores.
 
-*A place to learn more about women’s lives.*  
-*A place to test ideas.*  
-*A place to make images and stories.*  
+Large Language Models are a central part of my creative workflow—not as a substitute for imagination, but as a demanding collaborator: useful for research, structure, revision, and turning rough language into clean, enjoyable prose.
 
-*A place to put women back where they always belonged:* **at the centre**.
+This is my creative working realm.
+
+*A place to learn more about women’s lives*  
+*A place to test ideas*  
+*A place to make images and stories*  
+
+*A place to allow women back to where they always belonged:* **at the centre**.
 
 
 <hr class="section-break strong" />
@@ -64,7 +68,7 @@ This story is still in progress, somewhere around the middle of its second act. 
 
 Its purpose is clear: agency, respect, consent, safety, and the protection of the vulnerable.
 
-Wardrobe is built on standards. No one gets to dominate, coerce, objectify, or exercise privilege there without being seen. Harm may occur; stories need friction. But harm is not treated as spectacle, romance, or entertainment. When boundaries are crossed, there are consequences.
+Wardrobe is built on standards. No one gets to dominate, coerce, objectify, or exercise privilege there without consequences. Harm may occur; stories need friction. But harm is not treated as spectacle, romance, or entertainment. When boundaries are crossed, there are consequences.
 
 Because standards mean very little unless they are enforced.
 
@@ -74,34 +78,10 @@ This is not a story about permission to look.
 
 It is a story about who has power, who has safety, who is believed, and who is finally allowed to stand at the centre of her own life.
 
-I am not writing it to chase a market. I am writing it because the subject matters. 
+I am not writing it to chase a market. I am writing it because the subject matters to me, and out of a moral imperative. 
 
 <hr class="section-break strong" />
 
-
-
-
-
-
-
-## Update Log
-
-270Jan-2026: The image in the header is setting the stage for Act 3 of Celeste's Girl... at least, that's what I'm imagining now. There might be enough story fuel to write a whole new story. Dunno. 
-
-26-Jan-2026: took inspiration for any small effort at music from several obscure composers, one being Carl Reinecke. This is the last movement (6) from his Serenade for Strings in G.
-
-21-Jan-2026: Just editing all the scenes again, because... of course I am. Adding images and firming things up. Sarah is a hard one to create a consistent character of, even using a LoRA.  However, Emily and I cracked the code for getting consistent characters last night.
-I think.
-I hope.
-
-
-cactus (1)
-yakka (2)
-sack (3)
-larrikin (4)
-Oi (5)
-
-<hr class="section-break strong" />
 
 
 
