@@ -96,26 +96,23 @@ nav:
       - Blog Jan26: blogs/Blog2601.md
       - Blog Feb26: blogs/Blog2602.md
 
-  - Visual Art:
-      - visual/index.md
-      - 2nd Person: visual/Person2.md
-      - AI & Emily: visual/Emilyai.md
-      - BBox- SEGS: visual/BBoxSEGS.md
-      - ComfyUI 💋: visual/Comfyui.md
-      - FluxGym 👭: visual/FluxGym.md
-      - GIMP- Tips: visual/GimpTips.md
-      - QwenPrompt: visual/QwenPro.md
-      - Videos  💧: visual/Videos.md
-      - VScripts💛: visual/VScripts.md
-
   - Music:
       - music/index.md
       - Sketches: music/Sketches.md
 
-  - work:
+  - Work:
       - work/index.md
-      - Scratch Pad: work/words01.md
-      - Apr 13 Prmt: work/words02.md
+      - ScratchPad: work/words01.md
+      - Apr Prompt: work/words02.md
+      - 2nd Person: work/Person2.md
+      - AI & Emily: work/Emilyai.md
+      - BBox- SEGS: work/BBoxSEGS.md
+      - ComfyUI 💋: work/Comfyui.md
+      - FluxGym 👭: work/FluxGym.md
+      - GIMPTip 🎀: work/GimpTip.md
+      - QwenPrompt: work/QwenPro.md
+      - Videos💧💧: work/Videos.md
+      - VScripts💛: work/VScripts.md
 
 plugins:
   - search

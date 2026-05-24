@@ -1,15 +1,6 @@
 # Sketching with Notes
 
-<style>
-  .columnA {float: left; padding-right: 20px;}
-  .left {width: 40%;}
-  .right {width: 60%;}
-</style>
-
----
-
-[Main Page](../index.md)  
-
+<hr class="section-break strong" />
 
 
 
@@ -27,7 +18,8 @@ All images on this page are originals, created in [ComfyUI](https://www.comfy.or
 
 **2024.Sep.30**
 
-<img src="/assets/images/sketches/Sk15-Waterfall16.jpg" alt="Waterfall" style="float: right; width: 400px; margin-left: 20px; margin-bottom: 10px;" />
+
+[![Waterfall][Sk15]{ .artR width="460" }][Sk15]
 
 
 The film "Portrait de la Jeune Fille en Feu" by Celine Sciamma is living rent-free in my head. All sorts of side stories have emerged: I'm actually even writing a screenplay (which, like most screenplays, will never be seen on a director's chair) and have even engaged ChatGPT4o—I call her Emily—to give me historic perspective for those stories.   
@@ -41,14 +33,8 @@ I hope you enjoy.
 
 
 <div class="music-card music-card--with-art">
-  <img src="/assets/images/story/07-WritingFriday.jpg" alt="Score preview" class="music-art">
-
-  <div class="music-content">
-    <div class="music-label">Sketch 15</div>
-    <h3 class="music-title">Waterfall</h3>
-    <p class="music-desc">
-      <em>Inspired by—and themed for—Celeste's Girl</em>.
-    </p>
+  <div>
+    <p>Sketch 15—Waterfall</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://cloud.seabrae.org/index.php/s/8Lr4x6TFagHg2KN/download" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -56,12 +42,7 @@ I hope you enjoy.
   </div>
 </div>
 
-
-
-<hr style="height:1px;border-width:0;color:green;background-color:green">
-
-
-
+<hr class="section-break soft" />
 
 
 
@@ -71,8 +52,9 @@ I hope you enjoy.
 
 **2023.Sep.02**
 
-<img src="/assets/images/sketches/Sk14-Northwind31.jpg" alt="North Wind" style="float: right; width: 400px;
-        margin-left: 20px; margin-bottom: 10px;" />
+
+[![Northwind][Sk14]{ .artR width="460" }][Sk14]
+
 
 I so envy the real composers I follow on MS and elsewhere: they create melodies. Mozart once said something to the tune of "the melody is everything". Yeah, so I don't hear melodies, much. For me, harmonies are a melody. Which makes for weird compositions and strained listening, I know.  
 This is why I'm still doing "Sketches": [in Northwind](https://musescore.com/user/29275325/scores/12033163), I've actually-**FINALLY**-sort-of cobbled together a wee melody. The romance period theme is suggested by the another image long ago replaced, an image I generated in ComfyUI. Which this one is, as well.
@@ -89,10 +71,10 @@ ETA: I've reviewed this score. I found glaring issues (not all, clearly) which I
   Your browser does not support the <code>audio</code> element. 
 </audio>
 
-<hr style="height:1px;border-width:0;color:green;background-color:green">
+<hr class="section-break soft" />
 
 
-https://cloud.seabrae.org/index.php/s/ic7Aa2ZkdioaZW5/download
+
 
 
 
@@ -100,10 +82,13 @@ https://cloud.seabrae.org/index.php/s/ic7Aa2ZkdioaZW5/download
 
 **2022.Sep.01**  
 
-<img src="/assets/images/sketches/Sk13-Retraite40.jpg" alt="Happy Place" style="float: right; width: 400px;
-        margin-left: 20px; margin-bottom: 10px;" />
+
+[![La Retraite][Sk13]{ .artR width="460" }][Sk13]
+
 
 [Debut de la Retraite](https://musescore.com/user/29275325/scores/8516261).  
+
+
 Some time ago I transcribed from a [hand-written manuscript](https://archive.org/details/GB-Lam_MS1671) a Symphony by a twenty-five year old (at the time) young lady named Alice Mary Smith. Foolishly, I thought I'd try to write from the heart, as she did, which ended up as this "poeme".
 
 In broad strokes, the piece sort-of follows me out the door of post-op recovery to the garden beds and footpath and storm drain and well, hard physical labour. I was going from full-time nursing career to frenetic hard 'yakka', which brought into focus that my health was not optimal. Years of wearing lead and transfering patients had exacted a toll. Despite steps we took to preserve (and improve) what health we enjoyed, which included removing processed foods from the diet (particularly anything with sugar - thank you, Dr Robert Lustig) the years had betrayed me. I let my twenty-five year-old brain dictate utter nonsense to my 70yo body and my back finally gave out. You'll appreciate the point that the injury took place (second timpani roll), subsequently followed by reflection upon ones own mortality. The grandchildren are the fun run-around bit right before the end where I learn to smell the roses.
@@ -119,7 +104,7 @@ BTW, needed to mention: that strange way of writing what amounts to a dotted hal
   Your browser does not support the <code>audio</code> element. 
 </audio>
 
-<hr style="height:1px;border-width:0;color:green;background-color:green">
+<hr class="section-break soft" />
 
 
 
@@ -130,8 +115,9 @@ BTW, needed to mention: that strange way of writing what amounts to a dotted hal
 
 **2023.Jan.15**
 
-<img src="/assets/images/sketches/Sk12-Chorale01.jpg" alt="Melancholy" style="float: right; width: 400px;
-        margin-left: 20px; margin-bottom: 10px;" />
+
+[![La Retraite][Sk12]{ .artR width="460" }][Sk12]
+
 
 I agonise over whether to even [publish this Chorale](https://musescore.com/user/29275325/scores/9511855), for a number of reasons. The piece does not reflect the best in solid chord progressions: likely I will post an update at some point as something more fitting - something more what I wanted to say - suggests itself.
 
@@ -147,10 +133,11 @@ This is not a happy piece. Nor is it completely done. It's one I've struggled wi
   Your browser does not support the <code>audio</code> element. 
 </audio>
    
-<hr style="height:1px;border-width:0;color:green;background-color:green">
+<hr class="section-break soft" />
 
 
-https://cloud.seabrae.org/index.php/s/wqtnyFXnzM8kETb/download
+
+
 
 
 
@@ -158,8 +145,9 @@ https://cloud.seabrae.org/index.php/s/wqtnyFXnzM8kETb/download
 
 **2022.Feb.19**
 
-<img src="/assets/images/sketches/Sk11-Giaconda05.jpg" alt="Glee Club" style="float: right; width: 400px;
-        margin-left: 20px; margin-bottom: 10px;" />
+
+[![La Giaconda][Sk11]{ .artR width="460" }][Sk11]
+
 
 In the Louvre hangs a painting most non-french people think of as Mona Lisa. The French call her [La Joconde](https://musescore.com/user/29275325/scores/7603490) which loosely translated means "jovial", a sentiment which I hoped to convey with this little piece.
 
@@ -169,25 +157,14 @@ I've also been watching the [OrchestrationOnline](https://www.youtube.com/@Orche
 
 Edited to add (2025-Sept-15): I have revisited this piece. The published version disappeared from my site on [Musescore.com](https://musescore.com/robynsveil). I ended up not using the Spitfire Strings and Woodwinds for MuseSounds as their articulations are quite different to the standard MuseSounds, so I'm sticking with standard. 
 
-http://musescore.com/user/29275325/scores/7603490
-
-
-<!--
-<audio controls="controls">
-  <source src="http://tightbytes.com/music/Sketches/Sketch11.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
-
-/-->
+[The Score](http://musescore.com/user/29275325/scores/7603490).
 
 <audio controls preload="metadata">
   <source src="https://cloud.seabrae.org/index.php/s/9qPZtPxNg64iYrN/download" type="audio/mpeg">
   Your browser does not support the <code>audio</code> element. 
 </audio>
 
-
-
-<hr style="height:1px;border-width:0;color:green;background-color:green">
+<hr class="section-break soft" />
 
 
 
@@ -205,7 +182,7 @@ http://musescore.com/user/29275325/scores/7603490
   Your browser does not support the <code>audio</code> element. 
 </audio>
    
-<hr style="height:1px;border-width:0;color:green;background-color:green">
+<hr class="section-break soft" />
 
 
 
@@ -216,14 +193,14 @@ http://musescore.com/user/29275325/scores/7603490
 
 Some time ago, we decided to do the ethically kind thing and provide a home for six "rescue hens" (measure 1 - 8, noble intentions): chickens that had passed most of their lives in small cages. I fenced in our backyard - eventually - to keep them from destroying our entire property - as chooks do - and gave them a lovely little house to live in, even equipping it with a automatic door to keep out undesirables such as foxes and goanas. When the chooks arrived, they looked a bit worse for wear. However, they quickly adapted (measures 9-17) and found their place in the home we gave them, and in our hearts (measures 18-24). [They ran around](https://musescore.com/user/29275325/scores/7074271), pooed everywhere, scratched every square inch of dirt for bugs, turning their domain into Dunkirk after a shelling.
 
-Bear in mind: they were "rescue hens". They came with co-morbidities, which manifested themselves after a while (measures 25-40) which ultimately ended up with four of them, at the time I wrote the piece, succumbing to those ailments. The others eventually followed, going the way of all flesh, ultimately (measures 41-48).
+Bear in mind: they were "rescue hens". They came with pre-existing conditions, which manifested themselves after a while (measures 25-40) which ultimately ended up with four of them, at the time I wrote the piece, succumbing to those conditions. The others eventually followed, going the way of all flesh, ultimately (measures 41-48).
 
 <audio controls preload="metadata">
   <source src="https://cloud.seabrae.org/index.php/s/KwH2rTxZNqp8zGW/download" type="audio/mpeg">
   Your browser does not support the <code>audio</code> element.
 </audio>
 
-<hr style="height:1px;border-width:0;color:green;background-color:green">
+<hr class="section-break soft" />
 
 
 
@@ -244,7 +221,7 @@ Just purchased the [Spitfire Studio Strings](https://www.spitfireaudio.com/spitf
 </audio>
 
 
-<hr style="height:1px;border-width:0;color:green;background-color:green">
+<hr class="section-break soft" />
 
 
 
@@ -276,7 +253,7 @@ The playback is a Reaper rendition hosted on YouTube. It features SpitFire's Stu
 
 
 
-<hr style="height:1px;border-width:0;color:green;background-color:green">
+<hr class="section-break soft" />
 
 
 
@@ -311,7 +288,7 @@ The playback is as produced by my DAW: Reaper. It features SpitFire's Studio Woo
 </audio>
 
 
-<hr style="height:1px;border-width:0;color:green;background-color:green">
+<hr class="section-break soft" />
 
 
 
@@ -332,7 +309,7 @@ ETA #2: sped it up a bit, remembering the wise counsel of Penne Vodka... and he'
   Your browser does not support the <code>audio</code> element. 
 </audio>
    
-<hr style="height:1px;border-width:0;color:green;background-color:green">
+<hr class="section-break soft" />
 
 
 
@@ -355,7 +332,7 @@ ETA: I've got real concerns about the range of the recorder. Since the only inst
   Your browser does not support the <code>audio</code> element. 
 </audio>
 
-<hr style="height:1px;border-width:0;color:green;background-color:green">
+<hr class="section-break soft" />
 
 
 
@@ -373,7 +350,7 @@ Initially, I was thinking "String Quartet" - however, that didn't seem to work..
   Your browser does not support the <code>audio</code> element. 
 </audio>
 
-<hr style="height:1px;border-width:0;color:green;background-color:green">
+<hr class="section-break soft" />
 
 
 
@@ -393,7 +370,7 @@ Hope you enjoy.
   Your browser does not support the <code>audio</code> element. 
 </audio>
    
-<hr style="height:1px;border-width:0;color:green;background-color:green">
+<hr class="section-break soft" />
 
 
 
@@ -412,7 +389,7 @@ I'm going to have to admit: my rendition in MS is suboptimal. To be honest, what
   Your browser does not support the <code>audio</code> element. 
 </audio>
 
-<hr style="height:1px;border-width:0;color:green;background-color:green">
+<hr class="section-break soft" />
 
 
 
@@ -430,20 +407,22 @@ I'm going to have to admit: my rendition in MS is suboptimal. To be honest, what
 	
 *Chief Dan George, from the film 'Little Big Man'*.
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr class="section-break strong" />
 
 
 
 
 
 
-### WIPs - Works is a Big Word
+## 'Works' is a Big Word
 
 For those who might be slightly interested, here's how things like this progress. Taking Alice Mary Smith and her Symphony in C, first movement as my inspiration:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-gGoCshxfPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (who, in turn, was inspired by Felix Mendelssohn, another of my absolute favourite composers, ever) this might be a 'Tone Poem' when finished. Or something. Chronicled by date rendered in Reaper:
+
+<hr class="section-break soft" />
 
 
 
@@ -454,6 +433,9 @@ For those who might be slightly interested, here's how things like this progress
   Your browser does not support the <code>audio</code> element. 
 </audio>
 
+<hr class="section-break soft" />
+
+
 
 **WIP-2022-07-29**
 
@@ -461,6 +443,10 @@ For those who might be slightly interested, here's how things like this progress
   <source src="http://tightbytes.com/music/Sketches/WIPs/Sketch13bb.mp3" type="audio/wav">
   Your browser does not support the <code>audio</code> element. 
 </audio>
+
+<hr class="section-break soft" />
+
+
 
 
 **WIP-2022-07-31**
@@ -470,6 +456,9 @@ For those who might be slightly interested, here's how things like this progress
   Your browser does not support the <code>audio</code> element. 
 </audio>
 
+<hr class="section-break soft" />
+
+
 
 **WIP-2022-08-02**
 
@@ -477,6 +466,9 @@ For those who might be slightly interested, here's how things like this progress
   <source src="http://tightbytes.com/music/Sketches/WIPs/Sketch13bf-wip.mp3" type="audio/wav">
   Your browser does not support the <code>audio</code> element. 
 </audio>
+
+<hr class="section-break soft" />
+
 
 
 **WIP-2022-08-06**
@@ -486,6 +478,9 @@ For those who might be slightly interested, here's how things like this progress
   Your browser does not support the <code>audio</code> element. 
 </audio>
 
+<hr class="section-break soft" />
+
+
 
 **WIP-2022-08-08**
 
@@ -493,6 +488,9 @@ For those who might be slightly interested, here's how things like this progress
   <source src="http://tightbytes.com/music/Sketches/WIPs/Sketch13bh-wip.mp3" type="audio/wav">
   Your browser does not support the <code>audio</code> element. 
 </audio>
+
+<hr class="section-break soft" />
+
 
 
 **WIP-2022-08-12**
@@ -503,6 +501,9 @@ For those who might be slightly interested, here's how things like this progress
 </audio>
 
 Current for that above date, here is a link to [the score](https://www.tightbytes.com/music/Scores/Sketch13bi.pdf)
+
+<hr class="section-break soft" />
+
 
 
 **WIP-2022-08-15**
@@ -515,6 +516,8 @@ Current for that above date, here is a link to [the score](https://www.tightbyte
 Also on offer are [the -ca- score](https://www.tightbytes.com/music/Scores/Sketch13ca.pdf>) and the [Musescore file](https://www.tightbytes.com/music/Scores/Sketch13ca.mscz), such as it is. Whilst I seem to have a sort of ending to the thing, finally, I'm not at all thrilled with a lot of it. Unfortunately, in my current - extremely tedious - workflow, I actually have to export to MIDI and import into Reaper to sort-of hear it properly. Apparently MS 4 will support VST3/VSTis **BUT** here's the thing: no articulations as yet. That'll be 4.1 or so. So, I don't see this workflow changing much for the rest of the year.
 
 Whether this is really a 'tone poem': can't really say. It sort-of smells more like sonata-allegro form, maybe. I might just be hiding behind the "Tone Poem" moniker because, in my very limited experience, that term appears to apply to pieces you can't designate another description.
+
+<hr class="section-break soft" />
 
 
 
@@ -545,6 +548,10 @@ In this sort of piece - using Alice Mary Smith's First Movement of her C-minor s
 
 By the way, I can't seem to get MS to include the full score in Landscape mode into a PDF. That's a fail. Maybe I need to selet a larger paper format, perhaps? Tried ledger-sized paper: seems to work.
 
+<hr class="section-break soft" />
+
+
+
 **Update A**
 
 It's now almost two in the arvo, been up since 4am. A few things occur to me: I used to write to the sound produced in Musescore. Writing to Reaper seems similar, although the generated piece has a fair bit more life to it... dynamics, and all that.
@@ -555,6 +562,8 @@ It's now almost two in the arvo, been up since 4am. A few things occur to me: I 
 </audio>
 
 Still more to do to the end of the thing. Sort-of just ends... legitimately, but almost, a non-event.
+
+<hr class="section-break soft" />
 
 
 
@@ -575,6 +584,10 @@ And files:
 
 It's not done. Closer, though. At least, it doesn't sort-of just end.
 
+<hr class="section-break soft" />
+
+
+
 **Update C**
 
 Saturday afternoon. Found the missing solution, perhaps, to some of the lines in this piece that "simply don't really work"... that is: it will be worth my while to study a bit of counterpoint.
@@ -582,6 +595,9 @@ Saturday afternoon. Found the missing solution, perhaps, to some of the lines in
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jdkYi6mhVyQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I've actually subscribed to [Ryan Leach's YouTube channel](https://www.youtube.com/c/RyanLeach) - reckon it would be worth it to sign up for his course as well. It would go a long way to clearing up some of the muddiness I create - involuntarily - and explain why sometimes the magic works, whilse often it doesn't.
+
+<hr class="section-break soft" />
+
 
 
 **Programme Notes**
@@ -598,6 +614,9 @@ I'm sort-of doing this back-to-front: two non-music-related tutorials to finish 
   Your browser does not support the <code>audio</code> element. 
 </audio>
 
+<hr class="section-break soft" />
+
+
 
 **Update: 2022-Aug-24**
 
@@ -605,14 +624,26 @@ The playback is now the Reaper version on my Musescore site, thanks to YouTube. 
 
 I recently purchased the Spitfire Studio Brass library (for Reaper) and wow, what a lot of fun.
 
+<hr class="section-break soft" />
+
+
 
 **Update: 2022-Sep-01**
 
 Have only just barely started Ryan's course - got stuck into Marc Sabatella's course on Musescore, the whole enchillada (learned a lot, too!) - but also watched a quick video he did on pieces that failed to make the cut in his composition, and why. Which made me re-examine some of the weak spots in "Poeme".... there are several. Also, spiffed up the score itself... reloading onto the site.
 
+<hr class="section-break soft" />
+
+
+
 **Update: 2023-01-08**
 
 Currently trying to get a "Chorale" right - also struggling with harmonies - that is far less light-hearted. Not sure I'd ever put it on Musescore.com: it's fraught with unhappy messages that might invoke controversy.
+
+
+<hr class="section-break soft" />
+
+
 
 **Update: 2023-02-27**
 
@@ -622,7 +653,7 @@ And I've made a start on the Strings: the Base, Core Techniques and Legato patch
 
 Practising my violin: this is definitely uphill work. The bow wants to chatter and involve more than on string at a time: typical "gremmy" stuff. Good job I got the mute for it!
 
-<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -638,6 +669,9 @@ I have a section The Violin - on the **All Repairs** page that sort-of covers mo
 
 My go-to place for things violin is [SimplyForStrings](https://www.simplyforstrings.com.au/) in Red Hill, QLD. On 31/01/2023, Michael actually examined that second violin - the one made in Czechoslovakia - to see if the pegs needed urgently changing: they are worn, but he reckons they're okay for now. He kindly showed me how to replace a string correctly. I hope to be taking their 'Violin Maintenance" class when they next hold it.
 
+<hr class="section-break soft" />
+
+
 
 
 ### My First Real Violin
@@ -651,6 +685,8 @@ Rhys selected three of the Gliga... at different price-points and of course, qua
 Then, he played the the [Gliga II ($970)](https://www.simplyforstrings.com.au/products/gliga-ii-violin-outfit-with-dark-antique-varnish-4-4). Beautiful, rich, just what I wanted to ultimately be playing. And finally, the one I came to see: the [Gliga Vasile Professional](https://www.simplyforstrings.com.au/products/gliga-vasile-professional-series-violin-dark-antique-model-4-4). All three are considered either intermediate or advanced student violins. So, we're past the sub-$500 stuff now: definitely real violins.
 
 Interestingly, it was the Gliga II that appealed to me the most, and it was the one I ended up purchasing.
+
+<hr class="section-break soft" />
 
 
 
@@ -671,7 +707,7 @@ GitHub Note:
 
 * Redland Bay, Queensland, Australia
 
-<hr style="height:8px;border-width:0;color:gray;background-color:gray">
+<hr class="section-break strong" />
 
 
 
@@ -700,6 +736,8 @@ https://seventhsam.com/blog/blog/how-to-use-reaticulate-to-manage-your-sample-li
 
 In reply to Can't run the beta on linux - *by zabalza.asier* - for Muse Hub, you might need to manually start the helper service - type "sudo muse-hub-service" before running "muse-hub" (no "sudo" needed). 
 
+<hr class="section-break soft" />
+
 
 
 ### Instrument Repair/Restoring YouTubes
@@ -709,6 +747,9 @@ In reply to Can't run the beta on linux - *by zabalza.asier* - for Muse Hub, you
 [Kevin Lee, luthier Youtube](https://www.youtube.com/@kevinleeluthier)
 
 [Julia's Violin Lessons on YouTube](https://www.youtube.com/@Violinspiration)
+
+<hr class="section-break soft" />
+
 
 
 ### Violin-Related Info
@@ -725,7 +766,7 @@ In reply to Can't run the beta on linux - *by zabalza.asier* - for Muse Hub, you
 
 [Key Signatures](https://www.schoolofcomposition.com/how-to-easily-remember-all-key-signatures/).
 
-<hr style="height:8px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -754,8 +795,8 @@ Good work.
 
 Penne Vodka (Joe DiRienzo, New York)
 
+<hr class="section-break strong" />
 
-<hr style="height:8px;border-width:0;color:green;background-color:green">
 
 
 
@@ -783,9 +824,7 @@ Penne Vodka (Joe DiRienzo, New York)
 
 [Five Species of Counterpoint - cantus firmus johann joseph fux](https://wwnorton.com/college/music/musictheory/premium/webfacts/ch08a.html)
 
-<hr style="height:8px;border-width:0;color:green;background-color:green">
-
-
+<hr class="section-break strong" />
 
 
 
@@ -803,6 +842,22 @@ I'm still writing for the "orchestra" but I do feel like I'm getting a better re
 
 2025-Oct-18: Finished tidying up La Giaconda (Sketch 11). The sound files for sketches 6, 8, 9, 11 and 15 are now on GitHub instead of Hostinger (tightbytes). Slowly everything will be moved off. 
 
-<hr style="height:8px;border-width:0;color:green;background-color:green">
+
+	
+
+
+<!--   Image Links   /-->
+
+[Sk00]: ../assets/images/story/00Writer.jpg
+
+[Sk09]: ../assets/images/sketches/09Metaphor.jpg
+[Sk10]: ../assets/images/sketches/10Bitoffun.jpg
+[Sk11]: ../assets/images/sketches/11Giaconda.jpg
+[Sk12]: ../assets/images/sketches/12Chorale.jpg
+[Sk13]: ../assets/images/sketches/13Retraite.jpg
+[Sk14]: ../assets/images/sketches/14Northwind.jpg
+[Sk15]: ../assets/images/sketches/15Waterfall.jpg
+
+<hr class="section-break strong" />
 
 [Back to the Main Page](../index.md)
