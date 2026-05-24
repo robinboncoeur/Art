@@ -7,30 +7,34 @@
 
 
 
-
-
-## Women Were Never the Footnote
+## Foreword
 
 
 [![Robyn asking Emily writing tips][St00a]{ .artR width="460" }][St00a]
 
-[St00a]: assets/images/story/00Writer.jpg
 
+Welcome. 😊
 
+This is a creative site, gathering several strands of my creative work: music, visual art, and fiction. Some pieces are polished, some are exploratory, and some are fragments of a larger story still finding its final shape.
 
-This site begins with a simple refusal:
+A good place to start is the central work: [Celeste’s Girl](Charlotte/1CG-2ndEd.md). Set at a Historical Faire in modern Victoria, Wardrobe becomes more than a department: it becomes a school of belonging. Within its rules, ledgers, fittings, standards, and female authority, 
 
-*women are* **not** *the supporting cast of human history*.
+Celeste’s Girl follows Charlie, a gentle, self-effacing young person who enters the women-led world of Wardrobe at a Historical Faire and gradually discovers that the role everyone else seems to see in him is not performance, disguise, or humiliation, but a more truthful way of being. Charlie learns first to function, then to belong, and finally to recognise herself as Charlotte. Around her, the women who guide, test, protect, and sometimes mishandle her must confront their own assumptions about care, power, agency, and love.
+
+Under the influence of Celeste, Mara, Sarah, Lauren, and the wider female structure of Wardrobe, Charlie learns competence, safety, discipline, presentation, and belonging. What begins as adaptation—doing what the work requires, wearing what fits, accepting rules that make the department function—slowly becomes revelation. Charlie becomes Charli, then Charlotte: not because someone forces a costume onto him, but because the practical, emotional, and social demands of Wardrobe allow the person already there to emerge.
+
+The story is also about Celeste discovering the danger of her own perception. She sees Charlotte early—perhaps before Charlotte can bear to see herself—and she has a gift for naming truths before anyone else has language for them. But being right does not make her innocent. Her intelligence, confidence, and influence shape outcomes. The story therefore asks what happens when love, insight, desire, and control become tangled, and whether a person can help reveal another’s truth without claiming ownership of it.
+
+These pages now centre on the developing world of [Celeste’s Girl](Charlotte/1CG-2ndEd.md). The gowns, stays, ledgers, fittings, and period settings are not the point in themselves. They are the instruments through which the story examines identity, work, authority, safety, and belonging. Within that structure, Charlie’s gradual emergence as Charlotte becomes less a transformation than a recognition: the discovery of a self that could only become visible in the right company.
+
+So, before the stories and images, a statement of intent: *women Were never the footnote*. 
+
+This site is grounded in a simple refusal: **women are not the supporting cast of human history**. 
 
 For centuries, patriarchy trained societies to treat men as default and women as exception—useful, ornamental, obedient, domestic, secondary. That mindset did not merely limit women. It cancelled genius, labour, ambition, authority, anger, wit, desire, and whole lives before they were allowed to become visible.
 
-These pages explore that cancellation through history, fiction, image-making, and research. The first worlds considered here are eighteenth-century France—the polished, unequal world before the Revolution—and early nineteenth-century France, where the promises of liberty had already begun to curdle into new forms of control.
+<hr class="section-break strong" />
 
-I am interested in what those worlds did to women: what they permitted, what they punished, what they made invisible, and what women preserved anyway.
-
-I have developed a story around these themes: one in which women do not wait politely at the margins, and one in which old assumptions are not simply questioned, but overturned. It is called [*Celeste's Girl*](Charlotte/1CG-2ndEd.md). The story takes place in present-day Victoria, south of Melbourne, at a fictitious historical faire, in the Wardrobe department.
-
-<hr class="section-break soft" />
 
 
 
@@ -46,15 +50,6 @@ The music was created by transcribing notes from musical scores (PDFs) into Muse
 
 Large Language Models are a central part of my creative workflow—not as a substitute for imagination, but as a demanding collaborator: useful for research, structure, revision, and turning rough language into clean, enjoyable prose.
 
-This is my creative working realm.
-
-*A place to learn more about women’s lives*  
-*A place to test ideas*  
-*A place to make images and stories*  
-
-*A place to allow women back to where they always belonged:* **at the centre**.
-
-
 <hr class="section-break strong" />
 
 
@@ -62,11 +57,11 @@ This is my creative working realm.
 
 
 
-## Guiding Principles
+## What this is NOT
 
 This story is still in progress, somewhere around the middle of its second act. It is not a finished monument. It is a working structure.
 
-Its purpose is clear: agency, respect, consent, safety, and the protection of the vulnerable.
+Its purpose is clear: **agency, respect, consent, safety, and the protection of the vulnerable**.
 
 Wardrobe is built on standards. No one gets to dominate, coerce, objectify, or exercise privilege there without consequences. Harm may occur; stories need friction. But harm is not treated as spectacle, romance, or entertainment. When boundaries are crossed, there are consequences.
 
@@ -80,114 +75,20 @@ It is a story about who has power, who has safety, who is believed, and who is f
 
 I am not writing it to chase a market. I am writing it because the subject matters to me, and out of a moral imperative. 
 
-<hr class="section-break strong" />
-
-
-
-
-
-
-
-
-## Videos
-
-These videos are about the music for the story 'Celeste's Girl' (*Version Française á gauche*):
-
-<style>
-  /* two 384×384 iframes side by side */
-  .video-row {
-    display: flex;
-    gap: 16px;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: flex-start;
-  }
-  .video-row iframe {
-    width: 384px;
-    height: 384px;
-    border: 0;
-    border-radius: 8px; /* optional */
-  }
-  /* Stack on narrow screens */
-  @media (max-width: 820px) {
-    .video-row { flex-direction: column; align-items: center; }
-  }
-</style>
-
-<div class="video-row">
-  <iframe
-    src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/6978db4dbc1c3046f3aa321ff664b1dd/iframe"
-    title="Version Française"
-    loading="lazy"
-    allow="autoplay; fullscreen; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-
-  <iframe
-    src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/4dfe30900934badaea9190c99103c567/iframe"
-    title="English Version"
-    loading="lazy"
-    allow="autoplay; fullscreen; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
-
-The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Celeste story. It also inspired this piece, 'Waterfall':
-
-<audio controls="controls">
-  <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
-
-✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
-
-😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
-
-<hr class="section-break strong" />
-
-
-
-
-
-
-
-
-## Test Images
-
-[![Scene03][S03a]{ .artC width="200" }][S03a]
-[![Scene07][S07a]{ .artC width="200" }][S07a]
-[![Scene09][S09a]{ .artC width="200" }][S09a]
-[![Scene12][S12a]{ .artC width="200" }][S12a]
-[![Scene14][S14a]{ .artC width="200" }][S14a]
-
-[![Scene15][S15a]{ .artC width="200" }][S15a]
-[![Scene17][S17a]{ .artC width="200" }][S17a]
-[![Scene19][S19a]{ .artC width="200" }][S19a]
-[![Scene22][S22a]{ .artC width="200" }][S22a]
-[![Scene28][S28a]{ .artC width="200" }][S28a]
-
-
-
-
-<hr class="section-break soft" />
 
 
 <!--  Image references  -->
 
 [Br35c]: assets/images/story/Bnr35c.jpg
-
 [St00a]: assets/images/story/00Writer.jpg
 
-[S03a]: assets/images/story/Scene03a.jpg
-[S07a]: assets/images/story/Scene07a.jpg
-[S09a]: assets/images/story/Scene09a.jpg
-[S12a]: assets/images/story/Scene12a.jpg
-[S14a]: assets/images/story/Scene14a.jpg
 
-[S15a]: assets/images/story/Scene15a.jpg
-[S17a]: assets/images/story/Scene17a.jpg
-[S19a]: assets/images/story/Scene19a.jpg
-[S22a]: assets/images/story/Scene22a.jpg
-[S28a]: assets/images/story/Scene28a.jpg
+<!--
+
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
+
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
+
+/-->
 
 <hr class="section-break strong" />
