@@ -1,23 +1,25 @@
 # On Music
 
-<hr style="height:1px;border-width:0;color:pink;background-color:pink">
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## Current—Playlist
 
-<a href="/assets/images/story/07-WritingFriday.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/07-WritingFriday.jpg" alt="" width="380" align="right"></a>
+
+[![Robyn asking Emily writing tips][St00]{ .artR width="320" }][St00]
 
 
 These pieces live in my head when I write.
 
-<div class="music-card music-card--with-art">
-	<a href="/assets/images/story/15-Northwind.jpg" target="_blank" rel="noopener" class="music-art-link">
-    <img src="/assets/images/story/15-Northwind.jpg" alt="Charlie" class="music-art">
-	</a>
+[![By The Sea][St15]{ .artL width="140" }][St15]
 
-  <div class="music-content">
-    <div class="music-label">Beliczay</div>
-    <h3 class="music-title">Serenade for Strings</h3>
+<div class="music-card music-card--with-art">
+  <div>
+    <p>Beliczay—Serenade for Strings</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://cloud.seabrae.org/index.php/s/RfkPgKFpmQtYzfm/download" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -25,16 +27,16 @@ These pieces live in my head when I write.
   </div>
 </div>
 
+<hr class="section-break soft" />
 
+
+
+
+[![Donga Call][St13]{ .artL width="160" }][St13]
 
 <div class="music-card music-card--with-art">
-	<a href="/assets/images/story/13-DongaCall.jpg" target="_blank" rel="noopener" class="music-art-link">
-   	<img src="/assets/images/story/13-DongaCall.jpg" alt="Charlie" class="music-art">
-	</a>
-
-  <div class="music-content">
-    <div class="music-label">Elgar</div>
-    <h3 class="music-title">Minuet</h3>
+  <div>
+    <p>Elgar—Minuet</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://cloud.seabrae.org/index.php/s/4rsB88xd6Mt4qTn/download" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -42,16 +44,16 @@ These pieces live in my head when I write.
   </div>
 </div>
 
----
+<hr class="section-break soft" />
+
+
+
+
+[![À Paris][St09]{ .artL width="160" }][St09]
 
 <div class="music-card music-card--with-art">
-	<a href="/assets/images/story/09-Charlotte-InParis.jpg" target="_blank" rel="noopener" class="music-art-link">
-    <img src="/assets/images/story/09-Charlotte-InParis.jpg" alt="Charlie" class="music-art">
-	</a>
-
-  <div class="music-content">
-    <div class="music-label">Finzi</div>
-    <h3 class="music-title">Love's Labour Lost</h3>
+  <div>
+    <p>Finzi—Love's Labour Lost</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://cloud.seabrae.org/index.php/s/AGY859Lxyf5GDMo/download" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -59,16 +61,16 @@ These pieces live in my head when I write.
   </div>
 </div>
 
----
+<hr class="section-break soft" />
+
+
+
+
+[![Not The product][St12]{ .artL width="160" }][St12]
 
 <div class="music-card music-card--with-art">
-	<a href="/assets/images/story/12-NotProduct.jpg" target="_blank" rel="noopener" class="music-art-link">
-    <img src="/assets/images/story/12-NotProduct.jpg" alt="Charlie" class="music-art">
-	</a>
-
-  <div class="music-content">
-    <div class="music-label">Elgar</div>
-    <h3 class="music-title">Mina</h3>
+  <div>
+    <p>Elgar—Mina</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://cloud.seabrae.org/index.php/s/cym57osR3SGQPDK/download" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -76,16 +78,17 @@ These pieces live in my head when I write.
   </div>
 </div>
 
----
+<hr class="section-break soft" />
+
+
+
+
+
+[![Flight Home][St16]{ .artL width="160" }][St16]
 
 <div class="music-card music-card--with-art">
-	<a href="/assets/images/story/16-FlightHome.jpg" target="_blank" rel="noopener" class="music-art-link">
-    <img src="/assets/images/story/16-FlightHome.jpg" alt="Charlie" class="music-art">
-	</a>
-
-  <div class="music-content">
-    <div class="music-label">Elgar</div>
-    <h3 class="music-title">Serenade Mauresque</h3>
+  <div>
+    <p>Elgar—Serenade Mauresque</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://cloud.seabrae.org/index.php/s/DePn88meDAbJknA/download" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -93,16 +96,17 @@ These pieces live in my head when I write.
   </div>
 </div>
 
----
+<hr class="section-break soft" />
+
+
+
+
+
+[![Understanding][St35]{ .artL width="160" }][St35]
 
 <div class="music-card music-card--with-art">
-	<a href="/assets/images/story/Scene35a.jpg" target="_blank" rel="noopener" class="music-art-link">
-    <img src="/assets/images/story/Scene35a.jpg" alt="Charlie" class="music-art">
-	</a>
-
-  <div class="music-content">
-    <div class="music-label">Holst</div>
-    <h3 class="music-title">A Moorside Suite</h3>
+  <div>
+    <p>Holst—A Moorside Suite</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://cloud.seabrae.org/index.php/s/GFzH4sN4S7T7wkn/download" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -110,16 +114,16 @@ These pieces live in my head when I write.
   </div>
 </div>
 
----
+<hr class="section-break soft" />
+
+
+
+
+[![Missing Her][St56]{ .artL width="160" }][St56]
 
 <div class="music-card music-card--with-art">
-  <a href="/assets/images/story/Scene56a.jpg" target="_blank" rel="noopener" class="music-art-link">
-    <img src="/assets/images/story/Scene56a.jpg" alt="Charlie" class="music-art">
-  </a>
-
-  <div class="music-content">
-    <div class="music-label">Elgar</div>
-    <h3 class="music-title">Carissima</h3>
+  <div>
+    <p>Elgar—Carissima</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://cloud.seabrae.org/index.php/s/nMbmnQqZNHBYqo4/download" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -127,16 +131,16 @@ These pieces live in my head when I write.
   </div>
 </div>
 
----
+<hr class="section-break soft" />
+
+
+
+
+[![Montville][St10]{ .artL width="160" }][St10]
 
 <div class="music-card music-card--with-art">
-	<a href="/assets/images/story/10-Montville.jpg" target="_blank" rel="noopener" class="music-art-link">
-    <img src="/assets/images/story/10-Montville.jpg" alt="Charlie" class="music-art">
-  </a>
-
-  <div class="music-content">
-    <div class="music-label">Finzi</div>
-    <h3 class="music-title">Romance</h3>
+  <div>
+    <p>Finzi—Romance</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://cloud.seabrae.org/index.php/s/g6HrMrRnfrC6mAT/download" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -144,16 +148,16 @@ These pieces live in my head when I write.
   </div>
 </div>
 
----
+<hr class="section-break soft" />
+
+
+
+
+[![Coffee][St08]{ .artL width="160" }][St08]
 
 <div class="music-card music-card--with-art">
-	<a href="/assets/images/story/Scene08a.jpg" target="_blank" rel="noopener" class="music-art-link">
-    <img src="/assets/images/story/Scene08a.jpg" alt="Charlie" class="music-art">
-	</a>
-
-  <div class="music-content">
-    <div class="music-label">Elgar</div>
-    <h3 class="music-title">Rosemary</h3>
+  <div>
+    <p>Elgar—Rosemary</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://cloud.seabrae.org/index.php/s/J3kqHcLESM4r9Fq/download" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -161,34 +165,22 @@ These pieces live in my head when I write.
   </div>
 </div>
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+<hr class="section-break soft" />
 
 
 
 
 
-<!--
-/-->
+## Lala Rookh
 
-
-
-
-
-## A Transcription Effort
-
-<a href="/assets/images/story/09-Charlotte-InParis.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/09-Charlotte-InParis.jpg" alt="" width="300" align="right"></a>
+[![Alice Mary Smith][St14]{ .artL width="220" }][St14]
 
 This is a piece I transcribed from hand-written manuscript. I have been asked to not share my transcribed score on IMSLP by the Royal Academy of Music Library in London, but I will share Reaper recording here, hoping to promote Alice Mary Smith's incredibly beautiful composition.
 
+
 <div class="music-card music-card--with-art">
-	<a href="/assets/images/story/14-Alice.jpg" target="_blank" rel="noopener" class="music-art-link">
-	   <img src="/assets/images/story/14-Alice.jpg" alt="Charlie" class="music-art">
-	</a>
-  
-  <div class="music-content">
-    <div class="music-label">Alice Mary Smith</div>
-    <h3 class="music-title">Lala Rookh</h3>
+  <div>
+    <p>Alice Mary Smith-Lala Rookh</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://cloud.seabrae.org/index.php/s/FjsYqnys2YSwL8X/download" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -197,4 +189,19 @@ This is a piece I transcribed from hand-written manuscript. I have been asked to
 </div>
 
 
-<hr style="height:16px;border-width:0;color:pink;background-color:pink" />
+<!--   Links    /-->
+
+[St00]: ../assets/images/story/00Writer.jpg
+
+[St08]: ../assets/images/story/Scene08a.jpg
+[St09]: ../assets/images/story/09aParis.jpg
+[St10]: ../assets/images/story/10montvl.jpg
+[St12]: ../assets/images/story/12accost.jpg
+[St13]: ../assets/images/story/13donga.jpg
+[St14]: ../assets/images/story/14alice.jpg
+[St15]: ../assets/images/story/15orage.jpg
+[St16]: ../assets/images/story/16flight.jpg
+[St35]: ../assets/images/story/Scene35a.jpg
+[St56]: ../assets/images/story/Scene56a.jpg
+
+<hr class="section-break strong" />
