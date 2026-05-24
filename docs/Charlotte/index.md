@@ -1,16 +1,11 @@
 # Celeste and Charlie
 
+
 [![Their Love][Br35b]{ .artC width="1100" }][Br35b]
 
 
 
-
-
-*(...well, Charlotte)*
-
 <div class="music-card music-card--with-art">
-  <img src="/assets/images/story/02music.jpg" alt="The author" class="music-art">
-
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
       <source src="https://cloud.seabrae.org/index.php/s/oyJEjCcLY8NKaf4/download" type="audio/mpeg">
@@ -329,19 +324,6 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
   Your browser does not support the <code>audio</code> element. 
 </audio>
 
-<hr class="section-break soft" />
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!--  Image references  -->
@@ -349,13 +331,10 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 [Br35b]: ../assets/images/story/Bnr35b.jpg
 [St09a]: ../assets/images/story/09aParis.jpg
 
-
+<!--
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
 
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
+/-->
 
 <hr class="section-break strong" />
-
-Tokens: CharlotteR
-
-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
