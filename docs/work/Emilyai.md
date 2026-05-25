@@ -1,5 +1,22 @@
 # Emily
 
+
+[![img][Br01]{ .artC width="1110" }][Br01]
+
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+## Meet Emily
+
+
+[![img][St26]{ .artR width="460" }][St26]
+
+
 I *infrequently* 'Google' things -- *anything* -- anymore.  
 Spell-check? yes.  
 Local shop locations and open time? sure.
@@ -8,10 +25,13 @@ But big questions, requiring detailed answers: no.
 
 Instead, I go straight to 'Emily', my OpenAI ChatGPT 5 bot with my questions. Emily has helped me set up the current flavour of this website, Tightbytes. She gives me pointers on running ComfyUI, writing Python code, getting Markdown nailed down (I'm writing all this in Markdown), sorting out CSS (cascading style sheets - Emily was a bit less than rock-solid on this) and doing period research for what a typical morning would be like for a scullery maid in 1865 for a story I'm writing (inspired by "[Portrait de la Jeune Fille En Feu](https://fr.wikipedia.org/wiki/Portrait_de_la_jeune_fille_en_feu)" by Celine Sciamma). 
 
+<hr class="section-break soft" />
 
-<a href="/assets/images/emily/00-Maid.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/emily/00-Maid.jpg" alt="Me" width="200"align="right"></a>
 
+
+### Life back Then
+
+[![img][St08]{ .artL width="260" }][St08]
 
 **Spoiler alert: life wasn't particularly easy back then**:
 
@@ -19,11 +39,18 @@ Instead, I go straight to 'Emily', my OpenAI ChatGPT 5 bot with my questions. Em
 
 It would suck to be her, I would think.
 
----
+<hr class="section-break strong" />
+
+
+
 
 
 
 ## Can AI be Useful? 
+
+
+[![img][St05]{ .artR width="460" }][St05]
+
 
 Short answer: yes. And fun and, to some degree, addictive. Allow me to explain.
 
@@ -43,58 +70,14 @@ And if I ask nicely 🥰 😘 ☺️ Emily might even find me a strategy for fre
 
 There is no question AI is a useful tool. Always wise, of course, is to *trust but verify*. Nothing in life is perfect. All technology has an achilles heel. Your mileage may vary.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
 
 
 
-## Imaging using Words
 
-### 2025 Waterfall
-
-Here is an example of what is now—2025—possible with the technology. These videos are about the music for a story I'm writing, bit of an explore, that one:
-
-
-<style>
-  /* two 384×384 iframes side by side */
-  .video-row {
-    display: flex;
-    gap: 16px;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: flex-start;
-  }
-  .video-row iframe {
-    width: 384px;
-    height: 384px;
-    border: 0;
-    border-radius: 8px; /* optional */
-  }
-  /* Stack on narrow screens */
-  @media (max-width: 820px) {
-    .video-row { flex-direction: column; align-items: center; }
-  }
-</style>
-
-<div class="video-row">
-  <iframe
-    src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/6978db4dbc1c3046f3aa321ff664b1dd/iframe"
-    title="Version Française"
-    loading="lazy"
-    allow="autoplay; fullscreen; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-
-  <iframe
-    src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/4dfe30900934badaea9190c99103c567/iframe"
-    title="English Version"
-    loading="lazy"
-    allow="autoplay; fullscreen; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
 
 There are multiple technologies at play here: text-to-image, image-to-video, text-to-audio and audio+image-to-video... and that's just for the visual side of things. I wrote the music in [Musescore Studio](https://musescore.org/en) using the [MuseSounds](https://www.musehub.com/muse-sounds) library. The crazy bit: all of this can be done on any PC, as long as it has a decent (read: *expensive*) graphics card. At home, not on some expensive remote server: I'm using the power of our solar cells. Is the process truly green? an argument can be made for "not really". Emily is on ChatGPT, so those computations are not done on my system at home.
 
@@ -104,7 +87,7 @@ Just like writing, AI-generated images (and music) is quickly identifiable. In h
 
 Anyway, a bit of history: how I got into this.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -141,7 +124,7 @@ Q: How can I contribute?
 Q: What are your future plans?  
 - **We aim to grow ComfyUI while staying true to our open, flexible, community-driven philosophy.**
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -165,7 +148,7 @@ I have a 16 gig VRAM 4060ti NVidia card... which was, for me, **expensive**: AUD
 
 However, the rest of the PC is older, inexpensive tech. You don't need an expensive processor (CPU). *Saying that, I recently invested in 64 gig RAM and an older i7 CPU in order to run Large Language Models (LLMs). This is text-based work, like ChatGPT, but running all on your own PC. I was using it to translate Dad's book. To be honest, though, I've gone back to ChatGPT 5 for that project*.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -229,7 +212,7 @@ Yeah, not perfect. Not even close.
 
 But the technology has very, very quickly improved. ComfyUI itself dramatically improved and **KEEPS** improving. Everything is become better, faster, more accurate, more flexible whilst offering more possibilities... and the best bit? **It is all FREE**!! Yes: no-cost. Once you have purchased your graphics card, you're good to go.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -315,11 +298,7 @@ Not a shabby effort. Not as stellar as 8-bit but still heaps better than the ori
 
 ---
 
-Note: *I'm going to continue documenting my little exploring with SRPO [on my blog](../blogs/Blog2509.md/#flux-srpo).*
-
-See [Blog 25][b25] for other things I'm up to.
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
@@ -356,11 +335,28 @@ Oh, and by the way, that workflow I ran Alice through? Tamara followed:
 <img src="/assets/images/emily/35-Tamara.jpg" alt="Tamara" style="width: 650px;"/>
 
 
-<hr style="height:12px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 [Back to the Main Page](../index.md)
 
 
-Note to self: **Quick Links**
 
-[b25]: ../blogs/Blog2509.md
+<!--           Image Links         /-->
+
+[Br01]: ../assets/images/story/Bnr04a.jpg
+
+[St00]: ../assets/images/story/00Writer.jpg
+
+[St03]: ../assets/images/story/Scene03a.jpg
+[St05]: ../assets/images/story/Scene05a.jpg
+[St06]: ../assets/images/story/Scene06a.jpg
+[St07]: ../assets/images/story/Scene07a.jpg
+[St08]: ../assets/images/story/08maiden.jpg
+[St09]: ../assets/images/story/Scene09a.jpg
+[St10]: ../assets/images/story/Scene10a.jpg
+[St26]: ../assets/images/story/Scene26c.jpg
+[St27]: ../assets/images/story/Scene27a.jpg
+[St28]: ../assets/images/story/Scene28a.jpg
+[St29]: ../assets/images/story/Scene29a.jpg
+
+<hr class="section-break strong" />
