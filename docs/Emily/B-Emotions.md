@@ -1882,6 +1882,8 @@ Below is a **mini-dictionary** you can paste straight into your toolkit, *and* t
 
 /-->
 
+<!--      Image Links       /-->
+
 [Bnr03b]: ../assets/images/story/Bnr03b.jpg
 
 [St00]: ../assets/images/story/00Writer.jpg
@@ -1918,7 +1920,10 @@ Below is a **mini-dictionary** you can paste straight into your toolkit, *and* t
 [St34a]: ../assets/images/story/Scene34a.jpg
 [St35a]: ../assets/images/story/Scene35a.jpg
 
+<!--
+
 😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 👗 👚 👜 👠 🩰 💄  💞 💖 ❤️ 💋 🎻 📒 🩸 💧 🚺 ❤️ 🫧 🌩 🌧 🧵 🪡 —
-
-
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻 💧 🚺  —
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 —
+/-->
 <hr class="section-break strong" />

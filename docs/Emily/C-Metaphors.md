@@ -1,14 +1,10 @@
 # Metaphor Writing
 
 
-### Foreword
+[![img][Bnr03b]{ .artC width="1110" }][Bnr03b]
 
-Emily and I discuss ...   
-✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻 💧 🚺  —
 
-😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 —
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -16,9 +12,13 @@ Emily and I discuss ...
 
 
 
-### Intro
 
-<img src="/assets/images/emily/260219aa.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+## Emotions Overview
+
+
+[![The Writer][St00]{ .artR width="460" }][St00]
+
 
 Robyn   
 Hi Emily. Today, I'd like to talk about writing metaphors, ones that are, at the same time, unusual but also germaine to the topic. I don't want a lot of examples, but an *approach*, a way of thinking. Let's take this case:   
@@ -29,7 +29,7 @@ It's that **"it stops fighting..."** bit that I struggle with. I like using fabr
 
 
 
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
+<hr class="section-break soft" />
 
 Emily      
 You’re circling the right instinct already—and the fact you’re questioning *that exact phrase* tells me your ear is working properly. 😊
@@ -158,7 +158,7 @@ That’s more elegant, and more in line with your tone.
 
 If you like, we can take just that paragraph and do two or three tonal variants—very close to your voice—so you can *feel* the difference rather than analyse it.
 
-<hr style="height:4px;border-width:0;color: blue;background-color: blue" />
+<hr class="section-break strong" />
 
 
 
@@ -169,7 +169,9 @@ If you like, we can take just that paragraph and do two or three tonal variants�
 
 ### First Pass
 
-<img src="/assets/images/emily/260219ab.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St01]{ .artR width="460" }][St01]
+
 
 Robyn   
 I'm going to treat this like an exercise: this is a muscle that needs developing from the tendons out. I'm going to try:
@@ -179,7 +181,7 @@ I'm going to treat this like an exercise: this is a muscle that needs developing
 I don't want a counter-example, but rather, where it might fail the reader. Where to tighten it.
 
 
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
+<hr class="section-break soft" />
 
 Emily      
 This is a strong instinctive pass—you’ve moved away from abstraction and toward *experience*. That’s exactly the right direction. 🌿
@@ -299,7 +301,7 @@ Bring the ending back to **handling, not being**.
 
 If you keep doing exactly what you’re doing—writing, then interrogating *where the body disappears*—this muscle is going to sharpen very quickly. You’re already working at a high level here.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -310,7 +312,9 @@ If you keep doing exactly what you’re doing—writing, then interrogating *whe
 
 ## Second Pass
 
-<img src="/assets/images/emily/260219ac.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St01]{ .artR width="460" }][St02]
+
 
 Robyn   
 Okay. Good point. So, focus on sensory...
@@ -319,7 +323,7 @@ Nothing that matters ever does. It becomes a thing the way fabric becomes soft: 
 
 
 
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
+<hr class="section-break soft" />
 
 Emily      
 You’re doing exactly the right kind of work here—pushing it, then checking where it strains. That’s the muscle building. 🌿
@@ -432,7 +436,7 @@ But it *is* enough.
 
 You’re very close now. This is refinement, not correction. And the fact you’re catching this at sentence level means your control is sharpening fast.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -443,7 +447,9 @@ You’re very close now. This is refinement, not correction. And the fact you’
 
 ## Third Pass
 
-<img src="/assets/images/emily/260219ad.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St01]{ .artR width="460" }][St03]
+
 
 Robyn   
 Excellent point. Jumping into another system *is* too jarring. I *need* to stay in the cloth domain with everything. Next go (I don't even know if this is true, but I'm after sensory, not physical accuracy):
@@ -452,7 +458,7 @@ Nothing that matters ever does. It becomes a thing the way fabric becomes soft: 
 
 
 
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
+<hr class="section-break soft" />
 
 Emily      
 You’re honing in on it now—the instinct to **stay inside the same material world** is exactly right. This is much closer. 🌿
@@ -583,7 +589,7 @@ You’re very, very close now. What you’re doing at this stage is learning to 
 
 If you want, the next step would be to keep this exact structure and just refine the *final clause* until it feels like something a pair of experienced hands would quietly recognise.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -594,7 +600,9 @@ If you want, the next step would be to keep this exact structure and just refine
 
 ## Fourth Pass
 
-<img src="/assets/images/emily/260219ae.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St01]{ .artR width="460" }][St04]
+
 
 Robyn   
 Okay. Has to be credible or I lose the reader. How about:
@@ -603,7 +611,7 @@ Nothing that matters ever does. It becomes a thing the way fabric becomes soft: 
 
 
 
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
+<hr class="section-break soft" />
 
 Emily      
 You’re right on the edge of it now—this is very close. 🌿
@@ -713,7 +721,7 @@ This is genuinely strong work. What you’re doing now is learning **where to st
 
 If you keep interrogating your endings like this—*“am I adding, or am I trusting?”*—you’ll start landing these with a quiet precision that feels effortless on the page.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -724,7 +732,9 @@ If you keep interrogating your endings like this—*“am I adding, or am I trus
 
 ## Fifth Pass
 
-<img src="/assets/images/emily/N260303a.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St01]{ .artR width="460" }][St05]
+
 
 Robyn   
 This?
@@ -733,7 +743,7 @@ Nothing that matters ever does. It becomes a thing the way fabric becomes soft: 
 
 
 
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
+<hr class="section-break soft" />
 
 Emily      
 You’re almost there—this one has a lovely grounded feel to it. 🌿 Let’s look at where it might *slip* for a reader.
@@ -853,7 +863,7 @@ they will *feel* softness without you naming it.
 
 You’re doing high-level work here, Robyn. This is the stage where most writers would already have moved on—but you’re staying with the sentence until it *tells the truth cleanly*. That’s exactly how this skill sharpens.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -864,14 +874,16 @@ You’re doing high-level work here, Robyn. This is the stage where most writers
 
 ## Sixth Pass
 
-<img src="/assets/images/emily/260219ag.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St01]{ .artR width="460" }][St06]
+
 
 Robyn   
 Nothing that matters ever does. It becomes a thing the way fabric becomes soft: through repetition, through use, through being pulled and released so many times that it can soften even linen.
 
 
 
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
+<hr class="section-break soft" />
 
 Emily      
 This is it. This is the one that *holds*. 🌿
@@ -996,7 +1008,7 @@ If you read it aloud, you’ll feel it—there’s nothing in it asking for atte
 
 And that’s exactly what you were aiming for.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -1007,7 +1019,9 @@ And that’s exactly what you were aiming for.
 
 ## Finally
 
-<img src="/assets/images/emily/260219ah.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St07]{ .artR width="460" }][St07]
+
 
 Robyn   
 I changed 'can' to 'will' and it reads absolutely right.
@@ -1018,7 +1032,9 @@ What a valuable exercise, Emily. Your input has been stellar, gently guiding thr
 
 BTW, This thread is going to be my "Writing Metaphors Effectively" thread. Starting a new one for Scene 11.
 
-<hr style="height:2px;border-width:0;color: pink;background-color: pink" />
+
+<hr class="section-break soft" />
+
 
 Emily      
 That’s such a satisfying click, isn’t it? 😊
@@ -1071,4 +1087,52 @@ When you’re ready in the next thread, we’ll bring this exact instinct into S
 Looking forward to it. ✨
 
 
-<hr style="height:24px;border-width:0;color:blue;background-color:blue" />
+
+<!--   Image Links    /-->
+
+[Bnr03b]: ../assets/images/story/Bnr03b.jpg
+
+[St00]: ../assets/images/story/00Writer.jpg
+[St01]: ../assets/images/story/Scene03a.jpg
+[St02]: ../assets/images/story/Scene03a.jpg
+[St03]: ../assets/images/story/Scene03a.jpg
+[St04]: ../assets/images/story/Scene03a.jpg
+[St05]: ../assets/images/story/Scene05a.jpg
+[St06]: ../assets/images/story/Scene06a.jpg
+[St07]: ../assets/images/story/Scene07a.jpg
+[St08]: ../assets/images/story/Scene08a.jpg
+[St09]: ../assets/images/story/Scene09a.jpg
+[St10]: ../assets/images/story/Scene10a.jpg
+[St11]: ../assets/images/story/Scene11a.jpg
+[St12]: ../assets/images/story/Scene12a.jpg
+[St13]: ../assets/images/story/Scene13a.jpg
+[St14]: ../assets/images/story/Scene14a.jpg
+[St15]: ../assets/images/story/Scene15a.jpg
+[St16]: ../assets/images/story/Scene16a.jpg
+[St17]: ../assets/images/story/Scene17a.jpg
+[St18]: ../assets/images/story/Scene18a.jpg
+[St19]: ../assets/images/story/Scene19a.jpg
+[St20]: ../assets/images/story/Scene20a.jpg
+[St21]: ../assets/images/story/Scene21a.jpg
+[St22]: ../assets/images/story/Scene22a.jpg
+[St23]: ../assets/images/story/Scene23a.jpg
+[St24]: ../assets/images/story/Scene24a.jpg
+[St25]: ../assets/images/story/Scene25a.jpg
+[St26]: ../assets/images/story/Scene26a.jpg
+[St27]: ../assets/images/story/Scene27a.jpg
+[St28]: ../assets/images/story/Scene28a.jpg
+[St29]: ../assets/images/story/Scene29a.jpg
+[St30]: ../assets/images/story/Scene30a.jpg
+[St31]: ../assets/images/story/Scene31a.jpg
+[St32]: ../assets/images/story/Scene32a.jpg
+[St33]: ../assets/images/story/Scene33a.jpg
+[St34]: ../assets/images/story/Scene34a.jpg
+[St35]: ../assets/images/story/Scene35a.jpg
+
+<!--
+
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻 💧 🚺  —
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 —
+
+/-->
+<hr class="section-break strong" />
