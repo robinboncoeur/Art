@@ -867,8 +867,8 @@ The one in front of her.
 [St09]: ../assets/images/story/Scene17a.jpg
 [St10]: ../assets/images/story/Scene18a.jpg
 
-
+<!--
 😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺… …
-
+/-->
 
 <hr class="section-break strong" />
