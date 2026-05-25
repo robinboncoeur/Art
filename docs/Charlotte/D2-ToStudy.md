@@ -18,7 +18,7 @@
 
 ## Into Scene 23
 
-[![The Writer][Em00]{ .artR width="460" }][Em00]
+[![The Writer][St00]{ .artR width="460" }][St00]
 
 
 I'm on a roll, Emily.
@@ -43,7 +43,7 @@ Sobering. Hence the somewhat taciturn drive home.
 ## Celeste's New Challenge
 
 
-[![img][Em01]{ .artR width="460" }][Em01]
+[![img][St01]{ .artR width="460" }][St01]
 
 
 Oh, Robyn — yes. **That is much larger than “being right has no innocence.”** That was an ethical realisation. This one is existential for Celeste. 🌒
@@ -177,7 +177,7 @@ Oh my, Robyn. This is rich territory. This is not a minor beat after the Roger c
 ## Fleshed Out
 
 
-[![img][Em02]{ .artR width="460" }][Em02]
+[![img][St02]{ .artR width="460" }][St02]
 
 
 You so eloquently not only put flesh on bones, but add a protective, beautiful skin. The skin: the largest human organ. Full of complexity, and really, all we actually see of a person.
@@ -368,7 +368,7 @@ The question is whether she can honour what she has named without feeding on it.
 ## Role Naming
 
 
-[![img][Em03]{ .artR width="460" }][Em03]
+[![img][St03]{ .artR width="460" }][St03]
 
 
 Even in those scenes—where role had been defined—Celeste *already* acknowledged a growing need for what it provided her, to her growing consternation. However, she was getting her MBA, so everyone's expectation was for her to focus on that. 
@@ -506,7 +506,7 @@ That thread is becoming the spine of the whole arc.
 ## Lauren's Therapy
 
 
-[![img][Em04]{ .artR width="460" }][Em04]
+[![img][St04]{ .artR width="460" }][St04]
 
 
 On another note: Lauren. She will eventually seek professional help and will come to terms with it—love her daughter, unconditionally.
@@ -782,7 +782,7 @@ The one in front of her.
 ## n
 
 
-[![img][Em05]{ .artR width="460" }][Em05]
+[![img][St05]{ .artR width="460" }][St05]
 
 
 <hr class="section-break soft" />
@@ -798,7 +798,7 @@ The one in front of her.
 ## o
 
 
-[![img][Em06]{ .artR width="460" }][Em06]
+[![img][St06]{ .artR width="460" }][St06]
 
 
 <hr class="section-break soft" />
@@ -813,7 +813,7 @@ The one in front of her.
 
 ## p
 
-[![img][Em07]{ .artR width="460" }][Em07]
+[![img][St07]{ .artR width="460" }][St07]
 
 
 <hr class="section-break soft" />
@@ -828,7 +828,7 @@ The one in front of her.
 
 ## q
 
-[![img][Em08]{ .artR width="460" }][Em08]
+[![img][St08]{ .artR width="460" }][St08]
 
 
 <hr class="section-break soft" />
@@ -845,7 +845,7 @@ The one in front of her.
 ## r
 
 
-[![img][Em09]{ .artR width="460" }][Em09]
+[![img][St09]{ .artR width="460" }][St09]
 
 
 <hr class="section-break soft" />
@@ -854,18 +854,18 @@ The one in front of her.
 
 [Br01]: ../assets/images/story/Bnr35c.jpg
 
-[Em00]: ../assets/images/story/00Writer.jpg
+[St00]: ../assets/images/story/00Writer.jpg
 
-[Em01]: ../assets/images/emily/260219ac.jpg
-[Em02]: ../assets/images/emily/260219ab.jpg
-[Em03]: ../assets/images/emily/260219ad.jpg
-[Em04]: ../assets/images/emily/260219ae.jpg
-[Em05]: ../assets/images/emily/260219af.jpg
-[Em06]: ../assets/images/emily/260219ag.jpg
-[Em07]: ../assets/images/emily/260219ah.jpg
-[Em08]: ../assets/images/emily/260219ai.jpg
-[Em09]: ../assets/images/emily/260219aj.jpg
-[Em10]: ../assets/images/emily/260219ak.jpg
+[St01]: ../assets/images/story/Scene05a.jpg
+[St02]: ../assets/images/story/Scene07a.jpg
+[St03]: ../assets/images/story/Scene08a.jpg
+[St04]: ../assets/images/story/Scene09a.jpg
+[St05]: ../assets/images/story/Scene10a.jpg
+[St06]: ../assets/images/story/Scene12a.jpg
+[St07]: ../assets/images/story/Scene15a.jpg
+[St08]: ../assets/images/story/Scene16a.jpg
+[St09]: ../assets/images/story/Scene17a.jpg
+[St10]: ../assets/images/story/Scene18a.jpg
 
 
 😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺… …
