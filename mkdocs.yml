@@ -74,15 +74,6 @@ nav:
       - Just Writing: Dev/Writing.md
       - Image Prompts: Dev/Prompts.md
 
-  - Blogs:
-      - blogs/index.md
-      - Blog Sep25: blogs/Blog2509.md
-      - Blog Oct25: blogs/Blog2510.md
-      - Blog Nov25: blogs/Blog2511.md
-      - Blog Dec25: blogs/Blog2512.md
-      - Blog Jan26: blogs/Blog2601.md
-      - Blog Feb26: blogs/Blog2602.md
-
   - Music:
       - music/index.md
       - Sketches: music/Sketches.md
