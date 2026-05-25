@@ -259,21 +259,14 @@ Cinematic medium close-up portrait of a young woman with soft, natural features 
 
 ### Voices
 
-1. Celeste Shelley - Freya [ElevenLabs-VoiceID: u8ADrbquiJqufR9XMtb8] 
-
-2. Charlotte Rossignol - Daisy
+1. Celeste Shelley     - Freya   [ElevenLabs-VoiceID: u8ADrbquiJqufR9XMtb8] 
+2. Charlotte Rossignol - Daisy   [ElevenLabs-VoiceID:]
 3. Sarah 
 4. Lauren
 5. Brittany
 6. Mara
 
 <hr class="section-break strong" />
-
-
-
-
-
-
 
 
 
@@ -292,23 +285,6 @@ Cinematic medium close-up portrait of a young woman with soft, natural features 
 	<p class="video-caption">
 		<strong>Girl is the default human setting.</strong> Celeste explains it best.
 </div>
-
-This video sets the stage for Charlie's venture into a realm he never had any interest in, but due to his infatuation (dare we call it **Love**) for Celeste, he was destined to travel. In the process, he learns much about history, the insidious and deleterious effect of the patriarchy on the lives of women through the ages.</p>
-
-In order for this lesson to be learnt, 'Sharl' must first find himself in the unenviable role of discovering what it means to lose autonomy and have one's accomplishments be cancelled by society.</p>
-
-A bit about Celeste: she's a trend-setting, headstrong, unique individual. Artistic, a leader not a follower, determined to get her way. Clever, schemer. Intensely likeable, incredibly feminine. Won't suffer fools or jocks.</p>
-
-
-
-These pages explore the 'cancelling' - as in: suppression - of a full one-half of humans through a cruel, unjust mindset called the 'patriarchy'. The story is based on that theme, with information I've sort-of picked up chatting with Emily (ChatGPT) and learning all about life in the 1750s (18th Century).
-
-The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Celeste story. It also inspired this piece, 'Waterfall':
-
-<audio controls="controls">
-  <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
 
 <hr class="section-break soft" />
 
