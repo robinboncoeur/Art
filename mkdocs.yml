@@ -49,30 +49,17 @@ nav:
       - Charlotte/index.md
       - Celeste's Girl v1: Charlotte/1CG-1stEd.md
       - Celeste's Girl v2: Charlotte/1CG-2ndEd.md
-      - The Deep End-Sc23: Charlotte/B2Scene23r.md
       - Holding The Knife: Charlotte/C3-HTheKnife.md
-      - Aa- Structure: Charlotte/Aa-Structure.md
-      - Ab-- Emotions: Charlotte/Ab-Emotions.md
-      - Canon Bible 1: Charlotte/CanonBible.md
-      - Chat To Study: Charlotte/Z-ToStudy.md
-      - Current Works: Charlotte/words03.md
-
-  - Claudia:
-      - Claudia/index.md
-      - Canon Bible1: Claudia/CanonBible.md
-      - Notes-260321: Claudia/Notes26-03-21a.md
+      - Canon Bible C Grl: Charlotte/CanonBible.md
+      - The Deep End-Sc23: Charlotte/D1-Scene23r.md
+      - Plotline To Study: Charlotte/D2-ToStudy.md
+      - Current Scribbles: Charlotte/D3-Words03.md
 
   - Emily:
       - Emily/index.md
-      - Metaphor Writing: Emily/MetaphorWriting.md
-      - Notes Feb 23: Emily/Notes26-02-23.md
-      - Notes Feb 28: Emily/Notes26-02-28.md
-      - Notes Mar 03: Emily/Notes26-03-03.md
-      - Notes Mar 04: Emily/Notes26-03-04.md
-      - Notes Mar 06: Emily/Notes26-03-06.md
-      - Notes Mar 08: Emily/Notes26-03-08.md
-      - Notes Apr 02: Emily/Notes26-04-02.md
-      - NoteTemplate: Emily/Notes26-00-00.md
+      - Design Structure: Emily/A-Structure.md
+      - Writing Emotions: Emily/B-Emotions.md
+      - Writing Metaphors: Emily/C-Metaphors.md
 
   - Dev:
       - Dev/index.md
