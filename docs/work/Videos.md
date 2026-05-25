@@ -211,17 +211,17 @@ Note to Self: *This page provides a centralised location for links to videos sto
 
 <!--  Image references  -->
 
-[S03a]: assets/images/story/Scene03a.jpg
-[S07a]: assets/images/story/Scene07a.jpg
-[S09a]: assets/images/story/Scene09a.jpg
-[S12a]: assets/images/story/Scene12a.jpg
-[S14a]: assets/images/story/Scene14a.jpg
+[S03a]: ../assets/images/story/Scene03a.jpg
+[S07a]: ../assets/images/story/Scene07a.jpg
+[S09a]: ../assets/images/story/Scene09a.jpg
+[S12a]: ../assets/images/story/Scene12a.jpg
+[S14a]: ../assets/images/story/Scene14a.jpg
 
-[S15a]: assets/images/story/Scene15a.jpg
-[S17a]: assets/images/story/Scene17a.jpg
-[S19a]: assets/images/story/Scene19a.jpg
-[S22a]: assets/images/story/Scene22a.jpg
-[S28a]: assets/images/story/Scene28a.jpg
+[S15a]: ../assets/images/story/Scene15a.jpg
+[S17a]: ../assets/images/story/Scene17a.jpg
+[S19a]: ../assets/images/story/Scene19a.jpg
+[S22a]: ../assets/images/story/Scene22a.jpg
+[S28a]: ../assets/images/story/Scene28a.jpg
 
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
 
