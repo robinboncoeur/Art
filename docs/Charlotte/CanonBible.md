@@ -1,10 +1,14 @@
-# Celeste Story Canon Bible (Working Draft)
+# Celeste Story Canon Bible 
 
-<img src="/assets/images/story/Afront.jpg" style="margin-right: 2px"/>
+**(Working Draft)**
+
+
+
+[![Their Love][Br35b]{ .artC width="1100" }][Br35b]
 
 😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 —
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -15,7 +19,9 @@
 
 ## Purpose
 
-<img src="/assets/images/emily/260219bq.jpg" style="float: right; width: 360px; margin-left: 20px" />
+
+[![The Writer][St00]{ .artR width="460" }][St00]
+
 
 This is a **working canon bible** for Robyn’s story world, primarily covering **_Celeste’s Girl_** and **_The Deep End_**, with emphasis on:  
 - locked continuity  
@@ -30,7 +36,7 @@ This document distinguishes between:
 - **Provisional canon** — likely true / currently preferred, but still revisable  
 - **Open question** — deliberately unresolved  
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -41,7 +47,9 @@ This document distinguishes between:
 
 ## 1. Core Story Identity
 
-<img src="/assets/images/emily/260219ay.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St01]{ .artR width="460" }][St01]
+
 
 ### 1.1 Project overview
 **Locked canon**
@@ -82,7 +90,7 @@ The stories privilege:
 
 Wardrobe and related women-led environments are not merely accepting spaces; they are **containers of female governance and competence**.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -93,7 +101,9 @@ Wardrobe and related women-led environments are not merely accepting spaces; the
 
 ## 2. World and Setting
 
-<img src="/assets/images/emily/260219ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St02]{ .artR width="460" }][St02]
+
 
 ### 2.1 Wardrobe
 **Locked canon**
@@ -128,7 +138,7 @@ This matters because:
 - she must socially function in a new female group
 - ordinary young-woman situations become practical tests of belonging
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -139,7 +149,9 @@ This matters because:
 
 ## 3. Timeline Overview
 
-<img src="/assets/images/emily/260219aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St03]{ .artR width="460" }][St03]
+
 
 ### 3.1 Broad project structure
 **Provisional canon**
@@ -162,7 +174,7 @@ Current discussion has reached:
 - Scene Five is expected to move to **Friday night**, where the girls suggest a **pool party**.
 - Scene Six is expected to centre on Charli’s possible selective disclosure to Brittany, provided Brittany earns that trust in Scene Five.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -173,7 +185,9 @@ Current discussion has reached:
 
 ## 4. Principal Character Canon
 
-<img src="/assets/images/emily/260219av.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St04]{ .artR width="460" }][St04]
+
 
 ### 4.1 Charli / Charlie / Charli Rossignol
 **Locked canon**
@@ -216,7 +230,7 @@ Charli is thriving in teaching mode and winning respect in the Queensland settin
 
 Charli should not disclose private truths out of panic. If she discloses, it should be because another person has become someone she trusts.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -227,7 +241,9 @@ Charli should not disclose private truths out of panic. If she discloses, it sho
 
 ## 4.2 Celeste Shelley
 
-<img src="/assets/images/emily/260219au.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St05]{ .artR width="460" }][St05]
+
 
 ### Full Name: Celeste Shelley
 
@@ -278,7 +294,7 @@ Celeste had earlier feared that Charli might not cope being away from the full W
 
 Celeste represents “home” to Charli, not merely in romance but in emotional shelter, orientation, and female placement.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -289,7 +305,9 @@ Celeste represents “home” to Charli, not merely in romance but in emotional 
 
 ## 4.3 Sarah St Michaels
 
-<img src="/assets/images/emily/260219at.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St06]{ .artR width="460" }][St06]
+
 
 **Locked canon**
 
@@ -312,7 +330,7 @@ Sarah has been preoccupied with the practical finishing touches of Wardrobe’s 
 
 Sarah’s voice should remain dry, sharp, and consistent even if the wider narrative tone later softens.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -323,7 +341,8 @@ Sarah’s voice should remain dry, sharp, and consistent even if the wider narra
 
 ## 4.4 Brittany Finlayson
 
-<img src="/assets/images/emily/260219as.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St07]{ .artR width="460" }][St07]
 
 
 **Locked canon / emerging canon**
@@ -373,7 +392,7 @@ If she does this, she earns Charli’s trust.
 
 Brittany earns trust **not by demanding truth, but by handling ambiguity with grace**.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -384,7 +403,9 @@ Brittany earns trust **not by demanding truth, but by handling ambiguity with gr
 
 ## 4.5 Fiona March
 
-<img src="/assets/images/emily/260219ar.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St08]{ .artR width="460" }][St08]
+
 
 **Locked canon (limited but usable)**
 
@@ -410,7 +431,7 @@ Mara is part of the women’s competence network and is linked to training, prof
 
 Mara’s evolution in how she names Charli signals status change and metamorphosis.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -421,7 +442,9 @@ Mara’s evolution in how she names Charli signals status change and metamorphos
 
 ## 5. Relationship Canon
 
-<img src="/assets/images/emily/260219aq.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St09]{ .artR width="460" }][St09]
+
 
 ### 5.1 Celeste ↔ Charli
 **Locked canon**
@@ -464,7 +487,7 @@ The girls’ inclusion should feel:
 
 The danger in scenes like the pool-party scene should come from **normality becoming difficult**, not from the girls becoming villains.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -475,7 +498,10 @@ The danger in scenes like the pool-party scene should come from **normality beco
 
 ## 6. Backstory and Deeper Continuity
 
-<img src="/assets/images/emily/260219ap.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St10]{ .artR width="460" }][St10]
+
+
 
 ### 6.1 Earlier hormonal / developmental history
 **Locked canon**
@@ -498,7 +524,7 @@ Though physically read as female, Charli lacks much of the accumulated experienc
 
 The term “wife” for Charli originally came from Celeste casually assigning the role. Celeste did not initially understand how impactful the label would be. Other women heard it, agreed, and reinforced it, further shaping Charli’s emerging identity.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -509,7 +535,9 @@ The term “wife” for Charli originally came from Celeste casually assigning t
 
 ## 7. Voice, POV, and Style Rules
 
-<img src="/assets/images/emily/260219ao.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St11]{ .artR width="460" }][St11]
+
 
 ### 7.1 General prose values
 **Locked canon**
@@ -547,7 +575,7 @@ Aim for:
 - precise social pressure
 - women-led steadiness
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -558,7 +586,9 @@ Aim for:
 
 ## 8. Established Recent Scene Canon
 
-<img src="/assets/images/emily/260219an.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St12]{ .artR width="460" }][St12]
+
 
 ### 8.1 The phone-call hinge scene (recent)
 **Locked canon**
@@ -591,7 +621,7 @@ This line lands as reassurance for both of them.
 
 This short scene resolves a larger concern: Celeste’s fear that Charli might not survive being away from the Wardrobe container. The scene proves that phone contact has become a viable support mechanism.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -602,7 +632,9 @@ This short scene resolves a larger concern: Celeste’s fear that Charli might n
 
 ## 9. Scene Five Canon Planning
 
-<img src="/assets/images/emily/260219am.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St13]{ .artR width="460" }][St13]
+
 
 ### 9.1 Core movement
 **Locked canon for planning**
@@ -643,7 +675,7 @@ It is about:
 - no Brittany becoming interrogative too soon
 - no humiliating collapse of Charli’s competence
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -654,7 +686,9 @@ It is about:
 
 ## 10. Scene Six Canon Planning
 
-<img src="/assets/images/emily/260219al.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St14]{ .artR width="460" }][St14]
+
 
 ### 10.1 Prerequisite
 **Locked canon for planning**
@@ -721,7 +755,7 @@ Women in this world should be strong, competent, and often right. Even where the
 
 Short scenes are not inherently slight. If a scene resolves a genuine emotional or structural problem, brevity can be a strength. Do not pad scenes simply to make them look “substantial.”
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -732,7 +766,9 @@ Short scenes are not inherently slight. If a scene resolves a genuine emotional 
 
 ## 12. Open Questions
 
-<img src="/assets/images/emily/260219ak.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St15]{ .artR width="460" }][St15]
+
 
  / Not Yet Locked
 
@@ -759,7 +795,7 @@ Short scenes are not inherently slight. If a scene resolves a genuine emotional 
 - exact city / adulthood expansions
 - final architecture of all supporting characters’ long arcs
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -770,7 +806,9 @@ Short scenes are not inherently slight. If a scene resolves a genuine emotional 
 
 ## 13. Useful Governing Principles
 
-<img src="/assets/images/emily/260219aj.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St16]{ .artR width="460" }][St16]
+
 
 *(Quick Reference)*
  
@@ -814,7 +852,7 @@ These are not necessarily final prose, but they are key continuity anchors.
 ### Reassurance line
 > “You are, petal. That will never change.”
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -825,7 +863,9 @@ These are not necessarily final prose, but they are key continuity anchors.
 
 ## 15. Suggested Next Passes
 
-<img src="/assets/images/emily/260219ai.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St17]{ .artR width="460" }][St17]
+
 
 ### High priority
 - lock Scene Five beat-by-beat once drafted
@@ -860,7 +900,7 @@ These are not necessarily final prose, but they are key continuity anchors.
 
 Charli’s social risk profile is that of a young woman, but without the full lived apprenticeship most girls accumulate through adolescence.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -871,7 +911,9 @@ Charli’s social risk profile is that of a young woman, but without the full li
 
 ## identity shaping
 
-<img src="/assets/images/emily/260219ah.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St18]{ .artR width="460" }][St18]
+
 
 
 ### 16.2 Earlier social / identity shaping
@@ -991,7 +1033,7 @@ This scene reassures:
 - If Brittany proves herself safe in Scene Five, Charli may choose in Scene Six to tell her something private.
 - This should occur because Brittany has **earned** more of Charli, not because Charli has been pressured into confession.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -1002,7 +1044,9 @@ This scene reassures:
 
 ## 17. Core Character Dossiers (Working Draft)
 
-<img src="/assets/images/emily/260219ag.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St19]{ .artR width="460" }][St19]
+
 
 ### 17.1 Charli dossier
 
@@ -1044,7 +1088,7 @@ Charli is a young woman shaped by female guidance, emotional responsiveness, and
 #### Current pressure point
 The pool-party scenario threatens to expose the gap between social belonging and bodily ease.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -1055,7 +1099,9 @@ The pool-party scenario threatens to expose the gap between social belonging and
 
 ## Celeste
 
-<img src="/assets/images/emily/260219af.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St20]{ .artR width="460" }][St20]
+
 
 
 ### 17.2 Celeste dossier
@@ -1095,7 +1141,7 @@ Celeste is one of the chief governing intelligences of the story: strong, clear,
 #### Relational role
 Celeste is “home” to Charli: not merely beloved, but orienting.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -1106,7 +1152,9 @@ Celeste is “home” to Charli: not merely beloved, but orienting.
 
 ### 17.3 Brittany dossier
 
-<img src="/assets/images/emily/260219ae.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St21]{ .artR width="460" }][St21]
+
 
 #### Status
 **Emerging but increasingly important dossier**
@@ -1145,7 +1193,7 @@ In Scene Five, Brittany should earn trust by helping Charli quietly and preservi
 #### Governing rule
 Brittany must feel like **a decent young woman**, not a saint, not a rescuer archetype, and not a shock machine.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -1156,7 +1204,9 @@ Brittany must feel like **a decent young woman**, not a saint, not a rescuer arc
 
 ### 17.4 Sarah dossier
 
-<img src="/assets/images/emily/260219ad.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St22]{ .artR width="460" }][St22]
+
 
 #### Status
 **Locked core dossier**
@@ -1187,7 +1237,7 @@ At the present point, Sarah is busy with Wardrobe’s physical setup details and
 #### Voice rule
 Sarah’s dryness and standards-driven nature should remain stable even as the overall narrative tone may soften later.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -1198,7 +1248,9 @@ Sarah’s dryness and standards-driven nature should remain stable even as the o
 
 ### 17.5 Mara dossier
 
-<img src="/assets/images/emily/260219ac.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St23]{ .artR width="460" }][St23]
+
 
 #### Status
 **Locked broader dossier**
@@ -1225,7 +1277,7 @@ Mara belongs to the triad of women who shape Charli differently:
 - one directs socially
 - one trains professionally
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -1236,7 +1288,9 @@ Mara belongs to the triad of women who shape Charli differently:
 
 ### 17.6 Lauren dossier
 
-<img src="/assets/images/emily/260219ab.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St24]{ .artR width="460" }][St24]
+
 
 #### Status
 **Locked broader dossier**
@@ -1270,7 +1324,7 @@ Fiona is one of the local figures whose respect matters. She helps signal whethe
 #### Current narrative function
 Fiona’s regard helps establish that Charli is becoming credible and valued in the new setting.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -1281,7 +1335,9 @@ Fiona’s regard helps establish that Charli is becoming credible and valued in 
 
 ## 18. Suggested Future Canon Expansions
 
-<img src="/assets/images/emily/260219aa.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![img][St25]{ .artR width="460" }][St25]
+
 
 ### 18.1 High value next additions
 - fuller dossier for Celeste’s inner arc
@@ -1298,12 +1354,19 @@ Fiona’s regard helps establish that Charli is becoming credible and valued in 
 
 _End of working draft._
 
+<hr class="section-break strong" />
+
+
+
 
 
 
 
 ## ElevenLabs Character Cards
-### Discussion
+
+
+[![img][St26]{ .artR width="460" }][St26]
+
 
 Yes — this is exactly where the project quietly becomes **audio drama production**, not just “generate some narration.” Ben-Hur with corsets and better women. 😄
 
@@ -1502,7 +1565,7 @@ The women need nuance and consistency. The men can be cast later unless they car
 
 And honestly, that fits the story beautifully: the world is held together by women’s voices. The male voices enter as pressures, interruptions, history, or institutional noise. They matter, but they do not organise the room. 🌺
 
-
+<hr class="section-break strong" />
 
 
 
@@ -1512,7 +1575,11 @@ And honestly, that fits the story beautifully: the world is held together by wom
 
 ## Further Notes
 
-Robyn   
+
+[![img][St27]{ .artR width="460" }][St27]
+
+
+[Robyn]   
 Confirmed: Charlotte's voice is Daisy. I selected her because one could say she sounds a bit like a boy whose voice hasn't broken yet, which—fortunately for Charlotte—never did happen. Daisy might sound a bit too confident, perhaps, however.
 The "Australian" voices on ElevenLabs... aren't. Not Aussie at all. Because most of my lovely readers are likely from the US, they simply cannot distinguish between Aussie, Kiwi, South African or POME. It took my the better part of a year before I could "pick the Kiwi".
 So, better for them my characters have a Aussie-adjacent accent vs Valley Girl USA.
@@ -1649,9 +1716,18 @@ Avoid:
 
 The next voice I’d cast is **Sarah**. She is the one most likely to collapse if the accent is wrong. Sarah needs edge, timing, and a voice that can make a correction sound like both an insult and a favour. She may be the hardest one after Celeste.
 
+<hr class="section-break strong" />
 
 
----
+
+
+
+
+
+## Accents
+
+
+[![img][St28]{ .artR width="460" }][St28]
 
 
 [Robyn]   
@@ -1738,13 +1814,16 @@ and make it mean four things at once: love, worry, warning, and recognition.
 
 That’s Lauren. Not French exactly. But perhaps with enough Rossignol in the family weather that Mara notices the air shift. 🌺
 
-
+<hr class="section-break strong" />
 
 
 
 
 
 ## Work Text for Audio
+
+[![img][St29]{ .artR width="460" }][St29]
+
 
 Celests Girl. Scene six.
 —
@@ -1755,3 +1834,51 @@ Answers.
 "Rossinyol.”
 —
 I stopped to taste it. “French for: Nightingale.”
+
+
+<!--   Image Links    /-->
+
+[Bnr03b]: ../assets/images/story/Bnr03b.jpg
+
+[St00]: ../assets/images/story/00Writer.jpg
+[St01]: ../assets/images/story/Scene03a.jpg
+[St02]: ../assets/images/story/Scene03a.jpg
+[St03]: ../assets/images/story/Scene03a.jpg
+[St04]: ../assets/images/story/Scene03a.jpg
+[St05]: ../assets/images/story/Scene05a.jpg
+[St06]: ../assets/images/story/Scene06a.jpg
+[St07]: ../assets/images/story/Scene07a.jpg
+[St08]: ../assets/images/story/Scene08a.jpg
+[St09]: ../assets/images/story/Scene09a.jpg
+[St10]: ../assets/images/story/Scene10a.jpg
+[St11]: ../assets/images/story/Scene11a.jpg
+[St12]: ../assets/images/story/Scene12a.jpg
+[St13]: ../assets/images/story/Scene13a.jpg
+[St14]: ../assets/images/story/Scene14a.jpg
+[St15]: ../assets/images/story/Scene15a.jpg
+[St16]: ../assets/images/story/Scene16a.jpg
+[St17]: ../assets/images/story/Scene17a.jpg
+[St18]: ../assets/images/story/Scene18a.jpg
+[St19]: ../assets/images/story/Scene19a.jpg
+[St20]: ../assets/images/story/Scene20a.jpg
+[St21]: ../assets/images/story/Scene21a.jpg
+[St22]: ../assets/images/story/Scene22a.jpg
+[St23]: ../assets/images/story/Scene23a.jpg
+[St24]: ../assets/images/story/Scene24a.jpg
+[St25]: ../assets/images/story/Scene25a.jpg
+[St26]: ../assets/images/story/Scene26a.jpg
+[St27]: ../assets/images/story/Scene27a.jpg
+[St28]: ../assets/images/story/Scene28a.jpg
+[St29]: ../assets/images/story/Scene29a.jpg
+[St30]: ../assets/images/story/Scene30a.jpg
+[St31]: ../assets/images/story/Scene31a.jpg
+[St32]: ../assets/images/story/Scene32a.jpg
+[St33]: ../assets/images/story/Scene33a.jpg
+[St34]: ../assets/images/story/Scene34a.jpg
+[St35]: ../assets/images/story/Scene35a.jpg
+
+<!--
+😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 👗 👚 👜 👠 🩰 💄  💞 💖 ❤️ 💋 🎻 📒 🩸 💧 🚺 ❤️ 🫧 🌩 🌧 🧵 🪡 —
+/-->
+
+<hr class="section-break strong" />
