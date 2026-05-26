@@ -1,9 +1,6 @@
 # Odd Little Videos
 
-[Travels](#travels)
 
-[Back to the Main Page](../index.md)
-[Older Stuff](#older-stuff)
 
 <hr class="section-break strong" />
 

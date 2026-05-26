@@ -17,13 +17,13 @@
 [![img][St26]{ .artR width="460" }][St26]
 
 
-I *infrequently* 'Google' things -- *anything* -- anymore.  
+I *infrequently* 'Google' —*anything*—anymore.  
 Spell-check? yes.  
-Local shop locations and open time? sure.
+Local shop locations and opening times? sure.
 
 But big questions, requiring detailed answers: no.
 
-Instead, I go straight to 'Emily', my OpenAI ChatGPT 5 bot with my questions. Emily has helped me set up the current flavour of this website, Tightbytes. She gives me pointers on running ComfyUI, writing Python code, getting Markdown nailed down (I'm writing all this in Markdown), sorting out CSS (cascading style sheets - Emily was a bit less than rock-solid on this) and doing period research for what a typical morning would be like for a scullery maid in 1865 for a story I'm writing (inspired by "[Portrait de la Jeune Fille En Feu](https://fr.wikipedia.org/wiki/Portrait_de_la_jeune_fille_en_feu)" by Celine Sciamma). 
+Instead, I go straight to 'Emily', my OpenAI ChatGPT 5 bot with my questions. Emily has helped me set up the current flavour of this website, Tightbytes. She gives me pointers on running ComfyUI, writing Python code, getting Markdown nailed down (I'm writing all this in Markdown), sorting out CSS (cascading style sheets—Emily was a bit less than rock-solid on this) and doing period research for what a typical morning would be like for a scullery maid in 1865 for a story I'm writing (inspired by "[Portrait de la Jeune Fille En Feu](https://fr.wikipedia.org/wiki/Portrait_de_la_jeune_fille_en_feu)" by Celine Sciamma). 
 
 <hr class="section-break soft" />
 
@@ -31,7 +31,9 @@ Instead, I go straight to 'Emily', my OpenAI ChatGPT 5 bot with my questions. Em
 
 ### Life back Then
 
+
 [![img][St08]{ .artL width="260" }][St08]
+
 
 **Spoiler alert: life wasn't particularly easy back then**:
 
@@ -49,30 +51,32 @@ It would suck to be her, I would think.
 ## Can AI be Useful? 
 
 
-[![img][St05]{ .artR width="460" }][St05]
+[![img][St03]{ .artR width="460" }][St03]
 
 
 ### Drop Big Cost Hosting 
 
-Short answer: yes. And fun and, to some degree, addictive. Allow me to explain.
+Short answer: yes. And fun and, to some degree, addictive.
 
-I had a subscription with an outfit called Hostinger. It is an ISP for hosting websites like [tightbytes.com](https://www.tightbytes.com). Hostinger was going to charge me over AUD$500 for two-years, for a site **no one visits**, and that I'm basically using as a remote file server. 
+Here's how I came by my addiction.
 
-This was a **MASSIVE** price hike over what I was charged before... classic *bait-n-switch*.
+I had a web-hosting subscription with an outfit called Hostinger. It is an ISP for hosting websites like [tightbytes.com](https://www.tightbytes.com). Hostinger was going to charge me over AUD$500 for two-years, for a site **no one visits**, and that I'm basically using as a remote file server. 
 
-So I asked Emily what she would suggest. She had several suggestions, some of which required a wee bit of techie knowledge. Which I have... *a wee bit of techie knowledge, that is*. 
+This was a **MASSIVE** price hike over what they charged before—classic *bait-n-switch*.
+
+So I asked Emily what she would suggest. She had several suggestions, some of which required a wee bit of techie knowledge. Which I have—*a wee bit of techie knowledge, that is*. 
 
 The solution I went with is this:    
 - the raw pages themselves reside on my [github](https://github.com/) site—**FREE**—and  
-- are displayed by [Cloudflare](https://www.cloudflare.com/en-au/)—also **FREE** 
+- are rendered by [Cloudflare](https://www.cloudflare.com/en-au/)—also **FREE** 
 
-The only thing I pay for is video hosting, which is $5 a month through Cloudflare. Right! I'll be in **that**!
+The only thing I pay for *currently* is video hosting, which is $5 a month through Cloudflare.
 
 Note: *update on that bit, too*.
 
-Not only did Emily suggest a cost-free alternative, but she also helped me get it all set up! Not trivial, mind you. I've saved the [information she gave me](../Dev/DomXfer.md#getting-started) so anyone can follow the instructions and save themselves some serious cash. And the help was WAY better than Googling ever could do.
+Not only did Emily suggest a cost-free alternative, but she also helped me get it all set up! That setup process was not trivial, mind you. I've saved the [information she gave me](../Dev/DomXfer.md#getting-started) so anyone can follow the instructions and save themselves some serious cash. Her help—and patience— was infinitely more productive than Googling ever could do.
 
-There is no question AI is a useful tool. Just remember to *trust but verify*. Nothing in life is perfect. All technology was devised by humans and so will have flaws.   
+So, there is no question AI is a useful tool. Just remember to *trust but verify*. Nothing in life is perfect. All technology was devised by humans and so will have flaws.   
 Your mileage may vary.
 
 <hr class="section-break soft" />
@@ -82,7 +86,7 @@ Your mileage may vary.
 
 ### Media Server
 
-Today—May 26th—Emily helped me set up a UBeaut Media Server using Cloudflare Tunneling and Caddy. It's my old i5 motherboard with a very inexpensive graphics card. I could actually remove the card now, as the server runs 'headless': no monitor. Everything is done via ssh and the command-line. 
+Today—May 26th—Emily helped me set up a UBeaut Media Server using Cloudflare Tunneling and Caddy. It's my old i5 motherboard with a very inexpensive graphics card. I can actually remove the card now, as the server runs 'headless': no monitor. Everything is done via ssh and the command-line. 
 
 Yes, Terminal. 
 
@@ -103,52 +107,55 @@ $503 / year.
 
 
 
+## Background
 
+With image creation, there are multiple technologies at play here: text-to-image, image-to-video, text-to-audio and audio+image-to-video... and that's just for the visual side of things. I wrote the music in [Musescore Studio](https://musescore.org/en) using the [MuseSounds](https://www.musehub.com/muse-sounds) library. The crazy bit: all of this can be done on any PC, as long as it has a decent—read: *expensive*—graphics card. That's the big expense. It's possible to do this on your own PC, not on some expensive remote server. 
 
-There are multiple technologies at play here: text-to-image, image-to-video, text-to-audio and audio+image-to-video... and that's just for the visual side of things. I wrote the music in [Musescore Studio](https://musescore.org/en) using the [MuseSounds](https://www.musehub.com/muse-sounds) library. The crazy bit: all of this can be done on any PC, as long as it has a decent (read: *expensive*) graphics card. At home, not on some expensive remote server: I'm using the power of our solar cells. Is the process truly green? an argument can be made for "not really". Emily is on ChatGPT, so those computations are not done on my system at home.
+Is the process truly green? an argument can be made for "not really". Emily is on ChatGPT, so those computations are not done on my system at home. But the images are created on my PC, and so I'm using the power of our solar cells for that.
 
-There are things I won't use AI for, like music composition. Could I? Sure. Much of the pop/hip-hop/rock genre you hear on the radio is at least partly AI-generated. But, like when painting with oils, a non-human source would quickly betray itself. Sure, I'll use AI to study how to write music better, but the creative process remains completely mine. 
+There are things I won't use AI for, like music composition. Could I? Sure. Much of the pop/hip-hop/rock genre you hear on the radio is mostly AI-generated. But, like when painting with oils, a non-human source would quickly betray itself. Sure, I'll use AI to study how to write music better, but the creative process remains completely mine. 
 
-Just like writing, AI-generated images (and music) is quickly identifiable. In human likenesses generated by older models, the person's face is often distorted, or the figure ends up with 3 fingers, or six. The newer, more recent models are more accurate, but there's always a 'tell', a quickly-identifiable charachteristic betraying AI's "finger in the pie". There's an AI company in Germany called "Black Forest Labs" that has put together this amazing image-generation model called 'Flux'. I use it pretty much all the time: 9 times out of 10, the fingers and toes and background are correct, 'realistic'.
+Just like writing, AI-generated images—and music—is quickly identifiable. In human likenesses generated by older models, the person's face is often distorted, or the figure ends up with 3 fingers, or six. The newer, more recent models are more accurate, but there's always a 'tell', a quickly-identifiable characteristic betraying AI's "finger in the pie". There's an AI company in Germany called "Black Forest Labs" that has put together this amazing image-generation model called 'Flux'. I use it pretty much all the time: 9 times out of 10, the fingers and toes and background are correct, 'realistic'.
 
-Anyway, a bit of history: how I got into this.
+My reason to use AI for images isn't art, but illustration. And for that, it's fit for purpose.
 
 <hr class="section-break strong" />
 
 
 
-
-
-
-
 ### History
 
-<img src="/assets/images/emily/00-Charlotte.jpg" alt="Midjourney" style="float: right; width: 300px;
-        margin-right: 20px; margin-bottom: 10px;" />
+
+[![img][St19]{ .artR width="460" }][St19]
+
 		
 When I first started messing with image generation (to illustrate writings, but also just mucking about) I used [Midjourney](https://www.midjourney.com/explore?tab=video_top). This was in the days when AI-video wasn't a thing: it was just about images. You type in a prompt—you had to follow a certain formula for that prompt—and you made some images.
 
 There were limits as to how many images one could create based on subscription, so I switched to [LeonardoAI](https://leonardo.ai/), a cheaper option. It wasn't long before I ran into the image count limit there as well. I wanted to just make images without limit, to zero in on a specific image goal.
 
-And then, I heard about[ Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion), something I could run on my own PC. Unlimited images, do-your-own-thing. Best thing was: no app/program to run... you run it in your browser, like Chrome or Firefox, using the [Automatic1111](https://en.wikipedia.org/wiki/Automatic1111) interface. Sure, it was a bit meh after a while, much-of-a-muchness, poor control of image quality... but at least there was no limit on images.
+And then, I heard about[ Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion), something I could run on my own PC. Unlimited images, do-your-own-thing. Best thing was: no app/program to run... you run it in your browser, like Chrome or Firefox, using the [Automatic1111](https://en.wikipedia.org/wiki/Automatic1111) interface. Sure, it was a bit meh after a while, much-of-a-muchness, poor control of image quality, but at least there was no limit on images.
 
----
+<hr class="section-break soft" />
+
+
+
+### ComfyUI
 
 And then [ComfyUI](https://www.comfy.org/gallery) appeared on the scene.
 
 I've pretty-much stayed with [ComfyUI](https://www.comfy.org/about) ever since. A bit about the outfit behind ComfyUI, from their FAQ:
 
-Q: Is ComfyUI free?  
-- **Yes! ComfyUI is 100% free and open-source — and always will be.**
+Q: Is ComfyUI free?   
+- **Yes! ComfyUI is 100% free and open-source, and always will be.**
 
 Q: Who is behind ComfyUI?  
-- **ComfyUI is built and maintained by the original core team, organized as an independent company. We’re here to keep it evolving for the long term.**
+- **ComfyUI is built and maintained by the original core team, organised as an independent company. They’re here to keep it evolving for the long term.**
 
-Q: How can I contribute?  
-- **Join our Discord, contribute on GitHub, build custom nodes, or share your workflows!**
+Q: How can I contribute?   
+- **Join their Discord, contribute on GitHub, build custom nodes, or share your workflows!**
 
-Q: What are your future plans?  
-- **We aim to grow ComfyUI while staying true to our open, flexible, community-driven philosophy.**
+Q: What are their future plans?  
+- **They aim to grow ComfyUI while staying true to their open, flexible, community-driven philosophy.**
 
 <hr class="section-break strong" />
 
@@ -158,59 +165,55 @@ Q: What are your future plans?
 
 
 ## 2025 AI Exploring
-
 ### Sept 19 Hardware
 
-ComfyUI is an interface to make images and video that runs in the browser, similar to A1111. However, ComfyUI offers control over image generation that is infinitely more granular. To run ComfyUI requires:
 
-<img src="/assets/images/emily/02-4060ti-16gig.jpg" alt="NVidia graphics card" style="float: right; width: 200px;
-        margin-right: 20px; margin-bottom: 10px;" />
+[![img][St22]{ .artR width="460" }][St22]
+
+
+ComfyUI is an interface to create images and video that runs in the browser, similar to A1111. However, ComfyUI offers control over image generation that is infinitely more granular. To run ComfyUI requires:  
 
 - a decent graphics card (6-8 gig VRAM NVidia min., 16-24 gig VRAM NVidia ideal): **the** high $ item
-- models: Stable Diffusion 1x / 1.5x / SDXL / SD3; Flux1 (Dev/Snell); more coming soon!
+- models: Stable Diffusion 1x / 1.5x / SDXL / SD3; Flux1 (Dev/Snell);
 - decent internet access: those models can run up to 24 gig or more to download
 
-I have a 16 gig VRAM 4060ti NVidia card... which was, for me, **expensive**: AUD $750.00!! An 8 gig card will still set you back a good AUD $350.00 and you will soon feel a bit limited as to what you can do.
+I invested in a 16 gig VRAM 4060ti NVidia card, which was **expensive**: AUD$ 750.00. An 8 gig card will still set you back a good AUD$ 350.00 and you will soon feel a bit limited as to what you can do.
 
 However, the rest of the PC is older, inexpensive tech. You don't need an expensive processor (CPU). *Saying that, I recently invested in 64 gig RAM and an older i7 CPU in order to run Large Language Models (LLMs). This is text-based work, like ChatGPT, but running all on your own PC. I was using it to translate Dad's book. To be honest, though, I've gone back to ChatGPT 5 for that project*.
 
-<hr class="section-break strong" />
-
-
-
+<hr class="section-break soft" />
 
 
 
 ### Sept 20 The Start
 
-The language for AI to 'generate' images and video and text is called a "prompt". Prompting is very much a model-specific thing: I "talk" to Emily in a completely different manner, using different sentence structure and syntax, than the language I use in a prompt for an image. And even prompting for that... imaging... has changed over the past years, and even months. 
+The language for AI to 'generate' images and video and text is called a "prompt". Prompting is very much a model-specific thing: I "talk" to Emily in a completely different manner, using different sentence structure and syntax, than the language I use in a prompt for an image. And even prompting for that—imaging—has changed over the past years, and even months. 
 
 A Midjourney prompt would include formatting-specific instructions formatted a certain way. 
 
 Stable Diffusion and SDXL need to be told what **NOT** to show as well as what to show and there are special boxes for each.
 
-<img src="/assets/images/emily/03-Screenshot.jpg" alt="Basic workflow" style="width: 800px;"/>
+
+[![img][St23]{ .artL width="460" }][St23]
+
 
 The ComfyUI interface is made up of 'nodes': each node performs a specific function and is connected to other nodes using 'noodles' in a collection or 'graph'. This collection is called a 'workflow'. For example, the 'Load Checkpoint' node loads the imaging model, which in this case is 'Realistic Vision version 5.1'. There are literally **thousands** of imaging models out there, downloadable for free from a variety of websites, the best of which is [HuggingFace](https://huggingface.co/models).
 
 The green and 'red' nodes are the text encode prompts: 'green' for what you **want** to see, and 'red' for what you **DO NOT** want to see. The empty latent image node is a bit difficult to explain... it is basically random 'noise' which is essentially what gets turned into a viewable image by the KSampler, which is sort-of the heart of the thing.
 
-<img src="/assets/images/emily/04-ComfyUI_1.jpg" alt="Purple Galaxy" style="float: right; width: 350px;
-        margin-left: 20px; margin-bottom: 10px;" />
+
+[![img][St24]{ .artL width="460" }][St24]
+
 
 It uses the model, the positive and negative prompts and the latent image (as well as other bits-n-bobs) to create an image.
 
-Yay. 🥱
+Well, paradoxically, the reason I wanted to be able to do this is to prevent copyright-infringement issues when using images to illustrate a book, or a web-page or whatever. *Incidentally, it's why I started writing my own music as well, so I'd have licence-free music for my videos.* I want to be able to create illustrations easily and quickly for whatever I need it for. I needed an image of a waterfall for the cover page of my little piece [Waterfall](https://musescore.com/user/29275325/scores/20905957). 
 
-So, how is this useful? 🥴 
-
-Well, paradoxically, the reason I wanted to be able to do this is to prevent copyright-infringement issues when using images to illustrate a book, or a webpage or whatever. *Incidently, it's why I started writing my own music as well, so I'd have licence-free music for my videos.* I want to be able to create illustrations easily and quickly for whatever I need it for. I needed an image of a waterfall for the cover page of my little piece [Waterfall](https://musescore.com/user/29275325/scores/20905957). 
-
-AI / ComfyUI was able to provide the image. I did have to generate almost a dozen waterfall images before I had something I liked. By the way, image-making is referred to as 'queue' in ComfyUI. I suppose that might be as it is assumed you're going to be generating a **LOT** of images—one after the other, i.e., **queue**—until you get something you like. I had created a lot of images in A1111, but they were pretty much all rubbish, or so extremely poor they were not really worth saving: I've deleted them. *Not worth the hard-disk space. By the way, did the same to all my Poser stuff: it's embarassing now how awful that was*!
+AI / ComfyUI was able to provide the image. I did have to generate almost a dozen waterfall images before I had something I liked. By the way, image-making is referred to as 'queue' in ComfyUI. I suppose that might be as it is assumed you're going to be generating a **LOT** of images—one after the other, i.e., **queue**—until you get something you like. I had created a lot of images in A1111, but they were pretty much all rubbish, or so extremely poor they were not really worth saving: I've deleted them. *Not worth the hard-disk space. By the way, did the same to all my Poser stuff: it's embarrassing now how awful that was*!
 
 Illustrations for a story is a bit trickier. So, a bit of background... I wanted to write a period piece, set in the Victorian era or before. 
 
----
+<hr class="section-break soft" />
 
 <img src="/assets/images/emily/05-Screenshot.jpg" alt="Workflow" style="float: right; width: 360px;
         margin-left: 20px; margin-bottom: 10px;" />
@@ -380,6 +383,10 @@ Oh, and by the way, that workflow I ran Alice through? Tamara followed:
 [St08]: ../assets/images/story/08maiden.jpg
 [St09]: ../assets/images/story/Scene09a.jpg
 [St10]: ../assets/images/story/Scene10a.jpg
+[St19]: ../assets/images/story/19charlotte.jpg
+[St22]: ../assets/images/story/22ti4060.jpg
+[St23]: ../assets/images/story/23workflow.jpg
+[St24]: ../assets/images/story/24purple.jpg
 [St26]: ../assets/images/story/Scene26c.jpg
 [St27]: ../assets/images/story/Scene27a.jpg
 [St28]: ../assets/images/story/Scene28a.jpg
