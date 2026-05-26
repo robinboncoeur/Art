@@ -21,7 +21,7 @@ These pieces live in my head when I write.
   <div>
     <p>Beliczay—Serenade for Strings</p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/RfkPgKFpmQtYzfm/download" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/ytdl/Beliczay-Serenade4Strings-Full.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -38,7 +38,7 @@ These pieces live in my head when I write.
   <div>
     <p>Elgar—Minuet</p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/4rsB88xd6Mt4qTn/download" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/ytdl/Elgar-Minuet.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -55,7 +55,7 @@ These pieces live in my head when I write.
   <div>
     <p>Finzi—Love's Labour Lost</p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/AGY859Lxyf5GDMo/download" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/ytdl/Finzi-LovesLost.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -72,7 +72,7 @@ These pieces live in my head when I write.
   <div>
     <p>Elgar—Mina</p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/cym57osR3SGQPDK/download" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/ytdl/Elgar-Mina.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -90,7 +90,7 @@ These pieces live in my head when I write.
   <div>
     <p>Elgar—Serenade Mauresque</p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/DePn88meDAbJknA/download" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/ytdl/Elgar-SMauresq.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -108,7 +108,7 @@ These pieces live in my head when I write.
   <div>
     <p>Holst—A Moorside Suite</p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/GFzH4sN4S7T7wkn/download" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/ytdl/Holst-AMoorsideSuite.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -125,7 +125,7 @@ These pieces live in my head when I write.
   <div>
     <p>Elgar—Carissima</p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/nMbmnQqZNHBYqo4/download" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/ytdl/Elgar-Carissima.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -142,7 +142,7 @@ These pieces live in my head when I write.
   <div>
     <p>Finzi—Romance</p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/g6HrMrRnfrC6mAT/download" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/ytdl/Finzi-Romance_Op.11.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -159,7 +159,7 @@ These pieces live in my head when I write.
   <div>
     <p>Elgar—Rosemary</p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/J3kqHcLESM4r9Fq/download" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/ytdl/Elgar-Rosemary.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>

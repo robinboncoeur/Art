@@ -8,7 +8,7 @@
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/oyJEjCcLY8NKaf4/download" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/ytdl/Elgar-Minuet.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -75,186 +75,13 @@ The pages of my site are save in markdown, then uploaded to GitHub along with im
 
 
 
-
-
-
 ### The Prompt
 
 Cinematic medium close-up portrait of a young woman with soft, natural features and light brown hair loosely tied up, gazing thoughtfully off-camera to the left with a subtle, hopeful smile. She is dressed in period attire, wearing a dark, muted indigo or navy blue linen square-neck gown or bodice over a slightly ruffled, cream or off-white chemise with a square neckline. The lighting is soft, diffused daylight, suggesting an overcast or foggy morning, illuminating her face gently from the front-left, creating subtle highlights on her cheekbones and nose. She is positioned indoors, looking out from a weathered stone window or balcony opening, the dark window frame partially visible on the right. The background is a softly blurred (shallow depth of field) view of an old European city streetscape, featuring muted tones of grey, beige, and dark green from distant architectural details, including a prominent dome or spire partially visible through a pale atmospheric haze, suggesting a historical or period drama setting. The overall mood is serene, romantic, and slightly melancholic, rendered with high detail, photorealistic quality, and a color palette dominated by cool blues, greys, and soft, warm skin tones, reminiscent of film stills from the 19th century.
 
 [Prompt Generator](https://www.ryrob.com/image-to-prompt/?share=7VFcJ6ywFP8Crl)
 
-<hr class="section-break strong" />
-
-
-
-
-
-
-
-## Audiobook
-
-### Introduction
-
-<div class="music-card music-card--with-art">
-  <img src="/assets/images/story/00Writer.jpg" alt="The author" class="music-art">
-
-  <div class="music-content">
-    <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/CTdFdHzMAjqSCrF/download" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
-</div>
-
-
-
-<div class="music-card music-card--with-art">
-  <img src="/assets/images/story/Scene01a.jpg" alt="Celeste" class="music-art">
-
-  <div class="music-content">
-    <div class="music-label">Scene One</div>
-    <h3 class="music-title">Are You Lost?</h3>
-    <p class="music-desc">
-      <em>Wrong place, head in the clouds lad</em>.
-    </p>
-    <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/f6zWDZpFj88Eo6n/download" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
-</div>
-
-
-
-<div class="music-card music-card--with-art">
-  <img src="/assets/images/story/Scene02a.jpg" alt="Celeste" class="music-art">
-
-  <div class="music-content">
-    <div class="music-label">Scene Two</div>
-    <h3 class="music-title">Group Task</h3>
-    <p class="music-desc">
-      <em>The held-back boy</em>.
-    </p>
-    <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/rNE8nr37HnWRGAo/download" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
-</div>
-
-
-
-<div class="music-card music-card--with-art">
-  <img src="/assets/images/story/Scene03a.jpg" alt="Charlie" class="music-art">
-
-  <div class="music-content">
-    <div class="music-label">Scene Three</div>
-    <h3 class="music-title">Wardrobe</h3>
-    <p class="music-desc">
-      <em>Who did this?</em>.
-    </p>
-    <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/ZNMCDnnaa3MfAbo/download" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
-</div>
-
-
-
-<div class="music-card music-card--with-art">
-  <img src="/assets/images/story/Scene04a.jpg" alt="Charlie" class="music-art">
-
-  <div class="music-content">
-    <div class="music-label">Scene Four</div>
-    <h3 class="music-title">First Day</h3>
-    <p class="music-desc">
-      <em>Don't apologise, just learn</em>.
-    </p>
-    <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/sXQWkWf96AfDk7m/download" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
-</div>
-
-
-
-<div class="music-card music-card--with-art">
-  <img src="/assets/images/story/Scene05a.jpg" alt="Charlie" class="music-art">
-
-  <div class="music-content">
-    <div class="music-label">Scene Five</div>
-    <h3 class="music-title">Second Day</h3>
-    <p class="music-desc">
-      <em>Don't apologise, just learn</em>.
-    </p>
-    <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/pxxTgGxotjsJP6q/download" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
-</div>
-
-
-
-<div class="music-card music-card--with-art">
-  <img src="/assets/images/story/Scene06a.jpg" alt="Charlie" class="music-art">
-
-  <div class="music-content">
-    <div class="music-label">Scene Six</div>
-    <h3 class="music-title">Sewing as Physics</h3>
-    <p class="music-desc">
-      <em>Don't apologise, just learn</em>.
-    </p>
-    <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/wFoa4gMQqwNEd3c/download" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
-</div>
-
-
-
-<div class="music-card music-card--with-art">
-  <img src="/assets/images/story/Scene07a.jpg" alt="Charlie" class="music-art">
-
-  <div class="music-content">
-    <div class="music-label">Scene Seven</div>
-    <h3 class="music-title">Lauren</h3>
-    <p class="music-desc">
-      <em>Don't apologise, just learn</em>.
-    </p>
-    <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/pxxTgGxotjsJP6q/download" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
-</div>
-
-
-
-<div class="music-card music-card--with-art">
-  <img src="/assets/images/story/Scene08a.jpg" alt="Lauren" class="music-art">
-
-  <div class="music-content">
-    <div class="music-label">Scene Eight</div>
-    <h3 class="music-title">Infrastructure</h3>
-    <p class="music-desc">
-      <em>Don't apologise, just learn</em>.
-    </p>
-    <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/pxxTgGxotjsJP6q/download" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
-</div>
-
-<hr class="section-break strong" />
-
-
-
+<hr class="section-break soft" />
 
 
 ### Voices

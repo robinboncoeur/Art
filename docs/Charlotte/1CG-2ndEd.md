@@ -36,6 +36,17 @@ I write character-driven fiction about gender, power, belonging, and the women w
 
 [![Charlotte][St00a]{ .artL width="360" }][St00a]
 
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <div class="music-label">Introduction</div>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Scene00-CelestesGirl.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+
 I wrote **Celeste's Girl** because I'm tired of two lies: that womanhood is a costume, and that trans-women are a threat rather than an ally. I know, intimately, what male privilege feels like from the inside—and what it means to step away from it. No one abandons that invisible armour for "skirts and perfume." They do it for survival, for coherence, for the simple, radical relief of finally being able to recognise themselves in the mirror and in their own life.
 
 This book isn't interested in spectacle. It's interested in infrastructure: in the women who quietly build worlds where other women can breathe. Wardrobe is a deliberate answer to the patriarchy's workshops and back rooms. It's a place where competence is normal, where care is policy, and where a trans girl isn't a punchline or a fetish object or a theory—she's a colleague, a daughter, a wife, one of the women.
@@ -64,7 +75,7 @@ What does it cost her? What does it cost them? What does everyone gain that none
   <div class="music-content">
     <div class="music-label">Scene One</div>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/f6zWDZpFj88Eo6n/download" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/Scene01-CelestesGirl.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -192,7 +203,7 @@ I don’t always leave it alone.
   <div class="music-content">
     <div class="music-label">Scene Two</div>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/rNE8nr37HnWRGAo/download" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/Scene02-CelestesGirl.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -425,7 +436,7 @@ I could feel him watching me walk away.
   <div class="music-content">
     <div class="music-label">Scene Three</div>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/ZNMCDnnaa3MfAbo/download" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/Scene03-CelestesGirl.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -871,6 +882,17 @@ And, if he chose it, keep.
 [![Charlie][S04a]{ .artR width="460" }][S04a]
 
 
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <div class="music-label">Scene Four</div>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Scene02-CelestesGirl.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+
 [ *Celeste* ]
 
 Charlie arrived ten minutes early. I watched as he stood outside Wardrobe like it was a church he wasn’t sure he was allowed to enter. There was no phone in his hand. He simply waited, folded scrap of paper in one hand, fingers worrying the edge until it softened. Every now and then he glanced at the door—as if to check whether the world had changed its mind.
@@ -1165,6 +1187,16 @@ He was coming back tomorrow.
 
 [![Charlie][S05a]{ .artR width="460" }][S05a]
 
+
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <div class="music-label">Scene Five</div>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Scene05-CelestesGirl.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
 
 [*Celeste*]
 
