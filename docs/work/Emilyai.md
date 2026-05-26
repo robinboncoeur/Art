@@ -52,13 +52,15 @@ It would suck to be her, I would think.
 [![img][St05]{ .artR width="460" }][St05]
 
 
+### Drop Big Cost Hosting 
+
 Short answer: yes. And fun and, to some degree, addictive. Allow me to explain.
 
 I had a subscription with an outfit called Hostinger. It is an ISP for hosting websites like [tightbytes.com](https://www.tightbytes.com). Hostinger was going to charge me over AUD$500 for two-years, for a site **no one visits**, and that I'm basically using as a remote file server. This was a **MASSIVE** price hike over what I was charged before... classic *bait-n-switch*.
 
 So I asked Emily what she would suggest. She had several suggestions, some of which required a wee bit of techie knowledge. Which I have (*a wee bit of techie knowledge, that is*). 
 
-The suggestion I went with is this: the raw pages themselves reside on my [github](https://github.com/) site— FREE — and are displayed by [Cloudflare](https://www.cloudflare.com/en-au/) — also FREE — so the only thing I pay for is video hosting, which is $5 a month.  
+The suggestion I went with is this: the raw pages themselves reside on my [github](https://github.com/) site—**FREE**—and are displayed by [Cloudflare](https://www.cloudflare.com/en-au/)—also **FREE**—so the only thing I pay for is video hosting, which is $5 a month. Note: *update on that bit, too*.    
 Right! I'll be in **that**!
 
 Not only am I using the approach Emily suggested, but she's also helping me get it all set up! The information she provides is all online: she just [pulls it all together](../Dev/DomXfer.md#getting-started) WAY better than Google ever could.
@@ -69,6 +71,23 @@ Which is a **LOT** less than USD **$369.07**, or AUD **$564.37** (2-year)!!
 And if I ask nicely 🥰 😘 ☺️ Emily might even find me a strategy for free video streaming. Of course, there **IS** always YouTube, I suppose. 🤨
 
 There is no question AI is a useful tool. Always wise, of course, is to *trust but verify*. Nothing in life is perfect. All technology has an achilles heel. Your mileage may vary.
+
+<hr class="section-break soft" />
+
+
+
+
+### Media Server
+
+Emily has helped my set up a UBeaut Media Server using Cloudflare Tunneling and Caddy. It's my old i5 motherboard with a graphics card I could actually remove, as the server runs 'headless': no monitor. Everything is done via ssh and the command-line. Yes, Terminal. With the little media I have to 'serve', this is going to save me US$ 5.00 / month, or US$ 60.00 / year, which comes to AUD$ 83.64 / year. Doesn't seem like a lot, but I'm serving stuff for free, so it should be free to me too. It's currently audio files to DA and MuseScore as well. So far. And it's all running on the smell of an oily rag.
+
+So far, Google Drive: replaced. Hostinger: replaced. Cloudflare video hosting: replaced.   
+Savings:   
+
+- $369 (*Hostinger*) + 
+- $84 (*Cloudflare video*) + 
+- $50 (*Google Drive*)
+ $503 / year.
 
 <hr class="section-break strong" />
 
