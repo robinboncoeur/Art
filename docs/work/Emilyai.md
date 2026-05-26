@@ -215,6 +215,11 @@ Illustrations for a story is a bit trickier. So, a bit of background... I wanted
 
 <hr class="section-break soft" />
 
+
+
+
+
+
 <img src="/assets/images/emily/05-Screenshot.jpg" alt="Workflow" style="float: right; width: 360px;
         margin-left: 20px; margin-bottom: 10px;" />
 
@@ -241,11 +246,7 @@ Yeah, not perfect. Not even close.
 
 But the technology has very, very quickly improved. ComfyUI itself dramatically improved and **KEEPS** improving. Everything is become better, faster, more accurate, more flexible whilst offering more possibilities... and the best bit? **It is all FREE**!! Yes: no-cost. Once you have purchased your graphics card, you're good to go.
 
-<hr class="section-break strong" />
-
-
-
-
+<hr class="section-break soft" />
 
 
 
@@ -325,13 +326,7 @@ Answer for mere mortals like us: it's about accuracy, detail and approximation. 
 
 Not a shabby effort. Not as stellar as 8-bit but still heaps better than the original. Who know which one is the most accurate. Not from that time period, so it's likely to remain anyone's guess, for now.
 
----
-
-<hr class="section-break strong" />
-
-
-
-
+<hr class="section-break soft" />
 
 
 
@@ -366,7 +361,9 @@ Oh, and by the way, that workflow I ran Alice through? Tamara followed:
 
 <hr class="section-break strong" />
 
-[Back to the Main Page](../index.md)
+
+
+[Back to the Index](../index.md)
 
 
 
