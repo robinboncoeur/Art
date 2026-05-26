@@ -105,7 +105,7 @@ Cinematic medium close-up portrait of a young woman with soft, natural features 
 <div class="video-card video-card--small">
 	<div class="video-frame">
 		<video controls preload="metadata" playsinline>
-			<source src="https://cloud.seabrae.org/index.php/s/m7FrXEGBst4DNtx/download/C03.mp4" type="video/mp4">
+			<source src="https://media.seabrae.org/videos/cg/C03.mp4" type="video/mp4">
 			Your browser does not support the video tag.
 		</video>
 	</div>
