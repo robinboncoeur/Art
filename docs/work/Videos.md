@@ -154,15 +154,15 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 
 ### Tribute to Mom and Dad
 
-<div class="video-card video-card--normal">
+<div class="video-card video-card--narrow">
 	<div class="video-frame">
 		<video controls preload="metadata" playsinline>
-			<source src="https://media.seabrae.org/videos/nz/1GetThere.mp4" type="video/mp4">
+			<source src="https://media.seabrae.org/videos/hi/Tribute-Hawaii.mp4" type="video/mp4">
 			Your browser does not support the video tag.
 		</video>
 	</div>
 	<p class="video-caption">
-		<strong>Flying to Queenstown</strong> on the South Island.
+		<strong>Setting: the original Kaimu Beach</strong> tribute to Mutti and Pappa.
 </div>
 
 <hr class="section-break soft" />
