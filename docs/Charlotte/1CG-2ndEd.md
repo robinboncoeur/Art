@@ -1456,6 +1456,17 @@ And I’m not letting him waste it.
 [![Charlie][S06a]{ .artR width="460" }][S06a]
 
 
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <div class="music-label">Scene Six</div>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Scene06-CelestesGirl.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+
 [ *Celeste* ]
 
 Wardrobe didn’t feel like a repair shop anymore.
@@ -1577,7 +1588,7 @@ He stopped and looked down as his shoulders curled forward.
 There it was.
 
 I had not given him this: he had arrived at it.
-
+ 
 “And here?” Mara asked.
 
 He hesitated.

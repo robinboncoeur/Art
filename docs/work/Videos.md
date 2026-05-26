@@ -68,87 +68,106 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 
 
 
-## Travels
+## Europe
 
-Anne is Cooking at Montmartre
+### Paris-Anne is Cooking 
 
-**Public embed for f16255e78c021b7a0e5fae66ae554133**
+**at Montmartre**
 
-<div style="position:relative;padding-top:56.25%">
-  <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/f16255e78c021b7a0e5fae66ae554133/iframe"
-          allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-          allowfullscreen
-          style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
+<div class="video-card video-card--normal">
+	<div class="video-frame">
+		<video controls preload="metadata" playsinline>
+			<source src="https://media.seabrae.org/videos/eu/AnneIsCooking.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<p class="video-caption">
+		<strong>Soldiers, à la Française</strong> Anne is cooking in Montmartre.
 </div>
 
+<hr class="section-break soft" />
 
 
-Devon / Cornwall 
 
-<div style="position:relative;padding-top:56.25%">
-  <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/5f29e47ff0a7328344be195faa51f932/iframe"
-          allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-          allowfullscreen
-          style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
+
+### Devon-Cornwall 
+
+<div class="video-card video-card--normal">
+	<div class="video-frame">
+		<video controls preload="metadata" playsinline>
+			<source src="https://media.seabrae.org/videos/eu/DevonCornwall.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<p class="video-caption">
+		<strong>Adventures in Devon</strong> Chillin' in Cornwall.
 </div>
 
-
-
-New Zealand - Getting There 
-
-<video width="560" height="315" controls>
-<source src="https://tightbytes.com/videos/NZYouGetThere.mp4" type="video/mp4">
-</video>
-
-<hr style="height:2px;border-width:0;color:blue;background-color:blue">
-
-
-
-New Zealand - Trampin' (Hiking) the Mou
-
-<video width="560" height="315" controls>
-<source src="https://tightbytes.com/videos/TrampinTheMou.mp4" type="video/mp4">
-</video>
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
 
 
+## New Zealand 
+
+### Getting There 
+
+<div class="video-card video-card--normal">
+	<div class="video-frame">
+		<video controls preload="metadata" playsinline>
+			<source src="https://media.seabrae.org/videos/nz/1GetThere.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<p class="video-caption">
+		<strong>Flying to Queenstown</strong> on the South Island.
+</div>
+
+<hr class="section-break soft" />
+
+
+
+### Trampin' (Hiking) the Mou
+
+<div class="video-card video-card--normal">
+	<div class="video-frame">
+		<video controls preload="metadata" playsinline>
+			<source src="https://media.seabrae.org/videos/nz/2TrampinMou.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<p class="video-caption">
+		<strong>Trampin' (hiking) on Mou Waho</strong> at Lake Wānaka.
+</div>
+
+<hr class="section-break strong" />
 
 
 
 
-## Older Stuff
-
-Tribute to Mom and Dad
-
-<video width="560" height="315" controls>
-<source src="https://tightbytes.com/videos/TributeToDad-n-Mom.mp4.mp4" type="video/mp4">
-</video>
-
-<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 
 
-All Free Stuff
 
-<video width="560" height="315" controls>
-<source src="https://tightbytes.com/videos/AllFreeStuff.mp4" type="video/mp4">
-</video>
+## Hawaii
 
-<hr style="height:1px;border-width:0;color:blue;background-color:blue">
+### Tribute to Mom and Dad
+
+<div class="video-card video-card--normal">
+	<div class="video-frame">
+		<video controls preload="metadata" playsinline>
+			<source src="https://media.seabrae.org/videos/nz/1GetThere.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<p class="video-caption">
+		<strong>Flying to Queenstown</strong> on the South Island.
+</div>
+
+<hr class="section-break soft" />
 
 
-
-2018 October Update
-
-<video width="560" height="315" controls>
-<source src="https://tightbytes.com/videos/Oct18Update.mp4" type="video/mp4">
-</video>
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 
 
