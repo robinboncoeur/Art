@@ -11,6 +11,38 @@
 
 
 
+## Why Emily
+
+
+[![The Writer][St00]{ .artR width="460" }][St00]
+
+
+*These are edited transcripts of my writing process with an AI assistant (“Emily”).* **I use AI as a thinking partner, not a replacement for the work of writing.**
+
+From DA:
+
+What is 'Celeste's Girl'?
+
+**Celeste's Girl is a story about being in a public space as a woman and the quiet maths women do to stay safe.**
+
+Celeste's Girl is about *agency, dignity, safety and lived experience*.
+
+All my so-called artwork, including any descriptive text, depicts adults: no images involve persons less that 18 years old. I abhor depictions of harm or violence towards anyone, but most particularly towards women and children. None of the images reflect actual events.
+
+As CelestesGrl, I reserve exclusive ownership of the art that I post on Deviant Art, visual, auditory and text (literature). I no longer do derivative art. Downloading is permitted for your personal enjoyment or creating derivations. You may create new, transformative derivatives, including remixes, reinterpretations, new compositions. Please do NOT upload near-identical copies (including “same image with denoise / filters / upscale”), as that’s not transformative.
+
+**Important Note**: *I’m revising older ("old-tone") deviations to match the direction of my work now: agency, dignity and empathy. I am phasing out ‘old-tone’ uploads. This will mean that if you favourited an 'old-tone' image, the replacement image and description will almost certainly send a different message to the original. If the 'old-tone' images are what you are here for, it’s probably best to unfollow. No hard feelings*.
+
+© 2025. Non-derivative works are openly licensed via CC-BY 4.0
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
 ## Meet Emily
 
 
@@ -74,7 +106,7 @@ The only thing I pay for *currently* is video hosting, which is $5 a month throu
 
 Note: *update on that bit, too*.
 
-Not only did Emily suggest a cost-free alternative, but she also helped me get it all set up! That setup process was not trivial, mind you. I've saved the [information she gave me](../Dev/DomXfer.md#getting-started) so anyone can follow the instructions and save themselves some serious cash. Her help—and patience— was infinitely more productive than Googling ever could do.
+Not only did Emily suggest a cost-free alternative, but she also helped me get it all set up! That setup process was not trivial, mind you. I've saved the [information she gave me](../work/05DomXfer.md#getting-started) so anyone can follow the instructions and save themselves some serious cash. Her help—and patience— was infinitely more productive than Googling ever could do.
 
 So, there is no question AI is a useful tool. Just remember to *trust but verify*. Nothing in life is perfect. All technology was devised by humans and so will have flaws.   
 Your mileage may vary.
@@ -369,6 +401,92 @@ Oh, and by the way, that workflow I ran Alice through? Tamara followed:
 
 
 [Back to the Index](../index.md)
+
+
+
+
+
+
+
+
+
+
+## Notes
+
+I think that approach is exactly how you reclaim the steering wheel.
+
+Keeping the same images but changing the captions works because, on DA, **the caption is the frame**: it tells the algorithm *and* the reader what they’re supposed to be seeing. If you swap “body/embarrassment/coercion” language for “identity/social optics/choice/relationship,” the very same picture stops reading like a setup and starts reading like a scene.
+
+A few guardrails that will keep it subtle *and* still sharp:
+
+## What to lean into
+
+### 1) Make it about *social meaning*, not anatomy
+
+Instead of “you have boobs / can’t hide,” go for:
+
+* “You can’t hide behind oversized clothes anymore.”
+* “You’re becoming visible in a way you didn’t plan for.”
+* “The line between costume and self is thinning.”
+
+It keeps the theme while removing the fetish “body-fixation” hooks.
+
+### 2) Keep Celeste’s power in *interpretation*
+
+Celeste doesn’t need to say “wear this.” She can say:
+
+* “That look says something. Decide what you want it to say.”
+* “You’re not being punished. You’re being edited.”
+
+That reads as confident and psychologically astute rather than kink-coded.
+
+### 3) Keep the humour, but aim it upward
+
+Mock the *social script*, not Charlie’s embarrassment.
+
+* “People will label you either way. Pick the label you can live with.”
+* “If you’re going to be stared at, at least be intentional.”
+
+That’s the kind of wit that tends to land with women readers.
+
+## What to avoid (the “subtlety killers”)
+
+These are the words/beats that turn subtle into “oh, it’s that genre”:
+
+* underwear talk
+* “reluctant / forced / punishment / training”
+* humiliation beats (“exposed,” “everyone will laugh,” etc.)
+* parent/authority coercion as the engine (“mum made you,” “teacher insisted,” etc.)
+
+## A simple template you can reuse
+
+For each captioned image, try this 3-line structure:
+
+1. **Observation** (neutral, visual)
+2. **Meaning** (social/psychological)
+3. **Choice** (agency line)
+
+Example:
+
+* “She stared at the mirror too long.”
+* “Not because she looked wrong — because she looked *different*.”
+* “And different meant she’d have to decide who got to name it.”
+
+That’s subtle, but still unmistakably your theme.
+
+If you paste one of your current “old style” captions and tell me what you want the *new* takeaway to be, I’ll rewrite it in 3–5 variants: (a) wry, (b) tender, (c) icy Celeste, (d) minimalist.
+
+
+
+Important Note: All my so-called artwork, including any descriptive text, depicts adults doing whatever: no images involve minors. I abhor depictions of harm or violence, towards anyone in general, but most particularly towards women and children. None of the images reflect actual events: all depictions are imaginary.
+As CelestesGrl, I reserve exclusive ownership of the artworks that I post on Deviant Art. Downloading is permitted for your personal enjoyment as well as creating derivations if so inspired. Please be kind and acknowledge where your derivative was inspired.
+© 2025. Some non-derivative works are openly licensed via CC-BY 4.0
+Saying all that, please STEAL. You like the idea: it's YOURS. Run with it.
+
+
+
+
+
 
 
 

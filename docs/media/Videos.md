@@ -138,7 +138,6 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 
 
 ## Hawaii
-
 ### Tribute to Mom and Dad
 
 <div class="video-card video-card--narrow">
@@ -156,6 +155,21 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 
 
 
+
+### Our Hawaii
+
+<div class="video-card video-card--narrow">
+	<div class="video-frame">
+		<video controls preload="metadata" playsinline>
+			<source src="https://media.seabrae.org/videos/hi/OurHawaii.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<p class="video-caption">
+		<strong>The Big Island Hawai`i</strong> as seen by a kama`aina.
+</div>
+
+<hr class="section-break strong" />
 
 
 

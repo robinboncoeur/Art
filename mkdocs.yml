@@ -45,52 +45,34 @@ extra_css:
 nav:
   - Home: index.md
 
-  - Charlotte:
-      - Charlotte/index.md
-      - Celeste's Girl v1: Charlotte/1CG-1stEd.md
-      - Celeste's Girl v2: Charlotte/1CG-2ndEd.md
-      - Holding The Knife: Charlotte/C3-HTheKnife.md
-      - Canon Bible C Grl: Charlotte/CanonBible.md
-      - The Deep End-Sc23: Charlotte/D1-Scene23r.md
-      - Plotline To Study: Charlotte/D2-ToStudy.md
-      - Current Scribbles: Charlotte/D3-Words03.md
+  - Writing:
+      - writing/index.md
+      - Celeste's Girl v1: writing/1CG-1stEd.md
+      - Celeste's Girl v2: writing/1CG-2ndEd.md
+      - Design Structures: writing/A-Structure.md
+      - Writing Emotional: writing/B-Emotions.md
+      - Writing Metaphors: writing/C-Metaphors.md
+      - Holding The Knife: writing/C3-HTheKnife.md
+      - Canon CelestesGrl: writing/CanonBible.md
+      - The Deep End-Sc23: writing/D1-Scene23r.md
+      - Plotline To Study: writing/D2-ToStudy.md
+      - Current Scribbles: writing/Writing.md
 
-  - Emily:
-      - Emily/index.md
-      - Design Structure: Emily/A-Structure.md
-      - Writing Emotions: Emily/B-Emotions.md
-      - Writing Metaphors: Emily/C-Metaphors.md
-
-  - Dev:
-      - Dev/index.md
-      - ArtiI Illustrious: Dev/ai-Illust.md
-      - AI Imaging Models: Dev/aiModels.md
-      - Banners and Stuff: Dev/Banners.md
-      - Careful Ideas Now: Dev/Careful.md
-      - ComfyUI Guidance: Dev/Comfyui.md
-      - Domain Transfer: Dev/DomXfer.md
-      - General Queries: Dev/General.md
-      - Writing Fridays: Dev/WritingFri.md
-      - Just Writing: Dev/Writing.md
-      - Image Prompts: Dev/Prompts.md
-
-  - Music:
-      - music/index.md
-      - Sketches: music/Sketches.md
+  - Media:
+      - media/index.md
+      - Music: media/Music.md
+      - Video: media/Videos.md
 
   - Work:
       - work/index.md
-      - ScratchPad: work/words01.md
-      - Apr Prompt: work/words02.md
-      - 2nd Person: work/Person2.md
-      - AI & Emily: work/Emilyai.md
-      - BBox- SEGS: work/BBoxSEGS.md
-      - ComfyUI 💋: work/Comfyui.md
-      - FluxGym 👭: work/FluxGym.md
-      - GIMPTip 🎀: work/GimpTip.md
-      - QwenPrompt: work/QwenPro.md
-      - Videos💧💧: work/Videos.md
-      - VScripts💛: work/VScripts.md
+      - Emily's Intelligence: work/01Emilyai.md
+      - Images in ComfyUI 💋: work/02Comfyui.md
+      - ArtInt Illustrations: work/03CUIllus.md
+      - Making LoRAs FluxGym: work/04FluxGym.md
+      - Domains Transferring: work/05DomXfer.md
+      - Banners-Website Misc: work/06Banners.md
+      - General Queries: work/07General.md
+      - Video Scripts💛: work/08VScripts.md
 
 plugins:
   - search

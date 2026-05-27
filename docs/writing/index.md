@@ -25,7 +25,7 @@
 ### The Images
 
 
-[![ÀParis][St09a]{ .artR width="460" }][St09a]
+[![À Paris][St09a]{ .artR width="460" }][St09a]
 
 
 I own all images and videos on these pages. They were created using AI. ComfyUI is an 'Image Creation' interface, one I prefer because of its flexibility and power through the use of nodes. This approach supports a number of key story-telling aspects:
@@ -100,6 +100,7 @@ Cinematic medium close-up portrait of a young woman with soft, natural features 
 
 
 
+
 ## Happy Thoughts
 
 <div class="video-card video-card--small">
@@ -118,7 +119,9 @@ Cinematic medium close-up portrait of a young woman with soft, natural features 
 
 <!--  Image references  -->
 
+
 [Br35b]: ../assets/images/story/Bnr35b.jpg
+[St00]: ../assets/images/story/00Writer.jpg
 [St09a]: ../assets/images/story/09aParis.jpg
 
 <!--

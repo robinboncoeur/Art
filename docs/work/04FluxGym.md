@@ -86,7 +86,7 @@ If you paste the **exact filenames** you downloaded, I’ll hand you a ready-to-
 4 [Training Flux Loras...](https://github.com/cocktailpeanut/fluxgym/issues/243?utm_source=chatgpt.com)  
 5 [ashen0209/Flux-Dev2Pro](https://huggingface.co/ashen0209/Flux-Dev2Pro?utm_source=chatgpt.com)  
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+<hr class="section-break strong" />
 
 
 
@@ -167,7 +167,7 @@ You can merge shards into a consolidated `.safetensors` with the usual Transform
 
 If you paste the **exact names of the two JSONs** in that folder (and confirm whether you truly have 0001/0002/0003), I’ll give you a ready-to-paste `models.yaml` snippet for FluxGym that points to this Dev2Pro and loads all three shards correctly.
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+<hr class="section-break strong" />
 
 
 
@@ -210,7 +210,7 @@ You can download the patched file here and drop it in place of your original:
 If you’d like me to also add a friendly display name (if your FluxGym build supports it) or re-order the list so Dev2Pro appears at the top, say the word and I’ll patch it in.
 
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+<hr class="section-break strong" />
 
 
 
@@ -275,7 +275,7 @@ If you want, I can rewrite your `/mnt/data/models.yaml` to use Option A (the `mu
 3 [bdsqlsz/flux1-dev2pro-single](https://huggingface.co/bdsqlsz/flux1-dev2pro-single/tree/main)  
 
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+<hr class="section-break strong" />
 
 
 
@@ -312,7 +312,7 @@ Quick checklist:
 If FluxGym throws a 404 or shape mismatch, tell me the exact error text and I’ll swap in another verified single-file Dev2Pro entry for you.
 
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+<hr class="section-break strong" />
 
 
 
@@ -371,7 +371,7 @@ Why it downloaded fast: HF’s CDN is pretty zippy (often faster than a browser 
 
 If you want, paste your final `models.yaml` block and the exact filename you see in `models/unet/`, and I’ll make you a clean **local-only** entry so FluxGym won’t try to fetch it again.
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+<hr class="section-break strong" />
 
 
 
@@ -527,6 +527,6 @@ Exactly—that denoise/edit strength is the big identity killer. Here’s a tigh
 
 If you want, tell me your typical CFG/steps and I’ll hand you three presets (close/medium/wide) tuned to your exact flow.
 
-<hr style="height:16px;border-width:0;color:blue;background-color:pink">
+<hr class="section-break strong" />
 
 [Main Page](../index.md)

@@ -5,7 +5,7 @@
 [A]  
 I'm so glad to hear that, girlfriend — switching to MkDocs with the Material theme is a game-changer for clarity and ease, and I'm thrilled it's working out for you! Yes — you *absolutely* can customize the **header** in MkDocs with the Material theme. Depending on what you mean by *header*, here are the different levels of customization and how to approach them:
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+<hr class="section-break strong" />
 
 
 
@@ -118,7 +118,7 @@ Edit `overrides/partials/header.html` like:
 
 Would you like help writing a specific header style (e.g., adding your name, a quote, a background image, etc.)? Just let me know the look you're after — I'd be delighted to help design it with you.
 
-<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+<hr class="section-break strong" />
 
 
 
@@ -141,7 +141,7 @@ Here’s a custom header you can use in MkDocs with the Material theme. This wil
 
 Let me know if you'd like to style this differently, or perhaps include an image or logo!
 
-<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+<hr class="section-break strong" />
 
 
 
@@ -254,4 +254,4 @@ If ever you want to:
 Banner on, and well done! 💐
 
 
-<hr style="height:20px;border-width:0;color:pink;background-color:pink">
+<hr class="section-break strong" />
