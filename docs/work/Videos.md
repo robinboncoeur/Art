@@ -16,7 +16,7 @@
 These videos are about the music for the story 'Celeste's Girl' (*Version Française á gauche*):
 
 
-<div class="video-card video-card--normal">
+<div class="video-card video-card--small">
 	<div class="video-frame">
 		<video controls preload="metadata" playsinline>
 			<source src="https://media.seabrae.org/videos/cg/Sketch15VF.mp4" type="video/mp4">
@@ -31,7 +31,7 @@ These videos are about the music for the story 'Celeste's Girl' (*Version Franç
 
 
 
-<div class="video-card video-card--normal">
+<div class="video-card video-card--small">
 	<div class="video-frame">
 		<video controls preload="metadata" playsinline>
 			<source src="https://media.seabrae.org/videos/cg/Sketch15EN.mp4" type="video/mp4">
@@ -152,7 +152,7 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 		<strong>Setting: the original Kaimu Beach</strong> tribute to Mutti and Pappa.
 </div>
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -160,32 +160,130 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 
 
 ## Garden
-
-
-RaisedGrowBeds
+### RaisedGrowBeds
 
 <video width="560" height="315" controls>
 <source src="https://tightbytes.com/videos/RaisedGrowBeds.mp4" type="video/mp4">
 </video>
 
-<hr style="height:1px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break soft" />
 
 
 
-Drainage for the Footpath
-<>
+
+
+### Drainage for the Footpath
+
 <video width="560" height="315" controls>
 <source src="https://tightbytes.com/videos/projects/garden/Aj-SHTrench.mp4" type="video/mp4">
 </video>
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
-
+<!--
 Note to Self: *This page provides a centralised location for links to videos stored on tightbytes.com. It's sort-of organised by general topic.*
+/-->
+
+<hr class="section-break strong" />
 
 
 
-### Video Links
+
+
+
+
+## Convert Video
+
+Lovely — yes, that’s worth keeping as a tiny “make this web-safe” tool 😊
+
+Here’s a simple bash script version:
+
+```bash
+#!/usr/bin/env bash
+set -euo pipefail
+
+if [ $# -lt 1 ]; then
+  echo "Usage: $0 input-video.mp4 [output-video.mp4]"
+  exit 1
+fi
+
+INPUT="$1"
+
+if [ $# -ge 2 ]; then
+  OUTPUT="$2"
+else
+  BASENAME="${INPUT%.*}"
+  OUTPUT="${BASENAME}-web.mp4"
+fi
+
+ffmpeg -i "$INPUT" \
+  -c:v libx264 \
+  -profile:v high \
+  -level 4.0 \
+  -pix_fmt yuv420p \
+  -crf 20 \
+  -preset medium \
+  -c:a aac \
+  -b:a 160k \
+  -movflags +faststart \
+  "$OUTPUT"
+
+echo
+echo "Created web-safe video:"
+echo "$OUTPUT"
+```
+
+Save it as something like:
+
+```bash
+webmp4.sh
+```
+
+Then make it executable:
+
+```bash
+chmod +x webmp4.sh
+```
+
+Use it like this:
+
+```bash
+./webmp4.sh Sketch15VF.mp4
+```
+
+That creates:
+
+```bash
+Sketch15VF-web.mp4
+```
+
+Or specify the output name yourself:
+
+```bash
+./webmp4.sh Sketch15VF.mp4 Sketch15VF-fixed.mp4
+```
+
+For your media-server workflow, you could eventually put it somewhere handy:
+
+```bash
+sudo cp webmp4.sh /usr/local/bin/webmp4
+```
+
+Then you can run:
+
+```bash
+webmp4 Sketch15VF.mp4
+```
+
+Tidy little UBeaut video de-fussing tool. 🎬✨
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+## Video Links
 
 [Nigel Barros](https://www.patreon.com/m/666637/posts)
 
@@ -198,21 +296,6 @@ Note to Self: *This page provides a centralised location for links to videos sto
 [Hollywood CameraWork](https://xcart.hollywoodcamerawork.com/xcart/shot-designer/#buy=undefined)
 
 
-
-
-## Test Images
-
-[![Scene03][S03a]{ .artC width="200" }][S03a]
-[![Scene07][S07a]{ .artC width="200" }][S07a]
-[![Scene09][S09a]{ .artC width="200" }][S09a]
-[![Scene12][S12a]{ .artC width="200" }][S12a]
-[![Scene14][S14a]{ .artC width="200" }][S14a]
-
-[![Scene15][S15a]{ .artC width="200" }][S15a]
-[![Scene17][S17a]{ .artC width="200" }][S17a]
-[![Scene19][S19a]{ .artC width="200" }][S19a]
-[![Scene22][S22a]{ .artC width="200" }][S22a]
-[![Scene28][S28a]{ .artC width="200" }][S28a]
 
 
 <!--  Image references  -->
@@ -229,8 +312,10 @@ Note to Self: *This page provides a centralised location for links to videos sto
 [S22a]: ../assets/images/story/Scene22a.jpg
 [S28a]: ../assets/images/story/Scene28a.jpg
 
-✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
 
+<!--
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
+/-->
 
 <hr class="section-break strong" />
