@@ -395,13 +395,6 @@ Tidy little UBeaut video de-fussing tool. 🎬✨
 
 
 
-## Scripts Link
-
-[SubslikeScriptv-The Norwood Builder](https://subslikescript.com/series/The_Adventures_of_Sherlock_Holmes-86661/season-2/episode-3-The_Norwood_Builder)
-
-
-
-
 
 <!--  Image references  -->
 
