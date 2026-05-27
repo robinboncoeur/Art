@@ -15,44 +15,34 @@
 
 These videos are about the music for the story 'Celeste's Girl' (*Version Française á gauche*):
 
-<style>
-  /* two 384×384 iframes side by side */
-  .video-row {
-    display: flex;
-    gap: 16px;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: flex-start;
-  }
-  .video-row iframe {
-    width: 384px;
-    height: 384px;
-    border: 0;
-    border-radius: 8px; /* optional */
-  }
-  /* Stack on narrow screens */
-  @media (max-width: 820px) {
-    .video-row { flex-direction: column; align-items: center; }
-  }
-</style>
 
-<div class="video-row">
-  <iframe
-    src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/6978db4dbc1c3046f3aa321ff664b1dd/iframe"
-    title="Version Française"
-    loading="lazy"
-    allow="autoplay; fullscreen; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-
-  <iframe
-    src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/4dfe30900934badaea9190c99103c567/iframe"
-    title="English Version"
-    loading="lazy"
-    allow="autoplay; fullscreen; picture-in-picture"
-    allowfullscreen>
-  </iframe>
+<div class="video-card video-card--normal">
+	<div class="video-frame">
+		<video controls preload="metadata" playsinline>
+			<source src="https://media.seabrae.org/videos/cg/Sketch15VF.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<p class="video-caption">
+		<strong>Version Français</strong> Intro.
 </div>
+
+<hr class="section-break soft" />
+
+
+
+<div class="video-card video-card--normal">
+	<div class="video-frame">
+		<video controls preload="metadata" playsinline>
+			<source src="https://media.seabrae.org/videos/cg/Sketch15EN.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<p class="video-caption">
+		<strong>English Version</strong> Intro.
+</div>
+
+<hr class="section-break soft" />
 
 The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Celeste story. It also inspired this piece, 'Waterfall':
 
