@@ -159,12 +159,18 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 
 
 
-## Garden
-### RaisedGrowBeds
-
-<video width="560" height="315" controls>
-<source src="https://tightbytes.com/videos/RaisedGrowBeds.mp4" type="video/mp4">
-</video>
+## Australia
+### Grow Beds
+<div class="video-card video-card--normal">
+	<div class="video-frame">
+		<video controls preload="metadata" playsinline>
+			<source src="https://media.seabrae.org/videos/au/GrowBeds.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<p class="video-caption">
+		<strong>Back In the Gardening Days:</strong> Grow Beds.
+</div>
 
 <hr class="section-break soft" />
 
@@ -172,11 +178,117 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 
 
 
-### Drainage for the Footpath
+### Storms
 
-<video width="560" height="315" controls>
-<source src="https://tightbytes.com/videos/projects/garden/Aj-SHTrench.mp4" type="video/mp4">
-</video>
+<div class="video-card video-card--normal">
+	<div class="video-frame">
+		<video controls preload="metadata" playsinline>
+			<source src="https://media.seabrae.org/videos/au/Summer-Gardens.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<p class="video-caption">
+		<strong>A Storm</strong> blows through.
+</div>
+
+<hr class="section-break soft" />
+
+
+
+
+
+### Brisbane
+
+<div class="video-card video-card--normal">
+	<div class="video-frame">
+		<video controls preload="metadata" playsinline>
+			<source src="https://media.seabrae.org/videos/au/Brisbane.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<p class="video-caption">
+		<strong>--</strong>.
+</div>
+
+<hr class="section-break soft" />
+
+
+
+
+
+### Sea Change
+
+<div class="video-card video-card--normal">
+	<div class="video-frame">
+		<video controls preload="metadata" playsinline>
+			<source src="https://media.seabrae.org/videos/au/Sea-Change.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<p class="video-caption">
+		<strong>--</strong>.
+</div>
+
+<hr class="section-break soft" />
+
+
+
+
+
+### Girl's Visit
+
+<div class="video-card video-card--normal">
+	<div class="video-frame">
+		<video controls preload="metadata" playsinline>
+			<source src="https://media.seabrae.org/videos/au/GirlsVisit.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<p class="video-caption">
+		<strong>--</strong>.
+</div>
+<hr class="section-break soft" />
+
+
+
+
+
+### Brekkie with Han
+
+<div class="video-card video-card--normal">
+	<div class="video-frame">
+		<video controls preload="metadata" playsinline>
+			<source src="https://media.seabrae.org/videos/au/Brekkie-Han.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<p class="video-caption">
+		<strong>--</strong>.
+</div>
+<hr class="section-break soft" />
+
+
+
+
+
+### Playing with Light
+
+<div class="video-card video-card--normal">
+	<div class="video-frame">
+		<video controls preload="metadata" playsinline>
+			<source src="https://media.seabrae.org/videos/au/LightPlay.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<p class="video-caption">
+		<strong>--</strong>.
+</div>
+
+
+
+
+
+
 
 
 <!--
