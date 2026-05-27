@@ -395,17 +395,10 @@ Tidy little UBeaut video de-fussing tool. 🎬✨
 
 
 
-## Video Links
-
-[Nigel Barros](https://www.patreon.com/m/666637/posts)
-
-[dslr VideoShooter GH5 Guide](https://academy.dslrvideoshooter.com/courses/gh5-guide)
+## Scripts Link
 
 [SubslikeScriptv-The Norwood Builder](https://subslikescript.com/series/The_Adventures_of_Sherlock_Holmes-86661/season-2/episode-3-The_Norwood_Builder)
 
-[The Art of Documentary](https://theartofdocumentary.com)
-
-[Hollywood CameraWork](https://xcart.hollywoodcamerawork.com/xcart/shot-designer/#buy=undefined)
 
 
 
