@@ -151,14 +151,14 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 		<strong>Setting: the original Kaimu Beach</strong> tribute to Mutti and Pappa.
 </div>
 
-<hr class="section-break strong" />
+<hr class="section-break soft" />
 
 
 
 
 ### Our Hawaii
 
-<div class="video-card video-card--narrow">
+<div class="video-card video-card--normal">
 	<div class="video-frame">
 		<video controls preload="metadata" playsinline>
 			<source src="https://media.seabrae.org/videos/hi/OurHawaii.mp4" type="video/mp4">
