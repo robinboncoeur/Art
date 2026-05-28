@@ -2,12 +2,10 @@
 ## — Emily —
 
 
-
 [![img][Br01]{ .artC width="1110" }][Br01]
 
 
-
-<hr class="section-break soft" />
+<hr class="section-break strong" />
     
 
 
