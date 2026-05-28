@@ -5,7 +5,6 @@
 
 
 <hr class="section-break strong" />
-    
 
 
 
@@ -649,11 +648,447 @@ If you want, tell me your typical CFG/steps and I’ll hand you three presets (c
 
 
 
+
+
+
+
+
+## ComfyUI and LoRAs
+### Dataset Training
+
+
+[![Just...][Sy15]{ .artR width="320" }][Sy15]
+
+
+Hey girlfriend! Great project. Here’s a solid, no-drama plan to get a clean, controllable **character LoRA** out of FluxGym.
+
+### 1) LoRA should learn
+
+(and what it must **not**)
+
+* **Lock in**: face, head shape, eye color/shape, hair color/length/part, skin tone, key moles/scars/freckles, eyebrows, typical makeup (if you want it baked in).
+* **Keep flexible**: clothes, background, pose, camera/lens, lighting, mood, accessories—unless you *want* those to be part of the identity.
+* Make a one-line goal you’ll refer to while captioning:
+  “`[celestegrl]` = petite 18-20yo woman, heart-shaped face, hazel eyes, dark chest-length hair, soft freckles, natural makeup.”
+
+### 2) Dataset size & mix 
+
+(sweet spot for a character)
+
+Aim for **60–120 images** total. Curate hard—quality beats quantity.
+
+**Coverage targets**
+
+* **Face-centric closeups (40–50%)**: straight on, 3/4, profile. Neutral and varied expressions.
+* **Torso/half-body (30–40%)**: ensure neck/shoulders consistency, hair length visible.
+* **Full-body (10–20%)**: establish body proportions; a few walking/standing/sitting.
+* **Hands (5–10%)**: a few images where hands are visible but not the star.
+* **Lighting**: day, overcast, soft indoor, one or two “hard light” shots—no single look should dominate.
+* **Backgrounds**: mostly plain or de-cluttered. Include a handful of busy scenes so the model learns to ignore them.
+* **Wardrobe**: *varied*. If you don’t want a pink hoodie stuck to the LoRA forever, make sure it appears in ≤5% of images—or not at all.
+
+**What to avoid**
+
+* Sunglasses covering eyes, masks, heavy occlusions.
+* Text/logos near face.
+* Repetitive near-dupes (same pose/lighting/shirt).
+
+### 3) Image prep
+
+* **Resolution**: train buckets up to **1024** (Flux is comfy there). Keep sources ≥1024 on the shortest side; don’t upscale aggressively.
+* **Cropping**: deliver both loose and tight crops; avoid cutting off chins/foreheads consistently—vary it.
+* **Horizontal flips**: only if the face is symmetric and the character has **no asymmetric features** (part line, mole, earring). Otherwise, **don’t flip**.
+* **Color**: gentle white-balance and exposure normalization are good; don’t stylize.
+
+### 4) Trigger token strategy
+
+* Use **one unique trigger** that will *never* appear in normal text, e.g. **`[celestegrl]`** (you already use this pattern—perfect).
+* Pair it with a **class token** in captions, e.g. “woman”, “girl”, “person”, “portrait”. For Flux, **natural language** tends to work better than tag-soup.
+
+### 5) Captioning
+
+What to put in (and what to leave out)
+
+Flux responds beautifully to **short, natural sentences**. Think **15–40 tokens** each.
+
+**Template**
+
+```
+[celestegrl], portrait of a petite young woman with hazel eyes and chest-length dark hair, soft freckles, natural makeup, gentle smile, studio lighting, neutral background.
+```
+
+* Start with the trigger.
+* Add **only** the traits you want the LoRA to learn as identity.
+* Then add **scene/photography** descriptors (lighting, lensy words, background) to teach generalization—but don’t repeat the *same* scene terms on every image.
+
+**When clothes/features should stay flexible**
+
+* If you *don’t* want the LoRA to memorize the yellow cardigan, **omit it** from the caption. If it’s very visible in many images, mention generic “casual outfit” instead of “yellow cardigan”.
+
+**Pose/shot words**
+
+* Sprinkle across the set: “headshot”, “close-up”, “three-quarter view”, “profile”, “full body, standing”.
+
+**Good caption examples**
+
+* “`[celestegrl], natural light close-up, hazel eyes, chest-length dark hair, soft freckles, slight smile, shallow depth of field.`”
+* “`[celestegrl], three-quarter view portrait, neutral background, relaxed expression.`”
+* “`[celestegrl], full body, standing, casual outfit, outdoor overcast light.`”
+
+**What not to do**
+
+* Don’t stuff every caption with *all* traits (teaches the model those traits only work together).
+* Don’t include changeable things you don’t want baked in (specific shirt colors, accessories, scene themes).
+* Avoid long laundry-lists of tags; Flux likes prose.
+
+### 6) Class/regularization
+
+(optional but helpful)
+
+* Add **100–200 generic “woman/person portrait”** images without your trigger token in a separate class folder if FluxGym supports prior-preservation.
+* This reduces style drift and helps your LoRA not overwrite base concepts. Keep their captions simple (no trigger).
+
+### 7) Repeats, epochs, steps
+
+(ballpark)
+
+Let **N** = number of instance images. A practical recipe:
+
+* **N ≈ 80** images
+* **Repeats**: 10
+* **Batch**: 4
+* **Epochs**: 1–2
+
+**Steps ≈ (N × repeats × epochs) / batch**
+For 80×10×1 / 4 = **200 steps** per epoch.
+For character identity, expect **800–2500 total steps** to find the sweet spot (save checkpoints along the way: e.g., 600, 1200, 1800, 2400) and compare.
+
+### 8) Training knobs 
+
+...that tend to work (Flux-ish defaults)
+
+* **Rank (dim)**: 16–32 (start at **16**; bump to 32 if you see underfitting).
+* **Alpha**: = rank (e.g., 16).
+* **Dropout**: 0.05–0.1 if you notice overfitting to clothes/backgrounds.
+* **Learning rates**
+
+  * **UNet**: **1e-4 → 2e-4**
+  * **Text encoder**: **5e-6 → 1e-5** (keep low; raises binding to `[celestegrl]` without wrecking the base text space)
+* **Optimizer**: AdamW, weight decay ~0.01.
+* **Bucket max res**: 1024; enable aspect-buckets.
+* **Gradient checkpointing** if VRAM is tight.
+
+### 9) Validation
+
+(don’t skip)
+
+Hold out **6–10 images** (never seen in training). After each checkpoint:
+
+* Prompt with/without the class token:
+
+  * “`portrait of [celestegrl], soft daylight, natural makeup`”
+  * “`[celestegrl] walking on a beach, golden hour`”
+* Try clothing the LoRA never saw (“evening dress”, “hoodie”), different hair styles, and varied lighting to test generalization.
+* Compare checkpoints side-by-side and pick the lowest step that nails identity **without** freezing wardrobe/lighting.
+
+### 10) Common failure modes
+
+...& fixes
+
+* **Overfitting to one outfit/background** → reduce duplicates, add variety, add dropout 0.1, add class images, remove clothing terms from captions.
+* **Face not locking / looks generic** → add more tight face crops with precise face traits in captions; slightly raise TE LR; increase repeats to 12.
+* **Identity drifts under complex prompts** → ensure *every* caption starts with the trigger; include several neutral “vanilla” portraits; consider bumping rank from 16→32.
+* **Mirrored mole/part line after flips** → remove flipped images; retrain.
+
+### 11) Practical workflow
+
+1. Curate 90 images → prune to the best **75–90**.
+2. Sort into subfolders: `closeup/`, `halfbody/`, `fullbody/`, `hands/`.
+3. Write **short prose captions** (sidecar `.txt` per image). Start with `[celestegrl]`.
+4. (Optional) Add `class/` folder with 150 generic woman portraits + simple captions.
+5. Train at 1024 buckets, rank 16, UNet 1e-4, TE 5e-6, batch 4, repeats 10, 1–2 epochs.
+6. Save checkpoints every ~400–600 steps.
+7. Validate with a fixed prompt sheet; pick the *lowest* step that passes identity + flexibility.
+
+If you want, I can draft a **caption starter pack** for your first 20 images (you can paste the filenames), or a **prompt sheet** to evaluate checkpoints consistently.
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+
+
+
+## Dimensions/aspect ratios
+
+Short version: **Yes, mix dimensions; DPI doesn’t matter.** A few gotchas below.
+
+* **It’s fine (and good) to mix** 1024×1024 with 1216×832, 896×1152, etc.
+* In FluxGym, just **enable aspect-ratio buckets** and set a **max bucket size** (commonly 1024 or 1152 on the long side, depending on VRAM). The trainer will resize each image into the nearest bucket.
+* **Avoid padding/letterboxing.** Give the trainer real pixels, not black bars. Crop instead of pad.
+* **Keep subject scale consistent.** Even with buckets, don’t swing from extreme tight headshots to tiny faces in wide scenes. Aim for a coherent face size range across images (you can still keep some variety).
+* **Don’t aggressively upscale** tiny sources to huge buckets—mild upscales are okay, but big ones add mushy detail and can teach artifacts.
+
+### DPI / PPI
+
+* **Completely irrelevant.** Training uses raw pixel counts; DPI metadata is ignored. A 1024×1024 at 72 dpi and the same at 300 dpi are identical to the trainer.
+
+### Practical tips
+
+* **Set max bucket**: 1024 (safe) or 1152 (more detail, more VRAM).
+* **Minimum shortest side**: try to keep sources ≥768 px on the short side; delete or down-weight smaller ones.
+* **Face framing**: for character LoRA, ensure ~40–60% of images have the face occupying ~35–70% of the frame.
+* **No letterbox**: If you must normalize, **crop** to the desired aspect rather than adding borders.
+* **VRAM awareness**: Wider/taller buckets (e.g., 1216×832) cost more memory than 1024×1024; pick a ceiling your GPU can handle.
+
+If you want, tell me your GPU VRAM and I’ll suggest a max-bucket and batch size that won’t OOM, plus a quick crop recipe to keep face scale tidy across mixed aspect ratios.
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+
+
+
+## What this GPU means
+
+
+[![Img][Sy18]{ .artR width="320" }][Sy18]
+
+
+...for your dataset
+
+girlfriend, a **4060 Ti 16 GB** is a sweet spot for LoRA training. Here’s how it should shape your dataset and settings:
+
+* **You can keep mixed aspect ratios** (e.g., 1024×1024 with 1216×832) and use **aspect-ratio buckets**. No need to force everything square.
+* You can comfortably train at **max bucket 1024**; **1152** is also realistic if you keep batch sensible. Only drop big panoramic outliers that make faces tiny.
+* **No need to downscale good sources**: keep images ≥**900–1024 px** on the short side when possible. Crop instead of letterbox.
+
+### Trainer settings
+
+**as Recommended**
+
+(LoRA on Flux/SDXL-class models)
+
+**Memory/precision**
+
+* **Mixed precision**: **bf16** (preferred) or fp16.
+* **Memory-efficient attention**: enable **Flash-Attention/xFormers** if FluxGym exposes it.
+* **Gradient checkpointing**: **ON** (cuts VRAM nicely).
+
+**Resolution & buckets**
+
+* **Max bucket**: start **1024**; try **1152** if stable.
+* **Min bucket short side**: 768.
+* **Keep buckets** around these: 832×1216, 896×1152, 1024×1024, 1152×896 (trainer usually auto-makes them).
+
+**Batching (typical for 16 GB)**
+
+* At **1024 max**: **batch 4–6** (start **4**; raise if stable).
+* At **1152 max**: **batch 2–4** (start **3**).
+* If you want a larger *effective* batch, use **gradient accumulation** (e.g., batch 3 × grad-accum 2 ⇒ effective 6).
+
+**Other handy toggles**
+
+* **Cache latents** (if offered) to boost throughput after the first epoch.
+* **Workers**: 4–8 (watch CPU/RAM).
+* **Shuffle**: ON.
+
+### Training recipe
+
+that fits 16 GB (character LoRA)
+
+* **Rank (dim)**: 16 (32 if underfitting).
+* **Alpha**: same as rank.
+* **Dropout**: 0.05–0.1 if it memorizes clothes/backgrounds.
+* **LRs**: UNet **1e-4** (up to 2e-4), Text Encoder **5e-6** (up to 1e-5).
+* **Repeats**: 10, **Epochs**: 1–2, **Batch**: as above.
+* **Checkpoints** every **400–600** steps.
+
+### Dataset curation
+
+with 16 GB in mind
+
+* You **don’t** have to prune for VRAM—prune for **identity clarity**:
+
+  * Aim **60–120 images**, with **40–50% closeups**, **30–40% half-body**, **10–20% full-body**.
+  * Keep **face scale** within a sensible band (avoid lots of ultra-wide shots with tiny faces).
+  * Keep **occlusions low** (no sunglasses/masks dominating).
+* Keep **mixed lighting** and **varied outfits** so your LoRA generalizes; your GPU can handle the bucket variety.
+
+### Two plug-and-play profiles
+
+**Comfort (fast & stable)**
+
+* Max bucket **1024**, batch **4**, bf16, checkpointing ON, Flash-Attn ON.
+* Rank 16, UNet 1e-4, TE 5e-6, repeats 10, 1–2 epochs.
+
+**Detail (more capacity, a tad slower)**
+
+* Max bucket **1152**, batch **3**, bf16, checkpointing ON, Flash-Attn ON.
+* Rank 16→32 (if needed), UNet 1.2e-4, TE 7e-6, repeats 10, 1–2 epochs.
+
+### Quick troubleshooting
+
+tied to VRAM
+
+* **OOM at 1152** → drop batch by 1, or switch to max 1024, or enable grad-accum 2.
+* **Training too slow** → stick to 1024 max; enable latent caching; trim bucket list to a few common shapes.
+* **Identity wobbles** at higher res → keep 1024 max, add a few more tight face crops with crisp captions.
+
+If you want, tell me whether you prefer the **Comfort** or **Detail** profile and I’ll spit out a ready-to-paste FluxGym config plus a tiny “bucket sanity” checklist for your image folder.
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+## FluxGym config 
+
+
+[![Img][Sy17]{ .artR width="320" }][Sy17]
+
+
+(Comfort profile, 4060 Ti 16 GB)
+
+girlfriend, here’s a **ready-to-paste Comfort profile** plus a quick **bucket sanity** checklist so you can roll right in FluxGym.
+
+**Save as `config.yaml` (edit the paths and trigger/class tokens to taste):**
+
+```yaml
+# --- DATA ---
+train_data:
+  instance_dir: /path/to/dataset/instance          # your character images
+  instance_caption_ext: .txt                       # sidecar captions
+  class_dir: /path/to/dataset/class               # optional prior/class images
+  class_caption_ext: .txt
+  shuffle: true
+  num_workers: 6
+
+# --- CAPTION TOKENS ---
+trigger_token: "[celestegrl]"
+class_token: "woman"                               # or "girl"/"person" (keep natural)
+
+# --- BUCKETING / RESIZE ---
+buckets:
+  enable: true
+  max_res: 1024                                    # Comfort profile
+  min_short_side: 768
+  # Let FluxGym auto-generate common buckets; avoid letterboxing/padding
+
+# --- TRAINING ---
+output:
+  out_dir: /path/to/outputs/celestegrl_lora
+  save_every_n_steps: 500
+  keep_last_n: 6
+
+lora:
+  enable: true
+  rank: 16
+  alpha: 16
+  dropout: 0.08                                    # helps avoid clothing/background stickiness
+
+optim:
+  optimizer: adamw
+  weight_decay: 0.01
+  unet_lr: 1.0e-4
+  text_encoder_lr: 5.0e-6
+  betas: [0.9, 0.999]
+  eps: 1.0e-8
+  lr_scheduler: cosine
+  warmup_steps: 100
+
+trainer:
+  precision: bf16                                  # or fp16 if bf16 not available
+  batch_size: 4
+  gradient_accumulation: 1
+  gradient_checkpointing: true
+  cache_latents_after_epoch: 1                     # speeds later epochs
+  max_epochs: 1                                    # usually 1–2 is enough
+  repeats: 10                                      # per-image repeats
+  log_every_n_steps: 50
+
+# --- VALIDATION PROMPTS (run after each save) ---
+validation:
+  enable: true
+  num_images: 4
+  prompts:
+    - "portrait of [celestegrl], soft daylight, natural makeup"
+    - "[celestegrl], three-quarter view, neutral background, relaxed expression"
+    - "[celestegrl] walking on a beach, golden hour"
+    - "[celestegrl], full body standing, evening dress, studio light"
+```
+
+**Rule-of-thumb steps (for ~80 images × repeats 10 × epochs 1, batch 4):** ~200 steps per epoch chunk; expect best checkpoints between **600–1800** steps. Keep the lowest step that nails identity **without** baking in outfits.
+
+---
+
+### Bucket sanity checklist
+
+(quick pre-flight)
+
+* **Mix of aspects OK**: 1024×1024, 1216×832, 896×1152 etc. are fine (no letterboxes).
+* **Shortest side ≥ 768 px** for most images; toss the tiny, blurry ones.
+* **Face scale band**: in ~50% of images, face occupies ~35–70% of frame (avoid lots of tiny faces).
+* **No near-dupes**: same pose/lighting/outfit culled down to 1–2 best.
+* **Minimal occlusion**: no sunglasses/masks dominating; eyes visible in most closeups.
+* **Varied lighting/outfits**: keep wardrobe variety so clothing doesn’t imprint.
+* **No padding**: crop to aspect; do **not** add borders/black bars.
+* **DPI ignored**: don’t worry about 72 vs 300 — pixels are what matter.
+
+---
+
+### Caption mini-template
+
+(Comfort style)
+
+Keep them short, natural, and start with your trigger:
+
+* `[celestegrl], natural light close-up, hazel eyes, chest-length dark hair, soft freckles, slight smile.`
+* `[celestegrl], three-quarter view portrait, neutral background, relaxed expression.`
+* `[celestegrl], full body, standing, casual outfit, overcast outdoor light.`
+
+(Leave out specific clothing words unless you *want* them memorised.)
+
+---
+
+If you want, paste 10–15 filenames and I’ll draft the first batch of captions to match this config (face-heavy, clean, varied).
+
+---
+
+Love it, girlfriend. Here’s a **clean, identity-safe positive prompt** you can drop into Gwen Image Edit 2509 to generate dataset-ready variants from a single photo. It sticks to natural language and avoids baking in clothes/backgrounds while nudging for realism and face fidelity.
+
+**Master positive prompt**
+
+> **[celestegrl]**, natural identity-preserving portrait, photoreal, true skin texture and pores, sharp expressive eyes, accurate facial proportions, chest-length dark hair, soft freckles, **{headshot|three-quarter view|profile}**, **{soft daylight|open shade|studio softbox|window light|golden hour}**, **{neutral seamless backdrop|subtle gradient|plain wall|soft bokeh foliage}**, **{50mm look|85mm look}**, shallow depth of field (around f/2.8), balanced exposure, natural color, minimal makeup, no stylization, crisp focus, professional photographic quality
+
+You can paste that verbatim. If your workflow supports wildcards (`{a|b|c}`), it’ll rotate **shot**, **lighting**, **background**, and **lens look** to produce controlled variety without drifting identity or baking in wardrobe. If it doesn’t, just pick one option from each set per batch/run.
+
+If you’re training a LoRA, keep your **trigger token** up front (I used `[celestegrl]`, swap as needed).
+
+<hr class="section-break strong" />
+
+
+
 <!--           Image Links         /-->
 
 [Br02]: ../assets/images/story/Bnr02a.jpg
 
 [Sy08]: ../assets/images/story/08maiden.jpg
+[Sy15]: ../assets/images/story/17orage.jpg
+[Sy17]: ../assets/images/story/17think.jpg
+[Sy18]: ../assets/images/story/18shop.jpg
 
 [Sy01]: ../assets/images/story/Scene03a.jpg
 [Sy02]: ../assets/images/story/Scene07a.jpg
