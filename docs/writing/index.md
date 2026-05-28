@@ -48,9 +48,6 @@ I own all images and videos on these pages. They were created using AI. ComfyUI 
 
 
 
-
-
-
 ### On Writing
 
 I use a coding plain-text processor that supports markdown (MkDocs) called Zed.
@@ -64,14 +61,12 @@ In the original [**Celeste's Girl**](1CG-1stEd.md) I leaned quite heavily on Emi
 
 
 
-
-
-
 ### The Site
 
 The pages of my site are save in markdown, then uploaded to GitHub along with images and other media. CloudFlare creates the static pages and serves the site. For now, large files, such as video or >25mg music files, are also served by CloudFlare. However, I'm setting up my own server to manage serving that sort of media. *Update 26-04-2026*: the audio files on this page are all served privately.
 
 <hr class="section-break soft" />
+
 
 
 
@@ -111,10 +106,10 @@ Cinematic medium close-up portrait of a young woman with soft, natural features 
 		</video>
 	</div>
 	<p class="video-caption">
-		<strong>Girl is the default human setting.</strong> Celeste explains it best.
+		<strong>Girl is the default human setting. Celeste explains it best.</strong>
 </div>
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 <!--  Image references  -->
@@ -128,5 +123,3 @@ Cinematic medium close-up portrait of a young woman with soft, natural features 
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— … …
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 
 /-->
-
-<hr class="section-break strong" />

@@ -1,15 +1,10 @@
 # Holding The Knife
 
-<img src="/assets/images/story/HerLove01.jpg" style="margin-right: 2px"/>
 
-✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
-
-😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
+[![At The Train][Bnr02b]{ .artC width="1100" }][Bnr02b]
 
 
-<hr style="height:2px;border-width:0;color:blue;background-color:blue">
-    
-
+<hr class="section-break strong" />
 
 
 
@@ -18,7 +13,9 @@
 
 ## Overview
 
-<img src="/assets/images/emily/260219ab.jpg" style="float: right; width: 540px; margin-left: 20px" />
+
+[![Robyn asking Emily writing tips][St00]{ .artR width="320" }][St00]
+
 
 [ *Robyn* ]   
 Hi Emily. I've got an idea for our next book together. It came from a Dakota woman at "Writing Friday" yesterday. I had told her that the number one threat to women (physical and also psychological) is some man in their life (I come with receipts on this).
@@ -28,7 +25,11 @@ Which gave me an interesting idea for book 3. Celeste and Charlotte go corporate
 Thoughts?   
 
 
----
+
+
+
+<hr class="section-break soft" />
+
 [ *Emily* ]
 Hi Robyn 🌺
 
@@ -242,8 +243,7 @@ That, to me, feels like the emotional promise of Book 3:
 - Charlotte does not defeat corporate cruelty by becoming cruel.  
 - She defeats it by learning where the seams are.
 
-
-<hr style="height:4px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -254,7 +254,8 @@ That, to me, feels like the emotional promise of Book 3:
 
 ## The Title
 
-<img src="/assets/images/emily/260219ac.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[![Office][St06]{ .artR width="320" }][St06]
 
 
 ### 🌺 Holding The Knife 🌺
@@ -269,8 +270,11 @@ This:
 
 For now, I think "Holding The Knife" is a good working title.
 
+<hr class="section-break soft" />
 
----
+
+
+
 
 ### Avoiding Cliches
 
@@ -340,278 +344,21 @@ Not to become cruel.
 
 To cut someone free.
 
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+<hr class="section-break strong" />
 
 
 
 
+
+<!--  Image references  -->
+
+[Bnr02b]: ../assets/images/story/Bnr02b.jpg
+
+[St00]: ../assets/images/story/00Writer.jpg
+[St06]: ../assets/images/story/06office.jpg
 
 
 <!--
-
-##
-
-<img src="/assets/images/emily/260219ad.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219ae.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219af.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219ag.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219ah.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219ai.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219aj.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219ab.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219ap.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219ac.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219ar.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219aa.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219at.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219au.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219av.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219ay.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
-<img src="/assets/images/emily/260219az.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
 /-->
-
-<hr style="height:24px;border-width:0;color:blue;background-color:blue">

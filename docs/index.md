@@ -1,8 +1,15 @@
 # Art and Writing
 
+
 [![Celeste and Charli][Br35c]{ .artC width="1100" }][Br35c]
 
+
 <hr class="section-break strong" />
+
+
+
+
+
 
 
 

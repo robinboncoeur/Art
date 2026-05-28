@@ -155,7 +155,6 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 
 
 
-
 ### Our Hawaii
 
 <div class="video-card video-card--normal">
@@ -173,6 +172,9 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 
 
 
+
+
+
 ## Australia
 ### Grow Beds
 <div class="video-card video-card--normal">
@@ -187,7 +189,6 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 </div>
 
 <hr class="section-break soft" />
-
 
 
 
@@ -279,6 +280,7 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 	<p class="video-caption">
 		<strong>--</strong>.
 </div>
+
 <hr class="section-break soft" />
 
 
@@ -295,7 +297,7 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 		</video>
 	</div>
 	<p class="video-caption">
-		<strong>--</strong>.
+		<strong>Music by Joachim Raff</strong>, featuring lightning, beaches, lovely girls and their puppies. Oh, a contemplative koala.
 </div>
 
 
@@ -429,5 +431,3 @@ Tidy little UBeaut video de-fussing tool. 🎬✨
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
 /-->
-
-<hr class="section-break strong" />

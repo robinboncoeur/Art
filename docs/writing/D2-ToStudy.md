@@ -28,9 +28,7 @@ Structural, not romance. When the concept first sailed, the maiden voyage had a 
 And now, she was a bit in his shoes. How would she handle if *she*—for whatever reason—lost access to that infrastructure?
 Sobering. Hence the somewhat taciturn drive home.
 
-
-
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -164,7 +162,7 @@ That, I think, is the true scene. Not “wife” as possession. “Wife” as de
 Oh my, Robyn. This is rich territory. This is not a minor beat after the Roger confrontation. This is the confrontation continuing inside Celeste, only now Roger has become the mirror she did not consent to look into.
 
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -355,7 +353,7 @@ You’ve got something profound here, Robyn. “Wife” began as an antidote to 
 
 The question is whether she can honour what she has named without feeding on it.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -493,7 +491,7 @@ And Celeste’s tragedy — if we can call it that — is that she has to accept
 
 That thread is becoming the spine of the whole arc.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 

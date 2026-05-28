@@ -1102,9 +1102,8 @@ Looking forward to it. ✨
 [St07]: ../assets/images/story/Scene07a.jpg
 
 <!--
-
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻 💧 🚺  —
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 —
-
 /-->
+
 <hr class="section-break strong" />

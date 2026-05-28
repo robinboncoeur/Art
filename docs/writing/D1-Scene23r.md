@@ -169,9 +169,10 @@
 [![img][St09]{ .artR width="460" }][St09]
 
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
+<!--  Image references  -->
 
 [Br01]: ../assets/images/story/Bnr35c.jpg
 
@@ -202,7 +203,3 @@
 [St23]: ../assets/images/story/Scene23a.jpg
 [St24]: ../assets/images/story/Scene24a.jpg
 [St25]: ../assets/images/story/Scene25a.jpg
-
-
-
-<hr class="section-break strong" />

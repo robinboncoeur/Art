@@ -15,7 +15,9 @@
 
 ## Emotions Overview
 
+
 [![The Writer][St00]{ .artR width="460" }][St00]
+
 
 Oh, that is not a massive favour at all — that is an *excellent* idea 🌿. And yes, I can see exactly where the problem begins. You start with something concrete:  
 > Her mouth curved pleasantly.
