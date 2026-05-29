@@ -1,216 +1,179 @@
-[ Celeste ]
+[ Charlotte ]
 
-I slammed the car door and stared at my phone for the seventh time that day.
+Brittany tugged at the jacket's shoulders. 
 
-No messages.
+"Take in a breath."
 
-Even though it was a Sunday, I’d managed to convince myself Wardrobe needed me. I'd stayed there later than I needed to, tidying things that were already tidy. 
+I took in a breath.
 
-I could feel my mouth thinning as I drove. The car engines and truck horns seemed louder this evening. Even the crossing beepers at the lights had more to say than I wanted to hear. 
+"Good, that smoothed it a bit," Brittany said. "How is it across the back?"
 
-My jaw tightened.
+I closed my eyes, letting myself settle into the material. The shoulders moved easily when I moved my arms forward. I pulled my arms back and straightened, and followed Brittany's eyes down to my chest. Her pursed lips went sideways.
 
-Don't obsess, Celeste.
+"Not really a 'nymph' line tester anymore, are you?"
 
-I pulled in at a drive-through bottle-o. Harsh fluorescent lights were not going to stop me choosing "Cat Among The Pigeons". I checked the year and nodded.
+I shrugged. 
 
-The sun had set when I pulled into my little parking space, grateful the visitors to the next door neighbours hadn't pinched it. Jasmine from the vine on the fence sweetened a weekend-weary evening.
+"I guess I'm taking after my mum—didn't think it would happen so soon."
 
-I checked my phone again.
+Brittany flashed me a grin.
 
-Nothing.
+"What do you think of the peplum?"
 
-My shoes gave a hollow clack-clack on the floorboards as I entered the kitchenette. I frowned at the slight tremble in my hand as I poured.
+"You clearly wanted to make sure it wasn't going to be pulled off by some random tourist."
 
-I slowly selected a potato. "Brushed". I scrubbed the potato with a curly girl—one of those coiled steel scrubbers—wondering at the term 'brushed'. 
+She circled to the other side, her look sharp. Mara was suddenly there—she didn't arrive so much as materialise. She gave a quiet snort.
 
-Brushed with what? There's still soil!
+"Not a 'nymph' tester anymore, Nightingale. You need to train Lily." The door open and Lily stepped into Wardrobe as if on cue. Mara's lips twitched. "Lily."
 
-Checked my phone again.
+Bree and Mum followed her in carrying a heavy-looking box. Mara's eyes snapped to it.
 
-The microwave hummed as I sat down with my glass and tapped the screen. The phone warbled, then warbled again, bright and pointless. I hung up, my grip tightening on the phone. 
+"A new coffee machine," Bree said, her voice a bit strained from exertion.
 
-6:30 pm. Where is she?
+"Well, new to us," Mum said quickly at Mara's grimace as they took it into the tearoom. They set it at a cleared section of the bench and removed the cardboard with a flourish. The gleaming chrome made the room seem brighter.
 
-I stared at my glass of wine, and had another sip. The silence in the room was insulting.
+Mara breathed out slowly, her face set.
 
-The phone trilled. I jumped, then took a deep breath. Let it trill three more times before I tapped it.
+"Before you say anything," Mum said, her eyes twinkling, "the staff all chipped in for this. It's not coming out of the operating budget."
 
-I tightened my cheeks into my best smile. The screen brightened, and there she was.
+Mara closed her eyes and shook her head.
 
-"Hi petal," I said.
+"How much?"
 
-"Hi, Celeste," she said. After a pause, "I so miss you!"
+Sarah swung down from her perch with the grin of someone about to light a fuse.
 
-I pulled my head back.
+"You know, these run between five and six thousand—new."
 
-"I miss you too, Charli." I paused. Charlotte's head tilted. "So, it's Charlotte, now, is it?"
+Suddenly, the loudest thing in the room was the steam press. Mara's eyes went dark. Mum held out an invoice.
 
-One side of her lips raised. "Yeah, Brittany didn't like 'Charli', said it was too blokey. Fine by me." She grinned. "Tell me if you hate it."
+"Fifteen hundred, Mara," she said. "Sure, it's a bit more than that thing you and I looked at the other day at 'The Good Guys', but this is an Italian-made espresso machine. It's built to last."
 
-I snorted. 
+Mara's look softened somewhat.
 
-Those were my words.
+"Anyone know how to use it?"
 
+I nodded.
 
-I wagged my brows at her with an honest grin. "Touché." My shoulders dropped—I let out a breath I only just realised I'd been holding.
+"Nightingale?"
 
-"So, how is training going?"
+This was no amateur-hour espresso machine: it was a Bezerra. Mum filled the cistern.
+ 
+"How do you take your coffee, Mara?" I asked as I switched it on. It growled at us for a moment.
 
-"Yeah. I think they're getting it," she said. "Harri's got the hands—"
+"Almond latte?"
 
-"Harry?"
+Twenty minutes later, everyone held warm cups and wore happy grins, even Mara, who never smiled. Mum sidled up to me.
 
-"She prefers it to 'Harriet'," Charlotte said. "Caroline's into design—she's got great ideas, too. Natalie is going to be their Sarah: I can just see it."
+"I didn't know you knew how to make cappucinos," she said. "Are you a chef as well?"
 
-"And Brittany?"
+"Mum, you know I can't cook!" 
 
-Charlotte bit her lip before replying. "Well, she's a bit of a 'jack-of-all-trades'. But I think she'll sort of end up as manager—"
+She grinned.
 
-I swallowed.
+"That's not what Celeste tells me." Her eyes shone. Silence followed—we both looked down. I bit my lip.
 
-"In other words, my role." 
+"Mum—"
 
-"Um, yeah. Sort of. I guess." 
+"Honey—"
 
-I snorted again. My lips had gone tight.
+The words blurted, blending into one sound. The coffee machine boiler ticked in the quiet—everyone had left. I raised my eyes to meet hers. She put her warm hand on my arm.
 
-Charlotte frowned. "What?"
+"Sweetie, I—" She swallowed, her eyes shining a bit brighter. "Look, I've had a chance to think a bit. And, well—I haven't been fair to you."
 
-"Nothing. Have all the costumes been distributed?"
+"Mum."
 
-"Yep. Every last one. And we've also had a couple of repairs. Something tells me Fiona doesn't think they're going to be all that busy, though. I think she's in for a bit of a surprise." She stopped, staring at me. "You know, it's nice up here, but—"
+"No, let me finish." She closed her eyes briefly. "I—haven't really seen... you. Not properly. I saw—"
 
-"But?"
+My chest suddenly felt tight.
 
-Her lips twitched.
+"I didn't see you, Charlotte," she said, her voice soft. "I didn't realise it was you, all along. That sweet, gentle, sensitive person I so cherished—that was you."
 
-"Well, it's a bit party-town after work. Especially on Fridays and the weekend."
+Her face went blurry. I blinked, hard.
 
-"So, like Melbourne."
+"I'm sorry, Mum," I whispered.
 
-"I guess." Her lips went sideways. "Not my thing. I mean, the pool party was, um, fun—"
+She leaned forward.
 
-My brows rose.
+"Let me carry this one, darling," she said. "Sometimes we see things that aren't true because it's easiest. I couldn't see my daughter because my things in my head got in the way. And—I'm sorry."
 
-"How so?"
+I stared at her for a beat, then threw my arms around her. She pressed my face into her bosom, running her hand over the back of my head. Her warmth washed over me, and the tightness vanished.
 
-"Well, everyone was so nice. I even got me a new dress," she said. "I think you'll like it."
+"I am so lucky to have you as my Mum," I mumbled. I heard her breath catch.
 
-"You went shopping for a dress?"
+"My lovely girl... my brave, brave girl!"
 
-"Well, actually, Brittany took me. She had decided something about what I was wearing." She shrugged. "But yeah, I like the dress. Paid a bit more for it, but then, I didn't get from the shops I usually go to."
+I heard a cough. Turning, I saw Lily looking at us, eyes wide.
 
-The knot had tightened again.
+"Sorry... Mara said you were going to teach me how to test."
 
-“What did Brittany have an issue with?”
+Mum released me. I quickly wiped my wet cheeks and turned the corners of my mouth up. Lily gave me a look like she thought I was trying too hard.
 
-“Look, she’s from Perth. Her folks just bought her a brand-new EV," Charlotte said. "I’m allowed to be mildly suspicious of her standards.”
+"Show Lily how it's done, hun."
 
-I cleared my throat.
+"Before we start at testing, could you show me how to work the coffee machine?"
 
-"Did you enjoy it?"
+Lisa appeared at the tearoom door, holding a dress in upturned hands, exposing grommets and lacing. I glanced at Lisa's face. Her mouth was pushed sideways: this was about more than just grommets and lacing.
 
-"What, shopping?" 
+She twitched—part snort, part laugh.
 
-I nodded. She frowned. "It's a bit— new to me. There's more to it than I thought there would be."
+"Mara said 'zipper'. Can you believe it?"
 
-“Mm.” I let the stem turn between my fingers. “And you think I’ll like the dress.”
+"No."
 
-One side of her mouth lifted. “Yeah. I do.”
+I turned to Lily.
 
-We held each other’s gaze through the screen. 
+"We'll do coffee together at lunch. It's pretty basic. Let's go over to the test bay. Please bring the dress," I said to Lisa. 
 
-She let out her breath in a big sigh. "Two more weeks," she said finally. I pulled my mouth into a small, steady smile as I dipped my head.
+We spread the dress on the table. I turned out the collar.
 
-"I'm proud of you," I said. "Fiona is really impressed how quickly her department is getting up to speed."
+"Twelve. Who fits into a twelve?"
 
-Charlotte found a smile, and kept it there. Her eyes had a question, though.
+"You do," I heard Mum say behind me. I was about to shake my head when I saw Lisa and Lily nod, looking at me expectantly. I shrugged and threw the dress over my head. My mum pulled it into place, then grasping the lacing gave them a tug. "Was I right?"
 
-"What is it?"
+I straightened my back. Lisa ran her fingers along a small ripple—not quite a crease—that started at a grommet and faded as it approached the side. Her eyes flicked up as she shook her head.
 
-She grimaced and let an impatient breath out through her nose. "Not sure how to—"
+"We'll need to completely redesign this whole panel, won't we?"
 
-I flipped my hand.
+I nodded.
 
-"Just say it, Charlotte."
+"The main mistake I made in Maleny was agreeing to a zipper when I knew it couldn't work."
 
-She took in a deep breath.
+"But it will work," Mara cut in. "If we rethink the physics, Nighingale."
 
-"Well, so—" She paused again. I stilled, waiting. "The pool party, right? The girls kept inviting me in." Another pause as she bit her lip. "Celeste, I couldn't—"
+"When you lace, you lace from the bottom," I said to Lisa. "So, that part of the dress—and the grommets—take the load first. We design the waist to load-bear first, and *most*. And then, the lower chest. But, with a zipper..."
 
-My mouth twitched in a small smile.
+"Zippers do things differently," Mum said. "Lacing can adjust to load changes. A zipper gets confused." She examined the panel under my bust. "When you bend forward, lacing and grommets adjust. Zippers don't. The difference is not trivial."
 
-"How did you get out of it? No togs?"
+"What about a side-zipper?" Lisa said.
 
-Her face reddened. A laugh escaped me. "You didn't!"
+Mara nodded.
 
-"Yep. Invoked Martha. Hey, what else could I—"
+"Far more sensible than a front one," Mara said. "Hidden. It is worth trying. The truth will be in how it deforms. It's physics."
 
-"No, that was perfect! Good thinking."
+I turned to Lily.
 
-She grimaced. "Have to admit, not my idea. But, here's the thing... I can't keep using that excuse, Celeste. And, to be honest, I don't want to, either." She looked down, her eyes serious. "I've been thinking about this a lot, lately." 
+"You want to focus on what changes when you move. A side zipper will tell a different story to lacings. The story begins at the waist. If the zipper seems confused at the waist, an actress will be in complaining about it before her shift ends."
 
-"Of what, exactly?"
+Mara shook a large drafting paper pattern out of a cardboard tube, and flattened the pattern on the table. Lisa, Brittany, Lily, and I leaned over it as Mara tapped a seamline on the pattern once.
 
-Outside, a lapwing screeched. 
+"This is why I like lacing and hate zippers," she said. "Lacing is polite. Zippers are rude. Lacing will work with you. Zippers have their own way of doing things."
 
-"Of, um, like... surgery?" Her voice was thin.
+The door opened and a cold evening air followed Celeste in. Mum and Sarah gathered their things.
 
-The screeching faded into the distance.
+"Ready, Brittany?"
 
-"Big step." 
+With a wide toothy grin, Brittany threw on her caraco jacket.
 
-She stared down, her lips tight.
+"I am now! Night, all."
 
-"I know," she said softly.
+On the way out Mum gave me a squeeze goodnight.
 
-I took a sip from my glass. "Just checking. This really isn't just so you can wear togs, is it?"
+"Love you, Mum." 
 
-"No, of course not." She finally looked at me—her eyes had reddened. "No, it's... I've actually been thinking about it, ever since I started the treatments. Off and on."
+Celeste's eyebrows rose and her smile grew.
 
-“Right then,” I said. “This is about something else.” The knot was gone. I looked away for a moment. “Tell me, when you picture it done, what do you actually feel? Relief? Or just less fear?”
+The blustery wind blew crisp gum-tree leaves against my legs as we walked to the car. I didn't feel cold, not really. 
 
-She looked away, biting her nail. The clock in the kitchenette ticked.
+All I could feel anymore was Mum's warm hug.
 
-"Relief?" Her eyes held the question.
-
-"You're not sure?"
-
-"No, it's not that. Just—" Her fingers stroked her temple. She frowned slightly. "I know this sounds weird, but am I allowed to feel... relief?"
-
-"What do you mean, 'allowed'? It's your body, Charlotte."
-
-"Yeah but—"
-
-"I'm not following."
-
-She gave her hand an impatient shake.
-
-"I'm not saying it right, Celeste. It's just... don’t feel like this is only about me.”
-
-I gave a puzzled snort. "About who, then?"
-
-"Well, you, for one," she replied. “It doesn’t feel like something I can decide without you.”
-
-"Oh." I leaned back with a nod, fingertips on my lips. "I see."
-
-Her eyes sought mine.
-
-“I know it’s mostly about me,” she said. “But it changes things for both of us, doesn’t it?”
-
-"If you're talking about the pitter-patter of little feet around the house—"
-
-"Well, yes and no." Her brow furrowed. "It's just that with surgery, there's risks."
-
-"Pregnancy has risks, too," I said.
-
-"True." Charlotte’s mouth widened without becoming a smile. "We have a lot to think about."
-
-We.
-
-That landed well.
-
-"I miss you," she said.
-
-"And I miss you," I replied. “More than’s sensible.”
+—
