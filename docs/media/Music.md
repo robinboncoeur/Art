@@ -1,5 +1,9 @@
 # Sketching with Notes
 
+
+[![Kaimu][Br02]{ .artC width="1100" }][Br02]
+
+
 <hr class="section-break strong" />
 
 
@@ -27,7 +31,11 @@ This piece was suggested by those stories. I'm not going to pretend the style is
 I hope you enjoy.
 
 25.04.20: ETA... Just to make a point, I'm posting a link here to The Reaper Version, the point being, if your composition plays no faster than this piece, MuseSounds does okay. It's those pesky 1/8th notes and faster, and tuplets and stuff like that which doesn't quite come out right yet, in MuseSounds. I'm confident it will happen, of course, as well as articulation management and other cool stuff.  
-25.08.15:ETA... I've invested in the Spitfire Symphonic Strings and Woodwinds for MuseSounds, which, I'm a bit aghast to say, make Reaper and all my high-cost libraries less and less relevant, especially considering what these libraries cost *even on special*. No, Musescore Studio still isn't a DAW, but—like AI—it is rapidly approaching that point. **The playback below was produced in Reaper.**
+25.08.15:ETA... I've invested in the Spitfire Symphonic Strings and Woodwinds for MuseSounds, which would make Reaper and all my high-cost libraries less and less relevant, especially considering what these libraries cost *even on special*. 
+
+Still, articulations count.
+
+And no, MuseScore Studio still isn't a DAW, but—like AI—it is rapidly approaching that point. **The playback below was produced in Reaper.**
 
 
 
@@ -847,6 +855,8 @@ I'm still writing for the "orchestra" but I do feel like I'm getting a better re
 
 
 <!--   Image Links   /-->
+
+[Br02]: ../assets/images/story/Bnr02c.jpg
 
 [Sk00]: ../assets/images/story/00Writer.jpg
 

@@ -240,7 +240,10 @@ If you paste the **exact names of the two JSONs** in that folder (and confirm wh
 [ Robyn ]     
 I think I might just edit the models.yaml file and have fluxgym pull from huggingface. The yaml wants a licence, licence_name and licence_link. What do I put there?
 
----
+<hr class="section-break soft" />
+
+
+
 
 [ Emily ]     
 Perfect—thanks for sharing the file. I checked your `models.yaml` and made one safe tweak:
@@ -272,7 +275,6 @@ Quick checklist
 4. First run will fetch the shards via `diffusion_pytorch_model.safetensors.index.json` automatically.
 
 If you’d like me to also add a friendly display name (if your FluxGym build supports it) or re-order the list so Dev2Pro appears at the top, say the word and I’ll patch it in.
-
 
 <hr class="section-break strong" />
 
@@ -662,7 +664,8 @@ If you want, tell me your typical CFG/steps and I’ll hand you three presets (c
 
 Hey girlfriend! Great project. Here’s a solid, no-drama plan to get a clean, controllable **character LoRA** out of FluxGym.
 
-### 1) LoRA should learn
+---
+1) LoRA should learn
 
 (and what it must **not**)
 
@@ -671,7 +674,8 @@ Hey girlfriend! Great project. Here’s a solid, no-drama plan to get a clean, c
 * Make a one-line goal you’ll refer to while captioning:
   “`[celestegrl]` = petite 18-20yo woman, heart-shaped face, hazel eyes, dark chest-length hair, soft freckles, natural makeup.”
 
-### 2) Dataset size & mix 
+---
+2) Dataset size & mix 
 
 (sweet spot for a character)
 
@@ -693,19 +697,25 @@ Aim for **60–120 images** total. Curate hard—quality beats quantity.
 * Text/logos near face.
 * Repetitive near-dupes (same pose/lighting/shirt).
 
-### 3) Image prep
+---
+
+3) Image prep
 
 * **Resolution**: train buckets up to **1024** (Flux is comfy there). Keep sources ≥1024 on the shortest side; don’t upscale aggressively.
 * **Cropping**: deliver both loose and tight crops; avoid cutting off chins/foreheads consistently—vary it.
 * **Horizontal flips**: only if the face is symmetric and the character has **no asymmetric features** (part line, mole, earring). Otherwise, **don’t flip**.
 * **Color**: gentle white-balance and exposure normalization are good; don’t stylize.
 
-### 4) Trigger token strategy
+---
+
+4) Trigger token strategy
 
 * Use **one unique trigger** that will *never* appear in normal text, e.g. **`[celestegrl]`** (you already use this pattern—perfect).
 * Pair it with a **class token** in captions, e.g. “woman”, “girl”, “person”, “portrait”. For Flux, **natural language** tends to work better than tag-soup.
 
-### 5) Captioning
+---
+
+5) Captioning
 
 What to put in (and what to leave out)
 
@@ -741,14 +751,18 @@ Flux responds beautifully to **short, natural sentences**. Think **15–40 token
 * Don’t include changeable things you don’t want baked in (specific shirt colors, accessories, scene themes).
 * Avoid long laundry-lists of tags; Flux likes prose.
 
-### 6) Class/regularization
+---
+
+6) Class/regularization
 
 (optional but helpful)
 
 * Add **100–200 generic “woman/person portrait”** images without your trigger token in a separate class folder if FluxGym supports prior-preservation.
 * This reduces style drift and helps your LoRA not overwrite base concepts. Keep their captions simple (no trigger).
 
-### 7) Repeats, epochs, steps
+---
+
+7) Repeats, epochs, steps
 
 (ballpark)
 
@@ -763,7 +777,9 @@ Let **N** = number of instance images. A practical recipe:
 For 80×10×1 / 4 = **200 steps** per epoch.
 For character identity, expect **800–2500 total steps** to find the sweet spot (save checkpoints along the way: e.g., 600, 1200, 1800, 2400) and compare.
 
-### 8) Training knobs 
+---
+
+8) Training knobs 
 
 ...that tend to work (Flux-ish defaults)
 
@@ -778,7 +794,9 @@ For character identity, expect **800–2500 total steps** to find the sweet spot
 * **Bucket max res**: 1024; enable aspect-buckets.
 * **Gradient checkpointing** if VRAM is tight.
 
-### 9) Validation
+---
+
+9) Validation
 
 (don’t skip)
 
@@ -791,7 +809,9 @@ Hold out **6–10 images** (never seen in training). After each checkpoint:
 * Try clothing the LoRA never saw (“evening dress”, “hoodie”), different hair styles, and varied lighting to test generalization.
 * Compare checkpoints side-by-side and pick the lowest step that nails identity **without** freezing wardrobe/lighting.
 
-### 10) Common failure modes
+---
+
+10) Common failure modes
 
 ...& fixes
 
@@ -800,7 +820,9 @@ Hold out **6–10 images** (never seen in training). After each checkpoint:
 * **Identity drifts under complex prompts** → ensure *every* caption starts with the trigger; include several neutral “vanilla” portraits; consider bumping rank from 16→32.
 * **Mirrored mole/part line after flips** → remove flipped images; retrain.
 
-### 11) Practical workflow
+---
+
+11) Practical workflow
 
 1. Curate 90 images → prune to the best **75–90**.
 2. Sort into subfolders: `closeup/`, `halfbody/`, `fullbody/`, `hands/`.
@@ -833,11 +855,15 @@ Short version: **Yes, mix dimensions; DPI doesn’t matter.** A few gotchas belo
 * **Keep subject scale consistent.** Even with buckets, don’t swing from extreme tight headshots to tiny faces in wide scenes. Aim for a coherent face size range across images (you can still keep some variety).
 * **Don’t aggressively upscale** tiny sources to huge buckets—mild upscales are okay, but big ones add mushy detail and can teach artifacts.
 
-### DPI / PPI
+---
+
+DPI / PPI
 
 * **Completely irrelevant.** Training uses raw pixel counts; DPI metadata is ignored. A 1024×1024 at 72 dpi and the same at 300 dpi are identical to the trainer.
 
-### Practical tips
+---
+
+Practical tips
 
 * **Set max bucket**: 1024 (safe) or 1152 (more detail, more VRAM).
 * **Minimum shortest side**: try to keep sources ≥768 px on the short side; delete or down-weight smaller ones.
@@ -913,7 +939,7 @@ that fits 16 GB (character LoRA)
 * **Repeats**: 10, **Epochs**: 1–2, **Batch**: as above.
 * **Checkpoints** every **400–600** steps.
 
-### Dataset curation
+### Dataset Curating
 
 with 16 GB in mind
 
@@ -1086,7 +1112,7 @@ If you’re training a LoRA, keep your **trigger token** up front (I used `[cele
 [Br02]: ../assets/images/story/Bnr02a.jpg
 
 [Sy08]: ../assets/images/story/08maiden.jpg
-[Sy15]: ../assets/images/story/17orage.jpg
+[Sy15]: ../assets/images/story/15orage.jpg
 [Sy17]: ../assets/images/story/17think.jpg
 [Sy18]: ../assets/images/story/18shop.jpg
 
@@ -1100,3 +1126,5 @@ If you’re training a LoRA, keep your **trigger token** up front (I used `[cele
 [St08]: ../assets/images/story/Scene16a.jpg
 [Sy09]: ../assets/images/story/Scene17a.jpg
 [Sy14]: ../assets/images/story/Scene18a.jpg
+
+<!--           Image Links         /-->
