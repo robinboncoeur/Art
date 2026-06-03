@@ -20,590 +20,259 @@
 
 
 
-[ Charlotte ]
+[ Celeste ]
 
-I stood looking intently at nothing as Brittany tugged at the jacket's shoulders. 
+### 1
 
-"Take in a breath."
+We'd had to turn back twice. Once, because Brittany had forgotten her pattern tube, and the second time, Lauren rang us to ask whether Brittany thought she might need her airline tickets. 
 
-I took in a breath.
+Perhaps?
 
-"Good, that smooths the back out a bit," Brittany said. "How does it feel across there? Tight anywhere?"
+Undaunted by these little glitches, the chatter in the back seat, if anything, grew more animated. Charlotte kept remembering things she'd wanted Brittany to keep in mind, and Brittany simply had to share the names of some shops in Melbourne that we absolutely had to call in whilst in Melbourne, 
 
-I closed my eyes, letting myself settle into the material. The shoulders eased forward comfortably when I moved my arms to the front. I pulled my arms back and straightened, and followed Brittany's eyes down to my chest. Her pursed lips went sideways.
+"I mean, you're *there*, right?"
 
-"Not really a 'nymph' line tester, are you?"
+And then, suddenly, silence, just as I'd turned off the M2. In the rear-view mirror I could see pinched, brave faces pretending. Eyes flicking, not looking.
 
-My face suddenly felt hot. I shrugged. 
+Departure Dr.
 
-"I guess I might be taking after my mum. Just didn't think it would happen so soon."
+The girls stood and hugged, long and tight, lips quivering. I had just pulled Brittany's carry-on out of the boot and set it on the kerb, when I heard Charlotte's low voice: "Don't be a stranger, fairy godmother."
 
-Brittany flashed me a grin.
+Brittany pulled up the handles of her baggage.
 
-"Hey, what do you think of the peplum?"
+"There's more to being a woman than just a name. And you're every bit that, Charlotte."
 
-I tugged at it firmly and tipping my head gave her a thumbs-up.
+A quick hug for me and off she ran, her caraco jacket lapels flapping in the stiff wind. I glanced at Charlotte. Wide-eyed, her jaw was working. I gently took her hand.
 
-"Solid. You clearly weren't going to be let some random tourist tear it off."
+"let's go grab a coffee."
 
-She circled to the other side, her eyes focused. I heard a quiet snort on the other side of the table—Mara had quietly materialised.
 
-"We're giving the 'nymph' line testing to Lily." The door open and Lily stepped into Wardrobe as if on cue. Bree and Mum followed her in carrying a heavy-looking box. Mara's eyes snapped to it.
-
-"A new coffee machine," Bree said with a small grunt.
-
----
-
-"Well, new to us," Mum added quickly. They lugged it into the tearoom, setting it at a cleared section of the bench with a big final effort. Bree removed the cardboard with a flourish. The gleaming chrome made the room seem brighter.
-
-Mara breathed out slowly, her face set.
-
-"Before you say anything," Mum said, her eyes twinkling, "the staff all chipped in. It's not coming out of the operating budget."
-
-Mara closed her eyes and shook her head.
-
-"How much?"
-
-Sarah swung down from her perch with the grin of someone about to light a fuse.
-
-"You know, these run between five and six thousand—new."
-
-Suddenly, the loudest thing in the room was the steam press. Mara's eyes went dark. Mum held out an invoice.
-
-"Fifteen hundred, Mara," she said. "Sure, it's a bit more than that thing you and I looked at the other day at 'The Good Guys', but this is an Italian-made espresso machine. It's a tank—they build these machines to last. It will outlive us."
-
-Mara's look softened somewhat.
-
-"Anyone here know how to use it?"
-
-I nodded.
-
-"Nightingale?"
-
-Mum was filling the cistern as I adjusted settings on the beans grinder.
- 
-"How do you take your coffee, Mara?" I asked as I flicked the switch. The machine growled.
-
-"Almond latte?"
-
----
-
-Mum stayed beside me after the others drifted back to work, her cup held in both hands though she had already finished the coffee.
-
-“I didn’t know you knew how to make cappuccinos,” she said.
-
-“It’s not cooking.”
-
-“No.” Her mouth twitched. “Apparently that distinction matters.”
-
-“It does.”
-
-She smiled, but it didn’t quite hold. She looked toward the machine as it ticked and settled on the bench, all chrome and heat and faintly scorched coffee. Then she reached out and brushed a thread from my sleeve. There was no need to do it. The thread was barely there.
-
-“You’ve always done that,” she said.
-
-“What?”
-
-“Made yourself useful before anyone thought to ask.”
-
-I looked down at my cup.
-
-“Mum.”
-
-“No, don’t rescue me.” Her voice was soft, but also firm. “You do that too.”
-
-That made my throat close before I had decided whether I wanted it to. I glanced at her—quickly, then, away again. And then, suddenly found my thumbnail fascinating.
-
-The silence was broken by the sound of her cup being set down—carefully. Too carefully. 
-
-“I’ve been trying to find a clean way to say this, and—" She swallowed. "Every version sounds like something from a sympathy card.”
-
-I gave a small laugh, because I had to do something with my face.
-
-“I’m not good at this,” she said.
-
-I looked at her, finally. Bit a nail.
-
-“You’re my mum.”
-
-She shook her head.
-
-“That doesn’t make me good at it. It only means I should have tried earlier.”
-
-Her eyes were bright, but she wasn’t crying. Not yet. She was holding herself the way women did when there was work still to be done and no one else was allowed to touch it. An ache grew in my throat.
-
-“Over this last bit, I been thinking that—I had lost something,” she said. “A son." She stopped. Grimaced. "No, an idea. A shape—one I had got used to. Which was just—selfish of me." A palm opened, beckoning. "You were standing in front of me the whole time.”
-
-I couldn’t answer.
-
-I felt her warm fingers on my arm again.
-
-“I don’t want to make this about me, or about guilt,” she said. “I won't ask you to carry this for me. I just want to say it as plainly as I can.” She swallowed. “I’m—sorry you had to wait. For me. To see... you.”
-
-The room blurred.
-
-“Mum, I—”
-
-“No.” She shook her head once. “This is on me.”
-
-That undid me more than the apology.
-
-I stepped into her because I had no language left. She caught me at once, one arm around my shoulders, the other hand settling at the back of my head as if I were still small enough to fit there. Her blouse smelled faintly of washing powder and coffee, and under that, simply Mum.
-
-“I am so lucky,” I whispered, though it came out muffled against her.
-
-Her breath caught.
-
-“So am I,” she said. “My lovely girl.”
-
-She only held me a moment longer, then gave my shoulder a practical squeeze and reached for a tissue from her handbag.
-
-“Blow,” she said.
-
-I stared at her.
-
-“Charlotte, you are allowed to be transformed and still have a runny nose.”
-
-That made me laugh properly, wetly, disgracefully.
-
-The door creaked behind us.
-
-Lily stood there, wide-eyed and horrified by her own timing.
-
-“Sorry,” she said. “Mara said you were going to teach me how to test.”
-
-Mum handed me the tissue, then gave Lily the calm look of a woman restoring order to a room.
-
-“She is,” Mum said. “And she’s very good at it.”
-
----
-
-Lisa appeared at the tearoom door then, holding a dress in upturned hands, exposing grommets and lacing. I glanced at Lisa's face. Her mouth was pushed sideways: this was about more than just grommets and lacing.
-
-She twitched—part snort, part laugh.
-
-"Mara said 'zipper'. Can you believe it?"
-
-"No."
-
-We spread the dress on the table. I turned out the collar.
-
-"Twelve. Who fits into a twelve?"
-
-"You do," I heard Mum say behind me. I was about to shake my head when I saw Lisa and Lily nod, looking at me expectantly. I shrugged and threw the dress over my head. My mum pulled it into place, then grasping the lacing gave them a tug. "Was I right?"
-
-I straightened my back. Lisa ran her fingers along a small ripple—not quite a crease—that started at a grommet and faded as it approached the side. Her eyes flicked up as she shook her head.
-
-"We'll need to completely redesign this whole panel, won't we?"
-
-I nodded.
-
-"The main mistake I made in Maleny was agreeing to a zipper when I knew it couldn't work."
-
-"But it will work," Mara cut in. "If we rethink the physics, Nighingale."
-
-"When you lace, you lace from the bottom," I said to Lisa. "So, that part of the dress—and the grommets—take the load first. We design the waist to load-bear first, and *most*. And then, the lower chest. But, with a zipper..."
-
-"Zippers do things differently," Mum said. "Lacing can adjust to load changes. A zipper gets confused." She examined the panel under my bust. "When you bend forward, lacing and grommets adjust. Zippers don't. The difference is not trivial."
-
-"What about a side-zipper?" Lisa said.
-
-Mara nodded.
-
-"Far more sensible than a front one," Mara said. "Hidden. It is worth trying. The truth will be in how it deforms. It's physics."
-
-I turned to Lily.
-
-"You want to focus on what changes when you move. A side zipper will tell a different story to lacings. The story begins at the waist. If the zipper seems confused at the waist, an actress will be in complaining about it before her shift ends."
-
-Mara shook a large drafting paper pattern out of a cardboard tube, and flattened the pattern on the table. Lisa, Brittany, Lily, and I leaned over it as Mara tapped a seamline on the pattern once.
-
-"This is why I like lacing and hate zippers," she said. "Lacing is polite. Zippers are rude. Lacing will work with you. Zippers have their own way of doing things."
-
-The door opened and a cold evening air followed Celeste in. Mum and Sarah gathered their things.
-
-"Ready, Brittany?"
-
-With a wide toothy grin, Brittany threw on her caraco jacket.
-
-"I am now! Night, all."
-
-On the way out Mum gave me a squeeze goodnight.
-
-"Love you, Mum." 
-
-Celeste's eyebrows rose and her smile grew.
-
-The blustery wind blew crisp gum-tree leaves against my legs as we walked to the car. I didn't feel cold, not really. 
-
-All I could feel anymore was Mum's warm hug.
-
-—
 
 <hr class="section-break soft" />
 
-<!--
-😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺… …
-/-->
+We had to turn back twice.
 
+The first time, Brittany had forgotten her pattern tube. The second time, Lauren rang to ask whether Brittany thought she might need her airline tickets.
 
+Brittany took both reversals as proof that the morning was important enough to resist being simple.
 
+By the time we were on the M2 again, the back seat had recovered itself. If anything, the chatter had grown brighter. Charlotte kept remembering things Brittany had to keep in mind, as if London, Paris, and the whole machinery of her future might collapse without one more instruction from the left-hand side of the car. Brittany, in turn, remembered shops in Melbourne that we absolutely had to visit while we were there.
 
+“I mean, you’re *there*, right?”
 
+Then, just after I turned off toward Departures, the car went quiet.
 
-## 💧 The Truth Is in How It Deforms 🩸
+Not politely quiet. Not tired quiet.
 
-[ Charlotte ]
+Quiet because both of them had seen the same thing at the same time and neither knew how to be the first to name it.
 
-I stood looking intently at nothing while Brittany adjusted the jacket across my shoulders.
+In the rear-view mirror I saw two brave, pinched faces pretending badly. Eyes flicked sideways, then away. Charlotte had one hand tucked under her thigh. Brittany’s fingers were worrying the strap of her handbag.
 
-“Take in a breath.”
+Departure Drive came up too quickly.
 
-I took in a breath.
+I pulled in where I could and got Brittany’s carry-on out of the boot. The wind came hard across the lanes, sharp with jet fuel and wet concrete. Brittany’s caraco jacket lifted at the lapels as if it, too, had somewhere urgent to be.
 
-“Good. That smooths the back a little.” She watched the cloth settle, then glanced up at me. “How does it feel across there? Tight anywhere?”
+Charlotte stood with her arms around her.
 
-I closed my eyes and let myself listen to the garment.
+“Don’t be a stranger, fairy godmother,” she said.
 
-The shoulders moved comfortably when I brought my arms forward. I pulled them back again, straightened, and followed Brittany’s gaze down to my chest.
+It was meant to be light. It failed beautifully.
 
-Her lips pursed, then slid sideways.
+Brittany laughed once, then pressed her mouth shut. She pulled up the handle of her bag, but did not move.
 
-“Well,” she said. “You’re not exactly giving us nymph-line data anymore, are you?”
+“There’s more to being a woman than a name,” she said.
 
-Heat rushed into my face. I shrugged.
+Charlotte went still.
 
-“I suppose I might be taking after Mum. I just didn’t think it would happen quite this soon.”
+Brittany looked straight at her then, no theatre, no flutter, no last-minute prettiness. Just certainty.
 
-Brittany’s grin softened before it became a tease.
+“And you’re every bit that, Charlotte.”
 
-“Congratulations and commiserations. We’ll update the ledger.” She bent slightly to inspect the lower edge of the jacket. “Peplum?”
+She hugged Charlotte again, hard enough to make her stumble. Then she hugged me quickly, as if any longer would undo her, and turned toward the terminal with her lapels flapping and one hand raised behind her.
 
-I gave it a firm tug, tipped my head, and lifted my thumb.
+Charlotte watched until the doors took her.
 
-“Good. That was not coming off unless someone brought tools.”
+Her eyes were wide. Her jaw moved once, then again, as if the words had lodged somewhere too deep for speech.
 
-A quiet snort came from the far side of the table.
+I took her hand.
 
-Mara had appeared there without any of us hearing her arrive.
+“Come on,” I said. “Let’s get coffee.”
 
-“We’re giving the nymph-line testing to Lily,” she said.
 
-The door opened.
 
-Lily stepped into Wardrobe as if summoned by policy. Behind her came Bree and Mum, carrying a heavy-looking box between them.
 
-Mara’s attention left Lily at once and fixed on the box.
+<hr class="section-break soft" />
 
-“A new coffee machine,” Bree said, puffing slightly. “Before anyone asks, yes, it counts as workplace infrastructure.”
+We had to turn back twice.
 
-“Well, new to us,” Mum added quickly.
+The first time, Brittany had forgotten her pattern tube. The second time, Lauren rang to ask whether Brittany thought she might need her airline tickets.
 
-They lugged it into the tearoom and set it down on a cleared section of bench with one last, heroic effort. Bree stripped away the cardboard with a flourish.
+Brittany took both reversals as proof that the morning was important enough to resist being simple.
 
-Chrome gleamed beneath it.
+By the time we were finally on the M2, the back seat had recovered—if anything, the chatter had grown brighter. Charlotte kept remembering things Brittany had to keep in mind, as if London, Paris, and the whole machinery of her future might collapse without one more instruction from the left-hand side of the car. Brittany, in turn, remembered shops in Melbourne that we absolutely had to visit while we were there.
 
-The room seemed brighter.
+“I mean, you’re *there*, right?”
 
-Mara breathed out slowly, her face arranged into the expression she used when numbers were about to become moral.
+Then, just as I turned off toward Departures, the car went quiet.
 
-“Before you say anything,” Mum said, eyes twinkling, “the staff all chipped in. It is not coming out of the operating budget.”
+The sort of quiet that tried too hard. Quiet because both of them had seen the same thing at the same time and neither knew how to be the first to name it.
 
-Mara closed her eyes and shook her head.
+In the rear-view mirror I saw two brave, pinched faces pretending badly. Eyes flicked sideways, then away. Charlotte had one hand tucked under her thigh. Brittany’s fingers were worrying the strap of her handbag.
 
-“How much?”
+Departure Drive came up quickly. I pulled in where I could. When I opened the door, I quickly grabbed it—the wind came hard across the lanes, sharp with jet fuel and wet concrete. 
 
-Sarah swung down from her perch, wearing the grin of someone about to light a fuse.
+As I got Brittany’s suitcase out of the boot, Charlotte suddenly threw her arms around her.
 
-“You know, these run five or six thousand new.”
+“Don’t be a stranger, fairy godmother,” she said.
 
-For a moment, the loudest thing in Wardrobe was the steam press.
+It was meant to be light. It failed beautifully. 
 
-Mara opened her eyes.
+Brittany’s caraco jacket lifted at the lapels as if it, too, had somewhere urgent to be. She laughed, turned, and pulled up the handle of her bag. 
 
-Mum held out an invoice.
+Stopped.
 
-“Fifteen hundred,” she said. “Yes, it’s a bit more than that thing you and I looked at the other day at The Good Guys, but this is an Italian-made espresso machine. It’s a tank. They build these machines to last. It will outlive us.”
+“There’s more to being a woman than a name,” she said. No last-minute prettiness. Certainty.
 
-Mara took the invoice as if it might bite.
+Charlotte went still.
 
-Her expression softened by one carefully rationed degree.
+Brittany looked straight at her.
 
-“Anyone here know how to use it?”
+“And you’re every bit that, Charlotte.”
 
-I raised my hand.
+She hugged Charlotte again, hard enough to make her stumble. Then she hugged me quickly, as if any longer would undo her, and turned toward the terminal with her lapels flapping and one hand raised behind her.
 
-Every face turned.
+Charlotte watched until the doors took her.
 
-Mara looked at me.
+Her eyes were wide. Her jaw moved once, then again, as if the words had lodged somewhere too deep for speech.
 
-“Nightingale?”
+I took her hand.
 
-Mum was already filling the reservoir while Bree found the grinder and Sarah, uninvited and inevitable, opened cupboards in search of cups.
+“Come on,” I said. “Let’s get coffee.”
 
-I checked the bean hopper, adjusted the grind, and flicked the switch.
 
-The machine woke with a low, expensive growl.
 
-“How do you take your coffee, Mara?”
+<hr class="section-break soft" />
 
-Mara looked from me to the machine, then to the invoice still in her hand.
+We had to turn back twice.
 
-“Almond latte,” she said.
+The first time, Brittany had forgotten her pattern tube. The second time, Lauren rang to ask whether Brittany thought she might need her airline tickets.
 
-Mum smiled as if some private theory had just been confirmed.
+Brittany took both reversals as proof that the morning was important enough to resist being simple.
 
-“Thought so.”
+By the time we were finally on the M2, the back seat had recovered. If anything, the chatter had grown brighter. Charlotte kept remembering things Brittany had to keep in mind, as if London, Paris, and the whole machinery of her future might collapse without one more instruction from the left-hand side of the car. Brittany, in turn, remembered shops in Melbourne that we absolutely had to visit while we were there.
 
----
+“I mean, you’re *there*, right?”
 
-Mum stayed beside me after the others drifted back to work, her cup held in both hands though she had already finished the coffee.
+Then, just as I turned off toward Departures, the car went quiet.
 
-“I didn’t know you knew how to make cappuccinos,” she said.
+The sort of quiet that tried too hard. Quiet because both of them had seen the same thing at the same time and neither knew how to be the first to name it.
 
-“It’s not cooking, mum.”
+In the rear-view mirror I saw two brave, pinched faces pretending badly. Eyes flicked sideways, then away. Charlotte had one hand tucked under her thigh. Brittany’s fingers were worrying the strap of her handbag.
 
-“No.” Her mouth twitched. “Apparently that distinction matters.”
+Departure Drive came up quickly. I pulled in where I could. When I opened the door, the wind caught it at once, sharp across the lanes with jet fuel and wet concrete.
 
-“It does.”
+As I got Brittany’s suitcase out of the boot, Charlotte was the first to break. She threw her arms around Brittany.
 
-She smiled, but it didn’t quite hold. Her gaze moved toward the machine as it ticked and settled on the bench, all chrome and heat and faintly scorched coffee. Then she reached out and brushed a thread from my sleeve.
+“Don’t be a stranger, fairy godmother,” she said.
 
-There was no need to do it. The thread was barely there.
+It was meant to be light. It failed beautifully.
 
-“You’ve always done that,” she said.
+Brittany’s caraco jacket lifted at the lapels as if it, too, had somewhere urgent to be. She laughed, turned, and pulled up the handle of her bag.
 
-“What?”
+Then stopped.
 
-“Made yourself useful before anyone thought to ask.”
+“There’s more to being a woman than a name,” she said.
 
-I looked down at my cup.
+No last-minute prettiness.
 
-“Mum.”
+Certainty.
 
-“No, don’t rescue me.” Her voice was soft, but firm. “You do that too.”
+Charlotte went still.
 
-That made my throat close before I had decided whether I wanted it to. I glanced at her—quickly, then away again—and suddenly found my thumbnail fascinating.
+Brittany looked straight at her.
 
-The silence was broken by the sound of her cup being set down.
+“And you’re every bit that, Charlotte.”
 
-Carefully.
+She hugged Charlotte again, hard enough to make her stumble. Then she hugged me quickly, as if any longer would undo her, and turned toward the terminal with her lapels flapping and one hand raised behind her.
 
-Too carefully.
+Charlotte watched until the doors took her.
 
-“I’ve been trying to find a clean way to say this, and—” She swallowed. “Every version sounds like something from a sympathy card.”
+Her eyes were wide. Her jaw moved once, then again, as if the words had lodged somewhere too deep for speech.
 
-I gave a small laugh, because I had to do something with my face.
+I took her hand.
 
-“I’m not good at this,” she said.
+“Come on,” I said. “Let’s get coffee.”
 
-I looked at her, finally, and bit at the edge of my nail.
 
-“You’re my mum.”
 
-She shook her head.
 
-“That doesn’t make me good at it. It only means I should have tried earlier.”
+<hr class="section-break strong" />
 
-Her eyes were bright, but she wasn’t crying. Not yet. She was holding herself the way she did when something mattered too much to be allowed to spill everywhere. An ache grew in my throat.
+### 2
 
-“Over these last few weeks, I’ve been thinking that I’d lost something,” she said. “A son.”
+For the first ten minutes, neither of us said anything.
 
-She stopped. Grimaced.
+The car felt larger without Brittany. Not empty—emptiness has a kind of simplicity to it. This was worse than empty. This was the space a person leaves when she has gone and taken the easy version of the morning with her.
 
-“No. An idea. A shape I’d got used to. Which was just—selfish of me.” Her hand opened slightly, helpless and beckoning at once. “You were standing in front of me the whole time.”
+Charlotte sat with both hands in her lap. Just placed there, neatly, As if she had been told what to do with them and had decided obedience would get her through the rest of the morning.
 
-I couldn’t answer.
+I kept my eyes on the road.
 
-Her warm fingers touched my arm again.
+The airport fell behind us in signs and concrete, in rental car arrows and impatient merging traffic. I glanced over at Charlotte—she was following a plane climbing into the low clouds.
 
-“I don’t want to make this about me, or about guilt,” she said. “I won’t ask you to carry this for me. I just want to say it as plainly as I can.”
+I wanted to say something sensible.
 
-She swallowed.
+But sensible seemed heartless, somehow. Sensible things have a habit of arriving dressed as kindness and leaving fingerprints everywhere.
 
-“I’m sorry you had to wait for me to see you.”
+So I said nothing and drove.
 
-The room blurred.
+By the time the freeway had taken us properly back toward the city, the first edge had gone out of the silence. Charlotte shifted once, then tucked one foot behind the other. She watched the traffic with an attention that had nothing to do with traffic.
 
-“Mum, I—”
+“She meant it, you know,” I said at last.
 
-“No.” She shook her head once. “This is on me.”
+Charlotte's mouth tightened. She did not answer straight away.
 
-That undid me more than the apology.
+“I know.”
 
-I stepped into her because I had no language left. She caught me at once, one arm around my shoulders, the other hand settling at the back of my head—I was still small enough to fit there. Her blouse smelled faintly of washing powder and coffee, and under that, simply Mum.
+It came out very quietly. Almost resigned.
 
-“I am so lucky,” I whispered, though it came out muffled against her.
+Burdened.
 
-Her breath caught.
+I glanced at her, then back at the road.
 
-“So am I,” she said. “My lovely girl.”
-
-She held me only a moment longer, then gave my shoulder a practical squeeze and reached for a tissue from her handbag.
-
-“Blow,” she said.
-
-I stared at her.
-
-“Charlotte, you are allowed to be transformed and still have a runny nose.”
-
-That made me laugh properly, wetly, disgracefully.
-
-The door creaked behind us.
-
-Lily stood there, wide-eyed and horrified by her own timing.
-
-“Sorry,” she said. “Mara said you were going to teach me how to test.”
-
-Mum handed me the tissue, then gave Lily the calm look of a woman restoring order to a room.
-
-“She is,” Mum said. “And she’s very good at it.”
-
----
-
-Lisa appeared at the tearoom door holding a dress in both upturned hands, exposing grommets, lacing, and a great deal of trouble.
-
-I glanced at her face.
-
-Her mouth had gone sideways. This was about more than grommets and lacing.
-
-She gave a small twitch—part snort, part laugh.
-
-“Mara said zipper. Can you believe it?”
+“That wasn’t a small thing to give you.”
 
 “No.”
 
-We spread the dress on the table. I turned out the collar and checked the label.
+The city began to gather ahead of us. Glass, cranes, winter trees, the flat pewter light Melbourne did so well on days when it wanted to remind everyone they owned a coat.
 
-“Twelve. Who fits a twelve?”
+Charlotte breathed in, held it, let it go.
 
-“You do,” Mum said behind me.
+“I don’t know what I’m supposed to do with it.”
 
-I was about to shake my head, but Lisa and Lily were already nodding at me as if the matter had been settled somewhere above my rank.
+There it was.
 
-I shrugged and pulled the dress over my head.
+A hand extended in the dark, hoping someone decent was there.
 
-Mum drew it down into place, then caught the lacing and gave it two firm tugs.
+I kept my voice even.
 
-“Was I right?”
+“You don’t have to do anything with it before coffee.”
 
-I straightened my back.
+That almost made her smile.
 
-Lisa ran her fingers along a small ripple—not quite a crease—that began at one grommet and faded as it reached the side seam. Her eyes flicked up. She shook her head.
+Almost.
 
-“We’d have to redesign this whole panel, wouldn’t we?”
+“Is that one of your rules?”
 
-I nodded.
+“One of my better ones.”
 
-“The mistake I made at Maleny was agreeing to a zipper when I already knew it couldn’t just be swapped in.”
+She looked out the side window again. The wind moved in hard gusts across the road, worrying the trees, lifting scraps of paper along the kerb as we came off toward the city streets.
 
-“But it will work,” Mara said from the doorway. “If we stop pretending a zipper is decorative lacing and rethink the physics. Nightingale?”
+For a while, that was enough.
 
-I looked down at the front of the dress.
 
-“When you lace, the load doesn’t land in one place,” I said. “You can take it first at the waist, then ease it through the lower chest and shoulders. The grommets share the work. The gap changes. The pressure moves.”
 
-Lisa nodded slowly.
-
-“But a zipper gives you one fixed line.”
-
-“One fixed line,” Mum said, stepping closer. “And fixed lines are rude.”
-
-Lily blinked.
-
-Mum examined the panel beneath my bust. “Lacing negotiates. A zipper doesn’t. Bend forward, breathe hard, reach up—lacing adjusts by tiny amounts. A zipper just asks the fabric around it to suffer.”
-
-Lisa touched the ripple again.
-
-“So the fabric starts arguing instead.”
-
-“Exactly,” I said.
-
-“What about a side zipper?” Lisa asked.
-
-Mara came closer, her eyes already measuring the seam.
-
-“Far more sensible than a front one,” she said. “Hidden, for a start. Less offensive to the eye. But not automatically less troublesome.”
-
-I turned slightly, feeling where the dress pulled under my arm and across the waist.
-
-“It would have to carry stress without looking like it was carrying stress.”
-
-“Everything in Wardrobe does,” Sarah said from somewhere behind us.
-
-Mara ignored her, which meant she had heard perfectly.
-
-“A side zip is worth trying,” Mara said. “But we reinforce the seam, stabilise the opening, and test it sitting, reaching, bending, and being yanked about by tourists with no manners.”
-
-Lisa looked at the dress, then at me.
-
-“So the truth will be in how it deforms.”
-
-Mara’s mouth almost smiled.
-
-“The truth is always in how it deforms.”
-
----
-
-I turned to Lily.
-
-“You want to focus on what changes when you move,” I said. “First wear the dress we already know works. Learn what normal feels like. Where it gives. Where it pulls. Where it doesn’t matter.”
-
-Lily nodded, serious now.
-
-“Then wear the altered one and look for the difference. A side zipper will tell a different story from lacing. The story usually begins at the waist. If the zipper gets confused there, an actress will be in here complaining before her shift ends.”
-
-Mara shook a large drafting-paper pattern out of a cardboard tube and flattened it on the table.
-
-Lisa, Brittany, Lily, and I leaned over it as Mara tapped one seamline with her finger.
-
-“This is why I like lacing and hate zippers,” she said. “Lacing is polite. Zippers are rude. Lacing will negotiate. Zippers have their own ideas.”
-
-Brittany grinned. “So we’re teaching the zipper manners?”
-
-“We are teaching the dress to survive the zipper,” Mara said.
-
-That settled it.
-
-The door opened, and cold evening air followed Celeste in.
-
-Mum and Sarah began gathering their things.
-
-“Ready, Brittany?” Mum asked.
-
-With a wide, toothy grin, Brittany threw on her caraco jacket.
-
-“I am now. Night, all.”
-
-On the way out, Mum gave me a squeeze goodnight.
-
-“Love you, Mum.”
-
-The words came out easily.
-
-Celeste’s eyebrows rose, and her smile grew.
-
-Outside, the blustery wind blew crisp gum-tree leaves against my legs as we walked to the car. I didn’t feel cold.
-
-Not really.
-
-All I could feel anymore was Mum’s warm hug.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<hr class="section-break soft" />
 
 
 

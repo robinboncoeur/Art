@@ -1,6 +1,25 @@
 # To Study
 
 
+[![Wardrobe][Bnr03b]{ .artC width="1100" }][Bnr03b]
+
+
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+
+## Core Principles
+
+
+[![Dissonance][St00]{ .artR width="460" }][St00]
+
+
 
 ## Premise
 
