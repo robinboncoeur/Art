@@ -10,10 +10,28 @@
 ## Current—Playlist
 
 
-[![Robyn asking Emily writing tips][St00]{ .artR width="320" }][St00]
+[![Read][St01]{ .artR width="320" }][St01]
 
 
 These pieces live in my head when I write.
+
+[![Kaimu][St14]{ .artL width="160" }][St14]
+
+<div class="music-card music-card--with-art">
+  <div>
+    <p>Kalinnikov: Serenade in G</p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Kalinnikov-Serenade-in-G.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<hr class="section-break soft" />
+
+
+
+
 
 [![By The Sea][St15]{ .artL width="140" }][St15]
 
@@ -193,6 +211,10 @@ This is a piece I transcribed from hand-written manuscript. I have been asked to
 
 [St00]: ../assets/images/story/00Writer.jpg
 
+[St01]: ../assets/images/base/01aRead.jpg
+[St14]: ../assets/images/base/01aKaimu.jpg
+
+
 [St08]: ../assets/images/story/Scene08a.jpg
 [St09]: ../assets/images/story/09aParis.jpg
 [St10]: ../assets/images/story/10montvl.jpg
@@ -203,5 +225,7 @@ This is a piece I transcribed from hand-written manuscript. I have been asked to
 [St16]: ../assets/images/story/16flight.jpg
 [St35]: ../assets/images/story/Scene35a.jpg
 [St56]: ../assets/images/story/Scene56a.jpg
+[St14]: ../assets/images/base/01aKaimu.jpg
+
 
 <hr class="section-break strong" />
