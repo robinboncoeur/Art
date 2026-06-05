@@ -641,19 +641,18 @@ Dpm fast
 
 <!--           Image Links         /-->
 
-[Br02]: ../assets/images/story/Bnr02c.jpg
+[Br02]: ../assets/images/base/Bnr02c.jpg
+[Sy08]: ../assets/images/base/08maiden.jpg
 
-[Sy08]: ../assets/images/story/08maiden.jpg
-
-[Sy01]: ../assets/images/story/01train.jpg
-[Sy02]: ../assets/images/story/02music.jpg
-[Sy03]: ../assets/images/story/03mists.jpg
-[Sy04]: ../assets/images/story/04maiden.jpg
-[Sy05]: ../assets/images/story/05flight.jpg
-[Sy06]: ../assets/images/story/06office.jpg
-[Sy07]: ../assets/images/story/07WritingFriday.jpg
-[Sy08]: ../assets/images/story/08maiden.jpg
-[Sy09]: ../assets/images/story/09aParis.jpg
+[Sy01]: ../assets/images/base/01train.jpg
+[Sy02]: ../assets/images/base/02music.jpg
+[Sy03]: ../assets/images/base/03mists.jpg
+[Sy04]: ../assets/images/base/04maiden.jpg
+[Sy05]: ../assets/images/base/05flight.jpg
+[Sy06]: ../assets/images/base/06office.jpg
+[Sy07]: ../assets/images/base/07WritingFriday.jpg
+[Sy08]: ../assets/images/base/08maiden.jpg
+[Sy09]: ../assets/images/base/09aParis.jpg
 [St07a]: ../assets/images/story/Scene07a.jpg
 [St10b]: ../assets/images/story/Scene10b.jpg
 [Sy26]: ../assets/images/story/26Celeste.jpg

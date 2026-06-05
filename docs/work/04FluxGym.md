@@ -1109,12 +1109,12 @@ If you’re training a LoRA, keep your **trigger token** up front (I used `[cele
 
 <!--           Image Links         /-->
 
-[Br02]: ../assets/images/story/Bnr02a.jpg
+[Br02]: ../assets/images/base/Bnr02a.jpg
 
-[Sy08]: ../assets/images/story/08maiden.jpg
-[Sy15]: ../assets/images/story/15orage.jpg
-[Sy17]: ../assets/images/story/17think.jpg
-[Sy18]: ../assets/images/story/18shop.jpg
+[Sy08]: ../assets/images/base/08maiden.jpg
+[Sy15]: ../assets/images/base/15orage.jpg
+[Sy17]: ../assets/images/base/17think.jpg
+[Sy18]: ../assets/images/base/18shop.jpg
 
 [Sy01]: ../assets/images/story/Scene03a.jpg
 [Sy02]: ../assets/images/story/Scene07a.jpg

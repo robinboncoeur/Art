@@ -5914,7 +5914,7 @@ All I could feel was Mum’s warm hug.
 
 <!--            Image Links             /-->
 
-[Br02]: ../assets/images/story/Bnr02a.jpg
+[Br02]: ../assets/images/base/Bnr02a.jpg
 
 [Sy01]: ../assets/images/story/DScene01a.jpg
 [Sy02]: ../assets/images/story/DScene02a.jpg

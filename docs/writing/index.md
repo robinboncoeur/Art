@@ -115,9 +115,9 @@ Cinematic medium close-up portrait of a young woman with soft, natural features 
 <!--  Image references  -->
 
 
-[Br35b]: ../assets/images/story/Bnr35b.jpg
-[St00]: ../assets/images/story/00Writer.jpg
-[St09a]: ../assets/images/story/09aParis.jpg
+[Br35b]: ../assets/images/base/Bnr35b.jpg
+[St00]: ../assets/images/base/00Writer.jpg
+[St09a]: ../assets/images/base/09aParis.jpg
 
 <!--
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— … …

@@ -719,9 +719,8 @@ I watched Charlotte as the conversation continued around where, how, with what m
 
 <!--           Image Links         /-->
 
-[Br01]: ../assets/images/story/Bnr02a.jpg
-
-[St00]: ../assets/images/story/00Writer.jpg
+[Br01]: ../assets/images/base/Bnr02a.jpg
+[St00]: ../assets/images/base/00Writer.jpg
 
 [St01]: ../assets/images/story/Scene05a.jpg
 [St02]: ../assets/images/story/Scene07a.jpg

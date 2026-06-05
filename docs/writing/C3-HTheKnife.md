@@ -352,10 +352,10 @@ To cut someone free.
 
 <!--  Image references  -->
 
-[Bnr02b]: ../assets/images/story/Bnr02b.jpg
+[Bnr02b]: ../assets/images/base/Bnr02b.jpg
 
-[St00]: ../assets/images/story/00Writer.jpg
-[St06]: ../assets/images/story/06office.jpg
+[St00]: ../assets/images/base/00Writer.jpg
+[St06]: ../assets/images/base/06office.jpg
 
 
 <!--

@@ -492,22 +492,21 @@ Saying all that, please STEAL. You like the idea: it's YOURS. Run with it.
 
 <!--           Image Links         /-->
 
-[Br01]: ../assets/images/story/Bnr04a.jpg
-
-[St00]: ../assets/images/story/00Writer.jpg
+[Br01]: ../assets/images/base/Bnr04a.jpg
+[St00]: ../assets/images/base/00Writer.jpg
+[St08]: ../assets/images/base/08maiden.jpg
+[St19]: ../assets/images/base/19charlotte.jpg
+[St22]: ../assets/images/base/22ti4060.jpg
+[St23]: ../assets/images/base/23workflow.jpg
+[St24]: ../assets/images/base/24purple.jpg
+[St25]: ../assets/images/base/25Tamara.jpg
 
 [St03]: ../assets/images/story/Scene03a.jpg
 [St05]: ../assets/images/story/Scene05a.jpg
 [St06]: ../assets/images/story/Scene06a.jpg
 [St07]: ../assets/images/story/Scene07a.jpg
-[St08]: ../assets/images/story/08maiden.jpg
 [St09]: ../assets/images/story/Scene09a.jpg
 [St10]: ../assets/images/story/Scene10a.jpg
-[St19]: ../assets/images/story/19charlotte.jpg
-[St22]: ../assets/images/story/22ti4060.jpg
-[St23]: ../assets/images/story/23workflow.jpg
-[St24]: ../assets/images/story/24purple.jpg
-[St25]: ../assets/images/story/25Tamara.jpg
 [St26]: ../assets/images/story/Scene26c.jpg
 [St27]: ../assets/images/story/Scene27a.jpg
 [St28]: ../assets/images/story/Scene28a.jpg

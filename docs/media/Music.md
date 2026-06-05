@@ -856,9 +856,9 @@ I'm still writing for the "orchestra" but I do feel like I'm getting a better re
 
 <!--   Image Links   /-->
 
-[Br02]: ../assets/images/story/Bnr02c.jpg
+[Br02]: ../assets/images/base/Bnr02c.jpg
 
-[Sk00]: ../assets/images/story/00Writer.jpg
+[Sk00]: ../assets/images/base/00Writer.jpg
 
 [Sk09]: ../assets/images/sketches/09Metaphor.jpg
 [Sk10]: ../assets/images/sketches/10Bitoffun.jpg

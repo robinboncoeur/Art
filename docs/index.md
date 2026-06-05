@@ -86,8 +86,8 @@ I am not writing it to chase a market. I am writing it because the subject matte
 
 <!--  Image references  -->
 
-[Br35c]: assets/images/story/Bnr35c.jpg
-[St00a]: assets/images/story/00Writer.jpg
+[Br35c]: assets/images/base/Bnr35c.jpg
+[St00a]: assets/images/base/00Writer.jpg
 
 
 <!--

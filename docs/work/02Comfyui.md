@@ -6241,29 +6241,28 @@ If you send me your current denoise/CFG and typical aspect ratio, I’ll tailor 
 
 <!--           Image Links         /-->
 
-[Br02]: ../assets/images/story/Bnr02c.jpg
-
-[Sy01]: ../assets/images/story/01train.jpg
-[Sy02]: ../assets/images/story/02music.jpg
-[Sy03]: ../assets/images/story/03mists.jpg
-[Sy04]: ../assets/images/story/04maiden.jpg
-[Sy05]: ../assets/images/story/05flight.jpg
-[Sy06]: ../assets/images/story/06office.jpg
-[Sy07]: ../assets/images/story/07WritingFriday.jpg
-[Sy08]: ../assets/images/story/08maiden.jpg
-[Sy09]: ../assets/images/story/09aParis.jpg
-[Sy10]: ../assets/images/story/10montvl.jpg
-[Sy11]: ../assets/images/story/11bdress.jpg
-[Sy12]: ../assets/images/story/12accost.jpg
-[Sy13]: ../assets/images/story/13donga.jpg
-[Sy14]: ../assets/images/story/14alice.jpg
-[Sy15]: ../assets/images/story/15orage.jpg
-[Sy16]: ../assets/images/story/16flight.jpg
-[Sy17]: ../assets/images/story/17think.jpg
-[Sy18]: ../assets/images/story/18shop.jpg
-[Sy19]: ../assets/images/story/19charlotte.jpg
-[Sy15]: ../assets/images/story/15orage.jpg
-[Sy26]: ../assets/images/story/26Celeste.jpg
+[Br02]: ../assets/images/base/Bnr02c.jpg
+[Sy01]: ../assets/images/base/01train.jpg
+[Sy02]: ../assets/images/base/02music.jpg
+[Sy03]: ../assets/images/base/03mists.jpg
+[Sy04]: ../assets/images/base/04maiden.jpg
+[Sy05]: ../assets/images/base/05flight.jpg
+[Sy06]: ../assets/images/base/06office.jpg
+[Sy07]: ../assets/images/base/07WritingFriday.jpg
+[Sy08]: ../assets/images/base/08maiden.jpg
+[Sy09]: ../assets/images/base/09aParis.jpg
+[Sy10]: ../assets/images/base/10montvl.jpg
+[Sy11]: ../assets/images/base/11bdress.jpg
+[Sy12]: ../assets/images/base/12accost.jpg
+[Sy13]: ../assets/images/base/13donga.jpg
+[Sy14]: ../assets/images/base/14alice.jpg
+[Sy15]: ../assets/images/base/15orage.jpg
+[Sy16]: ../assets/images/base/16flight.jpg
+[Sy17]: ../assets/images/base/17think.jpg
+[Sy18]: ../assets/images/base/18shop.jpg
+[Sy19]: ../assets/images/base/19charlotte.jpg
+[Sy15]: ../assets/images/base/15orage.jpg
+[Sy26]: ../assets/images/base/26Celeste.jpg
 
 [St07a]: ../assets/images/story/Scene07a.jpg
 [St10b]: ../assets/images/story/Scene10b.jpg

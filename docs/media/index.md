@@ -10,7 +10,7 @@
 ## Current—Playlist
 
 
-[![Read][St01]{ .artR width="320" }][St01]
+[![Read][St01]{ .artR width="340" }][St01]
 
 
 These pieces live in my head when I write.
@@ -209,23 +209,21 @@ This is a piece I transcribed from hand-written manuscript. I have been asked to
 
 <!--   Links    /-->
 
-[St00]: ../assets/images/story/00Writer.jpg
+[St00]: ../assets/images/base/00Writer.jpg
 
 [St01]: ../assets/images/base/01aRead.jpg
 [St14]: ../assets/images/base/01aKaimu.jpg
-
+[St09]: ../assets/images/base/09aParis.jpg
+[St10]: ../assets/images/base/10montvl.jpg
+[St12]: ../assets/images/base/12accost.jpg
+[St13]: ../assets/images/base/13donga.jpg
+[St14]: ../assets/images/base/14alice.jpg
+[St15]: ../assets/images/base/15orage.jpg
+[St16]: ../assets/images/base/16flight.jpg
 
 [St08]: ../assets/images/story/Scene08a.jpg
-[St09]: ../assets/images/story/09aParis.jpg
-[St10]: ../assets/images/story/10montvl.jpg
-[St12]: ../assets/images/story/12accost.jpg
-[St13]: ../assets/images/story/13donga.jpg
-[St14]: ../assets/images/story/14alice.jpg
-[St15]: ../assets/images/story/15orage.jpg
-[St16]: ../assets/images/story/16flight.jpg
 [St35]: ../assets/images/story/Scene35a.jpg
 [St56]: ../assets/images/story/Scene56a.jpg
-[St14]: ../assets/images/base/01aKaimu.jpg
 
 
 <hr class="section-break strong" />

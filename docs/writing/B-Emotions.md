@@ -1886,9 +1886,9 @@ Below is a **mini-dictionary** you can paste straight into your toolkit, *and* t
 
 <!--      Image Links       /-->
 
-[Bnr03b]: ../assets/images/story/Bnr03b.jpg
+[Bnr03b]: ../assets/images/base/Bnr03b.jpg
+[St00]: ../assets/images/base/00Writer.jpg
 
-[St00]: ../assets/images/story/00Writer.jpg
 [St03a]: ../assets/images/story/Scene03a.jpg
 [St05a]: ../assets/images/story/Scene05a.jpg
 [St06a]: ../assets/images/story/Scene06a.jpg

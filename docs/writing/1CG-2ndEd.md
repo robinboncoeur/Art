@@ -13700,9 +13700,9 @@ As the plane dipped further and the world rose up to meet us, I pressed my foreh
 
 <!--  Image references  -->
 
-[Br01a]: ../assets/images/story/Bnr01a.jpg
+[Br01a]: ../assets/images/base/Bnr01a.jpg
 
-[St00a]: ../assets/images/story/00Writer.jpg
+[St00a]: ../assets/images/base/00Writer.jpg
 
 [S01a]: ../assets/images/story/Scene01a.jpg
 [S02a]: ../assets/images/story/Scene02a.jpg

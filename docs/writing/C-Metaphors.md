@@ -1090,9 +1090,9 @@ Looking forward to it. ✨
 
 <!--   Image Links    /-->
 
-[Bnr03b]: ../assets/images/story/Bnr03b.jpg
+[Bnr03b]: ../assets/images/base/Bnr03b.jpg
+[St00]: ../assets/images/base/00Writer.jpg
 
-[St00]: ../assets/images/story/00Writer.jpg
 [St01]: ../assets/images/story/Scene01a.jpg
 [St02]: ../assets/images/story/Scene02a.jpg
 [St03]: ../assets/images/story/Scene03a.jpg

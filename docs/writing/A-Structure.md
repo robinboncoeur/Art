@@ -953,9 +953,9 @@ It’s also a quiet insistence that trans women are not an enemy camp… but som
 
 <!--  Image references  -->
 
-[Bnr03b]: ../assets/images/story/Bnr03b.jpg
+[Bnr03b]: ../assets/images/base/Bnr03b.jpg
+[St00]: ../assets/images/base/00Writer.jpg
 
-[St00]: ../assets/images/story/00Writer.jpg
 [St03a]: ../assets/images/story/Scene03a.jpg
 [St05a]: ../assets/images/story/Scene05a.jpg
 [St11a]: ../assets/images/story/Scene11a.jpg
