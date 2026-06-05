@@ -4,11 +4,8 @@ edit_uri: "http://127.0.0.1:8000/docs/"
 use_directory_urls: true
 theme:
   name: material
+  icon: icon.png
   logo: assets/images/logo.png
-  variant: classic
-
-  favicon: assets/images/favicon.png
-
   palette:
     # Light mode
     - scheme: default
@@ -17,7 +14,6 @@ theme:
       toggle:
         icon: material/weather-night # indigo
         name: Switch to Dark Mode
-
     # Dark mode
     - scheme: slate
       primary: indigo
