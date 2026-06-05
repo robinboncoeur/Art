@@ -15,7 +15,7 @@
 
 These pieces live in my head when I write.
 
-[![Kaimu][St14]{ .artL width="160" }][St14]
+[![Kaimu][St02]{ .artL width="160" }][St02]
 
 <div class="music-card music-card--with-art">
   <div>
@@ -212,7 +212,7 @@ This is a piece I transcribed from hand-written manuscript. I have been asked to
 [St00]: ../assets/images/base/00Writer.jpg
 
 [St01]: ../assets/images/base/01aRead.jpg
-[St14]: ../assets/images/base/01aKaimu.jpg
+[St02]: ../assets/images/base/01aKaimu.jpg
 [St09]: ../assets/images/base/09aParis.jpg
 [St10]: ../assets/images/base/10montvl.jpg
 [St12]: ../assets/images/base/12accost.jpg
