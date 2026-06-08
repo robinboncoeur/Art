@@ -13,1002 +13,437 @@
 
 
 
-## Into Scene 23
+## 28 The Mirror
+
 
 [![The Writer][St00]{ .artR width="460" }][St00]
 
 
+[ Charlotte ]
 
+## The Mirror
 
-[ Celeste ]
+Nature wasn't taking no any longer, so I excused myself. After I washed my hands and pulled some paper towels I happened to glance in the mirror. 
 
-### 1
+I stood still, holding the paper towels like evidence.
 
-We'd had to turn back twice. Once, because Brittany had forgotten her pattern tube, and the second time, Lauren rang us to ask whether Brittany thought she might need her airline tickets. 
+And simply stared at the face in the mirror.
 
-Perhaps?
+At me.
 
-Undaunted by these little glitches, the chatter in the back seat, if anything, grew more animated. Charlotte kept remembering things she'd wanted Brittany to keep in mind, and Brittany simply had to share the names of some shops in Melbourne that we absolutely had to call in whilst in Melbourne, 
+A solemn face looked back. The lips moved into a slight grimace.
 
-"I mean, you're *there*, right?"
+What was I doing?
 
-And then, suddenly, silence, just as I'd turned off the M2. In the rear-view mirror I could see pinched, brave faces pretending. Eyes flicking, not looking.
+What have I done?
 
-Departure Dr.
+The girl in the mirror stared at me, wide-eyed, as if she too was wondering if she was worth all the trouble. I felt my lips press together. Now the girl was frowning at me. 
 
-The girls stood and hugged, long and tight, lips quivering. I had just pulled Brittany's carry-on out of the boot and set it on the kerb, when I heard Charlotte's low voice: "Don't be a stranger, fairy godmother."
+I let out a breath in a huff. And the door opened.
 
-Brittany pulled up the handles of her baggage.
+Celeste. 
 
-"There's more to being a woman than just a name. And you're every bit that, Charlotte."
+She looked at the towels and snorted a quick laugh.
 
-A quick hug for me and off she ran, her caraco jacket lapels flapping in the stiff wind. I glanced at Charlotte. Wide-eyed, her jaw was working. I gently took her hand.
+"Just checking if you're okay."
 
-"let's go grab a coffee."
+I felt my cheeks go hot.
 
+"I was..." I stopped.
 
+Her eyebrows rose slightly.
 
-<hr class="section-break soft" />
+"Looking at yourself in the mirror?" I swallowed. Her look sharpened. "Was it difficult?"
 
-We had to turn back twice.
+I looked at the floor.
 
-The first time, Brittany had forgotten her pattern tube. The second time, Lauren rang to ask whether Brittany thought she might need her airline tickets.
+"I—I suddenly don't feel all this fuss is necessary, Celeste. Maybe I should just—"
 
-Brittany took both reversals as proof that the morning was important enough to resist being simple.
+She said nothing but gave a slight nod.
 
-By the time we were on the M2 again, the back seat had recovered itself. If anything, the chatter had grown brighter. Charlotte kept remembering things Brittany had to keep in mind, as if London, Paris, and the whole machinery of her future might collapse without one more instruction from the left-hand side of the car. Brittany, in turn, remembered shops in Melbourne that we absolutely had to visit while we were there.
+I made as if to speak but she pointed at my hands.
 
-“I mean, you’re *there*, right?”
+"Finish up, Charlotte. We're getting ready to leave."
 
-Then, just after I turned off toward Departures, the car went quiet.
+Mum gave me a hug I'd never felt before—not from anyone, certainly not from her. Sarah eyed me as if satisfied she'd gotten her money's worth from diplomacy school. As we stepped onto the windy sidewalk, she said:
 
-Not politely quiet. Not tired quiet.
+"Learn to accept help as a woman, from women."
 
-Quiet because both of them had seen the same thing at the same time and neither knew how to be the first to name it.
-
-In the rear-view mirror I saw two brave, pinched faces pretending badly. Eyes flicked sideways, then away. Charlotte had one hand tucked under her thigh. Brittany’s fingers were worrying the strap of her handbag.
-
-Departure Drive came up too quickly.
-
-I pulled in where I could and got Brittany’s carry-on out of the boot. The wind came hard across the lanes, sharp with jet fuel and wet concrete. Brittany’s caraco jacket lifted at the lapels as if it, too, had somewhere urgent to be.
-
-Charlotte stood with her arms around her.
-
-“Don’t be a stranger, fairy godmother,” she said.
-
-It was meant to be light. It failed beautifully.
-
-Brittany laughed once, then pressed her mouth shut. She pulled up the handle of her bag, but did not move.
-
-“There’s more to being a woman than a name,” she said.
-
-Charlotte went still.
-
-Brittany looked straight at her then, no theatre, no flutter, no last-minute prettiness. Just certainty.
-
-“And you’re every bit that, Charlotte.”
-
-She hugged Charlotte again, hard enough to make her stumble. Then she hugged me quickly, as if any longer would undo her, and turned toward the terminal with her lapels flapping and one hand raised behind her.
-
-Charlotte watched until the doors took her.
-
-Her eyes were wide. Her jaw moved once, then again, as if the words had lodged somewhere too deep for speech.
-
-I took her hand.
-
-“Come on,” I said. “Let’s get coffee.”
-
-
-
-
-<hr class="section-break soft" />
-
-We had to turn back twice.
-
-The first time, Brittany had forgotten her pattern tube. The second time, Lauren rang to ask whether Brittany thought she might need her airline tickets.
-
-Brittany took both reversals as proof that the morning was important enough to resist being simple.
-
-By the time we were finally on the M2, the back seat had recovered—if anything, the chatter had grown brighter. Charlotte kept remembering things Brittany had to keep in mind, as if London, Paris, and the whole machinery of her future might collapse without one more instruction from the left-hand side of the car. Brittany, in turn, remembered shops in Melbourne that we absolutely had to visit while we were there.
-
-“I mean, you’re *there*, right?”
-
-Then, just as I turned off toward Departures, the car went quiet.
-
-The sort of quiet that tried too hard. Quiet because both of them had seen the same thing at the same time and neither knew how to be the first to name it.
-
-In the rear-view mirror I saw two brave, pinched faces pretending badly. Eyes flicked sideways, then away. Charlotte had one hand tucked under her thigh. Brittany’s fingers were worrying the strap of her handbag.
-
-Departure Drive came up quickly. I pulled in where I could. When I opened the door, I quickly grabbed it—the wind came hard across the lanes, sharp with jet fuel and wet concrete. 
-
-As I got Brittany’s suitcase out of the boot, Charlotte suddenly threw her arms around her.
-
-“Don’t be a stranger, fairy godmother,” she said.
-
-It was meant to be light. It failed beautifully. 
-
-Brittany’s caraco jacket lifted at the lapels as if it, too, had somewhere urgent to be. She laughed, turned, and pulled up the handle of her bag. 
-
-Stopped.
-
-“There’s more to being a woman than a name,” she said. No last-minute prettiness. Certainty.
-
-Charlotte went still.
-
-Brittany looked straight at her.
-
-“And you’re every bit that, Charlotte.”
-
-She hugged Charlotte again, hard enough to make her stumble. Then she hugged me quickly, as if any longer would undo her, and turned toward the terminal with her lapels flapping and one hand raised behind her.
-
-Charlotte watched until the doors took her.
-
-Her eyes were wide. Her jaw moved once, then again, as if the words had lodged somewhere too deep for speech.
-
-I took her hand.
-
-“Come on,” I said. “Let’s get coffee.”
-
-
-
-<hr class="section-break soft" />
-
-We had to turn back twice.
-
-The first time, Brittany had forgotten her pattern tube. The second time, Lauren rang to ask whether Brittany thought she might need her airline tickets.
-
-Brittany took both reversals as proof that the morning was important enough to resist being simple.
-
-By the time we were finally on the M2, the back seat had recovered. If anything, the chatter had grown brighter. Charlotte kept remembering things Brittany had to keep in mind, as if London, Paris, and the whole machinery of her future might collapse without one more instruction from the left-hand side of the car. Brittany, in turn, remembered shops in Melbourne that we absolutely had to visit while we were there.
-
-“I mean, you’re *there*, right?”
-
-Then, just as I turned off toward Departures, the car went quiet.
-
-The sort of quiet that tried too hard. Quiet because both of them had seen the same thing at the same time and neither knew how to be the first to name it.
-
-In the rear-view mirror I saw two brave, pinched faces pretending badly. Eyes flicked sideways, then away. Charlotte had one hand tucked under her thigh. Brittany’s fingers were worrying the strap of her handbag.
-
-Departure Drive came up quickly. I pulled in where I could. When I opened the door, the wind caught it at once, sharp across the lanes with jet fuel and wet concrete.
-
-As I got Brittany’s suitcase out of the boot, Charlotte was the first to break. She threw her arms around Brittany.
-
-“Don’t be a stranger, fairy godmother,” she said.
-
-It was meant to be light. It failed beautifully.
-
-Brittany’s caraco jacket lifted at the lapels as if it, too, had somewhere urgent to be. She laughed, turned, and pulled up the handle of her bag.
-
-Then stopped.
-
-“There’s more to being a woman than a name,” she said.
-
-No last-minute prettiness.
-
-Certainty.
-
-Charlotte went still.
-
-Brittany looked straight at her.
-
-“And you’re every bit that, Charlotte.”
-
-She hugged Charlotte again, hard enough to make her stumble. Then she hugged me quickly, as if any longer would undo her, and turned toward the terminal with her lapels flapping and one hand raised behind her.
-
-Charlotte watched until the doors took her.
-
-Her eyes were wide. Her jaw moved once, then again, as if the words had lodged somewhere too deep for speech.
-
-I took her hand.
-
-“Come on,” I said. “Let’s get coffee.”
-
-<hr class="section-break strong" />
-
-
-
-
-
-
-
-======================================
-
-### 2nd Bit
-
-For the first ten minutes, neither of us said anything.
-
-The car felt larger without Brittany. Not empty—emptiness has a kind of simplicity to it. This was worse than empty. This was the space a person leaves when she has gone and taken the light version of the morning with her.
-
-Charlotte sat with both hands in her lap—placed there neatly, as if she had been told what to do with them and had decided obedience would get her through the rest of the morning.
-
-I kept my eyes on the road.
-
-The airport fell behind us in signs and concrete, in rental car arrows and impatient merging traffic. I glanced over at Charlotte—she was following a plane climbing into the low clouds, as if to have something to focus on.
-
-I wanted to say something sensible.
-
-But sensible seemed heartless, somehow. Sensible things have a habit of arriving dressed as kindness and leaving fingerprints everywhere.
-
-So I said nothing and drove.
-
-By the time the freeway had taken us properly back toward the city, a bit of the edge had gone out of the silence. Charlotte shifted once, then tucked one foot behind the other. She watched the traffic with an attention that had nothing to do with traffic.
-
-“Brittany meant it, you know,” I said at last.
-
-Charlotte's mouth tightened. She did not answer straight away.
-
-“I know.”
-
-It came out very quietly. Almost resigned.
-
-Burdened.
-
-I glanced at her, then back at the road.
-
-“But it doesn't give you what you need, does it?”
-
-“No.”
-
-The city began to gather ahead of us. Glass, cranes, winter trees, the flat pewter light Melbourne did so well on days when it wanted to remind everyone they owned a coat.
-
-Charlotte breathed in, held it, let it go.
-
-“I don’t know why it's become such a thing.”
-
-There it was.
-
-A hand extended in the dark, hoping someone decent was there.
-
-I kept my voice even.
-
-“You don’t have to do anything with it before coffee.”
-
-That almost made her smile.
-
-Almost.
-
-“Is that one of your rules?”
-
-“One of my better ones.”
-
-She pointed her face at the side window again. The wind moved in hard gusts across the road, worrying the trees, lifting scraps of paper along the kerb as we came off toward the city streets.
-
-For a while, that was enough.
-
-As I stepped out of the car, a cold gust struggled with the door, not as hard as at the airport, but still brisk. Charlotte's hair blew to one side as we scurried over the quiet street to the café. I'd expected a queue at the door, but the wintry air must have convinced patrons to have that second cuppa at home.
-
-Once inside, I could feel my chilled fingertips relax from the smell of warming croissants and roast coffee. Except for some foreign voices near the door trumpeting their conquest of some high hill no one had ever heard of in an accent that reminded me of the film 'Deliverance', the conversations were subdued and polite, with only the occasional glance at the trumpeters.
-
-A few minutes later, with a piccolo latte and almond flat white in one hand, a croissant in the other, we found a table for four under an artist's effort at sharing local colour. Charlotte lips pulled vainly into a smile of sorts.
-
-"Do you want to talk about it?" I said.
-
-"Talk about what?" Sarah's voice startled me: I hadn't heard them come in. Lauren settled gently into the chair next to me. She nodded at Sarah, who read 'the usual' in that nod. Sarah left to order as Lauren eyed her daughter. 
-
-No words.
-
-Charlotte's eyes were furtive—her coffee, then me, then her mum. Her shoulders hitched a fraction.
-
-Lauren's eyes said: 'go ahead, darling.'
-
-Someone has to say something.
-
-"It's about—discomfort," I said.
-
-Lauren nodded—she didn't need an executive summary.
-
-"You don't have to soften it for me, Charlotte. Is this becoming more of an issue?"
-
-"When we dropped Brittany at the airport," I said, "she told Charlotte she thinks she's all woman, or something like that. It didn't land the way she'd intended."
-
-Sarah appeared with a couple of croissants on a plate. "Nice place," she said. "They even know how to make a proper builder's tea." Her eyes sparkled. "Are we talking about what I think we might be talking about?"
-
-She threw a sharp glance at Charlotte, and her eyebrows twitched up briefly.
-
-"Nothing gets by you, does it, Sarah?" Lauren's eyes were as warm as her voice.
-
-Sarah's lips pressed together in assent.
-
-"Same thing as before, but more so?"
-
-Charlotte nodded.
-
-Lauren cleared her throat.
-
-"I think it's safe to say it's no longer an 'if' but rather a 'when' thing, now." Her brows narrowed slightly. "There are things to think about, of course. I don't have to tell you, do I?"
-
-Charlotte looked up.
-
-"Like, children," Lauren continued. "I'm sure you've thought about that."
-
-The front door opened and the trumpeters exited, taking their boisterous voices with them. The café's tone softened noticeably.
-
-Charlotte nodded.
-
-"I have, mum. It's just not something I thought *much* about—"
-
-Both Sarah and Lauren spoke at once. They stopped, and Sarah opened her palm at Lauren.
-
-"You go."
-
-Lauren paused. 
-
-"You might want to consider maybe freezing some sperm—just in case."
-
-She spoke softly, but the words felt like they'd been shouted. 
-
-No one turned. 
-
-Charlotte looked at me. I squeezed the corners of my lips. 
-
-*Please?*
-
-"Someday?" I said softly. "If you want. Something to talk about, anyway."
-
-She nodded quickly.
-
-Sarah leaned forward.
-
-"There are a number of ways to treat this discomfort, Charlotte." Lauren made as if to speak, and Sarah put her hand—in an uncharacteristically gentle gesture—on her arm. "Let me, please. First, you want to be clear about what you're trying to manage."
-
-Charlotte stared at nothing.
-
-“Everyone keeps saying they see me. I believe them now. But it's made it harder, like, when I'm... undressed.” Charlotte's mouth went sideways. "I just want to be off the tablets," she said. "And, to be rid of... that."
-
-Chairs scraped on the hardwood floor as an elderly couple rose to leave.
-
-"Just... rid of it? What about—penetration?"
-
-My chest tightened.
-
-Charlotte's eyes widened. 
-
-Lauren suppressed a smile.
-
-And no one on the other tables turned.
-
-Finally, her face pinched for the second time that morning, Charlotte slowly shook her head. 
-
-Sarah raised her hands briefly.
-
-"Just checking. You'll want to think carefully about your choices, Charlotte. It's not a surgery you want to do over because you had a change of mind."
-
-Charlotte glanced at me.
-
-I studied her as I took a bite of my croissant.
-
-"And then, there's finances," Lauren said. "It won't be covered by NDIS or Medicare."
-
-"I hear there are some amazing hospitals in Thailand," Sarah said. "They're like first-class hotels. Something to look into."
-
-Charlotte dropped her face into her hands.
-
-"Is this all getting 'too-hard basket'?" she murmured. "I mean, where am I going to get that kind of money?"
-
-I couldn't help it: I grinned. 
-
-Sarah stared at me.
-
-"What are you grinning about?"
-
-I thoughtfully put my fist over my mouth before answering.
-
-"Okay, so this isn't 'providing'! Remember, there are no *providers* in Wardrobe."
-
-Charlotte was staring at me now.
-
-"However," I continued, "providing is different from a loan."
-
-Lauren shook her head once.
-
-"Loan?"
-
-I nodded.
-
-"Buying an apartment can wait," I said. "This can't."
-
-Charlotte's shoulders drew in.
-
-Sarah's voice was stern.
-
-"Don't."
-
-The steamer hissed twice, then screamed at the milk. The door to the café opened briefly, long enough for the cold air to reach our table. Sarah eyed Charlotte and sipped her tea. Lauren studied the menu as if it might be hiding solutions.
-
-I crossed my arms.
-
-"Would travelling to Thailand be a problem for you, hun?"
-
-Charlotte stared at her cup. Shook her head slowly.
-
-"I feel like I shouldn't—"
-
-“You have all of us on your side, Charlotte," Lauren said. "This isn't any more or less urgent than you feel it to be."
-
-"I think Charlotte deserves peace." I looked at her. "Wouldn't you agree?"
-
-"You've struggled long enough,” Sarah said gently. "However, only you can decide, Charlotte."
-
-It wasn't until we were almost home when Charlotte finally spoke.
-
-"I'll pay you back—"
-
-I turned on the indicator and raised my hand.
-
-"We'll worry about that later, hun," I said as the wheels climbed the kerb into our driveway. "Let's focus on getting rid of the noise, first."
-
-<hr class="section-break soft" />
-
-
-
-
-### Bis (Emily)
-
-
-“Talk about what?” Sarah’s voice startled me; I hadn’t heard them come in.
-
-Lauren settled gently into the chair beside me. She looked at Charlotte, then at me, and waited. No panic. No fuss. Just the horrible mercy of being allowed to begin.
-
-Sarah read whatever passed between them as an instruction and went to order.
-
-Charlotte’s eyes moved from her coffee, to me, to her mother. Her shoulders hitched a tiny fraction.
-
-“It’s about discomfort,” I said.
-
-Lauren nodded once. She didn’t need an executive summary.
-
-“You don’t have to soften it for me, Charlotte. Is it becoming harder?”
-
-Charlotte looked down at her hands.
-
-“When we dropped Brittany at the airport,” I said, “she told Charlotte she thought she was all woman. Or something close to that. It was meant kindly.”
-
-“It was kind,” Charlotte said.
-
-The correction came quickly. Too quickly.
-
-Lauren’s face changed by almost nothing.
-
-“But it didn’t help.”
-
-Charlotte shook her head.
-
-Sarah returned with tea and croissants. “They even know how to make a proper builder’s tea,” she said, sitting down. “So this place may live.”
-
-Then she looked properly at Charlotte.
-
-“Same thing as before, but louder?”
-
-Charlotte nodded.
-
-For a moment none of us spoke. The coffee machine hissed. Somewhere near the door, a man laughed too loudly, then seemed to remember where he was.
-
-“Everyone keeps saying they see me,” Charlotte said at last. “I believe them now. But it’s made it harder, somehow. When I’m… undressed.”
-
-Lauren did not flinch.
-
-“I can know you’re my daughter,” she said, “and still believe you when you say your body is troubling you.”
-
-Charlotte’s mouth trembled once, then steadied.
-
-“I just want to be off the tablets,” she said. “And I want to be rid of… that.”
-
-Sarah set her cup down carefully.
-
-“Have you been reading?”
-
-Charlotte nodded.
-
-“Zero-depth,” she said.
-
-The words sat in the middle of the table, small and exact.
-
-Sarah leaned back a little. “All right. Then we talk about what that gives you, what it doesn’t, and what no one can promise.”
-
-Lauren glanced at Sarah, then back to Charlotte.
-
-“Children?” she asked softly.
-
-Charlotte closed her eyes for a second.
-
-“I’ve thought about it. Not much, but I have.”
-
-“You may want to think about preservation,” Lauren said. “Not because you owe anyone grandchildren. You don’t. But because future-you deserves not to have present-you rush past the question.”
-
-Charlotte nodded, quickly, as if nodding made the subject smaller.
-
-Sarah’s voice gentled, which somehow made it more serious.
-
-“And you understand what zero-depth means. Sexually, I mean. What it preserves and what it doesn’t.”
-
-Charlotte’s face coloured, but she did not look away.
-
-“Yes.”
-
-“I’m not asking to embarrass you,” Sarah said. “I’m asking because someone should say the sentence out loud.”
-
-“I don’t think I need depth,” Charlotte said. “I don’t think that’s the point.”
-
-“No,” Lauren said. “Then perhaps it isn’t.”
-
-I wanted to reach for Charlotte’s hand. I didn’t. Not yet.
-
-“What is the point?” Sarah asked.
-
-Charlotte stared into her coffee.
-
-“Quiet,” she said.
-
-<hr class="section-break soft" />
-
-
-
-### Bis (M)
-
-For the first ten minutes, neither of us said anything.
-
-The car felt larger without Brittany. Not empty—emptiness has a kind of simplicity to it. This was worse than empty. This was the space a person leaves when she has gone and taken the light version of the morning with her.
-
-Charlotte sat with both hands in her lap—placed there neatly, as if she had been told what to do with them and had decided obedience would get her through the rest of the morning.
-
-I kept my eyes on the road.
-
-The airport fell behind us in signs and concrete, in rental car arrows and impatient merging traffic. I glanced over at Charlotte—she was following a plane climbing into the low clouds, as if to have something to focus on.
-
-I wanted to say something sensible.
-
-But sensible seemed heartless, somehow. Sensible things have a habit of arriving dressed as kindness and leaving fingerprints everywhere.
-
-So I said nothing and drove.
-
-By the time the freeway had taken us properly back toward the city, a bit of the edge had gone out of the silence. Charlotte shifted once, then tucked one foot behind the other. She watched the traffic with an attention that had nothing to do with traffic.
-
-“Brittany meant it, you know,” I said at last.
-
-Charlotte's mouth tightened. She did not answer straight away.
-
-“I know.”
-
-It came out very quietly. Almost resigned.
-
-Burdened.
-
-I glanced at her, then back at the road.
-
-“But it doesn't give you what you need, does it?”
-
-“No.”
-
-The city began to gather ahead of us. Glass, cranes, winter trees, the flat pewter light Melbourne did so well on days when it wanted to remind everyone they owned a coat.
-
-Charlotte breathed in, held it, let it go.
-
-“I don’t know why it's become such a thing.”
-
-There it was.
-
-A hand extended in the dark, hoping someone decent was there.
-
-I kept my voice even.
-
-“You don’t have to do anything with it before coffee.”
-
-That almost made her smile.
-
-Almost.
-
-“Is that one of your rules?”
-
-“One of my better ones.”
-
-She pointed her face at the side window again. The wind moved in hard gusts across the road, worrying the trees, lifting scraps of paper along the kerb as we came off toward the city streets.
-
-For a while, that was enough.
-
-As I stepped out of the car, a cold gust struggled with the door, not as hard as at the airport, but still brisk. Charlotte's hair blew to one side as we scurried over the quiet street to the café. I'd expected a queue at the door, but the wintry air must have convinced patrons to have that second cuppa at home.
-
-Once inside, I could feel my chilled fingertips relax from the smell of warming croissants and roast coffee. Except for some foreign voices near the door trumpeting their conquest of Mt. Warning in an accent that reminded me of the film 'Deliverance', the conversations were subdued and polite, with only the occasional glance at the trumpeters.
-
-A few minutes later, with a piccolo latte and almond flat white in one hand, a croissant in the other, we found a table for four under an artist's effort at sharing local colour. Charlotte lips pulled vainly into a smile of sorts.
-
-“Do you want to talk about it?” I said.
-
-“Talk about what?” Sarah’s voice startled me; I hadn’t heard them come in.
-
-Lauren settled gently into the chair beside me. She looked at Charlotte, then at me, and waited with that unfathomable patience only mothers ever show.
-
-Sarah read whatever passed between them as an instruction and went to order.
-
-Charlotte’s eyes moved from her coffee, to me, to her mother. Her shoulders hitched a tiny fraction and her lips pursed.
-
-“It’s about discomfort,” I said.
-
-Lauren nodded once. She didn’t need an executive summary.
-
-“You don’t have to soften it for me, Charlotte. Is it becoming harder?”
-
-Charlotte looked down at her hands.
-
-“When we dropped Brittany at the airport,” I said, “she told Charlotte she thought she was all woman. Or something close to that. It was meant kindly.”
-
-“It was kind,” Charlotte said quickly. 
-
-Too quickly.
-
-Lauren’s face changed by almost nothing.
-
-“But it didn’t help.”
-
-Charlotte shook her head.
-
-Sarah returned with tea and croissants. “They even know how to make a proper builder’s tea,” she said, sitting down. “So this place goes into my little black book. Approved!”
-
-Her eyes glanced at our faces. With a single nod, she turned to Charlotte.
-
-“Same thing as before, but louder?”
-
-Charlotte took in a breath closed her eyes.
-
-For a moment none of us spoke. The steamer hissed twice, then screamed at the milk. The door to the café opened briefly, long enough for the cold air to reach our table. Sarah eyed Charlotte and sipped her tea. Lauren studied the menu as if it might be hiding solutions. Somewhere near the door, a man laughed too loudly, then seemed to remember where he was.
-
-“Everyone keeps saying they see me,” Charlotte said at last. “I believe them now. But it’s made it harder, somehow. When I’m… undressed.”
-
-Lauren rested her hand on Charlotte's arm.
-
-“I can know you’re my daughter,” she said, “and still believe you when you say your body is troubling you.”
-
-Charlotte’s mouth trembled once, then steadied.
-
-“I just want to be off the tablets,” she said. “And I want to be rid of… that.”
-
-Sarah set her cup down carefully.
-
-“Have you been reading?”
-
-Charlotte nodded.
-
-“Zero-depth,” she said.
-
-The words sat in the middle of the table, small and exact.
-
-Sarah leaned back a little. “All right. Then we talk about what that gives you, what it doesn’t, and what no one can promise.”
-
-Lauren glanced at Sarah, then back to Charlotte.
-
-“Children?” she asked softly.
-
-Charlotte closed her eyes for a second.
-
-“I’ve thought about it. Not much, but I have.”
-
-“You may want to think about preservation,” Lauren said. “Not because you owe anyone grandchildren. You don’t. But because future-you deserves not to have present-you rush past the question.”
-
-Charlotte nodded, quickly, as if nodding made the subject smaller.
-
-Sarah’s voice gentled, which somehow made it more serious.
-
-“And you understand what zero-depth means. Sexually, I mean. What it preserves and what it doesn’t.”
-
-Charlotte’s face coloured, but she did not look away.
-
-“Yes.”
-
-“The reason I’m asking is not to embarrass you,” Sarah said. “I’m asking because someone should say the sentence out loud.”
-
-“I don’t think I need depth,” Charlotte said. “It’s not the point.”
-
-I wanted to reach for Charlotte’s hand. I didn’t. Not yet.
-
-“What is the point?” Sarah asked.
-
-Charlotte stared into her coffee.
-
-“Quiet,” she said.
-
-===========================
+Her words tumbled around as I stared at the bland suburbs mixed with light industry.
 
 ---
+---
+---
 
-The milk frother stopped. Talking in the café stilled. For a beat, the silence felt solid. I could hear my heart pound in my ears.
+## The Mirror, Emily's take
 
-"Not much to ask," Lauren said softly.
+[ Charlotte ]
 
-I watched Charlotte as the conversation continued around where, how, with what money, and when. She said little, mostly staring at her hands as if ensuring they weren't going to run off by themselves. By the time we got up to leave, I had a list.
+## The Mirror
 
-<hr class="section-break soft" />
+I excused myself because my body had chosen that moment to become practical.
 
+After I washed my hands, I pulled two paper towels from the dispenser and looked up by accident.
 
+The mirror stopped me.
 
-### Tre (Emily)
+I stood there with the towels in my hands, holding them like evidence, and stared at the face looking back.
 
-“I don’t think I need depth,” Charlotte said. “It’s not the point.”
+At me.
 
-I wanted to reach for her hand.
+She looked solemn. Too pale under the café light. Her mouth moved a little, not quite a smile, not quite a grimace.
 
-I didn’t. Not yet.
+*What was I doing?*
 
-“What is the point?” Sarah asked.
+The thought came so plainly that I almost looked away.
 
-Charlotte stared into her coffee.
+Then the next one came.
 
-“Quiet,” she said.
+*What have I done?*
 
-The milk frother stopped.
+The girl in the mirror stared back, wide-eyed, as if she were wondering the same thing. Whether she was worth all this trouble. Whether anyone should have to rearrange loans, apartments, pronouns, memories, futures, for a face that still looked frightened of its own name.
 
-So did the voices near the counter, as if the whole café had heard her and briefly understood. For a beat, the silence felt solid. Cups waited on saucers. Someone’s chair gave a small wooden creak and then even that was gone.
+My lips pressed together.
 
-I could hear my heart in my ears.
+Now she was frowning.
 
-“Not much to ask,” Lauren said softly.
+I let out a small, angry breath.
 
-Charlotte did not look up, but something in her shoulders changed. Not ease. Not relief. More like the first permission to stop defending the ache.
+The door opened.
 
-After that, the conversation became practical because women, when properly frightened, often become practical. Where. How. Who. What it would cost. What questions had to be asked before anyone mistook hope for a plan.
+Celeste came in.
 
-Sarah made the first column on a napkin. Lauren added the second. I took out my phone and began a list because I needed something to do with my hands that was not reaching for Charlotte before she was ready.
+She looked first at my face, then at the towels clenched in my hands.
 
-Charlotte said little. She sat with her fingers curved around her cup, listening as if each item were being placed carefully between her and the noise.
+Her mouth twitched.
 
-By the time we rose to leave, I had a list.
+“Just checking if you’re okay.”
 
-Not an answer.
+Heat rushed into my cheeks.
 
-A path.
+“I was…” I stopped.
 
-<hr class="section-break strong" />
+Her eyebrows rose slightly.
 
+“Looking at yourself in the mirror?”
 
+I swallowed.
 
+Her expression changed at once. Not softer. Sharper.
 
+“Was it difficult?”
 
+I looked at the floor.
 
-## Quiet
+“I don’t think all this fuss is necessary,” I said. “Maybe I should just—”
 
-We had to turn back twice.
+Celeste did not answer.
 
-The first time, Brittany had forgotten her pattern tube. The second time, Lauren rang to ask whether Brittany thought she might need her airline tickets.
+She only gave one small nod, as if I had confirmed something she had expected.
 
-Brittany took both reversals as proof that the morning was important enough to resist being simple.
+Then she pointed at my hands.
 
-By the time we were finally on the M2, the back seat had recovered. If anything, the chatter had grown brighter. Charlotte kept remembering things Brittany had to keep in mind, as if London, Paris, and the whole machinery of her future might collapse without one more instruction from the left-hand side of the car. Brittany, in turn, remembered shops in Melbourne that we absolutely had to visit while we were there.
+“Finish up, Charlotte. We’re getting ready to leave.”
 
-“I mean, you’re *there*, right?”
+I looked down.
 
-Then, just as I turned off toward Departures, the car went quiet.
+The paper towels were crushed into two tight twists.
 
-The sort of quiet that tried too hard. Quiet because both of them had seen the same thing at the same time and neither knew how to be the first to name it.
+By the time I came back to the table, Mum was standing. She put her arms around me before I had time to prepare for it.
 
-In the rear-view mirror I saw two brave, pinched faces pretending badly. Eyes flicked sideways, then away. Charlotte had one hand tucked under her thigh. Brittany’s fingers were worrying the strap of her handbag.
+It was not a careful hug. Not polite. Not one of the hugs people give when they are trying to prove they are comfortable.
 
-Departure Drive came up quickly. I pulled in where I could. When I opened the door, the wind caught it at once, sharp across the lanes with jet fuel and wet concrete.
+It was a mother’s hug, and I had no idea what to do with it.
 
-As I got Brittany’s suitcase out of the boot, Charlotte was the first to break. She threw her arms around Brittany.
+For a moment I stood inside it like someone who had entered the wrong room.
 
-“Don’t be a stranger, fairy godmother,” she said.
+Then her hand moved once against my back.
 
-It was meant to be light. It failed beautifully.
+That undid me more than anything she could have said.
 
-Brittany’s caraco jacket lifted at the lapels as if it, too, had somewhere urgent to be. She laughed, turned, and pulled up the handle of her bag.
+Sarah watched over the rim of her cup, looking as if she had spent the last ten minutes graduating from diplomacy school and was already regretting the certificate.
 
-Then stopped.
+Outside, the wind came hard along the footpath. We stepped into it together.
 
-“There’s more to being a woman than a name,” she said.
+I was still trying to find somewhere to put Mum’s hug when Sarah fell in beside me.
 
-No last-minute prettiness.
+“Learn to accept help as a woman,” she said, not gently, “from women.”
 
-Certainty.
+I looked at her.
 
-Charlotte went still.
+She did not smile.
 
-Brittany looked straight at her.
+“Don’t make us chase you every time we choose you.”
 
-“And you’re every bit that, Charlotte.”
+Her words stayed with me as we walked past the bland little strip of cafés and light industry, past roller doors, parked utes, winter trees bent thinly in the wind.
 
-She hugged Charlotte again, hard enough to make her stumble. Then she hugged me quickly, as if any longer would undo her, and turned toward the terminal with her lapels flapping and one hand raised behind her.
+I had thought the quiet path would begin with my body.
 
-Charlotte watched until the doors took her.
+I had not understood that part of it would be learning not to apologise for needing one.
 
-Her eyes were wide. Her jaw moved once, then again, as if the words had lodged somewhere too deep for speech.
+---
+---
+---
 
-I took her hand.
+I could feel Celeste looking at me.
 
-“Come on,” I said. “Let’s get coffee.”
+I wanted to say so, so much. But finally, all that came out was:
 
-For the first ten minutes, neither of us said anything.
+"I feel awful."
 
-The car felt larger without Brittany. Not empty—emptiness has a kind of simplicity to it. This was worse than empty. This was the space a person leaves when she has gone and taken the light version of the morning with her.
+Celeste slowed the car, and moved close to the kerb to let an ambulance by, lights flashing, siren blaring.
 
-Charlotte sat with both hands in her lap—placed there neatly, as if she had been told what to do with them and had decided obedience would get her through the rest of the morning.
+I watched it inch its way through a crowded intersection.
 
-I kept my eyes on the road.
+"About the surgery?"
 
-The airport fell behind us in signs and concrete, in rental car arrows and impatient merging traffic. I glanced over at Charlotte—she was following a plane climbing into the low clouds, as if to have something to focus on.
+"Sorry?"
 
-I wanted to say something sensible.
+"You said you feel awful."
 
-But sensible seemed heartless, somehow. Sensible things have a habit of arriving dressed as kindness and leaving fingerprints everywhere.
+I slumped in the seat.
 
-So I said nothing and drove.
+"No, I—um, no. About everyone."
 
-By the time the freeway had taken us properly back toward the city, a bit of the edge had gone out of the silence. Charlotte shifted once, then tucked one foot behind the other. She watched the traffic with an attention that had nothing to do with traffic.
+As we approach our little apartment, I stared at the ocean at the end of our street. The sight reassured and frightened me, all at the same time. The front wheels slowly climbed the shallow kerb of the driveway and we came to a stop in our little spot under the acacia tree. Celeste turned the key and the engine went quiet.
 
-“Brittany meant it, you know,” I said at last.
+"What right do I have to require this much 'Charlotte' from everyone else?"
 
-Charlotte's mouth tightened. She did not answer straight away.
+"The same right as anyone else," Celeste said and opened the car door.
+
+The air was still as we climbed the stairs. There was a bump and a creak as the front door swung open.
+
+"Got to get that fixed," Celeste muttered as we entered the kitchenette. I flipped on the kettle.
+
+"I don't get what you mean, Celeste."
+
+She removed her coat and hung it on the back of a chair.
+
+“You didn’t require Charlotte from us. We required Charlie from you. For years. Because it was easier for us to understand.”
+
+"But now—"
+
+"You can stop pretending and we can start accepting," Celeste said. "But you also have a bit of accepting to learn."
+
+"What Sarah said."
+
+"Exactly."
+
+The kettle bubbled and dinged. I poured the water, my mind not all that much on tea-making. I grimaced as I set Celeste's cup on the table.
+
+"I'm not sure I understand what she meant."
+
+"When you first found your place in Wardrobe, there was a certain structure there. Women protecting women. Agency, safety, respect. Right?"
+
+"Yeah. So?"
+
+Celeste held the cup carefully, her eyes focused on the little bits of tea leaf floating up from the bottom.
+
+"That—structure is deliberate. Women help women. And yes, even some women struggle with accepting help, sometimes." She sipped her tea as I sat down. "We help each other. You'll get a chance to help others." She stopped and raised her head. Her eyes met mine.
+
+"In fact, you've already done so."
+
+"When?"
+
+"That afternoon your dad showed up." I closed my eyes and shook my head. "No listen. You could have run. Hid. Any number of things... instead, you made it completely clear to him that he'd pretty much lost everything a long time ago."
+
+"How was that helping?"
+
+"He's no longer harassing your mum, for starters."
+
+
+---
+---
+---
+---
+
+## Emily's version
+
+I could feel Celeste looking at me.
+
+I wanted to say it. I wanted to say so much. But when my mouth finally opened, all that came out was:
+
+“I feel awful.”
+
+Celeste slowed the car and moved close to the kerb to let an ambulance through, lights flashing, siren blaring.
+
+I watched it force its way through the crowded intersection, everyone making room because they had to.
+
+“About the surgery?” she said.
+
+“Sorry?”
+
+“You said you feel awful.”
+
+I slumped lower in the seat.
+
+“No. I mean—no. About everyone.”
+
+She did not answer at once.
+
+As we approached our little apartment, I stared at the ocean at the end of our street. The sight reassured and frightened me at the same time, which seemed unfair of it. The front wheels climbed the shallow kerb of the driveway and we came to a stop in our little spot under the acacia tree.
+
+Celeste turned the key.
+
+The engine went quiet.
+
+“What right do I have to require this much Charlotte from everyone else?”
+
+“The same right as anyone else,” Celeste said.
+
+Then she opened her door.
+
+I sat there for a second, stung by how simple she had made it sound.
+
+The air was still as we climbed the stairs. There was a bump and a creak as the front door swung open.
+
+“Got to get that fixed,” Celeste muttered.
+
+Inside, she took off her coat and hung it over the back of a chair. I went to the kitchenette and flicked on the kettle because tea was easier than standing still.
+
+“I don’t get what you mean,” I said.
+
+Celeste leaned against the table, watching me.
+
+“You didn’t require Charlotte from us,” she said. “We required Charlie from you. For years. Because it was easier for us to understand.”
+
+The kettle began its small, rising fuss.
+
+“But now—”
+
+“Now you can stop pretending,” Celeste said. “And we can start accepting. But you have a bit of accepting to learn too.”
+
+I looked down at the cups.
+
+“What Sarah said.”
+
+“Exactly.”
+
+The kettle bubbled and clicked off. I poured the water, my mind not properly on tea-making. A few leaves lifted from the bottom of Celeste’s cup and turned slowly in the heat.
+
+“I’m not sure I understand what she meant.”
+
+Celeste took the cup carefully, as if accepting something fragile from me.
+
+“When you first found your place in Wardrobe, there was a structure there. Not a slogan. A structure. Women protecting women. Agency, safety, respect. Everyone pretending it was about fabric, because fabric was easier to discuss.”
+
+I almost smiled.
+
+“Was it not about fabric?”
+
+“It was absolutely about fabric,” she said. “And therefore about everything.”
+
+I sat down opposite her.
+
+“Wardrobe works because women notice when another woman is about to fold in on herself. Someone steadies the seam before it tears.”
+
+I stared at my tea.
+
+“I keep feeling as if I’m tearing everyone else’s.”
+
+“You’re not.”
+
+“It feels like I am.”
 
 “I know.”
 
-It came out very quietly. Almost resigned.
+That made me look up.
 
-Burdened.
+Celeste did not try to soften it.
 
-I glanced at her, then back at the road.
+“I know it feels that way. Believing you costs people something. Of course it does. Believing anyone properly costs something.”
 
-“But it doesn't give you what you need, does it?”
+My throat tightened.
 
-“No.”
+“Then Sarah was right. I am supposed to accept that?”
 
-The city began to gather ahead of us. Glass, cranes, winter trees, the flat pewter light Melbourne did so well on days when it wanted to remind everyone they owned a coat.
+“You’re supposed to stop turning it into a debt.”
 
-Charlotte breathed in, held it, let it go.
+I looked away.
 
-“I don’t know why it's become such a thing.”
+She waited.
 
-There it was.
+“You think help only counts when you’re the one giving it,” she said. “When you’re useful. When you’re quiet. When you make things easier.”
 
-A hand extended in the dark, hoping someone decent was there.
+“I like making things easier.”
 
-I kept my voice even.
+“I know you do.”
 
-“You don’t have to do anything with it before coffee.”
+“It’s not a bad thing.”
 
-That almost made her smile.
+“No,” Celeste said. “It becomes bad when you use it to disappear.”
 
-Almost.
+The room seemed to settle around that.
 
-“Is that one of your rules?”
+I wrapped both hands around my cup.
 
-“One of my better ones.”
+“But this is my pain,” I said. “That’s what I don’t understand. It’s mine. Why is everyone suddenly helping with it?”
 
-She pointed her face at the side window again. The wind moved in hard gusts across the road, worrying the trees, lifting scraps of paper along the kerb as we came off toward the city streets.
+Celeste’s expression changed. Not pity. Something firmer.
 
-For a while, that was enough.
+“Because pain is not property, Charlotte.”
 
-As I stepped out of the car, a cold gust struggled with the door, not as hard as at the airport, but still brisk. Charlotte's hair blew to one side as we scurried over the quiet street to the cafe. I'd expected a queue at the door, but the wintry air must have convinced patrons to have that second cuppa at home.
+I blinked.
 
-Once inside, I could feel my chilled fingertips relax from the smell of warming croissants and roast coffee. Except for some foreign voices near the door trumpeting their conquest of Mt. Warning in an accent that reminded me of the film 'Deliverance', the conversations were subdued and polite, with only the occasional glance at the trumpeters.
+She sat opposite me.
 
-A few minutes later, with a piccolo latte and almond flat white in one hand, a croissant in the other, we found a table for four under an artist's effort at sharing local colour. Charlotte lips pulled vainly into a smile of sorts.
+“You don’t lose ownership of your life because other women help you carry the part that has become too heavy. That is not theft. That is not privilege. That is not you requiring too much.”
 
-“Do you want to talk about it?” I said.
+She reached for her cup, then seemed to change her mind and left it alone.
 
-“Talk about what?” Sarah’s voice startled me; I hadn’t heard them come in.
+“That’s belonging.”
 
-Lauren settled gently into the chair beside me. She looked at Charlotte, then at me, and waited with that unfathomable patience only mothers ever show.
+I looked down again before she could see too much of my face.
 
-Sarah read whatever passed between them as an instruction and went to order.
+The tea leaves had settled at the bottom now.
 
-Charlotte’s eyes moved from her coffee, to me, to her mother. Her shoulders hitched a tiny fraction and her lips pursed.
+For a while, neither of us spoke.
 
-“It’s about discomfort,” I said.
 
-Lauren nodded once. She didn’t need an executive summary.
+---
+---
+---
+---
 
-“You don’t have to soften it for me, Charlotte. Is it becoming harder?”
 
-Charlotte looked down at her hands.
+“My mum said nurses used to call each other Sister,” I said.
 
-“When we dropped Brittany at the airport,” I said, “she told Charlotte she thought she was all woman. Or something close to that. It was meant kindly.”
+Celeste looked at me.
 
-“It was kind,” Charlotte said quickly. 
+“I always thought that was just a title.”
 
-Too quickly.
+“It was,” she said. “And it wasn’t.”
 
-Lauren’s face changed by almost nothing.
+I waited.
 
-“But it didn’t help.”
+“Sister meant rank, once. Training. Responsibility. But underneath that, it meant you were not alone on the ward. If something went wrong, another woman came. Not because you had earned rescue. Because that was the structure.”
 
-Charlotte shook her head.
+She tapped the side of her cup lightly.
 
-Sarah returned with tea and croissants. “They even know how to make a proper builder’s tea,” she said, sitting down. “So this place goes into my little black book. Approved!”
+“Wardrobe is like that.”
 
-Her eyes glanced at our faces. With a single nod, she turned to Charlotte.
+---
+---
 
-“Same thing as before, but louder?”
+“Learn to accept help as a woman, from women,” Sarah had said.
 
-Charlotte took in a breath closed her eyes.
+Later, in the apartment, Celeste turned the phrase over between us.
 
-For a moment none of us spoke. The steamer hissed twice, then screamed at the milk. The door to the café opened briefly, long enough for the cold air to reach our table. Sarah eyed Charlotte and sipped her tea. Lauren studied the menu as if it might be hiding solutions. Somewhere near the door, a man laughed too loudly, then seemed to remember where he was.
+“That’s what Sarah meant. Sisterhood, not charity.”
 
-“Everyone keeps saying they see me,” Charlotte said at last. “I believe them now. But it’s made it harder, somehow. When I’m… undressed.”
+“I don’t have sisters.”
 
-Lauren rested her hand on Charlotte's arm.
+“You do now.”
 
-“I can know you’re my daughter,” she said, “and still believe you when you say your body is troubling you.”
+---
+---
 
-Charlotte’s mouth trembled once, then steadied.
+“I don’t know how to be someone’s sister,” I said.
 
-“I just want to be off the tablets,” she said. “And I want to be rid of… that.”
+Celeste’s expression softened by a fraction.
 
-Sarah set her cup down carefully.
+“You already know how to stand beside women. You just don’t know how to let them stand beside you.”
 
-“Have you been reading?”
-
-Charlotte nodded.
-
-“Zero-depth,” she said.
-
-The words sat in the middle of the table, small and exact.
-
-Sarah leaned back a little. “All right. Then we talk about what that gives you, what it doesn’t, and what no one can promise.”
-
-Lauren glanced at Sarah, then back to Charlotte.
-
-“Children?” she asked softly.
-
-Charlotte closed her eyes for a second.
-
-“I’ve thought about it. Not much, but I have.”
-
-“You may want to think about preservation,” Lauren said. “Not because you owe anyone grandchildren. You don’t. But because future-you deserves not to have present-you rush past the question.”
-
-Charlotte nodded, quickly, as if nodding made the subject smaller.
-
-Sarah’s voice gentled, which somehow made it more serious.
-
-“And you understand what zero-depth means. Sexually, I mean. What it preserves and what it doesn’t.”
-
-Charlotte’s face coloured, but she did not look away.
-
-“Yes.”
-
-“The reason I’m asking is not to embarrass you,” Sarah said. “I’m asking because someone should say the sentence out loud.”
-
-“I don’t think I need depth,” Charlotte said. “It’s not the point.”
-
-I wanted to reach for Charlotte’s hand. I didn’t. Not yet.
-
-“What is the point?” Sarah asked.
-
-Charlotte stared into her coffee.
-
-“Quiet,” she said.
-
-“I don’t think I need depth,” Charlotte said. “It’s not the point.”
-
-I wanted to reach for her hand.
-
-I didn’t. Not yet.
-
-“What is the point?” Sarah asked.
-
-Charlotte stared into her coffee.
-
-“Quiet,” she said.
-
-The milk frother stopped.
-
-So did the voices near the counter, as if the whole café had heard her and briefly understood. For a beat, the silence felt solid. Cups waited on saucers. Someone’s chair gave a small wooden creak and then even that was gone.
-
-I could hear my heart in my ears.
-
-“Not much to ask,” Lauren said softly.
-
-Charlotte did not look up, but something in her shoulders changed. Not ease. Not relief. More like the first permission to stop defending the ache.
-
-After that, the conversation became practical because women, when properly frightened, often become practical. Where. How. Who. What it would cost. What questions had to be asked before anyone mistook hope for a plan.
-
-Sarah made the first column on a napkin. Lauren added the second. I took out my phone and began a list because I needed something to do with my hands that was not reaching for Charlotte before she was ready.
-
-Charlotte said little. She sat with her fingers curved around her cup, listening as if each item were being placed carefully between her and the noise.
-
-By the time we rose to leave, I had a list.
-
-Not an answer.
-
-A path.
-
-============================
 
 <!--           Image Links         /-->
 
@@ -1031,9 +466,7 @@ A path.
 <hr class="section-break strong" />
 
 <!--
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧 — …
 
-✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
-
-😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
-
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  —
 /-->

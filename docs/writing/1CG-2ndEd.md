@@ -6071,103 +6071,459 @@ He let out a breath—shaky at first, then steadier—like someone who’d been 
 
 =EDIT=
 
+## 26 A Boring Miracle ✨
 
-## 26 Boring Miracles ✨
+[ *Sarah* (Blondie) ]
 
-[ *Celeste* ]
+The thing about Wardrobe was that nothing changed all at once. 
 
-By the time it happened for me, it had already happened for the rest of Wardrobe.
+Nothing ever does. People like to think it does. One dramatic fitting. One useful outburst. One revelation under fluorescent lights while everyone stood around pretending not to stare.
 
-Wardrobe had grown a second pulse since Mara’s ledger arrived. The first pulse was the work itself: cloth, bodies, heat, the blunt honesty of fit. The second was the record of it: ink that refused to flatter, names that made claims and then held them.
+Rubbish.
 
-On the corkboard above the cutting table, the first page of wear-tests had been replaced. Then replaced again. 
+Wardrobe changed people by millimetres.
 
-And then, it all went into the ledger. Tidy, meticulous, even fastidious.
+A hem dropped. A strap shifted. A seam stopped lying. Someone stopped apologising with their shoulders. Someone else stopped pretending not to notice.
 
-Failures were neatly noted and fixes applied. Retests were signed. It looked like progress, the way a scar looks like healing: not pretty, but proof that the body had done the hard thing and survived.
+By the time I properly saw what had happened to Charlie, the room had already made space for it.
 
-Charlie had a chair now, the 'Ledger Chair'.
+He had a chair now.
 
-An old wooden chair had appeared one day and then simply stayed, tucked under the edge of the long table as if the wood itself had decided it belonged there.
+Not officially. Nobody had held a meeting. Mara had not announced, with a clipboard and a small bell, that Charlie Rossignol was hereby granted one wooden chair at the end of the long table. The chair had simply appeared one morning and stayed there, tucked under the edge as if it had been waiting for him.
 
-It was Mara’s ledger. I was fairly sure the chair was Mara’s doing too. But Charlie saw both more than she did. Charlie, the ledger and the chair became as much a fixture as the steam press and the rails.
+The Ledger Chair, Lucy called it.
 
-So did his pencil: a cheap mechanical thing with a pink eraser cap that never quite erased Mara’s chalk marks, but tried anyway.
+Charlie never called it anything. He just sat in it.
 
-We’d finished with the Nymph line, and with that his role had shifted to Wear-test Assessor. As soon as an actress—or Sarah, or his mum—stepped behind the curtain, he would sit with his shoulders lowered and his head bent to the page, working through the test quietly, checking his notes now and again: sum, verify, enter, check.
+That, of course, was very Charlie. Accept the structure. Keep the pencil sharp. Lower the shoulders. Sum, verify, enter, check.
 
-A casual observer wouldn't notice him at all. That, in Wardrobe, was not invisibility. It was permission. 
+All without a fuss.
 
-Since Sarah's "fashion intervention" he wore nothing else. She'd even made a point of how much he fit in now:
+He was bent over the ledger when I came in, one hand holding the page flat, the other moving steadily down a column of figures. Same mechanical pencil. Same careful little frown. Same maddening ability to make boring work look almost moral.
 
-"It used to be easy to find you, Charlie. Just look for anything scruffy, out of place, and there you were. And now?"
+But definitely not the same Charlie.
 
-And now, his clothes matched his work, and his hair matched both.
+That was the part that stopped me just inside the door.
 
-I finally got him a few more tops—they were on special—just so he wouldn't wear out the one he wore pretty much every day. I do remember idly wondering why he had no problem with the tops when his mum had gotten him "really nice" dress shirts. Back then, he'd preferred dischevelled and hidden. 
+The old Charlie had looked as if he’d been dressed during an evacuation. Baggy shirts. Ancient jeans. Hair doing whatever defeated thing hair did when its owner had decided it was safest to look found rather than kept. There had always been something apologetic about him, as if his body had arrived without permission and he was trying to smuggle it through the day under wrinkled cotton.
 
-With the new tops and jeans, his attitude seemed to have changed. Now that he fit in, being seen no longer seemed to hurt.
+This Charlie was clean.
 
-I watched him from the doorway, hand on the jamb, letting the room settle around me before I stepped in.
+Not polished or elegant.
 
-In a women’s space, you don’t arrive like a storm: you arrive like someone who understands you are not entitled to people’s nervous systems.
+Just—clean.
 
-Lucy was sorting tape lengths into a tin like she was laying out surgical instruments.
+His hair was tied back properly, not scraped into surrender. The jeans fit. The top fit too: a narrow, soft robin’s-egg blue top, not unlike the one I’d bought him because I was sick to death of looking at the laundry-basket tragedy he’d been calling clothing. There were more of them now—Celeste’s doing, almost certainly. Same cut. Same line through the shoulders. Same quiet acknowledgement that there was, in fact, a person inside the fabric.
 
-Leah had a bodice block pinned to the dress form, her fingers moving with the brisk assurance of someone who’d stopped negotiating with fabric and started commanding it.
+And the shocking part was not that he wore them.
 
-Tahlia was on her knees at the hem of a petticoat, seam ripper flashing, muttering to herself with the intimacy you only give a problem you fully intend to solve.
+The shocking part was that he had stopped flinching.
 
-There were two actresses from the Faire sitting on the bench by the windows, lacing and unlacing stays under Mara’s supervision with the obedient patience of women who were being paid to be uncomfortable on purpose.
+He looked up when I came in, saw me, and gave a small nod.
 
-And Sarah—Sarah was sitting at one of the machines, leaning against the table with a satisfied grin, watching all of it like she owned shares. She saw me and her grin broadened. A grin that contained, inexplicably, both mischief and loyalty.
+“Sarah.”
 
+Just that.
 
+No startled woodland creature. No apologies for existing. No little rearrangement of himself into less space.
 
-<img src="/assets/images/story/Scene26a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+I couldn't help it—I stared at him.
 
+He blinked. 
 
+“What?”
 
+“Nothing,” I said.
 
+It was not nothing.
 
-<img src="/assets/images/story/Scene26b.jpg" style="float: right; width: 440px; margin-left: 20px" />
+Lucy was at the far end of the table, sorting tape lengths into a tin, snapping each one straight before she coiled it. Leah had a bodice block pinned to the dress form and was giving it that look women give fabric when fabric is about to lose. Tahlia was on her knees at the hem of a petticoat, seam ripper flashing menacingly.
 
+Two Faire actresses sat by the windows, lacing and unlacing stays under Mara’s supervision. They had the patient look of women being paid to be uncomfortable and trying to be good sports about it.
 
+Charlie turned back to the ledger.
 
+“Off-white petticoats,” he said, not to anyone in particular. “Second retest. Seam stress moved from side-back to centre-back after the waist adjustment.”
 
+Mara, without looking up, said, “Logged?”
 
-<img src="/assets/images/story/Scene26c.jpg" style="float: right; width: 440px; margin-left: 20px" />
+“Yes.”
 
+“Signed?”
 
-An actress from the Faire—a new girl, I didn’t recognize her—came in just before lunch with a garment bag on her arm and a problem on her face. She was young, freckled, earnest in that way that makes you want to be kind but not indulgent.
+“Not yet. Waiting on second wear.”
 
-“Mara?” she asked, voice pitched carefully, as if she’d been instructed not to make a fuss.
+“Good.”
 
-Mara didn’t look up. “Bench.”
+Good.
 
-The girl obeyed and sat.
+From Mara, that was practically a sonnet.
 
-Lucy approached, hands on hips, assessing the garment bag. “What’s wrong?”
+I walked farther in and dumped my bag on the bench.
 
-“I—um.” The girl glanced around and landed, instinctively, on me. A leader. Someone to petition. “I need someone to check the straps. They’re—”
+“So, good *morning*, fashion statement.”
 
-“Charlie’ll do it,” Lucy said, indicating the person on the stool with her chin, as if routing a package. The girl hesitated, then lifted her phone, as if confirming she’d been sent to the right person.
+Charlie’s ears went pink, but only slightly.
 
-“Sarah told me to ask c-h-a-r-l-i,” she said, reading the message as if it were scripture.
+“Morning.”
 
-There it was again. The room’s spelling, not mine. Sarah looked at her and nodded, quizzical. "Yeah?"
+That was new too. He had stopped reacting as if every nickname were a thrown object.
 
-The girl looked up, uncertain. “But he—”
+I narrowed my eyes.
 
-Lucy’s eyes flicked up as she shook her head. Not hostile, just firm.
+“Missing something. Where’s the wounded face?”
 
-“She.”
+“What wounded face?”
 
-One syllable.
+“The one you always make whenever I try to improve your life.”
 
-The girl flushed. “Oh. Sorry. She.”
+“I don’t—”
 
+Lucy snorted.
 
+He looked down at the ledger, but he was smiling. Only just, but it counted.
+
+Then Lucy caught my eye.
+
+Not casually: deliberately. Inescapably.
+
+She had seen me seeing it.
+
+I made a small face at her, the sort that meant don’t start, which naturally meant she would.
+
+She drifted over with the tin of tape lengths tucked against her hip.
+
+“Like crocuses in the snow, isn’t it?” she murmured.
+
+“What is?”
+
+Lucy’s eyes stayed on Charlie. “Don’t be thick. It doesn’t suit you.”
+
+“I’m never thick. I’m selective.”
+
+“Mmm.”
+
+Charlie wrote something in the ledger with painful care, as though our nonsense was weather and the work had priority.
+
+Lucy lowered her voice.
+
+“He’s stopped hiding.”
+
+I glanced at her.
+
+There it was.
+
+It was not one single thing: not the clothes or the hair. Not even the chair.
+
+The hiding. 
+
+Had stopped.
+
+That was the part I had felt before I had named it.
+
+The old Charlie had always tried to reduce the amount of him available to the world. Clothes too big. Shoulders rounded. Eyes down. A boy-shaped apology trying to slip through the day unnoticed.
+
+But this Charlie sat in a women’s workroom in jeans that fit and a clean top: visible, somehow looking less exposed than he ever had in all that cotton armour.
+
+And yet, I wasn't ready to go where Lucy was.
+
+“He does look tidier,” I said.
+
+Lucy gave me a look of deep pity.
+
+“Sarah.”
+
+“What?”
+
+“Tidy is what you call a cupboard. That is not a cupboard.”
+
+Okay. Point taken.
+
+“So, it’s a lad in clean clothes.”
+
+Lucy’s mouth curved. She suppressed a laugh. Mostly.
+
+“Is it?”
+
+I did not answer. Because I understand maths. Especially the 'two-plus-two' sort.
+
+At the table, Charlie paused, checked a previous page, then wrote:
+
+RETEST REQUIRED — BACK PANEL / SHOULDER LINE
+
+His handwriting was neat enough to be annoying.
+
+Lucy watched him with the particular expression she wore when men underestimated lesbians within earshot. Half amusement, half obituary.
+
+“I told you, didn't I?” she said.
+
+“Lucy, you tell me many things. Most of them are rude.”
+
+“I *told* you there was a woman in hiding.”
+
+I looked at Charlie again. Watched him tuck a strand of hair behind his ear without thinking. There was nothing coy or feminine about it, just practical. Pencil down, page turned, shoulders settled. He looked, for the first time since I’d known him, as if being visible was no longer something to endure.
+
+I turned to Lucy.
+
+“Just because... it doesn’t mean—”
+
+“No,” Lucy said. “It doesn’t mean anything by itself. Nor does the top. Nor the jeans. Nor what she did with her hair. Nor how she writes in the ledger. Nor the fact that she takes direction from Mara like it’s oxygen.”
+
+*She.*
+
+“Careful.”
+
+“I am being careful.”
+
+“You’re being smug.”
+
+“I can do both.”
+
+Unfortunately, she could. I folded my arms and leaned against the table.
+
+“All right,” I said softly. “Then tell me what I’m seeing.”
+
+Lucy’s face changed. The smugness went. Not completely, because Lucy, but enough.
+
+“You’re seeing *relief*.”
+
+That landed.
+
+Behind the curtain, one of the actresses laughed softly as Mara corrected the angle of her lacing. The steam press hissed. Leah swore at the bodice block under her breath.
+
+Charlie did not look up.
+
+Lucy went on, quieter now.
+
+“You’re seeing someone who spent years trying to be small in the wrong shape, and now she’s been given a shape that lets her work.”
+
+Again.
+
+*She*.
+
+The word had now claimed a spot in the room between us.
+
+I looked at Lucy.
+
+“You seem awfully sure of yourself.”
+
+“It’s easy to be with this much evidence.”
+
+“You’re also occasionally wrong.”
+
+“Not about this.”
+
+Part of me wanted to continue arguing the point. Not because I thought she was wrong, exactly, but because if she was right, then the room had a frightening line to cross.
+
+Then again, Wardrobe was a world of women unafraid to cross frightening lines.
+
+I nodded toward Charlie.
+
+“Has he said that?”
+
+“No,” Lucy said. “But he’s done everything except say it.”
+
+I looked back.
+
+Celeste’s parameters were all over him now that I knew how to read them. This was not about possession or decoration. Parameters. Tops that fit. Work that suited. Rules that stopped him guessing. Tasks that rewarded precision.
+
+Absent all provider nonsense. 
+
+No rescue theatre. 
+
+No loud male usefulness banging pots together and asking for applause.
+
+Charlie had accepted Celeste's parameters—with *relief.* This woman was not asking him to be a man badly.
+
+I exhaled.
+
+“Damn.”
+
+Lucy’s mouth twitched.
+
+“There she is.”
+
+The hairs on my neck stood in protest.
+
+“Don’t.”
+
+“What?”
+
+“Don’t make this one of your triumphs.”
+
+“This is bigger than me, Sarah.”
+
+That was true.
+
+The door opened before I could answer, and a girl from the Faire came in with a garment bag over one arm and worry all over her freckled face.
+
+“Mara?”
+
+Mara did not look up. “Bench.”
+
+The girl obeyed. Sat.
+
+She was young, freckled, and earnest in the tragic way of girls who think being polite will stop fabric from betraying them.
+
+“I was told to ask for c-h-a-r-l-i,” she said, reading the message as if it were scripture.
+
+Lucy and I looked at each other.
+
+Not Charlie.
+
+Charli.
+
+Interesting.
+
+The girl glanced around, searching for whoever matched the message.
+
+Charlie lifted his head.
+
+“That’s me.”
+
+A tiny pause moved through the room. Just a quick beat, like a pin held above cloth before it goes in.
+
+The girl looked at him, then at her phone.
+
+“Oh. Sorry, I thought—”
+
+“Yeah, that's her,” Lucy said.
+
+The words were soft.
+
+They sounded as if the matter had been settled ages ago and the girl was being asked to catch up.
+
+The actress flushed.
+
+“Sorry?”
+
+Lucy nodded toward the Ledger Chair.
+
+“Go ahead. She's Charli. Ask her.”
+
+Charlie went utterly still, like someone had heard her name in another room and realised people had been saying it kindly.
+
+The girl turned back to Charli, flustered but trying.
+
+“Sorry. I was told to ask you.”
+
+Charli’s face went pale, then pink. Not the old embarrassed scramble, but like someone had opened a window in a room that had been airless before.
+
+She swallowed.
+
+“What’s the issue?” she asked.
+
+Her voice was soft. Steady.
+
+The actress held out the garment bag.
+
+“Straps,” she said quickly. “They’re slipping, but only when I reach forward. Mara said it might be the back tension.”
+
+Charlie stood, took the garment bag, and moved toward the testing curtain.
+
+“Put it on over your shift,” she said. “Don’t correct it yourself. I need to see where it fails.”
+
+The girl nodded and disappeared behind the curtain.
+
+Charlie picked up the ledger and followed.
+
+I watched her go.
+
+Clean top. Fitted jeans. Hair back. Pencil in hand.
+
+Lucy leaned beside me.
+
+“Well?”
+
+I kept my eyes on the curtain.
+
+“Stop gloating.”
+
+“Who’s gloating?”
+
+“You’re breathing smugly.”
+
+“I can’t help how correct I am.”
+
+Behind the curtain, Charli’s voice came soft and precise.
+
+“Reach forward again. Slowly. There—that’s not the strap. It’s the back panel pulling the shoulder line off grain.”
+
+Mara heard—she always did. Grunted. “Show me.”
+
+The curtain shifted and Charli stepped out. With one hand holding the back seam clear, she explained the problem to Mara as if the work was the only real, solid thing.
+
+Mara listened, checked the seam, then nodded once.
+
+“Log it.”
+
+Charli nodded and returned to the Ledger Chair.
+
+Her chair.
+
+She sat, bent over the page, and wrote.
+
+No drama.
+
+No speech.
+
+Ink.
+
+Lucy’s voice was very quiet beside me.
+
+“You’re seeing it now too.”
+
+I watched the pencil move.
+
+“She didn’t become that because someone bought her jeans,” Lucy said. “She could have refused them. She could have turned it into a joke. She could have hidden harder.”
+
+I pressed my lids shut. Nodded.
+
+“Yes.”
+
+“She didn’t.”
+
+“No.”
+
+“She accepted being seen.”
+
+There it was.
+
+The whole boring miracle.
+
+It was a light being switched on, not some ridiculous theatrical before-and-after.
+
+Just a girl doing the work without having to apologise for the shape of her usefulness.
+
+I looked around the room.
+
+Leah was pretending not to listen. Tahlia was absolutely pretending not to listen. One of the actresses by the window had gone very still, stays half-laced, eyes lowered in the respectful way women have when they know something private has just become visible and decide not to make it worse.
+
+Mara returned to her own table.
+
+She simply said, without looking up:
+
+“Sarah.”
+
+“Yes?”
+
+“Tell Celeste the ledger chair stays where it is.”
+
+I glanced at Lucy.
+
+Lucy’s face softened.
+
+Only slightly.
+
+“Right,” I said.
+
+Charlie kept writing.
+
+Movement. Stress. Failure points. Fix applied. Re-test.
+
+Signed.
+
+That was Wardrobe’s way of making something real.
 
 <hr class="section-break soft" />
 
@@ -6178,308 +6534,279 @@ The girl flushed. “Oh. Sorry. She.”
 
 
 
-<!--
-
 ## 27 Stop Tiptoeing ✨
 
 [ *Sarah* ]
 
-Wardrobe had two moods: working and waiting.
+Wardrobe had two moods: work and waiting.
 
-Working was steam and noise and the room moving like a body that knew its own muscles—irons hissing, scissors biting, chalk tapping, someone calling for tape, someone else answering without looking up. Waiting was the same space, but hushed, as if the tables were holding their breath, as if the garments themselves were listening for their names.
+Work was better. Waiting gave people time to have feelings.
 
-That day it was working.
+That morning was work. Steam, chalk, thread ends, Mara’s shears going snick through linen with the quiet menace of a closing argument. Someone swore at a bobbin. Someone else told her the bobbin had heard worse from better women.
 
-The kettle clicked, someone swore at a stubborn bobbin, and Mara’s shears made that confident little snick that sounded like authority in metal form.
+Charli was already at the long table.
 
-Charlie was already there.
+Of course she was.
 
-Of course he was.
+Not hiding.
 
-He turned up early the way anxious people did when they’d learned that being first was safer than being seen arriving. Bag on the same hook. Hands washed thoroughly: palms, backs, between fingers, nails, as if cleanliness was a kind of apology he could offer the world in advance. He was at the long table smoothing linen like it was a nervous animal. He looked up when I came in, and his face did that automatic thing: polite, tentative, ready to make himself smaller if required.
-
-The opposite of blokey. Blokes entered. They landed in a room as if space was made for them by law. They took up oxygen and called it personality.
-
-Charlie didn’t take up anything. He asked the air for permission.
-
-
-<img src="/assets/images/story/Scene27a.jpg" style="float: right; width: 440px; margin-left: 20px" />
-
-
+That was the part I noticed. Earlier, she used to arrive early so no one had to see her enter. Now she arrived early because the work started better when she had already laid things out.
 
 Lucy was in too, coffee in hand, unimpressed with the universe as usual. Tahlia followed, one earbud in, humming without meaning to, already tugging tape measures into submission. Mara said nothing to anyone, which was the closest she got to a welcoming speech.
 
 A couple of the Faire girls were due later for adjustments: hem lifts, sleeve easing, last-minute panic.
 
-The whole production was a tide pool of women at that point: skirts lifted, hair pinned, laughter breaking through steam like sunlight.
+Wardrobe had become a women’s camp by then. Skirts lifted. Hairpins shared. Laughter cutting through steam. Bodies moving around one another without apology.
 
-And Charlie was… in the middle of it, even when he wasn’t trying to be.
+And Charli was in the middle of it.
 
-That was the thing. It had started before anyone changed a single word.
+Not trying to be. That was the point.
 
-It started with how he behaved.
+There was a gown on the mannequin, one of Mara’s prototypes. A beautiful beast of a thing: fitted bodice, clever seam placements, pins placed like punctuation. Charli was meant to wear-test it briefly later. Movement checks. Stress points. Nothing dramatic.
 
-He didn’t stare or crowd. He didn’t do that typical male thing of testing boundaries by “accidentally” leaning too close and pretending it wasn’t on purpose. He asked before he touched fabric that wasn’t his. He stepped back when a woman shifted her weight. He read the room like someone who’d spent his whole life learning that women’s comfort was a language, and he was familiar with the dictionary.
+She had already flagged one weak point.
 
-He was useful, too: quietly so, which was rarer than gold.
-
-There was a gown on the mannequin that day, one of Mara’s prototypes. A beautiful beast of a thing: fitted bodice, clever seam placements, pins placed like punctuation. Charlie was meant to wear-test it briefly later, just movement checks. Stress points. Nothing dramatic.
-
-He’d already flagged one weak point.
-
-“Underarm seam,” he said softly, indicating the area with two fingers hovering, not touching. “If she reaches… it’ll pull.”
+“Underarm seam,” she said softly, indicating the area with two fingers hovering, not touching. “If she reaches... it’ll pull.”
 
 Lucy squinted at it. “You’re sure?”
 
-Charlie nodded. “It’s… it’s already talking.”
+“It’s already talking,” Charli said.
 
-Tahlia laughed. “Fabric doesn’t talk.”
+Tahlia glanced at the seam. “Fabric doesn’t talk.”
 
-Charlie’s mouth twitched, embarrassed. “Okay, not literally.”
+“It does,” Lucy said. “You just don’t listen.”
 
-Lucy, who had the emotional warmth of a refrigerator and the moral clarity of a knife, said, “It does if you’ve got eyes. Good catch.”
+Charli went pink in the face, as if praise was a garment she did not yet know how to wear.
 
-Charlie went yellow in the face, as if praise was a garment he didn’t know how to wear.
+That was when I noticed something I had been noticing more and more lately.
 
-That was when I noticed something I’d been noticing more and more lately:
+The girls liked Charli.
 
-The girls liked him.
+Not in the silly way people liked a novelty. In the practical way women liked someone who noticed when a pin was missing, when a seam was lying, and when a room needed less noise rather than more.
 
-Not in a romantic way or a “he’s cute” way, but in the way women liked a safe man in a women’s room: with relief. His humour was easy, not confronting. They liked him with a kind of affection that wasn’t flirtation, it was fellowship.
+She had become useful without becoming grand about it.
 
-He was, without trying to be, not a threat. Which was, in our world, a blooming miracle.
+This made her rare.
 
-A Faire girl arrived early—Bree, I thought her name was. Tall, strong shoulders, the sort who filled a doorway without making noise. She was wearing leggings and a hoodie then, but I’d seen her in full kit: stomacher pinned, skirt swinging, face lit like she’d been born to be looked at and never flinch. She waved her phone.
+Bree arrived early with a sleeve complaint and a banana muffin. Tall, strong shoulders, the sort who filled a doorway without making noise. She was wearing leggings and a hoodie then, but I had seen her in full kit: stomacher pinned, skirt swinging, face lit like she had been born to be looked at and never flinch.
 
-“Can someone save me? My sleeve is trying to strangle me.”
+She dropped the muffin beside Charli’s ledger.
 
-Mara didn’t look up. “Tahlia.”
+“For Celeste’s wife,” she said to Lucy. “She saved my arm last week.”
 
-Tahlia gestured her over, but Bree’s eyes flicked to Charlie.
+Charli looked up. “It was a sleeve seam.”
 
-“Oh,” she said, bright. “You’re him. The one who does the stress testing.”
+“It was an arm-adjacent crisis,” Bree said. “Don’t minimise women’s suffering.”
 
-Charlie stiffened at “him,” not offended: just… aware.
+Lucy inspected the muffin.
 
-Tahlia answered first, distracted. “Yeah. He’s weirdly good.”
+“You brought one?”
 
-Lucy added, deadpan, “He’s brutal.”
+“For Charli.”
 
-Charlie flinched, then realised Lucy meant it as praise. His shoulders loosened a fraction.
+“Rude.”
 
-Bree grinned. “Love that for you, mate. Could you look at my sleeve seam? It’s doing a thing.”
+“Save someone’s arm and I’ll bring you one.”
 
-Charlie looked momentarily alarmed, like she’d offered him a live snake, but he nodded. He stepped in carefully, hands hovering until Bree shifted her weight and said, “Go on then. Pin me.”
+Charli smiled down at the ledger, pretending not to enjoy that.
 
-And he did, clinical as a nurse, gentle as a seamstress, eyes focused on the fabric and not her body in the way men’s eyes so often were. Bree watched his face in the mirror with theatrical curiosity.
+By midday the Faire girls had started drifting through in twos and threes, and Wardrobe felt less like a workplace than a temporary republic: fabrics on every surface, snacks appearing without anyone admitting they had brought them, women stepping around women with the effortless diplomacy of shared inconvenience.
 
-“You’re not at all nervous, are you?”
+Charli was included in the small things first.
 
-Charlie hesitated. “A little.”
+Tahlia offered her a hair tie when hers broke. Lucy slid a spare thimble across the table when her fingers were raw from hand-stitching. Someone pushed lip balm toward her with a muttered, “Your lips look dry,” as if chapped lips were a disciplinary matter.
 
-“Well, you’re not acting at all nervous,” she remarked.
+She accepted it all very politely.
 
-Lucy snorted. “He’s always nervous. He just doesn’t make it our problem.”
+Too politely.
 
-And Bree said something then—light, offhand, not loaded—that tilted the day by a millimetre.
+Like a starving person taking bread and trying not to look hungry. She still apologised too much. Still asked permission for space that had already been given. But she was less rigid now. Less braced.
 
-“That’s very ‘girl’ of you,” she said with a friendly smile, looking up from Charlie’s careful hands to stare into his eyes. “Not making it our problem.”
+At lunch, Charli sat before anyone invited her.
 
-Charlie looked back, his lip twitching. There was a second where his face did that old reflex: Do I correct? Don’t let them misunderstand. Like misunderstanding was dangerous.
+That was new.
 
-But he didn’t say anything. He swallowed, and gave her a weak smile. His eyes dropped back to the seam.
+Not dramatic. She did not fling herself into a chair and announce a personal renaissance. She simply put her tea down, took the place beside Lucy, and opened the container Celeste had packed for her.
 
-Bree didn’t push. Theatre women were good at reading the moment and not punching through it. She just hummed and let him work. When she left, sleeve saved, she tossed over her shoulder,
+Lucy glanced at the food.
 
-“Tell your girls you’re a wizard.”
+“That looks smugly healthy.”
 
-Lucy called back, “He’s not a wizard, he’s a nervous Nellie!”
+“Celeste made it,” Charli said.
 
-Tahlia laughed, and Charlie—Charlie laughed too. Quietly, almost like it escaped. It was such a small sound, and it changed the air.
+“Of course she did. You’re being maintained.”
 
-By midday the Faire girls had started drifting through in twos and threes, and Wardrobe felt less like a workplace and more like a women’s camp: fabrics on every surface, hair pins shared, snacks appearing without anyone admitting they’d brought them, bodies moving around each other without apology.
+Charli smiled into her tea. “I think I’m being improved.”
 
-Charlie was included in the small things first.
+I nearly dropped my fork.
 
-Tahlia offered him a hair tie when his fringe kept falling into his eyes. Lucy slid a spare thimble across the table when his fingers were raw from hand-stitching. Someone pushed lip balm toward him with a muttered, “You look dry,” as if that was a crime.
+That was the thing about her now. She still looked startled when the room made space for her, but she had stopped refusing every inch of it. The old apology was still there. Habit usually outlived usefulness. But something else had begun to appear underneath it.
 
-He accepted it all very politely… too politely. Like a starving person taking bread and trying not to look hungry. He still apologised too much. Still asked permission for space that had already been given. But he was less rigid, less braced.
+A preference.
 
-He spoke a fraction more.
+She liked us.
 
-He joined the conversation sometimes, tentative at first—an observational comment, a small joke—then with slightly more ease when he realised no one was going to punish him for having a voice.
+This should not have surprised me. People often liked women once they stopped trying to impress them.
 
-It was in the middle of this easy chatter that the language began to shift.
+Tahlia was telling a story about a client who had called stays “a corset thingy,” and Mara’s eyes had nearly set fire to the table. Lucy was relaying it with her usual scorn.
 
-Not with a trumpet or a meeting, but with girls being girls, and saying what they meant.
+“They think understructure is optional because they’ve never had to hold anything up.”
 
-Tahlia was telling a story about a client who’d called stays “a corset thingy,” and Mara’s eyes had nearly set fire to the table. Lucy was relaying it with her usual scorn—“They think understructure is optional because they’ve never had to hold anything up”—and one of the Faire girls, a petite brunette with a laugh like broken glass, pointed at Charlie and said:
+One of the Faire girls, a petite brunette with a laugh like cutlery dropped down stairs, pointed at Charli.
 
-“He gets it, though. Look at him. He’s got the patience of a woman.”
+“She gets it, though. Look at her.”
 
-Charlie startled. Again—again—his face rose into correction, then stopped.
+Charli startled.
 
-Because what would he even have said?
+Not away. That mattered.
 
-No, I don’t? while his hands were literally doing the care-work of a seam? Lucy, without looking up, said,
+Just enough to show the word had touched something still tender.
 
-“He’s got the fear of a woman. That’s why. He knows if he screws it up, Mara will kill him.”
+Lucy did not look up.
 
-Mara didn’t blink. “Correct.”
+“She’s got the right amount of fear. That’s why. She knows if she screws it up, Mara will kill her.”
+
+Mara did not blink. “Correct.”
 
 Everyone laughed.
 
-Charlie laughed too, but his laugh was smaller. Not because he was fragile, because he was listening. Because he was taking in something he’d never had before: women laughing with him, not at him, and no one sharpening a sexual edge into it.
+Charli laughed too, but carefully. She was listening. Taking in the shape of it. Women laughing with her, not at her. Women making room without turning the room into a ceremony.
 
-And then—almost invisibly—someone said it. Not about him. Not to him.
+Tahlia met her gaze briefly, gentle but not wet about it.
 
-Just… in the air.
+We’re not dropping this.
 
-Bree returned with another girl, and she said, “She’s the one who fixed my sleeve,” gesturing in Charlie’s direction, and then she kept walking as if the word was nothing. As if it was already true.
+Then she turned away and kept working, because that was how you made kindness stick. You did not make it a performance. You treated it like it was already normal.
 
-I froze in the tiniest way. Not shocked or scandalised: just registering the move.
+The delivery bloke arrived just after two, bringing boxes and the usual atmosphere of a man who believed a clipboard was a personality.
 
-Lucy’s head lifted. Tahlia’s eyes flicked to Charlie, quick as a pulse check. Charlie went still.
+He looked around the room, found Charli, and gave her the quick little assessment men gave anything they thought might be soft.
 
-And for a beat, I thought he’d correct it… he’d panic, he’d retreat into “no, no, that’s not—” because that was what he was trained to do. Keep everyone comfortable by making himself smaller.
+I stepped between them before I had decided to.
 
-But he didn’t.
+“Back wall,” I said. “Mind the rack. If you touch the green gown, Mara will end you and I’ll tell the police you left early.”
 
-He took a breath. His fingers tightened around the linen, then eased.
+He stared at me.
 
-And he said nothing.
+“Joking,” I said.
 
-The moment passed, not awkwardly, but smoothly, because women were experts at letting a door open without slamming it.
+Mara did not look up. “She isn’t.”
 
-Tahlia, bless her, didn’t make it a Big Thing. She didn’t ask a question like it was a quiz. She just accepted the shape of the room.
+He put the boxes down properly.
 
-“She did fix it,” Tahlia said lightly, as if she was confirming the weather. “She spotted the weak point before anyone else.”
+Earlier, Charli would have vanished after that. Not physically. Worse. She would have stayed in the room and disappeared from it.
 
-Lucy huffed, as if irritated by the whole universe. “She’s annoyingly observant.”
+This time she looked at me, gave the smallest nod, and went back to Bree’s sleeve.
 
-Charlie looked up, eyes wide. He was watching them the way you watched someone handling a fragile object—terrified they’d drop it. Tahlia, with a gentle smile to dilute the impact, met his gaze briefly, just long enough for him to understand something:
+That was when I understood the difference.
 
-We’re not dropping this. We’re not dropping you.
+We were no longer coaxing her into the room.
 
-And then she turned away and kept working, because that was how you made kindness stick: you didn’t make it a big thing. You treated it like it was normal.
+We were defending the room she already belonged to.
 
-Later, when a delivery bloke knocked at the side door, the room tightened by habit. Different knock. Man’s knock. The kind that assumed the world would part.
-
-He came in smelling of diesel and entitlement, clipboard under his arm, eyes scanning the room like he was shopping. He glanced at Charlie—at Charlie’s smallness, his quietness, his softness—and his expression did that unpleasant male calculus. Categorising. Deciding.
-
-He pointed his pen vaguely. “Where d’you want this, mate? He—”
-
-He didn’t get to finish.
-
-“She wants it left by the back wall,” I said, bright as a bell. “And you’ll mind your hands. Those boxes aren’t the only thing fragile in here.”
-
-The bloke blinked, recalibrated. He muttered something that could have been an apology if he weren’t allergic to the concept, and he shifted the boxes where I indicated, suddenly very interested in being helpful.
-
-The door closed behind him.
-
-The room exhaled.
-
-Charlie hadn’t moved, but something in her had. Her shoulders loosened. The line of her jaw softened. Like someone had removed a weight she hadn’t realised she was carrying. Lucy took a sip of coffee and said, matter-of-fact:
-
-“Good.”
+Lucy took a sip of coffee and said, matter-of-fact, “Good.”
 
 Tahlia, without looking up, added, “We can stop tiptoeing now.”
 
-And I—because I was me, and because naming things was half my job in this building—leaned against the table and said, “About time.”
+And I, because I was me and because naming things was half my job in this building, leaned against the table and said, “About time.”
 
-Charli’s eyes flicked to me. Cautious.
+Charli’s eyes flicked to me.
 
-“Are you—” she started, then stopped, because she didn’t know what she was allowed to ask for.
+Cautious, yes. But not frightened.
 
-I kept it easy. Teasing, but not sharp. A door offered as air.
+“Are you—” she started, then stopped.
+
+I kept it easy. Teasing, but not sharp.
 
 “If it doesn’t feel right,” I said, “you can tell us. We’re not savages.”
 
 Lucy snorted. “Speak for yourself.”
 
-Charli swallowed. She looked at the women around her: Lucy’s brutal competence, Tahlia’s effortless camaraderie, the Faire girls’ theatrical warmth. She looked at me, and I knew what she was seeing: someone who would cut a man down for overstepping without turning it into a melodrama.
+Charli looked around the room: Lucy’s brutal competence, Tahlia’s easy camaraderie, the Faire girls’ theatrical warmth, Mara’s refusal to turn human development into an excuse for inefficient output.
 
-She said, very softly, “I… don’t mind.”
+Then she looked at me.
 
-Not “I want.” Not “I demand.” Not “This is my identity.”
+“Thank you,” she said.
 
-Just: I don’t mind.
+Just that.
 
-It was the most Charli thing in the world: making relief sound like it was no trouble. Lucy watched Charli for a beat, then said, flat and final,
+Thank you.
 
-“Good. I’m not doing mental gymnastics every time I talk about you, love.”
+It was the most Charli thing in the world: making relief sound like no trouble.
+
+Lucy watched her for a beat, then said, flat and final, “Good. I’m not doing mental gymnastics every time I talk to you, love.”
 
 Tahlia smiled. “She’s literally here. She’s literally doing the work.”
 
-One of the Faire girls, the brunette with the glass-laugh, grinned and said, “She’s one of us, then.”
+The brunette with the cutlery-stairs laugh grinned.
 
-She went yellow in the face.
+“She’s been one of us all along.”
 
-And I saw it: the way the word landed, as a hand on the shoulder. A tag of belonging.
+Charli went pink in the face.
 
-From then on, it spread. Not because anyone enforced it, but because it was easier. It fit. And because women liked language that kept the room safe.
+I saw the way the words landed. Not like a verdict. More like a hand on the shoulder.
 
-“She needs the smaller pins.”
+One afternoon, near the end of shift, I caught a look on her face that did not match the room.
 
-“Tell her I’ve got the tape.”
+Everyone else was buzzing. Faire girls chattering about tomorrow’s rehearsal. Lucy complaining about pockets. Tahlia humming while she cleaned her machine. The air was light.
 
-“She found the weak point again.”
+Charli was light too, until she turned toward the window and the overhead lamp caught her profile.
 
-Charli started moving differently. Not instantly or like she’d pulled on a costume, but like someone who’d stopped bracing for a blow. She joined us for lunch without hovering at the edges. She laughed a little more, a little easier. She smiled more, a lot more. She even responded with opinions: small ones at first, then slightly more when she realised no one was going to punish her for being present.
+There was a flicker. A shadow, brief as a snagged stitch.
 
-And all instinct to “correct” us entirely disappeared.
+Secret sorrow.
 
-As if correcting would risk the gift. Our gift.
+It was in her eyes, and it made no sense with the laughter around her. The sort of sadness a person got when she had something precious in her hands and remembered the world was full of thieves.
 
-As if “she” was a warm coat she was afraid might be taken back if she denied liking it.
-
-One afternoon, near the end of shift, I caught a look on her face that didn’t match the room. Everyone else was buzzing: Faire girls chattering about tomorrow’s rehearsal, Lucy complaining about pockets, Tahlia humming while she cleaned her machine. The air was light.
-
-Charli was light too—until she turned her head toward the window and the overhead lamp caught her profile.
-
-There was a flicker. A shadow, brief as a stitch snag.
-
-A secret sorrow.
-
-It was in her eyes, and it made no sense with the laughter around her. The sort of sadness you saw when someone had something precious in their hands and suddenly remembered the world was full of thieves.
-
-Lucy saw it too. Lucy saw everything, she just didn’t always bother to comment.
+Lucy saw it too. Lucy saw everything; she just did not always bother to comment.
 
 “You right, love?”
 
-The word love wasn’t Lucy’s usual. Which meant she meant it.
+The word love was not Lucy’s usual. Which meant she meant it.
 
 Charli blinked, startled, and the sorrow snapped back behind her face like a curtain drawn.
 
 “Yeah,” she said quickly. “I’m fine.”
 
-She was not fine. But she was safe enough then to pretend she was, and that, frankly, was its own kind of progress.
+She was not fine.
 
-Tahlia bumped her shoulder lightly as she passed. “Come tomorrow,” she said. “We’re getting chips. You’re not allowed to say no. You’ll just make it weird.”
+But she was safe enough to pretend she was, and that, frankly, was its own kind of progress.
 
-The Faire girls chorused agreement. Bree pointed a finger at Charli like she was casting a spell.
+Tahlia bumped her shoulder lightly as she passed.
 
-“She’s coming,” Bree declared. “She’s ours.”
+“Come tomorrow,” she said. “We’re getting chips. You’re not allowed to say no. You’ll make it weird.”
 
-Charli’s breath caught.
+The Faire girls chorused agreement.
 
-And there it was, plain as anything:
+Charli looked down at her hands for a moment. The little pinpricks. The chalk smudges. The evidence of belonging.
 
-Not he, performing near women.
-
-But she, held by women.
-
-She looked down at her hands for a moment—at the little pinpricks, the chalk smudges, the evidence of belonging. Then she lifted her eyes back to the room, and her smile was small but unmistakably real.
+Then she lifted her eyes back to the room, and her smile was small but unmistakably real.
 
 “I’ll come,” she said.
 
-Mara tapped the table once, impatient with sentiment.
+Mara tapped the table once.
 
-“Enough talking,” she said. “More work.”
+“Enough,” she said. “Work.”
 
-And that was Wardrobe, wasn’t it? Just women doing the quiet, effective thing.
+Everyone went back to it.
 
-Turning “she” from a word into a place.
+Charli bent over the ledger, pencil moving, mouth curved in that small private way she had when she thought no one was watching.
+
+I was watching.
+
+Obviously.
+
+And for once, there was nothing much to do about it.
+
+Acceptance was not applause. It was not a speech, a declaration, or one of Celeste’s carefully managed emotional renovations.
+
+It was this: Bree asking for Charli’s hands, Lucy stealing half her muffin, Mara expecting the ledger to be right, and Charli sitting in the middle of us without looking for the exit.
+
+Annoyingly simple, in the end.
+
+She belonged because the work had made room for her.
+
+And because, at last, she had stopped refusing the chair.
 
 <hr class="section-break soft" />
 
@@ -6495,251 +6822,7 @@ Turning “she” from a word into a place.
 
 [ *Celeste* ]
 
-A period of three months will change a room.
 
-Not the bones of it. Mara’s worktables still bore the same scars, the same old pinpricks and iron: sheen and chalk ghosts that never quite wash out. But the rhythm had shifted. There was less scrambling. Fewer panicked rearrangements. More quiet, confident repetition—tools being reached for without looking, hands moving as if the day had been rehearsed.
-
-Wardrobe had become what I’d always wanted it to be: a place where women did difficult things without drama.
-
-The morning steam rose in slow sheets from the irons. Someone had left a spool of linen thread on the windowsill to warm. A kettle clicked, then settled into a soft hiss. And under all of it was the sound I’d come to associate with safety: the snick of Mara’s scissors, unhurried and certain.
-
-Charli arrived early—again—and this time I didn’t think why does he do that? I simply let it be what it was: his ritual. His way of entering the day gently, before the day could look at him too hard.
-
-He moved through the room with the ease of someone who knew the rules without having to recite them.
-
-Bag on the hook. Hands washed thoroughly. Apron on. Hair pinned back.
-
-He was at the long table when I came in, smoothing a length of white linen as if he was calming an animal. He lifted his head when I approached and gave me a smile that didn’t try to vanish immediately.
-
-That was new.
-
-Not big or theatrical.
-
-Just… there.
-
-Something in me eased, the way it does when a person you care about begins to look less like they’re bracing for impact and more like they’re living.
-
-“You’re early,” I said, as if it was a complaint.
-
-“I like the quiet.”
-
-His voice had steadied over the months. Soft, but a different sort of soft; careful, but with less apology in it.
-
-Lucy was already at the cutting table, coffee in hand, unimpressed with the universe. Tahlia was humming without meaning to, pulling tape measures into line. Sarah was perched on her usual stool like she’d been born there, boot heel hooked on the rung, expression set to I am merely observing your civilisation, you little ferals.
-
-The Faire girls had been drifting through more and more often. Not just for fittings and repairs, but
-
-
-<img src="/assets/images/story/Scene28a.jpg" style="float: right; width: 440px; margin-left: 20px" />
-
-
- because Wardrobe had become a gravitational point: a women’s room, in the truest sense, the kind where you could be tired, sharp, messy, brilliant, and not have to explain any of it.
-
-That drift had changed Charli too.
-
-The accumulation of being treated as safe and wanted allowed his laugh to come easier now. He didn’t hover on the edges during lunch anymore: he’d started joining in the conversations. Small remarks at first, then a dry little observation that made Lucy bark out something almost like amusement. He had begun to look at the other women without that constant flinch of anticipation.
-
-And this morning—this morning—he looked happy.
-
-Mara appeared behind me without fanfare. She didn’t greet anyone. She simply put a garment bundle on the table with the quiet brutality of a fact being placed in evidence.
-
-“Chemise.”
-
-Charli’s hands stilled.
-
-“Mine?”
-
-Mara’s expression didn’t change, simply a short nod. “Designed by you. Sewn by you. Corrected by you. Washed three times. Pressed. If it fails, we learn.”
-
-He unwrapped it carefully. White linen, fine but strong, period-correct in cut and gusset placement. Underarm shaping that actually respected movement instead of pretending bodies didn’t have shoulders.
-
-The work was… classic Charli. Not perfect, not yet, but good in a way that made my throat tighten unexpectedly. It wasn’t just the garment. It was the quiet fact that Charli had begun to build something—make something—instead of merely surviving.
-
-Mara made a small gesture toward the stays hanging nearby: the latest iteration, the one we’d been refining for weeks.
-
-“Put them on,” she said. “Over the chemise.”
-
-Charli nodded. Tahlia was already turning back to her work: deliberately casual, giving him privacy without making it a performance. Lucy didn’t look up at all, which was Lucy’s way of saying, I don’t need to inspect you: I’m here for the seams.
-
-Sarah, though—Sarah’s eyes flicked over with that sharp British amusement.
-
-“Oh, go on then,” she said. “Try on your armour, love.”
-
-Charli shot her a look that was half abashed and half… fond. That, too, was new. He stepped behind the screen. The room didn’t pause; it simply went on around him. I heard the soft rustle of linen. The tiny tug and chemise of fabric settling against skin."Ready to be strapped in?" Sarah called in to him.
-
-"Yes, please."
-
-The measured movements of someone lacing stays with care followed. When they stepped out again, it was like seeing the argument come together.
-
-The chemise sat correctly at his shoulders. The neckline was modest, period-true. The sleeves ended at the right point, linen cuff whispering against his wrists. And the stays—
-
-The stays held.
-
-Not brutally or theatrically. They held the way good engineering holds: firm in the right places, forgiving in the right places, allowing movement rather than forbidding it. Charli stood very still for a moment, as if he was waiting for the world to contradict what he felt.
-
-“Walk,” Mara ordered.
-
-Charli walked: small, careful steps at first, then with growing confidence as his body realised it was permitted to exist inside this structure without being punished.
-
-“Raise your arms,” Mara said.
-
-Charli did, slowly.
-
-The underarm gussets behaved. The stays flexed the way they were meant to. No tugging, no glaring strain lines.
-
-“Turn.”
-
-Charli turned. And that was when I saw it again.
-
-That fullness in the chest.
-
-The first time I’d noticed it—on his first day—it had been a flicker of curiosity. A question I didn’t ask aloud. A softness beneath the t-shirt that didn’t quite fit the story the world would have told about a boy arriving for work.
-
-Then, again when he moved in with me. In the morning, in the half-light, when he’d pulled on a t-shirt and I’d caught the shape for a second and filed it away like a strange line in a ledger.
-
-Now, under a chemise and stays designed to reveal structure, it was unmistakable. Not exaggerated or a spectacle. Just… undeniably there. A swelling. The kind of body truth you can’t unsee once you see it.
-
-My mind did what it always did: it reached for explanations. Stress. Weight fluctuation. Posture. The way stays redistribute silhouette. The way linen catches light. The way my own expectations might be colouring perception.
-
-And then another part of me, the part that understood Wardrobe’s quiet rules, said: stop trying to argue the body out of what it is.
-
-Charli stood there, cheeks yellow, hands at his sides like he wasn’t sure what to do with them. And I saw, suddenly, not just a “boy learning women’s work,” but a person whose body had been quietly, steadily contradicting the world’s categories long before we ever named anything.
-
-Tahlia circled him, professional, not looking at him but at the clothing.
-
-“Looks better.”
-
-Lucy pointed with her coffee. “Shoulder line’s good. No bunching.”
-
-Sarah tilted her head, considering Charli like she was a painting that had finally come into focus.
-
-Then, because Sarah is Sarah, she said it.
-
-“Honestly,” she remarked, loud enough for the room, “it’s a bit unfair how well Celeste’s wife is turning out.”
-
-Charli looked at Sarah with raised brows, slightly puzzled. The room, however, wasn’t puzzled. Quite the opposite. Lucy let out a short half laugh.
-
-“Wife,” she repeated, as if tasting it. “That's it. That tracks.”
-
-Tahlia grinned. “It does, too, doesn't it?”
-
-Then one of the Faire girls, Bree, tall and bright-eyed, walked in mid-sentence.
-
-She clocked the tableau: Charli in chemise and stays, the women circling, Mara’s expression like a judge in a courtroom of cloth. Her face lit.
-
-“Oh my lands,” she exclaimed, delighted. “She looks a proper actress.”
-
-I felt something inside me stop.
-
-She.
-
-Bree hadn’t hesitated. She hadn’t checked. She hadn’t looked to me for permission.
-
-She had simply… said this word. Like, it was just already there, had been there for ages, as if it was obvious, as if it had been obvious for months.
-
-And then I noticed: Lucy didn’t react. Tahlia didn’t look startled. Sarah’s mouth quirked—satisfied, almost smug, like she’d just nudged a domino and watched it fall exactly as expected.
-
-And Charli—Charli didn’t correct anyone. Not a twitch of protest. Not a nervous laugh. Not a frantic, “I’m not—”
-
-She just stood there with a soft smile for Bree, chest rising and falling, as if she was listening to the word land inside her body, pleased that it didn’t hurt. Bree stepped closer, hands hovering near the stays without touching.
-
-“Can she lift her arms again?” she asked, speaking like Charli was a collaborator.
-
-“She can,” Mara said.
-
-Charli lifted her arms.
-
-Bree clapped once, delighted. “She’s going to be a menace. I love her.”
-
-Charli’s face was incandescent. A glow. A quiet basking. The kind you see when someone has been chosen into a circle they never thought would open for them.
-
-Sarah was looking at my face with a knowing smile. She leaned back on her stool with a satisfied sigh.
-
-“Right,” she said, as if concluding a minor administrative matter. “I think we can stop tiptoeing now.”
-
-There it was: a declaration: because now, I knew what they'd known for a long time. Tahlia reached out and adjusted a lace end with practised fingers.“Looks good, Charli.”
-
-Charli glanced at me and blinked fast, as if tears were an option she was trying not to allow herself.
-
-“It’s—” she started. “It’s fine.”
-
-Lucy snorted. “It’s not fine, it’s better than fine. Don’t insult your own work.”
-
-Charli’s mouth did something new—a smile, a real, a radiant one. I stood there, watching, trying to keep my face neutral, because inside, something complicated was happening.
-
-I had been using the word 'wife' internally, privately: as a way of naming function. The role. The support. The way Charli fit into my life not as romance, not as a fantasy, but as infrastructure.
-
-I had thought it was precise. Accurate. The only possible term for it. But, a private shorthand.
-
-I hadn’t realised it was also… a seed.
-
-A framing.
-
-A story the room could detect, acknowledge, take up and make real. Which, of course it did. Because women are not stupid about language. We understand what words do. We understand that the right word, used repeatedly in the right room, can make a person stop feeling like they’re trespassing.
-
-I could not have foreseen this. I certainly had not planned this. But I had, unmistakably, contributed to the conditions that made it inevitable.
-
-Bree was still chattering: something about rehearsal tonight, something about whether Charli could come and see the dress run, something about chips afterward. The other Faire girls nodded along, already folding Charli into their social calendar as if she belonged there by law.
-
-Charli’s answer came too quickly. “Sure, I can do,” she said, eager, and then she checked herself, as if she’d revealed too much want. “If that’s… if that’s okay.”
-
-Tahlia rolled her eyes fondly. “Of course it’s okay. You’re coming, girlfriend.”
-
-"Absolutely, she is!" Lucy agreed.
-
-She.
-
-And again Charli, flowing with it. Soft smile, shy, natural, surrounded by friends. I found myself looking at her profile: the softened line of her cheek, the quiet fullness at her chest held neatly by stays, the way she stood among her women friends as if she’d finally stopped worrying about rejection.
-
-Three months ago she’d looked like she was on the outside looking in. Now she was… blossoming.
-
-I felt a sharp little pang of pride, quickly followed by something else: a sober recognition. This wasn’t a private experiment anymore. It wasn’t even a Wardrobe matter. It was social.
-
-The women had decided.
-
-Society—our society, the only one that mattered inside these walls—had decided.
-
-And there was no going back from that.
-
-Sarah’s eyes met mine across the room. Her gaze was bright, knowing. She didn’t say told you so—Sarah has better manners than that, in her own untamed way—but her expression said as clearly as if she was shouting through a megaphone:
-
-Well? Are you going to pretend you didn’t hear it?
-
-I pursed my lip and gave her a wry smile. I didn’t intend to pretend. I let my face soften into something like acceptance. Maybe even approval.
-
-What else could I do? Correct them? Reopen the question? Drag Charli back into uncertainty because I hadn’t personally supervised and authorised an outcome I'd actually had a large part in founding?
-
-No.
-
-That would be cruelty dressed up as prudence.
-
-If the room was giving her belonging, the only ethical response was to protect that belonging. I stepped forward and adjusted a stray lace end at her waist, careful not to make it intimate, just practical. Just part of the work.
-
-“Looks good,” I said to softly with what I hoped was a reassuring smile. “You’ve improved the line.”
-
-Charli looked up at me, eyes wide and swallowing hard. That old fear—fear of being punished for wanting. And so I gave her what she needed: steadiness. Just… a fact.
-
-“You’re doing well.”
-
-Her shoulders dropped a fraction. Relief seemed to flow through her like warmth.
-
-Bree bounced on her toes. “So you're coming tonight, yeah?”
-
-Charli’s mouth opened—eager, then cautious.
-
-Lucy answered for her, flat and final. “Of course she’s coming.”
-
-Sarah smiled, satisfied.
-
-And Mara, as if bored by the entire human dimension, tapped the table once.
-
-“Enough talking,” she said. “More work.”
-
-The room obeyed, laughing as it did.
-
-And Charli—Charli laughed too. Not small this time: a real laugh. A first, for her. And for me.
-
-It was as if the word she had stopped being a risk and started being a home.
 
 <hr class="section-break soft" />
 
@@ -6747,7 +6830,7 @@ It was as if the word she had stopped being a risk and started being a home.
 
 
 
-
+<!--
 
 ## 29 Not the Direction ✨
 
@@ -13738,3 +13821,55 @@ As the plane dipped further and the world rose up to meet us, I pressed my foreh
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
 
 <hr class="section-break strong" />
+
+
+Freya (Celeste)
+https://elevenlabs.io/app/voice-library?voiceId=u8ADrbquiJqufR9XMtb8
+[alt]
+Ashley
+https://elevenlabs.io/app/voice-library?voiceId=fTtv3eikoepIosk8dTZ5
+fTtv3eikoepIosk8dTZ5
+
+---
+
+Daisy (Charlotte)
+https://elevenlabs.io/app/voice-library?voiceId=MJqcNjMbvfGUxatGjPcI
+
+---
+
+Cass (Lauren?)
+https://elevenlabs.io/app/voice-library?voiceId=WbwwsO6cCyUItWWlHOKN
+[alt]
+Molly Piper
+https://elevenlabs.io/app/voice-library?voiceId=xQoJctkjLbN6MAa5Ibhk
+xQoJctkjLbN6MAa5Ibhk
+
+---
+
+Blondie  (Sarah) - Relaxed and Casual
+https://elevenlabs.io/app/voice-library?voiceId=4BWwbsA70lmV7RMG0Acs
+[alt]
+Lily
+pFZP5JQG7iQjIQuC4Bku
+[alt]
+Blondie-Intense
+https://elevenlabs.io/app/voice-library?voiceId=si0svtk05vPEuvwAW93c
+
+---
+
+Amelia  (Brittany)
+https://elevenlabs.io/app/voice-library?voiceId=ZF6FPAbjXT4488VcRRnw
+[alt]
+Katie
+https://elevenlabs.io/app/voice-library?voiceId=zxPaDs5RuZh7fQDkY6mP
+
+---
+
+
+**Also consider**
+
+Alice
+https://elevenlabs.io/app/voice-library?voiceId=ZEt85AU1ui8Rr8FxNslW
+
+Kirsty
+https://elevenlabs.io/app/voice-library?voiceId=VYkr1IQzbDVb2GJoYAIl
