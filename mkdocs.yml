@@ -4,8 +4,8 @@ edit_uri: "http://127.0.0.1:8000/docs/"
 use_directory_urls: true
 theme:
   name: material
-  icon: icon.png
-  logo: assets/images/logo.png
+  icon: assets/images/iconL.png
+  logo: assets/images/logoL.png
   palette:
     # Light mode
     - scheme: default
