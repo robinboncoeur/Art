@@ -22,7 +22,7 @@
 
 [ *Celeste* ]
 
-I didn't realise it was still snowing until the plane slowed. The landscape around Hobart was white
+I didn't realise it was still snowing until the plane slowed. The landscape around Hobart was white, but it wasn't until snowflakes stuck to the window that I felt Hobart's wintry charm.
 
 
 
