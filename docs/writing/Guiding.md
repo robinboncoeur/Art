@@ -15,7 +15,7 @@
 ## Inhabiting Motherhood
 
 
-[![The Writer][St00]{ .artR width="460" }][St00]
+[![Delicacy][St08]{ .artR width="460" }][St08]
 
 
 
@@ -54,7 +54,7 @@ The question is more like:
 
 And Celeste, being Celeste, understands that pushing too hard would turn tenderness into performance.
 
-## The emotional structure
+### The emotional structure
 
 I think this scene has three quiet pressures running under it.
 
@@ -71,7 +71,7 @@ Lauren has to recover Charlotte from history.
 
 That’s the doozy.
 
-## What Celeste wants
+### What Celeste wants
 
 Celeste probably wants to say:
 
@@ -91,7 +91,7 @@ And perhaps:
 
 > How do I stand beside you without standing between you?
 
-## Celeste’s tone
+### Celeste’s tone
 
 For Celeste POV, past tense, I’d keep her restrained but very aware. She notices Lauren’s hands, pauses, micro-delays, word choices. Celeste does not narrate herself as noble. She is more likely to mistrust any impulse that feels too clean.
 
@@ -107,7 +107,7 @@ Or:
 
 That feels very much like your story’s architecture: doors, rooms, surfaces, position, function.
 
-## Possible scene opening
+### Possible scene opening
 
 You may want to begin with Celeste preparing for Lauren’s arrival, but not over-preparing. That itself can reveal the tension.
 
@@ -133,7 +133,7 @@ Acceptance could happen in a sentence. Motherhood had to find somewhere to put i
 
 That last line may be too polished for a first pass, but it does locate the problem: Lauren needs function, not sentiment.
 
-## The Celeste–Lauren conversation
+### The Celeste–Lauren conversation
 
 This should not be a dramatic apology scene. Lauren has already crossed the major acceptance line. This is more like two women arranging care with emotional intelligence.
 
@@ -167,7 +167,7 @@ Or:
 
 That is even cleaner, and it links beautifully to the prior scene.
 
-## Celeste’s catalyst awareness
+### Celeste’s catalyst awareness
 
 This can be interior, not confessed.
 
@@ -195,7 +195,7 @@ Lauren did not need choreography. She needed space to become ordinary.
 
 That, I think, is very close to the emotional centre. Celeste’s best help is *not* doing everything.
 
-## The heart of the scene
+### The heart of the scene
 
 The strongest exchange might be something like this:
 
@@ -225,7 +225,7 @@ I felt the truth of that, and the discomfort of it.
 
 That exchange lets both women be intelligent. Lauren is not reduced to the slow mother; Celeste is not falsely innocent. And “I knew differently” is a useful Celeste line because it honours Lauren’s harder task.
 
-## What the scene should avoid
+### What the scene should avoid
 
 I’d avoid Lauren saying too directly, “I feel guilty I didn’t see my daughter sooner.” True, but blunt.
 
@@ -235,7 +235,7 @@ I’d avoid making this a formal passing-of-the-torch moment. Celeste and Lauren
 
 And I’d avoid too much explanation of the French concept inside the prose unless Celeste naturally thinks in that register. But the idea can be present without the word.
 
-## A possible key sentence
+### A possible key sentence
 
 This might be one of those scenes that needs a sentence like:
 
@@ -253,7 +253,7 @@ Or even:
 
 That may be too thesis-forward, but it is a useful private compass for the scene.
 
-## My instinct for the scene’s purpose
+### My instinct for the scene’s purpose
 
 This scene is not about Lauren proving herself.
 
@@ -265,23 +265,217 @@ So Celeste’s strength here is restraint. She does not step back from Charlotte
 
 That’s a beautiful, difficult thing for her to do. And it is very Celeste.
 
+<hr class="section-break strong" />
 
 
+
+
+
+## But Before That
+
+
+[![Winter][St01]{ .artR width="460" }][St01]
+
+
+
+[ *Robyn* ]
+
+So, Lauren is holding down the fort. Mara's sister is recovering from knee surgery, takes Celeste along because Mara. I think this should be the intermediary scene before I embark on the airport waiting hall scene, as this is prep for Celeste, who is herself young and while certainly perceptive still has a certain maturity to achieve.
+
+
+
+
+
+<hr class="section-break soft" />
+
+[ *Emily* ]
+
+Yes — that’s a very strong intermediary scene. It gives Celeste exactly the kind of **quiet apprenticeship** she needs before the airport/waiting-hall scene. 🌿
+
+It also does something structurally useful: it lets Celeste learn about care **away from Charlotte**, so that when she returns to Charlotte and Lauren, she is not merely reacting as Charlotte’s beloved. She has had a private lesson in how adult women manage need, pride, pain, family, and usefulness.
+
+And Mara is the perfect teacher because she would never announce the lesson.
+
+### Why this works
+
+Lauren holding down the fort is excellent. It shows trust. Wardrobe no longer collapses when Mara leaves, and Lauren has become functionally part of the women’s system. That matters.
+
+Mara taking Celeste to Tasmania also works because it should not feel like “Mara invited Celeste on an emotional development trip.” It should feel like:
+
+> “You’re coming.”
+>
+> “Am I?”
+>
+> “Yes.”
+
+Because Mara. 😄
+
+Her sister recovering from knee surgery gives you a beautifully ordinary mirror of Charlotte’s recovery without being identical. Knee surgery is not identity surgery. It does not carry the same existential charge. But it does share certain practical humiliations: can’t move properly, can’t sit/stand comfortably, hates being fussed over, wants to feel competent, resents the body’s timing.
+
+That lets Celeste observe care without the blinding emotional intensity she has with Charlotte.
+
+### What Celeste needs to learn
+
+Celeste is already perceptive, organised, and devoted. But she is still young. Her instinct is to make things function. That is admirable, but it can become over-management.
+
+This Tasmania scene can teach her:
+
+> Some care is not taking over.
+> Some care is standing close enough to be useful and far enough away to leave dignity intact.
+
+That is exactly what she will need with Lauren.
+
+Because in the upcoming airport/waiting-hall scene, Celeste’s temptation may be to manage the emotional geometry: Charlotte’s needs, Lauren’s place, travel arrangements, pain, privacy, timing, everyone’s feelings.
+
+The Tasmania scene can prepare her to understand that Lauren must be allowed to become Charlotte’s mother in action, not merely be granted access by Celeste.
+
+### Mara’s sister as the mirror
+
+Mara’s sister should not be a clone of Mara. Better if she is similar enough to show family resemblance, but different enough to unsettle Celeste.
+
+Possibility:
+
+Mara is crisp, exacting, professional.
+
+Her sister is equally formidable, but domestic, dry, and unimpressed by fuss.
+
+She might say things like:
+
+> “If she tells you I’m helpless, she’s lying.”
+>
+> “If she tells you I’m difficult, she’s correct.”
+
+That gives Celeste the texture immediately.
+
+The sister recovering from knee surgery can be stubborn in a way that reminds Celeste of Charlotte, but with age and history behind it. She has had decades to know exactly what kind of help she will and will not tolerate.
+
+Celeste watches Mara care for her sister and sees that Mara does not soften in the obvious way. She remains Mara. But her precision becomes tenderness.
+
+Mara does not hover.
+Mara moves the rug before it can catch the walker.
+Mara puts the teapot where her sister can reach it.
+Mara does not ask, “Are you all right?” every five minutes.
+Mara notices when the answer changes.
+
+That is the lesson.
+
+### The scene’s emotional purpose
+
+This is not about Celeste having a grand realisation. It should be subtler.
+
+She notices that Mara and her sister have old patterns. Some affectionate, some irritating, some never spoken. They do not need to explain themselves to each other. They have years in the seams.
+
+And Celeste realises, quietly, that Lauren and Charlotte do not yet have that as mother and daughter. Not in the right language. Not yet.
+
+Lauren is trying to build a history in real time.
+
+That is where Celeste matures.
+
+Not: “Lauren needs to prove herself.”
+
+But:
+
+> Lauren needs chances to perform ordinary motherhood before anyone calls it extraordinary.
+
+That’s a wonderful preparation for the airport waiting hall.
+
+### A possible scene engine
+
+Celeste travels with Mara to Tasmania. The ostensible reason is practical: Mara’s sister needs help after knee surgery, and Mara wants Celeste to see some textiles, a small supplier, an old garment, an auction, a museum contact — whatever makes it plausibly Wardrobe-adjacent.
+
+Lauren stays behind running Wardrobe. That matters because it shows Lauren has become trusted in the operational world.
+
+In Tasmania, Celeste watches Mara with her sister.
+
+At first Celeste wants to help too quickly.
+
+Mara stops her, not harshly.
+
+Something like:
+
+> “Wait until she asks.”
+>
+> “She won’t.”
+>
+> “Then wait until she makes it necessary.”
+
+Very Mara.
+
+Then Celeste sees the sister struggle, and Mara still does not rush. Not because she is cold, but because she knows the difference between danger and effort.
+
+That distinction is crucial for Celeste.
+
+Charlotte recovering from surgery is not in danger every time she struggles. Sometimes she is simply reclaiming function.
+
+Lauren, too, should be allowed to struggle into motherhood without Celeste rescuing the moment.
+
+### The image you shared fits this beautifully
+
+That dark room, snow outside, old timber, young woman sitting in thought — it could be Celeste in Tasmania, not yet aware that the lesson has landed.
+
+You could use the setting to let Celeste feel young:
+
+> The house was older than any certainty I had brought with me.
+
+Or:
+
+> In Wardrobe, I knew where everything belonged. In Mara’s sister’s house, every object had belonged somewhere longer than I had been alive.
+
+That would quietly humble Celeste without diminishing her.
+
+### A lovely thematic contrast
+
+Wardrobe has taught Celeste that systems protect women.
+
+Tasmania teaches her that **history also protects women**, when it is not allowed to become a prison.
+
+Mara and her sister have history.
+Lauren and Charlotte have broken/misnamed history.
+Celeste and Charlotte are building future-history.
+
+So the scene becomes a hinge between past, present, and becoming.
+
+### The key lesson for Celeste
+
+I think the scene should leave Celeste with something like this, though maybe not stated so directly:
+
+> Help did not always mean stepping in. Sometimes it meant leaving a space open until the right woman could step into it.
+
+That is exactly what she must do for Lauren.
+
+### How it can lead into the airport waiting hall
+
+After Tasmania, Celeste returns with this new understanding. Then in the airport waiting hall, when Lauren reaches for a bag, adjusts Charlotte’s cushion, offers water, or asks a motherly question, Celeste does not intercept.
+
+She notices.
+She lets it happen.
+She maybe feels the small ache of not being the one doing it.
+Then she understands that this is not loss.
+
+That would be a beautiful maturity beat for Celeste.
+
+The emotional movement becomes:
+
+**Tasmania:** Celeste watches Mara let her sister keep dignity.
+**Airport:** Celeste lets Lauren mother Charlotte.
+**Afterward:** Celeste understands that loving Charlotte includes making room for the women who loved her before they knew how to name her.
+
+That’s very rich, Robyn. This intermediary scene does not delay the airport scene; it earns it.
 
 
 <!--           Image Links         /-->
 
 [Br01]: ../assets/images/base/Bnr02a.jpg
-[St00]: ../assets/images/base/00Writer.jpg
+[St01]: ../assets/images/base/01bwinter.jpg
+[St08]: ../assets/images/base/08maiden.jpg
 
-[St01]: ../assets/images/story/Scene05a.jpg
+[St00]: ../assets/images/base/00Writer.jpg
 [St02]: ../assets/images/story/Scene07a.jpg
 [St03]: ../assets/images/story/Scene08a.jpg
 [St04]: ../assets/images/story/Scene09a.jpg
 [St05]: ../assets/images/story/Scene10a.jpg
 [St06]: ../assets/images/story/Scene12a.jpg
 [St07]: ../assets/images/story/Scene15a.jpg
-[St08]: ../assets/images/story/Scene16a.jpg
 [St09]: ../assets/images/story/Scene17a.jpg
 [St10]: ../assets/images/story/Scene18a.jpg
 
