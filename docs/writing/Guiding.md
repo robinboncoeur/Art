@@ -280,7 +280,7 @@ That’s a beautiful, difficult thing for her to do. And it is very Celeste.
 
 [ *Robyn* ]
 
-So, Lauren is holding down the fort. Mara's sister is recovering from knee surgery, takes Celeste along because Mara. I think this should be the intermediary scene before I embark on the airport waiting hall scene, as this is prep for Celeste, who is herself young and while certainly perceptive still has a certain maturity to achieve.
+[The shift to new premises has been completed.] Mara's sister is recovering from knee surgery, [so Mara goes to Tasmania to help her recover], and takes Celeste along, because Mara [has noticed a strain in the relationship between Celeste and Lauren.] I think this should be the intermediary scene before I embark on the airport waiting hall scene, as this is prep for Celeste, who is herself young and while certainly perceptive still has a certain maturity to achieve.
 
 
 
@@ -299,6 +299,8 @@ And Mara is the perfect teacher because she would never announce the lesson.
 ### Why this works
 
 Lauren holding down the fort is excellent. It shows trust. Wardrobe no longer collapses when Mara leaves, and Lauren has become functionally part of the women’s system. That matters.
+
+[Note]: **Lauren has been a key player since her early participation in Wardrobe's growth. He management skills have been well established. She is a member of the Mara-Celeste-Lauren triumverate. Definitely not a bit player.**
 
 Mara taking Celeste to Tasmania also works because it should not feel like “Mara invited Celeste on an emotional development trip.” It should feel like:
 
