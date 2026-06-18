@@ -22,23 +22,33 @@
 
 [ *Brittany* ]
 
-I was on the veranda before the day had quite decided what it wanted to become.
+I was on the veranda before the day had quite decided what it wanted to become. The over-eager aircon got the best of me. Aircon in Thailand seemed to have missed its calling: it should have been cooling the walk-in fridge at the bottle-o.
 
-The kettle had clicked off behind me, the cicadas were still clearing their throats in the trees, and the sky over the garden had that pale Thai blue that made you think 'gentle' until ten o’clock when it went steely.
+So, I sat on the veranda to thaw a bit. Charlotte had stayed up long after I'd crawled into the sheets with her MacBook Air, writing "something for strings", she'd said. She refused to say whether it was the discomfort keeping her awake, insisting she had this theme she wanted to explore. I put a glass and a two a.m. pain-meds dose next to the Air before dropping into bed, exhausted.
 
-I had my sketchbook balanced on one knee and a mug of tea cooling beside the chair. Well, something like tea. It was hot, brown, and forgiving, which ticked a lot of boxes at that hour.
+The kettle clicked off behind me. I stepped back into the cold and poured boiling water into a mismatched cup: it looked to be the most intact of the set.
 
-The line I was drawing refused to behave.
+I took my tea onto the veranda. The heat was there, now, filled with ambition of bigger things to come. I settled into the lounge chair and watched a woman sweep leaves off the footpath below.
+
+The sun wasn't even up yet, and this woman was sweeping leaves already. 
+
+I heard a few cicadas clear their throats in the trees, and the sky over the garden had that pale Thai blue that lied about the clouds gathering in the distance. A moped roared past more noisily than it had any right to. Above my head, the aircon's motor clicked a few times, then stopped. 
+
+I opened my sketchbook and balanced it on one knee, the mug of tea cooling beside the chair.
+
+And drew a line. Or tried to. Rubbed it out, tried again.
+
+But the line I was drawing refused to behave.
 
 I had meant it to be a sleeve.
 
 It had other ideas.
 
-Too full at the shoulder, too apologetic at the wrist. A garment trying to say, I am decorative, when what I needed it to say was, I have a noble purpose: I was *made* for this.
+Too full at the shoulder, too apologetic at the wrist. A garment trying to say, I am decorative, when what I needed it to say was: 
 
-I rubbed it out with the side of my thumb.
+*I have a noble purpose: I was made for this.*
 
-From inside the house came the smallest sound.
+From inside the bungalow came the smallest sound.
 
 Not a footstep. Not properly.
 
@@ -64,7 +74,11 @@ Her voice was quiet, but too bright at the edges.
 
 I knew that brightness. Wardrobe had several drawers full of it. Women used it when they had already decided to be foolishly indispensable and were hoping politeness would get them past the guard.
 
-“Morning,” I said. “You’re up early.”
+“Morning,” I said. “What time did you finally get to bed?”
+
+"Um, not sure."
+
+"So, what are you doing up?"
 
 “I was done sleeping.”
 
@@ -86,7 +100,7 @@ She took another careful step onto the veranda. The boards creaked softly under 
 
 “To town?”
 
-“To Wardrobe.”
+“Home—to Wardrobe.”
 
 I looked at her.
 
@@ -96,7 +110,7 @@ There were many things I could have said. There were many things Celeste would h
 
 But I was not Celeste.
 
-So I said, “Show me how you’d sit at the ledger chair.”
+"Right then," I said, “show me how you’d sit at the ledger chair.”
 
 Charlotte blinked.
 
@@ -106,9 +120,9 @@ Charlotte blinked.
 
 “I can sit.”
 
-“Everyone can sit until they have to get up again.”
+“For how long?”
 
-Charlotte's lips quivered. I closed my eyes for a moment. When I opened them, she'd settled on the split-doughnut seat we'd rigged for her.
+Charlotte's lips slipped to one side. I closed my eyes for a moment. When I opened them, she'd settled on the split-donut cushion we'd rigged for her.
 
 ”You just want to feel like you again, don't you?”
 
@@ -130,49 +144,84 @@ Charlotte shuddered slightly.
 
 I raised my hands.
 
-”One step at a time, Charlotte. Let's focus on you getting your body back to normal. BOne honest movement at a time.”
+”One step at a time, Charlotte. Let's focus on you getting your body back to normal. One honest movement at a time.”
 
 Her eyes closed and her head dipped. 
 
 *Normal.*
 
-”Okay, here's what we do today. Undies. Which are the most comfortable. Boy shorts? Army-issue? Your nan's bloomers?” 
+“Okay,” I said. “Here’s what we do today.”
 
-She snorted, and immediately winced. And then, she rose slowly, like a cat about to stretch. Her lips pressed slightly, then relaxed.
+Charlotte looked up.
+
+“Undies.”
+
+Her expression went blank.
+
+“Which are the most comfortable?” I said. “Boy shorts? Army-issue? Your nan’s bloomers?”
+
+She snorted, then immediately winced.
+
+“Don’t laugh with your abdomen. Rookie error.”
+
+“I’ll try to remember that.”
+
+“See that you do.”
 
 We went inside.
 
-And decided none of them—neither hers nor mine nor even the ones Celeste had sent along—answered crucial questions. She finally pulled off even the shorts she wore. 
+The truth, once examined, was that none of them—neither hers nor mine nor even the ones Celeste had sent along—answered the crucial questions. Too much pressure here. Too much seam there. Elastic with opinions. Lace with delusions of grandeur. Several garments apparently designed by people who believed women’s bodies stopped existing below the navel unless decoration was required.
 
-And then, her face changed.
+Charlotte finally peeled off even the shorts she had slept in, moving with the careful dignity of someone negotiating with gravity.
 
-A quick rummage in the suitcase produced an ancient pair of three-quarter leggings that had put in for retirement in Torquay but had somehow—mysteriously—ended up coming with us. She carefully pulled these aged bits of cotton lycra in place, arranging dressings underneath them.
+And then her face changed.
 
-And honestly beamed.
+Not pain.
 
-Great, so she'd found the solution, but they were a one-off. We needed backups.
+Recognition.
 
-I picked up my cup and then, quickly put it back down.
+A quick rummage in the suitcase produced an ancient pair of three-quarter leggings that had put in for retirement in Torquay but had somehow—mysteriously—come with us. She drew them on slowly, arranging the dressings underneath with the sort of concentration most people reserved for explosives.
 
-”Leave it with me, Charlotte,” I said. ”Back in a tick.”
+The cotton lycra settled where the others had argued.
 
-I knew exactly what I was after: two-times oversized bike shorts, mostly cotton, enough lycra to follow the body and not enough to argue with it. I knew exactly where to find them, too.
+I picked up my cup, then put it down again.
 
-And on the way back to the bungalow, with the paper bag tucked under my arm and my tea long abandoned on the veranda, I had time to find the actual stress-point in the seam.
+“Ah.”
 
-Charlotte was not bored or restless.
+Charlotte looked at me.
 
-I had seen that faraway, almost pained look too many times in Maleny to mistake it for cabin fever. It had appeared whenever Wardrobe was mentioned. Whenever Mara’s name crossed a room. Whenever something reminded her of Celeste or the ledger.
+“I’ve got an idea.”
+
+Her eyebrows rose. “Idea?”
+
+“Leave it with me.”
+
+“Brittany—”
+
+“Back in a tick.”
+
+I knew exactly what I wanted: bike shorts, two sizes too big, mostly cotton, enough lycra to follow the body and not enough to make stupid demands. Something that did not pretend healing was elegant. Something useful. Something kind.
+
+And on the way back to the bungalow, with the paper bag tucked under my arm and my tea long abandoned on the veranda, I found the true stress-point in Charlotte’s emotional seam.
+
+Charlotte was not bored.
+
+She was not restless.
+
+I had seen that faraway, almost pained look too many times in Maleny to mistake it for cabin fever. It appeared whenever Wardrobe was mentioned. Whenever Mara’s name crossed a room. Whenever something reminded her of Celeste, or the ledger, or the chair where she had first been allowed to become necessary without becoming exposed.
 
 That was where her heart had gone.
 
-Wardrobe was not Charlotte’s job. It was where the world had first held still long enough to recognise her.
+Wardrobe was not Charlotte’s job.
+
+It was where the world had first held still long enough to recognise her.
 
 The women. The work. Mara’s rules. The ledger chair. The future itself, organised in columns and pins and signatures.
 
 She missed it with the sort of longing that made recovery feel like exile.
 
 Sehnsucht.
+
 
 
 
@@ -272,7 +321,7 @@ Which, in Wardrobe, was often the beginning of being safe.
 
 
 Gerald Finzi - Three Soliloquies from "Love's Labours Lost"
-✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧 — …
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧👢✨…
 
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  —
 /-->
