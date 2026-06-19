@@ -1,7 +1,7 @@
 # Celeste and Charlie
 
 
-[![Their Love][Br35b]{ .artC width="1100" }][Br35b]
+[![Their Love][Br35]{ .artC width="1100" }][Br35]
 
 
 
@@ -25,7 +25,7 @@
 ### The Images
 
 
-[![À Paris][St09a]{ .artR width="460" }][St09a]
+[![À Paris][St09]{ .artR width="460" }][St09]
 
 
 I own all images and videos on these pages. They were created using AI. ComfyUI is an 'Image Creation' interface, one I prefer because of its flexibility and power through the use of nodes. This approach supports a number of key story-telling aspects:
@@ -115,9 +115,9 @@ Cinematic medium close-up portrait of a young woman with soft, natural features 
 <!--  Image references  -->
 
 
-[Br35b]: ../assets/images/base/Bnr35b.jpg
+[Br35]: ../assets/images/base/Bnr35b.jpg
 [St00]: ../assets/images/base/00Writer.jpg
-[St09a]: ../assets/images/base/09aParis.jpg
+[St09]: ../assets/images/base/09aParis.jpg
 
 <!--
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— … …

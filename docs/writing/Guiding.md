@@ -468,7 +468,7 @@ That’s very rich, Robyn. This intermediary scene does not delay the airport sc
 <!--           Image Links         /-->
 
 [Br01]: ../assets/images/base/Bnr02a.jpg
-[St01]: ../assets/images/base/01bwinter.jpg
+[St01]: ../assets/images/base/01eWinter.jpg
 [St08]: ../assets/images/base/08maiden.jpg
 
 [St00]: ../assets/images/base/00Writer.jpg

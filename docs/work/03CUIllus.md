@@ -15,7 +15,7 @@
 ## Illustrious Realism
 
 
-[![Just...][Sy01]{ .artR width="320" }][Sy01]
+[![Train][Syf1]{ .artR width="320" }][Syf1]
 
 
 by **klaabu**  
@@ -644,7 +644,7 @@ Dpm fast
 [Br02]: ../assets/images/base/Bnr02c.jpg
 [Sy08]: ../assets/images/base/08maiden.jpg
 
-[Sy01]: ../assets/images/base/01train.jpg
+[Syf1]: ../assets/images/base/01ftrain.jpg
 [Sy02]: ../assets/images/base/02music.jpg
 [Sy03]: ../assets/images/base/03mists.jpg
 [Sy04]: ../assets/images/base/04maiden.jpg

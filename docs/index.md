@@ -1,7 +1,7 @@
 # Art and Writing
 
 
-[![Celeste and Charli][Br35c]{ .artC width="1100" }][Br35c]
+[![Celeste and Charli][Br35]{ .artC width="1100" }][Br35]
 
 
 <hr class="section-break strong" />
@@ -17,7 +17,7 @@
 ## Foreword
 
 
-[![Robyn asking Emily writing tips][St00a]{ .artR width="460" }][St00a]
+[![Robyn asking Emily writing tips][St00]{ .artR width="460" }][St00]
 
 
 Welcome. 😊
@@ -86,8 +86,8 @@ I am not writing it to chase a market. I am writing it because the subject matte
 
 <!--  Image references  -->
 
-[Br35c]: assets/images/base/Bnr35c.jpg
-[St00a]: assets/images/base/00Writer.jpg
+[Br35]: assets/images/base/Bnr35c.jpg
+[St00]: assets/images/base/00Writer.jpg
 
 
 <!--

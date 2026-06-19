@@ -6242,7 +6242,8 @@ If you send me your current denoise/CFG and typical aspect ratio, I’ll tailor 
 <!--           Image Links         /-->
 
 [Br02]: ../assets/images/base/Bnr02c.jpg
-[Sy01]: ../assets/images/base/01train.jpg
+
+[Sy01]: ../assets/images/base/01ftrain.jpg
 [Sy02]: ../assets/images/base/02music.jpg
 [Sy03]: ../assets/images/base/03mists.jpg
 [Sy04]: ../assets/images/base/04maiden.jpg
