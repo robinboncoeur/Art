@@ -22,28 +22,23 @@
 
 [ *Celeste* ]
 
-I didn't realise it was still snowing until the plane slowed. The landscape around Hobart was white, but it wasn't until snowflakes began sticking to the window after we'd landed that it delivered the weather report. It wasn't a blizzard, exactly, but it did look like it would stick.
+I didn't realise it was still snowing until the plane slowed. The landscape around Hobart was white, but it wasn't until snowflakes began sticking to the window after we'd landed that it delivered the weather report. It wasn’t a blizzard, of course—this is Hobart, after all—but it had the confidence of weather that meant to be remembered.
 
-I felt the moist cold blowing through the cracks as we walked up the boarding ramp and wished I'd reconsidered my lace dress. Mara was sensibly dressed in an elegant pair of black slacks and cream cardigan under a puffy jacket I thought was a bit overkill until we marched up the ramp. Torquay got cold in the winter, but this was next-level.
+I felt the moist cold blowing through the cracks as we walked up the boarding ramp and wished I'd reconsidered my lace dress, which had seemed respectful in Torquay and idiotic the moment Tasmania touched it. Mara was sensibly dressed in an elegant pair of black slacks and cream cardigan under a puffy jacket I thought was a bit overkill until we marched up the ramp. Torquay got cold in the winter, but this was next-level.
 
 The wait for the Uber was mercifully short.
 
 Mara's eyebrows and pressed lips asked questions I really didn't feel like answering. I suppressed a shiver as I settled into the warm seat.
 
-Mara's sister's place was old: one of the oldest homes in the area. It overlooked Hobart Bay, and backed against dense bush land, which was white with at least a foot of snow, lovely in a picture-postcard sort of way. The inside of the house was dark: deep oak walls and dark-brown leather furniture suggested a man's taste and money. It wasn't until much later that I learned Laurence preferred the terrarium because of the flowers and sunshine, and that Mara's sister had a Dr. Zhivago obsession and had styled the house to feel 'old Russian'. Her successful law practise enabled her to buy the place and turn it into 
+Mara's sister's place was old: one of the oldest homes in the area. It overlooked the Derwent, and backed against dense bushland, which was white with a thin but determined cover of snow, lovely in a picture-postcard sort of way. The inside of the house was dark: deep oak walls and dark-brown leather furniture suggested a man's taste and money. It wasn't until much later that I learned Laurence preferred the terrarium because of the flowers and sunshine, and that Mara's sister had a Dr. Zhivago obsession and had styled the house to feel 'old Russian'. Her successful law practice enabled her to buy the place and turn it into her vision of a Dr. Zhivago estate.
 
+We were greeted at the door by a slightly overweight young woman with a solemn face dressed in a black housekeeper's dress. She thinned her lips into a faint approximation of a smile.
 
-[Dr. Zhivago's house in Leningrad].
-
-
-
-We were greeted at the door by a slightly overweight young woman with a solemn face dressed in black. She thinned her lips into a faint approximation of a smile.
-
-"Please come in. Miss Katya's been expecting you."
+"Please come in. Let me show you to Miss Katya's room."
 
 She waved to an older gentleman who followed us with our luggage and led us past a spotless old-world kitchen—with only minimal concessions to modern conveniences—and the open door to an elegant sitting room. Our footfalls were slightly dampened by the thinnest of old red runner as we made our way down a long, wooden corridor to a door at the end.
 
-She silently opened the door to a large bedroom, decorated with vases and rugs and painting. In the middle of a large bed a slight figure beamed at Mara. Next to her, a man stood writing on a clipboard. He turned to us briefly.
+She silently opened the door to a large bedroom, decorated with vases and rugs and paintings. In the middle of a large bed, a slight figure beamed at Mara. Next to her, a man stood writing on a clipboard. He turned to us briefly.
 
 "Almost done—I'll just be a tick." He turned to the woman on the bed. "Please keep in mind that what we do during my visits is set a path forward. How quickly you heal is entirely up to you." She was nodding, pressing eyelids shut in that "yes, I get it" way I recognised. "Physio is only as effective as you make it."
 
@@ -69,13 +64,11 @@ The solemn young woman accompanied him out of the room. Mara crinkled her nose.
 
 She eyed Mara.
 
-"You're looking well, my dear." She glanced at me. "Please introduce us, won't you?"
-
-I'd been standing quietly at the side, wearing what I hoped was a nice smile not too undone by uncertainty.
+"You're looking well, my dear." She glanced at me. I'd been standing quietly at the side, wearing what I hoped was a nice smile not too undone by uncertainty. "Please introduce us, won't you?"
 
 "Katya, this is Celeste."
 
-"Nice of you to come with Mara, Celeste. I'm Katya." Katya's warmth was genuine.
+"Nice of you to come with Mara, Celeste." Katya's warmth was genuine.
 
 "Thank you. You have a lovely home—" I hesitated.
 
@@ -115,17 +108,17 @@ I settled respectfully into the soft, sweet-smelling dark leather and looked bri
 
 Mara's eyes flicked to her sister.
 
-"Bend your knee."
+"Show me how you bend."
 
-"It hurts!"
+"But it hurts to do so!"
 
 "Not as much as disability. Do it."
 
-Katya puffed, grimaced, bent her knee and winced.
+Katya puffed, grimaced, slowly bent her knee and winced.
 
 "Again."
 
-Katya's head dipped. Bent her knee more slowly. And longer. Mara nodded, once.
+Katya's head dipped. She bent her knee even more slowly. And longer. Mara nodded, once.
 
 "Have either of you eaten?"
 
@@ -133,7 +126,7 @@ Katya's head dipped. Bent her knee more slowly. And longer. Mara nodded, once.
 
 After dinner, I excused myself and went back into the sitting room, choosing Laurence's chair. Dusk was fast approaching: the forest looked oddly lit up by the snow, making the ground look lighter than the sky. 
 
-As I flipped open my laptop, I discovered Katya's home did not have Wi-Fi. I broke out my phone to tether my laptop and saw it was still in 'Airplane' mode, which I switched off. Before I could complete the tether, a message appeared.
+As I flipped open my laptop, I discovered Katya's home did not have Wi-Fi—not because it could not, I suspected, but because Katya had forbidden it. I broke out my phone to tether my laptop and saw it was still in 'Airplane' mode, which I switched off. Before I could complete the tether, a message appeared.
 
 Brittany.
 
@@ -187,51 +180,47 @@ Her eyebrows rose a bit more.
 
 I frowned.
 
-"I just don't want her feeling bad for being late in seeing Charlotte."
+“I just don’t want her feeling bad for being late in seeing Charlotte.”
 
-"Your challenge is a common one, Celeste." I shook my head. "No, it is," she insisted. "Mothers often miss things a partner sees clearly, because the partner doesn't have twenty years of background noise to deal with."
+“Then don’t treat her as though she is made of glass.”
 
-"I just don't want her to feel guilty."
+I looked at her.
 
-"Don't let that disable you. You are trying so hard not to take up Lauren’s space that you’ve stopped standing naturally in your own.”
+“I don’t.”
 
-"How do I—"
+“You do. Kindly. That’s what makes it difficult to correct.”
 
-"Lauren's not made of glass. The best thing you can give to *her* is respect."
+The fire shifted in the grate.
 
-"Right. How?"
+“Lauren is Charlotte’s mother,” I said.
 
-"There's no easy answers. Decide what is a mum thing and a Celeste thing." She tipped her head to one side. "No one can tell you which is which: you'll know, in the moment."
+“Yes.”
 
-The daylight outside the window had gone. A snowflake sat against the glass for a moment, then disappeared.
+“And I’m—”
 
-"She scares me, sometimes, Mara. More than even my mum."
+“Celeste.”
 
-Mara sniffed and ran her thin fingers across her chin.
+I frowned.
 
-"She respects *you*, Celeste. That's all you owe her, but you do owe her that. She will listen to you, and you will need to listen to her."
+“That is not a small thing,” Mara said. “Do not make it smaller because Lauren has a prominent role.”
 
-*No easy answers.*
+“I don’t want to get in her way.”
 
-I closed my laptop.
-
-"I don't want to get in her way. She's Charlotte's mum, after all."
-
-"You both have claims. Neither is more important. Each is different. Both can co-exist."
+“Then stop moving before she reaches you. You both have claims. Neither is more important. Each is different. Both can co-exist."
 
 The sound of footsteps against the thin rug ended with the door creaking open. Solemnity had been replaced with indifference.
 
-"Will there be anything else?"
+"Will you be wanting anything tonight, ladies?"
 
-"We'll be fine, Rhonda. Thank you."
+"We'll be fine. Thank you."
 
 We sat listening to her footfalls recede down the corridor, the front door open and then, slam shut.
 
-"Heartwarming."
+"Charming."
 
 Mara's lips twitched.
 
-"She wasn't born that way," she said. "She made decisions she didn't think she was making."
+"She wasn't born that way," she said. "She's made decisions she didn't think she was making."
 
 "What are you saying?"
 
@@ -243,7 +232,7 @@ A log in the stone fireplace fell, sending sparks onto the hearth.
 
 "I don't see—"
 
-"You will. Lauren has her space in Charlotte's life. You have yours."
+“You will. Lauren has her space in Charlotte’s life. You have yours. The danger is not that one of you will take too much. The danger is that both of you will become so careful that Charlotte has to care for you.”
 
 
 
