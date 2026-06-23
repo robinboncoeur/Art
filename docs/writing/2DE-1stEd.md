@@ -7150,15 +7150,59 @@ A log in the stone fireplace fell deeper into the grate, sending sparks onto the
 [![Img][Sy20]{ .artR width="460" }][Sy20]
 /-->
 
-🌷 🌸 🌺 Visible 🌷 🌸 🌺
+✈️ Melbourne International Waiting Hall ✈️ 
+ 
+[ Celeste ]
 
+She stood with her back to me, facing the doors.
 
+The doors opened. They shut.
 
+Each time they opened, her shoulders stiffened. Each time they shut, her shoulders did not quite ease.
 
+I swallowed and pressed my eyelids together.
 
+Only briefly.
 
+Long enough to feel my chest tighten.
 
+I stepped closer.
 
+Lauren adjusted the strap of her handbag against her shoulder. After a moment, she let her hand fall to her side.
+
+I stared at it.
+
+The waiting hall was crowded, and yet subdued. Bodies shifted around me. Someone brushed against me, too close and too warm. I stepped away from him and towards her.
+
+All I could see was her hand.
+
+Lauren’s hand.
+
+I moved close enough to touch her.
+
+She did not turn.
+
+I slipped my fingers into her warm hand.
+
+Her fingers tensed.
+
+Then she turned.
+
+Our eyes met.
+
+I smiled and reached up, cradling her cheek in my open palm.
+
+Her eyes widened.
+
+Then they filled.
+
+Her lower lip trembled once.
+
+She threw her arms around me.
+
+And clung to me.
+
+And I, to her.
 
 <hr class="section-break strong" />
 

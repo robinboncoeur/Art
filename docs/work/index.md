@@ -1,9 +1,17 @@
-# Site Tech
+# Work: The Site
+
+[![Wardrobe][Br03]{ .artC width="1100" }][Br01]
+
+<hr class="section-break strong" />
+
+
+
+
+
 
 ## Markdown Cheatsheet
 
-<a href="/assets/images/blogs/06-16Office.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/blogs/06-16Office.jpg" alt="Victorian Train-front" width="140" align="left">< /a>
+[![Read][Stb1]{ .artR width="340" }][Stb1]
 
 This site uses MkDocs, which is a superset of markdown. This section will serve as reminder on markdown syntax. As I get information from [Emily](../work/01Emilyai.md) on other tech -- tasks that are more involved -- that tech will be given its own dedicated page.
 
@@ -1060,6 +1068,52 @@ extra:
     - icon: fontawesome/brands/bluesky
       link: https://bluesky.com/_____sveil
 
+
+/-->
+
+
+
+<hr class="section-break strong" />
+
+
+<!--  Image references  -->
+
+[Br02]: ../assets/images/base/Bnr02c.jpg
+[Br03]: ../assets/images/base/Bnr03b.jpg
+
+[Sk00]: ../assets/images/base/00Writer.jpg
+
+[Sk09]: ../assets/images/sketches/09Metaphor.jpg
+[Sk10]: ../assets/images/sketches/10Bitoffun.jpg
+[Sk11]: ../assets/images/sketches/11Giaconda.jpg
+[Sk12]: ../assets/images/sketches/12Chorale.jpg
+[Sk13]: ../assets/images/sketches/13Retraite.jpg
+[Sk14]: ../assets/images/sketches/14Northwind.jpg
+[Sk15]: ../assets/images/sketches/15Waterfall.jpg
+
+[St00]: ../assets/images/base/00Writer.jpg
+
+[Sta1]: ../assets/images/base/01aKaimu.jpg
+[Stb1]: ../assets/images/base/01bRead.jpg
+[Stb1]: ../assets/images/base/01bRead.jpg
+[Ste1]: ../assets/images/base/01eWinter.jpg
+[St09]: ../assets/images/base/09aParis.jpg
+[St10]: ../assets/images/base/10montvl.jpg
+[St12]: ../assets/images/base/12accost.jpg
+[St13]: ../assets/images/base/13donga.jpg
+[St14]: ../assets/images/base/14alice.jpg
+[St15]: ../assets/images/base/15orage.jpg
+[St16]: ../assets/images/base/16flight.jpg
+
+[St08]: ../assets/images/story/Scene08a.jpg
+[St35]: ../assets/images/story/Scene35a.jpg
+[St56]: ../assets/images/story/Scene56a.jpg
+
+<!--
+
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
+
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
 
 /-->
 

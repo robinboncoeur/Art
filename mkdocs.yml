@@ -71,6 +71,10 @@ nav:
       - Video Scripts💛: work/08VScripts.md
       - Ideas to Study: work/09ToStudy.md
 
+  - Discussion:
+      - discuss/index.md
+      - Cherry Picking: discuss/Sodom.md
+
 plugins:
   - search
   - tags

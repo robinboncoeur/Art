@@ -21,13 +21,33 @@ These pieces live in my head when I write.
   <div>
     <p>Kalinnikov: Serenade in G</p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Kalinnikov-Serenade-in-G.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/ytdl/Kalinnikov-SerenadeG.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
 </div>
 
 <hr class="section-break soft" />
+
+
+
+
+
+[![Celeste in Tasmania][Ste1]{ .artL width="160" }][Ste1]
+
+<div class="music-card music-card--with-art">
+  <div>
+    <p>Finzi: Three Soliloquies</p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/ytdl/GFinzi-3Soliloquies.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<hr class="section-break soft" />
+
+
 
 
 
@@ -207,12 +227,42 @@ This is a piece I transcribed from hand-written manuscript. I have been asked to
 </div>
 
 
-<!--   Links    /-->
+## Notes to Self
+
+To add musical pieces to this page, do the following:  
+
+* copy the piece into the 'toserver' folder, optimise in Audacity if needed
+* ssh into server: ssh celestesh@i5seabrae
+* rsync -avhn --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/ytdl/
+* rsync -avh --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/ytdl/
+* ssh -t celestesh@i5Seabrae '
+  sudo find /mnt/seamedia/public/audio/ytdl -type d -exec chmod 755 {} +
+  sudo find /mnt/seamedia/public/audio/ytdl -type f -exec chmod 644 {} +
+'
+
+<hr class="section-break strong" />
+
+
+<!--  Image references  -->
+
+[Br02]: ../assets/images/base/Bnr02c.jpg
+
+[Sk00]: ../assets/images/base/00Writer.jpg
+
+[Sk09]: ../assets/images/sketches/09Metaphor.jpg
+[Sk10]: ../assets/images/sketches/10Bitoffun.jpg
+[Sk11]: ../assets/images/sketches/11Giaconda.jpg
+[Sk12]: ../assets/images/sketches/12Chorale.jpg
+[Sk13]: ../assets/images/sketches/13Retraite.jpg
+[Sk14]: ../assets/images/sketches/14Northwind.jpg
+[Sk15]: ../assets/images/sketches/15Waterfall.jpg
 
 [St00]: ../assets/images/base/00Writer.jpg
 
 [Sta1]: ../assets/images/base/01aKaimu.jpg
 [Stb1]: ../assets/images/base/01bRead.jpg
+[Stb1]: ../assets/images/base/01bRead.jpg
+[Ste1]: ../assets/images/base/01eWinter.jpg
 [St09]: ../assets/images/base/09aParis.jpg
 [St10]: ../assets/images/base/10montvl.jpg
 [St12]: ../assets/images/base/12accost.jpg
@@ -225,5 +275,10 @@ This is a piece I transcribed from hand-written manuscript. I have been asked to
 [St35]: ../assets/images/story/Scene35a.jpg
 [St56]: ../assets/images/story/Scene56a.jpg
 
+<!--
 
-<hr class="section-break strong" />
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
+
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
+
+/-->

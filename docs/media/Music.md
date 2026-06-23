@@ -852,9 +852,17 @@ I'm still writing for the "orchestra" but I do feel like I'm getting a better re
 
 
 	
+## Notes to Self
 
+To add musical pieces to this page, do the following:  
 
-<!--   Image Links   /-->
+* copy the piece into the 'toserver' folder, optimise in Audacity if needed
+* ssh into server: ssh celestesh@i5seabrae
+* rsync -avhn --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/ytdl/
+* rsync -avh --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/ytdl/
+* sudo chown -R celestesh:celestesh celestesh@i5Seabrae:/mnt/seamedia/public/audio/ytdl/.
+
+<!--  Image references  -->
 
 [Br02]: ../assets/images/base/Bnr02c.jpg
 
@@ -868,6 +876,17 @@ I'm still writing for the "orchestra" but I do feel like I'm getting a better re
 [Sk14]: ../assets/images/sketches/14Northwind.jpg
 [Sk15]: ../assets/images/sketches/15Waterfall.jpg
 
-<hr class="section-break strong" />
 
-[Back to the Main Page](../index.md)
+
+
+
+
+<!--
+
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
+
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
+
+/-->
+
+<hr class="section-break strong" />
