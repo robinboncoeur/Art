@@ -13,109 +13,79 @@
 
 
 
-## Touch Opening
+## Homecoming
 
 
 [![The Writer][St00]{ .artR width="460" }][St00]
 
 
 
-[ *Celeste* ]
+[ *Charlotte* ]
 
-She stood with her back to me, facing doors that opened and shut before her, her shoulders stiffening with each opening and not quite relaxing when they shut.
+I awoke with a start, and glanced to my left. Brittany was grinning at me.
 
-I swallowed, pressing my eyelids together—briefly, my chest tightening.
+"Was I drooling?"
 
-And stepped closer.
+She tucked her shoulders in, trying not to giggle.
 
-She adjusted the strap of her handbag against her shoulder, then brought her hand down to her side. In control, and helpless, at the same time. I stared at her hand.
+"Not gonna say. We're going to land soon."
 
-The Melbourne airport international waiting hall was crowded, and yet, subdued. Someone—probably male, judging by the odour—brushed against me. I stepped away from the odour and towards her. 
+I stilled.
 
-All I could see was that hand.
+Celeste.
 
-Lauren's hand.
+Mum.
 
-I moved close enough to touch her. 
+I winced: the left cheek was aching from having to do the work of two. I slowly moved to the centre, still feeling Brittany's eyes on me.
 
-She didn't turn.
+"You *can* have some meds now. I saved you some water."
 
-I slipped my fingers into her warm hand. 
+"You're a legend, Brittany!"
 
-Her fingers tensed as she turned.
+"I  know." She handed me tablets and an almost-full cup of tepid water. "Down the hatch!"
 
-Our eyes met.
+I reached for it carefully and pulled it across. Not tight. Not properly tight.
 
-My lips curved as I reached up and cradled her cheek in my open palm.
+Her raised brows softened into a question.
 
-Her widening eyes instantly went wet. Her lower lip quivered slightly, then precipitously, she threw her arms around me.
+"Surgery," Brittany said.
 
-And clung to me. 
+Understanding came at once. The flight attendant lifted one hand.
 
-And I, to her.
+“That’s fine. Just like that,” she said gently.
 
+She tested the belt tension with her fingers, then nodded.
 
+“That’s tight enough.”
 
----
+I gave her what I hoped was a grateful smile, rocking slowly onto the other cheek and hoping the meds would kick in before the wheels hit the ground.
 
-✈️ Melbourne International Waiting Hall ✈️ 
-
-[ *Celeste* ]
-
-
-She stood with her back to me, facing the doors.
-
-They opened. They shut.
-
-Each time they opened, her shoulders stiffened. Each time they shut, her shoulders did not quite ease.
-
-I swallowed and pressed my eyelids together.
-
-Only briefly.
-
-Long enough to feel my chest tighten.
-
-I stepped closer.
-
-Lauren adjusted the strap of her handbag against her shoulder. After a moment, she let her hand fall to her side.
-
-I stared at it.
-
-The waiting hall was crowded, and yet subdued. Bodies shifted around me. Someone brushed against me, too close and too warm. I stepped away from him and towards her.
-
-All I could see was her hand.
-
-Lauren’s hand.
-
-I moved close enough to touch her.
-
-She did not turn.
-
-I slipped my fingers into her warm hand.
-
-Her fingers tensed.
-
-Then she turned.
-
-Our eyes met.
-
-I smiled and reached up, cradling her cheek in my open palm.
-
-Her eyes widened.
-
-Then they filled.
-
-Her lower lip trembled once.
-
-She threw her arms around me.
-
-And clung to me.
-
-And I, to her.
+*Try not to think about it.*
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Celeste saw me first.
+
+Her hand went to her mouth.
+
+Mum was beside her, already moving.
+
+And all at once I stopped being brave.
 
 
 <!--           Image Links         /-->
