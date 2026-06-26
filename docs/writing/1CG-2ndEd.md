@@ -1666,7 +1666,7 @@ For now—this was enough.
 
 Lauren Rossignol didn't come to Wardrobe like a mother arriving at a principal's office.
 
-There was none of that fragile anger, none of that flustered indignation. She came as if she'd spent a long time deciding what she would and wouldn't say, and had finally settled on the only language style that always worked: calm, measured, consequential. 
+There was none of that fragile anger, no flustered indignation. She came as if she'd spent a long time deciding what she would and wouldn't say, and had finally settled on the only language style that always worked: calm, measured, consequential. 
 
 She stood just inside the doorway with a canvas tote on her shoulder and her car keys in her hand, the metal biting gently into her fingers as if to keep her anchored. Her hair was pulled back too tightly for vanity.
 
