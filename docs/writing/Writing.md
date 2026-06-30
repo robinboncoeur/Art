@@ -22,163 +22,154 @@
 
 [ *Charlotte* ]
 
-I awoke with a start. The world had changed: it was tilting downward now. The rumble of the engines was quieter, as if to reassure everyone that we were almost there. I wiggled my toes, then my feet, and glanced to my left. Brittany was grinning at me.
+I had just finished sticking the last pin behind my head and thinking my hair needed something doing when Celeste appeared in the mirror wearing a question mark.
 
-"Was I drooling?"
+"Really?"
 
-She tucked her shoulders in, trying not to giggle.
+"Celeste—"
 
-"Not gonna say. We're going to land soon."
+"No, seriously. You honestly think you should?"
 
-I stilled.
+I put down the hairbrush and turned to face her. I saw care and concern in her face, but not a trace of any confidence that I was as ready as I thought. My shoulders sagged slightly.
 
-*Celeste.*
+"But, I want to see the new Wardrobe!"
 
-*Mum.*
+Her mouth slipped slightly to one side as she studied me. Finally, she nodded.
 
-I sat back and winced: the left cheek was aching from having to do the work of two. I slowly moved to the centre, still feeling Brittany's eyes on me.
+"Okay. Half day, Charlotte."
 
-"A bit sore, hey? Look, you *can* have something now. I saved you some water."
+"Half—"
 
-I pulled my face into what I hoped said thanks.
+"That's it, take it or leave it," she said, picking up her keys. "And bring your meds. And no lifting. No hanging costumes on rails."
 
-"You're a legend, Brittany!"
+"Sorting pins okay?"
 
-"I know." She handed me some tablets and an almost-full cup of tepid water. "Down the hatch!"
+In the car, I focused on looking out my window so Celeste couldn't see my face.
 
-I swallowed tablets and water and stared past Brittany. Outside the window, the clouds flitted past. At times, I could make out low hills bordered by grey patches of barren trees, partly hidden by fog.
+"A bit more uncomfortable than you thought it would be?"
 
-I seemed to see Celeste's face smiling at me. 
+"How can you tell?"
 
-My throat tightened.
+"The way you're sitting, for one. Your breathing, for two. You sure this is a good idea?"
 
-"Excuse me."
+I shifted in my seat.
 
-I turned. A flight attendant was pointing at my waist.
+"Please, Celeste. I want to," I whispered.
 
-""You'll need to make it a bit tighter. Sorry."
+The new Wardrobe building was a two-storey structure with a large carpark. Across the road was a waterfront park with stainless-steel barbies, gazebos and concrete footpaths. Even though the sun had decided to have a sleep-in behind clouds, it didn't feel all that cold. It was a welcome change from the stuff heat of Thailand. 
 
-I pulled at the strap slowly—carefully—biting my lip.
+I got gingerly out of the car and followed Celeste to the front door. It was already unlocked: Mara was switching on steam press and lights as we entered. Her eyebrows rose slightly as she looked at me, and then, glanced at Celeste.
 
-The flight attendant's raised brows softened into a question.
+Who shrugged.
 
-"Surgery," Brittany said.
+"She insisted."
 
-Understanding came at once. The flight attendant lifted one hand.
+Mara pointed at an old MacBook laptop next to my chair.
 
-“That’s fine. Just like that,” she said gently. She leaned over and tested the belt tension with her fingers. “That’s tight enough.”
+"Your ledger, now. Lisa wanted everyone to see her work, even when at home." 
 
-I gave her what I hoped was a grateful smile, shifting slowly onto the other cheek and hoping the tablets would start working before the wheels hit the ground. 
+The door creaked open. Sarah and Mum didn't notice me at first, but headed straight towards the tearoom, chattering about the price of the wool bolts that were coming later that morning.
 
-The aircraft slowed further and the soft rumble grew a bit louder.
+Suddenly Mum stopped and stared at me, her mouth open.
 
-*Mum.*
+I heard Celeste sigh.
 
-My breath came out in a sigh—I remembered feeling her arms around me at the café, the sort of warm, tight hug that I'd never felt before from her. I thought of her eyes. My shoulders rose against the cold grasp of doubt.
+"Charlotte insisted, Lauren."
 
-*How would she really see me, now?*
+Mum's lips pressed together and she shook her head.
 
-The aircraft shuddered as gears ground underfoot. My stomach tensed—the familiar pain came and went, then came back sharper when a thunk announced the landing gear was down.
+"Same Charlotte as ever, aren't you?" she said softly. "Indispensable..."
 
-I didn't want to look at Brittany and have her see me. 
+"Mum."
 
-I didn't have to see her to hear her.
+"We're doing a half-day today, Lauren," Celeste said. "Shorter, if it comes to that."
 
-*Try not to think about it.*
 
-I was trying not to.
+---
 
-In the distance, the land was a lot closer. Buildings and roads and even trucks and cars and then, suddenly, the airport taxiway raced by. I closed my eyes and gritted my teeth.
+[ *Charlotte* ]
 
-The nose of the aeroplane tilted forward and the engines roared. 
+I had just finished sticking the last pin behind my head, and was thinking my hair needed something done to it, when Celeste appeared in the mirror wearing a question mark.
 
-I hadn't even felt the wheels touch down.
+"Really?"
 
-When the roar softened, Brittany touched my arm.
+"Celeste—"
 
-"There's no rush getting off the plane, Charlotte," she said. "We'll just sit tight and wait, okay? Give those tablets a bit more time to work."
+"No, seriously. You honestly think you should?"
 
-I nodded and leaned back in the seat. I so wanted to see Celeste's face, to feel her arms around me, but Brittany was right. As usual. She'd been right so much in Thailand that a shrug and an "okay" just saved time. I stared at her now, and swallowed. 
+I put down the hairbrush and turned to face her. I could see care in her face, and concern, but not a trace of confidence that I was as ready as I thought I was. My shoulders sagged slightly.
 
-"What would I have done without you, Brittany?"
+"But I want to see the new Wardrobe."
 
-She give her lips a tiny squeeze.
+Her mouth slipped to one side as she studied me. Finally, she nodded.
 
-"You did the hard bit, Charlotte." Her smile broadened. "I just held your hat."
+"Okay. Half day, Charlotte."
 
-Finally, with a gentle rocking motion the aeroplane came to a stop. Seatbelts clicked noisily as people jumped to their feet and luggage compartments popped open. I felt excited and yet, a bit numb at the same time.
+"Half—"
 
-*Was it worth it?*
+"That's it. Take it or leave it." She picked up her keys. "And bring your meds. And no lifting. No hanging costumes on rails."
 
-An older woman stood in the aisle next to me, her hand firmly grasping her carry-on's handle. She was staring intently at the door, as if willing it to open. Someone bumped her from behind.
+"Sorting pins okay?"
 
-"Oh, sorry ma'am."
+She gave me a look.
 
-The voice behind her was loud and male and clearly not Australian. She directed a brief smile that lacked sincerity at him, then turned back to the front, her shoulders easing noticeably as the door of the aeroplane finally swung open. I could see her lips tighten as the voice's owner crowded in behind her. His aftershave—the sort that would survive anything from a workout at the gym to a foot race—seemed to invade the aircraft, lingering long after the man—who must have bathed in it—had left.
+“Charlotte. Being useful is not a medical plan.”
 
-I glanced back. The aisle was empty, so I carefully rose out of my seat. 
+In the car, I focused on looking out my window so Celeste couldn't see my face.
 
-During the flight, Brittany had pushed me out of my seat several times during the flight—"You need to *move*, girlfriend!"  Each time was more agonising than the time before, so I was surprised that getting up this time was quite bearable.
+"A bit more uncomfortable than you thought it would be?"
 
-She grinned.
+"How can you tell?"
 
-"I gave you something a bit stronger," she said, "so you can get to the car without falling into a heap on the way."
+"The way you're sitting, for one. Your breathing, for two." She glanced across at me. "You sure this is a good idea?"
 
-I nodded, suddenly feeling somewhat dizzy.
+I shifted in my seat, then wished I hadn't.
 
-"Feeling it a bit?"
+"Please, Celeste. I want to."
 
-I nodded.
+The new Wardrobe building was a two-storey structure with a large carpark. Across the road was a waterfront park with stainless-steel barbies, gazebos, and concrete footpaths. Even though the sun had decided to have a sleep-in behind clouds, it didn't feel all that cold. It was a welcome change from the stuffy heat of Thailand.
 
-"I'll be right," I said and reached up to pull my bag down from the luggage rack.
+I got carefully out of the car and followed Celeste to the front door. It was already unlocked. Mara was switching on the steam press and lights as we entered. Her eyebrows rose slightly when she saw me, and then she glanced at Celeste.
 
-"Nuh-uh! No you don't."
+Celeste shrugged.
 
-She eased my hands to my side, then pulled my carry-on into the aisle and flipped the handle into my hand.
+"She insisted."
 
-"Ready, petal? We've got a bit of a walk ahead of us."
+Mara looked at me for a moment, then pointed at an old MacBook beside my chair.
 
-We moved to the exit. Even in the growing drug-haze I remembered to smile at the flight attendant.
+"Your ledger, now. Lisa wanted everyone to see her work, even from home."
 
-"Thank you so much!"
+I swallowed.
 
-"Get well soon," she said.
+"She didn't have to do that."
 
-Customs seemed to take forever. As it does.
+"She knows."
 
-And then, we were finally walking towards the exit. I could feel a pounding in my chest and hear it in my ears.
+The door creaked open. Sarah and Mum didn't notice me at first, but headed straight towards the tearoom, chattering about the price of the wool bolts arriving later that morning.
 
-"Easy, there, Charlotte."
+Then Mum stopped.
 
-My feet moved as if by remote control. We exited. 
+She stared at me, her mouth open.
 
-The waiting hall was busy, people everywhere. 
+I heard Celeste sigh.
 
-Hugging. Laughing. Crying. 
+"Charlotte insisted, Lauren."
 
-I turned slowly to Brittany.
+Mum's lips pressed together, and she shook her head.
 
-She was smiling broadly, but not at me. 
+"Same Charlotte as ever, aren't you?" she said softly. "Indispensable..."
 
-I looked for familiar faces.
+"Mum."
 
-And found them.
+"We're doing a half-day today, Lauren," Celeste said. "Shorter, if it comes to that."
 
-Celeste saw me first.
 
-Her hand went to her mouth.
 
-I wanted to run to her. 
 
-And then, I saw Mum.
 
-Mum was smiling at me. Her eyes were shining.
+---
 
-She was standing next to Celeste, with an arm around her waist.
 
-I let go of a breath I didn't know I was holding.
-
-I didn't have to be brave anymore.
 
 
 
