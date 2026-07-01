@@ -97,23 +97,28 @@ I had just finished sticking the last pin behind my head, and was thinking my ha
 
 "No, seriously. You honestly think you should?"
 
-I put down the hairbrush and turned to face her. I could see care in her face, and concern, but not a trace of confidence that I was as ready as I thought I was. My shoulders sagged slightly.
+I put down the hairbrush and turned to face her. I could see care in her face, and concern, but no trace of confidence that I was as ready as I thought I was. My shoulders sagged slightly.
 
 "But I want to see the new Wardrobe."
 
+Her eyebrows rose. Somehow, she managed the over-the-glasses look without glasses.
+
+"You don't get extra womanhood points for pretending pain is an old friend."
+
+My lips bunched before I could stop them.
+
+"Look, I'll just sit. Like, at the ledger." I found her eyes. "Please?"
+
 Her mouth slipped to one side as she studied me. Finally, she nodded.
 
-"Okay. Half day, Charlotte."
+"Right then." She shook her head once, doubt still lingering on her face. "Half day, Charlotte."
 
 "Half—"
 
-"That's it. Take it or leave it." She picked up her keys. "And bring your meds. And no lifting. No hanging costumes on rails."
+"That's it. Take it or leave it." She picked up her keys. "And bring your meds. And no lifting. No hanging costumes on rails. You’re confined to the ledger."
 
-"Sorting pins okay?"
-
-She gave me a look.
-
-“Charlotte. Being useful is not a medical plan.”
+Fin: 02-Jul-2:43am
+--- 
 
 In the car, I focused on looking out my window so Celeste couldn't see my face.
 
