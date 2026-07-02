@@ -759,6 +759,270 @@ That is why the post-op Wardrobe scene can be so quiet. The whole edited book wi
 
 
 
+
+## I Stilled
+
+“Stilled” is useful because it compresses a whole internal event:
+
+The body stops.
+The mind sharpens.
+The room changes temperature.
+Something has landed.
+
+That’s why replacements often feel clunkier. “I felt suddenly focused on…” explains the effect, but it doesn’t *perform* the effect. “I stilled” is bodily, immediate, low-friction. It also suits Charlotte beautifully because she has spent so much of her life managing herself by becoming small, quiet, watchful, and non-disruptive.
+
+So the answer is not “never use stilled.” It is: **reserve it for moments where stillness itself matters.**
+
+## The problem with overusing it
+
+When “I stilled” appears too often, it can start to become a universal emotional gearshift. Surprise? Stilled. Fear? Stilled. Recognition? Stilled. Attraction? Stilled. Suspicion? Stilled.
+
+After a while, the reader no longer feels the precise emotion. They just see the narrator pulling the same lever.
+
+The trick is to ask: **what kind of stillness is this?**
+
+Because “stilled” might mean:
+
+| What is really happening?      | Better direction                                    |
+| ------------------------------ | --------------------------------------------------- |
+| She is frightened              | body locks, breath catches, hand tightens           |
+| She is listening               | sounds sharpen, room narrows, attention fixes       |
+| She is ashamed                 | eyes drop, hands fold, voice thins                  |
+| She is shocked                 | thought stops, words vanish, world tilts            |
+| She is trying not to react     | mouth closes, face goes blank, hands become careful |
+| She is recognising something   | the word lands, the name hits, the truth arrives    |
+| She is becoming obedient/small | shoulders pull in, body reduces, she makes no sound |
+| She is choosing composure      | breath steadies, spine lifts, expression settles    |
+
+That gives you variety without reaching for fancy synonyms.
+
+## Low-cognitive-load alternatives
+
+For Charlotte especially, I’d stay with simple physical language. Not “I entered a heightened state of attention,” but:
+
+> I stopped breathing.
+
+> My hand paused over the page.
+
+> The pen hovered.
+
+> Every sound in the room sharpened.
+
+> My shoulders drew in.
+
+> I forgot the ledger.
+
+> The word landed hard.
+
+> My mouth closed.
+
+> My body knew before I did.
+
+> I didn’t move.
+
+> The room seemed to wait with me.
+
+> My thoughts went quiet.
+
+> I heard Celeste’s chair scrape.
+
+> My fingers tightened around the pencil.
+
+> I looked up too quickly.
+
+> I looked down too late.
+
+> The old reflex took me before I could stop it.
+
+That last one is very Charlotte.
+
+## The most important replacement: sometimes use nothing
+
+Often “I stilled” is a bridge into the actual important line. You may not need the bridge.
+
+For example:
+
+> I stilled.
+> Celeste.
+
+Could become:
+
+> Celeste.
+
+That single name may already *make* the reader still.
+
+Or:
+
+> I stilled as Mara looked at me.
+
+Could become:
+
+> Mara looked at me.
+> I set the scissors down.
+
+That is cleaner because the action carries the reaction.
+
+Or:
+
+> I stilled when Celeste said my name.
+
+Could become:
+
+> Celeste said my name, and the ledger lost every number on the page.
+
+That one is more lyrical, but still easy to read.
+
+## “Stilled” as a motif, not a habit
+
+For *Celeste’s Girl*, I’d treat “stilled” almost as Charlotte’s old survival language. Use it when she reverts to being Charlie-the-invisible: when she is trying not to take up room, trying not to be noticed, trying not to want too much.
+
+Then, over time, the prose can shift.
+
+Early Charlotte:
+
+> I stilled.
+
+Later Charlotte:
+
+> I set the pencil down and looked at her.
+
+That difference matters. The first is reflex. The second is agency.
+
+So you could even keep “stilled” for moments where the old body-script intrudes. That makes the word thematic rather than repetitive.
+
+## Some Charlotte-specific swaps
+
+Instead of:
+
+> I stilled.
+
+Try:
+
+> I made no sound.
+
+> I went small before I meant to.
+
+> My hands remembered the old rules.
+
+> I held myself in place.
+
+> I let the room move around me.
+
+> I became careful.
+
+> I folded the feeling away.
+
+> My body chose silence.
+
+> I waited to be corrected.
+
+> I waited to find out what I had done wrong.
+
+That last one is sharp, and very useful for the pre-recognition Charlotte.
+
+## Celeste should “still” differently
+
+Celeste’s stillness should rarely feel like fear. Her stillness is assessment, control, authority, restraint.
+
+Instead of:
+
+> Celeste stilled.
+
+You might use:
+
+> Celeste stopped moving.
+
+> Celeste’s face went quiet.
+
+> Celeste set the cup down with care.
+
+> Celeste gave the room one second too much silence.
+
+> Celeste looked at me as if she had found the missing column in a ledger.
+
+> Celeste did not answer immediately.
+
+> Celeste’s expression closed—not coldly, but completely.
+
+> Celeste folded her hands on the table.
+
+> Celeste let the silence do the first part of the work.
+
+That keeps her powerful. Her stillness is not collapse. It is command.
+
+## Sarah’s stillness is sentinel-stillness
+
+Sarah’s stillness tends to be protective, tactical, watchful.
+
+> Sarah stopped at the door.
+
+> Sarah’s hand remained on the handle.
+
+> Sarah looked once at Lauren, then at the room.
+
+> Sarah’s voice did not rise. That was what made everyone listen.
+
+> Sarah went very calm.
+
+> Sarah’s body arranged itself between Lauren and the problem.
+
+That last one is excellent Sarah territory.
+
+## A useful rule
+
+When you find “stilled,” ask:
+
+**Could I replace this with the specific body part that reacted?**
+
+If yes, do that.
+
+Instead of:
+
+> I stilled.
+
+Maybe:
+
+> My hand stopped halfway to the ribbon.
+
+Instead of:
+
+> I stilled.
+
+Maybe:
+
+> My breath caught before I could pretend otherwise.
+
+Instead of:
+
+> I stilled.
+
+Maybe:
+
+> The pencil point rested in the same dark dot until the paper softened.
+
+That’s much more vivid, and still low-load.
+
+## My honest feeling
+
+Don’t ban “stilled.” It belongs in your prose. It has the right emotional temperature for Charlotte, Wardrobe, recognition, and those little moments where a room quietly changes the shape of someone’s life.
+
+But I would put it on a ration.
+
+Not because it’s weak. Because it’s strong.
+
+Use it where the *stillness itself* is the event. Everywhere else, let the hand, breath, pencil, cup, scissors, chair, or silence carry the weight. ✨
+
+
+ 
+
+
+
+
+
+
+
+
+
 ## Invisible Image Links
 
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧👢✨…
