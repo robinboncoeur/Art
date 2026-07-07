@@ -45,6 +45,18 @@ These pieces live in my head when I write.
   </div>
 </div>
 
+---
+
+<div class="music-card music-card--with-art">
+  <div>
+    <p>Finzi: Third Soliloquy</p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/music.Soliloquy3b.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
 <hr class="section-break soft" />
 
 
@@ -70,11 +82,32 @@ These pieces live in my head when I write.
 
 
 
+[![Celeste à Paris][St13]{ .artL width="160" }][St13]
+
+<div class="music-card music-card--with-art">
+  <div>
+    <p>Finzi: Prelude Op.25</p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/ytdl/Finzi-Prelude25.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<hr class="section-break soft" />
+
+
+
+
+
+
+
+
 [![Donga Call][St13]{ .artL width="160" }][St13]
 
 <div class="music-card music-card--with-art">
   <div>
-    <p>Elgar—Minuet</p>
+    <p>Elgar: Minuet</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://media.seabrae.org/audio/ytdl/Elgar-Minuet.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -270,6 +303,7 @@ To add musical pieces to this page, do the following:
 [St14]: ../assets/images/base/14alice.jpg
 [St15]: ../assets/images/base/15orage.jpg
 [St16]: ../assets/images/base/16flight.jpg
+[St17]: ../assets/images/base/17Cafe.jpg
 
 [St08]: ../assets/images/story/Scene08a.jpg
 [St35]: ../assets/images/story/Scene35a.jpg
