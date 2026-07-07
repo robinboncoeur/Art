@@ -51,7 +51,7 @@ These pieces live in my head when I write.
   <div>
     <p>Finzi: Third Soliloquy</p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/music.Soliloquy3b.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/music/Soliloquy3b.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
