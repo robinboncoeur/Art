@@ -1,5 +1,18 @@
 # Aura
 
+[![Wrong Door][St56]{ .artL width="160" }][St56]
+
+<div class="music-card music-card--with-art">
+  <div>
+    <p>The Wrong Door</p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoor.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+
 <hr class="section-break strong" />
 
 
@@ -53,7 +66,7 @@ These pieces live in my head when I write.
 
 *Note*: **this is the Reaper 'performance' of the third Soliloquy. What was involved was converting notes on a page to a score in MuseScore 4, exporting that to Reaper, and then, slowly asking the libraries to bring it to life. At this stage — 8-Jul — still not done, but one can get a sense for what it will sound like, eventually.**
 
-[![Celeste in Tasmania][St29]{ .artL width="160" }][St29]
+[![Waiting at the Train][St29]{ .artL width="160" }][St29]
 
 <div class="music-card music-card--with-art">
   <div>
@@ -198,7 +211,7 @@ These pieces live in my head when I write.
 
 
 
-[![Missing Her][St56]{ .artL width="160" }][St56]
+[![Missing Her][St28]{ .artL width="160" }][St28]
 
 <div class="music-card music-card--with-art">
   <div>
@@ -315,6 +328,7 @@ To add musical pieces to this page, do the following:
 [St29]:  ../assets/images/base/29Charlotte.jpg
 
 [St08]: ../assets/images/story/Scene08a.jpg
+[St28]: ../assets/images/story/Scene28a.jpg
 [St35]: ../assets/images/story/Scene35a.jpg
 [St56]: ../assets/images/story/Scene56a.jpg
 
