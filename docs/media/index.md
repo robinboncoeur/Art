@@ -45,7 +45,15 @@ These pieces live in my head when I write.
   </div>
 </div>
 
----
+<hr class="section-break soft" />
+
+
+
+
+
+*Note*: **this is the Reaper 'performance' of the third Soliloquy. What was involved was converting notes on a page to a score in MuseScore 4, exporting that to Reaper, and then, slowly asking the libraries to bring it to life. At this stage — 8-Jul — still not done, but one can get a sense for what it will sound like, eventually.**
+
+[![Celeste in Tasmania][St29]{ .artL width="160" }][St29]
 
 <div class="music-card music-card--with-art">
   <div>
@@ -304,6 +312,7 @@ To add musical pieces to this page, do the following:
 [St15]: ../assets/images/base/15orage.jpg
 [St16]: ../assets/images/base/16flight.jpg
 [St17]: ../assets/images/base/17Cafe.jpg
+[St29]:  ../assets/images/base/29Charlotte.jpg
 
 [St08]: ../assets/images/story/Scene08a.jpg
 [St35]: ../assets/images/story/Scene35a.jpg
