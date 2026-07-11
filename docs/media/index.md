@@ -26,14 +26,15 @@ Updated: 11-July-2026, 1430
   <div>
     <p>The Wrong Door</p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/BRfP6tqMftxTwWf/download" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoorC.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
 </div>
 
 <!--
-https://cloud.seabrae.org/index.php/s/BRfP6tqMftxTwWf
+KEEP AS EXAMPLE FOR NEXTCLOUD
+<source src="https://cloud.seabrae.org/index.php/s/BRfP6tqMftxTwWf/download" type="audio/mpeg">
 /-->
 
 <hr class="section-break strong" />
