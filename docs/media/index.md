@@ -8,7 +8,7 @@ Updated: 11-July-2026, 1000
 
 <div class="music-card music-card--with-art">
   <div>
-    <p>The Wrong Door</p>
+    <p>The Wrong Door - B</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoorB.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -24,7 +24,7 @@ Updated: 11-July-2026, 1430
 
 <div class="music-card music-card--with-art">
   <div>
-    <p>The Wrong Door</p>
+    <p>The Wrong Door - C</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoorC.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -40,7 +40,7 @@ Updated: 11-July-2026, 2230
 
 <div class="music-card music-card--with-art">
   <div>
-    <p>The Wrong Door</p>
+    <p>The Wrong Door - D</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoorD.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
