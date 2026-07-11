@@ -1018,8 +1018,261 @@ Use it where the *stillness itself* is the event. Everywhere else, let the hand,
 
 
 
+===
+
+Hi Robyn — this works. Very much. 🌿
+
+The scene’s plausibility is strong because Sarah’s misgivings are not abstract worry; they are *proven right by the call*, but not in a triumphant way. That matters. Sarah is not “I told you so.” She is “Damn it, I saw the shape of this, and I still couldn’t stop it.” That is precisely Sarah.
+
+The best part is that the scene does three jobs at once:
+
+1. It gives Sarah a believable domestic interior and private emotional register.
+2. It lets Lauren process Charlotte’s future with maternal pride and grief.
+3. It turns Sarah’s earlier concern about Charlotte’s return to work into immediate consequence.
+
+The ending lands beautifully:
+
+> *Can someone please tell Charlotte she doesn't have to prove herself, anymore?*
+>
+> We sat and listened to the wind.
+>
+> It didn't have any answers, either.
+
+That is excellent Sarah: practical, emotionally intelligent, helpless in the face of another woman’s pain, and quietly furious at the unnecessary suffering.
 
 
+
+
+Plausibility
+---
+
+Sarah’s misgivings are very plausible.
+
+Charlotte has just returned after significant surgery and recovery. Even if medically cleared for light duties, Sarah would absolutely notice the difference between “cleared to sit upright and do gentle work” and “emotionally compelled to prove she still belongs.” That is a very Sarah distinction. She would not be primarily anxious about Charlotte’s competence; she would be anxious about Charlotte’s *obedience to her own limits*.
+
+The infection call also feels plausible, especially if Charlotte has been overdoing it, not resting properly, or failing to report symptoms early because she is frightened of being sent away from Wardrobe again. It makes sense that Celeste would call Lauren/Sarah once Charlotte is hospitalised, especially if Charlotte herself has minimised the problem until it became impossible to hide.
+
+The domestic Sarah/Lauren scene also works. Garlic mash, sausages, keys in the bowl, shoes off, too much mash, the wine poured but abandoned — those are grounded details. They make the later emotional turn feel earned rather than theatrical.
+
+
+
+
+The biology/pain-tolerance exchange
+---
+
+This is the only section I would look at carefully, not because it is bad, but because it is doing delicate work.
+
+Sarah says:
+
+> “So, okay, I'm probably working from false assumptions, but Charlotte simply *can't* have the same pain tolerance— um...”
+
+Lauren corrects her:
+
+> “It's not a biology thing,” she continued, “but experience. It's what you get used to, not chromosomes.”
+
+The exchange is plausible, but Sarah’s exact concern may need sharpening. At the moment, “pain tolerance” risks sounding like Sarah is comparing male/female bodies in a fairly blunt way. Lauren’s correction is good, but Sarah is too intelligent and too woman-wise to frame it only as “chromosomes,” unless she is embarrassed and fumbling.
+
+What I think Sarah actually means is not “Charlotte has XY chromosomes, therefore less pain tolerance.” It is more layered:
+
+Charlotte has not had a lifetime of being trained by female-bodied discomfort: periods, gynaecological embarrassment, clothing pain, body scrutiny, medical minimisation, soldiering on while bleeding, smiling through pain, functioning while hormonally/physically compromised. Sarah might be thinking: Charlotte has entered womanhood truthfully, but she has not had the same long apprenticeship in women’s bodily endurance.
+
+That is a very plausible Sarah thought — and Lauren’s correction can still stand. The important distinction is that Sarah is not doubting Charlotte’s womanhood. She is worrying that Charlotte lacks *practice* at interpreting and reporting pain in this new body, and worse, is emotionally motivated to hide it.
+
+So perhaps Sarah’s line could shift a little from “same pain tolerance” to something more like:
+
+> “So, okay, I’m probably working from false assumptions, but Charlotte hasn’t had years of being taught what to ignore and what not to ignore. Not like most girls do.”
+
+Then Lauren can answer:
+
+> “That’s not biology, Sarah. That’s experience.”
+
+That keeps the insight, removes the slightly crude chromosome framing, and actually makes Lauren’s correction stronger.
+
+## Lauren’s mother-grief is excellent
+
+This passage is one of the strongest in the scene:
+
+> “I used to think I was protecting a gentle boy from a bruising world. At least I got the protecting bit right. Just not the noun.”
+
+That is very good. Very Lauren. It contains grief, humility, love, and a mother’s retroactive horror without making her melodramatic.
+
+And this:
+
+> “Why didn't I see it then?”
+
+That line feels inevitable. A parent would ask that. Especially Lauren, who is loving enough to reinterpret the past but honest enough to feel the sting of what she missed.
+
+Sarah’s response is also right:
+
+> “You see her now, darling woman.”
+
+Lovely. The “darling woman” feels intimate and very Sarah.
+
+I especially like:
+
+> “Sometimes it involves more than one person for miracles to happen.”
+
+That line captures the whole Wardrobe ethos. Charlotte was not “created” by one person. She was recognised, named, sheltered, corrected, challenged, and loved into visibility by a network of women. Celeste was pivotal, but not solitary. Lauren needs to hear that.
+
+
+
+
+The Heritage Group / film opportunity
+---
+
+This works well as future-direction exposition because it arises through Lauren and Celeste rather than through narrator announcement.
+
+The key phrase:
+
+> Celeste was looking at Charlotte when she said 'provenance'.
+
+That is good. It links directly to Charlotte’s growing value: she is no longer merely a girl who knows costumes; she is becoming someone who can authenticate, explain, document, and defend clothing as history.
+
+The Ballarat gold-rush film is also a smart choice. It gives Charlotte a professional path beyond Faire work without betraying Wardrobe. It also lets the clothing matter in a larger context: workwear, women’s labour, immigrant women, class, colonial spectacle, domestic function, survival. Very rich territory.
+
+The line:
+
+> “The women are the *centrepiece*—it's about the women, not the prospectors.”
+
+That fits your world beautifully. It also tells the reader why Charlotte matters here. This is not “pretty dresses for a Western.” It is women’s lives rendered accurately through clothing.
+
+One possible tweak: “engaged by a film company in Ballarat” could be misread as the Heritage Group being based in Ballarat rather than the production. Maybe:
+
+> “the Heritage Group have been engaged by a production company shooting in Ballarat”
+
+or:
+
+> “a film company making a gold-rush period piece up near Ballarat”
+
+Small clarity issue only.
+
+## The hospital call is credible and dramatically effective
+
+The call arriving just after the hopeful conversation is strong structure. Lauren is allowed to feel pride, then immediately pays the emotional cost of Charlotte’s compulsion to overprove herself.
+
+This bit is excellent:
+
+> Lauren was staring me, her glass poised but not raised.
+
+You need “staring **at** me,” but the image is perfect. The glass suspended, the wine becoming irrelevant — lovely.
+
+The decision to pour the wine down the sink is very Sarah. It is not preachy. It is care made physical. Lauren is in shock; the wine is suddenly wrong. Sarah removes it without ceremony.
+
+Tiny typo here:
+
+> taking Lauren's hand let her to the couch.
+
+Should be:
+
+> taking Lauren's hand led her to the couch.
+
+Or more Sarah-smooth:
+
+> I took Lauren’s hand and led her to the couch.
+
+## Obvious issues / typos
+
+A few small ones:
+
+> “She seems to to be pushing it all a bit hard.”
+
+Remove one “to.”
+
+> “trying to not look triumphant.”
+
+Smoother:
+
+> trying not to look triumphant.
+
+> “Lauren was staring me”
+
+Needs:
+
+> Lauren was staring at me
+
+> “taking Lauren's hand let her to the couch.”
+
+Needs:
+
+> taking Lauren’s hand, led her to the couch
+> or
+> I took Lauren’s hand and led her to the couch.
+
+> “She could still make my heart skip a beat.
+> And it wasn't just because she loved my cooking.”
+
+This is charming, but the second line might be slightly too cute depending on how dry you want Sarah. It works, but I’d consider making it a touch less wink-at-reader:
+
+> She could still make my heart skip a beat.
+> And not only because she pretended my sausages were worth coming home to.
+
+That said, your version is clean and probably fine.
+
+> “a thoughtful glass of Cabernet Sauvignon”
+
+I like it, but “thoughtful glass” is slightly comic. That may be exactly right. It implies Lauren is not drinking casually; she is taking a glass because she needs something to hold while thinking. Works for me.
+
+
+
+
+One deeper continuity/emotional question
+---
+
+Would Celeste call Lauren before calling Sarah? Yes, because Lauren is Charlotte’s mother. But the line:
+
+> "I'm trying to reach Lauren. Is her phone switched off?"
+
+is very good because it explains why Celeste calls Sarah and implies Celeste knows Sarah and Lauren are together often enough for that to be natural. It also gives the scene a nice “family network” feeling.
+
+The only question is whether Celeste would say “Tell her I love her” via Lauren, or whether Lauren says that about Charlotte:
+
+> “Of course. Thank you. Tell her I love her.”
+
+This reads as Lauren asking Celeste to tell Charlotte. That works. It is painful. Good.
+
+
+
+
+Sarah’s POV feels right
+---
+
+Sarah’s narration has the right balance of observation and restraint. She notices shoes, food, body language, social implications, medical implications, and relational tension. She does not emote floridly; she acts. She cooks, listens, corrects, holds, pours away wine, leads Lauren to the couch.
+
+That is Sarah.
+
+The most Sarah line in the scene may be:
+
+> I bit words in half and stared at the window.
+
+That is excellent. She has things to say — probably sharp, frightened things — and refuses to put them on Lauren. Very much her.
+
+
+
+
+My main recommendation
+---
+
+I would revise only the “biology/pain tolerance” exchange so Sarah’s concern is less “chromosomal pain tolerance” and more “Charlotte has not yet learned how dangerous it is to ignore pain in this body, and her need to prove belonging makes her unreliable about reporting it.”
+
+That would make Sarah’s misgivings more precise and more compassionate.
+
+Something like:
+
+> “So, okay, I’m probably working from false assumptions, but Charlotte hasn’t had years of being taught what to ignore and what not to ignore. Not like most women have.”
+>
+> Lauren’s brows barely rose.
+>
+> “That’s not biology,” she said. “That’s experience.”
+>
+> My shoulders sagged.
+>
+> “Exactly. And she hasn’t got enough of it yet.”
+
+That might be the key. Sarah is wrong if she makes it chromosomes. Sarah is right if she makes it experience. Lauren can correct the premise, but Sarah can still keep the concern.
+
+And then the final call proves Sarah’s practical concern horribly right.
+
+Overall: this is a strong, necessary quieter scene. It gives Sarah a private interior, gives Lauren maternal depth, moves Charlotte’s future forward, and lands the cost of Charlotte’s “I must prove I still belong” pattern without Charlotte even being in the room. That absence is powerful. Charlotte is physically absent, but emotionally she occupies the whole house. 💛
 
 
 
