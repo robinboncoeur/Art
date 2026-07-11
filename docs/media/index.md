@@ -18,6 +18,8 @@ Updated: 11-July-2026, 1000
 
 ---
 
+[![Wrong Door][St03]{ .artL width="160" }][St03]
+
 Updated: 11-July-2026, 1430
 
 <div class="music-card music-card--with-art">
@@ -348,6 +350,7 @@ To add musical pieces to this page, do the following:
 [St17]: ../assets/images/base/17Cafe.jpg
 [St29]:  ../assets/images/base/29Charlotte.jpg
 
+[St03]: ../assets/images/story/Scene03a.jpg
 [St08]: ../assets/images/story/Scene08a.jpg
 [St28]: ../assets/images/story/Scene28a.jpg
 [St35]: ../assets/images/story/Scene35a.jpg
