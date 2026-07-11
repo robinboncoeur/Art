@@ -1,10 +1,12 @@
 # Aura
 
-The incidental music for 'Celeste's Girl', Scene 1 "Are You Lost?"
+## Miniatures
+
+**1) The incidental music for 'Celeste's Girl', Scene 1 "Are You Lost?"**
+
 ---
 
 [![Wrong Door][St56]{ .artL width="160" }][St56]
-
 
 Updated: 11-July-2026, 1000
 
@@ -19,6 +21,9 @@ Updated: 11-July-2026, 1000
 </div>
 
 <hr class="section-break soft" />
+
+
+
 
 [![Wrong Door][St03]{ .artL width="160" }][St03]
 
