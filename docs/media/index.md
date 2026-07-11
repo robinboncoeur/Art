@@ -2,6 +2,10 @@
 
 [![Wrong Door][St56]{ .artL width="160" }][St56]
 
+The incidental music for 'Celeste's Girl', Scene 1 "Are You Lost?"
+
+Updated: 11-July-2026, 1000
+
 <div class="music-card music-card--with-art">
   <div>
     <p>The Wrong Door</p>
@@ -12,6 +16,23 @@
   </div>
 </div>
 
+---
+
+Updated: 11-July-2026, 1430
+
+<div class="music-card music-card--with-art">
+  <div>
+    <p>The Wrong Door</p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/qRtDg9CawWf8iK8" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<!--
+https://cloud.seabrae.org/index.php/s/qRtDg9CawWf8iK8
+/-->
 
 <hr class="section-break strong" />
 
