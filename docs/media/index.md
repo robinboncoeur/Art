@@ -6,7 +6,7 @@
   <div>
     <p>The Wrong Door</p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoor.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoorB.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
