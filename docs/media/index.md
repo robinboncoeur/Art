@@ -32,9 +32,28 @@ Updated: 11-July-2026, 1430
   </div>
 </div>
 
+
+
+[![Celeste][Sth1]{ .artL width="160" }][Sth1]
+
+Updated: 11-July-2026, 1430
+
+<div class="music-card music-card--with-art">
+  <div>
+    <p>The Wrong Door</p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoorD.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
 <!--
 KEEP AS EXAMPLE FOR NEXTCLOUD
 <source src="https://cloud.seabrae.org/index.php/s/BRfP6tqMftxTwWf/download" type="audio/mpeg">
+
+
+Very subtle motion. The girl sits quietly in class and glances up with mild curiosity. One soft blink at most. Preserve exact facial features, hair, clothing, and mood.
 /-->
 
 <hr class="section-break strong" />
@@ -341,6 +360,7 @@ To add musical pieces to this page, do the following:
 [Stb1]: ../assets/images/base/01bRead.jpg
 [Stb1]: ../assets/images/base/01bRead.jpg
 [Ste1]: ../assets/images/base/01eWinter.jpg
+[Sth1]: ../assets/images/base/01hCeleste.jpg
 [St09]: ../assets/images/base/09aParis.jpg
 [St10]: ../assets/images/base/10montvl.jpg
 [St12]: ../assets/images/base/12accost.jpg
