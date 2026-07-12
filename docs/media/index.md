@@ -41,6 +41,9 @@ Updated: 11-July-2026, 1430
 
 <hr class="section-break soft" />
 
+
+
+
 [![Celeste][Sth1]{ .artL width="160" }][Sth1]
 
 Updated: 11-July-2026, 2230
@@ -54,6 +57,12 @@ Updated: 11-July-2026, 2230
     </audio>
   </div>
 </div>
+
+---
+
+I'm calling this piece a *fait accompli* with this final version. Time to move on. What I hoped to demonstrate is that — very much like with writing prose — writing music is a tiny bit of 'inspiration' followed by a lot of revision. We have so many tools at our disposal to help revision to be more meaningful, including AI and sound libraries and sharing with listeners / readers from around the globe, unthinkable a mere ten years ago. Well, the AI bit, anyway.
+
+Or so I thought. And then, I purchased Dorico 6, and found that Musescore — both music-notation software — had been charitably masking harmonic flaws. Which I have since fixed. I will be doing more and more writing in Dorico: I can see why real composers use it. HUGE learning curve, but then, anything worth learn has that.
 
 <!--
 KEEP AS EXAMPLE FOR NEXTCLOUD
@@ -153,7 +162,7 @@ These pieces live in my head when I write.
 
 
 
-[![Celeste à Paris][St13]{ .artL width="160" }][St13]
+[![Celeste][Sti1]{ .artL width="160" }][Sti1]
 
 <div class="music-card music-card--with-art">
   <div>
@@ -187,6 +196,28 @@ These pieces live in my head when I write.
 </div>
 
 <hr class="section-break soft" />
+
+
+
+
+
+
+[![Writer][Stj1]{ .artL width="160" }][Stj1]
+
+<div class="music-card music-card--with-art">
+  <div>
+    <p>Finzi: Severn Rhapsody</p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/ytdl/Finzi-Severn-Rhapsody.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<hr class="section-break soft" />
+
+
+
 
 
 
@@ -368,6 +399,8 @@ To add musical pieces to this page, do the following:
 [Stb1]: ../assets/images/base/01bRead.jpg
 [Ste1]: ../assets/images/base/01eWinter.jpg
 [Sth1]: ../assets/images/base/01hCeleste.jpg
+[Sti1]: ../assets/images/base/01iCeleste.jpg
+[Stj1]: ../assets/images/base/01jWriter.jpg
 [St09]: ../assets/images/base/09aParis.jpg
 [St10]: ../assets/images/base/10montvl.jpg
 [St12]: ../assets/images/base/12accost.jpg
