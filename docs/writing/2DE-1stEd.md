@@ -7217,15 +7217,170 @@ And I, to her.
 [![Img][Sy20]{ .artR width="460" }][Sy20]
 /-->
 
-🌷 🌸 🌺 Visible 🌷 🌸 🌺
+🛬 Homecoming 🪡
 
 
+[ Charlotte ]
 
+I awoke with a start. The world had changed: it was tilting downward now. The rumble of the engines was quieter, as if to reassure everyone that we were almost there. I wiggled my toes, then my feet, and glanced to my left. Brittany was grinning at me.
 
+"Was I drooling?"
 
+She tucked her shoulders in, trying not to giggle.
 
+"Not gonna say. We're going to land soon."
 
+I swallowed.
 
+Celeste.
+
+Mum.
+
+I slowly sat back with a wince—the left cheek was aching from having to do the work of two—then carefully moved to the centre of the seat, still feeling Brittany's eyes on me.
+
+"A bit sore, hey? Look, you can have something now. I saved you some water."
+
+I pulled my face into what I hoped said thanks.
+
+"You're a legend, Brittany!"
+
+"I know." She handed me some tablets and an almost-full cup of tepid water. "Down the hatch!"
+
+I swallowed tablets and water, eyes focused outside the window. Clouds flitted past. At times, I could make out low hills bordered by grey patches of barren trees, partly hidden by fog.
+
+I swallowed harder—one tablet didn't want to go down .
+
+I seemed to see Celeste's face smiling at me. 
+
+"Excuse me."
+
+I turned. A flight attendant was pointing at my waist.
+
+"You'll need to do it up properly. Sorry."
+
+I pulled at the strap slowly—carefully—biting my lip.
+
+The flight attendant's raised brows softened into a question.
+
+"Surgery," Brittany said.
+
+Understanding came at once. The flight attendant lifted one hand.
+
+“That’s fine. Just like that,” she said gently. She leaned over and tested the belt tension with her fingers. “That’s tight enough.”
+
+I gave her what I hoped was a grateful smile, shifting slowly onto the other cheek and hoping the tablets would start working before the wheels hit the ground. 
+
+The aircraft slowed further and the soft rumble grew a bit louder.
+
+Mum.
+
+My breath came out in a sigh—I remembered feeling her arms around me at the café, the sort of warm, tight hug that I'd never felt before from her. I thought of her eyes. My shoulders rose against the cold grasp of doubt.
+
+How will Mum see me, now?
+
+The aircraft shuddered as gears ground underfoot. My stomach tensed—the familiar pain came, went, then came back sharper when a thunk announced the landing gear was down.
+
+I didn't want to look at Brittany and have her see me. 
+
+I didn't have to see her to hear her.
+
+Try not to think about it.
+
+I was trying not to.
+
+In the distance, the land was a lot closer. I could make out buildings and roads and even trucks and cars and then, suddenly, the airport taxiway was racing by. 
+
+I closed my eyes and gritted my teeth.
+
+And then, felt the nose of the airliner tilt forward and heard the roar of the engines. 
+
+I hadn't even felt the wheels touch down.
+
+When the roar softened, Brittany touched my arm.
+
+"There's no rush getting off the plane, Charlotte," she said. "We'll just sit tight and wait, okay? Give those tablets a bit more time to work."
+
+I nodded and leaned back in the seat. I so wanted to see Celeste's face, to feel her arms around me, but Brittany was right. As usual. She'd been right so much in Thailand that a shrug and an "okay" just saved time. I stared at her. 
+
+"What would I have done without you, Brittany?"
+
+She give her lips a tiny squeeze.
+
+"You did the hard bit, Charlotte." Her smile broadened. "I just held your hat."
+
+Finally, with a gentle rocking motion the aeroplane came to a stop. Seatbelts clicked noisily as people jumped to their feet and luggage compartments popped open. I felt excited and yet, a bit numb at the same time.
+
+Was it worth it?
+
+An older woman stood in the aisle next to me, her hand firmly grasping her carry-on's handle. She was staring intently at the door, as if willing it to open. Someone bumped her from behind.
+
+"Oh, sorry ma'am."
+
+The voice behind her was loud and male and clearly not Australian. She directed a brief smile—one that lacked sincerity—at him, then turned back to the front, her shoulders easing noticeably as the door of the aeroplane finally swung open. I could see her lips tighten as the voice's owner crowded in behind her. His aftershave—the sort that would survive anything from a workout at the gym to a foot race—seemed to invade the aircraft, lingering long after the man, who must have bathed in it, had left.
+
+I glanced back. The aisle was empty, so I carefully rose out of my seat. 
+
+During the flight, Brittany had pushed me out of my seat several times—"You need to move, girlfriend!"  Each time was more agonising than the time before, so I was surprised that getting up this time was quite bearable.
+
+She grinned.
+
+"I gave you something a bit stronger," she said, "so you can get to the car without falling into a heap on the way."
+
+I nodded, suddenly feeling somewhat dizzy.
+
+"Feeling it a bit?"
+
+I nodded.
+
+"I'll be right," I said and reached up to pull my bag down from the luggage rack.
+
+"Nuh-uh! No you don't."
+
+She eased my hands to my side, then pulled my carry-on into the aisle and flipped the handle into my hand.
+
+"Ready, petal? We've got a bit of a walk ahead of us."
+
+We moved to the exit. Even in the growing drug-haze I remembered to smile at the flight attendant.
+
+"Thank you so much!"
+
+"Get well soon," she said.
+
+Customs seemed to take forever. As it does.
+
+And then, we were finally walking towards the exit. I could feel a pounding in my chest and hear it in my ears.
+
+"Easy, there, Charlotte."
+
+My feet moved as if by remote control. We exited. 
+
+The waiting hall was busy, people everywhere. 
+
+Hugging. Laughing. Crying. 
+
+I turned slowly to Brittany.
+
+She was smiling broadly, but not at me. 
+
+I looked for familiar faces.
+
+And found them.
+
+Celeste saw me first.
+
+Her hand went to her mouth.
+
+I wanted to run to her. 
+
+And then, I saw Mum.
+
+Mum was smiling at me. Her eyes were shining.
+
+She was standing next to Celeste, with an arm around her waist.
+
+I let go of a breath I didn't know I was holding.
+
+I didn't have to be brave anymore.
 
 <hr class="section-break strong" />
 
@@ -7240,15 +7395,432 @@ And I, to her.
 [![Img][Sy20]{ .artR width="460" }][Sy20]
 /-->
 
-🌷 🌸 🌺 Visible 🌷 🌸 🌺
+📒 She Insisted 💻
+ 
 
+[ Charlotte ]
 
+I had just finished sticking the last pin behind my head, and was thinking my hair needed something pins can't fix, when Celeste appeared in the mirror wearing a question mark.
 
+"Really?"
 
+"Celeste—"
 
+"No, seriously. You honestly think going in this soon is wise?"
 
+I put down the hairbrush and turned to face her. Care was there and concern. Confidence was not. My shoulders sagged slightly.
 
+"But I really want to see the new Wardrobe."
 
+Celeste gave me that over-the-glasses look. How, I didn't know — she wasn't even wearing glasses.
+
+"You don't get extra womanhood points for pretending pain is an old friend."
+
+My lips bunched before I could stop them.
+
+"Look, I'll just sit. Like, at the ledger." I found her eyes. "Please?"
+
+She studied me for a moment. Finally, she nodded, doubt still lingering on her face.
+
+"Right then." She shook her head once. "Half day, Charlotte."
+
+"Half—"
+
+"That's it. Take it or leave it." She picked up her keys. "And bring your meds. And no lifting. No hanging costumes on rails. You’re confined to your chair."
+
+Once the car started to move, thoughts of the new Wardrobe took a back seat. I gave the neighbourhood more attention than any neighbourhood deserved. Shopfronts. Parked cars. A man walking a dog in a jumper.
+
+I looked at everything except Celeste.
+
+"A bit more uncomfortable than you thought it would be?"
+
+The woman is psychic.
+
+"How can you tell?"
+
+"The way you're sitting, for one. And your breathing." She glanced across at me. "You still think this is a good idea?"
+
+I shifted in my seat, regretted shifting, and let out a shuddering sigh.
+
+"Please, Celeste. I want to."
+
+Her mouth slipped to one side as she studied the road ahead.
+
+"Wanting to doesn't always help one make the best choices."
+
+"I know."
+
+"Do you?"
+
+I could not answer her. Not truthfully.
+
+Thankfully, we didn't have far to go. 
+
+The new Wardrobe building was two storeys, with a large carpark and windows that still looked too clean to belong to us. Across the road was a seaside park with stainless-steel barbies, gazebos, and concrete footpaths. The sun wasn't particularly motivated that morning, but the air did not feel all that chilly. After the stuffy heat of Thailand, it felt almost reassuring.
+
+I got out carefully. Celeste waited, her face expressionless. 
+
+I followed her to the front door.
+
+It was already unlocked.
+
+Mara was switching on the steam press and lights as we entered. Her eyebrows rose slightly when she saw me. She glanced at Celeste, who shrugged.
+
+"She insisted."
+
+Mara looked at me for a moment, then pointed at an old laptop — a MacBook — on the table beside my chair.
+
+“That’s the ledger now.”
+
+For one ridiculous second, I had looked for the book, the actual ledger — the heavy one, with its scuffed cover and corners soft from years of hands. Now, there was only the MacBook, open, charged, and waiting.
+
+“We’re online,” Mara said. “Lauren needs access to the ledger from home. Celeste needs figures without asking three people where the book has wandered off to. Sarah checks orders before she cuts. Lisa has been keeping it breathing.”
+
+I swallowed and settled slowly in the chair.
+
+Behind us, the door creaked open, and Sarah came in first with a folded length of wool over one arm. Mum followed, reading from an invoice as she walked, the two of them already halfway through an argument about metres, usable metres, and whether suppliers understood either.
+
+Then Mum stopped.
+
+She stared at me, her mouth falling open.
+
+I heard Celeste sigh.
+
+"Charlotte insisted, Lauren."
+
+Mum's lips pressed together and she shook her head slowly.
+
+"Same Charlotte as ever, aren't you?" she said softly. "Indispensable."
+
+"Mum."
+
+"We're doing a half-day, Lauren," Celeste said, "with the option to cut it short if need be."
+
+Sarah looked from Celeste to Mum, then to me. And said nothing, which was telling — Sarah had always been good at picking up on anything I was trying to keep to myself.
+
+The front door opened again and Lisa came in carrying a canvas satchel, a travel mug, and her usual expression of someone who was grateful to be there.
+
+She stopped when she saw me.
+
+In half a second, her whole face lit.
+
+"Hi Charlotte!"
+
+"Hullo, Lisa."
+
+Her eyes flicked to Celeste, then Mum, then Mara, as if checking how much enthusiasm was medically permitted.
+
+"Are you back?"
+
+"Trial run, half day today," Celeste said.
+
+Lisa nodded solemnly.
+
+"Half day. Right. It's great to see you!"
+
+I smiled.
+
+She crossed to the MacBook and turned the screen towards me before she sat down.
+
+“I didn’t change any of your categories,” she said quickly. “I mean, not properly. I just added a few worksheets. Supplier stock, alterations, delivery risks, notes and links to images. And colour-coding, because Mara says urgent, very urgent, and if-you-make-me-ask-twice as if those are three different filing systems.”
+
+Mara, who had been getting her Pfaff ready, did not look round.
+
+“They are.”
+
+"See? They've been spoken into existence," Lisa said.
+
+Mum gave a small laugh. Sarah leaned against the tearoom doorway with her arms folded, still watching me far too carefully.
+
+I sat motionless, looking at the screen.
+
+This digital ledger still functioned like Mara's leather-bound one did. But at the same time, it had grown a personality — one it could share. The main worksheet had new columns. Lisa had added a linked supplier sheet, an alterations queue, a delivery-risk column, and a short notes column that said things like: 'ask Mara before reordering' and 'check with Charlotte on this'.
+
+I stared at that note for longer than I meant to.
+
+Lisa’s voice softened.
+
+"I hope it makes sense."
+
+The room went a little too quiet.
+
+"This is awesome, Lisa," I said. "Only thing I don't like about it is that I didn't think of it first."
+
+Lisa's eyes went wide at first but eased when I smiled.
+
+"Oh. Oh-oh good." I could almost feel the relief in her voice. “I mean, the system is still yours,” she said quickly, tucking a strand of hair behind her ear. “I only added places for the rest of us to leave footprints. And Celeste made me put in an enquiries tab,” Lisa added. “Apparently people keep sending photographs from Maleny to people who know people.”
+
+The door opened again before I had to answer.
+
+Lucy came in wearing the men's kit.
+
+With a swagger to match.
+
+She was in full costume — breeches, shirt, waistcoat, coat, stockings and buckled shoes — with the most outrageous strut I had ever seen on a human being who was still technically required to thread needles for a living. Her hair was tucked under a hat worn at an angle suggesting stolen horses, ill-gotten gains, and possibly unpaid parking fines.
+
+Lucy stopped in the middle of the room and swept the hat from her head with a flourish.
+
+"Ladies."
+
+Sarah closed her eyes.
+
+"The Faire's up the road, sir."
+
+Lisa clapped a hand over her mouth, but a snort escaped through her fingers.
+
+Mara directed a look at Lucy's middle.
+
+"That waistcoat's button is about to fall off."
+
+Lucy's face fell.
+
+"That is not the proper way to greet an adventurer."
+
+"It is if the adventurer's button is about to make a leap for freedom."
+
+"But I am a gentleman adventurer."
+
+"In that case, find your gentleman's button repair kit."
+
+Lucy turned to me, wounded.
+
+"Charlotte. Tell them."
+
+I looked at the coat. Then at Lucy. Then at the button, hanging by a thread.
+
+"It's a good look, Lucy — it totally suits you." I grimaced. "But it won't improve if you lose that button."
+
+"Et tu, Brutus?"
+
+"I mean you well, Caesar."
+
+Lucy threw her shoulders back, chin lifted, one hand at her waist. The button sprang free.
+
+"Oops."
+
+Lucy bent to pick up the button, then straightened with a grin bright as a match. I glanced at Lisa: her gaze was fixed on Lucy, her eyes shining. 
+
+Wardrobe had not changed, not really.
+
+Nor had it waited for me.
+
+Of course it had not. Lucy had become a gentleman adventurer. Lisa had given the ledger an online presence. Mara had found three more things to disapprove of before breakfast.
+
+The world had not put itself on pause around the shape of my absence.
+
+It had simply kept breathing.
+
+A faint grinding noise came from the far side of the room, where Mara sat at the Pfaff. Mara's brows narrowed as the needle moved with a sound that made every woman in the building pause.
+
+"That," Sarah said, "sounds expensive."
+
+Mara switched off the machine and looked at the window, her lips a line.
+
+"Sea air."
+
+"We've been here all of a month," Lucy said.
+
+"Sea air is enthusiastic. And this machine has needed a service for some time."
+
+I had already started to rise when my body reminded me I was not meant to. 
+
+I heard my name.
+
+Celeste was eyeing me. 
+
+Mara looked at me over her machine.
+
+"This isn't an 'I-Fixit' job."
+
+"I just wanted to have a look."
+
+"You may look from there."
+
+"I can't tell what's wrong from across the room."
+
+"Then the Pfaff will have the dignity of remaining mysterious."
+
+"Please, Mara."
+
+Her mouth flattened, but not unkindly.
+
+"You may listen. You may ask me to do things, like turn the handwheel. You may tell us what you think. You may not kneel, lift, twist, crawl under tables, or attempt to resuscitate."
+
+"I wasn't going to crawl."
+
+Celeste made a small sound. 
+
+I looked at her. She looked back.
+
+"Fine," I muttered. "I was considering crawling."
+
+Mum covered her mouth with her fingers.
+
+"So," said Mara, "what would you like me to do, then?"
+
+I sat back carefully, annoyed at my body and by the fact that every woman in the room had noticed I owned one.
+
+"Turn the handwheel slowly."
+
+Mara did.
+
+The Pfaff clicked, resisted, then moved with a faint rasp beneath the plate.
+
+"Again."
+
+She turned it again.
+
+"Not the belt," I said. "Feed dogs, maybe. Or salt grit under the plate. Has it been covered at night?"
+
+Mara looked offended.
+
+"Of course it has been covered."
+
+Lucy snorted. "With what?"
+
+Mara pointed at Lucy without looking.
+
+"Costume room. Rails. Now."
+
+Lucy put the hat back on and strode away with the wounded dignity of an offended gentleman adventurer.
+
+The delivery truck arrived ten minutes later.
+
+I could feel its arrival as much as hear it — every capable woman in the building moved at the sound. That was the bit that hit hardest: how smoothly everything shifted into take-delivery mode.
+
+Sarah went to the door. Mum took the invoice. Mara cleared the cutting table. Lisa opened the supplier tab and began checking numbers aloud. Lucy reappeared without the hat but still in the coat, because apparently a gentleman adventurer could be trusted with wool if properly supervised.
+
+I sat and watched them. Lisa looked at me, at the laptop, and placed it in front of me.
+
+A bolt of dark green wool came in first, wrapped in brown paper and plastic. Then charcoal. Then blue. Then a brown with a soft red undertone that made Mara's eyes narrow in approval.
+
+Lisa was calling numbers.
+
+"Green wool, twenty-eight metres."
+
+"Twenty-eight point four," Mum said from the invoice.
+
+"Twenty-eight point four," Lisa said. 
+
+"Charcoal, nineteen metres."
+
+"Check the edge," Mara said. "Last lot had a flaw."
+
+Sarah unrolled enough to inspect the selvedge.
+
+Lucy held the bolt steady, face now serious.
+
+"The selvedge is fine, Mara."
+
+Lisa looked at me.
+
+With a start, I quickly looked for the entry in the worksheet, and added "selvedge clear."
+
+I knew this dance. That was the humiliating part. I knew it, and I was still half a beat late.
+
+How could I have lost rhythm so much in one month?
+
+And then, Celeste's phone rang.
+
+She glanced at the screen, frowned, and stepped towards the open window.
+
+"Celeste Shelley." Her voice seemed softer because it was directed at the outside world. I tried not to listen, which meant I heard every word.
+
+"Yes, we're in the new premises now."
+
+A pause.
+
+"No. We don't hire out costumes for parties."
+
+Another pause. Her expression changed by a degree.
+
+"I'm not certain what you mean by presentation."
+
+Mara looked up.
+
+So did Mum.
+
+Celeste stood silently listening, one finger resting against the back of a chair. Finally, she shook her head.
+
+"We don't do theatre as a sales method," she said. "The garments stand on construction, fit, and use. If you're asking for spectacle, we're not who you want to be talking to. The staff at the Faire would—"
+
+She stopped, her lips tight. I watched her face. Whoever was on the other end, they were dealing with the Celeste that came out when numbers, boundaries, and idiots were all standing too close together.
+
+Then, her head tilted slightly.
+
+"I see."
+
+Another pause.
+
+"Yes. Provenance is different."
+
+Mara's eyes sharpened.
+
+Celeste turned away from the window.
+
+She looked across the room.
+
+At me.
+
+I slowly set the laptop on the desk.
+
+"Yes," she said slowly. "We do have someone who can speak to the research, construction logic, and design decisions behind them."
+
+Her eyes did not leave my face.
+
+"No," Celeste said, and now there was steel in it. "We would not be offering a model. A standards person."
+
+The room had gone quiet again. Something had entered the building that none of us could yet see properly. Celeste turned back to the window, her back straight. She nodded a few times and finally said,
+
+"We will send you details by Friday. And thank you for the call." 
+
+She stood for a moment with the phone in her hand, thinking.
+
+Mara spoke first.
+
+"Well?"
+
+Celeste turned to her with a slight frown.
+
+"That was a heritage retail group in Melbourne. They apparently saw photographs of our costumes taken at the Maleny Faire. They want to discuss some sort of a city presentation."
+
+"We don't do presentations," Mara said.
+
+"That's correct, we don't," Celeste said. "We do standards. Fit logic. Construction notes. Body-type guidance. Why the garments work on living women and not just mannequins."
+
+She looked at me again.
+
+My heart had begun to beat oddly.
+
+"So, it isn't a costume presentation they want, then," Mara said.
+
+"No," Celeste said. "It is about how what we make is different."
+
+Mum's gaze moved from Celeste to me. Sarah's did the same.
+
+I looked at the laptop, at Lisa's notes, at the wool bolts, at the Pfaff waiting for caring hands and a drop of oil, at Lucy in a man's coat with pins in her mouth and confidence in her shoulders.
+
+Wardrobe had changed while I was gone, because cloth arrived, machines complained, juniors grew brave, Lisa taught the ledger to live in more than one place, Mara noticed gentlemen adventurer's loose buttons, Mum found numbers that everyone else missed, Sarah never stopped being Sarah, and Celeste answered phones as if the world's contracts needed better clauses.
+
+Life had gone on.
+
+I had foolishly thought it would just carry on as always.
+
+It didn't. Because, of course it didn't. It would not have done if I hadn't left for a month.
+
+The only remarkable thing was that I had expected things to still be the same.
+
+I folded my hands. 
+
+The air had changed.
+
+Celeste came back to my side and rested her hand lightly on the back of it.
+
+"Still okay with half day?"
+
+For once, I did not argue.
+
+I just nodded.
 
 <hr class="section-break strong" />
 
@@ -7263,10 +7835,231 @@ And I, to her.
 [![Img][Sy20]{ .artR width="460" }][Sy20]
 /-->
 
-🌷 🌸 🌺 Visible 🌷 🌸 🌺
+## 🩸 Just Not The Noun 💧
+
+
+[ Sarah ]
+
+When Lauren's keys hit the bowl at the entryway, I felt far too much relief. And, annoyance for feeling relieved. 
+
+'Lauren's a grown woman,' I sternly told myself, 'she can take care of herself.'
+
+And then, I felt her kiss on my neck and told myself to sod off.
+
+"Sorry I'm a bit late, got to talking to Celeste," she said.
+
+"Oh? About what?"
+
+"This and that."
+
+The timer on my phone announced it was time to turn the sausages.
+
+"Make yourself comfy, sweetie," I said. "Hope you're okay with garlic mash."
+
+"Sounds lovely!" 
+
+From the kitchen I watched her remove her shoes. 'Mum shoes', she called them. Paired with mum jeans—or "Mom-jeans", as the Yanks would say—she was still somewhere between netball tournaments and teacher-association meetings and direct-to-boot stores pickups. She caught me looking and flashed me a smile.
+
+She could still make my heart skip a beat.
+
+And it wasn't just because she pretended my garlic mash made coming home exciting.
+
+Dinner was a quiet affair, as it usually was, both of us lost in our own thoughts. I was just looking at the last mouthfuls of mash and thinking I'd served myself too much again when she said:
+
+"That was so nice!"
+
+I tried a smile. It produced raised brows.
+
+"Something on your mind?"
+
+"It's just Charlotte," I said carefully. "She seems to be pushing it all a bit hard."
+
+"You think?"
+
+“She’s behaving as if the building might vote on her by lunchtime.”
+
+"At least she's consistent," Lauren said with a wry smile. "She jumps into challenges with both feet. You know that from Maleny."
+
+I shook my head.
+
+"This is different, Lauren. It's physical. And then, there's history with biology."
+
+Lauren frowned.
+
+"Biology?"
+
+I felt my face go a bit red. My fingers clenched into a ball.
+
+“So, okay, I’m probably working from false assumptions, but women learn pain early. We learn what to ignore, what not to ignore, when to smile through it, when to get someone else to look. Charlotte hasn’t had years of that. Not the way most of us have.”
+
+Lauren's brows barely rose.
+
+"That's correct," she said. I pressed my lips together, trying not to look triumphant. 
+
+"It's a false assumption. That’s not chromosomes, Sarah.”
+
+“I know that.”
+
+“It’s experience.”
+
+“And women are better at that experience,” I said, before I could soften it. “Pain, rooms, warning signs. We have to be. Look, Charlotte belongs with us, Lauren, I know that. But she hasn’t had twenty years of learning which aches are ordinary and which ones mean stop-and-assess.”
+
+"True." Lauren straightened. "However, I think that's all going to be moot."
+
+"How so?"
+
+Lauren's smile broadened. She leaned forward.
+
+"I think our girl's got something new and exciting coming her way."
+
+I pushed my plate away. I'd definitely served myself too much mash. 
+
+"Really?"
+
+"I was talking to Celeste," Lauren said. "You know she took a phone call, right?"
+
+"Yes, from the 'Heritage Group'. What does that have to do with—"
+
+Lauren raised her finger.
+
+"Not sure if you were following the conversation, but Celeste was looking at Charlotte when she said 'provenance'."
+
+"Wait. Are you saying?"
+
+Silence.
+
+I glanced at Lauren—she was staring at her plate, suddenly without words. Her smile had faded. I watched her face, which had gone suddenly soft. After a long moment, she sighed, her eyes seeking mine.
+
+"Sorry, just had this thought," she said. "I used to think I was protecting a gentle boy from a bruising world. At least I got the protecting bit right. Just not the noun."
+
+Lauren's smile was thin.
+
+"Did I ever tell you about this time—I think she was five, then—she asked me why I never wore nice things." Her look went far away and her voice followed. "Why didn't I see it then?"
+
+I rose out of my chair, a growing tightness in my chest. I circled round Lauren's chair and wrapped my arms around her. She took in a deep breath and melted into me.
+
+"You see her now, darling woman," I said. "Please don't beat yourself up about the past."
+
+I felt her hair brush my cheek as she nodded.
+
+"Celeste told me that back in that last year in school, she'd told Charlotte she didn't do charity, she did investment." I felt her warm hands envelop mine. "Sarah, she saw her then!"
+
+I settled into the chair next to her, my hands wrapped in hers.
+
+"You saw her long before Celeste did, Lauren," I said. "You might have missed a few details, but—" She puffed through her nose. "No, listen. Here's the thing," I continued firmly. "End of the day, you didn't make it about you. Sometimes it involves more than one person for miracles to happen."
+
+Lauren's eyes shone.
+
+"Thank you, lovely. I needed that."
+
+I kissed her cheek.
+
+"So, tell me about your conversation with Celeste."
+
+"Well, she told me that the Heritage Group have been engaged by a production company shooting a film in Ballarat," she said. "They're making some gold rush period piece. Bit of an action film too, apparently."
+
+"Any women in it?"
+
+"The women are the centrepiece—it's about the women, not the prospectors. They'll need proper clothing, not just pretty costumes. The whole kit," she added. "The director wants authenticity."
+
+"Sounds like the outfits will need to do more than what our Faire girls ask of theirs, then," I said, stacking her plate on top of mine. As I scraped leftovers into the compost bin, something occurred to me. "When is shooting starting?"
+
+"No idea. Celeste said she didn't think they would need to go up there straight away. Could be soon, though."
+
+Lauren opened the cupboard and pulled out a glass. She thoughtfully poured herself a glass of Cabernet Sauvignon. She lifted the bottle at me with a question on her face.
+
+I bit my lip, and shook my head.
+
+"No, thank you." As I began to wipe the bench, my phone rang.
+
+It was Celeste.
+
+"Hi Sarah." She sounded serious. "I'm trying to reach Lauren. Is her phone switched off?"
+
+Lauren was staring at me, her glass poised but not raised.
+
+"Hang on. I'll pass the phone to her."
+
+I watched Lauren's eyes widen, her glass of wine forgotten. As she listened, her hand went over her mouth.
+
+"Is—is she okay now?" she said.
+
+She seemed to shrink into the chair. She finally nodded and closed her eyes.
+
+"Thanks for letting me know, Celeste. Please keep—" She stopped. Finally: "Of course. Thank you. Tell her I love her."
+
+For a long time, neither of us spoke. A wind had come up and was making a neighbour's side fence door bang against the wall.
+
+"Not good?" I said finally.
+
+"Infection. She's in hospital, on a drip. She'll be fine, but—"
+
+I bit words in half and stared at the window. The wind blew the trees, and the light from the streetlamp flickered against the glass. I finally glanced over at Lauren—it suddenly felt hard to swallow. I took the glass off the table in front of her and poured the wine down the sink. I set the glass down slowly, and taking Lauren's hand led her to the couch.
+
+I rocked and cradled her as her tears silently fell.
+
+Can someone please tell Charlotte she doesn't have to prove herself, anymore?
+
+We sat and listened to the wind.
+
+It didn't have any answers, either.
+
+<hr class="section-break strong" />
 
 
 
+
+
+
+## Scene 33
+
+<!--
+[![Img][Sy20]{ .artR width="460" }][Sy20]
+/-->
+
+## 🩸 Just Not The Noun 💧
+<hr class="section-break strong" />
+
+
+
+
+
+
+## Scene 34
+
+<!--
+[![Img][Sy20]{ .artR width="460" }][Sy20]
+/-->
+
+## 🩸 Just Not The Noun 💧
+<hr class="section-break strong" />
+
+
+
+
+
+
+## Scene 35
+
+<!--
+[![Img][Sy20]{ .artR width="460" }][Sy20]
+/-->
+
+## 🩸 Just Not The Noun 💧
+<hr class="section-break strong" />
+
+
+
+
+
+
+## Scene 36
+
+<!--
+[![Img][Sy20]{ .artR width="460" }][Sy20]
+/-->
+
+## 🩸 Just Not The Noun 💧
 
 
 

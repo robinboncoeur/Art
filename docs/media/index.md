@@ -60,7 +60,7 @@ Updated: 11-July-2026, 2230
 
 ---
 
-I'm calling this piece a *fait accompli* with this final version. Time to move on. What I hoped to demonstrate is that — very much like with writing prose — writing music is a tiny bit of 'inspiration' followed by a lot of revision. We have so many tools at our disposal to help revision to be more meaningful, including AI and sound libraries and sharing with listeners / readers from around the globe, unthinkable a mere ten years ago. Well, the AI bit, anyway.
+I'm calling this piece *fait accompli* with this final version. Time to move on. What I hoped to demonstrate is that — very much like with writing prose — writing music is a tiny bit of 'inspiration' followed by a lot of revision. We have so many tools at our disposal to help revision to be more meaningful, including AI and sound libraries and sharing with listeners / readers from around the globe, unthinkable a mere ten years ago. Well, the AI bit, anyway.
 
 Or so I thought. And then, I purchased Dorico 6, and found that Musescore 4 — both Musescore and Dorico do music-notation — had been charitably masking harmonic flaws. Which I have since fixed. I will be doing more and more writing in Dorico: I can see why real composers use it. HUGE learning curve, but then, anything worth learn has that.
 
