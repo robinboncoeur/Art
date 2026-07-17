@@ -22,7 +22,7 @@ I turned to look at the head hidden by tousled dark hair beside me. And heard a 
 
 And then, another kick.
 
-I reached out my hand and gently let it settle on the the highest bump. I felt a twitch, the bedding rose a bit as the tousled hair took in a long breath. And then, a sleepy face appeared. 
+I reached out my hand and gently let it settle on the highest bump. I felt a twitch, the bedding rose a bit as the tousled hair took in a long breath. And then, a sleepy face appeared. 
 
 "Was I snoring?"
 
@@ -44,7 +44,7 @@ I shrugged.
 
 "That's not an answer." She sat up and faced me. "Any better than last night?"
 
-Memories of ED doctors asking permission to check my groin, the smell on my urine in a little plastic cup — that *awful* smell — and then, the needle, Celeste's serious eyes and at the end, the relief that it wasn't a surgical infection all came back suddenly, annoying.
+Memories of ED doctors asking permission to check my groin, the smell of my urine in a little plastic cup — that *awful* smell — and then, the needle, Celeste's serious eyes and at the end, the relief that it wasn't a surgical infection suddenly all came back. Annoying.
 
 I nodded.
 
@@ -52,7 +52,7 @@ I nodded.
 
 "You said that last night on the way to the hospital."
 
-"I just— I don't want to make a bit thing of it, Celeste."
+"I just— I don't want to make a big thing of it, Celeste."
 
 "Silly girl, an infection *is* a big thing!"
 
@@ -66,7 +66,7 @@ I stared at my hands.
 
 "But nothing. You're not Robinson Crusoe."
 
-I followed her into into the kitchenette.
+I followed her into the kitchenette.
 
 "So, what did I do wrong?"
 
@@ -76,19 +76,19 @@ She flicked on the kettle, then turned to face me. Her look had softened.
 
 "I don't want to be a complainer, Celeste," I said firmly.
 
-She studied me for a moment, and dipped her head, her frown softening into somewhat of a grimace.
+She studied me for a moment, and dipped her head, her frown now more a grimace.
 
-"Yeah, okay, it's not your style. I get that." The kettle gave a merry ding. She silently poured boiling water over teabags, her eyes revealing she was not truly focused on making tea.
+"Yeah, okay, it's not your style. I get that." The kettle gave a merry ding. She silently poured boiling water over teabags, then seemed to study them for a moment.
 
 "Still."
 
 I waited.
 
-Her lips parted, about to speak, when her phone rang. Outside, the whiney-roar of the garbage truck and the rattling thump of bins being emptied obscured her words.
+Her lips parted, about to speak, when her phone rang. Outside, the whining roar of the garbage truck and the rattling thump of bins being emptied obscured her words.
 
-"I might just let you talk to her." She handed to phone to me. "It's your mum."
+"I might just let you talk to her." She handed the phone to me. "It's your mum."
 
-I rocked slightly to one side as I took the phone from her. She'd put it on speaker.
+I rocked to one side with a frustrated grunt as I took the phone from her. She'd put us on speaker.
 
 Mum sounded the way she always did when I got sick — an even mixture of worry and hard-decision making.
 
@@ -96,7 +96,54 @@ Mum sounded the way she always did when I got sick — an even mixture of worry 
 
 
 
+[ “How are you feeling this morning?”
 
+“Better.”
+
+“Better how?”
+
+I glanced at Celeste. She folded her arms.
+
+“It doesn’t hurt as much.”
+
+“And when you pass urine?”
+
+“It still stings a bit.”
+
+“A bit,” Mum repeated. “Charlotte, be straight with me. We both know what a urinary tract infection feels like.”
+
+“I know.”
+
+“Then tell me properly.”
+
+I rubbed at a smudge on the table with my thumb.
+
+“It burns. Not as badly as last night. And I still feel like I need to go when I don’t.”
+
+“Any shivering?”
+
+“No.”
+
+“Nausea?”
+
+“No.”
+
+“Pain in your back?”
+
+“No.”
+
+“And you’re taking the antibiotics exactly as prescribed?”
+
+“Yes, Mum.”
+
+There was a brief silence.
+
+“Good.” Her voice softened, but only slightly. “Now, listen to me, young lady. You have a bit of catching up to do.”
+
+My right knee had decided to do a little dance on its own.
+
+“And you might as well start now.”
+ ]
 
 
 
