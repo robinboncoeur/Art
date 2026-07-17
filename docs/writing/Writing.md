@@ -8,177 +8,264 @@
     
 
 
-## Just Not The Noun
+## It's Different Now
 
 
 [![The Writer][St00]{ .artR width="460" }][St00]
 
 
-[ *Sarah* ]
+[ *Charlotte* ]
 
-When Lauren's keys hit the bowl at the entryway, I felt far too much relief. And, annoyance for feeling relieved. 
+I woke with a start. Someone had kicked me.
 
-'Lauren's a grown woman,' I sternly told myself, 'she can take care of herself.'
+I turned to look at the head hidden by tousled dark hair beside me. And heard a high-pitched strangled voice. 
 
-And then, I felt her kiss on my neck and told myself to sod off.
+And then, another kick.
 
-"Sorry I'm a bit late, got to talking to Celeste," she said.
+I reached out my hand and gently let it settle on the the highest bump. I felt a twitch, the bedding rose a bit as the tousled hair took in a long breath. And then, a sleepy face appeared. 
 
-"Oh? About what?"
+"Was I snoring?"
 
-"This and that," she said—evasively, I thought.
+"No. Talking."
 
-The timer on my phone tinkled: time to turn the sausages.
+Celeste closed her eyes.
 
-"Make yourself comfy, sweetie," I said. "Hope you're okay with garlic mash."
+"I just had the worst dream!"
 
-"Sounds lovely!" 
+"I know. It woke me up."
 
-From the kitchen I watched her remove her shoes. Mum shoes, she called them. Paired with mum jeans—or "Mom-jeans", as the Yanks would say—she was still somewhere between netball tournaments and teacher-association meetings and direct-to-boot stores pickups. She caught me looking and flashed me a smile.
+Her lips flattened. She stared at me.
 
-She could still make my heart skip a beat.
+"How are you feeling?"
 
-And it wasn't just because she pretended my garlic mash made coming home exciting.
+I shrugged.
 
-Dinner was a quiet affair, as it usually was, both of us lost in our own thoughts. I was just looking at the last mouthfuls of mash and thinking I'd served myself too much again when she said:
+"Okay."
 
-"That was so nice!"
+"That's not an answer." She sat up and faced me. "Any better than last night?"
 
-I tried a smile. It produced raised brows.
+Memories of ED doctors asking permission to check my groin, the smell on my urine in a little plastic cup — that *awful* smell — and then, the needle, Celeste's serious eyes and at the end, the relief that it wasn't a surgical infection all came back suddenly, annoying.
 
-"Something on your mind?"
+I nodded.
 
-"It's just Charlotte," I said carefully. "She seems to be pushing it all a bit hard."
+"I'm fine."
 
-"You think?"
+"You said that last night on the way to the hospital."
 
-“She’s behaving as if the building might vote on her by lunchtime.”
+"I just— I don't want to make a bit thing of it, Celeste."
 
-"At least she's consistent," Lauren said with a wry smile. Her eyes sharpened. "She does challenges with both feet. You know that from Maleny."
+"Silly girl, an infection *is* a big thing!"
 
-I shook my head.
+"Are you cross with me?"
 
-"This is different, Lauren. It's physical. And then, there's a history with biology."
+"Actually yes." She sat on the side of the bed, talking at her slippers. "And here's why." She spun around, her face a frown. "Women don't do the 'I'll be right' thing blokes do."
 
-Lauren frowned.
+I stared at my hands.
 
-"Biology?"
+"But—"
 
-I felt my face go a bit red. My fingers clenched into a ball.
+"But nothing. You're not Robinson Crusoe."
 
-“So, okay, I’m probably working from false assumptions, but women learn pain early. We learn what to ignore, what not to ignore, when to smile through it, when to get someone else to look. Charlotte hasn’t had years of that. Not the way most of us have.”
+I followed her into into the kitchenette.
 
-Lauren's brows barely rose.
+"So, what did I do wrong?"
 
-"That's correct," she said. I pressed my lips together, trying not to look triumphant. 
+She flicked on the kettle, then turned to face me. Her look had softened.
 
-"It's a false assumption." My shoulders sagged. 
+"Wrong. This isn't about right or wrong." She dropped teabags into cups. "Learn to share." Her brow creased momentarily, her eyes fixed on me. "Not just the nice things — everything."
 
-“That’s not chromosomes, Sarah.”
+"I don't want to be a complainer, Celeste," I said firmly.
 
-“I know.”
+She studied me for a moment, and dipped her head, her frown softening into somewhat of a grimace.
 
-“It’s experience.”
+"Yeah, okay, it's not your style. I get that." The kettle gave a merry ding. She silently poured boiling water over teabags, her eyes revealing she was not truly focused on making tea.
 
-“And women are better at that experience,” I said, before I could soften it. “Pain, rooms, warning signs. We have to be. Charlotte belongs with us, Lauren, I know that. But she hasn’t had twenty years of learning which aches are ordinary and which ones mean stop.”
+"Still."
 
-"True." Lauren straightened. "However, I think that's all going to be moot."
+I waited.
 
-"How so?"
+Her lips parted, about to speak, when her phone rang. Outside, the whiney-roar of the garbage truck and the rattling thump of bins being emptied obscured her words.
 
-Lauren's smile broadened. She leaned forward.
+"I might just let you talk to her." She handed to phone to me. "It's your mum."
 
-"I think our girl's got something new and exciting coming her way."
+I rocked slightly to one side as I took the phone from her. She'd put it on speaker.
 
-I pushed my plate away. I'd definitely served myself too much mash. 
+Mum sounded the way she always did when I got sick — an even mixture of worry and hard-decision making.
 
-"Really?"
 
-"I was talking to Celeste," Lauren said. "You know she took a phone call, right?"
 
-"Yes, from the 'Heritage Group'. What does that have to do with—"
 
-Lauren raised her finger.
 
-"Not sure if you were following the conversation, but Celeste was looking at Charlotte when she said 'provenance'."
 
-"Wait. Are you saying?"
 
-I glanced at Lauren—she was staring at her plate, suddenly without words. Her smile had faded. I watched her face, which had gone suddenly soft. After a long moment, she sighed, her eyes seeking mine.
 
-"Sorry, just had this thought," she said. "I used to think I was protecting a gentle boy from a bruising world. At least I got the protecting bit right. Just not the noun."
 
-Lauren's smile was thin.
 
-"Did I ever tell you about this time—I think she was five, then—she asked me why I never wore nice things." Her look went far away and her voice followed. "Why didn't I see it then?"
+"Now, listen to me, young lady. You have a bit of catching up to do." I rubbed a smudge on the table with my thumb, and noticed my right knee had decided to do a little dance on its own. "And you might as well start now."
 
-I swallowed and rose out of my chair, a growing tightness in my chest. I circled round Lauren's chair and wrapped my arms around her. She took in a deep breath and melted into me.
+I glanced at Celeste. Her look had gone from slightly frosty to something a bit warmer, pressing her lips with the side of her hand as she peered at me.
 
-"You see her now, darling woman," I said. "Please don't beat yourself up about the past."
+"Yes, mum."
 
-I felt her hair brush my cheek as she nodded.
+"I need more than a 'yes, mum' from you, Charlotte," the voice on the phone said in that tone that always made my back stiffen, "promise me: no more little secrets."
 
-"Celeste told me that back in their last year, she'd told Charlotte she didn't do charity, she did investment." I felt her warm hands envelop mine. "Sarah, she saw her *then!*"
+"Yes mum... I mean— I promise."
 
-I settled into the chair next to her, my hands wrapped in hers.
+I heard Sarah's voice in the background.
 
-"You saw her long before Celeste did, Lauren," I said. "You might have missed a few details, but—" She puffed through her nose. "No, listen. Here's the thing," I continued firmly. "End of the day, you didn't make it about you. Sometimes it involves more than one person for miracles to happen."
+"Remind her what I told in the cafe, Lauren."
 
-Lauren's eyes shone.
+She didn't need to. Only thing was, now I was starting to get what Sarah meant. My mouth went crooked. 
 
-"Thank you, lovely. I needed that."
+*I'd stuffed up.*
 
-I kissed her cheek.
+Everything had changed and I hadn't been paying attention. I was different, and so, the rules were different. Not bad different, or hard different, but *too* different to fit anywhere.
 
-"So, tell me about your conversation with Celeste."
+This was bigger than Wardrobe.
 
-"Well, she told me that the Heritage Group have been engaged by a production company shooting a film in Ballarat," she said. "They're making some gold rush period piece. Bit of an action film too, apparently."
+I wasn't sorting pins.
 
-"Any women in it?"
+"You aren't proving yourself to anyone but yourself, Charlotte," mum said, her voice at that quiet level when her words were to be taken as canon. "Just— stop."
 
-"The women are the *centrepiece*—it's about the women, not the prospectors. They'll need proper *clothing*, not just pretty costumes. The whole kit," she added. "The director wants authenticity."
+"It's exhausting." I heard Sarah's voice grow louder. "And a bit insulting."
 
-"Sounds like the outfits will need to do more than what our Faire girls ask of theirs, then," I said, stacking her plate on top of mine. As I scraped leftovers into the compost bin, something occurred to me. "When is shooting starting?"
+Celeste's brows rose the tiniest bit. She leaned back in her chair, still studying me. She finally reached for the little white box on the bench and placed it in front of me. Gentamicin. I popped one in my mouth, and washed it down with a mouthful of cooled tea.
 
-"No idea. Celeste said she didn't think they would need to go up there straight away. Could be soon, though."
+"Rest, sunshine, take your meds with lots of water... and listen to Celeste," mum said. "You have a lot to learn." 
 
-Lauren opened the cupboard and pulled out a glass. She carefully poured herself a thoughtful glass of Cabernet Sauvignon. She lifted the bottle at me with a question on her face.
+The line went dead and the screen went black. I continued to stupidly look at it, because I couldn't bear to look at Celeste. I swallowed another mouthful of cold tea to rid myself of that metallic taste in my mouth from the antibiotic.
 
-I bit my lip, and shook my head.
+"Are you up for a coffee, petal?"
 
-"No, thank you." As I began to wipe the bench, my phone rang.
+The thought of coffee sounded amazing.
 
-It was Celeste.
+"Would that be okay?" I said carefully.
 
-"Hi Sarah." She sounded serious. "I'm trying to reach Lauren. Is her phone switched off?"
+"Only if you feel up to it," Celeste said. "Let's get dressed, shall we? You can wear that new jumper I got you."
 
-Lauren was staring at me, her glass poised but not raised.
+It was prettier than anything in my wardrobe. Celeste's lips curled up as I slipped it on.
 
-"Hang on. I'll pass the phone to her."
+"How did you know it would fit?"
 
-I watched Lauren's eyes widen, her glass of wine forgotten. As she listened, her hand went over her mouth.
+"You've been a size ten since I've known you," she said. Her eyebrows rose. "However, it's time you learn proper shopping, not this 'find-it, kill-it, drag-it-home' thing you do."
 
-"Is—is she okay now?" she said.
+"What do you mean by proper shopping?"
 
-She seemed to sink into the chair. She finally nodded and closed her eyes.
+"Trying things on." I grunted, rocking to one side again. "We don't have to get anything fancy, but there's really no other way to know what suits you."
 
-"Thanks for letting me know, Celeste. Please keep—" She stopped. Finally: "Of course. Thank you. Tell her I love her."
+"Why can't I just wear what I usually do?"
 
-For a long time, neither of us spoke. A wind had come up and was making a neighbour's side fence door bang against the wall.
+"Because you're very soon going to be in a place where how you look counts." She pursed her lips. "Look smart, be smart."
 
-"Not good?" I said finally.
+I shrugged.
 
-"Infection. She's in hospital, on a drip. She'll be fine, but—"
+"Wrong attitude."
 
-I bit words in half and stared at the window. The wind blew the trees, and the light from the streetlamp flickered against the glass. When I finally glanced over at Lauren, it felt hard to swallow. I took the glass off the table in front of her and poured the wine down the sink. I set the glass down slowly, and taking Lauren's hand led her to the couch.
+I closed my eyes.
 
-I rocked and cradled her as her tears silently fell.
+*Fair enough.*
 
-*Can someone please tell Charlotte she doesn't have to prove herself, anymore?*
+As I was finished brushing my teeth — mostly to rid myself of that 'snacking-on-thumbtacks' taste — Celeste handed me a new lipstick in a colour expecting a bit of bravery. I frowned at it for a moment.
 
-We sat and listened to the wind.
+"We're going for *coffee*."
 
-It didn't have any answers, either.
+"Yes. Yes, we are." Her meaning was clear.
+
+I applied it the best I knew how, then glanced at Celeste. She was biting her lip. I sighed.
+
+"So, this is the fun bit," she said. "You look— okay. We'll do refinements at some stage."
+
+"How long will we be out?"
+
+"Why?"
+
+"Just wondering if I should bring my next dose."
+
+Celeste gave me a pleased smile.
+
+"Now you're getting it, Charlotte." She pulled a blister-pack from the box, and put it into my handbag. "Large glass of water before we leave."
+
+I was glad I'd decided on the warmer jacket as a brisk wind had come up. As Celeste pulled the car door shut, she said:
+
+"When you neglect yourself, it puts a workload and worry on others. Like your mum, for instance."
+
+The turn signal clicked, and we rocked slightly as the car moved forward.
+
+"And you, I guess." The road in front of us faded — I could only see her eyes last night.
+
+"And me." She cleared her throat. "And Mara. And Sarah."
+
+We pulled up closed to the cafe. Celeste shut off the engine.
+
+The question was burning a hole through my restraint.
+
+"Why is that, though?" I asked quietly.
+
+We sat in silence for a while. When I glanced over, Celeste was staring in front of her. She didn't look at me.
+
+"This is a dangerous world for women," she said flatly and opened her door.
+
+The wind was even colder near the water. We turned up our coat collars and walked quickly to the front door of the cafe. We were barely inside when I noticed a young man sitting with an older woman in front of the window. The woman's head was turned to the window while the man's eyes were on us. Just, not on our faces. I felt instantly uncomfortable.
+
+My eyes flitted towards Celeste. I tried to mimmick her movements, her poise — turned my back to the couple at the window. And felt Celeste's eyes on me.
+
+The boombox next to the water cooler was playing Queen as we grabbed our coffees. I was looking around for a place to sit when I felt Celeste's hand on mine.
+
+When we sat down, I threw a quick look at the couple at the window. The man's back faced us.
+
+*You're a genius, Celeste.*
+
+"Doors are important, too," she said softly.
+
+"Doors?"
+
+She nodded.
+
+"You're definitely more aware than you were when you left for Maleny," she said. "I'm happy you met Brittany — that was a good thing." She had a sip of her coffee. "But with Ballarat, things are going to move up a notch."
+
+My lipstick had left a rose-coloured slur on the lip of the brown ceramic cup.
+
+"Am I ready for this?"
+
+"No."
+
+Queen took five, and Vanilla Ice took its place.
+
+"Will I be ready?"
+
+Celeste's smile was thin.
+
+"I hope so. Mind you, you found yourself in the deep end up in Queensland, and you did fine." My coffee was finally cool enough to drink. I took another sip. Celeste was looking past me towards the window, her face, granite. "We're leaving."
+
+I'd bare drunk half my cup.
+
+She rose quickly out of her chair.
+
+"Don't forget your bag."
+
+As we stepped towards the front door, I noticed that the woman was no longer there and that the man had moved to her seat. My skin crawled at the look he gave us. 
+
+The biting cold of the wind outside the cafe had a strangely welcome feeling of safety, of normal. 
+
+Celeste walked quickly.
+
+I didn't lag behind.
+
+I didn't really breathe properly until the car was moving.
+
+"You right?"
+
+I nodded quickly. I wasn't, not really. The set of her mouth said she didn't believe me.
+
+"Let's recap." She held up a thumb. "You picked up bad vibes by the window. That was excellent." She slowly extended her index finger. "But then— what?"
+
+My mouth went sideways as I lifted my shoulders.
+
+
+
+
+
+
 
 
 
