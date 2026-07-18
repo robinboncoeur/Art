@@ -34,7 +34,7 @@ Celeste closed her eyes.
 
 "I know. It woke me up."
 
-Her lips flattened. She stared at me.
+Her lips flattened. She looked at me over her shoulder, eyes narrowed.
 
 "How are you feeling?"
 
@@ -64,7 +64,7 @@ I stared at my hands.
 
 "But—"
 
-"But nothing. You're not Robinson Crusoe."
+"But nothing. You're not Robinson Crusoe, and you're making me guess the problem."
 
 I followed her into the kitchenette.
 
@@ -72,53 +72,49 @@ I followed her into the kitchenette.
 
 She flicked on the kettle, then turned to face me. Her look had softened.
 
-"Wrong. This isn't about right or wrong." She dropped teabags into cups. "Learn to share." Her brow creased momentarily, her eyes fixed on me. "Not just the nice things — everything."
+"Wrong. This isn't about right or wrong." She dropped teabags into cups. Her brow creased momentarily. "You need to learn to share. Not just the nice things — everything."
 
-"I don't want to be a complainer, Celeste," I said firmly.
+"But I don't want to be a complainer, Celeste," I said.
 
 She studied me for a moment, and dipped her head, her frown now more a grimace.
 
-"Yeah, okay, it's not your style. I get that." The kettle gave a merry ding. She silently poured boiling water over teabags, then seemed to study them for a moment.
+"Yeah, okay, it's not your style. I get that." The kettle gave a merry ding. She silently poured boiling water over teabags, then studied them for a moment.
 
 "Still."
 
 I waited.
 
-Her lips parted, about to speak, when her phone rang. Outside, the whining roar of the garbage truck and the rattling thump of bins being emptied obscured her words.
+Her lips parted, about to speak, when her phone rang. Outside, the whining diesel thrum of the garbage truck mixed with the clattering thump of bins being emptied obscured her words.
 
-"I might just let you talk to her." She handed the phone to me. "It's your mum."
+"I might just let you talk to her." She handed the phone to me. "It's your mum. You're on speaker, Lauren."
 
-I rocked to one side with a frustrated grunt as I took the phone from her. She'd put us on speaker.
+I rocked to one side with a frustrated grunt as I took the phone from her.
 
 Mum sounded the way she always did when I got sick — an even mixture of worry and hard-decision making.
 
-
-
-
-
-[ “How are you feeling this morning?”
+“How are you feeling this morning, Charlotte?”
 
 “Better.”
 
-“Better how?”
+I heard a puff. “Better how?”
 
-I glanced at Celeste. She folded her arms.
+I glanced at Celeste. She'd folded her arms, eyebrows raised.
 
 “It doesn’t hurt as much.”
 
-“And when you pass urine?”
+“Does it hurt when you pass urine?”
 
-“It still stings a bit.”
+“Um, a bit.”
 
-“A bit,” Mum repeated. “Charlotte, be straight with me. We both know what a urinary tract infection feels like.”
+“A bit,” Mum repeated. “Charlotte, be straight with me. Celeste and I know what a urinary tract infection feels like.”
 
-“I know.”
+“Okay.”
 
 “Then tell me properly.”
 
-I rubbed at a smudge on the table with my thumb.
+I stared at the table, rubbing at a smudge with my thumb.
 
-“It burns. Not as badly as last night. And I still feel like I need to go when I don’t.”
+“It stings. Not as badly as last night. And I still feel like I need to go when I don’t.”
 
 “Any shivering?”
 
@@ -132,31 +128,29 @@ I rubbed at a smudge on the table with my thumb.
 
 “No.”
 
-“And you’re taking the antibiotics exactly as prescribed?”
+“And he's taking the antibiotics exactly as prescribed?”
 
-“Yes, Mum.”
+“Yes, Lauren,” Celeste replied.
 
 There was a brief silence.
 
-“Good.” Her voice softened, but only slightly. “Now, listen to me, young lady. You have a bit of catching up to do.”
+“Good.” Her voice softened, but only slightly. “Now, listen to me, young lady. You have a bad habit you need to break.”
 
 My right knee had decided to do a little dance on its own.
 
 “And you might as well start now.”
- ]
 
+"What do you mean?"
 
+"You have a right to privacy. But in medical matters, you don't have a right to secrecy. They're not the same thing."
 
+I glanced at Celeste. She'd settled into a chair, pressing her lips with the side of her hand as she peered at me.
 
-"Now, listen to me, young lady. You have a bit of catching up to do." I rubbed a smudge on the table with my thumb, and noticed my right knee had decided to do a little dance on its own. "And you might as well start now."
+"Yes, Mum."
 
-I glanced at Celeste. Her look had gone from slightly frosty to something a bit warmer, pressing her lips with the side of her hand as she peered at me.
+"I need more than a 'yes, Mum' from you, Charlotte," the voice on the phone said in that tone that always made my back stiffen, "promise me: no more little secrets when you don't feel right."
 
-"Yes, mum."
-
-"I need more than a 'yes, mum' from you, Charlotte," the voice on the phone said in that tone that always made my back stiffen, "promise me: no more little secrets."
-
-"Yes mum... I mean— I promise."
+"Yes Mum... I mean— I promise."
 
 I heard Sarah's voice in the background.
 
@@ -166,21 +160,25 @@ She didn't need to. Only thing was, now I was starting to get what Sarah meant. 
 
 *I'd stuffed up.*
 
-Everything had changed and I hadn't been paying attention. I was different, and so, the rules were different. Not bad different, or hard different, but *too* different to fit anywhere.
+Everything had changed and I hadn't been paying attention. I wasn't a different person, not really, but the way I fitted amonst people had changed. 
 
-This was bigger than Wardrobe.
+The rules I'd grown up with didn't apply anymore. And there were a whole bunch more I had no idea existed.
+
+They were bigger than Wardrobe.
 
 I wasn't sorting pins.
 
-"You aren't proving yourself to anyone but yourself, Charlotte," mum said, her voice at that quiet level when her words were to be taken as canon. "Just— stop."
+"You need to stop thinking you still need to prove yourself. It's just not a thing, Charlotte, and it gets you into trouble," Mum said, her voice at that quiet level when her words were to be taken as canon. "Just— stop."
 
-"It's exhausting." I heard Sarah's voice grow louder. "And a bit insulting."
+"It's exhausting." I heard Sarah's voice grow louder.
 
 Celeste's brows rose the tiniest bit. She leaned back in her chair, still studying me. She finally reached for the little white box on the bench and placed it in front of me. Gentamicin. I popped one in my mouth, and washed it down with a mouthful of cooled tea.
 
-"Rest, sunshine, take your meds with lots of water... and listen to Celeste," mum said. "You have a lot to learn." 
+"Rest, sunshine, take your meds with lots of water... and listen to Celeste," Mum said. 
 
-The line went dead and the screen went black. I continued to stupidly look at it, because I couldn't bear to look at Celeste. I swallowed another mouthful of cold tea to rid myself of that metallic taste in my mouth from the antibiotic.
+The line went dead.
+
+I continued to stupidly look at the black screen, because I couldn't bear to look at Celeste.
 
 "Are you up for a coffee, petal?"
 
@@ -190,7 +188,7 @@ The thought of coffee sounded amazing.
 
 "Only if you feel up to it," Celeste said. "Let's get dressed, shall we? You can wear that new jumper I got you."
 
-It was prettier than anything in my wardrobe. Celeste's lips curled up as I slipped it on.
+It was the prettiest garment in my wardrobe. Celeste's lips curled up as I slipped it on.
 
 "How did you know it would fit?"
 
@@ -198,19 +196,11 @@ It was prettier than anything in my wardrobe. Celeste's lips curled up as I slip
 
 "What do you mean by proper shopping?"
 
-"Trying things on." I grunted, rocking to one side again. "We don't have to get anything fancy, but there's really no other way to know what suits you."
+"Trying things on." I grunted, rocking to one side again. "There's really no other way to know what suits you."
 
-"Why can't I just wear what I usually do?"
+"Why can't I just carry on wearing my normal stuff?"
 
-"Because you're very soon going to be in a place where how you look counts." She pursed her lips. "Look smart, be smart."
-
-I shrugged.
-
-"Wrong attitude."
-
-I closed my eyes.
-
-*Fair enough.*
+"Because you're very soon going to be in situations where how you look counts." She pursed her lips. "Look smart, be smart."
 
 As I was finished brushing my teeth — mostly to rid myself of that 'snacking-on-thumbtacks' taste — Celeste handed me a new lipstick in a colour expecting a bit of bravery. I frowned at it for a moment.
 
@@ -220,7 +210,7 @@ As I was finished brushing my teeth — mostly to rid myself of that 'snacking-o
 
 I applied it the best I knew how, then glanced at Celeste. She was biting her lip. I sighed.
 
-"So, this is the fun bit," she said. "You look— okay. We'll do refinements at some stage."
+"So, this is the fun bit," she said. "You look— okay. We'll do refinements later."
 
 "How long will we be out?"
 
@@ -234,13 +224,40 @@ Celeste gave me a pleased smile.
 
 I was glad I'd decided on the warmer jacket as a brisk wind had come up. As Celeste pulled the car door shut, she said:
 
-"When you neglect yourself, it puts a workload and worry on others. Like your mum, for instance."
+"Here's the thing, Charlotte. When you keep us in the dark about how you feel, it sends a message."
 
-The turn signal clicked, and we rocked slightly as the car moved forward.
+The turn indicator clicked, and we rocked slightly as the car moved forward.
 
-"And you, I guess." The road in front of us faded — I could only see her eyes last night.
+"Message?"
 
-"And me." She cleared her throat. "And Mara. And Sarah."
+"Yes, it says you don't trust us. Like, your mum, for example."
+
+The road in front of us faded — I could only see Celeste's eyes last night.
+
+"And you, I guess." 
+
+"And me." 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+She cleared her throat. "And Mara. And Sarah."
 
 We pulled up closed to the cafe. Celeste shut off the engine.
 
