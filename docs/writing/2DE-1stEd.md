@@ -205,9 +205,9 @@ Just then, Sarah's phone pinged. She glanced down at it and grinned.
 
 [ Celeste ]
 
-The front-door lock was too loud in the tiny hallway. When I pulled the door shut, the quiet inside the flat didn’t settle — it judged. I sighed. The tension did not loosen in my ribs.
+The front-door lock was too loud in the tiny hallway. When I pulled the door shut, the quiet inside the flat didn’t settle—it judged. I sighed. The tension did not loosen in my ribs.
 
-I flicked the kettle on — there's always tea.
+I flicked the kettle on—there's always tea.
 
 It was just for a month.
 
@@ -245,7 +245,7 @@ She paused.
 
 "I—" She swallowed. "I screwed up today, Celeste. Like, so bad."
 
-"How?" My hands had tightened on the phone. She was shrinking — the old Charlie shape — and it made something in me go hard and protective at the same time.
+"How?" My hands had tightened on the phone. She was shrinking—the old Charlie shape—and it made something in me go hard and protective at the same time.
 
 “Charli.” I kept my voice level. “Listen to me. Are you allowed to make mistakes?”
 
@@ -257,7 +257,7 @@ Her jaw was tight. "No, of course not."
 
 "Right, then! Then we’re in the category of: 'learning curve'. Not 'catastrophe'.” I let that land. "Tell me what happened.”
 
-The words came in a rush — finding the perfume vial, how it reminded her of me so much it hurt, how she’d clung to that memory and then, how it had been spoiled. Her voice thinned. When she looked back at me, her eyes were wet.
+The words came in a rush—finding the perfume vial, how it reminded her of me so much it hurt, how she’d clung to that memory and then, how it had been spoiled. Her voice thinned. When she looked back at me, her eyes were wet.
 
 "You do know what the name means, don't you?" I said.
 
@@ -315,13 +315,13 @@ I took in a deep breath and tapped my phone. No video call.
 
 "And the crates?"
 
-"No shelving. And the rails are laughable — pre-teen dance costumes would struggle. And there's, what, three?" She snorted. "So yes, a bit of adjusting needs doing."
+"No shelving. And the rails are laughable—pre-teen dance costumes would struggle. And there's, what, three?" She snorted. "So yes, a bit of adjusting needs doing."
 
 My grip tightened on my phone as I got up to flick the kettle on.
 
 "Anything for Charli to be doing yet?" I asked.
 
-A pause — long enough to feel.
+A pause—long enough to feel.
 
 "Yes and no. Charli is—" I heard a soft sigh. Sarah, at a loss. "Look, this is all a bit new... for both of us." I waited, watching little bubbles form at the bottom of the glass kettle. "I do think she'll get up to speed," she said finally, "but I'll be honest, Celeste, she's a bit of a babe in the woods. This isn't Wardrobe anymore."
 
@@ -388,139 +388,133 @@ I didn't have it.
 
 [ Charli ]
 
-The sun drove hot needles into dry eyes. I squinted and rolled away, then sat bolt upright. 
+The sun drove hot needles into my eyes. I squinted and rolled away, then sat bolt upright. 
 
-Reached for my phone. Tapped.
+I reached for my phone and tapped the black screen.
 
-Dead.
+Nothing. Dead.
 
-Heart thudding in my throat, I pulled on black leggings and green smock. The pins I'd shoved into my hair clawed at my scalp. I glanced at the kitchenette clock, clutched the training clipboard and keys and ran out the door.
+Heart thudding in my throat, I pulled on my black leggings and a green smock. The pins clawed at my scalp as I shoved them into my hair. With a quick glance at the kitchenette clock, I grabbed the training clipboard and keys and ran out the door.
 
 Last night's shower had slicked the clay-covered stones. My thin-soled shoes slid on slippery cobblestone as I hurried past workmen. One nudged the other. Their eyes stuck. 
 
 My neck shortened.
 
-Jaw set, I tucked my chin. 
+I tucked my chin and kept walking. 
 
-I didn't run or slow, but lengthened my stride until I reached Wardrobe.
-
-I pushed the door in and stepped into grit and noise. Dust and stale sweat bit my nose. Drills whined and circular saws screamed, the noise vibrated in my teeth. The workmen didn't even glance at me. 
+When I pushed the Wardrobe door open it was all grit and noise. Dust and stale sweat bit my nose. Drills whined and circular saws screamed, their sound vibrating in my teeth. The workmen didn't even glance at me. 
 
 I saw Fiona and Sarah at the far end and my breathing eased.
 
-"Sorry I'm late, my phone…"
+"Sorry I'm late, my phone—"
 
-Fiona smiled, shook her head.
+Fiona smiled and shook her head.
 
-"It's all good, Charli," she said. "Brittany and her troupe aren't here yet. Besides, I'm not sure how much work anyone is going to be able to do, today." She shrugged and grinned at Sarah and an electrician. The 'sparkie' was wiping sweat from his neck. "Except Sarah, of course. Ah! Brittany!"
+"It's all good, Charli," she said. "Brittany and her troupe aren't here yet. Besides, I'm not sure how much work anyone is going to get done today." She grinned at Sarah, who was with an electrician wiping sweat from his neck. "Except Sarah, of course. Ah! Brittany!"
 
-I turned. Three young women were approaching. The shortest one wore a lopsided smile. She ducked her head.
+I turned. Three girls were approaching. The shortest one wore a lopsided smile. She ducked her head.
 
-"Sorry, Fiona.."
+"Sorry, Fiona—"
 
-Fiona held up her hand, then waved it at the dust and racket.
+Fiona waved her hand at the dust and racket.
 
-"Can't even hear myself think in this mess. Why don't you girls go grab a coffee somewhere? Like, Montville… there's that lovely café you told me about. 'Poets', wasn't it?" She placed a gentle hand on my shoulder. "Take Charli with you."
+"Can't even hear myself think in this mess. Why don't you girls go grab a coffee somewhere? There's that lovely café you told me about in Montville. 'Poets', wasn't it?" She placed a hand on my shoulder. "Take Charli with you."
 
-I bit my lip.
+My eyes widened as my face heated.
 
-"Um, I forgot my purse…"
+"What's wrong?"
 
-"Not to worry. My shout," Brittany said easily. "Do you want to leave your clipboard?"
+"Um, I sort of forgot my purse—"
 
-"I'll take care of that for you," Fiona said. "You girls run along. Enjoy your coffee."
+"Not to worry. My shout," Brittany said easily. "Why don't you leave your clipboard."
 
-I tried to catch Sarah's eye. Failed.
+"I'll take care of it for you," Fiona said. I handed her the clipboard. "You girls run along. Enjoy your coffee."
+
+As we turned to leave, I tried to catch Sarah's eye. Failed.
 
 Fiona noticed.
 
 “I’ll let Sarah know where you are,” Fiona said. "Run along, now."
 
-As we approached Brittany's car, my jaw dropped.
+Brittany's car was the only clean car in the car park. My jaw dropped.
 
-"Wow! It's so pretty," I said.
+"Wow! It's so pretty!"
 
-"And, it's electric," Brittany said proudly as we climbed in. After the dust and sweat, the car not only smelled new, but pleasant—cozy. "Seatbelts."
+"And, it's electric," Brittany said proudly as we climbed in. After the dust and sweat, the vehicle's new-car smell was cosy. "Seatbelts."
 
 The windows shut out construction noise and morning heat. We floated out of the carpark, the turn indicator clicking softly as we turned onto the main road. 
 
-The tyres made a steady hush on the ridge road to Montville. Green paddocks streamed past my window, and every so often the land fell away into cliff and cloud. Behind me, one of the women finally spoke.
+The tyres made a steady hush on the road. Green paddocks streamed past my window, and every so often the land fell away into cliffs and clouds. 
 
-"Hi, I'm Natalie," she said.
+Behind me, one of the girls finally spoke.
 
-"Nice to meet you. Sorry I can't shake your hand," I said. "I'm Charli."
-
-I caught Brittany's lips twist a bit funny.
+"Hi, I'm Natalie."
 
 "The shy one is Ellen," she said.
 
-"Ellie!" the shy one protested. I turned and smiled, tiny wave.
+"Ellie!" the shy one protested.
 
 "How are you liking Queensland?" asked Natalie.
 
-"Your mosquitoes are bloodthirsty!" I said. "The itch is awful, and you don't even see them biting."
+"Your mosquitoes are brutal!" I said. "The itch is awful, and you don't even see them biting."
 
 The bite on my wrist was a round red dot. Brittany glanced over, shook her head.
 
-"That's not a mozzie bite, Charli. That's from a midge. They're worse!"
+"That's not a mozzie bite, Charli. That's from a midge. I reckon they're worse!"
 
 I stared out the window, trying to ignore the itch.
 
-"Queensland is beautiful… so lush and green," I said.
+"Queensland is beautiful—so lush and green," I said.
 
-"You got here during our wet season," Ellie said. "Green hills, mozzies, midges… all goes together."
+"You got here during our wet season," Ellie said. "We got it all."
 
-The car stopped opposite Poets, outside a Salvos. My hands searched for something that wasn’t there. I checked my hair in the visor mirror. As I got out, a middle-aged woman in a paisley caftan exited the store and smiled at me, her auburn Carole King hair radiating from her head. I smiled back.
+The car stopped opposite the café, outside a Salvos. My hands searched for something that wasn’t there. I checked my hair in the visor mirror. As I got out, a middle-aged woman with auburn Carole King hair in a paisley caftan exited the store.
 
 "Very alternative town," Brittany murmured as we crossed the street. "I love it here."
-
-An elderly couple sat near the entrance of the café, carefully spreading jam on their scones as if nothing in the world required haste.
 
 I was studying the chalkboard when Brittany spoke.
 
 "What'll you have, Charli?"
 
-I bit my lip. "Just um… just a small flat white, thanks. Oh, with almond milk, please." Heat rose in my neck. "And, thank you!"
+I bit my lip. "Just um— just a small almond flat white, thanks." Heat rose in my neck. "Oh, and thank you!"
 
 Brittany nodded.
 
 "Why don't you and Ellie find us a nice table, Charli? Natalie and I can manage the drinks. Be with you in just a few."
 
-Ellie and I sat down under a fan doing its best to even out the morning warmth. Brittany and Natalie appeared moments later.
+Ellie and I sat down under a fan doing its best to even out the morning warmth.
+
+Brittany and Natalie appeared moments later.
 
 "The barista said he'll bring our order out." She settled comfortably into her chair and leaned her cheek against her curled fingers. "So, tell us, Charli, how did you get into this job?"
 
-I stared at the table.
+"Well, at first it was a summer job thing," I began. I looked up at Brittany's expectant face. "I mean, my Mum had me do some sewing before, so that helped.”
 
-"Well, it was a summer job thing…" I began, licking my lips. I looked up at Brittany's expectant face. "I mean, my Mum had me do some sewing before, so that helped." Brittany's eyebrows asked for more. “I guess I like figuring out how things fit together.”
+"So you're a costume designer?"
 
-"So, are you a costume designer?"
-
-"Not really. I do repairs, and I'm a tester for new designs…"
+"Oh no. I just do repairs, and I'm a tester for new designs—"
 
 "A tester?"
 
-I bit a nail. Nodded quickly.
+I nodded quickly.
 
 "Well, yeah." Her eyes flicked from one face to another. "Things like stays are impossible to get right at the first go."
 
 "What's a 'stay'?" Ellie asked.
 
-"It's sort-of like a corset. But isn't. It's supportive, not as constricting."
+"It's sort-of like a corset. But isn't. It's supportive, not constricting."
 
 "Do our costumes include stays?" asked Natalie.
 
-"Stays are from the 1700s. This Faire is historically set in the 1830s… so no. Technically, corsets." The women groaned. "But, we designed them for movement and breath," I said. "We were thinking of your humidity and everything. And they're not 'one size fits all'." The grimacing eased a fraction.
+"No, stays are from the 1700s. This Faire is historically set in the 1830s. So, the costumes will include corsets."
 
-"Look, I get we won't be wearing them, except for testing," Brittany said. "But the actresses would whinge if the costumes are too uncomfortable. By the way, what are they made of?"
+"Look, I get we won't be wearing them, except for testing," Brittany said. "But the actresses will whinge if the costumes are too uncomfortable."
 
-"A sort of cotton called 'coutil', and linen. And some light boning for structure."
-
-"Have you worn one? Like, all day?" Ellie asked. 
+"Have you ever worn one? Like, all day?" Ellie asked. 
 
 I nodded.
 
-"I had to test every costume for at least a day, sometimes for longer, just to check seams and all that. So yeah, I wore one. And it was not tailored for me, either." 
+"I had to test every costume for at least a day, sometimes longer, just to check seams and all that. So yeah, I wore one. And it was not tailored for me, either."
 
 I bit the inside of my mouth. Brittany's eyebrows shot up.
 
@@ -528,87 +522,49 @@ I bit the inside of my mouth. Brittany's eyebrows shot up.
 
 I held my breath for a long moment.
 
-"We do special fittings if needed," I said. My lips stayed parted. I flicked a glance at Brittany. Her lower lip rose briefly into a puzzled frown and then she gave a tiny shrug.
+"We sometimes do special sizes for people who don't fit into the usual categories." 
+
+Brittany frowned briefly and then gave a tiny shrug.
 
 I exhaled slowly as our coffees arrived. The barista had a white towel draped over his left forearm.
 
-"Voilà, mesdemoiselles," he said. "I have an iced coffee… two Cappuccinos… and, a small almond flat white for?" My hand went up and down quickly. "You are… on holidays?"
+"Voilà, mesdemoiselles," he said. "I have an iced coffee, two cappuccinos and— a small almond flat white for?" My hand popped up a bit too quickly. "You are— on holidays?"
 
-"No, I'm here for work," I said with furtive glances in his direction. "You know, the new…"
+"No, I'm here for work," I said with furtive glances in his direction. "You know, the new—"
 
-"This Cappuccino is superb!" Brittany cut in. "I'm impressed!"
+"This cappuccino is superb!" Brittany cut in. "I'm impressed!"
 
-"Thank you! Will there be anything else?" he asked. I stared at my flat white, lips tight. Footfalls receded into the café. When I looked up, Brittany was eyeing me, her lips set in almost exactly the same curve as Sarah's yesterday. I grimaced. Brittany's smile broadened.
+"Thank you! Will there be anything else?" I stared at my coffee cup until his footsteps receded behind me. When I looked up, Brittany was eyeing me, her lips set in almost exactly the same curve as Sarah's yesterday.
 
 I opened my mouth, then closed it.
 
-"I didn't realise your Wardrobe actually designed costumes," Brittany said. "Like, make your own patterns and everything?"
+"I didn't realise your Wardrobe actually designed costumes," Brittany said. "Like, you make your own patterns and everything?"
 
-My chest eased. Slightly. My mouth tried a smile.
+"Yes, Celeste did—she is really clever. Mara taught her. She's our designer."
 
-"Yes, we took a lot of museum images and Celeste drafted a rough pattern."
+"I thought you said you were a tester," Natalie cut in. "Do you do repairs as well?"
 
-I stopped.
+"I ended up testing costumes because I could tell where the weak spots were. I actually started by repairing."
 
-Brittany's eyes softened at the name, searching my face. My hands circled the warm cup. I felt heat build up behind my eyelids. A loud motorcycle roared by. I snorted.
-
-"Sorry, just thinking of home," I said.
-
-"Homesick already? You just got here!" Ellie said. I grinned at her.
-
-"Designing costumes sounds exciting," Brittany said, taking a sip of her Cappuccino. "Would you suggest going to design school for costumes?"
-
-"Yes, I would. Celeste didn't, though," I said. "She's just really clever. Mara taught her. She's our designer."
-
-"Do you think Mara would teach me, Charli?"
-
-I swallowed. "Well, I can't speak for Mara, but I'm pretty sure something could be worked out. For now, the focus is on costume maintenance and repair, which is what I'm here to help with."
-
-"But wait. You were a tester," Natalie cut in. "No offence, but how would you know how to repair costumes?"
-
-"I ended up testing costumes because I could tell where the weak spots were, but I started by repairing. My Mum taught me how best to make a seam stronger."
-
-Brittany nodded, staring at a spot in front of her for a moment. Then her chin rose and a frown crossed her face.
-
-"So, it's all about seams, then?" Ellie asked.
-
-"Yes. Keep seams flat, do not stitch in desperation, and the actresses' dresses won't fall off their bodies. That's it."
-
-"Sounds easy," Natalie said.
-
-"There's probably more to it than that," Brittany said with a little snort.
-
-When we got back to the car, I asked:
+When we got back to the car, I asked Brittany:
 
 "When do you think we can actually get to work in the new Wardrobe? Any idea when it'll be ready?"
 
 Brittany shrugged.
 
-"I hate this sitting around," she said, shaking her head. "You can go for just so many coffees."
-
-I stared out the window for a while as we drove back, gazing down on the lush pastureland.
-
-My hands opened before me, and I knew, suddenly, what to ask.
+My hands opened before me. I had an idea.
 
 "Brittany, is there any special reason we have to do our training sessions in Wardrobe?"
-
-She stared at the road, her lower lip pushing up a pout.
 
 "Can't think of any. Where do you suggest?"
 
 "Look, all we really need is a costume and a clean room with a table and chairs."
 
-"The costumes are meant to get here this arvo," Ellie piped up.
-
-"So, just a clean room."
-
-Fiona's empty office smelled of fresh plaster and wood dust. It features a desk and four chairs. We had just settled into chairs when through the open window I heard a large diesel engine.
-
-Beep-beep-beep.
+When we got back, we did a quick tour. The only place that seemed suitable was Fiona's empty office, which still smelled of fresh plaster and wood dust. It had a desk and four chairs. We had just settled into the chairs when I heard a large diesel engine outside.
 
 Brittany's face snapped to the window.
 
-"Our costumes!"
+"The costumes are here!"
 
 Fiona was standing in the loading dock, hands on hips.
 
@@ -616,13 +572,17 @@ Fiona was standing in the loading dock, hands on hips.
 
 I stepped forward.
 
-"Could we help unload a bit as well?" I asked. "I sort-of need to have a costume to demonstrate things."
+"Would you like us to help unload?" I asked. "I need a costume to demonstrate with."
 
 Fiona had that Wardrobe face on—the one that didn’t invite discussion.
 
-"We will bring one to you," she said.
+"We'll bring one in to you," she said.
 
-Back in Fiona's office, I stared at my notes. The page suddenly looked… ambitious. I flicked a glance at Brittany. Her lips moved into a quick smile, her eyes on me, not on the clipboard. Studying.
+Back in Fiona's office, I stared at my notes. The page suddenly looked— ambitious. I flicked a glance at Brittany. Her lips moved into a quick smile.
+
+Her eyes were not on the clipboard, but on me. 
+
+Studying.
 
 I pulled in an unsteady breath.
 
@@ -630,95 +590,77 @@ I pulled in an unsteady breath.
 
 "If."
 
-"We spent a lot of time testing. Which meant wearing the costume during the day doing all sorts of things. Lifting, bending, carrying. And even having someone pulling at the clothing, because… people do. If we saw a seam that was weak, we first tried reinforcing. We had to redesign it for bodies now—different from the 1900s."
+"We did spend a lot of time testing. Which meant wearing the costume during the day doing all sorts of things. Lifting, bending, carrying. And even having someone pulling at the clothing, because—people do. If we found a weak seam, we would reinforce it. The costumes had to be redesigned for today's bodies."
 
 "How?"
 
-"Well, people back then were smaller. Like, physically. We had to design for—like, today's well-nourished young woman…" Brittany giggled. "What?"
+"Well, people back then were smaller. Like, physically. We had to design for, like, a well-nourished young woman."
 
-"Well-nourished! That's such a nice way to say—." She pursed her lips with a sidelong glance. I shrugged.
+Brittany giggled. 
 
-"Obviously I could test for only a certain body type. I hope to have caught all the issues. But—"
+"What?"
 
-Brittany nodded.
+"Well-nourished! That's such a nice way to say—" She pursed her lips with a sidelong glance. "We won't know until the actresses have worn them for a while, will we?"
 
-"We won't know until the actresses have worn them for a while," she said.
-
-"That's right," I agreed. "And when they come in with a split seam, here's what to look for—" I began.
+"When they come in with a split seam, here's what to document—" I began.
 
 "Wait, what? If a seam is split, we just repair it, right?"
 
-"Well, you actually want to document it first," I said. "Take pictures. Write down as many details as possible: who was wearing it, what were they doing. That sort of thing. If a garment keeps failing at the same spot, the designers need to know."
+"Well, you actually want to assess the damage first," I said. "Take pictures. Write down as many details as possible: who was wearing it, what they were doing. That sort of thing. If a garment keeps failing at the same spot, we need to know."
 
-"Oh." Her mouth stayed open, for a moment, and she smiled. "And so, we tell you about it?"
+I felt a sharp pang. My chair in Wardrobe seemed very far away.
 
-"Oh yes!"
+"So I document it," Brittany said, "and if it keeps happening to the same seam, I call you."
 
-"You have quite a system." Her voice was warm.
+"Or email," I said. "Probably email, with pictures."
 
-I looked down for a moment, because meeting her gaze felt like stepping on a stage.
+“Email,” she echoed, like she was filing it away. She picked at the hem of her smock, then let it fall with a sigh.
 
-"So I document it," Brittany said, "and if it keeps happening, I call you."
+“I hate being new at this,” she said. “Not the work. You know, that feeling that everyone can tell I’m trying too hard.”
 
-"Or email," I said. "Probably email."
+I smiled, because it was either that or confess I was doing the same thing.
 
-“Email,” she echoed, like she was filing it away. She picked at the hem of her smock, then let it fall. 
-
-“I hate being new,” she said. “Not the work. The… feeling like everyone can tell I’m trying too hard.”
-
-I smiled, because it was either that or confess I was doing the same thing with my ribs.
-
-Brittany looked up. “You don’t look like you’re trying too hard.”
+Brittany looked up. “You don’t look like you have to try at all.”
 
 “Oh, I did,” I said. “At first.”
 
 Brittany leaned against the table, her head in her hands. "How long have you been doing this?"
 
-"A while."
+"Quite a while."
 
 "And before? Was this your first job?"
 
 "No, I worked in maint…" The word snagged like thread on a burr.
 
-Brittany didn’t pounce. She just tipped her head a fraction. “Maint…?”
+Brittany didn’t pounce. She just tipped her head a tiny bit. “Maint…?”
 
 Heat climbed my throat. I stared at my notes as if they’d suddenly become urgent. My breath went thin.
 
-A pause. The room didn’t move. Even the air-con sounded too loud.
-
-“Maintenance?” she said finally.
+“You mean, maintenance?” she said finally.
 
 My neck tucked in on itself. When I exhaled, it shook.
 
-“Yes,” I said.
+“Um, yeah.”
 
 Brittany’s expression didn’t change, but something in her softened at the edges.
 
 “Oh, okay,” she said quietly. "Cool.”
 
-Outside, the delivery van's diesel engine coughed to life, growled and cleared its throat.
-
-“I’m not judging,” she added quickly, and then, with a little huff, “I was a tomboy for years. Board shorts, surfing Bondi, black eyes. Wore my hair so short Mum used to think I liked girls.”
-
-I let out a breath I didn’t know I’d been holding. Brittany smiled, but my cheeks burned anyway—not from shame, but from being seen.
-
-“Liking girls is cool,” I said.
-
-Brittany nodded. “True," she said, then added, her eyes bright. "Girls like Celeste?”
+Outside, the diesel engine coughed to life, growled and cleared its throat.
 
 The door swung open.
 
-Fiona came in with a complete costume draped over her arms like it weighed nothing. Natalie and Ellie followed, each with a box of accessories pressed to her hip. The room filled up in three steps: fabric, cardboard, other people’s air.
+Fiona came in with a complete costume draped over her arms like it weighed nothing. Natalie and Ellie followed with boxes.
 
-My lungs remembered how to work. I let out a long breath that felt like it had been waiting behind my ribs for ages. Fiona’s gaze flicked from Brittany to me to the notes on the table—quick, competent inventory—then back to the costume.
+I let out a long breath that felt like it had been waiting behind my ribs for ages. Fiona’s gaze flicked from Brittany to me to the notes on the table—quick, competent inventory—then back to the costume.
 
-“Right,” she said, brisk. “You wanted something to demonstrate with.”
+“Right,” she said, brisk. “Your demonstration costume.”
 
-Brittany didn’t look at Fiona.
+Brittany didn’t look at the costume.
 
 She looked at me—just once.
 
-Her smile softened, then she turned it down like a light dimmer and reached for the sleeve of the costume, making space for the room to fill up again.
+Her smile softened, then she tucked it away and reached for the sleeve of the costume, making space for the room to fill up again.
 
 <hr class="section-break strong" />
 
@@ -742,13 +684,13 @@ I put the car in gear and drove out of the Uni cark-park, my spine straight, a q
 
 By the time I parked and shut off the engine, the setting sun was flashing in my glasses.
 
-I sat for a moment in silence. Then pulled my phone from my purse.
+I sat for a moment in silence, then pulled my phone from my purse.
 
 Three messages. All from Charli.
 
 I exhaled slowly as I realised my ringer was still turned off.
 
-Once inside, I threw my bag on the table. My thumb was reaching for her first message when the phone rang.
+Once inside, my thumb was reaching for her first message when the phone rang.
 
 Charli's face appeared.
 
@@ -782,19 +724,19 @@ Another pause.
 
 She pressed her lips together.
 
-"Okay, so I'm not making massive mistakes... but a whole bunch of little ones. Like, leaving the donga without my bag and still not thinking about things like—" Charli stopped and bit her lip.
+"Okay, so I'm not making massive mistakes— but a whole bunch of little ones. This morning, I left the donga without my purse. I'm still not thinking about things like that." Charli stopped and bit her lip.
 
-"Like most young women would?"
+"You mean, like most young women would?"
 
-Charli grimaced. "Brittany reads me like a book, Celeste. And then, when I let slip that I had started at the Faire in maintenance, oh sheesh! I can't believe I just blabbered that out."
+Charli grimaced. "Brittany is reading me like a book, Celeste. And then, when I let slip that I had started at the Faire in maintenance, oh bother! I can't believe I just came out with that."
 
 Charli’s gaze slipped downward, away from me. The smile was gone.
 
-I opened my mouth, then closed it again. Charli sighed.
+I opened my mouth, then closed it again.
 
-"I— think it's just a matter of time before Brittany figures it all out. I mean, she sort of sees me as a tomboy." One side of her mouth squeezed as her eyebrows rose. "But, that's for now! It's just a matter of time, Celeste."
+"I— think it's just a matter of time before Brittany figures it all out. I mean, she already sees me as a tomboy." Her mouth slid sideways.
 
-"What are you thinking you should do, Charli?"
+"What do you think you should do, Charli?"
 
 Charli huffed a sigh. "I dunno." She shrugged. "Should— should I just tell her?"
 
@@ -802,51 +744,43 @@ Charli huffed a sigh. "I dunno." She shrugged. "Should— should I just tell her
 
 "Oh, I don't think she'd freak out," Charli said, playing with a tendril.
 
-I nodded once. “All right. But listen to me.”
+“All right. But listen to me.”
 
 Charli looked up.
 
-“You do not have to tell Brittany your whole history just because she’s noticed a few rough edges.”
+“You do not have to tell Brittany your whole history just because she’s noticed a few rough edges.” Charli said nothing. “Has she actually asked you anything direct?”
 
-Charli said nothing.
+"Well, no." Her look was far away. "It's just that, when I was there with you and Wardrobe, it was different. I mean, everyone knew. I didn't feel like I needed to hide something." She bit her lip. "Now, I just feel—"
 
-“Has she actually asked you anything direct?”
-
-"Well, no." She bit her lip. "It's just that, there with you and Wardrobe, it was different. I mean, everyone knew. I didn't feel like I needed to hide something. I just feel a bit—"
-
-“Exposed?” I said.
+“Exposed?”
 
 She looked at me, then gave the smallest nod.
 
 “Yes.”
 
-“No,” I said, quieter. “Not exposed. Unbuffered. There’s a difference.”
+“Except, you're not exposed,” I said, quieter. "You're *unbuffered*. There’s a difference.”
 
 She frowned.
 
-“With us, you never had to spend energy wondering what people were seeing, or what they’d do with it if they noticed something. That’s what feels different. Not Brittany herself. The wondering.”
+“When you were here with us, you never had to spend energy wondering what people were seeing, or what they’d do with it if they noticed something. That’s what feels different. Not Brittany herself. The wondering.”
 
 Charli was silent.
 
-“Someone noticing you’re not straightforward is not the same thing as someone being cruel to you," I said. "Your mind’s turning all uncertainty into danger.”
+“Someone noticing you’re not straightforward is not the same thing as someone being cruel to you," I said. "Your mind’s turning uncertainty into danger.”
 
 “Can you blame it?”
 
-“No,” I said. “But I’m still not going to let your head hand your whole life over to fear just because it’s imaginative.”
-
-She blinked, her lips quivering slightly.
-
-“There are people in the world who would make something ugly of it. I know that. But you do not owe every new person advance surrender on the off chance they might be one of them.”
+“There are certainly people in the world who would make something ugly of it. I know that. But you do not owe every new person you meet an executive summary of your life on the off chance they might be one of them.”
 
 A small, uncertain smile touched her face.
 
-"Thank you, Celeste," she said, her voice small. She sniffed. “So I get to choose how much Brittany knows?”
+“So I get to choose how much Brittany knows?” she said, her voice small.
 
 “Get to know her first, Charli,” I said. “Let her be kind to you a few more times. Let her become someone you trust. Then decide what, if anything, is hers to know.”
 
 Charli's smile warmed, reaching her eyes.
 
-"I feel like I'm home with you right now," she said.
+"I feel like I'm home with you right now."
 
 My eyes stung, suddenly.
 
@@ -870,11 +804,11 @@ My eyes stung, suddenly.
 
 [ *Charli* ]
 
-The sun struck me in my eyes. I rolled over, then sat up as if electrocuted. 
+Sunlight streamed through the window, hitting me full in the face.  rolled away from it, then sat bolt upright. 
 
 Not again! 
 
-My phone lay on the bed beside me. Useless. 
+My phone with its black screen lay on the bed beside me. Useless. 
 
 I was halfway dressed, smock in hand, when I glanced in the mirror. 
 
@@ -882,105 +816,95 @@ I made myself stop.
 
 Splashed water on my face, patted it dry.
 
-Put my hair up properly. A touch of mascara and a little lippie. 
+Put my hair up properly. A little lippie. 
 
-I selected a fresh smock, even though it was Friday. Deodorant, checked my nails, brushed my teeth.
+I selected a fresh smock, even though it was Friday. Put on deodorant, checked my nails, brushed my teeth.
 
-I walked to the door.
+Then walked to the door.
 
-Slow down. Deep breaths.
+*Slow down. Deep breaths.*
 
-Grabbed purse, my dead phone and donga keys. 
+I remembered to pick up my purse, and put my dead phone and donga keys in it. 
 
-Clipboard.
+Women wearing Wardrobe's costumes smiled and waved at me along the new cobblestone street. It felt so nice to see those actresses already half inside the world we’d been making. It made the whole place feel as if it had turned a corner overnight.
 
-Ready. 
+I walked into Wardrobe. My nose flared at the smell of clean cloth, steam and chalk instead of stale sweat and concrete dust.
 
-Women wearing Wardrobe's costumes smiled and waved at me along the new cobblestone street—no workmen in dusty hi-vis, but actresses already half inside the world we’d been making. It made the whole place feel as if it had turned a corner overnight.
+Fiona stood at her office door. She waved me over.
 
-I walked—chin up—into Wardrobe. My nose flared: clean cloth, steam, chalk instead of stale sweat and concrete dust.
+"Your phone dead again?" Her lips curved up when she saw my neck go red. "Thought so. Just plug it in over there. You might want to get a newer phone with a better battery."
 
-Fiona was standing at the door to her office. Waved me over.
+"Or just remember to plug it in before you pop off to sleep," Sarah offered: she'd come up behind me. "Come, your students are waiting. They have a lot of questions for you!"
 
-"Phone dead again?" Her lips curled when she saw the heat rise in my face. "Thought so. Just plug it in over there. You might want to get a newer phone, with a better battery."
+My chest tightened, but with excitement, not apprehension.
 
-"Or just remember to plug it in before you pop off to sleep," Sarah offered: she'd come up behind me. "Come, your students are keen and have a lot of questions for you!"
+Three newcomers were poring over a torn costume with Brittany, Ellie and Natalie. Brittany flashed me a 'good morning' smile.
 
-I could feel my chest tighten, but with excitement this time, not apprehension.
+"This is Lisa, Caroline and Harriet."
 
-Three new girls were poring over a torn costume with Brittany, Ellie and Natalie. Brittany flashed me her morning smile.
+"'Harri', please," Harriet said.
 
-"This is Lisa, Caroline and the blonde is Harriet."
+"Nice to meet you. Welcome to Wardrobe." I flattened the split seam. "So, how did it happen, Brit? Did the actress say?"
 
-"I go by 'Harri'," the blonde said.
+Brittany grimaced. "Well, she *said* it got caught on a wicker basket." 
 
-"Nice to meet you. Welcome to Wardrobe." I flattened the split seam. "How did it happen, Brit? Did the actress say?"
+Natalie gave a little snort, shaking her head. “Yeah, nah. Porkies. Bet she just wanted to get to the pub early and hauled the thing off too hard. The seam just gave up.”
 
-"Well, she said it got caught on a wicker basket," Brittany began and grimaced.
-
-Natalie gave a little snort, shaking her head. “Yeah, nah. Porkies. She just wanted to get to the pub early and hauled the thing off too hard. The seam finally gave up.”
-
-"Well spotted, Natalie," I said. "And I think you're right. A basket would’ve pulled it different.” I glanced at the three new girls. “See how it’s gone along the weakness, not across it?” They leaned in.
-
-“So we don’t just close it,” I said. “We strengthen it, or it’ll pop again. And on this one, we hide the repair.”
+"Well spotted, Natalie," I said. "I think you're right. A basket would’ve pulled it different.” I glanced at the three new girls. “See how it’s opened along the weak bit of the stitching, not across it?” They leaned in. “Now, we don’t just mend it,” I added. “We strengthen it, or it’ll pop again. And on this seam, we hide the repair.”
 
 Ellie looked up. “Don't we always?”
 
-“No.” I shook my head. “Depends what the garment wants to be. Some things you hide. Some things you let look mended.” I touched the fabric with one finger. “If it’s meant to feel worn, or rushed, or period-correct, too neat can look wrong.”
+I shook my head. “Depends what the garment wants to be. Some things you hide. Some things you let look mended.” I touched the fabric with a finger. “If it’s meant to feel worn, or rushed, or period-correct, too neat can look wrong.”
 
-I could just see Mara shudder at the idea of an obvious mend.
+I could almost see Mara shuddering at the idea of a visible mend.
 
-“You want the reinforcing strong, light, and invisible.” I held up some material and gave it to Harri. She took it with an experienced hand, threaded a needle and set to work. I glanced at Brittany who pressed lips momentarily with a shrug.
+“You want the reinforcing strong, light, and invisible.” I held up some material and gave it to Harri. She threaded a needle and set to work. Her stitches would have earned one of Mara’s nods.
 
 A workman carrying a box labelled 'Cat 6 cables' approached us, eyes darting between our faces. 
 
 I pointed to Brittany.
 
-"But—" she began. I grinned at her.
+"Where do you need the data point to be?" he asked her.
 
-"Where's the laptop meant to go?" he asked her.
+She glanced around with a frown, then brightened.
 
-She frowned, then brightened as if she'd suddenly remembered.
+"Just over here, mate." She indicated a place by the window.
 
-"Just over here, mate," she said, indicating a place by the window.
+Just then, the door banged open and a little group of actresses shouldered their way in.
 
-I glanced over at Harri. Solemn, quiet, steady. Her stitches would have earned one of Mara’s nods.
+"We're meant to be fitted with our costumes today," one of them said. She could have been Sarah's twin, right down to the accent. "I'm Rachel. 'Rache' to me mates."
 
-A bang at the door announced the arrival of a group of actresses.
-
-"We're meant to be fitted with our costumes today," said the robust girl. Could have been Sarah's twin, right down to the accent. "Hi, I'm Rachel. 'Rache' to me mates."
-
-Natalie looked at the assignment sheet. 12:45pm. "You're early."
+Natalie looked at the assignment sheet. "You're early."
 
 "What of it?"
 
 “You’ll need to come back at 12:45. We’re not ready for you.”
 
-The confident curve of Rache's mouth had flipped to a frown.
+The confident curve of Rache's mouth flipped to a frown.
 
-"You aren't serious, are you?"
+"You aren't serious?"
 
-"As serious as a heart attack," Sarah said from the doorway.
+"She looks serious to me," Sarah said from the doorway.
 
-Rache stared, then turned on her heel, the little troupe flouncing off with her.
+Rache stared at her, then at Natalie. Finally, she turned on her heel, and the little troupe flounced off after her.
 
-"Good on ya, Natalie," Brittany said.
+---
 
-The tearoom was still mostly dust and bare concrete, so we had lunch in the little courtyard behind Wardrobe. Brittany's eyes narrowed slightly as they flicked from my face to my energy drink.
+The tearoom was still mostly dust and bare concrete, so we had lunch in the little courtyard behind Wardrobe. Brittany's eyes narrowed slightly at my energy drink.
 
-"That stuff is so bad for you," she said, settling beside me and opening her little eskie. She handed me a dragon fruit. "This'll give you energy and enhance your beauty!"
+"That stuff is *so* bad for you," she said, settling beside me and opening her little eskie. She handed me a dragon fruit. "This'll give you energy *and* enhance your beauty!"
 
 I giggled.
 
-"What?"
+"What's so funny?"
 
-"Beauty," I murmured. I grinned at her. "I think I'd have to eat the whole dragon, not just the fruit."
+"You said 'beauty'," I murmured. I grinned at her. "I think I'd have to eat the whole dragon, not just the fruit."
 
-Her brow furrowed momentarily.
+Brittany laughed, then tipped her head as something occurred to her.
 
 "Hey, are you coming tonight?"
 
-"Where?"
+"Where to?"
 
 "To the pub. If you want, I could pick you up for prinks and—"
 
@@ -988,9 +912,9 @@ Her brow furrowed momentarily.
 
 Her head tipped to one side.
 
-"You know! Prinks. Pre-drinks."
+"You know! Prinks! Pre-drinks."
 
-I swallowed. Bit my lip.
+I pressed my lips sideways. 
 
 "I don't get out, much."
 
@@ -1000,29 +924,33 @@ My mouth opened. Closed. She blinked at me. I looked away.
 
 "Hey," she said, gentler now. "You don't have to, if you don't want."
 
-"I'm just— not real good with... um, alcohol, Brit. Sorry."
+"I'm trying to stay away from the grog, Brit. It's fattening."
 
-Her arms came round my shoulders and drew me in. Warmth, and a real smile, close enough to feel. I hadn’t realised how tight I’d gone till then.
+Her quick smile made my shoulders ease.
 
-“Good. You can be our designated adorable.”
+“Well, that's a good thing. You can be our designated adorable.”
 
-The music spilling out of the pub seemed loud even before I went in. Screens showing the footy, gridiron, and a tennis panel seemed bolted to every spare bit of wall. I looked around, lips tight. Through the glass at the back, I caught Harri’s blonde updo, blurred by the warping. 
+---
 
-My hands trembled slightly as I walked slowly, chin down, to the swinging back door. Before I reached it, the door burst open, and a tall red-headed man came stumbling in. His eyes swam as they found me.
+The music spilling out of the pub seemed loud even before I went in. Screens showing the footy, gridiron, and the tennis seemed bolted to every spare bit of wall. I looked around, lips tight. Through the glass at the back, I caught sight Harri’s blonde updo. 
 
-"Pissed as a newt. What a yobbo," I heard a woman say. I slipped quickly out of the noise.
+My hands trembled slightly as I walked, slowly and chin down, to the swinging back door. Before I reached the door it burst open, and a tall red-headed man came stumbling in. His eyes swam as they found me.
+
+"Pissed as a newt. What a yobbo," I heard a woman say. I slipped quickly past him and out of the noise.
 
 Outside on the veranda, the music was still fairly loud, but no one was shouting. Brittany waved me over.
 
-“You look nice.” She nodded at my necklace. “Ooh—pretty.” She beamed.  “What are you having?”
+“You look nice.” She nodded at my necklace. “Oh— pretty.” She beamed.  “What are you having?”
 
-I looked towards the bar. “I don’t know.”
+I glanced towards the bar. “I don’t know.”
 
 “Right then. Lemon-lime bitters for you.”
 
 "Wait." I bit my upper lip. "Um, you got coffees before, so it's my shout."
 
-Her smile had a slight edge to it. She shrugged. "I'll come in with you. How's that?"
+She shrugged. 
+
+"I'll come in with you. How's that?"
 
 As we headed back into the noise, I tapped my fingers against my thigh, trying to remember who was having what. A loud rough laugh landed in my neck. I glanced at Brittany—one corner of her mouth lifted. She turned to the bartender.
 
@@ -1032,7 +960,7 @@ As we headed back into the noise, I tapped my fingers against my thigh, trying t
 
 "Charli!"
 
-I carried the two lemon-lime bitters back to the swinging back door trying not to spill, and failing.
+I carried the two lemon-lime bitters back to the swinging back door, trying not to spill.
 
 "Hey, we were just talking about Sunday," Natalie said to Brittany.
 
@@ -1042,39 +970,33 @@ I carried the two lemon-lime bitters back to the swinging back door trying not t
 
 Brittany turned to me. Her eyes shone.
 
-"Oh Charli, Harri's folks are so lovely!"
+"Oh Charli, Harri's folks are so lovely!" I smiled but didn't say anything. "You— are coming, aren't you?"
 
-I smiled. Didn't say anything.
+I thought for a moment.
 
-"You— are coming, aren't you?"
-
-I smiled at Brittany. “Like… what do I bring?”
+“What do I bring?”
 
 Harri laughed.
 
 “You don't have to bring anything. Except your togs.”
 
-"Togs?" My hands felt like ice. My smile slipped. For a second, I couldn't seem to get a breath in. 
+"Togs?"
+
+My smile slipped. For a second, I couldn't seem to get a breath in. 
 
 I shot a glance at Brittany. Her mouth closed slowly, her eyes never leaving mine.
 
-"You probably forgot to bring those, didn't you?" she offered. My nod snatched at the lifeline she’d thrown me.
+"You probably forgot to pack togs, didn't you?" she offered. My nod snatched at the lifeline she’d thrown me.
 
 “That’s all right,” Harri said quickly. “You don’t have to get in. Half the time we just sit around and yap anyway.”
 
-They all smiled at me as though that settled it. I tried to smile back. It didn't work properly.
+The girls smiled as if that settled it.
 
-"I wish I could come," Caroline said. "I have to be in Brisbane. I'm giving a class at the State Library on music theory."
+I tried to smile back. 
 
-"Oh, that's right," Brittany said. "How is that going, anyway?"
+It didn't work properly.
 
-"Great! I have nine people coming now."
-
-My shoulders fell the slightest bit. 
-
-Then I looked at Brittany.
-
-Her eyes had softened. 
+I looked at Brittany.
 
 She'd seen.
 
@@ -4049,7 +3971,7 @@ I made spaghetti bolognaise out of a tin for dinner. No one ate much. I don’t 
 
 Lauren even gave me a hug after dinner.
 
-“Please don’t take it personally,” she said gently. “It’s this — mess.”
+“Please don’t take it personally,” she said gently. “It’s this—mess.”
 
 Sarah was gripping the top of a wine bottle, her lips tight, as she started to twist it.
 
@@ -4232,7 +4154,7 @@ He found that oddly annoying. He had expected fuss. Fuss could be dismissed.
 
 This was not fuss.
 
-The place had a solid structure to it, almost like a military base. The fault board was uncompromising. Columns. Tags. Names. Times. Red, yellow, green. Tools laid out at the end of the table, not scattered. A bin marked SHARPS. Another marked REPAIRS — APPROVED. Someone had redrawn the chalk line across part of the floor.
+The place had a solid structure to it, almost like a military base. The fault board was uncompromising. Columns. Tags. Names. Times. Red, yellow, green. Tools laid out at the end of the table, not scattered. A bin marked SHARPS. Another marked REPAIRS—APPROVED. Someone had redrawn the chalk line across part of the floor.
 
 DO NOT CROSS WITHOUT CLEARANCE.
 
@@ -7407,7 +7329,7 @@ I put down the hairbrush and turned to face her. Care was there and concern. Con
 
 "But I really want to see the new Wardrobe."
 
-Celeste gave me that over-the-glasses look. How, I didn't know — she wasn't even wearing glasses.
+Celeste gave me that over-the-glasses look. How, I didn't know—she wasn't even wearing glasses.
 
 "You don't get extra womanhood points for pretending pain is an old friend."
 
@@ -7463,11 +7385,11 @@ Mara was switching on the steam press and lights as we entered. Her eyebrows ros
 
 "She insisted."
 
-Mara looked at me for a moment, then pointed at an old laptop — a MacBook — on the table beside my chair.
+Mara looked at me for a moment, then pointed at an old laptop—a MacBook—on the table beside my chair.
 
 “That’s the ledger now.”
 
-For one ridiculous second, I had looked for the book, the actual ledger — the heavy one, with its scuffed cover and corners soft from years of hands. Now, there was only the MacBook, open, charged, and waiting.
+For one ridiculous second, I had looked for the book, the actual ledger—the heavy one, with its scuffed cover and corners soft from years of hands. Now, there was only the MacBook, open, charged, and waiting.
 
 “We’re online,” Mara said. “Lauren needs access to the ledger from home. Celeste needs figures without asking three people where the book has wandered off to. Sarah checks orders before she cuts. Lisa has been keeping it breathing.”
 
@@ -7491,7 +7413,7 @@ Mum's lips pressed together and she shook her head slowly.
 
 "We're doing a half-day, Lauren," Celeste said, "with the option to cut it short if need be."
 
-Sarah looked from Celeste to Mum, then to me. And said nothing, which was telling — Sarah had always been good at picking up on anything I was trying to keep to myself.
+Sarah looked from Celeste to Mum, then to me. And said nothing, which was telling—Sarah had always been good at picking up on anything I was trying to keep to myself.
 
 The front door opened again and Lisa came in carrying a canvas satchel, a travel mug, and her usual expression of someone who was grateful to be there.
 
@@ -7529,7 +7451,7 @@ Mum gave a small laugh. Sarah leaned against the tearoom doorway with her arms f
 
 I sat motionless, looking at the screen.
 
-This digital ledger still functioned like Mara's leather-bound one did. But at the same time, it had grown a personality — one it could share. The main worksheet had new columns. Lisa had added a linked supplier sheet, an alterations queue, a delivery-risk column, and a short notes column that said things like: 'ask Mara before reordering' and 'check with Charlotte on this'.
+This digital ledger still functioned like Mara's leather-bound one did. But at the same time, it had grown a personality—one it could share. The main worksheet had new columns. Lisa had added a linked supplier sheet, an alterations queue, a delivery-risk column, and a short notes column that said things like: 'ask Mara before reordering' and 'check with Charlotte on this'.
 
 I stared at that note for longer than I meant to.
 
@@ -7551,7 +7473,7 @@ Lucy came in wearing the men's kit.
 
 With a swagger to match.
 
-She was in full costume — breeches, shirt, waistcoat, coat, stockings and buckled shoes — with the most outrageous strut I had ever seen on a human being who was still technically required to thread needles for a living. Her hair was tucked under a hat worn at an angle suggesting stolen horses, ill-gotten gains, and possibly unpaid parking fines.
+She was in full costume—breeches, shirt, waistcoat, coat, stockings and buckled shoes—with the most outrageous strut I had ever seen on a human being who was still technically required to thread needles for a living. Her hair was tucked under a hat worn at an angle suggesting stolen horses, ill-gotten gains, and possibly unpaid parking fines.
 
 Lucy stopped in the middle of the room and swept the hat from her head with a flourish.
 
@@ -7583,7 +7505,7 @@ Lucy turned to me, wounded.
 
 I looked at the coat. Then at Lucy. Then at the button, hanging by a thread.
 
-"It's a good look, Lucy — it totally suits you." I grimaced. "But it won't improve if you lose that button."
+"It's a good look, Lucy—it totally suits you." I grimaced. "But it won't improve if you lose that button."
 
 "Et tu, Brutus?"
 
@@ -7681,7 +7603,7 @@ Lucy put the hat back on and strode away with the wounded dignity of an offended
 
 The delivery truck arrived ten minutes later.
 
-I could feel its arrival as much as hear it — every capable woman in the building moved at the sound. That was the bit that hit hardest: how smoothly everything shifted into take-delivery mode.
+I could feel its arrival as much as hear it—every capable woman in the building moved at the sound. That was the bit that hit hardest: how smoothly everything shifted into take-delivery mode.
 
 Sarah went to the door. Mum took the invoice. Mara cleared the cutting table. Lisa opened the supplier tab and began checking numbers aloud. Lucy reappeared without the hat but still in the coat, because apparently a gentleman adventurer could be trusted with wool if properly supervised.
 
@@ -7830,7 +7752,7 @@ I just nodded.
 [![Img][Sy20]{ .artR width="460" }][Sy20]
 /-->
 
-## 🩸 Just Not The Noun 💧
+🩸 Just Not The Noun 💧
 
 
 [ Sarah ]
@@ -8012,10 +7934,226 @@ It didn't have any answers, either.
 [![Img][Sy20]{ .artR width="460" }][Sy20]
 /-->
 
-## 🩸 Just Not The Noun 💧
+🩸 It's Different Now 💧
 <hr class="section-break strong" />
 
+I woke with a start. Someone had kicked me.
 
+I turned to look at the head hidden by tousled dark hair beside me. And heard a high-pitched strangled voice. 
+
+And then, another kick.
+
+I reached out my hand and gently let it settle on the highest bump. I felt a twitch, the bedding rose a bit as the tousled hair took in a long breath. And then, a sleepy face appeared. 
+
+"Was I snoring?"
+
+"No. Talking."
+
+Celeste closed her eyes.
+
+"I just had the worst dream!"
+
+"I know. It woke me up."
+
+Her lips flattened. She looked at me over her shoulder, eyes narrowed.
+
+"How are you feeling?"
+
+I shrugged.
+
+"Okay."
+
+"That's not an answer." She sat up and faced me. "Any better than last night?"
+
+Memories of ED doctors asking permission to check my groin, the smell of my urine in a little plastic cup—that *awful* smell—and then, the needle, Celeste's serious eyes and at the end, the relief that it wasn't a surgical infection suddenly all came back. Annoying.
+
+I nodded.
+
+"I'm fine."
+
+"You said that last night on the way to the hospital."
+
+"I just— I don't want to make a big thing of it, Celeste."
+
+"Silly girl, an infection is a big thing!"
+
+"Are you cross with me?"
+
+"Actually yes." She sat on the side of the bed, talking at her slippers. "And here's why." She spun around, her face a frown. "Women don't do that 'I'll be right' thing blokes do."
+
+I stared at my hands.
+
+"But—"
+
+"But nothing. You're not Robinson Crusoe, and you're making me guess problems."
+
+I followed her into the kitchenette.
+
+"So, what did I do wrong?"
+
+She flicked on the kettle, then turned to face me. Her look had softened.
+
+"Wrong. This isn't about right or wrong." She dropped teabags into cups. Her brow creased momentarily. "You need to learn to share. Not just the nice things—everything."
+
+"But I don't want to be a complainer, Celeste," I said.
+
+She studied me for a moment, and dipped her head, her frown now more a grimace.
+
+"Yeah, okay, it's not your style. I get that." The kettle gave a merry ding. She silently poured boiling water over teabags, then studied them for a moment. "Still."
+
+I waited.
+
+Her lips parted, about to speak, when her phone rang. Outside, the whining diesel thrum of the garbage truck mixed with the clattering thump of bins being emptied obscured her words.
+
+"I might just let you talk to her." She handed the phone to me. "It's your Mum. You're on speaker, Lauren."
+
+I rocked to one side with a frustrated grunt as I took the phone from her.
+
+Mum sounded the way she always did when I got sick—an even mixture of worry and hard-decision making.
+
+“How are you feeling this morning, Charlotte?”
+
+“Better.”
+
+I heard a puff. “Better how?”
+
+I glanced at Celeste. She'd folded her arms, eyebrows raised.
+
+“It doesn’t hurt as much.”
+
+“Does it hurt when you pass urine?”
+
+“Um, a bit.”
+
+“A bit,” Mum repeated. “Charlotte, be straight with me. Celeste and I know what a urinary tract infection feels like.”
+
+“Okay.”
+
+“Then tell me properly.”
+
+I stared at the table, rubbing at a smudge with my thumb.
+
+“It stings. Not as badly as last night. And I still feel like I need to go when I don’t.”
+
+“Any shivering?”
+
+“No.”
+
+“Nausea?”
+
+“No.”
+
+“Pain in your back?”
+
+“No.”
+
+“And she's taking the antibiotics exactly as prescribed?”
+
+“Yes, Lauren,” Celeste replied.
+
+There was a brief silence.
+
+“Good.” Her voice softened, but only slightly. “Now, listen to me, young lady. You have a bad habit you need to break.”
+
+My right knee had decided to do a little dance on its own.
+
+“And you might as well start now.”
+
+"What do you mean?"
+
+"Look, you have a right to privacy. But in medical matters, you don't have a right to secrecy. That's not the same thing."
+
+I glanced at Celeste. She'd settled into a chair, pressing her lips with the side of her hand as she peered at me.
+
+"Yes, Mum."
+
+"I need more than a 'yes, Mum' from you, Charlotte," the voice on the phone said in that tone that always made my back stiffen, "promise me: no more little secrets when you don't feel right."
+
+"Yes Mum... I mean— I promise."
+
+I heard Sarah's voice in the background.
+
+"Remind her of what I told her in the cafe, Lauren."
+
+Mum didn't need to. The difference was, now I was starting to get what Sarah meant. My mouth went crooked. 
+
+*I'd stuffed up.*
+
+Everything had changed and I hadn't been paying attention. I wasn't a different person, not really, but the way I fitted amongst people had changed. 
+
+The rules I'd grown up with didn't apply anymore. And there were a whole bunch more I had no idea existed.
+
+They were bigger than Wardrobe.
+
+I wasn't sorting pins.
+
+"You need to stop thinking you still need to prove yourself. It's just not a thing, Charlotte, and it gets you into trouble," Mum said, her voice at that quiet level when her words were to be taken as canon. "Just— stop."
+
+"It's exhausting." Sarah's voice was louder.
+
+Celeste leaned back in her chair, still studying me. She reached for the little white box on the bench and placed it in front of me. Trimethoprim. I popped one in my mouth, and washed it down with a mouthful of cooling tea.
+
+"Rest, sunshine, take your meds with lots of water... and listen to Celeste," Mum said. 
+
+The line went dead.
+
+I continued to stupidly look at the black screen, because I couldn't bear to look at Celeste.
+
+"Are you up for a coffee, petal?"
+
+"Would that be okay?" I said carefully.
+
+"Only if you feel up to it," Celeste said. "Let's get dressed, shall we? You can wear that new jumper I got you."
+
+It was the prettiest garment in my wardrobe. Celeste's lips curled up as I slipped it on.
+
+"How did you know it would fit?"
+
+"You've been a size ten since I've known you," she said. Her face went serious. "However, it's time you learn proper shopping, not this 'find-it, kill-it, drag-it-home' thing you do."
+
+"What do you mean by proper shopping?"
+
+"Trying things on." I grunted, rocking to one side again. "There's really no other way to know what suits you."
+
+"Why can't I just carry on wearing my normal stuff?"
+
+"Because you're soon going to be in situations where how you look counts." She pursed her lips. "Look smart, be smart."
+
+As I was finished brushing my teeth—mostly to rid myself of that 'snacking-on-thumbtacks' taste—Celeste handed me a new lipstick in a colour expecting a bit of bravery. I frowned at it for a moment.
+
+"We're going for coffee."
+
+"Yes. Yes, we are." Her meaning was clear.
+
+I applied it the best I knew how, then glanced at Celeste. She was biting her lip. I sighed.
+
+"So, this is the fun bit," she said. "You look— okay. We'll do refinements later."
+
+"How long will we be out?"
+
+"Why?"
+
+"Just wondering if I should bring my next dose."
+
+Celeste gave me a pleased smile.
+
+"Now you're getting it, Charlotte." She pulled a blister-pack from the box, and put it into my handbag. "Large glass of water before we leave."
+
+I was glad I'd decided on the warmer jacket as a brisk wind had come up. As Celeste pulled the car door shut, she said:
+
+"Here's the thing, Charlotte. When you keep us in the dark about how you feel, it sends a message."
+
+The turn indicator clicked, and we rocked slightly as the car moved forward.
+
+"Message?"
+
+"Yes, it says you don't trust us. Like, your mum, for example."
+
+The road in front of us faded—I could only see Celeste's eyes last night.
+
+"And you, I guess." 
+
+"And me." 
 
 
 

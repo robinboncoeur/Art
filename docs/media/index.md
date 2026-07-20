@@ -6,6 +6,8 @@
 
 ---
 
+<!--
+
 [![Wrong Door][St56]{ .artL width="160" }][St56]
 
 Updated: 11-July-2026, 1000
@@ -41,10 +43,10 @@ Updated: 11-July-2026, 1430
 
 <hr class="section-break soft" />
 
+/-->
 
 
-
-[![Celeste][Sth1]{ .artL width="160" }][Sth1]
+[![Celeste][Stk1]{ .artL width="160" }][Stk1]
 
 Updated: 11-July-2026, 2230
 
@@ -401,6 +403,7 @@ To add musical pieces to this page, do the following:
 [Sth1]: ../assets/images/base/01hCeleste.jpg
 [Sti1]: ../assets/images/base/01iCeleste.jpg
 [Stj1]: ../assets/images/base/01jWriter.jpg
+[Stk1]: ../assets/images/base/01kRULost.jpg
 [St09]: ../assets/images/base/09aParis.jpg
 [St10]: ../assets/images/base/10montvl.jpg
 [St12]: ../assets/images/base/12accost.jpg

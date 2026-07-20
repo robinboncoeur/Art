@@ -88,7 +88,7 @@ I normally don't go down that corridor at all.
 
 The library wing had its own hush—pale tiles, the faint perfume of hand soap drifting from the bathrooms, and that institutional quiet that makes you lower your voice without thinking. I had cut through to avoid the main hall after the bell, because the hallway was a river of elbows and backpacks and I don’t like fighting a throng. Also, I’d learned early that if you walk as though you’re heading somewhere specific, people don’t try to talk to you. It’s simple choreography.
 
-I nudged the door with my shoulder and stepped into the girls’ toilets — and only then saw someone at the sinks.
+I nudged the door with my shoulder and stepped into the girls’ toilets—and only then saw someone at the sinks.
 
 For a beat, my mind didn’t stall because it was scandalous.
 
@@ -98,17 +98,15 @@ A boy.
 
 He stood still, frozen. 
 
-He wasn’t predatory still. A quick read: he presented no threat, no intent—there was no edge to him at all. 
-
-It was simply: wrong door, wrong place. That part settled easily.
+He wasn’t predatory still. A quick read: he presented no threat, no intent—there was no edge to him. It was simply: wrong door, wrong place. That part settled easily.
 
 The rest of him didn’t.
 
 His stare was not the usual quick look you get from boys who think girls are scenery, but more like that of a deer discovering headlights.
 
-He stood under the mirror lights with a paper towel clutched in one hand, staring at me. Short, slight, narrow-shouldered, with long brownish hair that fell into his eyes. Everything about him seemed to be designed to be dismissed as uninteresting. His uniform shirt was oversized and softened by too many washes, the collar gone limp. 
+He stood under the mirror lights with a paper towel clutched in one hand, staring at me. Short, slight, narrow-shouldered, with long brownish hair that fell into his eyes. Everything about him seemed to be designed to be dismissed as uninteresting.
 
-I could have shouted *Get out*, as if with shouting I'd have the upper hand. 
+I could have shouted Get out, as if with shouting I'd have the upper hand. 
 
 But shouting makes you the story. It invites witnesses who gossip. I didn’t want a story. Not for me, nor even for him. So I did what I always do when faced with the unexpected: I defined what happened next.
 
@@ -116,7 +114,7 @@ But shouting makes you the story. It invites witnesses who gossip. I didn’t wa
 
 His slender throat bobbed. The silence was so complete I could hear the air-conditioning tick behind the vent. Then he managed, hoarse and thin, “I— I’m sorry.”
 
-*An apology. Already? Interesting.*
+An apology. Interesting.
 
 I softened my voice slightly. “You know you’re in the ladies’, right?”
 
@@ -124,15 +122,17 @@ I watched the fact land late. His eyes flicked around the room, taking in the si
 
 “Oh—” He groaned. “Oh, no. I thought this was— I mean, I—”
 
-Words spilled out in fragments, unhelpful.
+Words spilled out in fragments, urgent and unhelpful.
 
 I was right: he was the wrong-door, off-with-the-pixies sort of lad, the kind who would apologise to a chair he bumped into.
 
-He stared at me, holding the paper towel like evidence. I stepped a bit closer. 
+He stared at me, holding the paper towel like evidence.
+
+I stepped a bit closer. 
 
 He shrank back into the sinks.
 
-“Right then,” I said, my hands up, like a conductor's during a soft passage. “Just. Stop. Breathe.”
+“Right then,” I said, hands up like an orchestra conductor's during a soft passage. “Just. Stop. Breathe.”
 
 He blinked at me and breathed out, slowly.
 
@@ -140,15 +140,11 @@ He blinked at me and breathed out, slowly.
 
 His mouth opened again. I lifted a finger.
 
-“Do as I say. Don’t do that thing where you look like you're already wrong.” His gaze dropped. 
-
 “Just follow my lead.”
 
-His eyes slowly rose to meet mine and, as slowly, his hands lowered.
+His eyes slowly rose to meet mine and, as slowly, his hands lowered. He gave a tiny nod.
 
-He gave a tiny nod.
-
-*He wasn’t resisting guidance — he adjusted to it.*
+He wasn’t resisting guidance—he adjusted to it.
 
 “What’s your name?”
 
@@ -158,7 +154,7 @@ He hesitated.
 
 “Rossignol.” I liked it: it had a nice ring. “French for: 'Nightingale'.”
 
-The look in his eyes was shifting like awe — it was time to move forward. I tilted my head toward the door. 
+The look in his eyes was shifting to something like awe—it was time to move forward. I tilted my head toward the door. 
 
 “Right. We’re leaving.”
 
@@ -166,9 +162,7 @@ I stepped out of the door first, positioning myself where anyone would see me be
 
 “If someone gives you a weird look,” I said quietly, “just look at me. Got it?”
 
-He nodded: quick, obedient. As he crossed the threshold he stopped, eyes flicking back to me. I lifted my eyebrows. 
-
-He bit his lip.
+He nodded: quick, obedient. As he crossed the threshold he stopped, eyes flicking back to me.
 
 “Charlie,” I said lightly.
 
@@ -176,13 +170,9 @@ He bit his lip.
 
 “I know.” My lips formed the smallest grin. “Charlie suits you, though. Tell me if you hate it.”
 
-He looked at me for a moment longer. Then he was gone, swallowed by the tide of students.
-
-I stood in the doorway a moment longer, staring at nothing. 
+He looked at me for a moment longer. Then he was gone, swallowed by the tide of students. I stood in the doorway a moment longer, staring at nothing. 
 
 And thinking about his eyes, the way he looked at me. It wasn't really awe, nor was it attraction, or like anything boys wear when they see something appealing. His look was different.
-
-It was the look of someone who realises he's being seen properly. And, as a result, being left breathless.
 
 I closed the door and filed him away.
 
@@ -217,131 +207,137 @@ For now.
 
 [ *Celeste* ]
 
-By the time Mr. Greeves started writing GROUP TASK on the board, the room had already made its decision. 
+The chalk scratched "Group Task" on the board and the social dance began. Pairs of eyes found each other and heads tipped in acknowledgement. I felt a small smile form as I turned slowly, scanning a classroom all doing the same thing, like a flock of birds turning as one body—instinct, cowardice, and the lazy relief of belonging. 
 
-You could see the room respond like a living organism: chairs quickly angling away from the back of the room, as if discomfort had coordinates; little coughs covering what no one wanted to name; everyone suddenly finding the floor fascinating.
+A well-rehearsed ritual.
 
-Normally, I'd watch it happen with the same detached interest I’d watch a flock of birds turn as one body: instinct, cowardice, and the lazy relief of belonging. 
+Except one.
 
-A well-rehearsed ritual to avoid being associated with the held-back boy. 
-
-But today was different. 
-
-Today, the boy himself came into focus. Late, ridiculously so.
-
-Not the cautionary tale the room had agreed on. The person. 
+I nearly missed him. He sat at the very back, almost invisible, eyes on no one, except very briefly scanning the room: quick, skittish, dropping whenever they came close to meeting anyone else’s. Not asking, checking. He seemed to realise no one was going to choose him and his mouth tightened—resignation born of experience.
 
 I stilled. 
 
-A quick flash: paper towels. A sink. Those startled doe eyes tipping up to meet mine. 
+I knew this boy.
+
+A quick flash—paper towels in an upturned fist. A sink. Those startled doe eyes tipping up to meet mine. 
 
 Oh. 
 
 The wrong place, wrong door lad.
 
-I’d stood in the ladies’ and looked straight at him, and my brain hadn’t filed him as anyone from class because in class he wasn’t anyone you recognised—he was just a space people avoided.
+I’d stood in the ladies’ and looked straight at him, and my brain hadn’t filed him as anyone from class because in class I never registered him as a person, just a space people avoided.
 
-That was the trick of it: you can notice what a room does to someone without ever granting them the dignity of being properly seen. However, once you’ve seen someone, seen them properly, you can’t pretend you haven’t. And even then, some people don't resolve into a tidy equation.
+The efficiency of it was almost diabolical: I could observe the room arranging itself and never notice that there was someone being left outside that arrangement.
+
+But I had seen him now. 
+
+Properly.
 
 Mr. Greeves tapped the chalk like it had personally offended him. 
 
-“Alright. You’ve all had your practice test. You’ve all expressed your feelings about it. Today, you’re going to make sense of it.”
+“Alright. You’ve all had your practice test. Some of you have expressed your feelings about it. Today, you’re going to make sense of it.”
 
-A few kids chuckled. Not because it was funny—because it was socially expedient.
+A few kids chuckled—not because it was funny, but because it was socially expedient.
 
-“Pairs,” he said, underlining it twice. “Pick a question from the set. Solve it. Then produce a one-page explanation that someone else can follow. If you can’t explain it, you don’t understand it.”
+“Pairs,” he said, underlining the word twice. “Pick a question from the set. Solve it. Then produce a one-page explanation that someone else can follow." He turned back to the class. " "If you can’t explain it, you don’t understand it.”
 
-There was the usual scrape of chairs, the low panic of social arrangements. Everyone moved fast, because speed looked like confidence. 
+Chairs scraped on the floor, the sound of the low panic of social arrangements. 
 
 I didn’t move. I didn’t need to. People came to me.
 
-“Celeste, want to—”  
+I gave them my polite face and none of my answer. 
 
-“Celeste, I saved you a—”  
+My attention drifted to the back left, where Charlie sat. 
 
-“Celeste, I already have—”
+He wasn’t particularly strange or unsightly. Yes, he was thin. And short—shorter than any of the boys, which seemed to bother them more than it bothered him. His uniform shirt sat awkwardly on his frame—too big at the shoulders, too loose at the waist, as if whoever gave it him hoped he would grow into it.
 
-I gave them my polite face and none of my answer. My attention drifted to the back left, where Charlie sat. The boy of wrong place, wrong door. Uncollected, like something considered worthless, and therefore never properly looked at. 
-
-I had a proper look.
-
-He wasn’t particularly strange or unsightly. Yes, he was thin. And short—shorter than any of the boys, which seemed to bother them more than it bothered him. His uniform shirt sat awkwardly on his frame—too big at the shoulders, too loose at the waist—as if whoever gave it him hoped he would grow into it.
-
-I knew I should have clocked him, in the loo. I’d just never noticed him in class. Nobody did. The held-back boy. The one who re-did Year 11 because maths had eaten him alive the first time. People said it with the same tone they used for a failed appliance: still doesn’t work.
-
-I felt a fleeting twinge of guilt.
+I’d never noticed him in class. The held-back boy, the one who re-did Year 11 because algebra had eaten him alive the first time.
 
 Mr. Greeves stepped from behind his desk.
 
 “If you’re still unpaired in thirty seconds, I’ll pair you.” 
 
-Charlie’s eyes flicked around the room: quick, skittish, looking down as much as he looked around, not begging, but scanning. When he realised no one was going to choose him, his mouth tightened in a familiar way: resignation borne of experience. He’d already accepted to be humiliated by the teacher as well as rejected by his peers.
+I watched Charlie: his eyes had stopped moving. His shoulders were drawn in, and his expression was empty.
 
-This had happened to him before. 
+This had happened before. 
 
 In this class. 
 
-With this teacher and these classmates. 
+With this teacher. 
 
-Which meant it had happened in front of me.
+And these classmates. 
 
-“Time,” Mr. Greeves said. “Right. Charles—”
+*In front of me.*
+
+“Time,” Mr. Greeves said. “Right. Charles and—”
 
 “Me,” I cut in.
 
-The room’s attention snapped to me like elastic. You could feel it in the air—the sudden recalculation. I resisted the impulse to smile. Power is most effective if you seem unaware you have it.
+The room’s attention snapped to me like elastic. 
+
+You could see it in their faces—the sudden confusion. I resisted the impulse to smile.
 
 Mr. Greeves blinked. “Celeste?”
 
 I looked at him steadily. “I’m with Charlie.”
 
-A few girls exchanged looks. One boy gave a tiny laugh, like I’d just made a joke he didn’t understand. Someone whispered, not quietly enough, “Why would you do that?”
+One boy let out a single startled laugh, then glanced around to see whether anyone else had found it funny. A few girls exchanged looks and one of them whispered, not quietly enough, “Why would you do that?”
 
-I turned my head just enough for the whisperer to know I’d heard. I didn’t even look at her. “Because I like getting full marks,” I said, pleasantly. “And I like working with people who don’t waste time showing off.”
+I turned my head slightly but didn’t look at her. 
 
-Silence. A delicious, tidy silence.
+“Because I like getting full marks,” I said, pleasantly. “And I like working with people who don’t waste time showing off.”
 
-Mr. Greeves recovered, puzzlement slowly fading from his face. “Alright then. Celeste and Charles. Good.”
+Silence.
 
-I walked my chair over to Charlie's, ignoring his wide-eyed, open-mouthed stare.
+A delicious, tidy silence.
 
-“You don’t have to do this…” he began timidly.
+Mr. Greeves shrugged, satisfied.
+
+“Alright then. Celeste and Charles. Good.”
+
+I walked my chair over to Charlie's desk.
+
+He blinked, and then, his face went wide-eyed and open-mouthed. 
+
+Recognition.
+
+“You don’t have to do this—” he began timidly.
 
 “I know.”
 
-He blinked and swallowed hard, unable to stop staring. I placed my notebook on the desk between us and looked at the question set.
+I placed my notebook on the desk between us and looked at the question set.
 
 “Pick one.”
 
-“I—” He looked down, and faltered. The page might as well have been written in smoke.
+“I—” He looked down. The page might as well have been written in smoke.
 
-Finally, he slowly collected himself and set himself to the task. Thin-lipped, with a driven intent to do it right. He scanned the way someone scans for structure.
+Finally, he collected himself, his eyes moving over the page the way someone looks for the familiar.
 
-My eyes dropped to his notebook as he unconsciously shifted it—carefully, fussy, aligning the corners of the paper with the desk edge. Then there was his handwriting: neat, consistent, slanted slightly right, well-mannered.
+I watched him unconsciously shift his notebook—carefully, aligning the corners of the paper with the desk edge. I glanced at the handwriting: neat, consistent, slanted slightly right, well-mannered. The diagrams on the page were so neat, they looked printed.
 
-“You’re good at geometry, aren't you?”
+“You’re pretty good at geometry, aren't you?”
 
-His head came up with a twitch. “What?”
+His head came up with a twitch. “Sorry?”
 
 “Geometry. You're good at it. Your diagrams are very precise.”
 
-He looked genuinely confused. An observation not involving a failure was completely new to him.
+His eyes searched mine, genuinely confused.
 
-“I’m… okay, I guess.”
+“I’m— okay, I guess,” he said finally.
 
-“No, you’re better than okay.” I tapped the question set. “Pick one with a diagram. A shape. Something that lives in space, not in a string of symbols.”
+“No, you’re better than okay.” I tapped the question set. “Go ahead—pick one with a diagram. A shape. Something that lives in space, not in a string of symbols.”
 
-He hesitated, then pointed with his pencil. “This one. The triangle… with the angle bisector.”
+He hesitated, then pointed with his pencil. 
 
-“Good.” I nodded. “You do the diagram. Make it clean. Label it properly. I’ll do the algebraic part and write the explanation. Then you check me for logic. Deal?”
+“This one. The triangle, with the angle bisector.”
 
-He stared at me. “You… trust me to check you?”
+“Right then.” I pointed. “You do the diagram. Make it clean. Label it properly. I’ll turn your diagram into an equation and write the explanation. And then, you can check my explanation works with the geometry. Deal?”
 
-“I trust your eyes,” I replied. “They’re honest.”
+He stared at me. “You— trust me to check your explanation?”
 
-His ears went faintly pink, like he was embarrassed at being assigned a virtue.
+“I trust your eyes,” I replied.
 
-He bent over the page. His pencil moved and the triangle appeared with a crispness that felt almost calming. Clean lines. Honest angles.
+His ears went faintly pink as he bent over the page. His pencil moved and the triangle appeared—clean lines, honest angles.
 
 While he worked, I listened to the classroom. The buzz of other pairs. The smugness of boys who’d paired up for safety, girls who’d paired up for comfort. My lips tensed as I heard the sibilants of my name—quick and unmistakably mine.
 
@@ -351,71 +347,51 @@ Charlie drew his angle bisector and then paused, frowning.
 
 He pointed. 
 
-“If you call that angle x… then this one has to be x too, because of the bisector. But the problem statement says this angle is thirty degrees, which means x is fifteen. Which means… your ratio is fixed.”
+“If you call that angle x, then this one has to be x too, because of the bisector. But the problem statement says this angle is thirty degrees, which means x is fifteen. Which means your ratio is fixed.”
 
-As he spoke softly, his eyes flicked to me and away again as if he was stealing something.
+He spoke softly, his eyes flicking to me nervously. I looked where he pointed. 
 
-I looked where he pointed. He was right. The whole thing collapsed into a simple proportion. I felt a small, satisfied click in my chest. He was competent in a way nobody had bothered to check.
+He was right. The whole thing collapsed into a simple proportion.
 
-“Exactly,” I said. “That’s the spine of it.”
+“Exactly.”
 
-He glanced up at me again, his hazel eyes quick, searching. 
+He glanced up at me again, his hazel eyes more searching now. 
 
-“Why are you doing this?” he asked with a flicker of a frown.
+“Why are you doing this?” he asked. His question wasn't about geometry.
 
-There it was. The suspicion. Because kindness was too unusual, too unfamiliar. 
+*What did I want?*
 
-What did I want?
+“I hate waste,” I said.
 
-“Because I hate waste,” I said.
+“Waste? What do you mean?”
 
-His pencil hovered.
+“Waste of ability,” I clarified. “Waste of talent.” I kept my voice calm. “You’re just misallocated.”
 
-“Waste?”
+I leaned closer, just enough to make my next words private.
 
-“Waste of ability,” I clarified. “Waste of time. Waste of talent.” I kept my voice calm. “You’re just misallocated.”
+“I'm not trying to be kind,” I said. “I don’t do charity. I do investment.”
 
-He swallowed, and for a second his face did something raw, like he’d nearly believed me. I leaned closer, just enough to make my next words private.
-
-“Also,” I added, “you are going to owe me.” His shoulders stiffened. ”Not like that. Practical.”
-
-“What do you mean?”
-
-“I mean,” I said, “I don’t do charity. I do investment.”
-
-He continued to stare at me, his face serious. Mr. Greeves wandered past. He glanced at our work, eyebrows lifting. 
-
-“Good diagram.” He sounded surprised. “Nice and clean.”
-
-Charlie’s eyes went back to his paper, his hand tightening on the pencil.
-
-When Mr. Greeves walked away, I said, lightly, “See? You exist. People just don’t like admitting it.”
-
-Charlie’s mouth twitched, a ghost of a smile.
+He continued to stare at me for a moment, his face serious.
 
 We quickly finished the solution. I wrote the explanation in clear steps. He checked every transition like a quiet auditor. When we handed it in, Mr. Greeves nodded at me, then, more slowly, at him.
 
-Then, the bell went, chairs scraped, and the flock of birds turned again. People flowed past us, and I watched Charlie do what he always did: shrink to let them.
-
-I slid my notebook into my bag and stood.
+The bell went. People flowed past us. Charlie shrank to let them by. I slid my notebook into my bag and stood.
 
 “Charlie.”
 
-He looked up, automatically attentive.
+He looked up.
 
-“I’ve taken work in Wardrobe, at the historical Faire,” I continued, watching his face carefully. “A proper workplace. Interested?”
+“I’ve taken work in Wardrobe at the Historical Faire,” I said. “Interested?”
 
-The Faire employed half the local students, the way Macca’s or Hungry Jack’s did in other towns; the only difference was that here the uniforms came with petticoats, stays, linen shirts, and rules nobody could afford to misunderstand.
+The Faire employed half the local students, the way Macca’s or Hungry Jack’s did in other towns; the only difference was that here the uniforms came with petticoats, stays, linen shifts, and a history lesson.
 
-His eyes flicked away, then back. He frowned slightly. “Wardrobe? Why me?”
-
-I stepped closer, so my answer didn’t have to compete with the corridor noise.
+He frowned slightly. “Wardrobe? Why me?”
 
 “Because you already know how to get work done without applause,” I said, “and Wardrobe needs people who can keep their heads. People who can do detail. People who can be invisible on purpose.” 
 
-His breath caught—then, he nodded once, careful, like he didn’t trust his own voice.
+He stared at me for a moment, then gave a noncomittal nod.
 
-“Good,” I said. 
+“See you there.”
 
 I could feel him watching me walk away.
 
@@ -1479,7 +1455,7 @@ Wardrobe didn’t feel like a repair shop anymore.
 
 The worktable was cleared for pattern paper instead of mending baskets, and Mara had the particular expression she wore when money had been approved and time had not: a brisk concentration that made everyone else move faster without being told to.
 
-A new jacket lay pinned to a mannequin — not perfect yet, but already smarter than the old stock. The seam lines made sense. The stress points had been thought through. It was the first garment in weeks that wasn’t a compromise. Mara stood with a pencil behind her ear, looking at the jacket like she was deciding whether to forgive it.
+A new jacket lay pinned to a mannequin—not perfect yet, but already smarter than the old stock. The seam lines made sense. The stress points had been thought through. It was the first garment in weeks that wasn’t a compromise. Mara stood with a pencil behind her ear, looking at the jacket like she was deciding whether to forgive it.
 
 “See that?” she said to me, tapping a point near the underarm. “That’s where tourists tear things. That’s where staff tear things. Movement there is violent.”
 
@@ -2581,7 +2557,7 @@ Mara looked at my notebook.
 
 I wrote at the top of the page, in neat block letters:
 
-DESIGN REALISATION — PROTOTYPE 1 — STRESS TEST LOG
+DESIGN REALISATION—PROTOTYPE 1—STRESS TEST LOG
 
 Then underneath, because it mattered, because it named what we were building:
 
@@ -2987,7 +2963,7 @@ Charlie turned to a clean page carefully, as if the paper might bruise. His pen 
 
 He wrote: 
 
-STAYS — ATTEMPT 1   
+STAYS—ATTEMPT 1   
 DATE:
 
 “These aren’t costume stays,” she said, tapping the canvas with two fingers. “They’re working stays. People keep confusing the two. Costume stays hold a silhouette for a photograph. Working stays hold a person for a day.”
@@ -3347,7 +3323,7 @@ She reached for the ledger and pointed at Charlie’s new heading.
 
 Charlie’s hand moved. Words appeared.
 
-ATTEMPT 2 — BODY TYPE: NYMPH (BASELINE)
+ATTEMPT 2—BODY TYPE: NYMPH (BASELINE)
 
 I glanced at the word 'NYMPH' and at Charlie. 
 
@@ -3590,7 +3566,7 @@ Charlie swallowed again and cleared his throat.
 
 Charlie wrote:
 
-**ATTEMPT 2 — BODY TYPE: RETURNING-TO-WORK (BASELINE)**
+**ATTEMPT 2—BODY TYPE: RETURNING-TO-WORK (BASELINE)**
 
 Mara had chosen Sarah for the third line before Sarah knew she had been chosen.
 
@@ -3938,7 +3914,7 @@ The argument had already moved into the car ride home.
 
 Mara wrote in the ledger:
 
-EXPOSURE TRAINING — RUNG COMPLETED
+EXPOSURE TRAINING—RUNG COMPLETED
 
 crossed line while observed
 task performed
@@ -4127,7 +4103,7 @@ Lauren let out a breath that was almost a laugh: private, pleased.
 
 Mara reached for the ledger and wrote while Charlie worked. When she was done she pushed the book toward him.
 
-RUNG2 — EXPOSURE:   
+RUNG2—EXPOSURE:   
 - spoken to while working;  
 - hands maintained;   
 - answers factual;   
@@ -4153,7 +4129,7 @@ Mara didn’t bother looking up.
 
 Lauren slid a label across the table toward me. It read in tidy print:
 
-*STAYS BLOCK — RETURNING-TO-WORK*
+*STAYS BLOCK—RETURNING-TO-WORK*
 
 “We need a proper storage system,” Lauren said, warm. “You can’t build a business on paper scraps and good intentions.”
 
@@ -4388,7 +4364,7 @@ We went to the ledger.
 
 Mara wrote, fast and sharp:
 
-R3 — EXPOSURE:   
+R3—EXPOSURE:   
 - stupid comment introduced;   
 - hands maintained;   
 - response factual;   
@@ -5105,7 +5081,7 @@ In the morning, I woke up irritable with myself.
 
 My study block was marked on the kitchen whiteboard in black marker, all caps:
 
-CELESTE — STUDY (SACRED) 8:00–11:00
+CELESTE—STUDY (SACRED) 8:00–11:00
 
 Lauren had written it, I suspected. The handwriting had her quiet friendliness in it, the sort that made rules feel like care instead of control. Beneath it, in smaller, neater script:
 
@@ -5515,7 +5491,7 @@ Wardrobe was thriving. That was the danger. Thriving meant multiplying. Multiply
 
 I drew a line down a blank page and wrote:
 
-JAN — COSTS / INCOME / WASTE
+JAN—COSTS / INCOME / WASTE
 
 Then another line. Then another. Reassuring, in the way locking a door is reassuring.
 
@@ -5896,7 +5872,7 @@ Mara watched him one beat longer than politeness required. She lifted her chin: 
 
 “Put it in,” I said to Charlie. Charlie reached for the pen and opened to the right page. He wrote:
 
-RETEST — OFF-WHITE PETTICOATS — SEAM-STRESS SHIFTING
+RETEST—OFF-WHITE PETTICOATS—SEAM-STRESS SHIFTING
 
 and left the signature spaces.
 
@@ -6255,7 +6231,7 @@ I did not answer. Because I understand maths. Especially the 'two-plus-two' sort
 
 At the table, Charlie paused, checked a previous page, then wrote:
 
-RETEST REQUIRED — BACK PANEL / SHOULDER LINE
+RETEST REQUIRED—BACK PANEL / SHOULDER LINE
 
 His handwriting was neat enough to be annoying.
 
@@ -8039,7 +8015,7 @@ I watched her swallow, watched her hesitate, and I knew there was a different qu
 
 “I thought it was because you hated me.”
 
-She stared straight ahead, shoulders locked, as if the seat in front of her could take the impact for her. The sentence punched the breath out of my chest — she’d been reading my distance as judgement.
+She stared straight ahead, shoulders locked, as if the seat in front of her could take the impact for her. The sentence punched the breath out of my chest—she’d been reading my distance as judgement.
 
 I turned toward her fully. No half-angles.
 
@@ -8059,13 +8035,13 @@ Charli’s eyes snapped to mine. She blinked fast, baffled.
 
 “Why?” she whispered.
 
-I should have kept it tidy. Safe. But after last night — after today — after seeing how close she’d come to trying to solve terror with a bottle and a secret, tidy felt like a lie.
+I should have kept it tidy. Safe. But after last night—after today—after seeing how close she’d come to trying to solve terror with a bottle and a secret, tidy felt like a lie.
 
 So I gave her the truth in a shape she could carry.
 
 “Because from the very beginning,” I said, softly but with emphasis, “I saw you.”
 
-Her mouth fell open. Her body sagged a fraction, as if she’d been bracing for something heavier. A frown creased her brow, head tilting — trying to understand what I meant without letting herself hope.
+Her mouth fell open. Her body sagged a fraction, as if she’d been bracing for something heavier. A frown creased her brow, head tilting—trying to understand what I meant without letting herself hope.
 
 “Not the way people usually notice someone,” I added, because she needed the distinction like she needed air. “Not the outfit. Not the surface.”
 
@@ -8079,7 +8055,7 @@ Charli’s mouth trembled.
 
 “No.” I shook my head. “I was careful.” My patience slipped a notch: not with her, with the fear that kept hijacking every sentence. “I had to be,” I said. “Not because you did something wrong. Because you mattered, and I didn’t want to be another person who confused you.”
 
-Her eyes filled. She didn’t wipe them away. She just let them sit there — bright, unspectacular — as the bus carried us forward into the growing darkness and the windows turned us into ghosts.
+Her eyes filled. She didn’t wipe them away. She just let them sit there—bright, unspectacular—as the bus carried us forward into the growing darkness and the windows turned us into ghosts.
 
 “What did you think of me?” she asked, and the question was so vulnerable it hurt.
 
@@ -8091,7 +8067,7 @@ Charli stared at it for a second.
 
 Then her fingers slid into mine, careful, as if she was afraid of doing it wrong. She looked at me, and something like relief eased the anguish that had brought on the tears.
 
-I squeezed once — light, deliberate.
+I squeezed once—light, deliberate.
 
 “I thought you were worth being careful with.” I paused. Her eyes never left my face. “I thought you were brave, and I thought you were being asked to carry things you shouldn’t have to carry.”
 
@@ -8452,7 +8428,7 @@ I reached for the glass of water on the coffee table and nudged it closer to her
 
 She looked at the lamp, the blanket, the quiet room—like she was memorising the shape of safety. Then she leaned her head lightly against my shoulder. Not asking or performing: choosing.
 
-I let my own breath out slowly, careful and steady. In the soft domestic hush, I realised something with a clarity that didn’t frighten me for once: This wasn’t me losing discipline. It was me learning a better kind — the kind that could hold her without putting her into a cage.
+I let my own breath out slowly, careful and steady. In the soft domestic hush, I realised something with a clarity that didn’t frighten me for once: This wasn’t me losing discipline. It was me learning a better kind—the kind that could hold her without putting her into a cage.
 
 The kind that could make a girl feel—maybe for the first time—that she didn’t have to be brave alone.
 
@@ -13822,9 +13798,9 @@ As the plane dipped further and the world rose up to meet us, I pressed my foreh
 
 [S56a]: ../assets/images/story/Scene56a.jpg
 
-✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧——… …
 
-😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 ——
 
 <hr class="section-break strong" />
 

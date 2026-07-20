@@ -44,7 +44,7 @@ I shrugged.
 
 "That's not an answer." She sat up and faced me. "Any better than last night?"
 
-Memories of ED doctors asking permission to check my groin, the smell of my urine in a little plastic cup — that *awful* smell — and then, the needle, Celeste's serious eyes and at the end, the relief that it wasn't a surgical infection suddenly all came back. Annoying.
+Memories of ED doctors asking permission to check my groin, the smell of my urine in a little plastic cup—that *awful* smell—and then, the needle, Celeste's serious eyes and at the end, the relief that it wasn't a surgical infection suddenly all came back. Annoying.
 
 I nodded.
 
@@ -72,7 +72,7 @@ I followed her into the kitchenette.
 
 She flicked on the kettle, then turned to face me. Her look had softened.
 
-"Wrong. This isn't about right or wrong." She dropped teabags into cups. Her brow creased momentarily. "You need to learn to share. Not just the nice things — everything."
+"Wrong. This isn't about right or wrong." She dropped teabags into cups. Her brow creased momentarily. "You need to learn to share. Not just the nice things—everything."
 
 "But I don't want to be a complainer, Celeste," I said.
 
@@ -90,7 +90,7 @@ Her lips parted, about to speak, when her phone rang. Outside, the whining diese
 
 I rocked to one side with a frustrated grunt as I took the phone from her.
 
-Mum sounded the way she always did when I got sick — an even mixture of worry and hard-decision making.
+Mum sounded the way she always did when I got sick—an even mixture of worry and hard-decision making.
 
 “How are you feeling this morning, Charlotte?”
 
@@ -202,7 +202,7 @@ It was the prettiest garment in my wardrobe. Celeste's lips curled up as I slipp
 
 "Because you're very soon going to be in situations where how you look counts." She pursed her lips. "Look smart, be smart."
 
-As I was finished brushing my teeth — mostly to rid myself of that 'snacking-on-thumbtacks' taste — Celeste handed me a new lipstick in a colour expecting a bit of bravery. I frowned at it for a moment.
+As I was finished brushing my teeth—mostly to rid myself of that 'snacking-on-thumbtacks' taste—Celeste handed me a new lipstick in a colour expecting a bit of bravery. I frowned at it for a moment.
 
 "We're going for *coffee*."
 
@@ -232,7 +232,7 @@ The turn indicator clicked, and we rocked slightly as the car moved forward.
 
 "Yes, it says you don't trust us. Like, your mum, for example."
 
-The road in front of us faded — I could only see Celeste's eyes last night.
+The road in front of us faded—I could only see Celeste's eyes last night.
 
 "And you, I guess." 
 
@@ -271,7 +271,7 @@ We sat in silence for a while. When I glanced over, Celeste was staring in front
 
 The wind was even colder near the water. We turned up our coat collars and walked quickly to the front door of the cafe. We were barely inside when I noticed a young man sitting with an older woman in front of the window. The woman's head was turned to the window while the man's eyes were on us. Just, not on our faces. I felt instantly uncomfortable.
 
-My eyes flitted towards Celeste. I tried to mimmick her movements, her poise — turned my back to the couple at the window. And felt Celeste's eyes on me.
+My eyes flitted towards Celeste. I tried to mimmick her movements, her poise—turned my back to the couple at the window. And felt Celeste's eyes on me.
 
 The boombox next to the water cooler was playing Queen as we grabbed our coffees. I was looking around for a place to sit when I felt Celeste's hand on mine.
 
@@ -285,7 +285,7 @@ When we sat down, I threw a quick look at the couple at the window. The man's ba
 
 She nodded.
 
-"You're definitely more aware than you were when you left for Maleny," she said. "I'm happy you met Brittany — that was a good thing." She had a sip of her coffee. "But with Ballarat, things are going to move up a notch."
+"You're definitely more aware than you were when you left for Maleny," she said. "I'm happy you met Brittany—that was a good thing." She had a sip of her coffee. "But with Ballarat, things are going to move up a notch."
 
 My lipstick had left a rose-coloured slur on the lip of the brown ceramic cup.
 
