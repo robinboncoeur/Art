@@ -10,15 +10,14 @@
 
 ## 
 
-[ Celeste ]
 
-I glanced at Charlotte. She had gone quiet and was staring at the road, her mouth set. The words 'yes, and me' were still hanging in the air. A small branch, leaves still attached, blew across the road. In the distance, the tops of the waves wore white froth like caps on Santa's elves.
+I glanced at Charlotte. She had gone quiet and was staring at the road, her mouth set. The words 'yes, and me' were still hanging in the air. A small branch, leaves still attached, blew across the road. In the distance, the tops of the waves wore foamy white caps.
 
 We slowed as I turned on the indicator. 
 
 "I hope you get I'm not trying to guilt you, Charlotte."
 
-We stopped. The café did not seem that busy.
+The car rolled to a stop next to an elderly couple walking their Pekingese. The streets were almost empty—the café did not seem that busy, either.
 
 I looked at Charlotte again.
 
@@ -30,11 +29,11 @@ I turned off the engine.
 
 "What then?"
 
-Charlotte's gaze was fixed on the café, its marquis flapping nervously in the brisk wind.
+Charlotte's gaze was fixed on the café, its awning flapping nervously in the brisk wind.
 
 "I— I'm not sure."
 
-Her lips pressed together again, the umpteenth time since getting in the car. It was not a serious press, or a determined press, but more like a sliding "what is this on my lips" press. Her shoulders had curled forward, her chin: tucked in.
+Her lips pressed together again, the umpteenth time since getting in the car. It was not a serious press, or a determined press, but more like a sliding "what is this on my lips" press. Her shoulders had curled forward, her chin tucked in.
 
 "Charlotte, look at me."
 
@@ -84,11 +83,15 @@ She shrugged.
 
 Charlotte nodded slowly. The edge had softened, but it was still there.
 
-When we entered the café, the smell of ground roast beans and warming baguettes settled in my nose as welcome as a warm fire in winter. Charlotte followed me in like a trad-wife, eyes flicking nervously about. The cadence of our footfalls on the wooden floor was matched by Supertramp's "Not much of a girlfriend, she's the only one I got." I smiled at the barista.
+When we entered the café, the smell of freshly ground coffee and warming baguettes welcomed me like a warm fire in winter. Charlotte followed me in half a step behind, eyes flicking nervously about, as if she'd made herself my junior. I hated it and yet, understood it. 
 
-"Could we get a piccolo latté and an almond flat white, please? You want a large, Charlotte?"
+Our footfalls on the wooden floor were in step to the words "not much of a girlfriend, she's the only one I got" playing on the boombox. 
 
-Her face suddenly snapped to mine.
+I smiled at the barista.
+
+"Could we get a piccolo latte and an almond flat white, please?" I turned to Charlotte. "You want a large?"
+
+Her face snapped to mine.
 
 "Sorry?"
 
@@ -96,91 +99,71 @@ Her face suddenly snapped to mine.
 
 "Uh, no. Sorry. Small, please."
 
-I led the way to a sun-warmed spot by a large window. Charlotte squinted at me in the sunlight, her hair a soft halo about her head. 
+We settled in a sun-warmed spot by the large window.
 
-I sat and studied her. 
+I sat and studied her.
 
-And fell in love with her again.
+Charlotte squinted at me, her hair softened into a halo by the sunlight. Her lips went crooked in that endearing way of hers. I held her gaze until it softened and gave way beneath mine. 
 
-And then I noticed that she, in turn, was studying me.
+A blush rose at her throat.
 
-"What are your thoughts, lovely?"
+And I fell in love with her again.
+
+“What are your thoughts, lovely?”
 
 Her smile was a quick twitch of the cheeks.
 
-"People are— looking. At you," she said softly.
+"People are looking at you," she said softly.
 
 I gave a quick puff.
 
-"Actually, at *us*," I corrected.
+"Actually, at *us*."
 
 Her frown was as fleeting as her smile.
 
-"Us? Why?"
+"Us?"
 
-"Because you're here too, lovely. And people like what they see."
+"Yes, us. You're here too, lovely. And people like what they see."
 
-Two tradies in high-vis attire and burnt necks strolled in, their boots scuffling along the oak flooring. The younger of the two cast a look in our direction, and the smile he gave wasn't for me. Charlotte reddened and looked quickly out the window.
+Two men in high-vis attire and burnt necks strolled in, their boots scuffling along the oak flooring. The younger of the two cast a look in our direction, and the smile he gave wasn't for me. Charlotte reddened and looked quickly out the window.
 
-As the tradies ordered, the younger one cast an occasional glance in our direction. Charlotte continued to stare steadfastly out the window.
+As they ordered, the younger of the two glanced at Charlotte once or twice. She continued to stare, wide-eyed, out the window.
 
-"Hey, you."
-
-Her attention snapped to me, her face a question.
-
-"What if that was Brittany looking at you?"
-
-"I don't get what you're saying."
-
-"You're not going to tell me," I said, "that him looking at you isn't making you uncomfortable."
-
-Charlotte's face went red again. She looked down.
-
-"A little, I guess," she murmured.
-
-"Right. A little. Why?"
-
-Her shoulders rose the tiniest bit.
-
-"Just not used to it, like you are."
-
-I sipped my latte.
-
-The tradies found a seat, and the older of the two held his phone up for the younger one, who was peering at the screen. The pride of the man holding the phone was visible from where we sat.
+The workers found a seat. The older one held his phone up for the young bloke, who peered at the screen with a huge grin. The phone owner's pride was written in caps on his face.
 
 "How long has she been doing ballet?" I heard the younger man say.
 
-The man turned the phone back to himself and beamed at screen.
+The man turned the phone back to himself and beamed at the screen.
 
 "Four years, mate."
 
-Charlotte shoulders visibly eased. She took a first sip of her flat white, twisting a tendril in her fingers.
+I glanced at Charlotte—she was looking at me and her shoulders had visibly eased. She took a first sip of her flat white, twisting a tendril in her fingers. Her eyes flicked to the workers; their attention, however, was completely on the topic of ballet, not our table.
 
-"What am I doing wrong, Celeste?" She glanced over the tradies: their attention was completely on the topic of ballet, not our table.
+"What have I got wrong, Celeste?" 
 
 I thought of the boy in the ladies' who had preemptively apologised. A version of that person was sitting opposite me: same reflexes, different targets. Wardrobe had provided a safety buffer, not a solution. The instinct was still there, despite all the rungs of Mara's ladder.
 
-"Wrong. This isn't about right or wrong," I said for the second time that day. "It's about getting used to being seen by people who like what they see. It's the fourth rung."
+"Wrong. This isn't about right or wrong," I said for the second time that day. "It's about getting used to being noticed. It's the fourth rung."
 
 Charlotte straightened.
 
 "Even people who I would rather they didn't?"
 
-"Especially them."
-
 I had another sip. My latte was going cold.
 
-"People look. That fact does not put you in danger." 
+"People look. Looking isn't the same as claiming. They don't need your permission to notice you." I finished my latte. "But for anything else, they do." 
 
-Charlotte tipped her head. We both looked over at the table wearing high-vis. The older man gave me a quick grin and as quickly went back to his coffee and topic.
+We looked over at the men in high-vis. The older man gave me a quick grin and as quickly went back to his coffee and topic.
 
 Charlotte took a breath and squeezed her eyes shut for a moment.
 
-"Sarah said I should be careful who I smile at."
+"You're just *so* in control, Celeste. How do you do that?" I almost laughed. Before I could reply, she added, "Sarah said I should be careful who I smile at."
 
-"She was right. For that point in time, it was true, because you were still feeling your way. However now it's time to move forward."
+"She was right," I said.
 
-I threw another quick look at the table wearing high-vis. Both men were looking in our direction, but not at us. A large semi had just pulled up on the other side of the road. They quickly rose, gulped their coffee and headed for the door.
+I threw another quick look at the men in high-vis. Both were looking in our direction, but not at us. A large white Powercor bucket truck had just pulled up on the other side of the road. 
+
+I heard one of them say, "They're early," as they rose, gulped their coffee and headed for the door.
 
 I watched Charlotte's eyes follow them as they headed over to the truck.
 
@@ -188,26 +171,33 @@ I watched Charlotte's eyes follow them as they headed over to the truck.
 
 "Yep."
 
-She looked at me then.
+She looked back at me.
 
 "How did that make you feel?" I continued gently.
 
 Her brow creased for a moment.
 
-"Actually, I didn't really feel anything. Nothing bad or good. Perhaps just— a little confused."
+"Actually, I didn't really feel anything. Nothing bad or good. Perhaps just a little confused."
 
 My mouth curved up.
 
-"At least you're not let letting confusion make decisions for you." Charlotte's smile was a bit wan as she finished her coffee. "Ready to do a bit of shopping?"
+"So, don't let confusion make decisions for you." 
 
-She shrugged.
+Charlotte's tentative smile seemed to ask for an explanation. I considered her for a moment.
 
-"Sure, why not?"
+"You know what might help get rid of the confusion?" I asked brightly. 
+
+"What's that?"
+
+"A little shopping!"
+
+Her smile missed a beat.
+
+There was a long silence.
+
+"Sure," she said finally. "Why not?"
 
 "That's my girl!"
-
-
-
 
 
 
