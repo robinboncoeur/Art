@@ -8,328 +8,203 @@
     
 
 
-## It's Different Now
+## 
 
+[ Celeste ]
 
-[![The Writer][St00]{ .artR width="460" }][St00]
+I glanced at Charlotte. She had gone quiet and was staring at the road, her mouth set. The words 'yes, and me' were still hanging in the air. A small branch, leaves still attached, blew across the road. In the distance, the tops of the waves wore white froth like caps on Santa's elves.
 
+We slowed as I turned on the indicator. 
 
-[ *Charlotte* ]
+"I hope you get I'm not trying to guilt you, Charlotte."
 
-I woke with a start. Someone had kicked me.
+We stopped. The café did not seem that busy.
 
-I turned to look at the head hidden by tousled dark hair beside me. And heard a high-pitched strangled voice. 
+I looked at Charlotte again.
 
-And then, another kick.
+She'd slid down in her seat. 
 
-I reached out my hand and gently let it settle on the highest bump. I felt a twitch, the bedding rose a bit as the tousled hair took in a long breath. And then, a sleepy face appeared. 
+"It's not that."
 
-"Was I snoring?"
+I turned off the engine.
 
-"No. Talking."
+"What then?"
 
-Celeste closed her eyes.
+Charlotte's gaze was fixed on the café, its marquis flapping nervously in the brisk wind.
 
-"I just had the worst dream!"
+"I— I'm not sure."
 
-"I know. It woke me up."
+Her lips pressed together again, the umpteenth time since getting in the car. It was not a serious press, or a determined press, but more like a sliding "what is this on my lips" press. Her shoulders had curled forward, her chin: tucked in.
 
-Her lips flattened. She looked at me over her shoulder, eyes narrowed.
+"Charlotte, look at me."
 
-"How are you feeling?"
+She gave me a fleeting, sidelong glance.
 
-I shrugged.
+"You okay?" I asked. Her quick nod was unconvincing.
 
-"Okay."
+I opened the door—and heard her voice, soft yet urgent:
 
-"That's not an answer." She sat up and faced me. "Any better than last night?"
+"Celeste—"
 
-Memories of ED doctors asking permission to check my groin, the smell of my urine in a little plastic cup—that *awful* smell—and then, the needle, Celeste's serious eyes and at the end, the relief that it wasn't a surgical infection suddenly all came back. Annoying.
-
-I nodded.
-
-"I'm fine."
-
-"You said that last night on the way to the hospital."
-
-"I just— I don't want to make a big thing of it, Celeste."
-
-"Silly girl, an infection *is* a big thing!"
-
-"Are you cross with me?"
-
-"Actually yes." She sat on the side of the bed, talking at her slippers. "And here's why." She spun around, her face a frown. "Women don't do the 'I'll be right' thing blokes do."
-
-I stared at my hands.
-
-"But—"
-
-"But nothing. You're not Robinson Crusoe, and you're making me guess the problem."
-
-I followed her into the kitchenette.
-
-"So, what did I do wrong?"
-
-She flicked on the kettle, then turned to face me. Her look had softened.
-
-"Wrong. This isn't about right or wrong." She dropped teabags into cups. Her brow creased momentarily. "You need to learn to share. Not just the nice things—everything."
-
-"But I don't want to be a complainer, Celeste," I said.
-
-She studied me for a moment, and dipped her head, her frown now more a grimace.
-
-"Yeah, okay, it's not your style. I get that." The kettle gave a merry ding. She silently poured boiling water over teabags, then studied them for a moment.
-
-"Still."
+The wind pushed my door closed.
 
 I waited.
 
-Her lips parted, about to speak, when her phone rang. Outside, the whining diesel thrum of the garbage truck mixed with the clattering thump of bins being emptied obscured her words.
+Charlotte's eyes were wide. They kept flicking to the café, then down to her hands. The sound of waves crashing on the shoreline rocks blended with the wind whistling through the opening of a partly closed door.
 
-"I might just let you talk to her." She handed the phone to me. "It's your mum. You're on speaker, Lauren."
+"You're not keen on this, are you, Charlotte?"
 
-I rocked to one side with a frustrated grunt as I took the phone from her.
+Her throat bobbed and she pressed her lips together yet again.
 
-Mum sounded the way she always did when I got sick—an even mixture of worry and hard-decision making.
+"Well—"
 
-“How are you feeling this morning, Charlotte?”
+I tipped my head a bit as I peered at her.
 
-“Better.”
+"Is it the lipst—"
 
-I heard a puff. “Better how?”
+"No." 
 
-I glanced at Celeste. She'd folded her arms, eyebrows raised.
+"No?"
 
-“It doesn’t hurt as much.”
+"Not really, Celeste," she said finally, then turned to me. "I guess I'm just not sure how to be."
 
-“Does it hurt when you pass urine?”
+My spine stiffened at first. Then, I had a thought.
 
-“Um, a bit.”
-
-“A bit,” Mum repeated. “Charlotte, be straight with me. Celeste and I know what a urinary tract infection feels like.”
-
-“Okay.”
-
-“Then tell me properly.”
-
-I stared at the table, rubbing at a smudge with my thumb.
-
-“It stings. Not as badly as last night. And I still feel like I need to go when I don’t.”
-
-“Any shivering?”
-
-“No.”
-
-“Nausea?”
-
-“No.”
-
-“Pain in your back?”
-
-“No.”
-
-“And he's taking the antibiotics exactly as prescribed?”
-
-“Yes, Lauren,” Celeste replied.
-
-There was a brief silence.
-
-“Good.” Her voice softened, but only slightly. “Now, listen to me, young lady. You have a bad habit you need to break.”
-
-My right knee had decided to do a little dance on its own.
-
-“And you might as well start now.”
+"How did you feel when you did presentations at the Maleny Wardrobe, Charlotte?"
 
 "What do you mean?"
 
-"You have a right to privacy. But in medical matters, you don't have a right to secrecy. They're not the same thing."
+"You know, when you were showing how to repair seams. How did you feel?"
 
-I glanced at Celeste. She'd settled into a chair, pressing her lips with the side of her hand as she peered at me.
+She shrugged.
 
-"Yes, Mum."
+"Okay, I guess." She leaned back in the seat. "Thing is: it was about the seams, the costumes. Not about me."
 
-"I need more than a 'yes, Mum' from you, Charlotte," the voice on the phone said in that tone that always made my back stiffen, "promise me: no more little secrets when you don't feel right."
+"Fine." I grinned at her. "So, pretend you're going to show the barista how to fix a seam."
 
-"Yes Mum... I mean— I promise."
+Charlotte nodded slowly. The edge had softened, but it was still there.
 
-I heard Sarah's voice in the background.
+When we entered the café, the smell of ground roast beans and warming baguettes settled in my nose as welcome as a warm fire in winter. Charlotte followed me in like a trad-wife, eyes flicking nervously about. The cadence of our footfalls on the wooden floor was matched by Supertramp's "Not much of a girlfriend, she's the only one I got." I smiled at the barista.
 
-"Remind her what I told in the cafe, Lauren."
+"Could we get a piccolo latté and an almond flat white, please? You want a large, Charlotte?"
 
-She didn't need to. Only thing was, now I was starting to get what Sarah meant. My mouth went crooked. 
+Her face suddenly snapped to mine.
 
-*I'd stuffed up.*
+"Sorry?"
 
-Everything had changed and I hadn't been paying attention. I wasn't a different person, not really, but the way I fitted amonst people had changed. 
+"Large flat white?"
 
-The rules I'd grown up with didn't apply anymore. And there were a whole bunch more I had no idea existed.
+"Uh, no. Sorry. Small, please."
 
-They were bigger than Wardrobe.
+I led the way to a sun-warmed spot by a large window. Charlotte squinted at me in the sunlight, her hair a soft halo about her head. 
 
-I wasn't sorting pins.
+I sat and studied her. 
 
-"You need to stop thinking you still need to prove yourself. It's just not a thing, Charlotte, and it gets you into trouble," Mum said, her voice at that quiet level when her words were to be taken as canon. "Just— stop."
+And fell in love with her again.
 
-"It's exhausting." I heard Sarah's voice grow louder.
+And then I noticed that she, in turn, was studying me.
 
-Celeste's brows rose the tiniest bit. She leaned back in her chair, still studying me. She finally reached for the little white box on the bench and placed it in front of me. Gentamicin. I popped one in my mouth, and washed it down with a mouthful of cooled tea.
+"What are your thoughts, lovely?"
 
-"Rest, sunshine, take your meds with lots of water... and listen to Celeste," Mum said. 
+Her smile was a quick twitch of the cheeks.
 
-The line went dead.
+"People are— looking. At you," she said softly.
 
-I continued to stupidly look at the black screen, because I couldn't bear to look at Celeste.
+I gave a quick puff.
 
-"Are you up for a coffee, petal?"
+"Actually, at *us*," I corrected.
 
-The thought of coffee sounded amazing.
+Her frown was as fleeting as her smile.
 
-"Would that be okay?" I said carefully.
+"Us? Why?"
 
-"Only if you feel up to it," Celeste said. "Let's get dressed, shall we? You can wear that new jumper I got you."
+"Because you're here too, lovely. And people like what they see."
 
-It was the prettiest garment in my wardrobe. Celeste's lips curled up as I slipped it on.
+Two tradies in high-vis attire and burnt necks strolled in, their boots scuffling along the oak flooring. The younger of the two cast a look in our direction, and the smile he gave wasn't for me. Charlotte reddened and looked quickly out the window.
 
-"How did you know it would fit?"
+As the tradies ordered, the younger one cast an occasional glance in our direction. Charlotte continued to stare steadfastly out the window.
 
-"You've been a size ten since I've known you," she said. Her eyebrows rose. "However, it's time you learn proper shopping, not this 'find-it, kill-it, drag-it-home' thing you do."
+"Hey, you."
 
-"What do you mean by proper shopping?"
+Her attention snapped to me, her face a question.
 
-"Trying things on." I grunted, rocking to one side again. "There's really no other way to know what suits you."
+"What if that was Brittany looking at you?"
 
-"Why can't I just carry on wearing my normal stuff?"
+"I don't get what you're saying."
 
-"Because you're very soon going to be in situations where how you look counts." She pursed her lips. "Look smart, be smart."
+"You're not going to tell me," I said, "that him looking at you isn't making you uncomfortable."
 
-As I was finished brushing my teeth—mostly to rid myself of that 'snacking-on-thumbtacks' taste—Celeste handed me a new lipstick in a colour expecting a bit of bravery. I frowned at it for a moment.
+Charlotte's face went red again. She looked down.
 
-"We're going for *coffee*."
+"A little, I guess," she murmured.
 
-"Yes. Yes, we are." Her meaning was clear.
+"Right. A little. Why?"
 
-I applied it the best I knew how, then glanced at Celeste. She was biting her lip. I sighed.
+Her shoulders rose the tiniest bit.
 
-"So, this is the fun bit," she said. "You look— okay. We'll do refinements later."
+"Just not used to it, like you are."
 
-"How long will we be out?"
+I sipped my latte.
 
-"Why?"
+The tradies found a seat, and the older of the two held his phone up for the younger one, who was peering at the screen. The pride of the man holding the phone was visible from where we sat.
 
-"Just wondering if I should bring my next dose."
+"How long has she been doing ballet?" I heard the younger man say.
 
-Celeste gave me a pleased smile.
+The man turned the phone back to himself and beamed at screen.
 
-"Now you're getting it, Charlotte." She pulled a blister-pack from the box, and put it into my handbag. "Large glass of water before we leave."
+"Four years, mate."
 
-I was glad I'd decided on the warmer jacket as a brisk wind had come up. As Celeste pulled the car door shut, she said:
+Charlotte shoulders visibly eased. She took a first sip of her flat white, twisting a tendril in her fingers.
 
-"Here's the thing, Charlotte. When you keep us in the dark about how you feel, it sends a message."
+"What am I doing wrong, Celeste?" She glanced over the tradies: their attention was completely on the topic of ballet, not our table.
 
-The turn indicator clicked, and we rocked slightly as the car moved forward.
+I thought of the boy in the ladies' who had preemptively apologised. A version of that person was sitting opposite me: same reflexes, different targets. Wardrobe had provided a safety buffer, not a solution. The instinct was still there, despite all the rungs of Mara's ladder.
 
-"Message?"
+"Wrong. This isn't about right or wrong," I said for the second time that day. "It's about getting used to being seen by people who like what they see. It's the fourth rung."
 
-"Yes, it says you don't trust us. Like, your mum, for example."
+Charlotte straightened.
 
-The road in front of us faded—I could only see Celeste's eyes last night.
+"Even people who I would rather they didn't?"
 
-"And you, I guess." 
+"Especially them."
 
-"And me." 
+I had another sip. My latte was going cold.
 
+"People look. That fact does not put you in danger." 
 
+Charlotte tipped her head. We both looked over at the table wearing high-vis. The older man gave me a quick grin and as quickly went back to his coffee and topic.
 
+Charlotte took a breath and squeezed her eyes shut for a moment.
 
+"Sarah said I should be careful who I smile at."
 
+"She was right. For that point in time, it was true, because you were still feeling your way. However now it's time to move forward."
 
+I threw another quick look at the table wearing high-vis. Both men were looking in our direction, but not at us. A large semi had just pulled up on the other side of the road. They quickly rose, gulped their coffee and headed for the door.
 
+I watched Charlotte's eyes follow them as they headed over to the truck.
 
+"He smiled at me again."
 
+"Yep."
 
+She looked at me then.
 
+"How did that make you feel?" I continued gently.
 
+Her brow creased for a moment.
 
+"Actually, I didn't really feel anything. Nothing bad or good. Perhaps just— a little confused."
 
+My mouth curved up.
 
+"At least you're not let letting confusion make decisions for you." Charlotte's smile was a bit wan as she finished her coffee. "Ready to do a bit of shopping?"
 
+She shrugged.
 
+"Sure, why not?"
 
-
-
-She cleared her throat. "And Mara. And Sarah."
-
-We pulled up closed to the cafe. Celeste shut off the engine.
-
-The question was burning a hole through my restraint.
-
-"Why is that, though?" I asked quietly.
-
-We sat in silence for a while. When I glanced over, Celeste was staring in front of her. She didn't look at me.
-
-"This is a dangerous world for women," she said flatly and opened her door.
-
-The wind was even colder near the water. We turned up our coat collars and walked quickly to the front door of the cafe. We were barely inside when I noticed a young man sitting with an older woman in front of the window. The woman's head was turned to the window while the man's eyes were on us. Just, not on our faces. I felt instantly uncomfortable.
-
-My eyes flitted towards Celeste. I tried to mimmick her movements, her poise—turned my back to the couple at the window. And felt Celeste's eyes on me.
-
-The boombox next to the water cooler was playing Queen as we grabbed our coffees. I was looking around for a place to sit when I felt Celeste's hand on mine.
-
-When we sat down, I threw a quick look at the couple at the window. The man's back faced us.
-
-*You're a genius, Celeste.*
-
-"Doors are important, too," she said softly.
-
-"Doors?"
-
-She nodded.
-
-"You're definitely more aware than you were when you left for Maleny," she said. "I'm happy you met Brittany—that was a good thing." She had a sip of her coffee. "But with Ballarat, things are going to move up a notch."
-
-My lipstick had left a rose-coloured slur on the lip of the brown ceramic cup.
-
-"Am I ready for this?"
-
-"No."
-
-Queen took five, and Vanilla Ice took its place.
-
-"Will I be ready?"
-
-Celeste's smile was thin.
-
-"I hope so. Mind you, you found yourself in the deep end up in Queensland, and you did fine." My coffee was finally cool enough to drink. I took another sip. Celeste was looking past me towards the window, her face, granite. "We're leaving."
-
-I'd bare drunk half my cup.
-
-She rose quickly out of her chair.
-
-"Don't forget your bag."
-
-As we stepped towards the front door, I noticed that the woman was no longer there and that the man had moved to her seat. My skin crawled at the look he gave us. 
-
-The biting cold of the wind outside the cafe had a strangely welcome feeling of safety, of normal. 
-
-Celeste walked quickly.
-
-I didn't lag behind.
-
-I didn't really breathe properly until the car was moving.
-
-"You right?"
-
-I nodded quickly. I wasn't, not really. The set of her mouth said she didn't believe me.
-
-"Let's recap." She held up a thumb. "You picked up bad vibes by the window. That was excellent." She slowly extended her index finger. "But then— what?"
-
-My mouth went sideways as I lifted my shoulders.
-
-
-
-
-
-
+"That's my girl!"
 
 
 
