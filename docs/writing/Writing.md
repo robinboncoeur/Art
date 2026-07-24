@@ -20,9 +20,9 @@ I woke with a start. Someone had kicked me.
 
 I turned to look at the head hidden by tousled dark hair beside me. And heard a high-pitched strangled voice. 
 
-And then, another kick.
+And felt another kick.
 
-I reached out my hand and gently let it settle on the highest bump. I felt a twitch, the bedding rose a bit as the tousled hair took in a long breath. And then, a sleepy face appeared. 
+Reaching out my hand I let it settle on the highest bump. I felt a twitch, the bedding rose a bit as the tousled hair took in a long breath. And then, a sleepy face appeared. 
 
 "Was I snoring?"
 
@@ -45,8 +45,6 @@ I shrugged.
 "That's not an answer." She sat up and faced me. "Any better than last night?"
 
 Memories of ED doctors asking permission to check my groin, the smell of my urine in a little plastic cup—that *awful* smell—and then, the needle, Celeste's serious eyes and at the end, the relief that it wasn't a surgical infection suddenly all came back. Annoying.
-
-I nodded.
 
 "I'm fine."
 
@@ -144,7 +142,7 @@ My right knee had decided to do a little dance on its own.
 
 "You have a right to privacy. But in medical matters, you don't have a right to secrecy. They're not the same thing."
 
-I glanced at Celeste. She'd settled into a chair, pressing her lips with the side of her hand as she peered at me.
+I glanced at Celeste. She'd settled into a chair, pressing her lips with her knuckles as she peered at me.
 
 "Yes, Mum."
 
@@ -182,9 +180,13 @@ I continued to stupidly look at the black screen, because I couldn't bear to loo
 
 "Are you up for a coffee, petal?"
 
-The thought of coffee sounded amazing.
+I looked up.
 
-"Would that be okay?" I said carefully.
+Celeste was smiling at me, gently. Not with amusement, but tenderness.
+
+I pulled in a breath.
+
+"Would that be okay?"
 
 "Only if you feel up to it," Celeste said. "Let's get dressed, shall we? You can wear that new jumper I got you."
 
@@ -192,15 +194,15 @@ It was the prettiest garment in my wardrobe. Celeste's lips curled up as I slipp
 
 "How did you know it would fit?"
 
-"You've been a size ten since I've known you," she said. Her eyebrows rose. "However, it's time you learn proper shopping, not this 'find-it, kill-it, drag-it-home' thing you do."
+"Good guess?" she said. She eyed me. "Maybe of these days we can do a proper shop together, not not your usual 'find-it, kill-it, drag-it-home'."
 
-"What do you mean by proper shopping?"
+"What do you mean by proper shop?"
 
-"Trying things on." I grunted, rocking to one side again. "There's really no other way to know what suits you."
+"Like, where you try things on." I winced as I shifted in my chair. "There's really no other way to know what suits you."
 
 "Why can't I just carry on wearing my normal stuff?"
 
-"Because you're very soon going to be in situations where how you look counts." She pursed her lips. "Look smart, be smart."
+"Because you're very soon going to be in situations where how you look counts."
 
 As I was finished brushing my teeth—mostly to rid myself of that 'snacking-on-thumbtacks' taste—Celeste handed me a new lipstick in a colour expecting a bit of bravery. I frowned at it for a moment.
 
