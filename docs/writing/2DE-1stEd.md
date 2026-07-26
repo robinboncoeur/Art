@@ -7181,7 +7181,7 @@ The flight attendant's raised brows softened into a question.
 
 "Surgery," Brittany said.
 
-Understanding came at once. The flight attendant lifted one hand.
+The flight attendant's lips formed an 'o' as she lifted one hand.
 
 “That’s fine. Just like that,” she said gently. She leaned over and tested the belt tension with her fingers. “That’s tight enough.”
 
@@ -7189,7 +7189,7 @@ I gave her what I hoped was a grateful smile, shifting slowly onto the other che
 
 The aircraft slowed further and the soft rumble grew a bit louder.
 
-Mum.
+*Mum.*
 
 My breath came out in a sigh—I remembered feeling her arms around me at the café, the sort of warm, tight hug that I'd never felt before from her. I thought of her eyes. My shoulders rose against the cold grasp of doubt.
 
@@ -7199,13 +7199,13 @@ The aircraft shuddered as gears ground underfoot. My stomach tensed—the famili
 
 I didn't want to look at Brittany and have her see me. 
 
-I didn't have to see her to hear her.
+I didn't have to see her to hear her words.
 
-Try not to think about it.
+*Try not to think about it.*
 
 I was trying not to.
 
-In the distance, the land was a lot closer. I could make out buildings and roads and even trucks and cars and then, suddenly, the airport taxiway was racing by. 
+Through the window, the land looked a lot closer. I could make out buildings and roads and even trucks and cars and then, suddenly, the airport taxiway was racing by. 
 
 I closed my eyes and gritted my teeth.
 
@@ -7227,13 +7227,13 @@ She give her lips a tiny squeeze.
 
 Finally, with a gentle rocking motion the aeroplane came to a stop. Seatbelts clicked noisily as people jumped to their feet and luggage compartments popped open. I felt excited and yet, a bit numb at the same time.
 
-Was it worth it?
+*Was it worth it*?
 
-An older woman stood in the aisle next to me, her hand firmly grasping her carry-on's handle. She was staring intently at the door, as if willing it to open. Someone bumped her from behind.
+An older woman stood in the aisle next to me, her hand firmly grasping the handle of her carry-on. She was staring intently at the door, as if willing it to open. Someone bumped her from behind.
 
 "Oh, sorry ma'am."
 
-The voice behind her was loud and male and clearly not Australian. She directed a brief smile—one that lacked sincerity—at him, then turned back to the front, her shoulders easing noticeably as the door of the aeroplane finally swung open. I could see her lips tighten as the voice's owner crowded in behind her. His aftershave—the sort that would survive anything from a workout at the gym to a foot race—seemed to invade the aircraft, lingering long after the man, who must have bathed in it, had left.
+The voice behind her was loud and male and clearly not Australian. She directed a brief smile—one that lacked sincerity—at him, then turned back to the front, her shoulders easing noticeably as the door of the aeroplane finally swung open. I could see her lips tighten as the voice's owner crowded in behind her. His aftershave—the sort that would have survived a foot race—seemed to invade the aircraft, lingering long after the man had left.
 
 I glanced back. The aisle was empty, so I carefully rose out of my seat. 
 
@@ -7255,13 +7255,9 @@ I nodded.
 
 She eased my hands to my side, then pulled my carry-on into the aisle and flipped the handle into my hand.
 
-"Ready, petal? We've got a bit of a walk ahead of us."
+"Ready? We've got a bit of a walk ahead of us."
 
 We moved to the exit. Even in the growing drug-haze I remembered to smile at the flight attendant.
-
-"Thank you so much!"
-
-"Get well soon," she said.
 
 Customs seemed to take forever. As it does.
 

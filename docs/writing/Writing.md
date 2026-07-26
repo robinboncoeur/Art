@@ -8,8 +8,9 @@
     
 
 
-## 
+## ...How To Be
 
+[ Celeste ]
 
 I glanced at Charlotte. She had gone quiet and was staring at the road, her mouth set. The words 'yes, and me' were still hanging in the air. A small branch, leaves still attached, blew across the road. In the distance, the tops of the waves wore foamy white caps.
 
