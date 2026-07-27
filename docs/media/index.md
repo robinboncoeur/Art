@@ -403,7 +403,7 @@ To add musical pieces to this page, do the following:
 [Sth1]: ../assets/images/base/01hCeleste.jpg
 [Sti1]: ../assets/images/base/01iCeleste.jpg
 [Stj1]: ../assets/images/base/01jWriter.jpg
-[Stk1]: ../assets/images/base/01kRULost.jpg
+[Stk1]: ../assets/images/base/01nCeleste.jpg
 [St09]: ../assets/images/base/09aParis.jpg
 [St10]: ../assets/images/base/10montvl.jpg
 [St12]: ../assets/images/base/12accost.jpg
