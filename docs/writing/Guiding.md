@@ -794,21 +794,13 @@ Time, experience, companionship and permission to keep becoming.
 
 The scene should probably not end with Celeste deciding what she will now *do* for Charlotte.
 
-That would repeat the mistake immediately.
-
-A more fitting ending would involve Celeste resisting action.
+That would repeat the mistake immediately. A more fitting ending would involve Celeste resisting action.
 
 Lauren leaves.
 
 Celeste remains with the thought.
 
-Perhaps Charlotte is still at Wardrobe, working on Ballarat.
-
-Celeste does not phone her.
-
-She does not compose a lesson.
-
-She does not plan an exercise.
+Perhaps Charlotte is still at Wardrobe, working on Ballarat. Celeste does not phone her. She does not compose a lesson. She does not plan an exercise.
 
 She simply allows the question to remain open:
 
@@ -818,13 +810,7 @@ For once, Celeste does not answer it.
 
 She listens.
 
-That restraint may be the first genuinely appropriate response.
-
-And that is enough for the final scene of *The Deep End*.
-
-The book ends not with Charlotte learning how to be, but with Celeste beginning to understand why the question cannot be answered for her.
-
-The next book can explore how Charlotte gradually builds a history of being herself.
+That restraint may be the first genuinely appropriate response. And that is enough for the final scene of *The Deep End*. The book ends not with Charlotte learning how to be, but with Celeste beginning to understand why the question cannot be answered for her. The next book can explore how Charlotte gradually builds a history of being herself.
 
  💛
 
