@@ -8392,9 +8392,9 @@ My eyes were fixed on my cup. We sat in silence for a moment.
 
 "I won't say it was easy," I said quietly. "Nothing prepares you for that sort of thing. Not really."
 
-She nodded, lips squeezed tightly.
+She nodded.
 
-"It's just —  no one else in the world could possibly help me understand what to do," she said.
+"It's just— no one else in the world could possibly help me understand what to do," she said.
 
 I waited.
 
@@ -8404,15 +8404,15 @@ Celeste studied her cup for a moment.
 
 Her eyes went even darker. "I didn't make much of it at the time." 
 
-"I don't know how to be," I repeated with a frown.
+"I don't know how to be," I repeated.
 
-Celeste nodded her head slowly. She put her elbows on the table and her chin in her fists.
+Celeste put her elbows on the table and her chin in her fists.
 
 "I just told her to pretend she was explaining a seam, Lauren." She gave a quick puff. "She was wearing her new jumper and a different lippie. I figured she was nervous about sending signals she wasn't ready to transmit."
 
 "Perhaps."
 
-Celeste sat back. She rubbed the back of one hand with her fingers.
+Celeste sat back and rubbed the back of one hand with her fingers.
 
 "Yeah, I don't think so either. It's not the way she thinks."
 
@@ -8420,11 +8420,11 @@ Celeste sat back. She rubbed the back of one hand with her fingers.
 
 "In terms of how she comes across," she said evenly. "When I first met her, she was all about being unobtrusive, not getting in anyone's way. Her idea of safety was making sure no one noticed her."
 
-I closed my eyes and put my forehead in my hands.
-
-My cup swam before my eyes.
+My cup swam before my eyes. I closed them and put my forehead in my hands.
 
 A tear dropped from my cheek unbidden.
+
+
 
 I heard the scrape of a chair and then, felt arms around me. 
 
@@ -8436,7 +8436,7 @@ I felt her arms press into me and melted into her.
 
 A long moment passed.
 
-"Look, I didn't see her either, not at first," she said finally as she regained her chair. "And she was in my maths class. Then, one day, we did Group Task." 
+"Look, I didn't see her either, not at first," she said finally as she regained her chair, "even though she was in my maths class. Then, one day, we did Group Task." 
 
 She stopped.
 
@@ -8446,7 +8446,7 @@ She slowly sank back into her chair, her jaw slack.
 
 "Task?"
 
-She nodded slowly, a frown on her face.
+She nodded slowly.
 
 "For Charlotte, being was always connected to some task. Right from day one, she'd throw herself into whatever needed doing as though she couldn't breathe without it." She stared at me. "Same at Wardrobe. She poured her heart and soul into every task." Celeste paused. "I don't think it ever occurred to her that no one else in the room was useful one hundred per cent of the time." 
 
@@ -8464,14 +8464,18 @@ I tipped my head.
 
 "And if you put that together with—"
 
-"Exactly," she said quickly. "'I don't know how to be.' Which has nothing to do with jumpers or lipstick."
+"Exactly," she said quickly. "'I don't know how to be.' Nothing at all to do with jumpers or lipstick."
 
 I turned my cup in my hands, feeling comfort from its warmth. 
 
-I thought of a small child — my darling, the one I adored — sorting, arranging, tidying.  
+I thought of a small child — my darling, the one I adored —  sorting, arranging, tidying.  
+
 Following me around, watching me.  
+
 So keen to do things I did.  
+
 So eager to learn how to sew.  
+
 Then the first day of school — the avalanche of tears, the heartbreaking pleading, and finally, that look of betrayal in that little boy's eyes.
 
 At the time, it was a rite of passage, just something every child went through.
@@ -8484,9 +8488,9 @@ I twitched.
 
 "Sorry. Memories."
 
-"Not very pleasant?"
+"Oh?"
 
-"Not pleasant," I admitted. "And now, it all seems much darker."
+"Not pleasant," I admitted. "And now, they seem darker."
 
 Celeste's shoulders drew in. I extended my hand towards her.
 
@@ -8494,7 +8498,7 @@ Celeste's shoulders drew in. I extended my hand towards her.
 
 Her face softened.
 
-"I think that I've been doing things wrong." She shook her head. "I kept talking to her about rungs."
+"I think that I've been doing things wrong." She shook her head. "I kept giving her tasks."
 
 "Tasks."
 
@@ -8502,7 +8506,7 @@ Her face softened.
 
 The setting sun gave the apartment a warm hue. Outside the window, the soft whirr of an electric car motor ended with the crack of a twig under its tyres.
 
-I'd never wondered how that little boy had reconciled being left behind in a strange place, until now. The strange place was safe, I'd told myself back then.
+I'd never wondered how that little boy had finally reconciled being left in a strange place, until now. The strange place was safe, I'd told myself back then.
 
 "I wonder if she feels safe."
 
@@ -8512,7 +8516,7 @@ Celeste's eyes snapped to mine.
 
 "I was just remembering Charlotte's first day at school." I rubbed my thumb around the rim of my cup. "She'd never had to leave me before." I looked up. "Tell me... did your parents have people over much when you were little?"
 
-Celeste grinned.
+Celeste gave a feeting grin.
 
 "All the time. I used to boss their kids around. I remember my mum making me apologise to one of the boys because I made him cry."
 
@@ -8540,7 +8544,7 @@ She rose and thoughtfully picked up our cups.
 
 I looked up at her.
 
-"Charlotte must think you've  —   arrived," I said.
+"Charlotte must think you've— arrived," I said.
 
 "Yeah."
 
@@ -8554,7 +8558,7 @@ She came to the door.
 
 Celeste came up to me, reaching out, and took my hands.
 
-"I have *lived* something I can't give her," she said gently. "I enjoyed being a school girl, while she perfected the art of disappearing. Although she's found purpose and somewhere she belongs, she still needs to find *herself*. She needs lots of ordinary days to discover who she already is."
+"I have lived something I can't give her," she said gently. "I enjoyed being a school girl, while she perfected the art of disappearing. Although she's found purpose and somewhere she belongs, she still needs to find herself. She needs lots of ordinary days to discover who she already is."
 
 She smiled sadly.
 
@@ -8563,6 +8567,7 @@ I took my keys out of my purse.
 "In Ballarat?"
 
 "Perhaps."
+
 
 <hr class="section-break strong" />
 
