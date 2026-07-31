@@ -5409,9 +5409,9 @@ Apart from the pounding in my ears.
 
 ## Scene 23
 
-<!--
+
 [![Img][Sy23]{ .artR width="460" }][Sy23]
-/-->
+
 
 ### 💧 The Truth Is in How It Deforms 🩸
  
@@ -8601,16 +8601,16 @@ I took my keys out of my purse.
 [Sy23]: ../assets/images/story/DScene23a.jpg
 [Sy24]: ../assets/images/story/DScene24a.jpg
 [Sy25]: ../assets/images/story/DScene25a.jpg
-[Sy26]: ../assets/images/story/DScene06a.jpg
-[Sy27]: ../assets/images/story/DScene07a.jpg
-[Sy28]: ../assets/images/story/DScene08a.jpg
-[Sy29]: ../assets/images/story/DScene09a.jpg
-[Sy30]: ../assets/images/story/DScene10a.jpg
-[Sy31]: ../assets/images/story/DScene11a.jpg
-[Sy32]: ../assets/images/story/DScene12a.jpg
-[Sy33]: ../assets/images/story/DScene13a.jpg
-[Sy34]: ../assets/images/story/DScene14a.jpg
-[Sy35]: ../assets/images/story/DScene15a.jpg
+[Sy26]: ../assets/images/story/DScene26a.jpg
+[Sy27]: ../assets/images/story/DScene27a.jpg
+[Sy28]: ../assets/images/story/DScene28a.jpg
+[Sy29]: ../assets/images/story/DScene29a.jpg
+[Sy30]: ../assets/images/story/DScene30a.jpg
+[Sy31]: ../assets/images/story/DScene31a.jpg
+[Sy32]: ../assets/images/story/DScene32a.jpg
+[Sy33]: ../assets/images/story/DScene33a.jpg
+[Sy34]: ../assets/images/story/DScene34a.jpg
+[Sy35]: ../assets/images/story/DScene35a.jpg
 
 
 <!--            Image Links             /-->
