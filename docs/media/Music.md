@@ -44,7 +44,7 @@ And no, MuseScore Studio still isn't a DAW, but—like AI—it is rapidly approa
   <div>
     <p>Sketch 15—Waterfall</p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/8Lr4x6TFagHg2KN/download" type="audio/mpeg">
+    	<source src="https://media.seabrae.org/audio/sk/Sketch15.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
