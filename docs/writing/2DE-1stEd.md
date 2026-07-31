@@ -195,9 +195,9 @@ Just then, Sarah's phone pinged. She glanced down at it and grinned.
 
 ## Scene 2
 
-<!--
+
 [![Img][Sy02]{ .artR width="460" }][Sy02]
-/-->
+
 
 ### 💞 Weak Rails 🫧
  
