@@ -17,7 +17,7 @@
 [![img...][Sy01]{ .artR width="460" }][Sy01]
 
 
-🌷 🌸 🌺 Visible 🌷 🌸 🌺
+### 🌸🌺 Visible 🌷🌸
 
 <!--
 Audio version: here.
@@ -200,10 +200,10 @@ Just then, Sarah's phone pinged. She glanced down at it and grinned.
 [![Img][Sy00]{ .artR width="460" }][Sy00]
 /-->
 
-💞 Weak Rails 🫧
+### 💞 Weak Rails 🫧
  
 
-[ Celeste ]
+[ *Celeste* ]
 
 The front-door lock was too loud in the tiny hallway. When I pulled the door shut, the quiet inside the flat didn’t settle—it judged. I sighed. The tension did not loosen in my ribs.
 
@@ -384,9 +384,9 @@ I didn't have it.
 [![Img][Sy03]{ .artR width="460" }][Sy03]
 
 
-🌸 Brittany 🌸
+### 🌸 Brittany 🌸
 
-[ Charli ]
+[ *Charli* ]
 
 The sun drove hot needles into my eyes. I squinted and rolled away, then sat bolt upright. 
 
@@ -675,7 +675,7 @@ Her smile softened, then she tucked it away and reached for the sleeve of the co
 [![Img][Sy00]{ .artR width="460" }][Sy00]
 /-->
 
-🛋 Your Choice 🛋
+### 🛋 Your Choice 🛋
  
 
 [ *Celeste* ]
@@ -799,7 +799,7 @@ My eyes stung, suddenly.
 [![Img][Sy00]{ .artR width="460" }][Sy00]
 /-->
 
-🍹 Pub Call 🍹
+### 🍹 Pub Call 🍹
  
 
 [ *Charli* ]
@@ -930,7 +930,7 @@ Her quick smile made my shoulders ease.
 
 “Well, that's a good thing. You can be our designated adorable.”
 
----
+<hr class="section-break soft" />
 
 The music spilling out of the pub seemed loud even before I went in. Screens showing the footy, gridiron, and the tennis seemed bolted to every spare bit of wall. I looked around, lips tight. Through the glass at the back, I caught sight Harri’s blonde updo. 
 
@@ -1013,8 +1013,7 @@ She'd seen.
 [![Img][Sy00]{ .artR width="460" }][Sy00]
 /-->
 
-🥐 Over a Croissant 🥐
- 
+### 🥐 Over a Croissant 🥐
 
 [ *Charli* ]
 
@@ -1301,7 +1300,7 @@ Brittany held my gaze. “Okay,” she said softly.
 [![Img][Sy00]{ .artR width="460" }][Sy00]
 /-->
 
-👗 Rules for Everything 👗
+### 👗 Rules for Everything 👗
  
 [ *Charli* ]
 
@@ -1740,7 +1739,7 @@ Her smile was tinged with serene pity.
 [![Img][Sy00]{ .artR width="460" }][Sy00]
 /-->
 
-🏊‍♀️Diving In 🏊‍♀️
+### 🏊‍♀️Diving In 🏊‍♀️
 
 [ *Charlotte* ]
 
@@ -1997,7 +1996,7 @@ I didn't have to ask what she meant.
 [![Img][Sy00]{ .artR width="460" }][Sy00]
 /-->
 
-👩‍🍼 Pitter-Patter 👩‍🍼
+### 👩‍🍼 Pitter-Patter 👩‍🍼
 
 [ *Celeste* ]
 
@@ -2226,7 +2225,7 @@ That landed well.
 [![Img][Sy10]{ .artR width="460" }][Sy10]
 /-->
 
-🪡 Made Workable 🪡
+### 🪡 Made Workable 🪡
 
 [ *Charlotte* ]
 
@@ -2429,7 +2428,7 @@ They had simply begun behaving as though I might be.
 [![Img][Sy10]{ .artR width="460" }][Sy10]
 /-->
 
-꧁ Lacings ꧁
+### ꧁ Lacings ꧁
 
 [ *Charlotte* ]
 
@@ -2646,8 +2645,8 @@ I turned to Fiona.
 [![Img][Sy10]{ .artR width="460" }][Sy10]
 /-->
 
-🌷 🌸 🌺 Polyester 🌷 🌸 🌺
- 
+### 🌸 🌺 Polyester 🌷 🌸 
+
 [ *Celeste* ]
 
 I opened the armoire. Autumn dictated trousers, but which blouse? I pulled a silk cream-coloured Rhea off its hangar, then put it back: no cardigan to suit. 
@@ -2877,7 +2876,7 @@ It was polyester.
 [![Img][Sy10]{ .artR width="460" }][Sy10]
 /-->
 
-📒 Sometimes You Have To 🛋
+### 📒 Sometimes You Have To 🛋
 
 [ *Charlotte* ]
 
@@ -3062,7 +3061,7 @@ A woman—one who could say no.
 [![Img][Sy10]{ .artR width="460" }][Sy10]
 /-->
 
-🌷 🌸 🌺 I Knew 🌷 🌸 🌺
+### 🌸 🌺 I Knew 🌷 🌸
 
 [ *Charlotte* ]
 
@@ -3321,7 +3320,7 @@ Even my eyeliner finally felt right.
 [![Img][Sy15]{ .artR width="460" }][Sy15]
 
 
-✈️  The Longest Morning  💞
+### ✈️  The Longest Morning  💞
 
 [ *Charlotte* ]
 
@@ -3537,7 +3536,7 @@ When the key in the lock to our little apartment finally turned and I entered ou
 [![Img][Sy10]{ .artR width="460" }][Sy10]
 /-->
 
-🃏 Testing Physics 👭
+### 🃏 Testing Physics 👭
 
 [ *Brittany* ]
 
@@ -4020,7 +4019,7 @@ Maybe it was where things told the truth.
 [![Img][Sy10]{ .artR width="460" }][Sy10]
 /-->
 
-🧑‍✈️ "Dad." 🤦‍♀️
+###  "Dad."
 
 Lauren had refused him.
 
@@ -4251,7 +4250,7 @@ She spoke.
 [![Img][Sy10]{ .artR width="460" }][Sy10]
 /-->
 
-🍂🍁 The Cost of Being Right 🌷🌹
+### 🍂🍁 The Cost of Being Right 🌷🌹
 
 [ *Charlotte* ]
 
@@ -4428,7 +4427,7 @@ Celeste was here.
 [![Img][Sy10]{ .artR width="460" }][Sy10]
 /-->
 
-🌷 🌸 🌺 Being Right 🌷 🌸 🌺
+### 🌺 Being Right 🌷
  
 [ *Celeste* ]
 
@@ -4645,7 +4644,7 @@ It wasn't wrong, either.
 [![Img][Sy20]{ .artR width="460" }][Sy20]
 /-->
 
-🧸 Before the Fabric Gave Way 🥺
+### 🧸 Before the Fabric Gave Way 🥺
  
 [ *Brittany* ]
 
@@ -4858,7 +4857,7 @@ The words still had a long way to travel.
 [![Img][Sy20]{ .artR width="460" }][Sy20]
 /-->
 
-🌷 The Fourth Rung 🌺
+### 🌷 The Fourth Rung 🌺
  
 [ *Sarah* ]
 
@@ -5203,7 +5202,7 @@ I felt her nod.
 [![Img][Sy20]{ .artR width="460" }][Sy20]
 /-->
 
-🥧 Want to Know Why 🍒
+### 🥧 Want to Know Why 🍒
 
 [ *Celeste* ]
 
@@ -7930,8 +7929,7 @@ It didn't have any answers, either.
 [![Img][Sy20]{ .artR width="460" }][Sy20]
 /-->
 
-🩸 It's Different Now 💧
-<hr class="section-break strong" />
+### 🩸 It's Different Now 💧
 
 I woke with a start. Someone had kicked me.
 
@@ -8151,6 +8149,11 @@ The road in front of us faded—I could only see Celeste's eyes last night.
 
 "And me." 
 
+<hr class="section-break strong" />
+
+
+
+
 
 
 
@@ -8160,7 +8163,194 @@ The road in front of us faded—I could only see Celeste's eyes last night.
 [![Img][Sy20]{ .artR width="460" }][Sy20]
 /-->
 
-## 🩸 Just Not The Noun 💧
+### 🪜 ...How To Be  ☕
+
+[ *Celeste* ]
+
+I glanced at Charlotte. She had gone quiet and was staring at the road, her mouth set. The words 'yes, and me' were still hanging in the air. 
+
+A small branch, leaves still attached, blew across the road. In the distance beyond the waterfront park, the tops of the ocean waves wore foamy white caps.
+
+We slowed as I turned on the indicator. 
+
+"I hope you get I'm not trying to guilt you, Charlotte."
+
+The car rolled to a stop next to an elderly couple walking their Pekingese. The streets were almost empty—the café did not seem that busy, either.
+
+I looked at Charlotte again.
+
+She'd slid down in her seat. 
+
+"It's not that."
+
+I turned off the engine.
+
+"What then?"
+
+Charlotte's gaze was fixed on the café, its awning flapping nervously in the brisk wind.
+
+"I— I'm not sure."
+
+Her lips pressed together again, the umpteenth time since getting in the car. It was not a serious press, or a determined press, but more like a sliding "what is this on my lips" press. Her shoulders had curled forward, her chin tucked in.
+
+"Charlotte, look at me."
+
+She gave me a fleeting, sidelong glance.
+
+"You okay?" I asked. Her quick nod was unconvincing.
+
+I opened the door—and heard her voice, soft yet urgent:
+
+"Celeste—"
+
+The wind pushed my door closed.
+
+I waited.
+
+Charlotte's eyes were wide. They kept flicking to the café, then down to her hands. The sound of waves crashing on the shoreline rocks blended with the wind whistling through the opening of a partly closed door.
+
+I tipped my head a bit as I peered at her.
+
+"Is it the lipst—"
+
+"No." 
+
+"No?"
+
+"Not really, Celeste," she said finally, then turned to me. "I guess I'm just not sure how to be."
+
+My spine stiffened at first. Then, I had a thought.
+
+"How did you feel when you did presentations at the Maleny Wardrobe, Charlotte?"
+
+"What do you mean?"
+
+"You know, when you were showing how to repair seams. How did you feel?"
+
+She shrugged.
+
+"Okay, I guess." She leaned back in the seat. "Thing is: it was about the seams, the costumes. Not about me."
+
+"Fine." I grinned at her. "So, pretend you're going to show the barista how to fix a seam."
+
+Charlotte nodded slowly, unconvinced.
+
+When we entered the café, the smell of freshly ground coffee and warming baguettes welcomed me like a warm fire in winter. Charlotte followed me in half a step behind, eyes flicking nervously about, as if she'd made herself my junior. I hated it and yet, understood it. 
+
+Our footfalls on the wooden floor were in step to the words "not much of a girlfriend, she's the only one I got" playing on the boombox. 
+
+I smiled at the barista.
+
+"Could we get a piccolo latte and an almond flat white, please?" I turned to Charlotte. "You want a large?"
+
+Her face snapped to mine.
+
+"Sorry?"
+
+"Large flat white?"
+
+"Uh, no. Sorry. Small, please."
+
+We settled in a sun-warmed spot by the large window.
+
+I sat and studied her.
+
+Charlotte squinted at me, her hair softened into a halo by the sunlight. Her lips went crooked in that endearing way of hers. I held her gaze until it softened and gave way beneath mine. 
+
+A blush rose at her throat.
+
+And I fell in love with her again.
+
+“What are your thoughts, lovely?”
+
+Her smile was a quick twitch of the cheeks.
+
+"People are looking at you," she said softly.
+
+I gave a quick puff.
+
+"Actually, at us."
+
+Her frown was as fleeting as her smile.
+
+"Us?"
+
+"Yes, us. You're here too, lovely. And people like what they see."
+
+Two men in high-vis attire and burnt necks strolled in, their boots scuffling along the oak flooring. The younger of the two cast a look in our direction, and the smile he gave wasn't for me. Charlotte reddened and looked quickly out the window.
+
+As they ordered, the younger of the two glanced at Charlotte once or twice. She continued to stare, wide-eyed, out the window.
+
+The workmen found a seat. The older one held his phone up for the young bloke, who peered at the screen with a huge grin. The phone owner's pride was written in caps on his face.
+
+"How long has she been doing ballet?" I heard the younger man say.
+
+The man turned the phone back to himself and beamed at the screen.
+
+"Four years, mate."
+
+I glanced at Charlotte—she was looking at me now and her shoulders had visibly eased. She took a first sip of her flat white, twisting a tendril in her fingers. Her eyes flicked to the workmen; their attention, however, was completely on the topic of ballet and daughters, not our table.
+
+"What have I got wrong, Celeste?" 
+
+I thought of the boy in the ladies' who had preemptively apologised. A version of that person was sitting opposite me: same reflexes, different arena. Wardrobe had provided a safety zone, not a solution. The instinct was still there, despite all the rungs of Mara's ladder.
+
+"Wrong. This isn't about right or wrong," I said for the second time that day. "It's about getting used to being noticed. It's the fourth rung."
+
+Charlotte straightened.
+
+"Even when it's people I would rather didn't?"
+
+I had another sip. My latte was going cold.
+
+"People look. Looking isn't the same as claiming. They don't need your permission to notice you." I finished my latte. "But for anything else, they do." 
+
+We looked over at the men in high-vis. The older man gave me a quick grin and as quickly went back to his coffee and conversation.
+
+Charlotte took a breath and squeezed her eyes shut for a moment.
+
+"You're just so in control, Celeste. How do you do that?" I almost laughed. Before I could reply, she added, "Sarah said I should be careful who I smile at."
+
+"She was right," I said.
+
+I threw another quick look at the men in high-vis. Both were looking in our direction, but not at us. A large white Powercor bucket truck had just pulled up on the other side of the road. 
+
+I heard one of them say, "They're early," as they rose, gulped their coffee and headed for the door.
+
+I watched Charlotte's eyes follow them as they headed over to the truck.
+
+"He smiled at me again."
+
+"Yep."
+
+She looked back at me.
+
+"How did that make you feel?" I continued gently.
+
+Her brow creased for a moment.
+
+"Actually, I didn't really feel anything. Nothing bad or good. Perhaps just a little confused."
+
+My mouth curved up.
+
+"So, don't let confusion make decisions for you." 
+
+Charlotte's tentative smile seemed to ask for an explanation. I considered her for a moment.
+
+"You know what might help with the confusion?" I asked brightly. 
+
+"What's that?"
+
+"A little shopping!"
+
+Her smile missed a beat.
+
+There was a long silence.
+
+"Sure," she said finally. "Why not?"
+
+"That's my girl!"
+
 <hr class="section-break strong" />
 
 
@@ -8174,32 +8364,215 @@ The road in front of us faded—I could only see Celeste's eyes last night.
 [![Img][Sy20]{ .artR width="460" }][Sy20]
 /-->
 
-## 🩸 Just Not The Noun 💧
+### 💞 No New Tasks 💞
+
+[ *Lauren* ]
+
+When I stepped into Celeste and Charlotte's apartment that afternoon, I noticed there was nowhere to put my keys. There was a spot for Charlotte's shoes, and Celeste's coat, but, unlike at Sarah's, no dish or hooks for keys.
+
+Perhaps they just kept them in their purses. 
+
+Even though Charlotte didn't drive, surely she held a set of keys when she had to walk home from the bus.
+
+Surely.
+
+I heard the click of a kettle in the kitchen, and then, Celeste appeared. She ran up to me, and threw her arms around me. I felt something inside me melt, and my eyes go a bit wet.
+
+"Thank you for coming, Lauren," she whispered.
+
+I put my thoughts on hold: the kettle had announced it was ready to make tea. My throat was making it difficult to speak anyway.
+
+"I'm not sure where to even start," Celeste said as she set a steaming cup and urn of milk in front of me before settling into her chair. "You know, it seemed involving you in this is unfair to you."
+
+I startled.
+
+"How so?"
+
+Celeste's eyes were dark.
+
+"Well, I can't even begin to imagine what it would be like as a mother to watch your child have this experience. I struggled a lot watching Roger, that day he showed up at Wardrobe, realise he'd lost his child. And that would be nothing compared to what you've dealt with."
+
+My eyes were fixed on my cup. We sat in silence for a moment.
+
+"I won't say it was easy," I said quietly. "Nothing prepares you for that sort of thing. Not really."
+
+She nodded, lips squeezed tightly.
+
+"It's just— no one else in the world could possibly help me understand what to do," she said.
+
+I waited.
+
+Celeste studied her cup for a moment.
+
+"The other day, Charlotte said something to me I didn't really sort of get at first. She said: 'I don't know how to be.'" 
+
+Her eyes went even darker. "I didn't make much of it at the time." 
+
+"I don't know how to be," I repeated with a frown.
+
+Celeste nodded her head slowly. She put her elbows on the table and her chin in her fists.
+
+"I just told her to pretend she was explaining a seam, Lauren." She gave a quick puff. "She was wearing her new jumper and a different lippie. I figured she was nervous about sending signals she wasn't ready to transmit."
+
+"Perhaps."
+
+Celeste sat back. She rubbed the back of one hand with her fingers.
+
+"Yeah, I don't think so either. It's not the way she thinks."
+
+"What, in terms of signals?" I said.
+
+"In terms of how she comes across," she said evenly. "When I first met her, she was all about being unobtrusive, not getting in anyone's way. Her idea of safety was making sure no one noticed her."
+
+I closed my eyes and put my forehead in my hands.
+
+My cup swam before my eyes.
+
+A tear dropped from my cheek unbidden.
+
+I heard the scrape of a chair and then, felt arms around me. 
+
+"I'm sorry," I heard her whisper in my ear. "I didn't mean to—"
+
+I shook my head vehemently.
+
+I felt her arms press into me and melted into her.
+
+A long moment passed.
+
+"Look, I didn't see her either, not at first," she said finally as she regained her chair. "And she was in my maths class. Then, one day, we did Group Task." 
+
+She stopped.
+
+"Task."
+
+She slowly sank back into her chair, her jaw slack.
+
+"Task?"
+
+She nodded slowly, a frown on her face.
+
+"For Charlotte, being was always connected to some task. Right from day one, she'd throw herself into whatever needed doing as though she couldn't breathe without it." She stared at me. "Same at Wardrobe. She poured her heart and soul into every task." Celeste paused. "I don't think it ever occurred to her that no one else in the room was useful one hundred per cent of the time." 
+
+She looked down at her hands. 
+
+"Which meant... she didn't have to be either."
+
+A slight breeze blew through the open window, carrying delicate notes of jasmine mixed with diesel fumes from a bus pulling away from the kerb.
+
+Celeste raised her head.
+
+"Charlotte said to me, something like: 'you always seem so in control. How do you do that?'" 
+
+I tipped my head.
+
+"And if you put that together with—"
+
+"Exactly," she said quickly. "'I don't know how to be.' Which has nothing to do with jumpers or lipstick."
+
+I turned my cup in my hands, feeling comfort from its warmth. 
+
+I thought of a small child — my darling, the one I adored —  sorting, arranging, tidying.  
+Following me around, watching me.  
+So keen to do things I did.  
+So eager to learn how to sew.  
+Then the first day of school — the avalanche of tears, the heartbreaking pleading, and finally, that look of betrayal in that little boy's eyes.
+
+At the time, it was a rite of passage, just something every child went through.
+
+Or so I thought.
+
+"Lauren?"
+
+I twitched.
+
+"Sorry. Memories."
+
+"Not very pleasant?"
+
+"Not pleasant," I admitted. "And now, it all seems much darker."
+
+Celeste's shoulders drew in. I extended my hand towards her.
+
+"Please, Celeste. I want to know."
+
+Her face softened.
+
+"I think that I've been doing things wrong." She shook her head. "I kept talking to her about rungs."
+
+"Tasks."
+
+"Exactly." She sighed. "She doesn't need another task."
+
+The setting sun gave the apartment a warm hue. Outside the window, the soft whirr of an electric car motor ended with the crack of a twig under its tyres.
+
+I'd never wondered how that little boy had reconciled being left behind in a strange place, until now. The strange place was safe, I'd told myself back then.
+
+"I wonder if she feels safe."
+
+Celeste's eyes snapped to mine.
+
+"What do you mean?"
+
+"I was just remembering Charlotte's first day at school." I rubbed my thumb around the rim of my cup. "She'd never had to leave me before." I looked up. "Tell me... did your parents have people over much when you were little?"
+
+Celeste grinned.
+
+"All the time. I used to boss their kids around. I remember my mum making me apologise to one of the boys because I made him cry."
+
+I bit my lip to keep from smiling.
+
+"Sounds like your mum was getting you ready for the big, wide world."
+
+"I guess. Mostly Mum, actually. Dad could sound wonderfully certain. Reality didn't always agree."
+
+Her look sharpened.
+
+"I don't think it's as simple as—" she began.
+
+"I don't either," I said hurriedly. "But it could be part of it. You see," I put my cup down and leaned forward, "your path was different to Charlotte's, and not just because you were born a girl."
+
+Celeste held me in her gaze.
+
+"So where do we go from here, Lauren?"
+
+I sighed.
+
+"I wish I knew."
+
+She rose and thoughtfully picked up our cups.
+
+I looked up at her.
+
+"Charlotte must think you've— arrived," I said.
+
+"Yeah."
+
+She turned and went into the kitchenette. I heard running water, and the door of the fridge opening.
+
+"Would you like to stay for dinner? We're doing lasagna tonight. We've got heaps."
+
+She came to the door. 
+
+"Sarah's making her world-famous garlic mash tonight," I said. "Thanks anyway." I checked my phone. "I should probably get going."
+
+Celeste came up to me, reaching out, and took my hands.
+
+"I have *lived* something I can't give her," she said gently. "I enjoyed being a school girl, while she perfected the art of disappearing. Although she's found purpose and somewhere she belongs, she still needs to find *herself*. She needs lots of ordinary days to discover who she already is."
+
+She smiled sadly.
+
+I took my keys out of my purse. 
+
+"In Ballarat?"
+
+"Perhaps."
+
 <hr class="section-break strong" />
 
+**Fin** 
 
 
-
-
-
-## Scene 36
-
-<!--
-[![Img][Sy20]{ .artR width="460" }][Sy20]
-/-->
-
-## 🩸 Just Not The Noun 💧
-
-
-
-
-
-
-
-
-
-
-<hr class="section-break strong" />
 
 
 
