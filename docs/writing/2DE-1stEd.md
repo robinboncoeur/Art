@@ -26,7 +26,7 @@ Audio version: here.
 
 “*Ladies and gentlemen, this is the captain speaking. We have begun our descent into Brisbane…*”
 
-The engine note thinned, the plane easing down as if the captain was pumping the brakes. I felt a hard thud in my chest—and then… nothing. Emptiness. A numb, floating blankness that made my hands feel slightly distant.
+The engine note thinned, the plane easing down as if the captain was pumping the brakes. I felt a hard thud in my chest — and then… nothing. Emptiness. A numb, floating blankness that made my hands feel slightly distant.
 
 **She should be here.**
 
@@ -34,7 +34,7 @@ The wings flexed, shouldering us through the cloud. We dipped under the clouds a
 
 I shot Sarah a nervous grin, the kind you give when you want to borrow steadiness from someone else. Sarah didn’t grin back. Her fingers were wrapped around the armrest like it owed her money and an apology… her mouth, a thin line.
 
-When the wheels hit the runway—that solid, honest thump—and the engines roared at the rain, I felt her grip loosen. Not much, just enough to allow breathing to resume.
+When the wheels hit the runway — that solid, honest thump — and the engines roared at the rain, I felt her grip loosen. Not much, just enough to allow breathing to resume.
 
 Rain had smeared the windows into watercolour.
 
@@ -48,9 +48,9 @@ Sarah lifted her carry-on down in one smooth motion. I reached for mine but my b
 
 “Need a hand?”
 
-A young man leaned in, all sunburnt neck and eager smile. I smiled back automatically—because, why not—my mouth already opening.
+A young man leaned in, all sunburnt neck and eager smile. I smiled back automatically — because, why not — my mouth already opening.
 
-“Yes, ple—”
+“Yes, please—”
 
 Sarah’s arm went up. My bag came down. Quick, tidy, handle in my hand.
 
@@ -60,13 +60,13 @@ The young man’s smile faltered. I looked at the aisle floor with my luggage ha
 
 We moved through the concourse at Sarah’s pace: brisk. Sarah's eyes were straight in front of her, purposeful, not looking at anyone. Signs. Doors. Escalators. She didn’t hold my hand or hover, but just… stayed close, as if intent on filling space between us others might try to step into.
 
-The first train was packed and steamy. The rain had stopped, but the damp air combined with heat and damp wool, leaving a sour aftertaste of travel sweat and over-worked deodorant. Bodies pressed in, shoulders brushing, someone’s backpack zip scraped my arm. I planted my feet in the exit area gripping luggage handles, handbag hanging off one shoulder, and felt the old instinct tug at me—fold in, make smaller, disappear.
+The first train was packed and steamy. The rain had stopped, but the damp air combined with heat and damp wool, leaving a sour aftertaste of travel sweat and over-worked deodorant. Bodies pressed in, shoulders brushing, someone’s backpack zip scraped my arm. I planted my feet in the exit area gripping luggage handles, handbag hanging off one shoulder, and felt the old instinct tug at me — fold in, make smaller, disappear.
 
 Sarah’s hand landed at my elbow. Firm. A correction, direction. She shifted to the side, away from the open aisle, and I copied her, turned my body so my bag was in front of me. It was a tiny thing, but it made me feel less… accessible.
 
 Sarah’s eyes flicked to my face, her lips tightened quickly in acknowledgement.
 
-By the time we reached Eagle Junction, the sun had come out. The platform heat hit like opening an oven—drying concrete radiated it back up through my shoes. I found the ticket office and asked which way, voice too soft in my own ears.
+By the time we reached Eagle Junction, the sun had come out. The platform heat hit like opening an oven — drying concrete radiated it back up through my shoes. I found the ticket office and asked which way, voice too soft in my own ears.
 
 “Last platform,” the man said, indicating. “Ten minutes.”
 
@@ -78,7 +78,7 @@ I dug through my purse for a breath mint and my fingers found something cold, sm
 
 Everything in me leaned towards home, towards a little flat in Torquay, towards her. For a second it was like Celeste was close enough to melt into. I held the vial to my face, eyes closed. The thought of her made my throat ache.
 
-Then—without thinking—I sprayed my wrists.
+Then — without thinking — I sprayed my wrists.
 
 Two tiny mists. Soft. Private.
 
@@ -86,7 +86,7 @@ Sarah’s breath caught.
 
 “What?” I said softly, already bracing. “Is that… bad?”
 
-“That certainly smells nice, love,” a man said behind me—too close, too casual, too familiar, as if the word belonged to him.
+“That certainly smells nice, love,” a man said behind me — too close, too casual, too familiar, as if the word belonged to him.
 
 Heat climbed my neck. Cringing slightly, I dropped my hands to my sides as if hiding skin could hide scent. My eyes went to the concrete like it could form a wall around me.
 
@@ -94,9 +94,9 @@ When I glanced at Sarah her lips had tightened again, her face cool in the way a
 
 The train screamed into the station.
 
-Sarah touched my elbow—firm, guiding—and steered us toward a carriage towards the front of the train, her body between mine and the platform. We darted in, pulling our luggage like reluctant sheep behind us. 
+Sarah touched my elbow — firm, guiding — and steered us toward a carriage towards the front of the train, her body between mine and the platform. We darted in, pulling our luggage like reluctant sheep behind us. 
 
-The carriage was full and loud for a long while—not music loud, just bodies loud. Conversation still wearing its outside voice. Phone calls on speaker. A child kicking the seat behind me in a steady, cheerful rhythm. 
+The carriage was full and loud for a long while — not music loud, just bodies loud. Conversation still wearing its outside voice. Phone calls on speaker. A child kicking the seat behind me in a steady, cheerful rhythm. 
 
 I stared out the window and arranged my face into commuter neutral.
 
@@ -114,7 +114,7 @@ I swallowed. My throat still felt tight in a way that wasn’t from the plane. �
 
 Sarah’s mouth twitched. Not quite a smile. “What did you think?”
 
-I shrugged again, still small. Missing Celeste had been a full-body thing—crowded, constant—like there wasn’t room left for anything else. And now, the real world kept crowding in.
+I shrugged again, still small. Missing Celeste had been a full-body thing — crowded, constant — like there wasn’t room left for anything else. And now, the real world kept crowding in.
 
 “You miss her,” Sarah said.
 
@@ -122,7 +122,7 @@ It wasn’t a question.
 
 My eyes went hot. I looked down quickly and brought my hand up to rub the back of my neck; it felt like cast iron.
 
-And suddenly, the fragrance—J’Adore, still sitting on my wrists, faint but there—and with it the platform, the man’s voice behind me, that word like he owned it.
+And suddenly, the fragrance — J’Adore, still sitting on my wrists, faint but there — and with it the platform, the man’s voice behind me, that word like he owned it.
 
 Love.
 
@@ -136,7 +136,7 @@ I made myself look at her. Swallowed. Hard.
 
 “About you, hun,” she corrected, and it was so matter-of-fact it didn’t feel like an insult. “Out here.”
 
-I felt my shoulders curl in without permission. Sarah noticed—I could tell she noticed, because her hand came down gently on my forearm: not comforting, just anchoring.
+I felt my shoulders curl in without permission. Sarah noticed — I could tell she noticed, because her hand came down gently on my forearm: not comforting, just anchoring.
 
 “Don’t do that,” she said. “Don't… fold up.” She glanced at the aisle, then back to me. “This is no time to make yourself smaller.”
 
@@ -156,7 +156,7 @@ Untrained.
 
 The word sat wrong, like fabric cut against the grain. I looked down at my hands.
 
-Then—slowly—I pulled my handbag into me. I didn’t know why it made me feel better. It just did.
+Then — slowly — I pulled my handbag into me. I didn’t know why it made me feel better. It just did.
 
 Sarah saw that too. She didn’t comment.
 
@@ -170,13 +170,13 @@ I waited.
 
 “Don't smile at strangers,” she said. “Want to be friendly? Choose who to be friendly to. Not just anyone.”
 
-Something tightened in me again, but this time it wasn’t sadness—it was the uneasy understanding that I’d been walking through things without knowing I should brace.
+Something tightened in me again, but this time it wasn’t sadness — it was the uneasy understanding that I’d been walking through things without knowing I should brace.
 
 The train hummed under my shoes, a steady vibration that made it impossible to forget I was moving.
 
 I looked around properly this time. Not out the window: at the carriage. At who was left. Who was looking at their phones. Who wasn’t.
 
-I rested my arm on the window ledge and caught the faint scent on my wrist again. For a second it twisted—platform, voice behind me—and I had to force myself to think harder, to bring Celeste’s face back into focus instead of that man’s.
+I rested my arm on the window ledge and caught the faint scent on my wrist again. For a second it twisted — platform, voice behind me — and I had to force myself to think harder, to bring Celeste’s face back into focus instead of that man’s.
 
 I didn’t want the smell to mean carelessness.
 
@@ -204,9 +204,9 @@ Just then, Sarah's phone pinged. She glanced down at it and grinned.
 
 [ *Celeste* ]
 
-The front-door lock was too loud in the tiny hallway. When I pulled the door shut, the quiet inside the flat didn’t settle—it judged. I sighed. The tension did not loosen in my ribs.
+The front-door lock was too loud in the tiny hallway. When I pulled the door shut, the quiet inside the flat didn’t settle — it judged. I sighed. The tension did not loosen in my ribs.
 
-I flicked the kettle on—there's always tea.
+I flicked the kettle on. There's always tea.
 
 It was just for a month.
 
@@ -244,7 +244,7 @@ She paused.
 
 "I—" She swallowed. "I screwed up today, Celeste. Like, so bad."
 
-"How?" My hands had tightened on the phone. She was shrinking—the old Charlie shape—and it made something in me go hard and protective at the same time.
+"How?" My hands had tightened on the phone. She was shrinking — the old Charlie shape — and it made something in me go hard and protective at the same time.
 
 “Charli.” I kept my voice level. “Listen to me. Are you allowed to make mistakes?”
 
@@ -256,7 +256,7 @@ Her jaw was tight. "No, of course not."
 
 "Right, then! Then we’re in the category of: 'learning curve'. Not 'catastrophe'.” I let that land. "Tell me what happened.”
 
-The words came in a rush—finding the perfume vial, how it reminded her of me so much it hurt, how she’d clung to that memory and then, how it had been spoiled. Her voice thinned. When she looked back at me, her eyes were wet.
+The words came in a rush — finding the perfume vial, how it reminded her of me so much it hurt, how she’d clung to that memory and then, how it had been spoiled. Her voice thinned. When she looked back at me, her eyes were wet.
 
 "You do know what the name means, don't you?" I said.
 
@@ -314,13 +314,13 @@ I took in a deep breath and tapped my phone. No video call.
 
 "And the crates?"
 
-"No shelving. And the rails are laughable—pre-teen dance costumes would struggle. And there's, what, three?" She snorted. "So yes, a bit of adjusting needs doing."
+"No shelving. And the rails are laughable — pre-teen dance costumes would struggle. And there's, what, three?" She snorted. "So yes, a bit of adjusting needs doing."
 
 My grip tightened on my phone as I got up to flick the kettle on.
 
 "Anything for Charli to be doing yet?" I asked.
 
-A pause—long enough to feel.
+A pause — long enough to feel.
 
 "Yes and no. Charli is—" I heard a soft sigh. Sarah, at a loss. "Look, this is all a bit new... for both of us." I waited, watching little bubbles form at the bottom of the glass kettle. "I do think she'll get up to speed," she said finally, "but I'll be honest, Celeste, she's a bit of a babe in the woods. This isn't Wardrobe anymore."
 
@@ -328,7 +328,7 @@ I stiffened.
 
 "As bad as that?" I kept my voice level but closed my eyes. 
 
-"I'm not going to sugar-coat it, Celeste. She's got a lot to learn about— things. And I won't be able to set up their Wardrobe properly and mind young Charli."
+"I'm not going to sugar-coat it, Celeste. She's got a lot to learn about —  things. And I won't be able to set up their Wardrobe properly and mind young Charli."
 
 The kettle gave a happy 'ding', content to have done its duty properly. I poured the boiling water over my teabag.
 
@@ -463,7 +463,7 @@ The bite on my wrist was a round red dot. Brittany glanced over, shook her head.
 
 I stared out the window, trying to ignore the itch.
 
-"Queensland is beautiful—so lush and green," I said.
+"Queensland is beautiful — so lush and green," I said.
 
 "You got here during our wet season," Ellie said. "We got it all."
 
@@ -475,7 +475,7 @@ I was studying the chalkboard when Brittany spoke.
 
 "What'll you have, Charli?"
 
-I bit my lip. "Just um— just a small almond flat white, thanks." Heat rose in my neck. "Oh, and thank you!"
+I bit my lip. "Just um —  just a small almond flat white, thanks." Heat rose in my neck. "Oh, and thank you!"
 
 Brittany nodded.
 
@@ -527,7 +527,7 @@ Brittany frowned briefly and then gave a tiny shrug.
 
 I exhaled slowly as our coffees arrived. The barista had a white towel draped over his left forearm.
 
-"Voilà, mesdemoiselles," he said. "I have an iced coffee, two cappuccinos and— a small almond flat white for?" My hand popped up a bit too quickly. "You are— on holidays?"
+"Voilà, mesdemoiselles," he said. "I have an iced coffee, two cappuccinos and —  a small almond flat white for?" My hand popped up a bit too quickly. "You are —  on holidays?"
 
 "No, I'm here for work," I said with furtive glances in his direction. "You know, the new—"
 
@@ -539,7 +539,7 @@ I opened my mouth, then closed it.
 
 "I didn't realise your Wardrobe actually designed costumes," Brittany said. "Like, you make your own patterns and everything?"
 
-"Yes, Celeste did—she is really clever. Mara taught her. She's our designer."
+"Yes, Celeste did — she is really clever. Mara taught her. She's our designer."
 
 "I thought you said you were a tester," Natalie cut in. "Do you do repairs as well?"
 
@@ -573,11 +573,11 @@ I stepped forward.
 
 "Would you like us to help unload?" I asked. "I need a costume to demonstrate with."
 
-Fiona had that Wardrobe face on—the one that didn’t invite discussion.
+Fiona had that Wardrobe face on — the one that didn’t invite discussion.
 
 "We'll bring one in to you," she said.
 
-Back in Fiona's office, I stared at my notes. The page suddenly looked— ambitious. I flicked a glance at Brittany. Her lips moved into a quick smile.
+Back in Fiona's office, I stared at my notes. The page suddenly looked —  ambitious. I flicked a glance at Brittany. Her lips moved into a quick smile.
 
 Her eyes were not on the clipboard, but on me. 
 
@@ -589,7 +589,7 @@ I pulled in an unsteady breath.
 
 "If."
 
-"We did spend a lot of time testing. Which meant wearing the costume during the day doing all sorts of things. Lifting, bending, carrying. And even having someone pulling at the clothing, because—people do. If we found a weak seam, we would reinforce it. The costumes had to be redesigned for today's bodies."
+"We did spend a lot of time testing. Which meant wearing the costume during the day doing all sorts of things. Lifting, bending, carrying. And even having someone pulling at the clothing, because — people do. If we found a weak seam, we would reinforce it. The costumes had to be redesigned for today's bodies."
 
 "How?"
 
@@ -651,13 +651,13 @@ The door swung open.
 
 Fiona came in with a complete costume draped over her arms like it weighed nothing. Natalie and Ellie followed with boxes.
 
-I let out a long breath that felt like it had been waiting behind my ribs for ages. Fiona’s gaze flicked from Brittany to me to the notes on the table—quick, competent inventory—then back to the costume.
+I let out a long breath that felt like it had been waiting behind my ribs for ages. Fiona’s gaze flicked from Brittany to me to the notes on the table — quick, competent inventory — then back to the costume.
 
 “Right,” she said, brisk. “Your demonstration costume.”
 
 Brittany didn’t look at the costume.
 
-She looked at me—just once.
+She looked at me — just once.
 
 Her smile softened, then she tucked it away and reached for the sleeve of the costume, making space for the room to fill up again.
 
@@ -723,7 +723,7 @@ Another pause.
 
 She pressed her lips together.
 
-"Okay, so I'm not making massive mistakes— but a whole bunch of little ones. This morning, I left the donga without my purse. I'm still not thinking about things like that." Charli stopped and bit her lip.
+"Okay, so I'm not making massive mistakes —  but a whole bunch of little ones. This morning, I left the donga without my purse. I'm still not thinking about things like that." Charli stopped and bit her lip.
 
 "You mean, like most young women would?"
 
@@ -733,11 +733,11 @@ Charli’s gaze slipped downward, away from me. The smile was gone.
 
 I opened my mouth, then closed it again.
 
-"I— think it's just a matter of time before Brittany figures it all out. I mean, she already sees me as a tomboy." Her mouth slid sideways.
+"I —  think it's just a matter of time before Brittany figures it all out. I mean, she already sees me as a tomboy." Her mouth slid sideways.
 
 "What do you think you should do, Charli?"
 
-Charli huffed a sigh. "I dunno." She shrugged. "Should— should I just tell her?"
+Charli huffed a sigh. "I dunno." She shrugged. "Should —  should I just tell her?"
 
 "Do you think Brittany would react badly?"
 
@@ -939,7 +939,7 @@ My hands trembled slightly as I walked, slowly and chin down, to the swinging ba
 
 Outside on the veranda, the music was still fairly loud, but no one was shouting. Brittany waved me over.
 
-“You look nice.” She nodded at my necklace. “Oh— pretty.” She beamed.  “What are you having?”
+“You look nice.” She nodded at my necklace. “Oh —  pretty.” She beamed.  “What are you having?”
 
 I glanced towards the bar. “I don’t know.”
 
@@ -951,7 +951,7 @@ She shrugged.
 
 "I'll come in with you. How's that?"
 
-As we headed back into the noise, I tapped my fingers against my thigh, trying to remember who was having what. A loud rough laugh landed in my neck. I glanced at Brittany—one corner of her mouth lifted. She turned to the bartender.
+As we headed back into the noise, I tapped my fingers against my thigh, trying to remember who was having what. A loud rough laugh landed in my neck. I glanced at Brittany — one corner of her mouth lifted. She turned to the bartender.
 
 "Two Chardonnays, a Cab-Sav, a diet coke and two lemon-lime bitters." She caught my arm. "You're not covering all this."
 
@@ -969,7 +969,7 @@ I carried the two lemon-lime bitters back to the swinging back door, trying not 
 
 Brittany turned to me. Her eyes shone.
 
-"Oh Charli, Harri's folks are so lovely!" I smiled but didn't say anything. "You— are coming, aren't you?"
+"Oh Charli, Harri's folks are so lovely!" I smiled but didn't say anything. "You —  are coming, aren't you?"
 
 I thought for a moment.
 
@@ -1016,7 +1016,7 @@ She'd seen.
 
 [ *Charli* ]
 
-I sipped my lemon-lime bitters and watched a bartender prop the swinging door open. Bar noise—yelling at the screens, laughing, music—poured out, ten times louder. I closed my eyes, sighed. Looked for Brittany.
+I sipped my lemon-lime bitters and watched a bartender prop the swinging door open. Bar noise — yelling at the screens, laughing, music — poured out, ten times louder. I closed my eyes, sighed. Looked for Brittany.
 
 She was on her mobile at the bottom of the brick footpath, her body curled over. 
 
@@ -1068,7 +1068,7 @@ I took in a breath. Sighed.
 
 "Toby was," she said, her eyes on her hands. "Mum said she was there—" She swallowed, hard. Her chest rose with the effort of a breath. "He didn't feel anything. Just—"
 
-A curlew cried—thin and eerie—in the darkness.
+A curlew cried — thin and eerie — in the darkness.
 
 I got to my feet. Her eyes followed me, lost.
 
@@ -1140,7 +1140,7 @@ Brittany frowned. "What?"
 
 I stared at her. Bit my lip.
 
-“What's weird about is—” I paused. "I went in there by mistake."
+“What's weird about is — ” I paused. "I went in there by mistake."
 
 Brittany stared at me. Her head tipped forward.
 
@@ -1156,7 +1156,7 @@ I glanced at her, my eyes stinging.
 
 She slowly pulled her head back.
 
-"Because—back then—you weren't living as a… girl."
+"Because — back then — you weren't living as a… girl."
 
 I nodded quickly. A tightness grew behind my eyes. I glanced at her. 
 
@@ -1168,7 +1168,7 @@ She nodded once.
 
 Brittany went quiet. Properly quiet. She set her cup down and just looked at me, her eyes gentling as the pieces seemed to fall into place. When she smiled, it wasn’t surprise anymore. It was warmth. And something close to protectiveness.
 
-"Same at Wardrobe," I went on. "I didn't correct them either. It— didn't feel wrong."
+"Same at Wardrobe," I went on. "I didn't correct them either. It —  didn't feel wrong."
 
 Brittany pursed her lips.
 
@@ -1260,7 +1260,7 @@ I turned towards her soft voice and nodded.
 
 I gave a quick shake of my head.
 
-"No, I want to tell you, Brit." I looked down, then back at her. I spoke quickly. “Something was happening to me. My body was—” I glanced at her raised brows, her parted lips. “I was frightened, Brit. Scared out of my mind.” My mouth was dry. "I panicked. Tried to make it stop."
+"No, I want to tell you, Brit." I looked down, then back at her. I spoke quickly. “Something was happening to me. My body was — ” I glanced at her raised brows, her parted lips. “I was frightened, Brit. Scared out of my mind.” My mouth was dry. "I panicked. Tried to make it stop."
 
 I trembled.
 
@@ -1325,9 +1325,9 @@ She nodded.
 
 “Please no, Brit,” I said.
 
-“Oh, yes. You never learn to swim if you don’t—”
+“Oh, yes. You never learn to swim if you don’t — ”
 
-“—get in the pool. Yeah-yeah, I get it.”
+“ — get in the pool. Yeah-yeah, I get it.”
 
 She grinned and wiggled her brows.
 
@@ -1335,7 +1335,7 @@ She grinned and wiggled her brows.
 
 I blinked. “Sorry?”
 
-“I’m Brittany,” she said. “Only my parents call me Brit. I hate it, but they’re my folks, so—”
+“I’m Brittany,” she said. “Only my parents call me Brit. I hate it, but they’re my folks, so — ”
 
 “Right-o. Brittany.”
 
@@ -1395,7 +1395,7 @@ I squeezed my eyes shut. “That obvious?”
 
 “What do you mean?”
 
-“Charlotte, there’s a lot girls pick up growing up that you didn’t get. It shows.” We turned onto a major four-lane road. “I’m sure some of the others picked it up too—”
+“Charlotte, there’s a lot girls pick up growing up that you didn’t get. It shows.” We turned onto a major four-lane road. “I’m sure some of the others picked it up too — ”
 
 I curled into myself. “No.”
 
@@ -1407,15 +1407,15 @@ My head went into my hands.
 
 My head snapped to her.
 
-“Wait. What if if they ask why I didn’t pick up a pair of togs when we picked up the dress—”
+“Wait. What if if they ask why I didn’t pick up a pair of togs when we picked up the dress — ”
 
 She glanced at me sharply. “Ever hear of ‘Martha Monthly’?”
 
-“Martha Mon—” I began, then stopped, mouth open, eyes wide. “Brittany, I can’t!”
+“Martha Mon — ” I began, then stopped, mouth open, eyes wide. “Brittany, I can’t!”
 
 “Why the heck not?”
 
-“Well, because—” 
+“Well, because — ” 
 
 Did I really have to explain this?
 
@@ -1481,7 +1481,7 @@ She held out a pinkish dress, brows reaching for her bangs.
 
 "Salmon."
 
-With a tiny snort of my own, I took the pinkish—okay, salmon—dress. She pointed to the back of the store.
+With a tiny snort of my own, I took the pinkish — okay, salmon — dress. She pointed to the back of the store.
 
 "Let's see how they look."
 
@@ -1491,7 +1491,7 @@ When I stepped out of the changing stall pulling down on the skirt of the turquo
 
 "Why?"
 
-"You're already pulling at the skirt. Which means that’d be your entire arvo—tugging at it. Solid no. Besides, I can see your bra through it.” Her mouth curved as my face heated at once. "Know what I mean?"
+"You're already pulling at the skirt. Which means that’d be your entire arvo — tugging at it. Solid no. Besides, I can see your bra through it.” Her mouth curved as my face heated at once. "Know what I mean?"
 
 She greeted the salmon dress with a slight grimace.
 
@@ -1507,13 +1507,13 @@ A bit later I stepped out in the blue dress, biting my lower lip.
 
 "Here, let me."
 
-She spun me around—lips pursed, eyes sharp. 
+She spun me around — lips pursed, eyes sharp. 
 
 "Yep. That's the one, Charlotte. That's you."
 
 "But how am I going to get into it on my own?"
 
-"There's a trick to it. But yes—that really works."
+"There's a trick to it. But yes — that really works."
 
 I pinched the material. It felt like the good repair jobs Mum used to give me: proper fabric, not rubbish. Then I looked at the price and felt my stomach sag.
 
@@ -1677,7 +1677,7 @@ She laughed through her nose.
 
 Brittany took the dress off its hanger and marched it to the counter before I could start objecting on financial grounds.
 
-“Brittany—”
+“Brittany — ”
 
 “Don’t start.”
 
@@ -1685,7 +1685,7 @@ Brittany took the dress off its hanger and marched it to the counter before I co
 
 “Yes, and I heard the budget speech lining itself up behind it.”
 
-I followed her to the register, still hyper-aware of the ghost of the dress on my body—where the skirt sat, how the neckline shifted, the strange new fact that a modern frock could require more thought than a period costume and still pretend otherwise.
+I followed her to the register, still hyper-aware of the ghost of the dress on my body — where the skirt sat, how the neckline shifted, the strange new fact that a modern frock could require more thought than a period costume and still pretend otherwise.
 
 The sales assistant smiled. “Did we find the one?”
 
@@ -1776,7 +1776,7 @@ I looked out the window. “As if I would.”
 
 I folded my arms. “Say hi back. Ask simple-to-answer question. That it?”
 
-“Just a couple more—keeping it simple. Rule three: don't make your answers an essay. Think 'short-attention-span theatre'.”
+“Just a couple more — keeping it simple. Rule three: don't make your answers an essay. Think 'short-attention-span theatre'.”
 
 I stared at the windscreen, slightly envying the bug clinging for dear life on the wiper blades. A semi passed and the bug was gone.
 
@@ -1810,7 +1810,7 @@ Almost there.
 
 We walked along a little flower-lined footpath around the house into a total jungle. The pool was behind the house, nestled among huge trees and vines. I preemptively scratched at a itch that turned out not to be a bite after all. 
 
-I heard laughter before I opened the gate to the pool area. It grew louder as we stepped through—girls at the far end of the pool splashing and calling to each other. An older man in denim shorts and an apron stood at a barbie amidst a cloud of smoke. The sizzling-steak smell reminded me I had forgotten to have lunch.
+I heard laughter before I opened the gate to the pool area. It grew louder as we stepped through — girls at the far end of the pool splashing and calling to each other. An older man in denim shorts and an apron stood at a barbie amidst a cloud of smoke. The sizzling-steak smell reminded me I had forgotten to have lunch.
 
 "Oi! Over here, Brittany!"
 
@@ -1896,11 +1896,11 @@ I selected some honeydew melon and a sausage with onion on a slick of white brea
 
 "What?"
 
-"Just— good job there's no blokes at this party."
+"Just —  good job there's no blokes at this party."
 
 My head snapped back. "What are you on about now?" Then I looked at the sausage in the bread and went still. “Oh.”
 
-"Yeah. Oh. Same with bananas. Sends a message." Her eyebrows rose as she bit a nail. "Hey, gotta say: you're doing great, overall. Be right back—just going to go change."
+"Yeah. Oh. Same with bananas. Sends a message." Her eyebrows rose as she bit a nail. "Hey, gotta say: you're doing great, overall. Be right back — just going to go change."
 
 I had just finished the last piece of melon when a strong barbequed-meat odour mixed with something less pleasant drew close.
 
@@ -2051,7 +2051,7 @@ I snorted.
 
 Those were my words.
 
-I wagged my brows at her with an honest grin. "Touché." My shoulders dropped—I let out a breath I only just realised I'd been holding.
+I wagged my brows at her with an honest grin. "Touché." My shoulders dropped — I let out a breath I only just realised I'd been holding.
 
 "So, how is training going?"
 
@@ -2059,7 +2059,7 @@ I wagged my brows at her with an honest grin. "Touché." My shoulders dropped—
 
 "Harry?"
 
-"She prefers it to 'Harriet'," Charlotte said. "Caroline's into design—she's got great ideas, too. Natalie is going to be their Sarah: I can just see it."
+"She prefers it to 'Harriet'," Charlotte said. "Caroline's into design — she's got great ideas, too. Natalie is going to be their Sarah: I can just see it."
 
 "And Brittany?"
 
@@ -2109,7 +2109,7 @@ I cleared my throat.
 
 "What, shopping?" 
 
-I nodded. She frowned. "It's a bit— new to me. There's more to it than I thought there would be."
+I nodded. She frowned. "It's a bit —  new to me. There's more to it than I thought there would be."
 
 “Mm.” I let the stem turn between my fingers. “And you think I’ll like the dress.”
 
@@ -2163,7 +2163,7 @@ She stared down, her lips tight.
 
 I took a sip from my glass. "Just checking. This really isn't just so you can wear togs, is it?"
 
-"No, of course not." She finally looked at me—her eyes had reddened. "No, it's... I've actually been thinking about it, ever since I started the treatments. Off and on."
+"No, of course not." She finally looked at me — her eyes had reddened. "No, it's... I've actually been thinking about it, ever since I started the treatments. Off and on."
 
 “Right then,” I said. “This is about something else.” The knot was gone. I looked away for a moment. “Tell me, when you picture it done, what do you actually feel? Relief? Or just less fear?”
 
@@ -2290,7 +2290,7 @@ The sewing was meticulous. Her shoulders dropped when I smiled.
 
 I was on the phone to Mara when Lisa came back. She took the remaining dress off the repair table, found the seam problem, and then waited. I glanced at her, brows raised. She gave me a quick smile, but stayed exactly where she was. I turned back to the call.
 
-“No, I don’t think testing was as rigorous as it should have been,” I told Mara. “The problems are all in the same spot. On the same model—”
+“No, I don’t think testing was as rigorous as it should have been,” I told Mara. “The problems are all in the same spot. On the same model — ”
 
 “Except for this one,” Brittany called out.
 
@@ -2312,7 +2312,7 @@ At lunch, the girls clustered round the takeaway containers and helped themselve
 
 “Oh, I love Pad Thai,” she said. “My boyfriend only ever wants fish and chips.”
 
-Behind me, Fiona growled at the new coffee machine—a semi-professional Italian espresso model, solid as a tank.
+Behind me, Fiona growled at the new coffee machine — a semi-professional Italian espresso model, solid as a tank.
 
 “Does anyone know how to work this thing?”
 
@@ -2340,7 +2340,7 @@ It wasn’t until her second sip of cappuccino that she softened.
 
 “And not that hard to make,” I said, turning to Lisa, who’d made it. “Was it?”
 
-Lisa smiled—proud, but relieved.
+Lisa smiled — proud, but relieved.
 
 She hadn’t needed much. Just somewhere to put her hands.
 
@@ -2372,13 +2372,13 @@ She turned to Fiona instead.
 
 The loading-bay door banged open.
 
-Two men stepped in—and stopped.
+Two men stepped in — and stopped.
 
 Fiona was already moving. Hands up. “No. Not through here.”
 
 A needle paused mid-air.
 
-“Brittany, we lock after delivery.” She turned without breaking stride. “Gentlemen—this way.”
+“Brittany, we lock after delivery.” She turned without breaking stride. “Gentlemen — this way.”
 
 She shepherded them toward the front office. They went, casting quick looks across the room.
 
@@ -2437,7 +2437,7 @@ I wasn’t early, but I was still the first one there.
 
 Something about Queenslanders and rain.
 
-I switched on the coffee machine with a click—it growled back. Too bad. I needed coffee. The beans clinked into the little measuring cup when the front door opened and talking invaded the quiet.
+I switched on the coffee machine with a click — it growled back. Too bad. I needed coffee. The beans clinked into the little measuring cup when the front door opened and talking invaded the quiet.
 
 “Yes, I get it,” Fiona said. “No. No… look. I’m sure we can sort this, Leo.”  
 
@@ -2479,7 +2479,7 @@ She shifted her weight. “That's not how they see it.”
 
 The flat white was a touch too hot. I let it sit on my tongue anyway, something to anchor myself with while Fiona spoke.
 
-Fiona was choosing her words. Not searching for them—*choosing*.
+Fiona was choosing her words. Not searching for them — *choosing*.
 
 That was different.
 
@@ -2491,13 +2491,13 @@ This wasn’t about lacing.
 
 It was about making something fit that didn’t want to.
 
-I felt myself shift a little—shoulders drawing in, just slightly. Smaller. Quieter.
+I felt myself shift a little — shoulders drawing in, just slightly. Smaller. Quieter.
 
 Ready.
 
 Ready for what, I wasn’t sure.
 
-Fiona was still speaking—steady, reasonable—but the edges of it were beginning to press in. Not forceful. Not yet. Just… narrowing.
+Fiona was still speaking — steady, reasonable — but the edges of it were beginning to press in. Not forceful. Not yet. Just… narrowing.
 
 My eyes dropped to the rim of my cup.
 
@@ -2505,7 +2505,7 @@ Lacing.
 
 It was such a small word for something that held everything in place.
 
-If I gave on it—even just a little, just this once—I knew it wasn’t going to stay small. This was a design change. We tested even tiny design changes back in Victoria. And this wasn’t small. 
+If I gave on it — even just a little, just this once — I knew it wasn’t going to stay small. This was a design change. We tested even tiny design changes back in Victoria. And this wasn’t small. 
 
 It felt dressed up as something minor. 
 
@@ -2521,7 +2521,7 @@ Mara would just say no.
 
 My throat tightened, just slightly.
 
-That wasn’t it. Mara would say no—and everyone would accept it.
+That wasn’t it. Mara would say no — and everyone would accept it.
 
 I lifted my gaze again, not quite meeting Fiona’s eyes.
 
@@ -2541,7 +2541,7 @@ I squeezed my eyes shut. All I could see was that fourth garment fail of this ve
 
 Why isn't she here?
 
-"It's—a design thing, Fiona," I said. “They’re cut to tension through the lacing. If you change that, the whole bodice shifts.”
+"It's — a design thing, Fiona," I said. “They’re cut to tension through the lacing. If you change that, the whole bodice shifts.”
 
 "Well, the tension now is zippers," she replied. "Do you think you could do it? Or do we get someone else to?"
 
@@ -2579,11 +2579,11 @@ As if nothing had shifted at all.
 
 I was cleaning the milk beaker during morning tea when the door to Wardrobe banged open. Four of the marketplace girls came in together, voices overlapping.
 
-“These zips—”
+“These zips — ”
 
-“—I can’t even get mine to sit—”
+“ — I can’t even get mine to sit — ”
 
-“—the material is tearing where the zip is pulling—”
+“ — the material is tearing where the zip is pulling — ”
 
 I didn’t look up straight away. When I did, I glanced at Fiona.
 
@@ -2597,7 +2597,7 @@ Her lips had compressed into a line.
 
 “Anything I can do for you, Leo?”
 
-“Those costumes—” His eyes landed on me, quick and sharp. His brows twitched.
+“Those costumes — ” His eyes landed on me, quick and sharp. His brows twitched.
 
 “They’re tearing already.”
 
@@ -2660,7 +2660,7 @@ I barely heard my phone chirping. I pulled it from my purse.
 
 “Sarah? All good?”
 
-“I'm fine, thanks. I’m actually at the airport, and was wondering if you wouldn’t mind—”
+“I'm fine, thanks. I’m actually at the airport, and was wondering if you wouldn’t mind — ”
 
 “Stay there,” I said. “I’ll be there as quick as I can.”
 
@@ -2686,7 +2686,7 @@ The air outside the apartment had that characteristic autumn crispness. I aimed 
 
 I climbed into the car. "I'm going to put you on speaker," I said with a small shiver, wishing I'd stuck with trousers.
 
-"So, Leo—he's from the Faire Management team—he was not pleased that the marketplace girls' dresses were holding up so poorly."
+"So, Leo — he's from the Faire Management team — he was not pleased that the marketplace girls' dresses were holding up so poorly."
 
 The turn signal blinked and I turned onto the street. Oddly empty for a Friday. 
 
@@ -2696,7 +2696,7 @@ A long pause.
 
 “Hello?”
 
-“No, I’m here,” she said. “At first—it looked like handling. The girls weren’t exactly gentle.”
+“No, I’m here,” she said. “At first — it looked like handling. The girls weren’t exactly gentle.”
 
 “Sorry, but you didn’t answer my question.”
 
@@ -2734,13 +2734,13 @@ A semi thundered past me on the motorway. I grimaced as I looked at my speedomet
 
 Focus on your driving, Celeste.
 
-Sarah waved at me as I pulled into the passenger pickup zone. The air was warm, thick with the smell of spent jet fuel, making it feel warmer still. I gave her a hug—her hair was all askew from the flight. She landed in her seat with a satisfied sigh.
+Sarah waved at me as I pulled into the passenger pickup zone. The air was warm, thick with the smell of spent jet fuel, making it feel warmer still. I gave her a hug — her hair was all askew from the flight. She landed in her seat with a satisfied sigh.
 
 "Oh Celeste, it's so good to be home!"
 
 “Good to have you back.” 
 
-I braked—late—as a tinny beep cut through behind us. A muscle car roared past. “When did Mara ring you?”
+I braked — late — as a tinny beep cut through behind us. A muscle car roared past. “When did Mara ring you?”
 
 "She didn't. Lauren did."
 
@@ -2752,7 +2752,7 @@ I frowned.
 
 The blast of a horn cut her off. A semi thundered past, chains rattling. I stilled, eyes on the road. Waited for it to clear.
 
-“So—” I said, once it had. “How is Charlotte?”
+“So — ” I said, once it had. “How is Charlotte?”
 
 “Oh, Celeste, she’s coming into her own!”
 
@@ -2834,7 +2834,7 @@ Queensland.
 
 "I was." She stared at the material as if it had reached its use-by date.
 
-"He wants us to use this— stuff, then?"
+"He wants us to use this —  stuff, then?"
 
 "He said something of the sort. The quote we'd sent for ball gowns were too dear because of the cost of the material we'd selected for it, was what he said. He didn't mention he'd already ordered something else, though."
 
@@ -2887,7 +2887,7 @@ A bad yes.
 
 It should have been a firm no.
 
-The workroom had gone strangely hollow after the girls left. All that noise and movement—machines running, scissors snipping, someone laughing from the pressing table, somebody else calling out for chalk or pins—had drained away until only the fluorescent lights and the faint tick of cooling irons remained. Fiona moved through it with her keys in hand, checking doors, switching things off one by one.
+The workroom had gone strangely hollow after the girls left. All that noise and movement — machines running, scissors snipping, someone laughing from the pressing table, somebody else calling out for chalk or pins — had drained away until only the fluorescent lights and the faint tick of cooling irons remained. Fiona moved through it with her keys in hand, checking doors, switching things off one by one.
 
 She did not quite look at me.
 
@@ -2907,7 +2907,7 @@ I’ve failed.
 
 The thought arrived whole, without drama. Just a fact, dropping into place.
 
-By the time I unlocked the donga, I was moving on habit alone. The familiar stale smell met me at the door—the faint shut-up heat of old vinyl, detergent, dust, and my own things... and I barely noticed it. I let the door close behind me, dropped my bag by the kitchenette bench, and stopped.
+By the time I unlocked the donga, I was moving on habit alone. The familiar stale smell met me at the door — the faint shut-up heat of old vinyl, detergent, dust, and my own things... and I barely noticed it. I let the door close behind me, dropped my bag by the kitchenette bench, and stopped.
 
 The bottle of wine Brittany had left a few nights earlier sat where she’d put it, cheerful and accidental, as if it had every expectation of being opened amidst gossip and laughter.
 
@@ -2919,7 +2919,7 @@ I sank onto the couch with my phone already in my hand, the cushions giving way 
 
 When her face appeared, something in my shoulders loosened.
 
-She was propped somewhere warm and familiar, lamp-light catching one side of her face. Her expression changed the moment she saw me—just a slight stilling, her head tipped a little.
+She was propped somewhere warm and familiar, lamp-light catching one side of her face. Her expression changed the moment she saw me — just a slight stilling, her head tipped a little.
 
 “Hi petal,” she said gently. “How are you?”
 
@@ -2959,7 +2959,7 @@ The silence that followed felt like one of those horrid dreams where you find yo
 
 “Fiona told me there wasn’t a choice.”
 
-The moment I said it, I was back there—that sick, sliding feeling of losing my footing on ground I had never really felt solid on to begin with. Management wanting something. Fiona caught between pressure and practicality. Me knowing enough to be uneasy, but wanting everyone happy.
+The moment I said it, I was back there — that sick, sliding feeling of losing my footing on ground I had never really felt solid on to begin with. Management wanting something. Fiona caught between pressure and practicality. Me knowing enough to be uneasy, but wanting everyone happy.
 
 Celeste’s face softened slightly.
 
@@ -2967,7 +2967,7 @@ Celeste’s face softened slightly.
 
 I frowned at the screen.
 
-“I’m confused—”
+“I’m confused — ”
 
 That drew the smallest smile from her: tight-lipped, sympathetic, and oddly, pleased.
 
@@ -2977,7 +2977,7 @@ I felt the words go through me like cold goes through you when you jump into a m
 
 “I could have said no?” I asked with a shiver.
 
-It sounded too strange, as if suddenly a page of the rulebook—one I should have studied—was suddenly explained to  me. A page that went against everything the rest of the rulebook had said.
+It sounded too strange, as if suddenly a page of the rulebook — one I should have studied — was suddenly explained to  me. A page that went against everything the rest of the rulebook had said.
 
 Celeste’s eyebrows twitched. She nodded once.
 
@@ -2989,7 +2989,7 @@ I let out a huge breath and sank further into the couch, all the fight gone out 
 
 She nodded again.
 
-“That is an issue, one that needed fixing,” she said. “Still not sure why those were failing. And you couldn’t exactly do a proper wear test on yourself. Not with your figure—” She broke off as her brows popped up.
+“That is an issue, one that needed fixing,” she said. “Still not sure why those were failing. And you couldn’t exactly do a proper wear test on yourself. Not with your figure — ” She broke off as her brows popped up.
 
 “What?”
 
@@ -3003,7 +3003,7 @@ For a moment she stared, tipping her head. Then, with a lift of her chin, she gr
 
 I opened my mouth to object, failed, and what came out instead was a pathetic little burst of sound somewhere between a huff and a laugh.
 
-“You know I hate them,” I said, snorting despite myself. “No, it’s just—”
+“You know I hate them,” I said, snorting despite myself. “No, it’s just — ”
 
 I made a weak gesture at my chest. Her expression gentled at once.
 
@@ -3017,7 +3017,7 @@ The words settled over me like something warm being laid over cold shoulders.
 
 “We just have two more dresses with the split waist seam problem,” I said. “I think I’ve come up with a way to repair them so they won’t tear, even when those baboons are in a hurry to get to the pub.”
 
-She chortled—actually chortled—and I felt another tiny knot inside me give way.
+She chortled — actually chortled — and I felt another tiny knot inside me give way.
 
 I looked down at my hands.
 
@@ -3045,7 +3045,7 @@ Not hugely different.
 
 Just, a little clearer on things.
 
-A woman—one who could say no.
+A woman — one who could say no.
 
 <hr class="section-break strong" />
 
@@ -3076,11 +3076,11 @@ Maybe if I walked tall?
 
 I mindlessly flicked through videos on my phone. Typed in the word 'confidence' in the search bar, got influencers promising rock-solid confidence "...if you try this simple trick!"
 
-Getting up a half hour earlier to try their suggestions didn't seem like that much of a big deal—a bit of eyeliner, a touch of lipstick. The second influencer said she usually gave herself at least an hour. 
+Getting up a half hour earlier to try their suggestions didn't seem like that much of a big deal — a bit of eyeliner, a touch of lipstick. The second influencer said she usually gave herself at least an hour. 
 
 A hot shower and slipping on leggings and smock, and even doing my hair up took but a moment.
 
-Applying eyeliner— did not.
+Applying eyeliner —  did not.
 
 First thing I had to deal with was: I had to actually look at my face.
 
@@ -3096,7 +3096,7 @@ I glared at my eyelids.
 
 Just pretend it was someone else's face. 
 
-Forty-five minutes disappeared into smudges, wipes, and quiet swearing—until, finally, the result looked: okay. Not great. Okay. 
+Forty-five minutes disappeared into smudges, wipes, and quiet swearing — until, finally, the result looked: okay. Not great. Okay. 
 
 Even when I finally got it right, it felt wrong. 
 
@@ -3104,7 +3104,7 @@ How is this confidence-building?
 
 Lippie was a matter of a minute.
 
-My lips bunched to one side as I gazed at the face of the girl looking back at me. Tried a smile—it looked apologetic.
+My lips bunched to one side as I gazed at the face of the girl looking back at me. Tried a smile — it looked apologetic.
 
 I still didn’t trust the girl in the mirror to pull off confidence. Not even with eyeliner.
 
@@ -3150,7 +3150,7 @@ I looked at Brittany. “She’s probably right.”
 
 When I finally finished my scrutiny, I noticed both girls were intently watching my face.
 
-"This is really good," I said slowly—perhaps, a bit too slowly.
+"This is really good," I said slowly — perhaps, a bit too slowly.
 
 "But?"
 
@@ -3178,7 +3178,7 @@ I nodded, my fingers on my forehead as I looked at the carefully drawn lines.
 
 I was silent for a moment. Discarded zippers seemed to glower at me from the cutting table.
 
-"Um, it matters because..." My throat tightened. "Design and material has to fit together." Lisa and Brittany watched me—waiting.
+"Um, it matters because..." My throat tightened. "Design and material has to fit together." Lisa and Brittany watched me — waiting.
 
 I have to say this right.
 
@@ -3331,7 +3331,7 @@ It was still dark when Brittany and Lisa banged on the donga door. I rolled over
 
 Our flight wasn't until after eleven!
 
-I staggered to the door, and wordlessly let them in—along with the cold night air and a few mozzies.
+I staggered to the door, and wordlessly let them in — along with the cold night air and a few mozzies.
 
 "Why aren't you ready?" demanded Brittany. "We have a bus to catch in twenty minutes!"
 
@@ -3367,13 +3367,13 @@ I looked over at Lisa: her face had gone rigid, as if she was wearing a mask.
 
 "You right?"
 
-She bit her lip. "I've— never been in an aeroplane before."
+She bit her lip. "I've —  never been in an aeroplane before."
 
 Brittany shrugged. "Yeah, first time's a bit weird, but you quickly get used to it."
 
 Once onboard, after we'd stowed our luggage and fastened our seatbelts, it became clear that flying was never going to be Lisa's favourite thing to do.
 
-When the engines roared and my body went heavy into the seat back, Lisa’s hands turned white-knuckled. I glanced at her face. Pinched. Wide-eyed. Her eyes fleetingly sought mine—I moved my lips into my best happy curve and, reaching out, put my hand over hers. With a hand that shook, she grabbed mine as the aircraft thundered and rattled down the runway.
+When the engines roared and my body went heavy into the seat back, Lisa’s hands turned white-knuckled. I glanced at her face. Pinched. Wide-eyed. Her eyes fleetingly sought mine — I moved my lips into my best happy curve and, reaching out, put my hand over hers. With a hand that shook, she grabbed mine as the aircraft thundered and rattled down the runway.
 
 Brittany was staring out the window.
 
@@ -3399,7 +3399,7 @@ Brittany shrugged, then produced a heavy book out of her bag.
 
 "Where did you find that?"
 
-"There's a cute bookshop in Scarborough—I think they're closed now. I got this for almost nothing."
+"There's a cute bookshop in Scarborough — I think they're closed now. I got this for almost nothing."
 
 The grip on my hand lessened.
 
@@ -3427,7 +3427,7 @@ The hissing roar of the engines slowed and settled just as the seatbelt bell din
 
 "Wow." She took in a slow breath.
 
-"Take-off is the exciting bit—except for when we land," Brittany said with a grin and Lisa's eyes widened again.
+"Take-off is the exciting bit — except for when we land," Brittany said with a grin and Lisa's eyes widened again.
 
 "Don't worry, landing's quick," I added hurriedly. "Did you bring your iPad?"
 
@@ -3459,7 +3459,7 @@ Lisa awoke with a wide-eyed start.
 
 "Settle, petal," I said softly. "We're almost there."
 
-The wheels kissed the runway—so soft I barely felt it. The engines thundered for a bit, then stilled. A voice said, "Welcome to Melbourne. The time here is..." 
+The wheels kissed the runway — so soft I barely felt it. The engines thundered for a bit, then stilled. A voice said, "Welcome to Melbourne. The time here is..." 
 
 No one was paying attention.
 
@@ -3481,7 +3481,7 @@ We walked into the concourse area.
 
 I stilled.
 
-My chest flared—too hot, too fast. For a second I couldn’t move.
+My chest flared — too hot, too fast. For a second I couldn’t move.
 
 Celeste.
 
@@ -3491,9 +3491,9 @@ I have never held someone so tightly.
 
 Or ever been held so tightly.
 
-When I finally came up for air, I saw her eyes—and felt them, like hands.
+When I finally came up for air, I saw her eyes — and felt them, like hands.
 
-Tears suddenly blurred her face, and everything around me. I felt her hand at the back of my head as she buried my face in her top. Something in me—tight for days, maybe longer—finally, just… let go.
+Tears suddenly blurred her face, and everything around me. I felt her hand at the back of my head as she buried my face in her top. Something in me — tight for days, maybe longer — finally, just… let go.
 
 Suddenly, I startled: I had completely forgotten Lisa and Brittany. Hurriedly brushing wet cheeks, I turned to them.
 
@@ -3517,7 +3517,7 @@ She quickly smiled back.
 
 I looked at Lisa: her broad smile betraying an effort to not look too excited.
 
-When the key in the lock to our little apartment finally turned and I entered our home—our space, our smells—I could feel my eyes grow moist again. Celeste's hand settled on my shoulder.
+When the key in the lock to our little apartment finally turned and I entered our home — our space, our smells — I could feel my eyes grow moist again. Celeste's hand settled on my shoulder.
 
 "The next time, we leave together."
 
@@ -3543,7 +3543,7 @@ Charlotte's mum was... different. Nothing like I expected.
 
 Sarah and Lauren reminded me of ballerinas dancing a pas de deux. Sarah would pull a wet plastic container out of the dishwasher, and Lauren would take it from her, tea-towel already in hand to dry it. Sarah's hips would slip sideways just enough to let Lauren slide past her in the small kitchenette. 
 
-They were chalk and cheese in so many ways: Lauren played the violin; Sarah wrote poetry on her Macbook Air with headphones on—not listening to music, but politics—until the early hours of the morning; Lauren loved prawns while Sarah had a thing for olives... but the gentleness between them, the care in Sarah's eyes, the tender strokes of the brush Lauren gave Sarah's blond hair as they watched TV made me envious.
+They were chalk and cheese in so many ways: Lauren played the violin; Sarah wrote poetry on her Macbook Air with headphones on — not listening to music, but politics — until the early hours of the morning; Lauren loved prawns while Sarah had a thing for olives... but the gentleness between them, the care in Sarah's eyes, the tender strokes of the brush Lauren gave Sarah's blond hair as they watched TV made me envious.
 
 Dinner that night was jacket potatoes with cheese and vegemite. I had just sliced my potato and squeezed it when I noticed that Sarah had stilled.
 
@@ -3927,7 +3927,7 @@ I looked out of the back-seat window at the evening sky as Sarah drove us home, 
 
 I swear she can read minds.
 
-“I guess—” I began, when I heard Lauren groan.
+“I guess — ” I began, when I heard Lauren groan.
 
 I was suddenly pressed into the seat as the engine wailed and the car sped up.
 
@@ -3969,7 +3969,7 @@ I made spaghetti bolognaise out of a tin for dinner. No one ate much. I don’t 
 
 Lauren even gave me a hug after dinner.
 
-“Please don’t take it personally,” she said gently. “It’s this—mess.”
+“Please don’t take it personally,” she said gently. “It’s this — mess.”
 
 Sarah was gripping the top of a wine bottle, her lips tight, as she started to twist it.
 
@@ -4104,7 +4104,7 @@ Still. A man did not say that about another man’s son and hang up.
 
 Wardrobe.
 
-Of course. Made sense: his mum worked there. Oh, and he knew the woman who ran the place. Mara. Hard mouth, dry voice, the sort who mistook a table full of fabric for a command post. Sarah had been there as well, sharp as wire. And this other lass they called Celeste—cool, composed, entirely too certain that she had the right to involve herself.
+Of course. Made sense: his mum worked there. Oh, and he knew the woman who ran the place. Mara. Hard mouth, dry voice, the sort who mistook a table full of fabric for a command post. Sarah had been there as well, sharp as wire. And this other lass they called Celeste — cool, composed, entirely too certain that she had the right to involve herself.
 
 They had handled him.
 
@@ -4152,7 +4152,7 @@ He found that oddly annoying. He had expected fuss. Fuss could be dismissed.
 
 This was not fuss.
 
-The place had a solid structure to it, almost like a military base. The fault board was uncompromising. Columns. Tags. Names. Times. Red, yellow, green. Tools laid out at the end of the table, not scattered. A bin marked SHARPS. Another marked REPAIRS—APPROVED. Someone had redrawn the chalk line across part of the floor.
+The place had a solid structure to it, almost like a military base. The fault board was uncompromising. Columns. Tags. Names. Times. Red, yellow, green. Tools laid out at the end of the table, not scattered. A bin marked SHARPS. Another marked REPAIRS — APPROVED. Someone had redrawn the chalk line across part of the floor.
 
 DO NOT CROSS WITHOUT CLEARANCE.
 
@@ -4568,7 +4568,7 @@ My jaw tightened.
 
 I stilled.
 
-"You know the answer to that—of course I do!" I said firmly. "And yes, I would hate having that... bit." I pushed my fist against my mouth—a thought had occurred to me.
+"You know the answer to that — of course I do!" I said firmly. "And yes, I would hate having that... bit." I pushed my fist against my mouth — a thought had occurred to me.
 
 "So, if you hated that bit, would that mean you wanted..."
 
@@ -4608,9 +4608,9 @@ I suddenly realised that before me was a different girl.
 
 Queensland had changed Charlotte. She looked at me with clearer eyes and a firmer chin.
 
-Suddenly, my fear of being right—of the influence I had over her—felt like arrogance. I realised I needed her as much as she needed me, if not more. I slid up close to her and pulled her body into mine.
+Suddenly, my fear of being right — of the influence I had over her — felt like arrogance. I realised I needed her as much as she needed me, if not more. I slid up close to her and pulled her body into mine.
 
-“No. You’re right—I don’t get to decide what that means.”
+“No. You’re right — I don’t get to decide what that means.”
 
 She melted into me. Her hair smelled of jasmine and lilac. Something bubbled up within me, something I'd been wanting to say for a long time.
 
@@ -4649,7 +4649,7 @@ It wasn't wrong, either.
 
 By half past ten that morning, I had decided breathing was overrated.
 
-I had just pulled my unwilling body out of the warm sheets when I heard Lauren's car pull up. I hadn't expected her back already, to be honest. She and Sarah had left together—as they always did—very early that morning, lots of things on the agenda. 
+I had just pulled my unwilling body out of the warm sheets when I heard Lauren's car pull up. I hadn't expected her back already, to be honest. She and Sarah had left together — as they always did — very early that morning, lots of things on the agenda. 
 
 Before I could ask her what she’d forgotten, Lauren had installed me at the small table nearest the fire, which was still giving off a low, steady heat, wrapped a towel over my head, and set a bowl of steaming water beneath my face as if I were a piece of laundry she meant to restore by force. The Vicks hit first. Then the heat. Then another cough tore through me hard enough to make my eyes water.
 
@@ -4795,7 +4795,7 @@ Lauren answered too quickly.
 
 “I know that.”
 
-“No,” I said, then regretted it. “Sorry. I mean—you know the sentence. I’m not sure you know what the word cost her.”
+“No,” I said, then regretted it. “Sorry. I mean — you know the sentence. I’m not sure you know what the word cost her.”
 
 Lauren looked at me then. She had stopped looking like someone nursing me. Now she looked like someone who had forgotten where she had put something important.
 
@@ -4880,7 +4880,7 @@ Dismissive. Almost offhand. And yet there had been an emptiness in her eyes.
 
 She hadn’t only been thinking about Roger.
 
-The words—and her face—played in a loop as we drove along windswept, almost empty streets in the failing light.
+The words — and her face — played in a loop as we drove along windswept, almost empty streets in the failing light.
 
 I had been puzzled about something for the past week or so: Roger’s vanishing act made no bloody sense. Men like Roger did not usually vanish because they had learned a lesson. They vanished because they had found another door. I knew Roger. He was tenacious.
 
@@ -4892,7 +4892,7 @@ Gone?
 
 That he'd "seen the light" was a naïve way to look at things. There had to be another reason. 
 
-During afternoon tea, I'd started unpicking that seam with Mara and Lucy. What they told me—and Charlotte's dry little quip—took my breath away.
+During afternoon tea, I'd started unpicking that seam with Mara and Lucy. What they told me — and Charlotte's dry little quip — took my breath away.
 
 Celeste was driving me home in the sort of silence that discouraged questions. She was elsewhere, and not inviting company.
 
@@ -4938,7 +4938,7 @@ Her fingers went to her forehead.
 
 I waited. She looked towards the window.
 
-"I—I had a lovely, sweet, gentle son." She stopped. I didn’t answer—I didn’t trust myself to. Whatever was on my face made her look away, folding in on herself a little. "Like I said," she went on, "you wouldn't understand."
+"I — I had a lovely, sweet, gentle son." She stopped. I didn’t answer — I didn’t trust myself to. Whatever was on my face made her look away, folding in on herself a little. "Like I said," she went on, "you wouldn't understand."
 
 I studied her, eyes narrowed. I shivered, and not because of the cold draught at my ankles.
 
@@ -5012,7 +5012,7 @@ Then I said, “Look at her now.”
 
 She didn’t answer.
 
-“No, properly. Look at her now. She stands—differently. Speaks differently. Argues, when she has to. Chooses things. Tests things. Makes mistakes in public and survives them.” I gave a short, humourless laugh. “She wears clothes that fit, for crying out loud. That alone should have rung church bells.”
+“No, properly. Look at her now. She stands — differently. Speaks differently. Argues, when she has to. Chooses things. Tests things. Makes mistakes in public and survives them.” I gave a short, humourless laugh. “She wears clothes that fit, for crying out loud. That alone should have rung church bells.”
 
 A small sound escaped Lauren. Not quite a laugh. Not quite pain.
 
@@ -5044,7 +5044,7 @@ Her hand moved to the edge of the table.
 
 “Mm.”
 
-“And Roger thought—”
+“And Roger thought — ”
 
 “Roger thought whatever made Roger feel least inconvenienced.”
 
@@ -5086,7 +5086,7 @@ This was going to be a long night.
 
 “Rungs?”
 
-“First rung: be seen and don’t let it knock you over. Second rung: someone talks to you, you keep your hands. Third rung—”
+“First rung: be seen and don’t let it knock you over. Second rung: someone talks to you, you keep your hands. Third rung — ”
 
 “Someone says something stupid,” Lauren said quietly.
 
@@ -5160,7 +5160,7 @@ I looked at her then.
 
 “Careful.”
 
-“But you just said—”
+“But you just said — ”
 
 “I said she chose to stop disappearing. She didn't choose to be Charlotte. She was Charlotte already.”
 
@@ -5215,7 +5215,7 @@ She straightened.
 
 "Hey, petal," she said cheerily. "Dinner won't be long. Can I get you anything?"
 
-I stared at her. No words. Her brows rose a little. She said nothing—with a tiny shrug and pursed lips she turned back to the stove.
+I stared at her. No words. Her brows rose a little. She said nothing — with a tiny shrug and pursed lips she turned back to the stove.
 
 I continued to gaze at her for a moment.
 
@@ -5225,11 +5225,11 @@ I love that girl!
 
 *Why*?
 
-Those thoughts had been at the centre of everything that afternoon. I was accomplishing tasks by rote, unfocused. I'm sure Mara noticed—her look was a bit sharp when she left. Mara always notices things, especially when someone is not one-hundred percent in the task.
+Those thoughts had been at the centre of everything that afternoon. I was accomplishing tasks by rote, unfocused. I'm sure Mara noticed — her look was a bit sharp when she left. Mara always notices things, especially when someone is not one-hundred percent in the task.
 
 I closed my eyes.
 
-And opened them again—there was a sound at the door. Charlotte's smile was peeking around the corner.
+And opened them again — there was a sound at the door. Charlotte's smile was peeking around the corner.
 
 "Dinner's ready?"
 
@@ -5273,7 +5273,7 @@ Charlotte waited. A certain tension had returned.
 
 I rocked slightly in my chair, my hands between my thighs, staring at the crust again.
 
-"When he looked at you—recognised you—that was the moment he realised he'd lost it all a long time ago. I could see it in his eyes."
+"When he looked at you — recognised you — that was the moment he realised he'd lost it all a long time ago. I could see it in his eyes."
 
 I licked my lips.
 
@@ -5281,7 +5281,7 @@ My hands trembled a little.
 
 Finally, I looked up to meet Charlotte's wide-eyed gaze.
 
-"Anyone can grow accustomed to things being done for them. After a while, you stupidly start to put it down to nature, not work. The trivial tasks done carefully go unrecognised because they're… trivial. It's a—slippery slope."
+"Anyone can grow accustomed to things being done for them. After a while, you stupidly start to put it down to nature, not work. The trivial tasks done carefully go unrecognised because they're… trivial. It's a — slippery slope."
 
 For a long beat, neither of us spoke. Finally, I leaned forward, putting my elbows on the table and my head in my hands.
 
@@ -5307,7 +5307,7 @@ Charlotte shook her head slightly.
 
 I shrugged.
 
-"I know it seems weird now for me to question the whole 'wife' idea—now, at this late date—but when I saw the emptiness in your dad's eyes I realised he and I were two different pieces of cloth looking at the same seam."
+"I know it seems weird now for me to question the whole 'wife' idea — now, at this late date — but when I saw the emptiness in your dad's eyes I realised he and I were two different pieces of cloth looking at the same seam."
 
 "You're nothing like my dad!"
 
@@ -5537,7 +5537,7 @@ I looked down at my cup.
 
 “No, don’t rescue me.” Her voice was soft, but firm. “You do that too.”
 
-That made my throat close before I had decided whether I wanted it to. I glanced at her—quickly, then away again—and suddenly found my thumbnail fascinating.
+That made my throat close before I had decided whether I wanted it to. I glanced at her — quickly, then away again — and suddenly found my thumbnail fascinating.
 
 The silence was broken by the sound of her cup being set down.
 
@@ -5545,7 +5545,7 @@ Carefully.
 
 Too carefully.
 
-“I’ve been trying to find a clean way to say this, and—” She swallowed. “Every version sounds like something from a sympathy card.”
+“I’ve been trying to find a clean way to say this, and — ” She swallowed. “Every version sounds like something from a sympathy card.”
 
 I gave a small laugh, because I had to do something with my face.
 
@@ -5567,7 +5567,7 @@ An ache grew in my throat.
 
 She stopped. Grimaced.
 
-“No. Not a son—an idea. A shape I’d got used to. Which was just—selfish of me.” Her hand opened slightly, helpless and beckoning at once. 
+“No. Not a son — an idea. A shape I’d got used to. Which was just — selfish of me.” Her hand opened slightly, helpless and beckoning at once. 
 
 “You were standing in front of me the whole time.”
 
@@ -5583,13 +5583,13 @@ She swallowed. Closed her eyes as if the words hurt to bring into the open.
 
 The room blurred.
 
-“Mum, I—”
+“Mum, I — ”
 
 “No.” She shook her head once. “This is on me.”
 
 That undid me more than the apology.
 
-I stepped into her because I had no language left. She caught me at once, one arm around my shoulders, the other hand settling at the back of my head—I was still small enough to fit there. Her blouse smelled faintly of washing powder and coffee, and under that, simply Mum.
+I stepped into her because I had no language left. She caught me at once, one arm around my shoulders, the other hand settling at the back of my head — I was still small enough to fit there. Her blouse smelled faintly of washing powder and coffee, and under that, simply Mum.
 
 “I am so lucky,” I whispered, though it came out muffled against her.
 
@@ -5621,7 +5621,7 @@ Lisa appeared at the tearoom door holding a dress in both upturned hands, exposi
 
 I glanced at her face. Her mouth had gone sideways. This was about more than grommets and lacing.
 
-She gave a small twitch—part snort, part laugh.
+She gave a small twitch — part snort, part laugh.
 
 “Mara said zipper. Can you believe it?”
 
@@ -5643,7 +5643,7 @@ Mum drew it down into place, then caught the lacing and gave it two firm tugs.
 
 I straightened my back.
 
-Lisa ran her fingers along a small ripple—not quite a crease—that began at one grommet and faded as it reached the side seam. Her eyes flicked up. She shook her head.
+Lisa ran her fingers along a small ripple — not quite a crease — that began at one grommet and faded as it reached the side seam. Her eyes flicked up. She shook her head.
 
 “We’d have to redesign this whole panel, wouldn’t we?”
 
@@ -5665,7 +5665,7 @@ Lisa nodded slowly.
 
 Lily blinked.
 
-Mum examined the panel beneath my bust. “Lacing negotiates. A zipper doesn’t. Bend forward, breathe hard, reach up—lacing adjusts by tiny amounts. A zipper just asks the fabric around it to suffer.”
+Mum examined the panel beneath my bust. “Lacing negotiates. A zipper doesn’t. Bend forward, breathe hard, reach up — lacing adjusts by tiny amounts. A zipper just asks the fabric around it to suffer.”
 
 Lisa touched the ripple again.
 
@@ -5812,15 +5812,15 @@ I took her hand.
 
 “Come on,” I said. “Let’s get coffee.”
 
-The car felt larger without Brittany. Not empty—emptiness has a kind of simplicity to it. This was worse than empty. This was the space a person leaves when she has gone and taken the light version of the morning with her.
+The car felt larger without Brittany. Not empty — emptiness has a kind of simplicity to it. This was worse than empty. This was the space a person leaves when she has gone and taken the light version of the morning with her.
 
 For the first ten minutes, neither of us said anything.
 
-Charlotte sat with both hands in her lap—placed there neatly, as if she had been told what to do with them and had decided obedience would get her through the rest of the morning.
+Charlotte sat with both hands in her lap — placed there neatly, as if she had been told what to do with them and had decided obedience would get her through the rest of the morning.
 
 I kept my eyes on the road.
 
-The airport fell behind us in signs and concrete, in rental car arrows and impatient merging traffic. I glanced over at Charlotte—she was following a plane climbing into the low clouds, as if to have something to focus on.
+The airport fell behind us in signs and concrete, in rental car arrows and impatient merging traffic. I glanced over at Charlotte — she was following a plane climbing into the low clouds, as if to have something to focus on.
 
 I wanted to say something sensible.
 
@@ -6057,7 +6057,7 @@ Her mouth twitched.
 
 Heat rushed into my cheeks.
 
-“I was—” I stopped.
+“I was — ” I stopped.
 
 Her eyebrows rose slightly.
 
@@ -6069,7 +6069,7 @@ Her eyebrows rose to an inquisitive level.
 
 “Was it difficult?”
 
-“I don’t think all this fuss is necessary,” I said. “Maybe I should just—”
+“I don’t think all this fuss is necessary,” I said. “Maybe I should just — ”
 
 Celeste did not answer but gave a small nod, as if I had confirmed something she had expected.
 
@@ -6123,7 +6123,7 @@ Celeste slowed the car and moved close to the kerb to let an ambulance through, 
 
 I slumped lower in the seat.
 
-“No. I mean—no. About everyone.”
+“No. I mean — no. About everyone.”
 
 She did not answer.
 
@@ -6153,7 +6153,7 @@ Celeste leaned against the table, watching me.
 
 The kettle began its small, rising fuss.
 
-“But—”
+“But — ”
 
 “Now you can stop pretending,” Celeste said. “And we start accepting. But here's the thing, Charlotte,“ she said, her tone sharpening, “you have a bit of accepting to learn too.”
 
@@ -6402,7 +6402,7 @@ Celeste’s face softened.
 
 “Yes,” she said gently. “You do.”
 
-“No. I don’t.” I looked from her to Brittany, then to Lisa, who had gone very still beside the coffee machine. “Why is Brittany here? And why is Lisa still here? Wasn’t Lisa applying for design school in St Kilda? And now Wardrobe is moving, and everyone has a job except me, and I’m supposed to—”
+“No. I don’t.” I looked from her to Brittany, then to Lisa, who had gone very still beside the coffee machine. “Why is Brittany here? And why is Lisa still here? Wasn’t Lisa applying for design school in St Kilda? And now Wardrobe is moving, and everyone has a job except me, and I’m supposed to — ”
 
 I stopped.
 
@@ -6689,11 +6689,11 @@ That stopped her.
 
 She took another careful step onto the veranda. The boards creaked softly under her foot, and I watched the way she responded to the sound. Her shoulders rose slightly.
 
-“I thought,” she said, “perhaps we could go—today.”
+“I thought,” she said, “perhaps we could go — today.”
 
 “To town?”
 
-“Home—to Wardrobe.”
+“Home — to Wardrobe.”
 
 I looked at her.
 
@@ -6723,7 +6723,7 @@ The look on her face made plain which seam was actually struggling.
 
 She nodded helplessly.
 
-”I didn't think it would take this long—”
+”I didn't think it would take this long — ”
 
 ”You're actually ahead of the curve,” I said. ”Remember your last clinic visit?”
 
@@ -6735,7 +6735,7 @@ I shook my head.
 
 Charlotte shuddered slightly.
 
-”But—”
+”But — ”
 
 I raised my hands.
 
@@ -6763,11 +6763,11 @@ She snorted, then immediately winced.
 
 We went inside.
 
-The truth, once examined, was that none of them—neither hers nor mine nor even the ones Celeste had sent along—answered any crucial questions. Too much pressure here. Too much seam there. Elastic with opinions. Lace completely oblivious of sensitive skin. Several garments apparently designed by people who believed women’s bodies didn't really expect comfort anywhere below the navel and that decoration was far more important.
+The truth, once examined, was that none of them — neither hers nor mine nor even the ones Celeste had sent along — answered any crucial questions. Too much pressure here. Too much seam there. Elastic with opinions. Lace completely oblivious of sensitive skin. Several garments apparently designed by people who believed women’s bodies didn't really expect comfort anywhere below the navel and that decoration was far more important.
 
 And then, Charlotte' face changed. 
 
-She peeled off the shorts she had slept in, moving with the careful dignity of someone negotiating with gravity. A quick rummage in the suitcase produced an ancient pair of three-quarter leggings that had put in for retirement in Torquay but had somehow—mysteriously—come with us. 
+She peeled off the shorts she had slept in, moving with the careful dignity of someone negotiating with gravity. A quick rummage in the suitcase produced an ancient pair of three-quarter leggings that had put in for retirement in Torquay but had somehow — mysteriously — come with us. 
  
 She drew them on slowly, arranging the dressings underneath with the sort of concentration most people reserved for explosives.
 
@@ -6785,7 +6785,7 @@ Her eyebrows rose. “Need?”
 
 “Leave it with me.”
 
-“Brittany—”
+“Brittany — ”
 
 “Back in a tick.”
 
@@ -6828,7 +6828,7 @@ She missed it with the sort of longing that made recovery feel like exile.
 
 [ *Celeste* ]
 
-I didn't realise it was still snowing until the plane slowed on the runway. The landscape around Hobart was white, but it wasn't until snowflakes began sticking to the window after we'd landed that it delivered the weather report. It wasn’t a blizzard, of course—this is Hobart, after all—but it had the confidence of weather that decided to be memorable.
+I didn't realise it was still snowing until the plane slowed on the runway. The landscape around Hobart was white, but it wasn't until snowflakes began sticking to the window after we'd landed that it delivered the weather report. It wasn’t a blizzard, of course — this is Hobart, after all — but it had the confidence of weather that decided to be memorable.
 
 I felt the moist cold blowing through the cracks as we walked up the boarding ramp and wished I'd reconsidered my lace dress, which had seemed respectfully elegant in Torquay and idiotic the moment Tasmania touched it. Mara was sensibly dressed in an elegant pair of black slacks and cream cardigan under a puffy jacket I thought was a bit overkill until we marched up the ramp. Torquay got cold in the winter, but this was next-level.
 
@@ -6842,13 +6842,13 @@ We were greeted at the door by a slightly overweight young woman with a solemn f
 
 "Please come in. Let me show you to Miss Katya's room."
 
-She waved to an older gentleman who followed us with our luggage and led us past a spotless old-world kitchen—with only minimal concessions to modern conveniences—and an open door to an elegant sitting room. Our footfalls were slightly dampened by the thinnest of old red runner as we made our way down a long, wooden corridor to a door at the end.
+She waved to an older gentleman who followed us with our luggage and led us past a spotless old-world kitchen — with only minimal concessions to modern conveniences — and an open door to an elegant sitting room. Our footfalls were slightly dampened by the thinnest of old red runner as we made our way down a long, wooden corridor to a door at the end.
 
 She silently opened the door to a large bedroom, decorated with vases of flowers and expensive rugs and oil painting copies of the old masters. 
 
 In the middle of a large bed, a slight figure was beaming at Mara. Next to her, a man stood writing on a clipboard. He turned to us briefly.
 
-"Almost done—I'll just be a tick." He turned to the woman on the bed. "Please keep in mind that what we do during my visits is to set a path going forward. How quickly you heal is entirely up to you." She was nodding, pressing eyelids shut in that "yes, I get it" way I recognised. "Physio is only as effective as you make it."
+"Almost done — I'll just be a tick." He turned to the woman on the bed. "Please keep in mind that what we do during my visits is to set a path going forward. How quickly you heal is entirely up to you." She was nodding, pressing eyelids shut in that "yes, I get it" way I recognised. "Physio is only as effective as you make it."
 
 Her smile was beginning to lose its congeniality.
 
@@ -6864,7 +6864,7 @@ She opened her mouth as if to speak, then closed it in a strained smile.
 
 The solemn young woman accompanied him out of the room. Mara crinkled her nose.
 
-"His cologne is a bit—sharp."
+"His cologne is a bit — sharp."
 
 "What you're smelling is not cologne," the woman on the bed said with a grin.
 
@@ -6938,7 +6938,7 @@ Katya's eyes landed on me.
 
 After dinner, I excused myself and went back into the sitting room, choosing Laurence's chair. Dusk was fast approaching: the forest looked oddly lit up by the snow, making the ground look lighter than the sky. 
 
-As I flipped open my laptop, I discovered Katya's home did not have Wi-Fi—not because it could not, I suspected, but because Katya had forbidden it. I broke out my phone to tether my laptop and saw it was still in 'Airplane' mode. 
+As I flipped open my laptop, I discovered Katya's home did not have Wi-Fi — not because it could not, I suspected, but because Katya had forbidden it. I broke out my phone to tether my laptop and saw it was still in 'Airplane' mode. 
 
 I switched it off, but before I could complete the tether, a message appeared.
 
@@ -6980,7 +6980,7 @@ The room was silent except for the ticking of the grandfather clock, deep in dar
 
 Mara nodded.
 
-"We have all changed, Celeste. Including you. And—even me."
+"We have all changed, Celeste. Including you. And — even me."
 
 I looked out the window. The ticking seemed deafening.
 
@@ -7012,7 +7012,7 @@ The fire shifted in the grate.
 
 “Yes.”
 
-“And I’m—”
+“And I’m — ”
 
 “Celeste.”
 
@@ -7148,7 +7148,7 @@ I swallowed.
 
 *Mum*.
 
-I slowly sat back with a wince—the left cheek was aching from having to do the work of two—then carefully moved to the centre of the seat, still feeling Brittany's eyes on me.
+I slowly sat back with a wince — the left cheek was aching from having to do the work of two — then carefully moved to the centre of the seat, still feeling Brittany's eyes on me.
 
 "A bit sore, hey? Look, you can have something now. I saved you some water."
 
@@ -7160,7 +7160,7 @@ I pulled my face into what I hoped said thanks.
 
 I swallowed tablets and water, eyes focused outside the window. Clouds flitted past. At times, I could make out low hills bordered by grey patches of barren trees, partly hidden by fog.
 
-I swallowed harder—one tablet didn't want to go down .
+I swallowed harder — one tablet didn't want to go down .
 
 I seemed to see Celeste's face smiling at me. 
 
@@ -7170,7 +7170,7 @@ I turned. A flight attendant was pointing at my waist.
 
 "You'll need to do it up properly. Sorry."
 
-I pulled at the strap slowly—carefully—biting my lip.
+I pulled at the strap slowly — carefully — biting my lip.
 
 The flight attendant's raised brows softened into a question.
 
@@ -7186,11 +7186,11 @@ The aircraft slowed further and the soft rumble grew a bit louder.
 
 *Mum.*
 
-My breath came out in a sigh—I remembered feeling her arms around me at the café, the sort of warm, tight hug that I'd never felt before from her. I thought of her eyes. My shoulders rose against the cold grasp of doubt.
+My breath came out in a sigh — I remembered feeling her arms around me at the café, the sort of warm, tight hug that I'd never felt before from her. I thought of her eyes. My shoulders rose against the cold grasp of doubt.
 
 How will Mum see me, now?
 
-The aircraft shuddered as gears ground underfoot. My stomach tensed—the familiar pain came, went, then came back sharper when a thunk announced the landing gear was down.
+The aircraft shuddered as gears ground underfoot. My stomach tensed — the familiar pain came, went, then came back sharper when a thunk announced the landing gear was down.
 
 I didn't want to look at Brittany and have her see me. 
 
@@ -7228,7 +7228,7 @@ An older woman stood in the aisle next to me, her hand firmly grasping the handl
 
 "Oh, sorry ma'am."
 
-The voice behind her was loud and male and clearly not Australian. She directed a brief smile—one that lacked sincerity—at him, then turned back to the front, her shoulders easing noticeably as the door of the aeroplane finally swung open. I could see her lips tighten as the voice's owner crowded in behind her. His aftershave—the sort that would have survived a foot race—seemed to invade the aircraft, lingering long after the man had left.
+The voice behind her was loud and male and clearly not Australian. She directed a brief smile — one that lacked sincerity — at him, then turned back to the front, her shoulders easing noticeably as the door of the aeroplane finally swung open. I could see her lips tighten as the voice's owner crowded in behind her. His aftershave — the sort that would have survived a foot race — seemed to invade the aircraft, lingering long after the man had left.
 
 I glanced back. The aisle was empty, so I carefully rose out of my seat. 
 
@@ -7319,7 +7319,7 @@ I put down the hairbrush and turned to face her. Care was there and concern. Con
 
 "But I really want to see the new Wardrobe."
 
-Celeste gave me that over-the-glasses look. How, I didn't know—she wasn't even wearing glasses.
+Celeste gave me that over-the-glasses look. How, I didn't know — she wasn't even wearing glasses.
 
 "You don't get extra womanhood points for pretending pain is an old friend."
 
@@ -7375,11 +7375,11 @@ Mara was switching on the steam press and lights as we entered. Her eyebrows ros
 
 "She insisted."
 
-Mara looked at me for a moment, then pointed at an old laptop—a MacBook—on the table beside my chair.
+Mara looked at me for a moment, then pointed at an old laptop — a MacBook — on the table beside my chair.
 
 “That’s the ledger now.”
 
-For one ridiculous second, I had looked for the book, the actual ledger—the heavy one, with its scuffed cover and corners soft from years of hands. Now, there was only the MacBook, open, charged, and waiting.
+For one ridiculous second, I had looked for the book, the actual ledger — the heavy one, with its scuffed cover and corners soft from years of hands. Now, there was only the MacBook, open, charged, and waiting.
 
 “We’re online,” Mara said. “Lauren needs access to the ledger from home. Celeste needs figures without asking three people where the book has wandered off to. Sarah checks orders before she cuts. Lisa has been keeping it breathing.”
 
@@ -7403,7 +7403,7 @@ Mum's lips pressed together and she shook her head slowly.
 
 "We're doing a half-day, Lauren," Celeste said, "with the option to cut it short if need be."
 
-Sarah looked from Celeste to Mum, then to me. And said nothing, which was telling—Sarah had always been good at picking up on anything I was trying to keep to myself.
+Sarah looked from Celeste to Mum, then to me. And said nothing, which was telling — Sarah had always been good at picking up on anything I was trying to keep to myself.
 
 The front door opened again and Lisa came in carrying a canvas satchel, a travel mug, and her usual expression of someone who was grateful to be there.
 
@@ -7441,7 +7441,7 @@ Mum gave a small laugh. Sarah leaned against the tearoom doorway with her arms f
 
 I sat motionless, looking at the screen.
 
-This digital ledger still functioned like Mara's leather-bound one did. But at the same time, it had grown a personality—one it could share. The main worksheet had new columns. Lisa had added a linked supplier sheet, an alterations queue, a delivery-risk column, and a short notes column that said things like: 'ask Mara before reordering' and 'check with Charlotte on this'.
+This digital ledger still functioned like Mara's leather-bound one did. But at the same time, it had grown a personality — one it could share. The main worksheet had new columns. Lisa had added a linked supplier sheet, an alterations queue, a delivery-risk column, and a short notes column that said things like: 'ask Mara before reordering' and 'check with Charlotte on this'.
 
 I stared at that note for longer than I meant to.
 
@@ -7463,7 +7463,7 @@ Lucy came in wearing the men's kit.
 
 With a swagger to match.
 
-She was in full costume—breeches, shirt, waistcoat, coat, stockings and buckled shoes—with the most outrageous strut I had ever seen on a human being who was still technically required to thread needles for a living. Her hair was tucked under a hat worn at an angle suggesting stolen horses, ill-gotten gains, and possibly unpaid parking fines.
+She was in full costume — breeches, shirt, waistcoat, coat, stockings and buckled shoes — with the most outrageous strut I had ever seen on a human being who was still technically required to thread needles for a living. Her hair was tucked under a hat worn at an angle suggesting stolen horses, ill-gotten gains, and possibly unpaid parking fines.
 
 Lucy stopped in the middle of the room and swept the hat from her head with a flourish.
 
@@ -7495,7 +7495,7 @@ Lucy turned to me, wounded.
 
 I looked at the coat. Then at Lucy. Then at the button, hanging by a thread.
 
-"It's a good look, Lucy—it totally suits you." I grimaced. "But it won't improve if you lose that button."
+"It's a good look, Lucy — it totally suits you." I grimaced. "But it won't improve if you lose that button."
 
 "Et tu, Brutus?"
 
@@ -7593,7 +7593,7 @@ Lucy put the hat back on and strode away with the wounded dignity of an offended
 
 The delivery truck arrived ten minutes later.
 
-I could feel its arrival as much as hear it—every capable woman in the building moved at the sound. That was the bit that hit hardest: how smoothly everything shifted into take-delivery mode.
+I could feel its arrival as much as hear it — every capable woman in the building moved at the sound. That was the bit that hit hardest: how smoothly everything shifted into take-delivery mode.
 
 Sarah went to the door. Mum took the invoice. Mara cleared the cutting table. Lisa opened the supplier tab and began checking numbers aloud. Lucy reappeared without the hat but still in the coat, because apparently a gentleman adventurer could be trusted with wool if properly supervised.
 
@@ -7764,7 +7764,7 @@ The timer on my phone announced it was time to turn the sausages.
 
 "Sounds lovely!" 
 
-From the kitchen I watched her remove her shoes. 'Mum shoes', she called them. Paired with mum jeans—or "Mom-jeans", as the Yanks would say—she was still somewhere between netball tournaments and teacher-association meetings and direct-to-boot stores pickups. She caught me looking and flashed me a smile.
+From the kitchen I watched her remove her shoes. 'Mum shoes', she called them. Paired with mum jeans — or "Mom-jeans", as the Yanks would say — she was still somewhere between netball tournaments and teacher-association meetings and direct-to-boot stores pickups. She caught me looking and flashed me a smile.
 
 She could still make my heart skip a beat.
 
@@ -7834,13 +7834,13 @@ Lauren raised her finger.
 
 Silence.
 
-I glanced at Lauren—she was staring at her plate, suddenly without words. Her smile had faded. I watched her face, which had gone suddenly soft. After a long moment, she sighed, her eyes seeking mine.
+I glanced at Lauren — she was staring at her plate, suddenly without words. Her smile had faded. I watched her face, which had gone suddenly soft. After a long moment, she sighed, her eyes seeking mine.
 
 "Sorry, just had this thought," she said. "I used to think I was protecting a gentle boy from a bruising world. At least I got the protecting bit right. Just not the noun."
 
 Lauren's smile was thin.
 
-"Did I ever tell you about this time—I think she was five, then—she asked me why I never wore nice things." Her look went far away and her voice followed. "Why didn't I see it then?"
+"Did I ever tell you about this time — I think she was five, then — she asked me why I never wore nice things." Her look went far away and her voice followed. "Why didn't I see it then?"
 
 I rose out of my chair, a growing tightness in my chest. I circled round Lauren's chair and wrapped my arms around her. She took in a deep breath and melted into me.
 
@@ -7866,7 +7866,7 @@ I kissed her cheek.
 
 "Any women in it?"
 
-"The women are the centrepiece—it's about the women, not the prospectors. They'll need proper clothing, not just pretty costumes. The whole kit," she added. "The director wants authenticity."
+"The women are the centrepiece — it's about the women, not the prospectors. They'll need proper clothing, not just pretty costumes. The whole kit," she added. "The director wants authenticity."
 
 "Sounds like the outfits will need to do more than what our Faire girls ask of theirs, then," I said, stacking her plate on top of mine. As I scraped leftovers into the compost bin, something occurred to me. "When is shooting starting?"
 
@@ -7888,7 +7888,7 @@ Lauren was staring at me, her glass poised but not raised.
 
 I watched Lauren's eyes widen, her glass of wine forgotten. As she listened, her hand went over her mouth.
 
-"Is—is she okay now?" she said.
+"Is — is she okay now?" she said.
 
 She seemed to shrink into the chair. She finally nodded and closed her eyes.
 
@@ -7900,7 +7900,7 @@ For a long time, neither of us spoke. A wind had come up and was making a neighb
 
 "Infection. She's in hospital, on a drip. She'll be fine, but—"
 
-I bit words in half and stared at the window. The wind blew the trees, and the light from the streetlamp flickered against the glass. I finally glanced over at Lauren—it suddenly felt hard to swallow. I took the glass off the table in front of her and poured the wine down the sink. I set the glass down slowly, and taking Lauren's hand led her to the couch.
+I bit words in half and stared at the window. The wind blew the trees, and the light from the streetlamp flickered against the glass. I finally glanced over at Lauren — it suddenly felt hard to swallow. I took the glass off the table in front of her and poured the wine down the sink. I set the glass down slowly, and taking Lauren's hand led her to the couch.
 
 I rocked and cradled her as her tears silently fell.
 
@@ -7955,7 +7955,7 @@ I shrugged.
 
 "That's not an answer." She sat up and faced me. "Any better than last night?"
 
-Memories of ED doctors asking permission to check my groin, the smell of my urine in a little plastic cup—that *awful* smell—and then, the needle, Celeste's serious eyes and at the end, the relief that it wasn't a surgical infection suddenly all came back. Annoying.
+Memories of ED doctors asking permission to check my groin, the smell of my urine in a little plastic cup — that *awful* smell — and then, the needle, Celeste's serious eyes and at the end, the relief that it wasn't a surgical infection suddenly all came back. Annoying.
 
 I nodded.
 
@@ -7963,7 +7963,7 @@ I nodded.
 
 "You said that last night on the way to the hospital."
 
-"I just— I don't want to make a big thing of it, Celeste."
+"I just —  I don't want to make a big thing of it, Celeste."
 
 "Silly girl, an infection is a big thing!"
 
@@ -7983,7 +7983,7 @@ I followed her into the kitchenette.
 
 She flicked on the kettle, then turned to face me. Her look had softened.
 
-"Wrong. This isn't about right or wrong." She dropped teabags into cups. Her brow creased momentarily. "You need to learn to share. Not just the nice things—everything."
+"Wrong. This isn't about right or wrong." She dropped teabags into cups. Her brow creased momentarily. "You need to learn to share. Not just the nice things — everything."
 
 "But I don't want to be a complainer, Celeste," I said.
 
@@ -7999,7 +7999,7 @@ Her lips parted, about to speak, when her phone rang. Outside, the whining diese
 
 I rocked to one side with a frustrated grunt as I took the phone from her.
 
-Mum sounded the way she always did when I got sick—an even mixture of worry and hard-decision making.
+Mum sounded the way she always did when I got sick — an even mixture of worry and hard-decision making.
 
 “How are you feeling this morning, Charlotte?”
 
@@ -8059,7 +8059,7 @@ I glanced at Celeste. She'd settled into a chair, pressing her lips with the sid
 
 "I need more than a 'yes, Mum' from you, Charlotte," the voice on the phone said in that tone that always made my back stiffen, "promise me: no more little secrets when you don't feel right."
 
-"Yes Mum... I mean— I promise."
+"Yes Mum... I mean —  I promise."
 
 I heard Sarah's voice in the background.
 
@@ -8077,7 +8077,7 @@ They were bigger than Wardrobe.
 
 I wasn't sorting pins.
 
-"You need to stop thinking you still need to prove yourself. It's just not a thing, Charlotte, and it gets you into trouble," Mum said, her voice at that quiet level when her words were to be taken as canon. "Just— stop."
+"You need to stop thinking you still need to prove yourself. It's just not a thing, Charlotte, and it gets you into trouble," Mum said, her voice at that quiet level when her words were to be taken as canon. "Just —  stop."
 
 "It's exhausting." Sarah's voice was louder.
 
@@ -8109,7 +8109,7 @@ It was the prettiest garment in my wardrobe. Celeste's lips curled up as I slipp
 
 "Because you're soon going to be in situations where how you look counts." She pursed her lips. "Look smart, be smart."
 
-As I was finished brushing my teeth—mostly to rid myself of that 'snacking-on-thumbtacks' taste—Celeste handed me a new lipstick in a colour expecting a bit of bravery. I frowned at it for a moment.
+As I was finished brushing my teeth — mostly to rid myself of that 'snacking-on-thumbtacks' taste — Celeste handed me a new lipstick in a colour expecting a bit of bravery. I frowned at it for a moment.
 
 "We're going for coffee."
 
@@ -8117,7 +8117,7 @@ As I was finished brushing my teeth—mostly to rid myself of that 'snacking-on-
 
 I applied it the best I knew how, then glanced at Celeste. She was biting her lip. I sighed.
 
-"So, this is the fun bit," she said. "You look— okay. We'll do refinements later."
+"So, this is the fun bit," she said. "You look —  okay. We'll do refinements later."
 
 "How long will we be out?"
 
@@ -8139,7 +8139,7 @@ The turn indicator clicked, and we rocked slightly as the car moved forward.
 
 "Yes, it says you don't trust us. Like, your mum, for example."
 
-The road in front of us faded—I could only see Celeste's eyes last night.
+The road in front of us faded — I could only see Celeste's eyes last night.
 
 "And you, I guess." 
 
@@ -8171,7 +8171,7 @@ We slowed as I turned on the indicator.
 
 "I hope you get I'm not trying to guilt you, Charlotte."
 
-The car rolled to a stop next to an elderly couple walking their Pekingese. The streets were almost empty—the café did not seem that busy, either.
+The car rolled to a stop next to an elderly couple walking their Pekingese. The streets were almost empty — the café did not seem that busy, either.
 
 I looked at Charlotte again.
 
@@ -8185,7 +8185,7 @@ I turned off the engine.
 
 Charlotte's gaze was fixed on the café, its awning flapping nervously in the brisk wind.
 
-"I— I'm not sure."
+"I —  I'm not sure."
 
 Her lips pressed together again, the umpteenth time since getting in the car. It was not a serious press, or a determined press, but more like a sliding "what is this on my lips" press. Her shoulders had curled forward, her chin tucked in.
 
@@ -8195,7 +8195,7 @@ She gave me a fleeting, sidelong glance.
 
 "You okay?" I asked. Her quick nod was unconvincing.
 
-I opened the door—and heard her voice, soft yet urgent:
+I opened the door — and heard her voice, soft yet urgent:
 
 "Celeste—"
 
@@ -8285,7 +8285,7 @@ The man turned the phone back to himself and beamed at the screen.
 
 "Four years, mate."
 
-I glanced at Charlotte—she was looking at me now and her shoulders had visibly eased. She took a first sip of her flat white, twisting a tendril in her fingers. Her eyes flicked to the workmen; their attention, however, was completely on the topic of ballet and daughters, not our table.
+I glanced at Charlotte — she was looking at me now and her shoulders had visibly eased. She took a first sip of her flat white, twisting a tendril in her fingers. Her eyes flicked to the workmen; their attention, however, was completely on the topic of ballet and daughters, not our table.
 
 "What have I got wrong, Celeste?" 
 
@@ -8394,7 +8394,7 @@ My eyes were fixed on my cup. We sat in silence for a moment.
 
 She nodded, lips squeezed tightly.
 
-"It's just— no one else in the world could possibly help me understand what to do," she said.
+"It's just —  no one else in the world could possibly help me understand what to do," she said.
 
 I waited.
 
@@ -8468,7 +8468,7 @@ I tipped my head.
 
 I turned my cup in my hands, feeling comfort from its warmth. 
 
-I thought of a small child — my darling, the one I adored —  sorting, arranging, tidying.  
+I thought of a small child — my darling, the one I adored — sorting, arranging, tidying.  
 Following me around, watching me.  
 So keen to do things I did.  
 So eager to learn how to sew.  
@@ -8540,7 +8540,7 @@ She rose and thoughtfully picked up our cups.
 
 I looked up at her.
 
-"Charlotte must think you've— arrived," I said.
+"Charlotte must think you've  —   arrived," I said.
 
 "Yeah."
 
