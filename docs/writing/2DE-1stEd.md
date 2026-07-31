@@ -10,7 +10,6 @@
 
 
 
-
 ## Scene 1
 
 
@@ -197,7 +196,7 @@ Just then, Sarah's phone pinged. She glanced down at it and grinned.
 ## Scene 2
 
 <!--
-[![Img][Sy00]{ .artR width="460" }][Sy00]
+[![Img][Sy02]{ .artR width="460" }][Sy02]
 /-->
 
 ### 💞 Weak Rails 🫧
@@ -672,7 +671,7 @@ Her smile softened, then she tucked it away and reached for the sleeve of the co
 ## Scene 4
 
 <!--
-[![Img][Sy00]{ .artR width="460" }][Sy00]
+[![Img][Sy04]{ .artR width="460" }][Sy04]
 /-->
 
 ### 🛋 Your Choice 🛋
@@ -796,7 +795,7 @@ My eyes stung, suddenly.
 ## Scene 5
 
 <!--
-[![Img][Sy00]{ .artR width="460" }][Sy00]
+[![Img][Sy05]{ .artR width="460" }][Sy05]
 /-->
 
 ### 🍹 Pub Call 🍹
@@ -1010,7 +1009,7 @@ She'd seen.
 ## Scene 6
 
 <!--
-[![Img][Sy00]{ .artR width="460" }][Sy00]
+[![Img][Sy06]{ .artR width="460" }][Sy06]
 /-->
 
 ### 🥐 Over a Croissant 🥐
@@ -1297,7 +1296,7 @@ Brittany held my gaze. “Okay,” she said softly.
 ## Scene 7
 
 <!--
-[![Img][Sy00]{ .artR width="460" }][Sy00]
+[![Img][Sy07]{ .artR width="460" }][Sy07]
 /-->
 
 ### 👗 Rules for Everything 👗
@@ -1736,7 +1735,7 @@ Her smile was tinged with serene pity.
 ## Scene 8
 
 <!--
-[![Img][Sy00]{ .artR width="460" }][Sy00]
+[![Img][Sy08]{ .artR width="460" }][Sy08]
 /-->
 
 ### 🏊‍♀️Diving In 🏊‍♀️
@@ -1993,7 +1992,7 @@ I didn't have to ask what she meant.
 ## Scene 9
 
 <!--
-[![Img][Sy00]{ .artR width="460" }][Sy00]
+[![Img][Sy09]{ .artR width="460" }][Sy09]
 /-->
 
 ### 👩‍🍼 Pitter-Patter 👩‍🍼
@@ -2425,7 +2424,7 @@ They had simply begun behaving as though I might be.
 ## Scene 11
 
 <!--
-[![Img][Sy10]{ .artR width="460" }][Sy10]
+[![Img][Sy11]{ .artR width="460" }][Sy11]
 /-->
 
 ### ꧁ Lacings ꧁
@@ -2642,7 +2641,7 @@ I turned to Fiona.
 ## Scene 12
 
 <!--
-[![Img][Sy10]{ .artR width="460" }][Sy10]
+[![Img][Sy12]{ .artR width="460" }][Sy12]
 /-->
 
 ### 🌸 🌺 Polyester 🌷 🌸 
@@ -2873,7 +2872,7 @@ It was polyester.
 ## Scene 13
 
 <!--
-[![Img][Sy10]{ .artR width="460" }][Sy10]
+[![Img][Sy13]{ .artR width="460" }][Sy13]
 /-->
 
 ### 📒 Sometimes You Have To 🛋
@@ -3058,7 +3057,7 @@ A woman—one who could say no.
 ## Scene 14
 
 <!--
-[![Img][Sy10]{ .artR width="460" }][Sy10]
+[![Img][Sy14]{ .artR width="460" }][Sy14]
 /-->
 
 ### 🌸 🌺 I Knew 🌷 🌸
@@ -3533,7 +3532,7 @@ When the key in the lock to our little apartment finally turned and I entered ou
 ## Scene 16
 
 <!--
-[![Img][Sy10]{ .artR width="460" }][Sy10]
+[![Img][Sy16]{ .artR width="460" }][Sy16]
 /-->
 
 ### 🃏 Testing Physics 👭
@@ -4016,7 +4015,7 @@ Maybe it was where things told the truth.
 ## Scene 17
 
 <!--
-[![Img][Sy10]{ .artR width="460" }][Sy10]
+[![Img][Sy17]{ .artR width="460" }][Sy17]
 /-->
 
 ###  "Dad."
@@ -4247,7 +4246,7 @@ She spoke.
 ## Scene 18
 
 <!--
-[![Img][Sy10]{ .artR width="460" }][Sy10]
+[![Img][Sy18]{ .artR width="460" }][Sy18]
 /-->
 
 ### 🍂🍁 The Cost of Being Right 🌷🌹
@@ -4424,7 +4423,7 @@ Celeste was here.
 ## Scene 19
 
 <!--
-[![Img][Sy10]{ .artR width="460" }][Sy10]
+[![Img][Sy19]{ .artR width="460" }][Sy19]
 /-->
 
 ### 🌺 Being Right 🌷
@@ -4854,7 +4853,7 @@ The words still had a long way to travel.
 ## Scene 21
 
 <!--
-[![Img][Sy20]{ .artR width="460" }][Sy20]
+[![Img][Sy21]{ .artR width="460" }][Sy21]
 /-->
 
 ### 🌷 The Fourth Rung 🌺
@@ -5199,14 +5198,12 @@ I felt her nod.
 ## Scene 22
 
 <!--
-[![Img][Sy20]{ .artR width="460" }][Sy20]
+[![Img][Sy22]{ .artR width="460" }][Sy22]
 /-->
 
 ### 🥧 Want to Know Why 🍒
 
 [ *Celeste* ]
-
-[ Celeste ]
 
 The unmistakable aroma of shepherd's pie eased something in my shoulders as I pushed the door open. The hinge complained and I reminded myself to give it a bit of attention that weekend.
 
@@ -5413,10 +5410,10 @@ Apart from the pounding in my ears.
 ## Scene 23
 
 <!--
-[![Img][Sy20]{ .artR width="460" }][Sy20]
+[![Img][Sy23]{ .artR width="460" }][Sy23]
 /-->
 
-💧 The Truth Is in How It Deforms 🩸
+### 💧 The Truth Is in How It Deforms 🩸
  
 [ *Charlotte* ]
 
@@ -5758,12 +5755,12 @@ All I could feel was Mum’s warm hug.
 ## Scene 24
 
 <!--
-[![Img][Sy20]{ .artR width="460" }][Sy20]
+[![Img][Sy24]{ .artR width="460" }][Sy24]
 /-->
 
-🩸 Quiet 💧
+### 🩸 Quiet 💧
  
-[ Celeste ]
+[ *Celeste* ]
 
 We had to turn back twice.
 
@@ -6015,12 +6012,12 @@ A quiet path.
 ## Scene 25
 
 <!--
-[![Img][Sy20]{ .artR width="460" }][Sy20]
+[![Img][Sy25]{ .artR width="460" }][Sy25]
 /-->
 
-👭 The Mirror 💛
+### 👭 The Mirror 💛
 
-[ Charlotte ]
+[ *Charlotte* ]
 
 I excused myself because my body had chosen that moment to become practical.
 
@@ -6320,12 +6317,12 @@ They were open.
 ## Scene 26
 
 <!--
-[![Img][Sy20]{ .artR width="460" }][Sy20]
+[![Img][Sy26]{ .artR width="460" }][Sy26]
 /-->
 
-🧵 Thursday 📒
+### 🧵 Thursday 📒
 
-[ Charlotte ]
+[ *Charlotte* ]
 
 The morning sky promised a bland spring day: chilly at first, but otherwise just the usual.
 
@@ -6611,12 +6608,12 @@ Because the roof had not fallen in when I moved my hand from the beam.
 ## Scene 27
 
 <!--
-[![Img][Sy20]{ .artR width="460" }][Sy20]
+[![Img][Sy27]{ .artR width="460" }][Sy27]
 /-->
 
-🪡  A Wholeness in Herself 💎
+### 🪡  A Wholeness in Herself 💎
 
-[ Brittany ]
+[ *Brittany* ]
 
 I was on the veranda before the day had quite decided what it wanted to become. The over-eager aircon got the best of me. Aircon in Thailand seemed to have missed its calling: it should have been cooling the walk-in fridge at the bottle-o.
 
@@ -6824,12 +6821,12 @@ She missed it with the sort of longing that made recovery feel like exile.
 ## Scene 28
 
 <!--
-[![Img][Sy20]{ .artR width="460" }][Sy20]
+[![Img][Sy28]{ .artR width="460" }][Sy28]
 /-->
 
-🧤 Care Spoke 🧣
+### 🧤 Care Spoke 🧣
 
-[ Celeste ]
+[ *Celeste* ]
 
 I didn't realise it was still snowing until the plane slowed on the runway. The landscape around Hobart was white, but it wasn't until snowflakes began sticking to the window after we'd landed that it delivered the weather report. It wasn’t a blizzard, of course—this is Hobart, after all—but it had the confidence of weather that decided to be memorable.
 
@@ -6937,7 +6934,7 @@ Katya's eyes landed on me.
 
 "Have either of you eaten?"
 
----
+<hr class="section-break soft" />
 
 After dinner, I excused myself and went back into the sitting room, choosing Laurence's chair. Dusk was fast approaching: the forest looked oddly lit up by the snow, making the ground look lighter than the sky. 
 
@@ -7063,12 +7060,12 @@ A log in the stone fireplace fell deeper into the grate, sending sparks onto the
 ## Scene 29
 
 <!--
-[![Img][Sy20]{ .artR width="460" }][Sy20]
+[![Img][Sy29]{ .artR width="460" }][Sy29]
 /-->
 
-✈️ Melbourne International Waiting Hall ✈️ 
+### ✈️ Melbourne International Waiting Hall ✈️ 
  
-[ Celeste ]
+[ *Celeste* ]
 
 She stood with her back to me, facing the doors.
 
@@ -7130,13 +7127,12 @@ And I, to her.
 ## Scene 30
 
 <!--
-[![Img][Sy20]{ .artR width="460" }][Sy20]
+[![Img][Sy30]{ .artR width="460" }][Sy30]
 /-->
 
-🛬 Homecoming 🪡
+### 🛬 Homecoming 🪡
 
-
-[ Charlotte ]
+[ *Charlotte* ]
 
 I awoke with a start. The world had changed: it was tilting downward now. The rumble of the engines was quieter, as if to reassure everyone that we were almost there. I wiggled my toes, then my feet, and glanced to my left. Brittany was grinning at me.
 
@@ -7148,9 +7144,9 @@ She tucked her shoulders in, trying not to giggle.
 
 I swallowed.
 
-Celeste.
+*Celeste*.
 
-Mum.
+*Mum*.
 
 I slowly sat back with a wince—the left cheek was aching from having to do the work of two—then carefully moved to the centre of the seat, still feeling Brittany's eyes on me.
 
@@ -7304,13 +7300,12 @@ I didn't have to be brave anymore.
 ## Scene 31
 
 <!--
-[![Img][Sy20]{ .artR width="460" }][Sy20]
+[![Img][Sy31]{ .artR width="460" }][Sy31]
 /-->
 
-📒 She Insisted 💻
- 
+### 📒 She Insisted 💻
 
-[ Charlotte ]
+[ *Charlotte* ]
 
 I had just finished sticking the last pin behind my head, and was thinking my hair needed something pins can't fix, when Celeste appeared in the mirror wearing a question mark.
 
@@ -7744,13 +7739,12 @@ I just nodded.
 ## Scene 32
 
 <!--
-[![Img][Sy20]{ .artR width="460" }][Sy20]
+[![Img][Sy32]{ .artR width="460" }][Sy32]
 /-->
 
-🩸 Just Not The Noun 💧
+### 🩸 Just Not The Noun 💧
 
-
-[ Sarah ]
+[ *Sarah* ]
 
 When Lauren's keys hit the bowl at the entryway, I felt far too much relief. And, annoyance for feeling relieved. 
 
@@ -7926,10 +7920,12 @@ It didn't have any answers, either.
 ## Scene 33
 
 <!--
-[![Img][Sy20]{ .artR width="460" }][Sy20]
+[![Img][Sy33]{ .artR width="460" }][Sy33]
 /-->
 
 ### 🩸 It's Different Now 💧
+
+[ *Charlotte* ]
 
 I woke with a start. Someone had kicked me.
 
@@ -8159,9 +8155,9 @@ The road in front of us faded—I could only see Celeste's eyes last night.
 
 ## Scene 34
 
-<!--
-[![Img][Sy20]{ .artR width="460" }][Sy20]
-/-->
+
+[![Img][Sy34]{ .artR width="460" }][Sy34]
+
 
 ### 🪜 ...How To Be  ☕
 
@@ -8360,9 +8356,9 @@ There was a long silence.
 
 ## Scene 35
 
-<!--
-[![Img][Sy20]{ .artR width="460" }][Sy20]
-/-->
+
+[![Img][Sy35]{ .artR width="460" }][Sy35]
+
 
 ### 💞 No New Tasks 💞
 
@@ -8605,5 +8601,16 @@ I took my keys out of my purse.
 [Sy23]: ../assets/images/story/DScene23a.jpg
 [Sy24]: ../assets/images/story/DScene24a.jpg
 [Sy25]: ../assets/images/story/DScene25a.jpg
+[Sy26]: ../assets/images/story/DScene06a.jpg
+[Sy27]: ../assets/images/story/DScene07a.jpg
+[Sy28]: ../assets/images/story/DScene08a.jpg
+[Sy29]: ../assets/images/story/DScene09a.jpg
+[Sy30]: ../assets/images/story/DScene10a.jpg
+[Sy31]: ../assets/images/story/DScene11a.jpg
+[Sy32]: ../assets/images/story/DScene12a.jpg
+[Sy33]: ../assets/images/story/DScene13a.jpg
+[Sy34]: ../assets/images/story/DScene14a.jpg
+[Sy35]: ../assets/images/story/DScene15a.jpg
+
 
 <!--            Image Links             /-->
