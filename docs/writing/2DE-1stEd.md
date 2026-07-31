@@ -2875,7 +2875,7 @@ It was polyester.
 [![Img][Sy13]{ .artR width="460" }][Sy13]
 /-->
 
-### 📒 Sometimes You Have To 🛋
+### 📒 Sometimes You Have To
 
 [ *Charlotte* ]
 
@@ -4249,7 +4249,7 @@ She spoke.
 [![Img][Sy18]{ .artR width="460" }][Sy18]
 /-->
 
-### 🍂🍁 The Cost of Being Right 🌷🌹
+### 🍁The Cost of Being Right🌷
 
 [ *Charlotte* ]
 
@@ -5413,7 +5413,7 @@ Apart from the pounding in my ears.
 [![Img][Sy23]{ .artR width="460" }][Sy23]
 
 
-### 💧 The Truth Is in How It Deforms 🩸
+### 💧Truth in How It Deforms🩸
  
 [ *Charlotte* ]
 
@@ -6611,7 +6611,7 @@ Because the roof had not fallen in when I moved my hand from the beam.
 [![Img][Sy27]{ .artR width="460" }][Sy27]
 /-->
 
-### 🪡  A Wholeness in Herself 💎
+### 🪡Wholeness in Herself💎
 
 [ *Brittany* ]
 
@@ -7063,7 +7063,7 @@ A log in the stone fireplace fell deeper into the grate, sending sparks onto the
 [![Img][Sy29]{ .artR width="460" }][Sy29]
 /-->
 
-### ✈️ Melbourne International Waiting Hall ✈️ 
+### ✈️Melbourne Int'l Waiting Hall
  
 [ *Celeste* ]
 
@@ -8155,9 +8155,9 @@ The road in front of us faded — I could only see Celeste's eyes last night.
 
 ## Scene 34
 
-
+<!--
 [![Img][Sy34]{ .artR width="460" }][Sy34]
-
+-->
 
 ### 🪜 ...How To Be  ☕
 
