@@ -1295,9 +1295,9 @@ Brittany held my gaze. “Okay,” she said softly.
 
 ## Scene 7
 
-<!--
+
 [![Img][Sy07]{ .artR width="460" }][Sy07]
-/-->
+
 
 ### 👗 Rules for Everything 👗
  
@@ -1421,7 +1421,7 @@ Did I really have to explain this?
 
 “Charlotte, there isn’t a girl alive who hasn’t used that excuse, whether it was true or not. Just go with it.”
 
- 
+---
 
 A familiar strain slid into my shoulders as we walked into the air-conditioned mall. I glanced at Brittany: she looked as though she'd already made several key decisions. Her mouth had that firm set to it. 
 
@@ -6820,9 +6820,9 @@ She missed it with the sort of longing that made recovery feel like exile.
 
 ## Scene 28
 
-<!--
+
 [![Img][Sy28]{ .artR width="460" }][Sy28]
-/-->
+
 
 ### 🧤 Care Spoke 🧣
 
