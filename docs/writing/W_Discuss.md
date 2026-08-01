@@ -10,10 +10,15 @@
 
 ## Intro
 
+[![Me][St00]{ .artL width="260" }][St00]
+
 [ Me ]
 
 Hi Emily. Scene Thirty-Five is published. I'm happy that for now, it meets standards I've set for myself in terms of story arc, cohesiveness, readability, minimal cognitive load and, to some degree, character consistency, although the latter may still want a bit of review.
-I'm now going to go back and review — and mercilessly edit — 'Celeste's Girl'. I've already addressed the first 3 chapters: "Are You Lost", "Group Task" and "Wardrobe". I'm not completely happy with "Wardrobe", however: I think, for one, it's a bit long. "Group Task" is, after severe culling, 1285 words. "Wardrobe" has 3436. True, we're establishing Mara's and Graham's character, but 3 times as long? I think I can trim it a bit.
+
+I'm now going to go back and review — and mercilessly edit — 'Celeste's Girl'. I've already addressed the first 3 chapters: "Are You Lost", "Group Task" and "Wardrobe". 
+
+I'm not completely happy with "Wardrobe", however: I think, for one, it's a bit long. "Group Task" is, after severe culling, 1285 words. "Wardrobe" has 3436. True, we're establishing Mara's and Graham's character, but 3 times as long? I think I can trim it a bit.
 
 <hr class="section-break strong" />
 
@@ -23,6 +28,8 @@ I'm now going to go back and review — and mercilessly edit — 'Celeste's Girl
 
 
 ## Initial Thoughts
+
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -127,7 +134,11 @@ I'm genuinely looking forward to watching you dissect it. Based on the evolution
     
 
 
+
+
 ## The Sections Approach
+
+[![Me][St00]{ .artL width="260" }][St00]
 
 [ Me ]
 
@@ -155,6 +166,8 @@ Those aspects are not explained well. But I'm not going to flesh those out in ex
 
 
 ## Section Discussion
+
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -243,7 +256,7 @@ A year ago, I suspect your instinct would have been to add a paragraph explainin
 
 [Br01]: ../assets/images/base/Bnr02a.jpg
 [St00]: ../assets/images/base/00Writer.jpg
-
+[Ts00]: ../assets/images/base/00Emily.jpg
 [Sta1]: ../assets/images/base/01aKaimu.jpg
 [Stb1]: ../assets/images/base/01vRead.jpg
 [Stc1]: ../assets/images/base/01cActress.jpg
@@ -259,6 +272,7 @@ A year ago, I suspect your instinct would have been to add a paragraph explainin
 [St09]: ../assets/images/base/09aParis.jpg
 [St10]: ../assets/images/base/10montvl.jpg
 
+<!--
 Brilee
 Teresa
 Zoe
@@ -266,7 +280,6 @@ Theo
 
 <hr class="section-break strong" />
 
-<!--
 Gerald Finzi - Three Soliloquies from "Love's Labours Lost"
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧👢✨…
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  —
