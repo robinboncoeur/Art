@@ -428,47 +428,39 @@ I could feel him watching me walk away.
 
 Wardrobe had its own weather.
 
-Outside weather — sun or rain — could change, but Wardrobe's was a constant, indoor climate of steam and cloth-dust and warmed metal. The air tasted faintly of detergent and starch and something older that lived in wool no matter how many times you cleaned it: sheep, lanolin, history.
+Outside weather — sun or rain — could change, but Wardrobe's was a constant climate of steam and cloth-dust and warmed metal. The air tasted faintly of detergent and starch and something older that lived in wool no matter how many times you cleaned it: sheep, lanolin, history.
 
-The room itself was a maze of rails and racks, garment bags whispering against each other whenever someone brushed past. Stacked crates were stencilled with Mara’s handwriting — blunt, efficient strokes of someone who labelled everything because she didn’t like losing time to idiots. A long trestle table ran down the centre like an altar, currently piled with a half-dressed mannequin and a skirt turned inside-out, hemline pinned up like a patient on a hospital bed.
+Wardrobe was a maze of rails and racks, garment bags whispering against each other whenever someone brushed past. Stacked crates carried Mara’s handwriting — blunt lettering of someone who preferred labels to archaeologists. A long trestle table ran down the centre, with a half-dressed mannequin and a skirt turned inside-out, hemline pinned for repair.
 
-Mara stood over it with her chin tucked, a bodice in her hands, and the look she wore when something had disappointed her. Which was most things.
+At the table stood Mara, staring with a slight frown at a bodice in her hands. She turned the bodice over and tapped the seam.
 
-“Hang on. What’s this?” she said, without looking up.
+“What’s this?” she said quietly. Mara never raised her voice — she didn’t need to.
 
-I froze with a hanger halfway to a rail. Mara never raised her voice — she didn’t need to. Her authority lived in the fact that she expected you to obey and had no interest in negotiating about it. She turned the bodice over and jabbed a fingertip at a seam.
+“Who did this?”
 
-“This. Who did this?”
+I left the rail and moved closer, careful not to trip over the steamer hose that snaked across the floor. Mara’s gaze flicked to me, her mouth tightening as she pinched the fabric and tugged. The seam puckered like a forced smile. 
 
-I moved closer, careful not to bump the steamer hose that snaked across the floor like a sleeping python. “Which one?”
+“Whoever did this sewed with fear.”
 
-Mara’s gaze flicked to me, her mouth tightening. 
-
-*Don’t be clever*. 
-
-She pinched the fabric and tugged. The seam puckered like a forced smile. “Whoever did this sewed with fear.”
-
-I leaned in: the stitches were tight, too tight, as if someone had been trying to prove something with needle and thread.
+The stitches were tight, too tight. Someone had been trying to prove something with needle and thread.
 
 “They were probably worried it wouldn’t hold.”
 
-Mara snorted. “It won’t hold because they were worried. That’s the irony.” She flipped the bodice again and thrust it at me. “Unpick it. Do it properly. Not fast. Properly.”
+“It won’t hold because they were worried," Mara snorted. "That’s the irony.” 
 
-Mara was not warm, but honest in the way that mattered: she treated workmanship as a form of respect. If she corrected you, it meant she thought you were worth the effort.
+She flipped the bodice again and thrust it at me. 
 
-I took the bodice, feeling the weight of it — the underlining, the interlining, the bones that gave it a spine. The kind of garment that made you understand, viscerally, why women in paintings stood the way they did. I carried it to the end of the table, sat, and began to unpick the seam with the seam ripper. Mara insisted it was called a *lame*. 
+“Unpick it. Do it properly, not fast. Properly.”
 
-”Because,” she said, ”if you worked in costume long enough you ended up sounding like you were auditioning for a museum.”
+I took the bodice, feeling the weight of it — the underlining, the interlining, the bones that gave it a spine. The kind of garment that made you understand, viscerally, why women in paintings stood the way they did. I carried it to the end of the table, sat, and began to unpick the seam with a seam ripper.
 
 I liked Wardrobe because it wasn’t school. 
 
-School rewarded performance. You threw hands up, shouted answers, and wore confidence like an ill-fitting costume. 
-
-Wardrobe rewarded something quieter: attention, patience, care. You could be brilliant here without the marketing.
+School rewarded performance. You threw hands up, shouted answers, and wore confidence like an ill-fitting costume. Wardrobe rewarded something quieter: attention, patience, care. You could be brilliant here without the marketing.
 
 I worked for a few minutes, the thread finally giving way with soft little snaps. 
 
-Mara’s voice cut across the room again.
+Mara’s voice cut across the room.
 
 “Did you bring the inventory sheet?”
 
@@ -478,375 +470,283 @@ Mara’s voice cut across the room again.
 
 “Yes.”
 
-“Are you lying?”
-
-“No.”
-
-Mara’s mouth twitched. She moved around the room, checking rails, touching fabric, straightening labels. Mara had a way of handling garments with a sort of reverence for construction.
+Mara’s mouth twitched. She moved around the room, checking rails, touching fabric, straightening labels.
 
 “You’re late for your break.”
 
-“I’m not hungry,” I replied, automatically.
+“I’m not hungry.”
 
-Mara went still. “That’s not the point.”
+Mara turned to me.
 
-I paused with the seam ripper. “What is the point, then?”
+“That’s not the point.”
 
-“The point is,” she said, “a future isn’t built on fumes. You burn out and then you’re useful to no one, including yourself.”
+“What is the point, then?”
 
-Mara’s bluntness was her kindness, a preventative maintenance.
+“It's this,” she said, “a future isn’t built on fumes. You burn out and then you’re useful to no one, including yourself.”
 
-I set the bodice down, let out a small breath. “Fine. Ten minutes.”
+I let out a small breath and set the bodice down.
 
-Mara waved a hand, as if she’d won a pointless argument. “Good girl.”
+“Fine. Ten minutes.”
 
-Mara used language like a tool: dry, functional, occasionally barbed. If she called you “good girl,” it was an honest appraisal. I stood, stretched my shoulders, and headed toward the tiny kitchenette. It barely deserved the name: a bench, a sink, a kettle, and a jar of instant coffee that tasted like burnt regret.
+“Good girl.”
+
+I stretched my shoulders and headed toward the tiny kitchenette. It barely deserved the name: a bench, a sink, a kettle, and a jar of instant coffee that tasted like burnt regret.
 
 I’d just filled the kettle when the door to Wardrobe banged open.
 
-It wasn’t Mara — Mara never banged doors. Mara glided, as if on ice.
+  
 
-This entrance had force.
+A man in a hi-vis vest and work boots stepped into the doorway as if he’d decided the room was his and he was taking possession. He wore a cap that had seen better days, and a face that looked permanently sunburnt. His mouth wore that  slightly annoyed grimace outdoors men reserve for indoor occupations.
 
-A man in a hi-vis vest and work boots stepped into the doorway as if he’d been told the room was his and he was taking possession. He wore a cap that had seen better days, and a face that looked permanently sunburnt. His expression was that of an outdoors man slightly annoyed by all indoor occupations.
+“Far-out,” he said, eyes flicking over the room. “It’s like walking into a bloody op-shop in here.”
 
-“Far-out,” he said, eyes flicking over the room. “It’s like walking into a bloody op shop in here.”
-
-Mara turned very slowly. The look she gave him could have stripped paint.
+Mara turned slowly.
 
 “Graham.”
 
-He grinned, unbothered. He had the easy confidence of someone accustomed to taking up more space than needed.
+He grinned at her with that easy confidence of someone cheerfully taking up space even if not entirely welcome.
 
-“Mara,” he replied, like they were old enemies in a war where neither side had ever surrendered. His gaze slid past her and caught me. “Oh. It’s you. Fancy seeing you outside school.”
+“Mara.” His gaze slid past her and caught me. “Oh. It’s you. Fancy seeing you outside school.”
 
 I raised my eyebrows. “It’s almost like I work here.”
 
-“Yeah, yeah.” Quick wave, and he turned to Mara. “Need you to sign off on the replacement for the steamer. The old one’s cactus.”
+“Yeah, whatever.” He turned to Mara, who had gone back to examining rails. “Need you to sign off on the replacement for the steamer." He tipped his chin at the rusty relic near the loading dock entryway. "That one’s cactus.”
 
-Mara made a noise that she expected to pass for agreement. “Got it in writing?”
+“Form?”
 
-“Right here.” Graham reached into his pocket and pulled out a folded form, already crumpled like it had lived with coins. He slapped it on the table. “There you go. Now — separate problem. Not related to your opshop here.”
+“Right here.” Graham slapped a crumpled paper on the table and attempted to smooth it. And failed. “Now, I've got a separate problem, not related to your op-shop here.”
 
-Mara didn’t look away from the rails. “If it’s *your* problem, why are you telling me?”
+Mara slid a cloak along the rail. “If it’s your problem, why are you telling me?”
 
-“Because,” Graham said, exhaling through his nose, “I thought you might have some ideas on how to deal with this.” He stuffed his hands in his pockets. ”It seems, someone up top decided I needed help, so they sent me this kid.”
+“Because,” Graham said, exhaling through his nose, “I thought you might have some ideas on how to deal with this.” He stuffed his hands in his pockets. ”It seems someone up top decided I needed help, so they sent me this kid.”
 
-Mara stepped away from the rails, her attention focused. Mine did too, unbidden. 
+Mara turned towards him, her face one of limited patience.
+
+My attention suddenly focused, unbidden. 
 
 Graham leaned his hip against a rack of cloaks as if it was a wall. The cloaks swayed, offended.
 
-“This kid,” he continued, with a quick scowl at the rack, “is too small, too weak, and too bloody… I don’t know. He’s just not built for maintenance. I’m not running a daycare.”
+“So, this kid,” he continued, with a quick scowl at the rack, “he's just too small, too weak, and too bloody— I don’t know. He’s just not built for maintenance.”
 
 Mara’s voice was flat. 
 
-“If he’s a kid, he shouldn’t be in maintenance anyway.”
+“If he’s a kid, he shouldn’t be in maintenance.”
 
-“He’s not actually a kid.” Graham rubbed his jaw, annoyed. “He’s eighteen. But he looks about thirteen and he’s got arms like pipe cleaners. I put him on basic stuff — carrying, fetching, holding ladders — and he’s just hopeless. Look, he’s polite, I’ll give him that. He tries. But he’s going to get hurt.”
+“Well— he’s not actually a kid.” Graham rubbed an unshaven jaw. “He’s eighteen, but he looks about thirteen. Seriously, he’s got arms like pipe cleaners!" His scowl deepened. "Look, I put him on basic stuff, like carrying, fetching, holding ladders, and he’s just— hopeless. He tries, I’ll give him that. But he’s going to get hurt.”
 
 I felt my grip tighten slightly on the kettle handle.
 
-Graham went on, warming to his complaint. 
+“You tell him to grab the toolbox, he grabs it like it’s going to bite him. You tell him to hold a ladder and he holds it like he’s apologising to it.“ He puffed up his chest. “He’s just wrong for the job.”
 
-“You tell him to grab the toolbox, he grabs it like it’s going to bite him. You tell him to hold a ladder and he holds it like he’s apologising to it.“ He frowned. “He’s not useless. He’s just wrong for the job.”
-
-Mara finally looked down at the paper he’d slapped on the table.
+Mara glanced at the paper on the table.
 
 “What’s his name?”
 
-Graham hesitated for half a second — names had weight here. Once you said a name in Mara’s domain, you were acknowledging a person.
+Graham hesitated for half a second.
 
-“Chuck,” he said. “Charles. Rossignol.”
+“Chuck,” he said. “Um— Rossignol.”
 
-The kettle clicked as it finished boiling. The sound was absurdly loud. My spine went very still.
+The kettle clicked as it finished boiling. The sound was absurdly loud.
 
-Mara’s eyes flicked to me. She had a way of reading people that made her frightening. “You know him.”
+Mara’s eyes flicked to me. She had a way of reading people that made her frightening.
+
+“You know him.”
 
 “I do.”
 
-Graham looked between us. “You do?”
+Graham looked puzzled. “You do?”
 
-“Yes. I do,” I repeated, stonily calm. I didn’t want to start feeling things. With feelings, things get messy. “From school.”
+“Yes. I do,” I repeated, stonily calm. “From school.”
 
-Graham made a face. “Of course you do. Everyone’s from school. It’s a plague.”
+Mara turned back to him. 
 
-Mara folded her arms. “And *you’re* here to tell me you’re going to sack him.”
+“You’re going to sack him, aren't you?”
 
-“I *have* to,” Graham said. “He’s slowing us down. And before you get all soft about it — I can’t keep someone who’s going to put his fingers through a band saw because he’s too timid to say he doesn’t know what he’s doing.”
-
-Mara shook her head. “Why would you put him near a band saw?”
-
-“I wouldn’t!” Graham snapped, then caught himself and softened it a fraction. “You're missing my point. I’m saying he’s not suited. That’s all. I told him that this morning.”
+“I have to.” He sounded defensive. “I told him that this morning.”
 
 The room seemed to lean in.
 
-“He asked to stay on, didn’t he?” I spoke before I could stop myself.
+I spoke before I could stop myself. “And he asked to stay on, didn’t he?” 
 
-Graham’s eyes flicked to me, surprised. “Well yeah. He did. How did you know?”
+Graham’s eyes flicked to me, surprised. 
 
-“But you won’t let him, will you?”
-
-“I can’t! When I told him this morning to start looking for something else he looked like he was about to cry,” Graham muttered. “He kept saying he needed the money, he needed the work, he’d do anything.” He grunted. ”It was like a freaking hostage situation.”
-
-Mara’s face didn’t change, but something in her eyes cooled.
-
-“Did you offer him other tasks?”
-
-Graham shrugged. “There *aren’t* other tasks. It's hard yakka on a good day. It’s *maintenance*.”
-
-“That’s your lack of imagination speaking,” Mara said, dry.
-
-Graham huffed. “See? This is why I don’t come in here. You lot live in a different world.”
-
-Mara’s mouth twitched. “You’re the one who walked in.”
+“Well, yeah. He did. How did you know?” He turned back to Mara. “When I told him this morning to start looking for something else he looked like he was about to cry. He kept saying he needed the work, that he’d do anything.”
 
 I set the kettle down slowly. 
 
-“So, he didn’t refuse my suggestion,” I said to Mara.
+“So, he didn’t refuse my suggestion.”
 
-Her gaze held mine. “Your suggestion?”
+Mara's gaze held mine. “Your suggestion?”
 
 I weighed my words.
 
-“I told him yesterday,” I said finally, “that I might have something for him. Work. Because he didn’t show today I assumed he had decided not to. Or perhaps, thought maintenance was all he could get.”
+“I told him the other day,” I said finally, “that I might have something for him. Work. Because he didn’t show today I assumed he had decided not to.”
 
-Graham scoffed. “So, you were offering him *this* kind of work?”
+“You were offering him this?” Graham looked incredulous.
 
 “Didn’t you say he wasn’t cut out for your kind of work?”
 
-Graham snorted. “So, you’ll let him have a go in here? With the dresses?”
+“So, you’ll let him have a go in here?” Graham scoffed. "With the dresses?”
 
 Mara’s gaze cut to him like a blade. “Say ‘dresses’ again like that and I’ll put you in one.”
 
-Graham held up his hands in mock surrender. “Right-o. Just saying…”
+Graham held up his hands in mock surrender. “Right-o. Just saying—”
 
-“You’re saying the same thing men always say when they don’t understand labour they can’t muscle around,” Mara replied. She leaned forward slightly, her voice even as she directed her gaze at me. “Wardrobe is not a refuge. I don’t take strays.”
+“You’re saying the same thing men always say when they don’t understand labour they can’t muscle around,” Mara replied. She turned to me. “What about him tells you he would work out well here?”
 
-I nodded. “I realise that.“
-
-Mara turned to Graham, eyes cold. “I take workers.”
-
-He rolled his shoulders, uncomfortable. “Yeah, whatever. I’ll tell you though: he’s not a worker. He’s…”
-
-“He *is* a worker,” I said, quietly. “Just not the sort you’re used to.”
-
-Mara’s eyes flicked back to me. “What about him tells you he would work out well here?”
-
-“His hands,” I said. “His eyes. His patience.” I ticked off dot-points with my fingers. “He draws like someone who thinks in structure. In geometry. His handwriting is neat. He listens. He doesn’t perform.”
+“His hands,” I said. “His eyes. His patience.” I counted them off with my fingers. “He draws like someone who thinks in structure. In geometry. His handwriting is neat. He listens. He doesn’t perform.”
 
 Graham snorted. “Doesn’t sound like a qualification to me.”
 
-“It is in Wardrobe,” Mara said, without blinking.
+“It is in Wardrobe,” Mara said. She reached for the bodice I’d been unpicking and held it up by the straps. 
 
-Graham looked at her as if she’d just claimed gravity was optional. “You’re serious.”
+“You see this? This is engineering disguised as femininity. It’s physics: measurements and force and stress.“ She waved her hand dismissively. “We don’t need biceps: they get in our way. We need brains.”
 
-Mara reached for the bodice I’d been unpicking and held it up by the straps. 
+Graham shrugged. “Fine. You want him, take him. But I’m not babysitting him until you decide.”
 
-“You see this? This is engineering disguised as femininity. It’s physics: measurements and force and sweat and stress.“ She waved her hand dismissively. “We don’t need biceps: they get in our way. We need brains.”
+“You're not meant to babysit. You're meant to supervise. There’s a difference.”
 
-Graham’s mouth opened, then shut. He glanced at me and grunted.
+She turned to me.
 
-“So, you think he's a boy wonder?”
+“If we take him, he does things by Wardrobe's rules,“ Mara cut in. “He shows up on time. He listens. He follows instruction. He's not a larrikin. He keeps his hands clean and his mouth cleaner. He gets one trial shift.” Mara tapped once on the table. “One. That’s all I need. One day.”
 
-“I’m not vouching for his character,” I said. “I’m vouching for his hands.”
-
-Mara’s eyes narrowed in approval.
-
-Graham scratched his jaw. “Right then. But if he turns out to be a liability, don't come crying to…”
-
-“*If* I take him, he answers to me,“ Mara cut in. “And my rules aren’t optional. He shows up on time. He listens. He follows instruction. He's not a larrikin. He does not wander. He keeps his hands clean and his mouth cleaner.”
-
-Graham hesitated, then shrugged. “You want him, take him. But I’m not babysitting him until you decide.”
-
-Mara’s gaze was steady. “You're not meant to babysit. You're meant to supervise. There’s a difference.”
-
-Graham exhaled, annoyed. “When can you take him? Because I can’t have him underfoot tomorrow when we’re moving the fencing.”
-
-Mara didn’t look at me when she spoke. “We don’t just ‘take’ him. We trial him.”
-
-I pursed my lips and nodded. Graham frowned. “Trial him?”
-
-“Trial shift,” Mara said. “One day. That’s all I need. One day.”
-
-Graham barked a laugh. “You run a tight ship.”
-
-“I run a ship that won’t sink.” Her eyes slid to me now. “And Celeste — you do not ‘save’ him. No coddling. Not a pet project.”
-
-“I wouldn’t.”
-
-Mara met my gaze, and dipped her head. 
-
-“Good. Because if he comes in here and thinks he’s protected by you, he’ll behave like a protected boy.”
-
-Graham snorted. “What do you mean by that?”
-
-Mara didn’t even glance at him. 
-
-“Protected boys test boundaries and blame women for having them.” Graham went quiet, as if he’d suddenly remembered women were usually the ones cleaning up. She continued, voice firm. “If he comes in here, he earns his place like everyone else. Understood?”
-
-“Understood.”
-
-Graham shifted, uncomfortable again. “So what, you want me to send him over?”
+Graham seemed uncomfortable. “So what, you want me to send him over?”
 
 “No,” Mara said. “I want him to choose to come.”
 
-*Good. That’s how we avoid rescue.*
+She reached for a small pad and scribbled something, then tore off the page and held it out to Graham.
 
-Mara reached for a small pad and scribbled something in her sharp handwriting. She tore off the page and held it out to Graham.
+“Time. Location,” Mara said. “When you give him this, tell him: if he wants a trial, he turns up. If he doesn’t, his choice. You sack him and no one feels guilty.”
 
-“What’s this?”
+Graham stared at the paper like it had teeth. 
 
-“Time. Location. Who to ask for,” Mara said. “You give it to him. You tell him: if he wants a trial, he turns up. If he doesn’t, his choice. You sack him and no one feels guilty.”
+“You’re ruthless.”
 
-Graham stared at the paper like it had teeth. “You’re ruthless.”
+“I’m fair,” Mara corrected. “Ruthless is sacking someone because they’re not built like a Neanderthal.”
 
-“I’m fair,” Mara corrected. “Ruthless is sacking someone because they can’t lift like a grown man.”
-
-Graham’s ears reddened. “Oi.”
+Graham’s ears reddened. “Oi!”
 
 Mara tilted her head. “Am I wrong?”
 
-He looked away. “No.”
+“Well, no.”
 
-Mara turned her gaze back to me. “You can tell him too, but don’t chase him or plead. You don’t sell it like a lifeline.”
+Mara’s mouth twitched. “Right, then. Now, try to be useful somewhere else. I’ve got work.”
 
-I smiled, small and sharp. “I don’t plead.”
+Graham grunted and left, the door banging loudly behind him.
 
-Mara’s mouth twitched. “Good. Then go and be useful. I’ve got work.”
+Mara picked up the bodice again, examined the seam I’d been unpicking. 
 
-Graham shoved the paper into his pocket and pointed at Mara’s replacement form on the table. “Sign that.”
+“Better.”
 
-Mara picked up the pen, signed without looking, and slid it back. “Get out.”
+I exhaled. 
 
-Graham grinned again, like he enjoyed being told off by competent women. “Lovely chat. Always a pleasure to be insulted in a room full of frocks.”
-
-Mara’s voice was silky. “Say ‘frocks’ again and I’ll hang you with one.”
-
-Graham laughed and left, the door banging loudly behind him. The moment he was gone, the air settled.
-
-Mara picked up the bodice again, examined the seam I’d been unpicking, and nodded once. “Better.”
-
-I exhaled, the tension bleeding out of my shoulders. “He begged.”
-
-Mara didn’t look up. “That‘s what Graham said.”
-
-“I can’t imagine him doing that,” I said, more to myself than to her. “He wouldn’t beg unless…”
+“He begged. I can’t imagine him doing that,” I said. “He wouldn’t beg unless—”
 
 “Unless he was desperate,” Mara finished, matter-of-fact. “That’s what poverty does. It makes dignity negotiable.”
 
-I picked up my phone from the bench, thumb hovering over nothing. I didn’t have Charlie’s number. Mara’s eyes flicked up, catching the motion.
+I glanced at the door, then at Mara. Her gaze held mine for a second longer.
 
-“Don’t.”
-
-“I’m not.”
-
-Mara’s gaze held mine for a second longer. Then she returned to her work.
-
-“Ten minutes,” she said. “Then you come back and finish that seam. If Charlie turns up tomorrow, you’re on rails and pins. You keep him busy. Do not hover. Do not mother.”
+“Ten minutes,” she said, returning to her work. “Then come back and finish that seam. He turns up tomorrow, you’re on rails and pins. I don't take strays, and neither do you. You do not hover or mother.”
 
 “I wouldn’t,” I said, offended on principle.
 
-Mara made a soft sound that might have been amusement. “Of course not.”
+“Of course not.”
 
 I rolled my eyes and moved toward the door.
 
-As I stepped into the corridor outside Wardrobe, the noise of the faire changed — less muffled, more alive. Somewhere outside, tourists laughed. A bell rang. Someone yelled about a lost hat. The smell of hot chips drifted in from the food court like a betrayal of all our careful historical illusions.
+  
 
-I walked fast. Ten minutes.
+As I stepped into the corridor outside Wardrobe, the noise of the faire changed — less muffled, more alive. Somewhere in the distance, tourists laughed. A bell rang. Someone yelled about a lost hat. The smell of hot chips drifted in from the food court, as if mocking the Faire's carefully crafted historical illusions.
 
-The maintenance compound sat behind the main buildings, past a cluster of props and a row of portable toilets that always made the “authentic eighteenth century experience” feel like a joke. The path was half gravel, half mud. A pallet of timber sat near a fence, and a stack of metal poles leaned precariously against a wall.
+I walked fast. 
 
-Graham was there, bent over a toolbox, swearing softly as he dug for something.
+Ten minutes.
 
-And beside him — 
+The maintenance compound sat behind the main buildings, past a cluster of props and a row of portable toilets that contributed nothing to the “authentic eighteenth century experience”. The path was half gravel, half mud. A pallet of timber sat near a fence, and a stack of metal poles leaned precariously against a wall.
+
+Graham was there, climbing an aluminium ladder, muttering to himself.
+
+And below him, gripping the base of the ladder — 
 
 Charlie.
 
-He held the base of a ladder as Graham climbed it, the ladder angled against a wall. Charlie’s hands were white-knuckled on the rails, his shoulders, tight. His gaze was fixed upward, not watching Graham’s feet so much as waiting for the moment the world asked him for credentials. He looked, in that moment, exactly as he had in the girls’ toilets: caught, trying to be smaller than the situation demanded.
+His hands were white-knuckled on the rails, his shoulders, tight. His gaze was fixed upward, not watching Graham’s feet so much as waiting for the moment the world asked him for credentials. He looked, in that moment, exactly as he had in the girls’ toilets: lost and a bit frightened.
 
-Graham climbed down, grumbling, and slapped the wall. “There. Fixed.”
+Moments later Graham climbed down, still muttering. 
 
-Charlie loosened his grip slightly, but didn’t step away. Graham pulled the folded scrap of paper from his pocket and held it out. Charlie took it as if it was a traffic citation.
+“There. Fixed.”
 
-“What’s this?” Charlie asked, voice quiet.
+Charlie loosened his grip slightly, but didn’t step away. Graham pulled the folded scrap of paper from his pocket and gave it to him. He gestured vaguely toward the main buildings. 
 
-Graham gestured vaguely toward the main buildings. 
+“That's from Wardrobe. You're being offered a trial shift. You want it, show up." He turned away. “In any case, you’re done here.”
 
-“Wardrobe. Trial shift. Mara’s rules.“ He turned away. “You want it, show up. In any case, you’re done here.”
-
-Charlie stared at the paper, then at Graham’s receding back. “But—"
+Charlie stared at the paper, then at Graham’s receding back. “But—" 
 
 “Talk to them,” Graham said, opening the door to the shed. “It’s a bunch of women. They seem to think you might work out.”
 
 Charlie’s eyes dropped to the page again. His fingers tightened around it.
 
-I stood a few metres away, unseen, and watched him.
+I waited until Graham had disappeared, then stepped forward.
 
-After Graham disappeared into the shed, I stepped forward into Charlie’s line of sight. He flinched — the small, automatic startle of someone who thought he was alone. His gaze snapped to my face. For a moment he went still in that deer-headlights way again.
+Charlie went still in that deer-headlights way again.
 
-“Celeste.”
+“Celeste,” he murmured finally.
 
 “Charlie,” I replied, evenly. “You’re alive.”
 
-His throat bobbed. “I… yeah.”
+His throat bobbed. “I— yeah.”
 
 I nodded at the paper in his hand.
 
-“That’s the offer I had mentioned. Mara’s trial shift.”
+“That’s the offer I mentioned in maths. Mara’s offering you a trial shift.”
 
-He looked down at it. “I didn’t — I didn’t mean to ignore your offer.”
+He looked down at it. “I didn’t— I didn’t mean to ignore your offer.”
 
-“I assumed you’d decided not to take it.” I kept my tone neutral.
+I kept my tone neutral. “I just assumed you’d decided not to take it.”
 
-His shoulders drew in. “I needed work.”
+His shoulders drew in. “I had this job already. My folks—”
 
-“I know.”
+“I see.”
 
 He swallowed. 
 
-“Maintenance… it’s — I’m not good at it.”
+“Maintenance… it’s— I’m not good at it.”
 
-“So I’ve been told,” I replied, aiming for accuracy. He stared at me, eyes flicking quickly over my face, searching for mockery.
+“So I’ve heard,” I replied. He stared at me, eyes flicking quickly over my face.
 
-He found none.
+They searched for mockery.
 
-I leaned slightly closer, lowering my voice. 
+And found none.
 
-“This isn’t charity,” I said. “Wardrobe doesn’t do charity. Wardrobe does work.”
+“I know your kind of work isn't this,” I said, leaning slightly closer. “You just haven't been offered the right lane.” 
 
-His gaze flicked up. “And you think I can—"
+He stared at the paper. 
 
-“I *know* you can work,” I said. “You just need the right lane.” He stared at the paper. “I won’t sugar-coat it. Mara’s rules are strict. She’s not warm. She doesn’t care about your story. She cares about whether you show up and do what you’re told.”
+“I won’t sugar-coat it,” I continued firmly. "Mara’s rules are strict and she’s not interested in your story. She wants to know that you will show up and do as you’re told.”
 
 His eyes moved slowly from the paper to me.
 
-“And,” I added, “it’s okay to say no. If you *still* don’t want it, don’t take it. You won’t be punished for refusing.”
+“By the way,” I added, “it is okay to say no. If you try it and don’t want it, you simply don’t take it. You won’t be punished for refusing.”
 
-His eyes widened slightly, as if that option hadn’t existed for him before. I held his gaze for a beat, then stepped back.
+I held his gaze for a beat, then stepped back.
 
-“Seven-thirty,” I said, nodding at the paper. “If you’re there, you’re there. If you’re not, I’ll assume you made your decision.”
+“Seven-thirty,” I said. “If you’re there, you’re there. If you’re not, I’ll assume you made your decision.”
 
 I turned to go.
 
 “Celeste.”
 
-I stopped without turning. Let him have the floor.
+I stopped.
 
-“I… I can do detail,” he said somewhat haltingly. “I can — I can learn fast if someone shows me.”
+“I— I can do detail,” he said. “I can learn fast if someone shows me.”
 
-I turned then, slowly, and looked at him properly.
+I turned slowly, and looked at him properly.
 
-“I’m aware of that,” I said. “That’s how I know I’m not wasting my time.”
-
-His eyes held mine, startled by my bluntness. 
+“I know that,” I said. “Otherwise, I’d be wasting my time.”
 
 And then, I walked away, back toward Wardrobe, back into steam and cloth-dust and the woman who didn’t take strays.
 
-Behind me in the maintenance yard stood a boy with a folded scrap of paper, staring at a door he’d never expected to be given.
 
-Not a lifeline. A lane. A place he could earn.
-
-And, if he chose it, keep.
 
 <hr class="section-break soft" />
 
