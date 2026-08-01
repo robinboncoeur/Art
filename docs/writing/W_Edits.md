@@ -6,43 +6,43 @@
 
 Wardrobe had its own weather.
 
-Outside weather — sun or rain — could change, but Wardrobe's was a constant, indoor climate of steam and cloth-dust and warmed metal. The air tasted faintly of detergent and starch and something older that lived in wool no matter how many times you cleaned it: sheep, lanolin, history.
+Outside weather — sun or rain — could change, but Wardrobe's was a constant climate of steam and cloth-dust and warmed metal. The air tasted faintly of detergent and starch and something older that lived in wool no matter how many times you cleaned it: sheep, lanolin, history.
 
-The room itself was a maze of rails and racks, garment bags whispering against each other whenever someone brushed past. Stacked crates were stencilled with Mara’s handwriting — blunt, efficient strokes of someone who labelled everything because she didn’t like losing time to idiots. A long trestle table ran down the centre like an altar, currently piled with a half-dressed mannequin and a skirt turned inside-out, hemline pinned up like a patient on a hospital bed.
+Wardrobe was a maze of rails and racks, garment bags whispering against each other whenever someone brushed past. Stacked crates carried Mara’s handwriting — blunt lettering of someone who preferred labels to archaeologists. A long trestle table ran down the centre, with a half-dressed mannequin and a skirt turned inside-out, hemline pinned up like a patient on a hospital bed.
 
-Mara stood over it with her chin tucked, a bodice in her hands, and the look she wore when something had disappointed her. Which was most things.
+At the table stood Mara, staring with a slight frown at a bodice in her hands. She turned the bodice over and tapped the seam.
 
-“Hang on. What’s this?” she said, without looking up.
+“What’s this?” she said quietly.
 
-I froze with a hanger halfway to a rail. Mara never raised her voice — she didn’t need to. Her authority lived in the fact that she expected you to obey and had no interest in negotiating about it. She turned the bodice over and jabbed a fingertip at a seam.
+Mara never raised her voice — she didn’t need to.
 
-“This. Who did this?”
+“Who did this?”
 
-I moved closer, careful not to bump the steamer hose that snaked across the floor like a sleeping python. “Which one?”
+I left the rail and moved closer, careful not to trip over the steamer hose that snaked across the floor. Mara’s gaze flicked to me, her mouth tightening as she pinched the fabric and tugged. The seam puckered like a forced smile. 
 
-Mara’s gaze flicked to me, her mouth tightening. Don’t be clever. She pinched the fabric and tugged. The seam puckered like a forced smile. “Whoever did this sewed with fear.”
+“Whoever did this sewed with fear.”
 
-I leaned in: the stitches were tight, too tight, as if someone had been trying to prove something with needle and thread.
+The stitches were tight, too tight. Someone had been trying to prove something with needle and thread.
 
 “They were probably worried it wouldn’t hold.”
 
-Mara snorted. “It won’t hold because they were worried. That’s the irony.” She flipped the bodice again and thrust it at me. “Unpick it. Do it properly. Not fast. Properly.”
+“It *won’t* hold because they were worried," Mara snorted. "That’s the irony.” 
 
-Mara was not warm, but honest in the way that mattered: she treated workmanship as a form of respect. If she corrected you, it meant she thought you were worth the effort.
+She flipped the bodice again and thrust it at me. 
 
-I took the bodice, feeling the weight of it — the underlining, the interlining, the bones that gave it a spine. The kind of garment that made you understand, viscerally, why women in paintings stood the way they did. I carried it to the end of the table, sat, and began to unpick the seam with the seam ripper. Mara insisted it was called a lame. 
+“Unpick it. Do it *properly*, not fast. Properly.”
 
-”Because,” she said, ”if you worked in costume long enough you ended up sounding like you were auditioning for a museum.”
+I took the bodice, feeling the weight of it — the underlining, the interlining, the bones that gave it a spine. The kind of garment that made you understand, viscerally, why women in paintings stood the way they did.
+
+I carried it to the end of the table, sat, and began to unpick the seam with the seam ripper.
 
 I liked Wardrobe because it wasn’t school. 
 
-School rewarded performance. You threw hands up, shouted answers, and wore confidence like an ill-fitting costume. 
-
-Wardrobe rewarded something quieter: attention, patience, care. You could be brilliant here without the marketing.
+School rewarded performance. You threw hands up, shouted answers, and wore confidence like an ill-fitting costume. Wardrobe rewarded something quieter: attention, patience, care. You could be brilliant here without the marketing.
 
 I worked for a few minutes, the thread finally giving way with soft little snaps. 
 
-Mara’s voice cut across the room again.
+Mara’s voice cut across the room.
 
 “Did you bring the inventory sheet?”
 
@@ -52,29 +52,27 @@ Mara’s voice cut across the room again.
 
 “Yes.”
 
-“Are you lying?”
-
-“No.”
-
-Mara’s mouth twitched. She moved around the room, checking rails, touching fabric, straightening labels. Mara had a way of handling garments with a sort of reverence for construction.
+Mara’s mouth twitched. She moved around the room, checking rails, touching fabric, straightening labels.
 
 “You’re late for your break.”
 
-“I’m not hungry,” I replied, automatically.
+“I’m not hungry.”
 
-Mara went still. “That’s not the point.”
+Mara turned to me.
 
-I paused with the seam ripper. “What is the point, then?”
+“That’s not the point.”
 
-“The point is,” she said, “a future isn’t built on fumes. You burn out and then you’re useful to no one, including yourself.”
+“What is the point, then?”
 
-Mara’s bluntness was her kindness, a preventative maintenance.
+“It's this,” she said, “a future isn’t built on fumes. You burn out and then you’re useful to no one, including yourself.”
 
-I set the bodice down, let out a small breath. “Fine. Ten minutes.”
+I let out a small breath and set the bodice down.
 
-Mara waved a hand, as if she’d won a pointless argument. “Good girl.”
+“Fine. Ten minutes.”
 
-Mara used language like a tool: dry, functional, occasionally barbed. If she called you “good girl,” it was an honest appraisal. I stood, stretched my shoulders, and headed toward the tiny kitchenette. It barely deserved the name: a bench, a sink, a kettle, and a jar of instant coffee that tasted like burnt regret.
+“Good girl.”
+
+I stretched my shoulders and headed toward the tiny kitchenette. It barely deserved the name: a bench, a sink, a kettle, and a jar of instant coffee that tasted like burnt regret.
 
 I’d just filled the kettle when the door to Wardrobe banged open.
 
