@@ -33,25 +33,23 @@ This book asks the question: **Can I belong without disappearing?**
 * Celeste has just turned 19.
 * Charlie is still 18.
 * Charlie begins the maintenance apprenticeship.
+* However, maintenance work clearly isn't Charlie's strong suit. (Scene 3)
+* Charlie starts at Wardrobe. (end of December)
 
 
 ### January
 
-* Maintenance clearly isn't working. (Scene 3)
-* Charlie starts at Wardrobe.
 * Mara's testing. (Scenes 4, 5, 6)
-* Celeste's quiet boundary conversation.
-* Charlie stays.
+* Neither Celeste nor Mara try to persuade Charlie re: career. (preserving agency).
 
 
 ### February
 
 * Lauren visits Wardrobe. (Scene 7)
-* Mara and Lauren meet.
-* Lauren swowly accepts Wardrobe as a better vocational fit than boilermaker. (Scenes 8, 9)
+* Lauren slowly accepts Wardrobe as a better vocational fit than boilermaker. (Scenes 8, 9)
 * Mara expects Charlie to test garments. (Scene 10, 11, 12)
 
-Nothing spectacular. Everything important. This is where belonging begins.
+Nothing spectacular. Everything important. **This is where belonging begins**.
 
 
 ### March

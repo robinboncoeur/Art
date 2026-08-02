@@ -1,165 +1,220 @@
 # Edit Workspace
 
-Mara doesn’t test people the way teachers do.
 
-Teachers announce the test, watch you sweat, and then moralise the result. Mara tests you the way you test a seam: under her fingers, quietly, looking for strain.
+I was at the rail tagging garment bags when Lauren Rossignol arrived.
 
-Charlie was back for a second morning. Same early arrival. Same clean hands. Same careful stillness. 
+She didn't come to Wardrobe like a mother arriving at a principal's office.
 
-Mara didn’t say hello, but pointed at a tin on the table.
+There was none of that indignant anger. She stepped into the room with the air of someone who had spent a long time deciding what she would and wouldn't say, and had finally settled on the language style that always worked: calm, measured, consequential. 
 
-“Pins,” she said. “Sort them. Then you’re on the mending pile.”
+She stood just inside the doorway with a canvas tote on her shoulder and her car keys in her hand. 
 
-Charlie nodded and poured the pins out onto a cloth. With a kind of tidy focus that made the task look dignified, he began arranging them by length. Wardrobe had its own rhythm — calm on the surface, precise underneath. Charlie had already started matching it — he had joined a system without trying to dominate it.
+Her hair was pulled back too tightly for vanity.
 
-Mara’s next marker came ten minutes later, when she “accidentally” left a pair of vintage shears too close to the edge of the table. 
+Her lipstick was absent.
 
-Charlie noticed the shears. His eyes flicked to them, then to Mara. He didn’t touch them but nudged the cloth closer, stabilised the table edge with his palm, and slid them back with two fingers — careful, respectful — like he was returning a bird to its perch.
+Her expression was not.
 
-Mara didn’t look up. 
+Mara looked up from the cutting table, pencil behind her ear, pattern paper spread before her.
 
-In fact, at first I didn't think she'd noticed at all. But presently, the smallest change in her mouth betrayed her: she knew. 
+"Can I help you."
 
-Of course she knew.
+Lauren's gaze swept the room — rails, mannequin, the prototype jacket pinned in place — and landed on the mending corner that wasn't a corner anymore. She took in the quiet speed of the women moving through tasks. The hush had weight. It was a hush of creative work.
 
-Mara sent him to the mending pile: a basket of small catastrophes — popped seams, torn cuffs, fraying apron ties. The difficult ones, the ones where haste would show. Charlie sat, studying each item the way he’d studied the torn dress yesterday: calm, quiet. He chose thread that colour-matched with an uncanny instinct. He stitched with even tension, no puckering, no desperate pulling.
+"I'm Charles' mother," she said finally.
 
-Charlie’s attention to Mara was constant and respectful.
+Mara didn't move, but something in her eyes adjusted, like a lens clicking into focus.
 
-Charlie’s attention to me was— different.
+"Right," Mara said. "You're— Lauren."
 
-It was as if his eyes kept finding me on their own and each time they did, he would look away, as if him noticing me was an invasion of privacy.
+Lauren looked mildly surprised.
 
-Was it a crush?
+"My son told me last night he isn't working at maintenance," Lauren said, voice level. "He said he's working here."
 
-From the rail, I watched his hands gently — almost tenderly — coax thread and fabric to be friends.
+"He is."
 
-“You’re stitching like you’ve done this for years.”
+Lauren's jaw tightened. 
 
-Charlie’s hands paused for half a second, needle hovering. Then he kept going.
+"He's meant to be working in maintenance, though. His father—"
 
-“My mum,” he said quietly. “She made sewing fun. It was her game — she gave me harder and harder things to sew. The goal was for the repair to be invisible. If you make it invisible, it looks neat.”
+"— made a career choice for him," Mara finished for her.
 
-“That’s true,” I replied. “And if you make it neat here, Mara doesn’t kill you.”
+Lauren's eyes widened somewhat. She stopped, it seemed, to recalibrate.
 
-His mouth twitched into a fragile smile, which quickly vanished. His eyes flicked from my face to his work like the paws of a cat picking its way across a hot path.
+"Why yes, he did," she went on. "He's been able to secure an apprenticeship for him in the shipyards in Williamstown. He had to made quite a few phone calls to get that sorted. The maintenance job was just to get him ready for it."
 
-“Thanks,” he said after a moment.
+Mara's expression didn't soften. Her tone was direct, unflinching.
 
-“For what?”
+"Do you feel he is well-suited for that line of work?"
 
-“For— yesterday.” He looked down at his hands. “For— for getting me in.”
+Lauren's eyes flashed briefly.
 
-I shook my head.
+"What I feel is irrelevant," she said. "Charles has an opportunity to learn a trade that will secure his future."
 
-*No.*
+Mara gestured with two fingers towards a chair near the table, less inviting than allowing. Lauren sat, carefully. She placed her keys on her knee instead of the table, as if not to take up more space than necessary. Her tote stayed on her shoulder.
 
-*I don’t want gratitude*.
+Her brows rose as she looked around at the workroom.
 
-“*You* got you in,” I said. “You turned up. You worked.”
+"It seems you're actually running a studio, an atelier," Lauren said. "This isn't just a dress-repair shop."
 
-His shoulders loosened slightly. He threaded another needle, hands steady.
+Mara's mouth tightened. "Correct."
 
-“I just—"
+Lauren acknowledged with a nod. Then she, with a tuck of the chin, she asked:
 
-He stopped. 
+"Tell me, is Charles hiding here?"
 
-I did my usual: I decided what he was trying to say.
+The room went even quieter, not because the women stopped working, but because they listened. Mara didn't answer immediately. She turned her head slightly, eyes moving to where Charlie sat at the inventory drawer, sorting hooks and tapes with the same absorbed focus he gave to seams.
 
-“You mean you don’t want to make me uncomfortable.”
+He didn't look up but kept working.
 
-His hazel eyes widened, startled. Then his face fell again with a nod as quick as shame.
+"This is not a refuge," Mara said at last. "It's a workplace. No one hides here. They work."
 
-“Yes,” he whispered.
+Lauren's grip tightened on her keys. She grimaced slightly. "So, is he working here, then?"
 
-“Fine. Let's keep it that way.”
+Mara's eyes returned to Lauren.
 
-The steamer chose just then to emit a hiss. We both turned to look at it.
+"Yes, he is," Mara said, "by choice."
 
-“It’s just—" I heard him stammer. "You’re— you’re a lot.”
+Lauren's mouth thinned. "What kind of choice is this? It’s… women’s work. I’m not sure that’s suitable for him."
 
-I frowned.
+Mara studied her, allowing the opinion without granting it authority.
 
-“A lot?”
+"Wardrobe is work," she replied. "Our work is genderless. Deadlines. Consequences. Standards."
 
-“I meant, you’re—" He paused to put in a final stitch and snipped the thread short. Finally: "You make things make sense.”
+Lauren's gaze canvassed the room, finally settling on Charlie.
 
-I let his words sit between us.
+"Still." Her lips formed a thin line. "Charles doesn't seem to understand the consequences of leaving maintenance."
 
-“Right then,” I said, picking up a bodice. The tear had frayed edges. "Let's see if you can make this tear disappear.”
+Mara's eyebrow rose. 
 
-He studied it and his face smoothed. Almost smiled.
+"He didn't leave maintenance. Graham sacked him."
 
-“Okay.”
+"What!"
 
-I turned to go back to the rail.
+Mara's gaze was cold. "Graham said, and I agree, that he was not suited for the job."
 
-“I feel I should tell you— and Mara,“ I heard his voice behind me, the words spilling out, rushed. ”Maintenance was just a summer job. It seems like people are teaching me things... trusting me with things. It wouldn’t be fair if I didn't tell you.”
+"He can't just sack someone for that." 
 
-I paused, hand resting on a garment bag.
+"Graham could and did. It was a question of safety. The maintenance position requires brawn. Brute force."
 
-“Tell me what?”
+Mara stopped and let the sentence finish itself.
 
-His eyes were fixed on the seam.
+Lauren's throat moved. The unspoken end of the sentence landed. Recognition. 
 
-“I’m meant to be starting an apprenticeship next year. Welding. At the shipyard.” He swallowed. “Dad’s lined it up.”
+Her voice stayed controlled, but there was a tremor under it now — the tiniest crack in the armour.
 
-That landed like a duck expecting water but finding ice.
+"He's always been... gentle," she said, as if the word might be misread if she spoke it too loudly. "My husband was hoping that maintenance would toughen him up a bit—"
 
-I looked at his hands. 
+Mara's gaze narrowed.
 
-His fingers around the needle. 
+"Make a man out of him?"
 
-His arms. 
+Lauren's jaw tightened again. She looked down at her keys, then up.
 
-His long hair tied back with an elastic.
+"Well, with time—"
 
-*Welder.*
+Mara slowly shook her head and said nothing. The sentence withered, unaddressed, and Lauren faltered.
 
-*Make it make sense.*
+"I don't know," she said finally. "Perhaps it wasn't realistic. But it was such a great opportunity."
 
-“Did he line up maintenance for you as well?” I asked.
+Mara's tone shifted to direct.
 
-He shrugged, small. “Yeah."
+"An opportunity for one can be a prison sentence for another," Mara said. "Do you honestly see a boilermaker?"
 
-I left the rail. Mara gave me a look but I ignored it.
+Lauren's eyes flicked to Charlie again, then back. "No."
 
-"Is welding something that interests you?"
+Mara nodded, as if filing that away like a measurement.
 
-Charlie frowned slightly.
+"Neither do I."
 
-"Dad says it's a good trade."
+Lauren's lips parted slightly, her face clearly indicating that Mara's assessment had irritated her.
 
-"That's not what I asked."
+"But you think this..." Lauren said with a wave at the room, "is? Around... around all this?" Her eyes moved, briefly, to the fitting curtains — to the private controlled space.
 
-He opened his mouth.
+Mara's expression didn't change. "You mean around women."
 
-Closed it again and rubbed his forehead.
+Lauren didn't flinch.
 
-Silence stretched. The steamer hissed somewhere behind us.
+"Yes."
 
-“I just—" he began, then stopped. His voice dropped. “I just need solid work.”
+Mara leaned forward slightly.
 
-*There it was.*
+"This is a workplace as well as a women's space," Mara said. "We have standards. We offer safety and respect for all who work here, and expect the same in return. He's here because he is useful and respectful. If that changes, he is out. Immediately."
 
-*Survival.*
+Lauren frowned. "He wouldn't do anything—"
 
-I placed my finger lightly on the fabric near his seam.
+"That's not the point," Mara said. "This is. Women in this space don't have to wonder."
 
-“Don't you think this is solid work?”
+Lauren sighed and her shoulders loosened by a fraction. 
 
-He shook his head with a faint puff. “This is— dresses.”
+Mara sat back.
 
-Across the room, Mara’s voice cut through the hiss of the steamer.
+"Now," she said, brisk. "What do you actually want."
 
-“Rossignol!”
+Lauren inhaled.
 
-Charlie’s head snapped up. “Yes Mara?”
+"I need to be sure that what Charles is doing here is... real!" She shook her head and placed a hand over her neck. "That he's not just treading water in some dead-end job. That there's a real future in it for him, that he's getting real training."
 
-Mara held up a sleeve with a tear near the cuff. “This one. Show everyone how you do it.”
+Mara's eyes slid briefly to the prototype jacket again, then back.
 
-Charlie went very still.
+"It's real," Mara said. "I make it real."
 
-“Yes, Mara.”
+Lauren held her gaze, then nodded once, as if satisfied with the answer. She shifted her tote from shoulder to hand and drew out a folded bundle of fabric.
 
-He rose and took the sleeve from her.
+"I think this is from here," she said, placing it on the table. "Charles forgot it at home. I washed and pressed it."
+
+Mara unfolded it: a linen apron, neatly hemmed, ties reinforced. Mara's eyes flicked to Lauren.
+
+"You sewed this."
+
+"I fixed it."
+
+Mara ran a finger along the stitching — precise, elegant, invisible.
+
+"Good work," Mara said.
+
+Lauren blinked again — unexpected praise. Mara didn't offer more, but folded the apron and put it aside.
+
+Lauren's gaze went to Charlie now. He still hadn't looked up. He was counting eyelets like counting was a form of prayer. Lauren's expression shifted — not soft, exactly, but less braced.
+
+"Your father is going to be disappointed, you know," she said, louder now. "He wants the best for you."
+
+Charlie paused. His fingers stopped, but he didn't turn around.
+
+"I know, mum."
+
+Lauren's throat moved. She swallowed it down. Mara spoke, crisp, to cut the emotion before it bloomed into something messy.
+
+"Rossignol," she called. "Continue."
+
+Charlie resumed immediately. Lauren exhaled. She looked at Mara again.
+
+"When he's here," Lauren said with a nod, "he works. And he learns?"
+
+"Correct on both counts."
+
+Lauren picked up her keys.
+
+"I'll have to figure out what to say to his father." 
+
+There was a new steadiness to Lauren's voice — a mother's protectiveness with a professional edge. Mara's gaze hardened.
+
+"Tell him the truth."
+
+Lauren's mouth twitched.
+
+"You don't know his father," Lauren said. "He won't be happy about this."
+
+Mara's response was immediate."Your son's future is more important that someone's happiness," she said.
+
+Lauren left without flourish. The door clicked shut, and the room returned to its rhythm. 
+
+Mara looked at me, pencil still behind her ear.
+
+"Charlie's old enough to decide for himself," she said.
+
+I nodded. "The choice is his to make. No one else's."
+
+Mara glanced at me with a piercing look.
+
+"That's right. Remember that."
