@@ -5,9 +5,7 @@ I was at the rail tagging garment bags when Lauren Rossignol arrived.
 
 She didn't come to Wardrobe like a mother arriving at a principal's office.
 
-There was none of that indignant anger. She stepped into the room with the air of someone who had spent a long time deciding what she would and wouldn't say, and had finally settled on the language style that always worked: calm, measured, consequential. 
-
-She stood just inside the doorway with a canvas tote on her shoulder and her car keys in her hand. 
+Instead, she stepped into the room respectfully, like someone realising she'd entered a place where skilled hands were at work. A canvas tote on her shoulder and her car keys in her hand, her gaze swept the room — rails, mannequin, the prototype jacket pinned in place.
 
 Her hair was pulled back too tightly for vanity.
 
@@ -19,23 +17,79 @@ Mara looked up from the cutting table, pencil behind her ear, pattern paper spre
 
 "Can I help you."
 
-Lauren's gaze swept the room — rails, mannequin, the prototype jacket pinned in place — and landed on the mending corner that wasn't a corner anymore. She took in the quiet speed of the women moving through tasks. The hush had weight. It was a hush of creative work.
+Lauren paused. Her gaze had settled on the mending corner that wasn't a corner anymore, where a figure sat with their back to her, absorbed in a garment. She turned to Mara.
 
 "I'm Charles' mother," she said finally.
 
 Mara didn't move, but something in her eyes adjusted, like a lens clicking into focus.
 
-"Right," Mara said. "You're— Lauren."
+"I see," Mara said.
 
-Lauren looked mildly surprised.
+Lauren frowned slightly.
 
-"My son told me last night he isn't working at maintenance," Lauren said, voice level. "He said he's working here."
+"I expected him to be working in maintenance," she said. "He told me over dinner last night he was working here."
 
 "He is."
 
+Lauren bit her lip.
+
+"I see."
+
+Mara studied her calmly.
+
+"And you are wondering why."
+
+Lauren nodded.
+
+Mara pointed at the chair next to her table.
+
+"Would you like to sit down?"
+
+Lauren sat, carefully. She placed her keys on her knee instead of the table, as if not to take up more space than necessary. Her tote stayed on her shoulder.
+
+"My name is Mara." The words came out quiet, measured. "What would you like to know?"
+
+Lauren cast her eyes around the room again, searching, then hastily returned, as if remembering her manners.
+
+"Sorry, I'm Lauren." She stopped, pressing her fist against her lips for a beat. "I want to understand why he's not in maintenance anymore."
+
+"Maintenance wasn't working."
+
+"Sorry?"
+
+"He was being asked to force things," Mara explained. "That's not how he works."
+
+"What do you mean?"
+
+Mara folded her hands.
+
+"He's careful with how he handles things," she said. "He doesn't force them. In fact, he can't."
+
+Lauren stared at the table.
+
+"Which means—"
+
+"Not forcing things is a good thing, here." Mara tapped the table once. "Wardrobe needs hands like his."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Lauren's jaw tightened. 
 
-"He's meant to be working in maintenance, though. His father—"
+"That wasn't the plan. His father—"
 
 "— made a career choice for him," Mara finished for her.
 
