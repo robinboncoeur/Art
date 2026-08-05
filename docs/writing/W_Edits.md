@@ -39,7 +39,7 @@ Mara’s fingers paused. For Mara, that was a reaction. She held out her hand.
 
 “Let me see.”
 
-Lauren passed the notebook across the table. Mara tested the swatches the way she tested everything: with honesty. Thumb and forefinger, rubbing the weave lightly. Body. Recovery. Spine.
+Lauren passed the notebook across the table. Mara tested the swatches gently but with clear intent. She rubbed the weave between her thumb and forefinger, then stretched the fabric slowly across the grain and let it fall back into her palm. 
 
 “This holds,” Mara said. “It won’t collapse when it’s damp.”
 
@@ -51,7 +51,7 @@ Lauren didn’t answer immediately. Out of the corner of her eye she was watchin
 
 “For things that need to survive,” she said at last.
 
-Mara’s face didn’t change much, but her eyes softened — the smallest shift, the kind only another woman would notice.
+Mara’s face didn’t change much, but her eyes softened — the smallest shift.
 
 “Mmm,” Mara said. “Yes.”
 
@@ -63,16 +63,13 @@ Lauren exhaled slowly.
 
 Lauren’s mouth twitched again.
 
-
-===
-
-“That’s what protective looks like when you’ve had enough.”
+“That’s what protective looks like... when you’ve had enough.”
 
 Mara didn’t deny it nor did she confirm it. She silently closed the notebook and carefully slid it back across the table.
 
 “And you have standards.”
 
-Lauren’s gaze flicked away, briefly, like the reflex of a woman who’d learned to hide softness because it gets exploited.
+Lauren’s gaze flicked away, briefly.
 
 “You learn standards,” she said quietly, “or you don't last.”
 
@@ -80,25 +77,35 @@ Mara looked at her properly then, steady as a level.
 
 “Yes,” Mara agreed firmly. “Exactly.”
 
-They held each other’s gaze: recognition — two women looking at the same map and realising the other knew how to read it. Behind them, the mannequin’s sleeve shifted.
+She turned to the fitting curtain. Lucy had stepped away from the mannequin, and was eyeing the sleeve with narrowed eyes.
 
-“Mara,” Charlie said, soft, cautious, but it was work, not interruption. “This seam pulls when you raise the arm.”
+"Watch carefully," she said to Charlie. "See what happens."
 
-Mara turned. Attention snapped to the garment the way a blade snaps to a whetstone.
+She lifted the mannequin's arms. I saw Charlie's head tilt slightly as the fabric tightened.
 
-“Good catch,” she said, and then added, because she couldn’t help herself, “Of course it does. It’s physics.”
+“Mara,” Charlie said, soft, cautious. “This seam pulls when you raise the arm.”
 
-Charlie quietly held the bodice steady while Mara repinned the line. It was the way he held things: quietly, without drawing attention to himself. Lauren watched him again. This time her pride didn’t hide as well.
+“Good catch.” Mara didn't sound surprised. “Physics always wins, even over lovely sewing.”
 
-“Charles seems —different,” she said, carefully.
+He quietly held the bodice steady while Lucy re-pinned the line.
+
+"I might have my coffee before it goes cold," Lauren said. "Join me?"
+
+Mara motioned for me to follow them into the tearoom. Lauren found a clean plate and deposited a 'pull-apart' that was still warm, then handed me a coffee. Mara sat at her usual spot sipping her beverage thoughtfully.
+
+Lauren had a sip, then turned to her.
+
+“Charles seems... different,” she said, carefully.
 
 Mara didn’t look up.
 
-“Charlie,” she corrected, not harshly: simply as fact, as if the room had already decided.
+“Charlie.”
 
-Lauren blinked: a small recalibration. She didn’t make a face, but let the correction stand.
+Lauren blinked: a small recalibration.
 
-“Charlie... is more... himself, here,” she repeated, tasting it like words she hadn't expected to say. I’d already seen that. The pattern held. I didn’t question it. “He seems to feel part of this room. Valued.”
+===
+
+“Charlie — seems more — himself,” she repeated. “He seems to feel part of this room. Valued.”
 
 The word 'valued' sat in the air like something unexpected, as if it wasn’t a word frequently in her mouth.
 
