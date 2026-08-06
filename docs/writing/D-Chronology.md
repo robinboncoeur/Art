@@ -1,19 +1,16 @@
 # Chronology
 
-I think this actually resolves into a very satisfying long-form chronology. The only adjustment I'd suggest is one we've already discovered together:
+[![The Idea][Bnr01b]{ .artC width="800" }][Bnr01b]
 
-**Don't compress the emotional beats. Compress the uneventful time.**
-
-That means the important conversations still have room to breathe.
-
----
-
+<hr class="section-break strong" />
 
 
 
 
 
 ## Celeste's Girl
+
+[![img][St10]{ .artR width="460" }][St10]
 
 This book asks the question: **Can I belong without disappearing?**
 
@@ -147,6 +144,11 @@ But, "You've been frightened for months, and you never thought you could tell me
 * Charli's voice is heard for the first time.  (Scene 56)
 
 [Celeste's Girl — fin]
+<hr class="section-break strong" />
+
+
+
+
 
 
 
@@ -212,6 +214,10 @@ This book asks: **Can I simply be?**
 * Lauren and Celeste discuss Charlotte's dilemma, realise that the rungs didn't solve the problem. (Scene 35)
 
 [The Deep End — fin]
+<hr class="section-break strong" />
+
+
+
 
 
 ## "Book Three" 

@@ -132,28 +132,12 @@ Note: *Earlier conceptions placing it on the Gold Coast have been superseded.*
 
 ## 3. Timeline Overview
 
-[![img][St03]{ .artR width="460" }][St03]
+[![img][St12]{ .artR width="160" }][St12]
 
 ### 3.1 Broad project structure
-**Provisional canon**
+**Locked canon**
 
-- **_Celeste’s Girl_** establishes Charlotte / Charlie’s earlier transformation arc and the central Celeste–Charlotte dynamic.  
-- **_The Deep End_** expands outward into a new environment where Charlotte must function more independently.  
-- Possible later books continue into broader adulthood / business / city / deeper relational structures.
-
-### 3.2 Immediate current timeline in _The Deep End_
-**Locked / current working canon**
-
-Current discussion has reached:
-- Charli has arrived / settled into the Queensland setting.
-- The first week has passed relatively uneventfully.
-- Charli is now in **teaching mode** and loves it.
-- She is respected by those around her, including **Fiona**.
-- **Sarah** has been busy with finishing details of Wardrobe’s physical plant and has not been in Charli’s immediate orbit.
-- **Brittany** has remained observant, noticing things that do not wholly reconcile with “tomboy,” but has not probed further.
-- A major short phone scene with **Celeste** has just occurred, stabilising Charli and reaffirming their bond.
-- Scene Five is expected to move to **Friday night**, where the girls suggest a **pool party**.
-- Scene Six is expected to centre on Charli’s possible selective disclosure to Brittany, provided Brittany earns that trust in Scene Five.
+[This document](D-Chronology.md) covers the timelines in this story. It will be updated as the story gets fleshed out.
 
 <hr class="section-break strong" />
 
@@ -167,14 +151,6 @@ Current discussion has reached:
 ## 4. Characters' Dossiers
 
 [![img][St04]{ .artR width="460" }][St04]
-
-
-
-
-<hr class="section-break soft" />
-
-
-
 
 
 ### 4.1 Charlie / Charli / Charlotte Rossignol
@@ -192,6 +168,8 @@ Charles was close to his mother — she was the centre of his life. When the dec
 By the opening of the novel, Charles has become a quiet, observant young adult who expects little attention from others and has learned to navigate unfamiliar situations by remaining unnoticed wherever possible.
 
 Eventually, society will never see Charlotte as anything but a woman, but Charlotte doesn't understand what 'woman' means.
+
+Charlotte does not have a driving licence.
 
 
 #### Essence
@@ -254,9 +232,6 @@ Charlotte is a young woman shaped by female guidance, emotional responsiveness, 
 
 
 
-
-
-
 ### 4.2 Celeste Shelley
 
 [![img][Ban1]{ .artR width="460" }][Ban1]
@@ -264,26 +239,34 @@ Charlotte is a young woman shaped by female guidance, emotional responsiveness, 
 #### Core identity
 **Locked canon**
 
-Celeste Shelley was born in Victoria, Australia of ____ and ____ Shelley. They moved to the UK when she was little, and then her mother took her back to Australia __________. 
+Celeste Shelley was born in Torquay, Victoria, Australia of Lisbeth and Nigel Shelley. The family moved to the UK when she was little. Lisbeth took her back to their home in Torquay — without Nigel — when Celeste was nine. Celeste had a strong role model in her mum, who valued independence and critical thinking skills.
+
+Celeste excelled academically and socially at school, although she tended to stay a bit aloof of her peers as she grew older. A tumultuous, failed relationship with a blond midfielder (alluded to in Scene 49) was her only foray into the dating scene.
+
+Celeste drives a 10-year-old red Suzuki Swift, gift from her father.
 
 
 #### Essence
-Celeste is one of the chief governing intelligences of the story: strong, clear, female, interpretive, emotionally influential, and often decisive.
+Celeste is part of the governing intelligence of the story world. She is stronger and more decisive than Charlotte.
 
 
-#### Core qualities  
+**Emotionally:**
+- strong
+- decisive
+- interpretive
+- self-possessed  
+- tender but not sloppy  
+
+**Intellectually:**
+- exacting  
 - formative  
 - protective  
 - perceptive  
-- self-possessed  
-- emotionally exacting  
-- emotionally intelligent  
+- influential 
+- intelligent  
 - clear-headed under distress  
-- not sloppy in her tenderness  
-- not sentimental in a sloppy way  
-- stronger and more decisive than Charlotte  
-- capable of being the emotional and moral centre of a scene
-- capable of being protective, controlling, perceptive, and formative
+- usually the emotional and moral centre of a scene
+- usually protective, controlling, perceptive, and formative
 
 
 #### Strengths  
@@ -307,7 +290,7 @@ Celeste is one of the chief governing intelligences of the story: strong, clear,
 
  
 ### Core role
-Celeste is part of the central governing intelligence of the story world.
+
 
 
 ### Narrative importance
@@ -351,8 +334,31 @@ Celeste had earlier feared that Charli might not cope being away from the full W
 
 Celeste represents “home” to Charli, not merely in romance but in emotional shelter, orientation, and female placement.
 
-<hr class="section-break strong" />
+<hr class="section-break soft" />
 
+
+
+
+
+
+## 4.7 Mara Tallbanks
+**Locked / broader canon**
+
+Mara is part of the women’s competence network and is linked to training, professionalism, and Charli’s status change. She is dry, standards-led, and non-sentimental.
+
+Mara’s evolution in how she names Charli signals status change and metamorphosis.
+
+<hr class="section-break soft" />
+
+
+
+
+## 4.6 Lauren Rossignol
+**Locked canon**
+
+Lauren is part of the wider women-led network and has previously featured in emotionally significant scenes. She is associated with steadiness, survival, and practical recovery.
+
+She belongs to the broader female competence network around Wardrobe.
 
 
 
@@ -470,21 +476,9 @@ At present, Fiona serves as evidence that Charli’s teaching mode is legitimate
 
 ---
 
-## 4.6 Lauren Rossignol
-**Locked canon**
-
-Lauren is part of the wider women-led network and has previously featured in emotionally significant scenes. She is associated with steadiness, survival, and practical recovery.
-
-She belongs to the broader female competence network around Wardrobe.
 
 ---
 
-## 4.7 Mara Tallbanks
-**Locked / broader canon**
-
-Mara is part of the women’s competence network and is linked to training, professionalism, and Charli’s status change. She is dry, standards-led, and non-sentimental.
-
-Mara’s evolution in how she names Charli signals status change and metamorphosis.
 
 <hr class="section-break strong" />
 
@@ -553,10 +547,7 @@ The danger in scenes like the pool-party scene should come from **normality beco
 
 ## 6. Backstory and Deeper Continuity
 
-
 [![img][St10]{ .artR width="460" }][St10]
-
-
 
 ### 6.1 Earlier hormonal / developmental history
 **Locked canon**
@@ -565,7 +556,7 @@ Charli’s development includes:
 - very late male puberty
 - self-medication with spironolactone as a private “solution” to late puberty
 - spironolactone halting masculinisation and contributing to subtle feminisation
-- later supervised HRT approximately three months afterward
+- later supervised HRT approximately three months afterwards
 
 This history contributes to why she is now physically read as female.
 
@@ -577,7 +568,7 @@ Though physically read as female, Charli lacks much of the accumulated experienc
 ### 6.3 “Wife” label
 **Locked canon**
 
-The term “wife” for Charli originally came from Celeste casually assigning the role. Celeste did not initially understand how impactful the label would be. Other women heard it, agreed, and reinforced it, further shaping Charli’s emerging identity.
+The term “wife” for Charli originally came from Celeste casually assigning the role. Celeste did not initially understand the degree of impact the label would be. Other women heard it, agreed, and reinforced it, further shaping Charli’s emerging identity.
 
 <hr class="section-break strong" />
 
@@ -1940,4 +1931,31 @@ This matters because:
 - ordinary young-woman situations become practical tests of belonging  
 - Charli is now physically away from Celeste and the full women-led container
 
+
+
+
+
+
+
+
+
+
+
+- **_Celeste’s Girl_** establishes Charlotte / Charlie’s earlier transformation arc and the central Celeste–Charlotte dynamic.  
+- **_The Deep End_** expands outward into a new environment where Charlotte must function more independently.  
+- Possible later books continue into broader adulthood / business / city / deeper relational structures.
+
+### 3.2 Immediate current timeline in _The Deep End_
+**Locked / current working canon**
+
+Current discussion has reached:
+- Charli has arrived / settled into the Queensland setting.
+- The first week has passed relatively uneventfully.
+- Charli is now in **teaching mode** and loves it.
+- She is respected by those around her, including **Fiona**.
+- **Sarah** has been busy with finishing details of Wardrobe’s physical plant and has not been in Charli’s immediate orbit.
+- **Brittany** has remained observant, noticing things that do not wholly reconcile with “tomboy,” but has not probed further.
+- A major short phone scene with **Celeste** has just occurred, stabilising Charli and reaffirming their bond.
+- Scene Five is expected to move to **Friday night**, where the girls suggest a **pool party**.
+- Scene Six is expected to centre on Charli’s possible selective disclosure to Brittany, provided Brittany earns that trust in Scene Five.
 >
