@@ -2,7 +2,7 @@
 
 ## Miniatures
 
-**1) The incidental music for 'Celeste's Girl', Scene 1 "Are You Lost?"**
+**1) Incidental music for 'Celeste's Girl', Scene 1 "Are You Lost?"**
 
 ---
 
@@ -50,19 +50,32 @@ Or so I thought. And then, I purchased Dorico 6, and found that Musescore 4—bo
 /-->
 
 
-[![Celeste][Stk1]{ .artL width="160" }][Stk1]
+[![Celeste][Stk1]{ .artL width="380" }][Stk1]
 
-Updated: 11-July-2026, 2230
+**The Wrong Door**
 
 <div class="music-card music-card--with-art">
   <div>
-    <p>The Wrong Door - D</p>
+    <p>D
     <audio controls preload="metadata" class="music-player">
       <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoorD.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
+    </p>
   </div>
 </div>
+<div class="music-card music-card--with-art">
+  <div>
+    <p>E
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoor-Ea.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    </p>
+  </div>
+</div>
+
+*Updated: 06-Aug-2026, 1100*
 
 ---
 

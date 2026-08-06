@@ -1,12 +1,6 @@
-# Celeste Story Canon Bible 
+# Story Canon
 
-**(Working Draft)**
-
-
-
-[![Their Love][Br35b]{ .artC width="1100" }][Br35b]
-
-😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 —
+[![The Idea][Bnr01b]{ .artC width="800" }][Bnr01b]
 
 <hr class="section-break strong" />
 
@@ -14,24 +8,25 @@
 
 
 
-
-
-
 ## Purpose
-
 
 [![The Writer][St00]{ .artR width="460" }][St00]
 
+This is a **working Canon** for the 'Celeste's Girl' story world. The stories are in: 
 
-This is a **working canon bible** for Robyn’s story world, primarily covering **_Celeste’s Girl_** and **_The Deep End_**, with emphasis on:  
-- locked continuity  
+* **_Celeste’s Girl_** — ( being edited, to become: '_Unhidden_')
+* **_The Deep End_**
+* **_At Ballarat_** — (not yet written)
+
+The emphasis of this **Canon** is on:  
 - character truths  
+- locked continuity  
 - relational dynamics  
 - thematic guardrails  
 - scene-to-scene continuity  
 - open questions that should not yet be treated as settled canon  
 
-This document distinguishes between:  
+It distinguishes between:  
 - **Locked canon** — established and safe to treat as true  
 - **Provisional canon** — likely true / currently preferred, but still revisable  
 - **Open question** — deliberately unresolved  
@@ -47,46 +42,47 @@ This document distinguishes between:
 
 ## 1. Core Story Identity
 
-
 [![img][St01]{ .artR width="460" }][St01]
-
 
 ### 1.1 Project overview
 **Locked canon**
 
-Robyn is building a women-led story world centred on **Celeste**, **Charli**, and the wider female structure around them. The work explores:
-- gendered social conditioning
-- female competence and authority
-- belonging, dignity, and emotional safety
-- womanhood as lived social reality rather than abstraction
-- young women shaping one another through standards, care, and intelligent pressure
+The underlying idea to writing this is building a women-led story world centred on **Celeste**, **Charli**, and the wider female structure around them. The work explores:  
+- social strategies  
+- gendered social conditioning  
+- female competence and authority  
+- belonging, dignity, and emotional safety  
+- womanhood as lived social reality rather than abstraction  
+- young women shaping one another through standards, care, and intelligent pressure  
 
-The stories are not meant to be bleak for bleakness’ sake. They aim to be:
-- emotionally truthful
-- reader-protective without being dishonest
-- hopeful without sentimentality
-- clear-eyed about risk without becoming despair-driven
+The stories primarily use character dialogue to tell the story. They aim to be:  
+- emotionally truthful  
+- hopeful without sentimentality  
+- reader-protective without being dishonest  
+- clear-eyed about risk without becoming despair-driven  
+
 
 ### 1.2 Moral / tonal contract with the reader
 **Locked canon**
 
-The project’s governing promise is approximately:
-- the story does **not** deny that the world contains cruelty, danger, and social risk
-- the story does **not** surrender to fear as ultimate truth
-- the story does **not** humiliate vulnerable characters for hurting
-- the story aims to leave the reader steadier, clearer, and less ashamed
+The project’s governing promise is approximately:  
+- the story does **not** surrender to fear as ultimate truth  
+- the story does **not** humiliate vulnerable characters for hurting  
+- the story aims to leave the reader steadier, clearer, and less ashamed  
+- the story does **not** deny that the world contains cruelty, danger, and social risk  
 
-The work should model what a **sane, loving, non-panicked female response** sounds like.
+The work aims to model what a **sane, loving, non-panicked female response** sounds like.
+
 
 ### 1.3 General thematic centre
 **Locked canon**
 
-The stories privilege:
-- women as the stronger, deciding, structuring forces
-- female social intelligence
-- standards over sentimentality
-- protection through competence, order, and earned trust
-- transformation that is guided, not chaotic
+The stories privilege:  
+- female social intelligence  
+- standards over sentimentality  
+- transformation that is guided, not chaotic  
+- women as the stronger, deciding, structuring forces  
+- protection through competence, order, and earned trust  
 
 Wardrobe and related women-led environments are not merely accepting spaces; they are **containers of female governance and competence**.
 
@@ -101,42 +97,42 @@ Wardrobe and related women-led environments are not merely accepting spaces; the
 
 ## 2. World and Setting
 
-
 [![img][St02]{ .artR width="460" }][St02]
-
 
 ### 2.1 Wardrobe
 **Locked canon**
 
-Wardrobe is a women-led costume / craft / social environment shaped by:
-- standards
-- competence
-- practical intelligence
-- female hierarchy without pettiness
-- belonging conditional on behaviour and reliability
+Wardrobe is a women-led costume / craft / social environment shaped by:  
+- standards  
+- competence  
+- practical intelligence  
+- female hierarchy without pettiness  
+- belonging conditional on behaviour and reliability  
 
-It functions as more than a workplace. It is:
-- a social structure
-- a training ground
-- a place of containment and placement
-- a women’s competence network
+It functions as more than a workplace. It is:  
+- a training ground  
+- a social structure  
+- a women’s competence network  
+- a place of containment and placement  
+
 
 ### 2.2 Geography
 **Locked canon**
 
-- **Wardrobe proper** is in **Victoria**, off the **Great Ocean Road**.
-- The newer Faire / new site connected to **_The Deep End_** is in **Queensland**, near **Maleny** on the **Sunshine Coast**.
+- **Wardrobe proper** is in **Victoria**, off the **Great Ocean Road**.  
+- The newer Faire / new site connected to **_The Deep End_** is in **Queensland**, near **Maleny** on the **Sunshine Coast**.  
 - Earlier conceptions placing it on the Gold Coast have been superseded.
+
 
 ### 2.3 The new Faire / Queensland site
 **Locked canon**
 
 The Queensland site provides a new social environment in which Charli must function without the full day-to-day protective enclosure of Wardrobe.
 
-This matters because:
+This matters because:  
+- she must socially function in a new female group  
+- ordinary young-woman situations become practical tests of belonging  
 - Charli is now physically away from Celeste and the full women-led container
-- she must socially function in a new female group
-- ordinary young-woman situations become practical tests of belonging
 
 <hr class="section-break strong" />
 
@@ -145,19 +141,15 @@ This matters because:
 
 
 
-
-
 ## 3. Timeline Overview
 
-
 [![img][St03]{ .artR width="460" }][St03]
-
 
 ### 3.1 Broad project structure
 **Provisional canon**
 
-- **_Celeste’s Girl_** establishes Charli / Charlie’s earlier transformation arc and the central Celeste–Charli dynamic.
-- **_The Deep End_** expands outward into a new environment where Charli must function more independently.
+- **_Celeste’s Girl_** establishes Charlotte / Charlie’s earlier transformation arc and the central Celeste–Charlotte dynamic.  
+- **_The Deep End_** expands outward into a new environment where Charlotte must function more independently.  
 - Possible later books continue into broader adulthood / business / city / deeper relational structures.
 
 ### 3.2 Immediate current timeline in _The Deep End_
@@ -183,111 +175,187 @@ Current discussion has reached:
 
 
 
-## 4. Principal Character Canon
-
+## 4. Characters' Dossiers
 
 [![img][St04]{ .artR width="460" }][St04]
 
 
-### 4.1 Charli / Charlie / Charli Rossignol
+
+
+<hr class="section-break soft" />
+
+
+
+
+
+### 4.1 Charlie / Charli / Charlotte Rossignol
 **Locked canon**
 
 #### Core identity
-Charli is a young woman whose life has been shaped by a complex process of feminisation, social realignment, and female guidance.
+Charlotte Rossignol was born and registered in Victoria, Australia as Charles Rossignol. She spent her childhood and adolescence living as a boy before gradually coming to understand herself as female during late adolescence and early adulthood.
 
-She is:
-- petite
-- physically not strong
-- emotionally vulnerable but not weak in spirit
-- deeply responsive to female structure and approval
-- supportive rather than primary in energy
-- temperamentally aligned with womanhood
-- lacking some of the formative peer-group conditioning cis girls receive
+His mother Lauren observed from an early age that 'Charles' was quieter and more sensitive than most boys his age, and instinctively became protective of him. His father Roger was a ranking officer in the Australian Naval Forces and spent little time actually at home. Thus, Charles saw little of his father.
 
-#### Current social truth
+Growth and development — including puberty — was slow and incomplete. By the time he entered 'kindy', he was smaller than any of the other children. This size disparity continued during his school years.
+
+Charles was close to his mother — she was the centre of his life. When the decision was made to enter him into kindy, he adjusted poorly. He was traumatised by the separation from his mother — much more than most children experience. He failed to make many friends during those years, developing a coping mechanism that followed him throughout his youth. When he perceived himself to be under scrutiny — exposed, unwelcome or unsafe — he would make himself as unobtrusive as possible. His preferred strategy was not confrontation but disappearance.
+
+By the opening of the novel, Charles has become a quiet, observant young adult who expects little attention from others and has learned to navigate unfamiliar situations by remaining unnoticed wherever possible.
+
+Eventually, society will never see Charlotte as anything but a woman, but Charlotte doesn't understand what 'woman' means.
+
+
+#### Essence
+**Locked canon**
+ 
+- gentle  
+- petite  
+- observant  
+- emotionally sincere  
+- physically not strong  
+- useful when given a role  
+- prefers precision to speed  
+- notices patterns before rules  
+- understands materials intuitively  
+- collaborative rather than controlling  
+- temperamentally aligned with womanhood  
+- learns best through observation and practice  
+- emotionally vulnerable but not weak in spirit  
+- deeply responsive to female structure and approval  
+- derives satisfaction from making things quietly better  
+- lacking formative peer-group conditioning cis girls receive
+
+
+#### Social Truth
 **Locked canon**
 
-Charli is now physically indistinguishable from a cis girl her age, even to sharp-eyed cis women. Her social risks are therefore those of other young women, but she does **not** possess their accumulated lived experience.
+Charlotte is a young woman shaped by female guidance, emotional responsiveness, and a profound need to find her proper place. Thanks to a very late onset of puberty, she developed very little in the way of physical masculine traits and so after commencing HRT is physically indistinguishable from a cis woman. Her social risks are therefore those of other young women, but she does **not** possess their accumulated lived experience.
 
-#### Psychological / emotional truth
+
+#### Psyche
 **Locked canon**
 
-Charli:
-- wants to belong properly
-- is highly responsive to female guidance
-- tends toward accommodation rather than assertion
-- can be observant and intelligent under pressure
-- is often frightened not because she is melodramatic, but because she notices real ambiguity and danger before it fully arrives
-- is capable, useful, and well-regarded when given a clear role
+1) **Emotional Truth**
+- wants to belong properly  
+- is highly responsive to female guidance  
+- is observant and intelligent under pressure  
+- tends toward accommodation rather than assertion  
+- often thinks most clearly when immediate action is required
+- is capable, useful, and well-regarded when given a clear role  
+- is often frightened because she notices ambiguity and danger before it fully arrives
 
-#### Current _Deep End_ state
+2) **Strengths**  
+- teachable  
+- conscientious  
+- socially earnest  
+- sensitive to atmosphere  
+- capable of real competence  
+- capable of deep loyalty and trust
+
+3) **Vulnerabilities**
+- fear can rise quickly because she notices ambiguity acutely  
+- can feel suddenly unbuffered outside female protective structures  
+- easily thrown by situations where ordinary femininity becomes embodied
+
+<hr class="section-break soft" />
+
+
+
+
+
+
+
+
+
+
+### 4.2 Celeste Shelley
+
+[![img][Ban1]{ .artR width="460" }][Ban1]
+
+#### Core identity
 **Locked canon**
 
-Charli is thriving in teaching mode and winning respect in the Queensland setting. However, she remains vulnerable in situations where ordinary girlhood becomes bodily / socially complicated.
-
-#### Disclosure principle
-**Locked canon**
-
-Charli should not disclose private truths out of panic. If she discloses, it should be because another person has become someone she trusts.
-
-<hr class="section-break strong" />
+Celeste Shelley was born in Victoria, Australia of ____ and ____ Shelley. They moved to the UK when she was little, and then her mother took her back to Australia __________. 
 
 
+#### Essence
+Celeste is one of the chief governing intelligences of the story: strong, clear, female, interpretive, emotionally influential, and often decisive.
 
 
-
-
-
-
-## 4.2 Celeste Shelley
-
-
-[![img][St05]{ .artR width="460" }][St05]
-
-
-### Full Name: Celeste Shelley
-
-**Locked canon**
-
-### Core role
-Celeste is one of the central governing intelligences of the story world.
-
-She is:
-- stronger and more decisive than Charli
-- emotionally intelligent
-- clear-headed under distress
-- not sentimental in a sloppy way
+#### Core qualities  
+- formative  
+- protective  
+- perceptive  
+- self-possessed  
+- emotionally exacting  
+- emotionally intelligent  
+- clear-headed under distress  
+- not sloppy in her tenderness  
+- not sentimental in a sloppy way  
+- stronger and more decisive than Charlotte  
+- capable of being the emotional and moral centre of a scene
 - capable of being protective, controlling, perceptive, and formative
+
+
+#### Strengths  
+- provides moral atmosphere  
+- names feelings accurately  
+- steadies without patronising  
+- separates danger from uncertainty  
+- capable of bringing order into emotional confusion
+
+
+#### Vulnerabilities / complexities  
+- can be controlling  
+- may structure others before fully understanding her own motives  
+- bears genuine anxiety about whether those she loves will cope without her
+
+
+#### Current emotional truth
+- remains emotionally central even across distance
+- had feared Charli might not manage away from Wardrobe
+- is reassured by the phone scene that connection still holds
+
+ 
+### Core role
+Celeste is part of the central governing intelligence of the story world.
+
 
 ### Narrative importance
 **Locked canon**
 
-The story is, in a profound sense, at least as much about Celeste as it is about Charli. Her judgments, desires, interpretations, and structuring intelligence shape the emotional and moral atmosphere.
+The story is, in a profound sense, at least as much about Celeste as it is about Charlotte. Her judgment, desires, interpretations, and structuring intelligence shape the emotional and moral atmosphere.
+
 
 ### POV / voice rule
 **Locked canon**
 
-Celeste POV should be written in:
-- **1st person**
-- **past tense**
+Celeste POV, as indeed all character points-of-view, should be written in:  
+- **1st person**  
+- **past tense**  
 - crisp, non-explanatory, show-don’t-tell language
+
+Celeste has a dry sense of humour, which shows in her speech and her observations.
+
 
 ### Functional story role
 **Locked canon**
 
-Celeste often provides:
-- accurate naming
+Celeste often provides:  
+- accurate naming  
+- female moral atmosphere  
+- discernment rather than soothing cliché  
 - distinction between uncertainty and danger
-- discernment rather than soothing cliché
-- female moral atmosphere
+
 
 ### Current _Deep End_ state
 **Locked canon**
 
-Celeste had earlier feared that Charli might not cope being away from the full Wardrobe container. The recent phone scene reassures Celeste that:
-- Charli can still be reached
-- their bond still steadies her
+Celeste had earlier feared that Charli might not cope being away from the full Wardrobe container. The recent phone scene reassures Celeste that:  
+- Charli can still be reached  
+- their bond still steadies her  
 - distance has changed the form of support, not erased it
+
 
 ### Key relational truth
 **Locked canon**
@@ -305,9 +373,7 @@ Celeste represents “home” to Charli, not merely in romance but in emotional 
 
 ## 4.3 Sarah St Michaels
 
-
 [![img][St06]{ .artR width="460" }][St06]
-
 
 **Locked canon**
 
@@ -1042,42 +1108,40 @@ This scene reassures:
 
 
 
-## 17. Core Character Dossiers (Working Draft)
+
+<!--
+Gerald Finzi - Three Soliloquies from "Love's Labours Lost"
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧👢✨…
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  —
+/-->
+
+
+
+
+
+
+
+
+
+
+
+## 17. 'The Deep End' (Working Draft)
 
 
 [![img][St19]{ .artR width="460" }][St19]
 
 
 ### 17.1 Charli dossier
+**Locked canon**
 
-#### Status
-**Locked core dossier**
+Charli is thriving in teaching mode and winning respect in the Queensland setting. However, she remains vulnerable in situations where ordinary girlhood becomes bodily / socially complicated.
 
-#### Essence
-Charli is a young woman shaped by female guidance, emotional responsiveness, and a profound need for proper placement.
 
-#### Core qualities
-- temperamentally aligned with womanhood
-- emotionally sincere
-- observant
-- gentle
-- useful when given a role
-- vulnerable without being empty or passive
-- more supportive than dominant in energy
+#### Disclosure principle
+**Locked canon**
 
-#### Strengths
-- teachable
-- conscientious
-- capable of real competence
-- socially earnest
-- sensitive to atmosphere
-- capable of deep loyalty and trust
+Charli should not disclose private truths out of panic. If she discloses, it should be because another person has become someone she trusts.
 
-#### Vulnerabilities
-- lacks accumulated girlhood experience
-- can feel suddenly unbuffered outside female protective structures
-- easily thrown by situations where ordinary femininity becomes embodied
-- fear can rise quickly because she notices ambiguity acutely
 
 #### Current emotional truth
 - deeply misses Celeste
@@ -1087,6 +1151,7 @@ Charli is a young woman shaped by female guidance, emotional responsiveness, and
 
 #### Current pressure point
 The pool-party scenario threatens to expose the gap between social belonging and bodily ease.
+
 
 <hr class="section-break strong" />
 
@@ -1099,44 +1164,14 @@ The pool-party scenario threatens to expose the gap between social belonging and
 
 ## Celeste
 
-
 [![img][St20]{ .artR width="460" }][St20]
-
-
 
 ### 17.2 Celeste dossier
 
 #### Status
 **Locked core dossier**
 
-#### Essence
-Celeste is one of the chief governing intelligences of the story: strong, clear, female, interpretive, emotionally influential, and often decisive.
 
-#### Core qualities
-- perceptive
-- self-possessed
-- emotionally exacting
-- protective
-- formative
-- not sloppy in her tenderness
-- capable of being the emotional and moral centre of a scene
-
-#### Strengths
-- names feelings accurately
-- separates danger from uncertainty
-- steadies without patronising
-- provides moral atmosphere
-- capable of bringing order into emotional confusion
-
-#### Vulnerabilities / complexities
-- can be controlling
-- may structure others before fully understanding her own motives
-- bears genuine anxiety about whether those she loves will cope without her
-
-#### Current emotional truth
-- had feared Charli might not manage away from Wardrobe
-- is reassured by the phone scene that connection still holds
-- remains emotionally central even across distance
 
 #### Relational role
 Celeste is “home” to Charli: not merely beloved, but orienting.
@@ -1324,6 +1359,17 @@ Fiona is one of the local figures whose respect matters. She helps signal whethe
 #### Current narrative function
 Fiona’s regard helps establish that Charli is becoming credible and valued in the new setting.
 
+
+Family background.
+Nursing career.
+Personality.
+Strengths.
+Blind spots.
+Marriage to Roger.
+Relationship with Charlie before the novel begins.
+Core values.
+Things she believes to be true at the opening of the story.
+Things she doesn't yet know.
 <hr class="section-break strong" />
 
 
@@ -1355,6 +1401,10 @@ Fiona’s regard helps establish that Charli is becoming credible and valued in 
 _End of working draft._
 
 <hr class="section-break strong" />
+
+
+
+
 
 
 
@@ -1838,13 +1888,13 @@ I stopped to taste it. “French for: Nightingale.”
 
 <!--   Image Links    /-->
 
-[Bnr03b]: ../assets/images/base/Bnr03b.jpg
+[Bnr01b]: ../assets/images/base/Bnr01b.jpg
 [St00]: ../assets/images/base/00Writer.jpg
 
-[St01]: ../assets/images/story/Scene03a.jpg
-[St02]: ../assets/images/story/Scene03a.jpg
+[St01]: ../assets/images/story/Scene01a.jpg
+[St02]: ../assets/images/story/Scene02a.jpg
 [St03]: ../assets/images/story/Scene03a.jpg
-[St04]: ../assets/images/story/Scene03a.jpg
+[St04]: ../assets/images/story/Scene04a.jpg
 [St05]: ../assets/images/story/Scene05a.jpg
 [St06]: ../assets/images/story/Scene06a.jpg
 [St07]: ../assets/images/story/Scene07a.jpg
@@ -1877,8 +1927,11 @@ I stopped to taste it. “French for: Nightingale.”
 [St34]: ../assets/images/story/Scene34a.jpg
 [St35]: ../assets/images/story/Scene35a.jpg
 
+[Ban1]: ../assets/images/base/01nCeleste.jpg
+
 <!--
 😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 👗 👚 👜 👠 🩰 💄  💞 💖 ❤️ 💋 🎻 📒 🩸 💧 🚺 ❤️ 🫧 🌩 🌧 🧵 🪡 —
+😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 —
 /-->
 
 <hr class="section-break strong" />
