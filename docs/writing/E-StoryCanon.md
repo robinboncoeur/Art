@@ -283,13 +283,6 @@ Celeste is part of the governing intelligence of the story world. She is stronge
 - bears genuine anxiety about whether those she loves will cope without her
 
 
-#### Current emotional truth
-- remains emotionally central even across distance
-- had feared Charli might not manage away from Wardrobe
-- is reassured by the phone scene that connection still holds
-
- 
-### Core role
 
 
 
@@ -1152,6 +1145,13 @@ The pool-party scenario threatens to expose the gap between social belonging and
 **Locked core dossier**
 
 
+#### Current emotional truth
+- remains emotionally central even across distance
+- had feared Charli might not manage away from Wardrobe
+- is reassured by the phone scene that connection still holds
+
+ 
+### Core role
 
 #### Relational role
 Celeste is “home” to Charli: not merely beloved, but orienting.

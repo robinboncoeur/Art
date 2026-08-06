@@ -55,7 +55,83 @@ Mara’s face didn’t change much, but her eyes softened — the smallest shift
 
 “Mmm,” Mara said. “Yes.”
 
-Lauren exhaled slowly.
+Lauren exhaled slowly. She turned to the fitting curtain. Lucy had stepped away from the mannequin, and was eyeing the sleeve with narrowed eyes.
+
+"Watch carefully," she said to Charlie. "See what happens."
+
+She lifted the mannequin's arms. I saw Charlie's head tilt slightly as the fabric tightened.
+
+“Mara,” Charlie said, soft, cautious. “This seam pulls when you raise the arm.”
+
+“Good catch.” Mara didn't sound surprised. “Physics always wins, even over lovely sewing.”
+
+He quietly held the bodice steady while Lucy re-pinned the line.
+
+"I might have my coffee before it goes cold," Lauren said. "Join me?"
+
+Mara motioned for me to follow them into the tearoom. Lauren found a clean plate and deposited a 'pull-apart' that was still warm, then handed me a coffee. Mara sat at her usual spot sipping her beverage thoughtfully.
+
+Lauren had a sip, then turned to her.
+
+“You know, when Charles left the house—,” she said, carefully.
+
+Mara didn’t look up.
+
+“Charlie.”
+
+Lauren blinked: a small recalibration.
+
+“When *Charlie* left the house this morning, he seemed— I dont know,” she paused. “Keen. That's it. Keen.”
+
+The word 'keen' sat in the air like something unexpected.
+
+Mara wordlessly pulled at the pastry. Her eyes caught mine.
+
+Lauren stared at her cup.
+
+“I remember when I first got into nursing,” she murmured, almost to herself. "My dad was so proud. And my mum: furious." Her head tipped slightly. "I suppose she didn't see it as a career."
+
+Mara set her cup down.
+
+“But you got the degree anyway?”
+
+Lauren's smile showed no humour. She continued to stare at her cup.
+
+"It was hospital-based training, not Uni," she said. "BMy parents wanted to see me married. But my dad wanted me to be happy, more than anything."
+
+She wrapped her hands around the cup, her lips tight.
+
+"Sounds like you ended up making both of your parents happy," Mara said carefully, unusually gently, for her.
+
+Lauren's lips twitched politely.
+
+"Yes, I suppose." She looked up. 
+
+
+
+
+
+
+*I’ve learned how to do this without needing to be thanked for it*.
+
+She set one near Mara’s elbow, who stared at it.
+
+“Don’t make it a thing,” Lauren said, already turning away, as if generosity had to be smuggled in. 
+
+Mara picked up the cup and took a sip.
+
+Lauren’s smile flashed, real.
+
+From the fitting corner, Charlie glanced over: two women, briefly aligned. Whatever crossed his face didn’t stay long. He went back to the seam, held the cloth steady, and Mara corrected the line.
+
+He held the work.
+
+They held everything else.
+
+
+
+
+----
 
 “You’re protective of your staff,” Lauren said, gently.
 
@@ -76,79 +152,3 @@ Lauren’s gaze flicked away, briefly.
 Mara looked at her properly then, steady as a level.
 
 “Yes,” Mara agreed firmly. “Exactly.”
-
-She turned to the fitting curtain. Lucy had stepped away from the mannequin, and was eyeing the sleeve with narrowed eyes.
-
-"Watch carefully," she said to Charlie. "See what happens."
-
-She lifted the mannequin's arms. I saw Charlie's head tilt slightly as the fabric tightened.
-
-“Mara,” Charlie said, soft, cautious. “This seam pulls when you raise the arm.”
-
-“Good catch.” Mara didn't sound surprised. “Physics always wins, even over lovely sewing.”
-
-He quietly held the bodice steady while Lucy re-pinned the line.
-
-"I might have my coffee before it goes cold," Lauren said. "Join me?"
-
-Mara motioned for me to follow them into the tearoom. Lauren found a clean plate and deposited a 'pull-apart' that was still warm, then handed me a coffee. Mara sat at her usual spot sipping her beverage thoughtfully.
-
-Lauren had a sip, then turned to her.
-
-“Charles seems... different,” she said, carefully.
-
-Mara didn’t look up.
-
-“Charlie.”
-
-Lauren blinked: a small recalibration.
-
-===
-
-“Charlie — seems more — himself,” she repeated. “He seems to feel part of this room. Valued.”
-
-The word 'valued' sat in the air like something unexpected, as if it wasn’t a word frequently in her mouth.
-
-Mara’s hands kept moving.
-
-“Charlie's value is partly in his temperament,” she said. “It affects how he approaches tasks.” Lauren’s eyes stayed fixed on the garment. “That's more important than skill.”
-
-Lauren nodded slowly, as if she wanted to hear that said out loud by someone other than herself.
-
-“How so?”
-
-Mara tugged the fabric once, then twice, testing tension.
-
-“Temperament makes it possible to accept our standards,” she said. “Accept responsibility. Work respectfully.”
-
-Lauren stood very still, like those words were something she could finally put weight onto. 
-
-"I see." Her smile went slightly crooked watching Charlie's hands. "I must have been blind. I only saw the boy in my head and not this... Charlie at all. He's so — settled, now. And..." Her brows furrowed, as if unwilling to say what was so clear now. "He — fits in. I mean, he blends in. He's like — "
-
-She stopped. The room sat in silence, as if waiting to hear her say it. Mara broke the tension.
-
-"He's settled in here because his temperament suits the environment."
-
-Lauren seemed to grasp at that explanation the way parched lips welcome lip balm. She sat for a moment staring into the space before her, then her voice lifted a fraction, almost teasing:
-
-“Could I entice you with a coffee?”
-
-Mara’s mouth twitched — one of her rare allowances.
-
-Lauren moved to the side bench and opened the paper bag. Two coffees emerged — practical cups, ones with lids, that said: 
-
-*I’ve learned how to do this without needing to be thanked for it*.
-
-She set one near Mara’s elbow, who stared at it.
-
-“Don’t make it a thing,” Lauren said, already turning away, as if generosity had to be smuggled in. 
-
-Mara picked up the cup and took a sip.
-
-Lauren’s smile flashed, real.
-
-From the fitting corner, Charlie glanced over: two women, briefly aligned. Whatever crossed his face didn’t stay long. He went back to the seam, held the cloth steady, and Mara corrected the line.
-
-He held the work.
-
-They held everything else.

@@ -10,7 +10,7 @@
 
 ## Celeste's Girl
 
-[![img][St10]{ .artR width="460" }][St10]
+[![img][St08]{ .artR width="460" }][St08]
 
 This book asks the question: **Can I belong without disappearing?**
 
