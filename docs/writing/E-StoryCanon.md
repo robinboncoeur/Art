@@ -119,20 +119,9 @@ It functions as more than a workplace. It is:
 ### 2.2 Geography
 **Locked canon**
 
-- **Wardrobe proper** is in **Victoria**, off the **Great Ocean Road**.  
-- The newer Faire / new site connected to **_The Deep End_** is in **Queensland**, near **Maleny** on the **Sunshine Coast**.  
-- Earlier conceptions placing it on the Gold Coast have been superseded.
+**Wardrobe proper** is in **Victoria**, off the **Great Ocean Road**.  
 
-
-### 2.3 The new Faire / Queensland site
-**Locked canon**
-
-The Queensland site provides a new social environment in which Charli must function without the full day-to-day protective enclosure of Wardrobe.
-
-This matters because:  
-- she must socially function in a new female group  
-- ordinary young-woman situations become practical tests of belonging  
-- Charli is now physically away from Celeste and the full women-led container
+Note: *Earlier conceptions placing it on the Gold Coast have been superseded.*
 
 <hr class="section-break strong" />
 
@@ -1935,3 +1924,20 @@ I stopped to taste it. “French for: Nightingale.”
 /-->
 
 <hr class="section-break strong" />
+
+
+
+<!--
+
+### 2.3 The new Faire / Queensland site
+**Locked canon**
+
+The newer Faire / new site connected to **_The Deep End_** is in **Queensland**, near **Maleny** on the **Sunshine Coast**.  
+The Queensland site provides a new social environment in which Charli must function without the full day-to-day protective enclosure of Wardrobe.
+
+This matters because:  
+- she must socially function in a new female group  
+- ordinary young-woman situations become practical tests of belonging  
+- Charli is now physically away from Celeste and the full women-led container
+
+>
