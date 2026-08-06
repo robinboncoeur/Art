@@ -1701,3 +1701,954 @@ You can use this function by passing a number between 512 and 2014 to it, and it
 
 
 <hr class="section-break strong" />
+
+
+
+
+## BASH-ZSH
+
+cd /Users/robyn/Sites/projects && mkdocs build
+
+cd /Users/robyn/Sites/art && mkdocs serve
+
+cd /Users/robyn/Sites/projects && mkdocs serve
+
+cd /Users/robyn/Sites/keys2life && mkdocs serve
+
+pip install mkdocs-glightbox
+
+cd ..
+
+for f in *.png; do ffmpeg -i "$f" "${f%.*}.jpg"; done
+
+dig +dnssec +multi tightbytes.com\
+
+pip install -r requirements.txt
+
+/usr/local/opt/python@3.10/bin/python3.10 -m pip install --upgrade pip
+
+curl -4 ifconfig.co
+
+grep 2ud1tmgr
+
+python3 --version
+
+python3 aJConv.py
+
+cd ./conversations
+
+python3 aJConv.py
+
+python3 aJConv.py
+
+git status
+
+git ls-files | grep audiobook
+
+git log --all --stat | grep audiobook
+
+git filter-repo --path assets/audiobook --invert-paths
+
+brew install git-filter-repo
+
+git filter-repo --path assets/audiobook --invert-paths
+
+cd /Users/robyn/Sites/art && mkdocs serve
+
+git clone https://github.com/robinboncoeur/HelpYrself.git .
+
+git init
+
+git remote add origin https://github.com/robinboncoeur/HelpYrself.git
+
+git add .
+
+git commit -m "Initial commit"
+
+git push -u origin main
+
+git remote -v
+
+git remote set-url origin https://github.com/robinboncoeur/HelpYrself.git
+
+git push -u origin main
+
+git push -u origin main
+
+git commit -m "Initial commit"
+
+git push -u origin main
+
+git add .
+
+git commit -m "Initial commit"
+
+git push -u origin main
+
+cd /Users/robyn/Sites/dev && mkdocs serve
+
+git add .
+
+git commit -m "Initial commit"
+
+git add .
+
+git commit -m "Initial commit"
+
+git push -u origin main
+
+git status
+
+git branch
+
+git branch -M main
+
+mkdocs --version
+
+python3 -m pip install -U mkdocs
+
+python3 -v
+
+which python3
+
+python3 -m venv .venv
+
+source .venv/bin/activate
+
+python3 -m pip install --upgrade pip
+
+pip install zensical
+
+pip install pymdown-extensions mkdocstrings[python] mkdocs-glightbox pymdown-extensions 
+
+mkdocs-git-revision-date-localized-plugin
+
+pip install pymdown-extensions mkdocstrings mkdocs-glightbox pymdown-extensions 
+
+mkdocs-git-revision-date-localized-plugin
+
+zensical build --clean
+
+zensical serve
+
+deactivate
+
+ls
+
+cd /Users/robyn/Sites/art && source .venv/bin/activate && zensical serve
+
+pip install --upgrade zensical
+
+zensical --version
+
+deactivate
+
+ssh robyn@celestesgrl.local
+
+ifconfig
+
+ssh robyn@celestesgrl.local
+
+hostname -I
+
+hostname -f
+
+hostname -d
+
+ssh robyn@pi.local
+
+nmap
+
+sudo nmap -sn 192.168.1.0/24
+
+ssh robyn@celestesgrl.local
+
+ssh robyn@grldrive.local
+
+ssh robyn@grlgate.local
+
+ssh robyn@seabrae.local
+
+cd /Users/robyn/Sites/art && source .venv/bin/activate && zensical serve
+
+base64 -i //Users/robyn/Desktop/Logo-RCAS.png
+
+python3 -m venv .venv
+
+source .venv/bin/activate
+
+python --version
+
+python scripts/import_paypal_mbox.py data/paypal db/txn_match.db
+
+parse_paypal_subjects.py db/txn_match.db
+
+python scripts/parse_paypal_subjects.py db/txn_match.db
+
+python scripts/sample_paypal_bodies.py db/txn_match.db output/paypal_body_samples.md --limit 4
+
+brew install db-browser-for-sqlite
+
+cd ./art
+
+git checkout main
+
+git merge master
+
+git config --global init.defaultBranch main
+
+git branch -D master
+
+git push origin --delete master
+
+git checkout main
+
+git merge --allow-unrelated-histories master
+
+git merge --allow-unrelated-histories origin/master
+
+git push origin --delete master
+
+tailscale logout
+
+sudo tailscale logout
+
+sudo rm -rf /var/db/tailscale
+
+sudo rm -rf /Applications/Tailscale.app
+
+cd /Users/robyn/Sites/art && mkdocs serve
+
+sudo rm -rf /var/db/tailscale
+
+sudo rm -rf /Applications/Tailscale.app
+
+sudo rm -rf /var/db/tailscale
+
+ssh robyn@seabrae.local
+
+ssh ssh@192.168.0.134
+
+ssh celestesh@192.168.0.134
+
+ssh celestesh@i5seabrae
+
+ssh robyn@seabrae.local
+
+defaults write com.apple.dock ResetLaunchPad -bool true
+
+killall Dock
+
+ssh robyn@seabrae.local
+
+ssh robyn@192.168.0.255
+
+ssh robyn@robyn-amd
+
+ssh robyn@192.168.0.255
+
+hostname -I
+
+hostname -f
+
+hostname -s
+
+hostname -d
+
+hostname -name-of-host
+
+ip -4 addr
+
+ipconfig getifaddr en0
+
+ifconfig
+
+networksetup -listallhardwareports
+
+ipconfig getifaddr en0
+
+ipconfig getifaddr en1
+
+ipconfig getifaddr en3
+
+docker compose down
+
+exit
+
+ssh robyn@i5desktop
+
+ssh robyn@robyn-i5desktop
+
+ssh robyn@192.168.0.201
+
+ssh robyn@robyn-i5desktop
+
+ssh celestesh@i5seabrae
+
+ssh celestesh@192.168.0.134
+
+ssh robyn@robyn-amd
+
+ssh robyn@robyn-amd
+
+ssh celestesh@i5seabrae
+
+ssh charlotte@charlotte-macbookair
+
+cd ./Desktop/afpages
+
+scp hero.jpg celestesh@100.114.231.3:~/docker/afpages/public/assets/images/hero.jpg
+
+scp gallery-01.jpg celestesh@100.114.231.3:~/docker/afpages/public/assets/images/gallery-01.jpg
+
+scp gallery-02.jpg celestesh@100.114.231.3:~/docker/afpages/public/assets/images/gallery-02.jpg && scp gallery-03.jpg 
+
+celestesh@100.114.231.3:~/docker/afpages/public/assets/images/gallery-03.jpg
+
+scp hero.jpg celestesh@100.114.231.3:~/docker/afpages/public/assets/images/hero.jpg
+
+scp hero.jpg celestesh@100.114.231.3:~/docker/afpages/public/assets/images/hero.jpg
+
+scp hero.jpg celestesh@100.114.231.3:~/docker/afpages/public/assets/images/hero.jpg
+
+scp celestesh@100.114.231.3:~/docker/afpages-backup-2026-05-07_21-54.tar.gz afpages-backup-2026-05-07_21-54.tar.gz
+
+ls ~/.ssh
+
+ssh robyn@robyn-amd
+
+scp celestesh@100.114.231.3:~/docker/comfyui-docker/docker-compose.yml docker-compose.yml
+
+ls celestesh@100.114.231.3:~/docker/comfyui-docker/
+ping celestesh@100.114.231.3
+
+scp robyn@robyn-amd:~/docker/comfyui-docker/docker-compose.yml docker-compose.yml
+
+scp robyn@robyn-amd:~/docker/comfyui-docker/start.sh start.sh
+
+rsync -ah --progress ~/docker/comfyui-docker-clean-baseline.tar.gz comfyui-docker-clean-baseline.tar.gz
+
+rsync -ah --progress robyn@robyn-amd:~/docker/comfyui-docker-clean-baseline.tar.gz 
+
+comfyui-docker-clean-baseline.tar.gz
+
+rsync -ah --progress comfyui-docker-clean-baseline.tar.gz robyn@robyn-i5desktop:~/comfui-export
+/comfyui-docker-clean-baseline.tar.gz
+
+rsync -ah --progress comfyui-docker-clean-baseline.tar.gz robyn@robyn-i5desktop:~/comfyui-export/comfyui-docker-clean-baseline.tar.gz
+
+rsync -ah --progress docker-compose.yml robyn@robyn-i5desktop:~/comfyui-export/docker-compose.yml
+ls -l
+rsync -ah --progress start.sh robyn@robyn-i5desktop:~/comfyui-export/start.sh
+sync
+rsync -ah --progress robyn@robyn-amd:~/docker/Dockerfile Dockerfile
+
+rsync -ah --progress robyn@robyn-amd:~/docker/comfyui-docker/Dockerfile Dockerfile
+
+git clone https://github.com/jtackaberry/reaticulate.git
+
+cd ./reaticulate
+
+touch .luarc.json
+
+git submodule update --init --recursive
+
+ssh robyn@robyn-amd
+
+du -sh .git
+
+git count-object -vH
+
+git count-objects -vH
+
+git gc --prune=now
+
+git count-objects -vH
+
+du -sh .git
+
+git reflog expire --expire=now --all
+
+git gc --aggressive --prune=now
+
+git count-objects -vH
+
+git clone https://github.com/robinboncoeur/Art.git
+
+git clone https://github.com/robinboncoeur/Art.git
+
+git gc --aggressive --prune=now
+
+cd ./Art
+
+git gc --aggressive --prune=now
+
+git filter-repo
+
+git filter-repo --help
+
+git filter-repo --analyze
+
+ssh robyn@seabrae.local
+
+ssh celestesh@i5seabrae
+
+rsync -avhn --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/ytdl/
+
+rsync -avh --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/ytdl/
+
+rsync -avhn --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/cg/
+
+rsync -avh --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/cg/
+
+rsync -avhn --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/video/cg/
+
+rsync -avh --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/video/cg/
+
+rsync -avhn --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/videos/cg/
+
+rsync -avh --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/videos/cg/
+
+rsync -avhn --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/videos/eu/
+
+rsync -avh --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/videos/eu/
+
+rsync -avhn --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/videos/nz/
+
+rsync -avh --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/videos/nz/
+
+rsync -avhn --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/videos/hi/
+
+rsync -avh --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/videos/hi/
+
+rsync -avhn --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/cg/
+
+rsync -avh --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/cg/
+
+rsync -avh --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/cg/
+
+ffprobe -hide_banner Sketch15VF.mp4
+
+ffmpeg -i Sketch15VF.mp4 \\
+  -c:v libx264 \\
+  -profile:v high \\
+  -level 4.0 \\
+  -pix_fmt yuv420p \\
+  -crf 18 \\
+  -preset medium \\
+  -c:a aac \\
+  -b:a 160k \\
+  -movflags +faststart \\
+  Sketch15VF-web.mp4
+
+ffmpeg -i Sketch15EN.mp4 \\
+  -c:v libx264 \\
+  -profile:v high \\
+  -level 4.0 \\
+  -pix_fmt yuv420p \\
+  -crf 18 \\
+  -preset medium \\
+  -c:a aac \\
+  -b:a 160k \\
+  -movflags +faststart \\
+  Sketch15EN-web.mp4
+
+ffmpeg -i C01.mp4 \\
+  -c:v libx264 \\
+  -profile:v high \\
+  -level 4.0 \\
+  -pix_fmt yuv420p \\
+  -crf 18 \\
+  -preset medium \\
+  -c:a aac \\
+  -b:a 160k \\
+  -movflags +faststart \\
+  C01a.mp4
+
+ffmpeg -i C03.mp4 \\
+  -c:v libx264 \\
+  -profile:v high \\
+  -level 4.0 \\
+  -pix_fmt yuv420p \\
+  -crf 18 \\
+  -preset medium \\
+  -c:a aac \\
+  -b:a 160k \\
+  -movflags +faststart \\
+  C03a.mp4
+
+rsync -avhn --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/sk/
+
+rsync -avh --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/sk/
+
+rsync -avh --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/sk/
+
+rsync -avh --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/videos/cg/
+
+rsync -avh --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/videos/cg/
+
+rsync -avh --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/videos/au/
+
+rsync -avhn --progress /Users/robyn/Desktop/to-amd/ robyn@robyn-amd:~/to-amd/
+
+rsync -avh --progress /Users/robyn/Desktop/to-amd/ robyn@robyn-amd:~/to-amd/
+
+ssh celestesh@i5seabrae
+
+ssh robyn@robyn-amd
+
+rsync -avhn --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/videos/hi/
+
+rsync -avh --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/videos/hi/
+
+cd /Users/robyn/Sites/art && mkdocs serve
+
+git init
+
+git branch -M main
+
+git add .
+
+git commit -m "Initial Commit"
+
+git remote add origin https://github.com/robinboncoeur/dev.git
+
+git push -u origin main
+
+git push -u origin main
+
+ls -l
+
+git status
+
+git remote -v
+
+git fetch origin
+
+sudo "/Volumes/Monterey/Applications/Install macOS Monterey.app/Contents/Resources/createinstallmedia" --volume "/Volumes/MacOS Mty"
+
+ls -la "/Volumes/Monterey/Applications/Install macOS Monterey.app"
+
+ls -la "/Volumes/Monterey/Applications/Install macOS Monterey.app/Contents"
+
+ls -la "/Volumes/Monterey/Applications/Install macOS Monterey.app/Contents/Resources"
+
+ls -la "/Volumes/Monterey/Applications/Install macOS Monterey.app/Contents/SharedSupport"
+
+sudo installer -pkg "$HOME/Downloads/InstallAssistant.pkg" -target /
+
+sudo installer -pkg "$HOME/Downloads/InstallAssistant.pkg" -target /
+
+sw_vers
+
+pkgutil --check-signature "$HOME/Downloads/InstallAssistant.pkg"
+
+ls -lh "$HOME/Downloads/InstallAssistant.pkg"
+
+df -h /
+
+ls -ld "/Applications/Install macOS Monterey.app"
+
+sudo rm -rf "/Applications/Install macOS Monterey.app"
+
+sudo installer -pkg "$HOME/Downloads/InstallAssistant.pkg" -target /
+
+softwareupdate --list-full-installers
+
+sudo softwareupdate --fetch-full-installer --full-installer-version 12.7.6
+
+ls -la "/Applications/Install macOS Monterey.app/Contents/SharedSupport"
+
+du -sh "/Applications/Install macOS Monterey.app"
+
+sudo softwareupdate --fetch-full-installer --full-installer-version 12.7.6
+
+du -sh "/Applications/Install macOS Monterey.app"
+
+ls -la "/Applications/Install macOS Monterey.app/Contents/SharedSupport"
+
+sudo rm -rf "/Applications/Install macOS Monterey.app"
+
+sudo softwareupdate --fetch-full-installer --full-installer-version 12.7.6
+
+du -sh "/Applications/Install macOS Monterey.app"
+
+ps aux | grep -i install
+
+bash ./3mkv2mp3.sh
+
+python3 chatgpt_export_to_md.py
+
+ssh celestesh@i5seabrae
+
+rsync -avh --progress /Users/robyn/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/images/e/
+
+curl -I http://100.114.231.3:8081/
+
+nc -vz 100.114.231.3 22\
+
+nc -vz 100.114.231.3 8080\
+
+nc -vz 100.114.231.3 8081\
+
+nc -vz 100.114.231.3 9443
+
+nc -vz 100.114.231.3 22
+
+tailscale status
+
+find . -name "search_index.json" -ls
+
+grep -R "site.css" .
+
+find . -name .DS_Store -print0 | xargs -0 git rm --cached
+
+git ls-files | grep '\.DS_Store$'
+
+git ls-files -z | grep -z '\.DS_Store$' | xargs -0 git rm --cached --ignore-unmatch
+
+git add .gitignore
+
+git commit -m "Stop tracking .DS_Store files"
+
+git check-ignore -v docs/archive/.DS_Store
+
+pip install streamlit
+
+/usr/local/opt/python@3.10/bin/python3.10 -m pip install --upgrade pip
+
+streamlit run app.py
+
+cd ./IdeoGram-PromptBuilder
+
+streamlit run app.py
+cd ..
+
+streamlit run ./PBFluxQwen/app.py
+
+bash ./3mkv2mp3.sh
+
+sudo kilall coreaudiod
+
+sudo killall coreaudiod
+
+sudo launchctl kickstart -k system/com.apple.audio.coreaudiod
+
+sudo launchctl stop com.apple.audio.coreaudiod
+
+python3 extract_chatgpt_export_v2.py /User/robyn/Desktop/GPT
+
+ls /Users/robyn/Desktop/GPT
+
+python3 extract_chatgpt_export_v2.py /Users/robyn/Desktop/GPT
+
+python3 markdown_to_sqlite.py /Users/robyn/Desktop/GPT/chatgpt_export_md
+
+ssh celestesh@i5seabrae
+
+cd ./FCP-Projects
+
+tar -cf "CloserLook02.fcpbundle.tar" "CloserLook02.fcpbundle"
+
+cd ./Anne
+
+tar -cf "AnneIsCkg.fcpbundle.tar" "Anne"
+
+cd ..
+
+tar -cf "AnneIsCkg.fcpbundle.tar" "Anne"
+
+tar -cf "AnneIsCkg.fcpbundle.tar" "Anne"
+
+rsync -avhn --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/ytdl/
+
+rsync -avh --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/ytdl/
+
+ifconfig
+
+sudo find /mnt/seamedia/public/audio/ytdl -type f -exec chmod 644 {} \;
+
+sudo find celestesh@i5Seabrae:/mnt/seamedia/public/audio/ytdl -type f -exec chmod 644 {} \;
+
+ssh celestesh@i5Seabrae 'sudo find /mnt/seamedia/public/audio/ytdl -type f -exec chmod 644 {} +'
+
+ssh -t celestesh@i5Seabrae '\
+  sudo find /mnt/seamedia/public/audio/ytdl -type d -exec chmod 755 {} +\
+  sudo find /mnt/seamedia/public/audio/ytdl -type f -exec chmod 644 {} +\
+
+ssh-keygen -t ed25519 -C "Robyns MacBook Pro"
+
+ssh-copy-id celestesh@i5Seabrae
+
+cat ~/.ssh/id_ed25519.pub | ssh celestesh@i5Seabrae 'mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys && chmod 700 ~
+/.ssh && chmod 600 ~/.ssh/authorized_keys'
+
+ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+
+ssh-add --apple-use-keychain ~/.ssh/ed25519
+
+nano ~/.ssh/config
+
+cd ..
+
+tar -cf "OurHawaii01.fcpbundle.tar" "OurHawaii01"
+
+tar -cf "OurHawaii01.fcpbundle.tar" "FCP-Projects"
+
+cd ./FCP-Projects
+
+tar -cf "OurHawaii01.fcpbundle.tar" "OurHawaii01.fcpbundle"
+
+ssh celestesh@i5seabrae
+
+ssh i5seabrae
+cd /Users/robyn/Sites/art && mkdocs serve
+ssh celestesh@i5seabrae
+cd ..
+ssh -v i5Seabrae
+
+ls -l ~/.ssh/ed25519 ~/.ssh/ed25519.pub
+
+cat ~/.ssh/ed25519.pub | ssh celestesh@i5Seabrae 'mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >> ~/.ssh/authorized_keys && chmod 600 ~/.ssh/authorized_keys'
+
+ssh -o PreferredAuthentications=publickey -o PasswordAuthentication=no i5Seabrae
+
+ssh i5Seabrae
+
+ls -1 i5Seabrae/seamedia/public/cg/
+
+ssh i5Seabrae 'ls -lah /seamedia/public/cg/'
+
+ssh i5Seabrae 'ls -lah ~/seamedia/public/cg/'
+
+ssh i5Seabrae 'ls -lah ~/seamedia/'
+
+ssh i5Seabrae 'ls -lah ~/seamedia/public/'
+
+ssh i5Seabrae 'ls -lah ~/seamedia/public/audio/'
+
+ssh i5Seabrae 'ls -lah ~/seamedia/public/audio/cg/'
+
+ssh i5Seabrae 'chmod 644 ~/seamedia/public/audio/cg/*.mp3'
+
+ssh i5Seabrae 'ls -lah ~/seamedia/public/audio/cg/'
+
+rsync -avhn --progress ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/ytdl/
+
+ssh i5Seabrae 'find ~/seamedia -name .DS_Store -type f -print'
+
+ssh i5Seabrae 'find ~/seamediapublic/audio/cg/ -name .DS_Store -type f -print'
+
+ssh i5Seabrae 'find ~/seamedia/public/audio/cg/ -name .DS_Store -type f -print'
+
+ssh i5Seabrae 'find ~/seamedia/public/audio/cg/ -name .DS_Store -type f -delete'
+
+ssh i5Seabrae 'ls -lah ~/seamedia/public/audio/cg/'
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/ytdl/
+
+ssh i5Seabrae 'ls -lah ~/seamedia/public/audio/ytdl/'
+
+ssh i5Seabrae 'find ~/seamedia/public/audio/ytdl/ -name .DS_Store -type f -delete'
+
+ssh i5Seabrae 'ls -lah ~/seamedia/public/audio/ytdl/'
+
+ssh i5Seabrae 'find ~/seamedia/ -name .DS_Store -type f -print'
+
+ssh i5Seabrae 'find ~/seamedia/public/audio/sk/ -name .DS_Store -type f -delete'
+
+ssh i5Seabrae 'find ~/seamedia/ -name .DS_Store -type f -print'
+
+ssh i5Seabrae 'find ~/seamedia/ -name .DS_Store -type f -print'
+
+ssh i5Seabrae 'find ~/seamedia/public/videos/hi/ -name .DS_Store -type f -delete'
+
+ssh i5Seabrae 'find ~/seamedia/public/images/e/ -name .DS_Store -type f -delete'
+
+ssh i5Seabrae 'find ~/seamedia/ -name .DS_Store -type f -print'
+
+ssh i5Seabrae 'ls -lah ~/seamedia/public/audio/ytdl/'
+
+ssh i5Seabrae 'ls -lah ~/seamedia/public/audio/cg/'
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/cg/
+
+ssh i5Seabrae 'ls -lah ~/seamedia/public/audio/cg/'
+
+cd /Users/robyn/Sites/art && mkdocs serve
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/cg/
+
+bash ./3web2mp3.sh
+
+bash ./3mkv2mp3.sh
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/cg/
+
+find /Applications -iname "*Bravura*" 2>/dev/null
+
+find /usr /opt ~/.local -iname "*Bravura*" 2>/dev/null
+
+ssh i5Seabrae
+
+ssh robyn@robyn-i5desktop
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/docker/tightbytes/html/
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/docker/tightbytes/html/
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/docker/tightbytes/html/
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/docker/tightbytes/db/
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/docker/tightbytes/
+
+docker exec -i tightbytes-db mariadb -u tightbytes -ptightbytespass tightbytes < tb-working-copy.sql
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/sk//
+
+cd /Users/robyn/Sites/art && mkdocs serve
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/ytdl/
+
+cd /Users/robyn/Sites/art && mkdocs serve
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/ytdl/
+
+cd /Users/robyn/Sites/art && mkdocs serve
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/cd/music/
+
+\ssh i5Seabrae
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/cg/music/
+
+rsync -avhn --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/cg/music/
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/cg/music/
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/cg/music/
+
+ssh i5Seabrae
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/ytdl/
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/cg/music/
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/sk/
+
+cd /Users/robyn/Sites/art && mkdocs serve
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/cg/music/
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/cg/music/
+
+ssh robyn@robyn-i5desktop
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/cg/music/
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/cg/music/
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/cg/music/
+
+softwareupdate --list-full-installers
+
+softwareupdate --fetch-full-installer --full-installer-version 12.7.6
+
+sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes
+/MontereyInstaller
+
+ls /Applications | grep "Install"
+
+sudo /usr/sbin/softwareupdate --fetch-full-installer --full-installer-version 12.7.6
+
+sudo /Applications/Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/MontereyInstaller
+
+sudo rm -rf "/Applications/Applications/Install macOS Monterey.app"
+
+sudo /usr/sbin/softwareupdate --fetch-full-installer --full-installer-version 12.7.6
+
+ls -ld "/Applications/Install macOS Monterey.app"
+
+du -sh "/Applications/Install macOS Monterey.app"
+
+sudo "/Applications/Install macOS Monterey.app/Contents/Resources/createinstallmedia" --volume "/Volumes/MontereyInstaller"
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/cg/music/
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/ytdl/
+
+cd ./Desktop
+
+cd ./FramePack
+
+grep -RIn --exclude-dir=.git \  -E "write_video|save_bcthw_as_mp4|torchvision\.io" .
+
+clear
+grep -RIn --exclude-dir=.git \\
+    -E "write_video|save_bcthw_as_mp4|torchvision\.io" .
+
+sed -n '250,285p' diffusers_helper/utils.py
+
+nl -ba diffusers_helper/utils.py | sed -n '250,285p'
+
+exit
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/cg/music/
+
+ssh robyn@robyn-amd
+
+ssh celestesh@i5seabrae
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/cg/music/
+
+ssh celestesh@i5seabrae
+
+exit
+
+ssh celestesh@i5seabrae
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/cg/music/
+
+ssh celestesh@i5seabrae
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/cg/
+
+cd /Users/robyn/Sites/art && mkdocs serve
+
+hostname -I
+
+hostname I
+
+rsync -avh --progress celestesh@i5Seabrae:~/docker/emily ~/Sites/projects/NoWWW/code/emily
+
+rsync -avh --progress celestesh@i5Seabrae:~/docker/emily ~/Sites/projects/NoWWW/code
+
+ssh celestesh@i5seabrae
+
+python3
+
+ssh robyn@robyn-i5desktop
+
+ssh robyn@192.168.0.201
+
+ssh robyn@robyn-i5desktop
+
+nc -zv robyn-i5desktop 22
+
+ssh -vvv robyn@robyn-i5desktop
+
+ssh -vvv robyn@robyn-i5desktop
+
+ssh celestesh@i5seabrae
+
+ssh celestesh@seabrae
+
+ssh robyn@seabrae
+
+clear
+
+cd /Users/robyn/Sites/art && mkdocs serve
+
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/cg/music/
+
+cd /Users/robyn/Sites/art && mkdocs serve
