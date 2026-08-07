@@ -1,9 +1,9 @@
 # Edit Workspace
 
 
-“Look.”
+“Look at this.”
 
-Mara slid a thin archival print-out across the cutting table. It landed beside my notebook like a challenge. The image was a plate from an old catalogue: eighteenth century, late enough that it carried a Georgian neatness, early enough that it still remembered softness. A working woman’s garment, fitted through the back, generous through the skirt, closures designed for working hands. 
+Mara slid a thin archival print-out across the cutting table. The image was a plate from an old catalogue: eighteenth century, late enough that it carried a Georgian neatness, early enough that it still remembered softness. A woman’s garment, fitted through the back, generous through the skirt, closures designed for working hands. 
 
 It had been designed by necessity and for function.
 
@@ -11,7 +11,7 @@ It had intelligence in it.
 
 My pulse quickened.
 
-“This isn’t a costume, is it?” I said automatically. “It’s *equipment*.”
+“This isn’t a costume,” I said. “It’s *equipment*.”
 
 Mara’s jaw tightened, her lips a thin line of approval. She liked that phrasing.
 
@@ -25,7 +25,7 @@ Mara handed me a pencil.
 
 “Then do it,” she replied.
 
-That was Mara. The moment you spoke it, you owned it.
+That was Mara. The moment you said it, you owned it.
 
 We wordlessly split the labour. 
 
@@ -179,12 +179,6 @@ The framing held.
 
 Lucy glanced between us with a slight frown, then shrugged. 
 
-“If anyone asks,” Lucy said lightly, “you’re a mannequin with opinions.”
-
-Mara snorted.
-
-“Don’t be daft,” she said. “He’s not a mannequin. He’s a stress map.”
-
 We moved to the fitting area. Mara drew the curtain and held the garment up.
 
 “Arms up.”
@@ -206,6 +200,13 @@ Charlie’s voice came through the curtain, measured.
 Mara's exhale was almost harsh. “Say it again.”
 
 Charlie repeated it, clearer. 
+
+
+
+
+
+
+
 
 “The closure,” he continued, “holds. But if someone grabs here—" 
 

@@ -1651,7 +1651,7 @@ I already knew that was unrealistic.
 
 
 
-## 8  ✨
+## 8 Signal, not Noise ✨
 
 [![Charlie][S09a]{ .artR width="460" }][S09a]
 
@@ -1662,7 +1662,7 @@ Time of year: February
 
 [ *Celeste* ]
 
-Lauren came back a fortnight later, on a hot Tuesday morning. Tuesdays were the days Mara pretended she had time.
+Lauren came back a fortnight later, on a warm Tuesday morning. Tuesdays were the days Mara pretended she had time.
 
 She didn’t, of course. Mara never did. But Tuesdays were when she scheduled those "need-to-get-done" tasks. The cutting table was clear, the mannequin was dressed in half a bodice, and the new jacket prototype sat like a dare.
 
@@ -1676,7 +1676,7 @@ Lauren didn’t waste time warming the air.
 
 She stopped. Mara’s mouth tightened.
 
-“I told him Charlie had made other plans,” Lauren replied. “Roger didn't take it well.”
+“I told him Charlie had made other plans,” Lauren said. “Roger didn't take it well.”
 
 Mara’s eyes flicked to the folder.
 
@@ -1697,9 +1697,9 @@ Below the image Lauren had typed a legend:
 * **Result:** 3 full shifts; no tear; improved comfort; faster dressing
 * **Notes:** closure placement adjusted for quick change; no snagging
 
-It presented as if the creator didn’t trust feelings to convince anyone. 
+Nothing was left to trust. Everything was there to verify.
 
-Mara's eyes were fixed on the photograph. She motioned me over.
+Mara studied the photo for a moment before motioning me over.
 
 “Signal,” Lauren said, glancing at Mara's face. Then she indicated the envelope with her thumb.
 
@@ -1709,7 +1709,7 @@ Mara’s mouth twitched as her eyebrows rose slightly — almost amused, almost 
 
 “You took the picture?”
 
-"I had a free afternoon last week," Lauren said with a shrug, "so I did a tour of the Faire. And noticed your prototype."
+"I had a free afternoon last week," Lauren said with a shrug, "so I did a tour of the Faire. I noticed your prototype."
 
 Across the room, Charlie was at the side bench, pinning a lining into a bodice piece. He hadn’t looked up when Lauren entered. But he did look now. Not to the photo at first. To the envelope.
 
@@ -1727,25 +1727,23 @@ Charlie blinked. “But—”
 
 He swallowed and slowly went back to pinning.
 
-Mara picked up the sheet and and examined it.
+Mara picked up the sheet and examined it.
 
 “This,” Mara said, tapping the list, “is useful.”
 
-Lauren’s lips thinned into a smile with a serious purpose. Mara’s gaze slid to the envelope.
+Lauren allowed herself a thin, purposeful smile. Mara’s gaze slid to the envelope.
 
 “And that.”
 
 Lauren’s brows twitched.
 
-“Roger doesn't trust when I tell him Charlie has a future here,” she said. “He wants ‘proof’.”
+“Roger wants to know what trade he'll finish with,” she said. “He wants ‘proof’.”
 
 Mara’s eyes narrowed.
 
 “What does Charlie want?”
 
-Lauren stared at the envelope.
-
-"I honestly don't know."
+"I'm not entirely certain," Lauren replied.
 
 Mara eyed her.
 
@@ -1773,11 +1771,25 @@ She didn't need to say anything.
 
 *Their decision.*
 
-When they emerged, Charlie looked solemn. And Lauren, relieved but also filled with intent. She went straight to the worktable and opened the envelope.
+Mara joined Lucy at the fitting curtain while I opened windows to let out some of the steam. The air outside was almost as warm, but drier, seasoned with diesel fumes mixed with hot chips soaking in re-used cooking oil and the occasional reminder that port-a-potties were just around the corner.
 
-"This is for me," Mara said.
+When they emerged just before lunch, Charlie looked solemn; and Lauren looked relieved but also filled with intent. She went straight to the worktable and opened the envelope.
 
-"It is." Lauren pulled out a folded document. “Charlie and I have talked it over,” she continued, still calm, “he wants to stay here learn the trade. I'm happy that there is a future in it. *For him.* This is real.”
+Mara approached slowly. Her expression was implacable, but her eyes searched Lauren's face.
+
+"And?"
+
+"He's determined to make a go of it."
+
+Mara's eyebrows barely twitched.
+
+"And so am I," Lauren added.
+
+Mara gave a single nod, staring at the envelope.
+
+"This is for me."
+
+"It is." Lauren pulled out a folded document. “Charlie and I have talked it over,” she continued, still calm, “he wants to stay here to learn the trade. I'm happy that there is a future in it. *For him.* This is real.”
 
 She handed Mara the document.
 
@@ -1791,7 +1803,7 @@ Lauren met her gaze.
 
 She paused.
 
-“I need to be able to show that this is real," she said, her voice showing a thread of vulnerability, as if reluctant to make her need into Mara's burden. "That Charlie’s training for a trade. With standards.”
+“I need to be able to show that this is real," she said, her voice showing a hint of vulnerability, as if reluctant to make her need into Mara's burden. "That Charlie’s training for a trade. With standards.”
 
 Mara’s gaze held hers.
 
@@ -1801,7 +1813,7 @@ Lauren didn’t flinch.
 
 “Yes.” 
 
-She took in a deep breath. “A contract will defeat static," she added. "Work placement language. Attendance logs." Her mouth tightened. "Roger wants a form, I’ll give him a form. You handle standards. I handle noise.”
+She took in a deep breath. “A contract will turn noise into signal," she added. "Work placement language. Attendance logs." Her mouth tightened. "Roger wants a form, I’ll give him a form. You handle standards. I handle noise.”
 
 Mara removed the chalk pencil from the top of her ear. 
 
@@ -1813,9 +1825,9 @@ Then, her eyes returned to Lauren.
 
 “Exactly.”
 
-Mara exhaled through her nose. She may have had reservations about being managed, but she liked competence. And she appreciated women who spoke plainly.
+Mara exhaled through her nose.
 
-“Fine,” Mara said. “Here’s the structure. Charlie shows up every day, full-time. He keeps hours. He logs tasks. He does training modules I set. He gets evaluated like all my staff. If he fails, he fails. No protection by anyone.”
+“Fine,” Mara said. “Here’s the structure. Charlie shows up every day, full-time. He keeps hours. He logs tasks. He does training modules I set. He gets evaluated like all my staff. If he fails, he fails. No protection from anyone.”
 
 Lauren’s voice didn’t soften. 
 
@@ -1833,19 +1845,19 @@ Charlie stood quickly.
 
 Mara held up the printed sheet.
 
-“Your mother has a costume testing plan, with receipts,” Mara said. “We will do this properly.”
+“Your mother has a costume testing plan, with receipts,” Mara said. “She's also asking me for a contract so that you can learn the trade. We will do this properly.”
 
-Charlie stared at the photograph.
+Charlie stared at the testing plan.
 
-"And your decision?" Mara continued, putting the open document on the table.
+"I need to know your decision."
 
-He glanced at his mum.
+He looked up.
 
 "I want to learn the trade, Mara."
 
 “Right then,” she said, her tone clipped, and began to study the document.
 
-“I’m not asking for anything," Lauren said, "but you to stay— *visible*.”
+“I’m not asking for anything," Lauren said, "but for you to stay— *visible*.”
 
 Charlie blinked at the word 'visible'.
 
@@ -1863,7 +1875,7 @@ She gestured at the prototype jacket.
 
 She ran her thin fingers over the seam.
 
-“It needs to survive heat and tourists and people stupidly grabbing sleeves,” Mara continued. “And done without adding bulk that ruins the silhouette.”
+“It needs to survive heat and tourists and people stupidly grabbing sleeves,” Mara continued. “But do it without adding bulk that ruins the silhouette.”
 
 She eyed him closely.
 
@@ -1873,7 +1885,7 @@ Charlie stepped closer to the mannequin. He lifted the sleeve gently and pressed
 
 “It’s not the seam, Mara,” he said quietly. “It’s the angle. The gusset’s correct, but the sleeve head is fighting it. You need two millimetres more ease, here." He pointed without touching. "The tape needs to stop before the pivot point, not run through it.”
 
-Mara’s face changed — not dramatically, because Mara’s face never did — just the tiny shift.
+Mara’s face changed.
 
 “That,” Mara said, “is an answer.”
 
@@ -1896,10 +1908,6 @@ Mara didn’t look up from the sleeve.
 “Yes, it is.”
 
 The door clicked shut.
-
-In the quiet that followed, Charlie returned to the mannequin, marking the line with tailor’s chalk.
-
-Noise would stay outside — because inside, we had signal.
 
 <hr class="section-break soft" />
 
