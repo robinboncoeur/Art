@@ -12,6 +12,7 @@
 
 
 
+
 ## Version Note
 
 **Unhidden** is the final edition of the [Celeste's Girl](1CG-3rdEd.md) story.
@@ -1925,19 +1926,20 @@ The door clicked shut.
 
 
 
-## 10 Not My First Choice 👗
-
+## 9 Not My First Choice 👗
 
 [![Charlie][S10a]{ .artR width="460" }][S10a]
 
-[Currently being edited](W_Edits.md)
-
-👗
-[Celeste]
-
 <!--
-
+This was Scene 10 — "Not My First Choice".
+Time of year: March
 -->
+
+
+👗 [ Celeste ]
+
+
+[Currently being edited](W_Edits.md)
 
 
 
