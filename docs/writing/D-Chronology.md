@@ -26,45 +26,50 @@ This book asks the question: **Can I belong without disappearing?**
 
 ### December
 
-* Both graduate Year 12.
+* Both graduate Year 12. [Week 1]
 * Celeste has just turned 19.
 * Charlie is still 18.
-* Charlie begins the maintenance apprenticeship.
-* However, maintenance work clearly isn't Charlie's strong suit. (Scene 3)
-* Charlie starts at Wardrobe. (end of December)
-
+* Charlie begins the maintenance apprenticeship. (Week 2]
+* Charlie is sacked. [Midweek 3, (Scene 3)]
+* Charlie starts at Wardrobe. [Midweek 3]
+* Mara tests Charlie. (Scenes 4, 5, 6)
+*Charlie at Wardrobe for 1.5 wk in Dec*
 
 ### January
 
-* Mara's testing. (Scenes 4, 5, 6)
-* Neither Celeste nor Mara try to persuade Charlie re: career. (preserving agency).
+* Charlie settles in at Wardrobe. (all month)
+*Charlie at Wardrobe for 4 wks in Jan*
+Nothing spectacular. Everything important. **This is where belonging sets in**.
 
 
 ### February
 
-* Lauren visits Wardrobe. (Scene 7)
-* Lauren slowly accepts Wardrobe as a better vocational fit than boilermaker. (Scenes 8, 9)
-* Mara expects Charlie to test garments. (Scene 10, 11, 12)
+* Lauren visits Wardrobe. [wk 1, (Scene 7)]
+* Lauren accepts Wardrobe as a better vocational fit than boilermaker. [wk 3, (Scenes 8, 9)]
+* Mara expects Charlie to test garments. [wk 4, (Scenes 10, 11, 12)]
 
-Nothing spectacular. Everything important. **This is where belonging begins**.
 
 
 ### March
 
-* Working stays development - Celeste notices something different about Charlie (Scenes 13, 14)
-* The Ladder / Rungs strategy to stop Charlie "disappearing" (Scene 15, 16, 17, 18)
-* Numbers analysis leading to Charlie rooming with Celeste to save money and time (Scene 19, 20)
+*In the 1st week of this month, Charlie starts Spironolactone*
 
-It was during this month that Charlie started himself on Spironolactone
+* Working stays development - [wk 3, (Scenes 13, 14)]
+* The Ladder / Rungs strategy [wk 4, (Scene 15, 16, 17, 18)]
+
 
 
 ### April
 
-* Charlie moves in with Celeste (Scene 21, 22, 23)
+* Decision that Charlie rooms with Celeste [wk 2, (Scene 19, 20)]
+* Charlie moves in with Celeste [wkend 2, (Scene 21, 22, 23)]
 * The numbers are revisited as business is growing.
-* Celeste is at Uni getting her degree — starting mid-year? may need to review this (Scene 24)
-* Celeste defines Charlie as 'Wife' (Scene 25)
+* Celeste applies at Uni for MBA **starting mid-year? may need to review this** (Scene 24)
+* Celeste defines Charlie as 'Wife' [wk 3, (Scene 25)]
 
+
+REVIEW TIMELINE FROM HERE
+---
 
 ### May
 
