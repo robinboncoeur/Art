@@ -825,9 +825,9 @@ Mara's brows rose imperceptibly. “So, what do you do to fix that?”
 
 “Unpick it. Start over.”
 
-Mara looked at me, not him.
+Mara's eyes moved to me.
 
-“Do it.”
+“Do it,” she told him.
 
 “May I have a seam ripper?”
 
@@ -851,7 +851,7 @@ Mara's expression softened slightly.
 
 "Yes, Mara."
 
-He took himself to the far end of the table and began rummaging through the tin. Mara’s eyes slid to me. 
+He took himself to the far end of the table and began rummaging through the tin. Mara turned to me. 
 
 “Celeste.”
 
