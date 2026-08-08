@@ -805,7 +805,7 @@ He shut it quietly.
 
 Mara walked to the centre table and picked up a garment bag.
 
-“Our main occupation is maintaining costumes for the Faire actresses and actors," she told him. "Do you have any experience with needle and thread?“
+“Presently, our main occupation is maintaining costumes for the Faire actresses and actors," she told him. "Do you have any experience with needle and thread?“
 
 “I have some.“
 
@@ -1576,9 +1576,9 @@ The word 'keen' sat in the air like something unexpected.
 
 Mara wordlessly pulled at the pastry. Her eyes caught mine.
 
-Lauren stared at her cup.
+Lauren was staring at her cup.
 
-“I remember when I first got into nursing,” she murmured, almost to herself. "My dad was so proud. And my mum: furious." Her head tipped slightly. "I suppose she didn't see it as a career."
+“I remember when I first got into nursing,” she murmured. "My dad was so proud. And my mum: furious." Her head tipped slightly. "I suppose she didn't see it as a career."
 
 Mara set her cup down.
 
@@ -1596,7 +1596,7 @@ Lauren's lips twitched politely.
 
 "Yes, I suppose." She looked up as Mara stood.
 
-"I'd like you to meet Celeste," she said.
+"I'd like you to meet Celeste," Mara said.
 
 Lauren's smile was just a shade less than cordial.
 

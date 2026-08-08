@@ -34,6 +34,12 @@
 	min-width: 0;
 }
 
+.chronology table {
+    width: 100%;
+    max-width: 900px;
+    table-layout: fixed;
+}
+
 @media (max-width: 640px) {
 	.music-card--with-art {
 		grid-template-columns: 1fr;
