@@ -861,7 +861,7 @@ I looked up.
 
 “Understood.”
 
-Charlie’s gaze flicked to me — quick, skittish. I turned away and went to the rails, where a cluster of damaged garments waited like quiet accusations. Every now and then I would cast a furtive glance at the other end of the table. Charlie sat on a stool, the dress draped over his knees, almost motionless. And then, heard the tiny snap of thread giving way.
+Charlie’s gaze flicked to me — quick, skittish. I turned away and went to the rails, where a cluster of damaged garments waited like quiet accusations. Every now and then I would cast a furtive glance at the other end of the table. Charlie sat on a stool, the dress draped over his knees, almost motionless.
 
 Mara moved around the room as he worked, doing her usual circuit: checking labels, touching fabric, straightening hangers. But her attention wasn’t on the label or fabric or hangers or even the dress draped over Charlie's knees.
 
@@ -869,9 +869,7 @@ It was on *him*.
 
 Charlie worked slowly, unpicking the seam steadily, patiently, lifting each tight stitch and easing it out as if he was undoing a critical mistake.
 
-Finally, Mara stopped all pretence.
-
-She stopped behind him, examining his work.
+Finally, Mara stopped all pretence. She looked over his shoulder, examining his work.
 
 “Why are you going so slowly?” 
 
