@@ -809,7 +809,7 @@ Mara walked to the centre table and picked up a garment bag.
 
 “I have some.“
 
-She unzipped it with a brisk motion and slid a dress out — a simple working dress in sturdy fabric, with a seam splitting near the side closure. The tear was held together with hurried, barbaric stitches. Mara tossed it onto the table.
+She unzipped the bag with a brisk motion and removed a dress — a simple working dress in sturdy fabric, with a seam splitting near the side closure. The tear was held together with hurried, barbaric stitches. Mara placed it onto the table.
 
 “This came in yesterday. A tourist sat down too hard. Someone panicked and tried to fix it.” She tapped the seam with her finger. “Have a look at that.”
 
