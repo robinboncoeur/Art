@@ -873,9 +873,7 @@ Finally, Mara stopped all pretence. She looked over his shoulder, examining his 
 
 “Why are you going so slowly?” 
 
-There was no accusation in her voice, yet Charlie’s shoulders visibly tightened.
-
-He looked up briefly, then back down at the seam.
+There was no accusation in her voice, yet Charlie’s shoulders visibly tightened. He looked up briefly, then back down at the seam.
 
 “Because if I unpick too quickly, I might tear the fabric.”
 
@@ -895,7 +893,7 @@ Mara walked away.
 
 He gave me a nervous glance, and then, went back to the slow unpicking of the seam.
 
-After he’d unpicked the seam completely, he didn’t immediately reach for thread. He smoothed the fabric with his palm, slow and light, as if calming it. Then he looked up and spoke, voice soft but clear.
+After he’d unpicked the seam completely, he didn’t immediately reach for thread. He smoothed the fabric with his palm, slow and light. Then he looked up.
 
 “Mara?”
 
@@ -905,7 +903,7 @@ He held up the dress slightly.
 
 “The original seam allowance is a bit narrow. If I stitch it the way it is, the seam will hold, but it will be under stress. If I reinforce it from the inside with a strip of fabric — like a facing — then that strip will take the load.”
 
-His finger indicated delicately in the air above the fabric, precise and respectful, as if the dress deserved dignity.
+His finger indicated delicately in the air above the fabric, respectful, as if the dress deserved dignity.
 
 “Where would you put the strip?”
 
@@ -921,7 +919,7 @@ Charlie reached for the drawer, selected a strip of fabric, measured it slowly, 
 
 “Needles,” she said. “Choose the right one.”
 
-Charlie glanced at the tin, then at the fabric, then back. He picked a needle that matched the weight — neither too fine nor too thick — and threaded it.
+Charlie glanced at the tin, then at the fabric, then back. He picked a needle that matched the weight of the material and threaded it.
 
 On the first try.
 
@@ -935,7 +933,7 @@ Charlie’s mouth tightened. “Sometimes.”
 
 “Who taught you?”
 
-“My mum.” He deftly put a knot in the far end of the thread. “She does alterations sometimes. For neighbours. For a bit of pin money.”
+“My mum.” He put a knot in the far end of the thread. “She does alterations for neighbours, for a bit of pin money.”
 
 Mara's eyes flicked to mine. She gave me the slightest nod. 
 
@@ -985,7 +983,7 @@ Mara did not smile. But she nodded, a single dip.
 
 And then she looked at him.
 
-Not the dress. Him.
+Not the dress. *Him*.
 
 “Tell me, Rossignol, what happens if you make a mistake in here?”
 
