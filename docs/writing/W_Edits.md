@@ -2,7 +2,7 @@
 
 Mara put a ledger on the table one morning.
 
-Thick. Hard cover. The kind that would land offended if you dropped it. It claimed a spot between pincushion and shears, beside the tin of chalk, accompanied by a wooden stool that hadn't seen varnish in decades.
+Thick. Hard cover. The kind that would you'd worry about offending if you dropped it. It claimed a spot between pincushion and shears, beside the tin of chalk, accompanied by a wooden stool that hadn't seen varnish in decades.
 
 On the first page of the ledger Mara had already ruled headings in her angular hand.
 
@@ -16,7 +16,7 @@ RE-TEST:
 SIGNED (MARA):
 SIGNED (CELESTE):
 
-I ran my finger down the columns. The whole room would be calmer now. Fewer empty claims the garment just tore.
+I ran my finger down the columns. There would be fewer empty claims the garment just tore.
 
 Mara watched my face.
 
@@ -28,19 +28,17 @@ She tilted her head toward the far curtain rail.
 
 She looked past me. 
 
-Charlie had silently appeared, a bundle of twill under one arm, his long hair neatly brushed and tied in a ponytail. 
+Charlie had appeared, a bundle of twill under one arm, his long hair neatly brushed and tied in a ponytail. He spied the ledger and stopped.
 
-He spied the ledger and stopped.
+Mara slid it toward him with two fingers.
 
-Mara slid it toward him with two fingers, like a forewoman pushing a job sheet across a bench.
+“Write.”
 
-“Write,” she said, eyes on him directly.
+Charlie set his bundle down and studied the headings.
 
-Lucy passed behind him, glanced at it and made a small sound. Charlie set his bundle down and studied the headings.
+“Is this for logging failures?”
 
-“Is this only for logging failures?”
-
-“Everything and anything that gets told us, and what we discover. Don't assume — *ask*,” Mara said. “Details. And your name on it.”
+“We log everything and anything that gets told us, and what we discover. Don't assume — *ask*,” Mara said. “Details. And your name on it.”
 
 His throat moved as he picked up the pen.
 
@@ -106,19 +104,7 @@ Lauren put the box down, opened it, and slid a handful of reinforced grommets on
 “Use these,” she said. “If you’re doing working garments, stop pretending decorative hardware can take load.”
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+===
 
 
 Mara laid the stays on the cutting table the way a surgical nurse lays out her instruments: deliberately spaced, ordered for use, no frills or extras. Canvas folded into a clean rectangle. Linen tape pressed flat. A small bundle of reed boning tied with string. A tin of grommets that looked comically insignificant for the amount of authority they were about to carry.
@@ -359,17 +345,7 @@ And then, Mara added, already sorting tape and canvas into a new pile:
 Charlie’s pen paused. Finally, he underlined front closure once, neatly, and got back to work.
 
 
-
-
-
-
-
-
-
-
-
-
-
+===
 
 
 The failed mock-up lay on the table again, flattened like a moth under glass. Chalk marks were still faint on the canvas where the garment had confessed under movement: diagonal strain lines, a crease that had formed with embarrassing consistency, the small oval ghost of where a grommet had started to surrender. 
