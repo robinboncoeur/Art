@@ -1446,7 +1446,7 @@ Lauren looked away.
 
 I continued to quietly put tags on finished costumes. The metal hook of the hangers against the rails made a faint scraping sound as the costumes swayed.
 
-And then, for a while, the only sounds were the those of the Faire through the window and the faint hiss of the steamer.
+And then, for a while, the only sounds were those of the Faire through the window and the faint hiss of the steamer.
 
 I watched Lauren take in a breath and look around. 
 
@@ -1566,7 +1566,7 @@ Mara didn’t look up.
 
 Lauren blinked: a small recalibration.
 
-“When *Charlie* left the house this morning, he seemed— I dont know,” she paused. “Keen. That's it. Keen.”
+“When *Charlie* left the house this morning, he seemed— I don't know,” she paused. “Keen. That's it. Keen.”
 
 The word 'keen' sat in the air like something unexpected.
 
