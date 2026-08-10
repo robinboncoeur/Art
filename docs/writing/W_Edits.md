@@ -45,15 +45,15 @@ He removed his denim jacket.
 
 Mara picked up a spiral notebook. She fixed her gaze on his face.
 
-"Your task this morning is to find Lily and get details on how the garment failed."
+"Your task this morning is to find Lily and get details on how that garment failed."
 
-"Find her?" He looked puzzled.
+"*Find* her?" He looked puzzled.
 
-"Yes. I think she works in the marketplace."
+"Yes. I think she's one of the actresses in the marketplace."
 
 His eyes went a bit wider as she handed him the spiral notebook and the chemise. He stared at the garment.
 
-"Um, I had a look at it last night," he said. "I could probably tell—"
+"Um, I *did* have a look at it last night," he said. "I could probably tell—"
 
 "'Probably' isn't data," Mara said firmly.
 
@@ -71,13 +71,15 @@ She waited.
 
 He bit his lip, his hands shaking slightly as he slipped his jacket back on. He picked a pen out of the tin.
 
-"Details," Mara said. "What she was doing when it failed, if it was pinching, if it was something she'd noticed was starting to fail, and any other information you can think of."
+"Details," Mara said. "We need to know what she was doing when it failed, if it was pinching, if it was something she'd noticed was starting to fail, and any other information you can think of."
 
 "Yes, Mara."
 
 He glanced at me as he moved to the door.
 
-And then, the door clicked shut. Mara's eyes met mine.
+And then, the door clicked shut. 
+
+Mara's eyes met mine.
 
 I went back to work.
 
@@ -91,7 +93,7 @@ Lucy came in, wearing a huge grin. She sidled up to me.
 
 I tipped my chin at Mara.
 
-"He's looking like a reporter for the local paper at a hostage scene," Lucy said, her voice lower. "Asked poor Lily a bazillion questions and then, scribbling away—"
+"He's looking like a reporter for the local paper at a hostage scene," Lucy said, lowering  her voice. "Asked poor Lily a bazillion questions and then, scribbling away—"
 
 I nodded.
 
