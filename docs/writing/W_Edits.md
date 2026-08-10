@@ -1,16 +1,18 @@
 # Edits
 
+[ *Celeste* ]
+
 Mara put a ledger on the table one morning.
 
 Thick. Hard cover. The kind that would you'd worry about offending if you dropped it. It claimed a spot between pincushion and shears, beside the tin of chalk, accompanied by a wooden stool that hadn't seen varnish in decades.
 
 On the first page of the ledger Mara had already ruled headings in her angular hand.
 
-GARMENT:
-DATE ISSUED:
-ISSUED TO:
-PROBLEM REPORTED:
-REPAIR:
+GARMENT:  
+DATE ISSUED:  
+ISSUED TO:  
+PROBLEM REPORTED:  
+REPAIR:  
 RE-TEST:
 
 Mara tapped the headings once.
