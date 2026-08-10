@@ -15,7 +15,7 @@
 ## A Better Direction
 
 
-[![Delicacy][St08]{ .artR width="460" }][St08]
+[![Delicacy][Sti1]{ .artR width="460" }][Sti1]
 
 
 
@@ -443,6 +443,7 @@ Or, more precisely:
 
 🌿
 
+
 <hr class="section-break strong" />
 
 
@@ -648,6 +649,7 @@ This is just a *tiny bit* relevant to the rest of *Unhidden*. 😄🌿
 
 🌿 💛 🌿
 
+
 <hr class="section-break strong" />
 
 
@@ -662,7 +664,8 @@ This is just a *tiny bit* relevant to the rest of *Unhidden*. 😄🌿
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 🎧 —
 
 
-[Br01]: ../assets/images/base/Bnr02a.jpg
+[Br02]: ../assets/images/base/Bnr02a.jpg
+[Br03]: ../assets/images/base/Bnr03a.jpg
 [St01]: ../assets/images/base/01eWinter.jpg
 [Std1]: ../assets/images/base/01dLily.jpg
 [Ste1]: ../assets/images/base/01dLily.jpg
