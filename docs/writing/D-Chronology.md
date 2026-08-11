@@ -238,6 +238,7 @@ This book asks: **Can I simply be?**
 
 * ?? (Scenes 10, 11, 12, 13, 14)
 
+---
 
 ### April
 
@@ -250,45 +251,66 @@ This book asks: **Can I simply be?**
 |         |       | 4    | Wardrobe..: **16 months**                                                  |
 |         |       | 4    | HRT.......: **5 months**                                                   |
 
-
+---
 
 ### May
 
-* Roger sees Charlotte as Charlotte for the first time, gives up on everything. (Scene 18)
-* Celeste works at reconciling relationships. (Scene 19)
-* Lauren struggles with her child being transgender. (Scene 20)
-* Sarah sets her straight, gives her a new way to look at things. (Scene 21)
-* Celeste works more on why she loves Charlotte. (Scene 22)
+| Chapter | Scene | Week | Notes                                                        |
+|---------|-------|------|--------------------------------------------------------------|
+|         | 18    | 1    | Roger sees Charlotte as Charlotte, gives up harassing Lauren |
+|         | 19    | 1    | Celeste works at reconciling relationships.                  |
+|         | 20    | 1    | Lauren struggles with her child being transgender            |
+|         | 21    |      | Sarah sets her straight, gives her a new way to look at it   |
+|         | 22    |      | Celeste works more on why she loves Charlotte                |
+|         |       | 4    | Wardrobe..: **17 months**                                    |
+|         |       | 4    | HRT.......: **6 months**                                     |
 
+---
 
 ### June
 
-* Wardrobe gets a new coffee machine. Lauren accepts Charlotte, asks forgiveness. (Scene 23)
-* Charlotte confides that the vestigial remaining appendage troubles her. (Scene 24)
-* The women organise a solution: SRS. (Scene 25)
+| Chapter | Scene | Week | Notes                                      |
+|---------|-------|------|--------------------------------------------|
+|         | 23    | 1    | Lauren accepts Charlotte, asks forgiveness |
+|         | 24    | 1    | Charlotte confides that she wants SRS      |
+|         | 25    | 1    | The women organise a solution: SRS         |
+|         |       | 4    | Wardrobe..: **18 months**                  |
+|         |       | 4    | HRT.......: **7 months**                   |
 
+---
 
 ### July 
 
+| Chapter | Scene | Week | Notes                                                      |
+|---------|-------|------|------------------------------------------------------------|
+|         | 26    | 1    | Wardrobe changes venue. Charlotte's SRS goes ahead         |
+|         | 27    | 1    | Charlotte goes to Thailand with Brittany for the procedure |
+|         | 28    | 1    | Celeste goes to Tasmania with Mara, discuss Lauren         |
+|         | 29    |      | Celeste reconciles with Lauren                             |
+|         | 30    |      | Charlotte returns from Thailand                            |
+|         |       | 4    | Wardrobe..: **17 months**                                  |
+|         |       | 4    | HRT.......: **6 months**                                   |
+
 **(Age: Charlotte-20)**
 
-* Charlotte turns 20. Wardrobe changes venue. Charlotte's SRS goes ahead. (Scene 26)
-* Charlotte goes to Thailand with Brittany for the procedure.  (Scene 27)
-* Celeste goes to Tasmania with Mara. They discuss Celeste's strained relationship with Lauren. (Scene 28)
-* Celeste reconciles with Lauren at the Melbourne Int'l Airport Waiting Hall. (Scene 29)
-* Charlotte returns from Thailand. (Scene 30)
-
+---
 
 ### August
 
-* Charlotte pushes herself too hard. Confuses usefulness with identity. (Scene 31)
-* Charlotte ends up in ED with a bladder infection. (Scene 32)
-* Celeste explains that secrecy implies distrust. (Scene 33)
-* They go out for coffee. Charlotte confesses: "I don't know how to be." (Scene 34)
-* Lauren and Celeste discuss Charlotte's dilemma, realise that the rungs didn't solve the problem. (Scene 35)
+| Chapter | Scene | Week | Notes                                          |
+|---------|-------|------|------------------------------------------------|
+|         | 31    | 1    | Charlotte confuses usefulness with identity    |
+|         | 32    | 1    | Charlotte goes to ED with a bladder infection  |
+|         | 33    | 1    | Celeste explains that secrecy implies distrust |
+|         | 34    |      | Charlotte confesses: "I don't know how to be." |
+|         | 35    |      | Lauren and Celeste discuss Charlotte's dilemma |
+|         |       | 4    | Wardrobe..: **17 months**                      |
+|         |       | 4    | HRT.......: **6 months**                       |
+
 
 [The Deep End — fin]
 <hr class="section-break strong" />
+
 
 
 
@@ -353,3 +375,20 @@ This book asks: **Can I remain myself in a world that doesn't naturally operate 
 [St08]: ../assets/images/base/08maiden.jpg
 [St09]: ../assets/images/base/09aParis.jpg
 [St10]: ../assets/images/base/10montvl.jpg
+
+🌹
+
+<hr class="section-break strong" />
+
+
+<!--  Image references  -->
+
+
+[Br02]: ../assets/images/base/Bnr02c.jpg
+[St00]: ../assets/images/base/00Writer.jpg
+[St09]: ../assets/images/base/09aParis.jpg
+
+<!--
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— … …
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 
+/-->
