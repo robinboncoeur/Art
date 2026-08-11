@@ -2,9 +2,6 @@
 
 [![The Idea][Br01a]{ .artC width="800" }][Br01a]
 
-This book asks the question: **Can I belong without disappearing?**
-
-
 <hr class="section-break strong" />
 
 
@@ -20,175 +17,196 @@ This book asks the question: **Can I belong without disappearing?**
 
 **(Ages: Celeste-19 / Charlie-18)**
 
-| Chapter | Scene | Location | Notes |  
-| --- | --- | --- | --- |
-| 1 | 1 | Library | Ladies' room encounter |
-| 2 | 2 | Classroom |  Group Task Celeste notices Charlie |
+| Chapter | Scene   | Location  | Notes                               |  
+|---------|---------|-----------|-------------------------------------|
+| 1       | 1       | Library   | Ladies' room encounter              |
+| 2       | 2       | Classroom |  Group Task Celeste notices Charlie |
 
 ---
 
-
 ### December
 
-| Chapter | Scene | Week | Notes |  
-| --- | --- | --- | --- |
-| N/A | N/A | 1 | Both graduate Year 12 |
-| N/A | N/A | 2 | Charlie begins at maintenance |
-| 3 | 3 | mdwk 3 | Charlie is sacked |
-| 3 | 3 | mdwk 3 | Charlie starts at Wardrobe |
-| 4, 5 | 4, 5, 6 | 3, 4 |  Mara tests Charlie |
-
-*Charlie at Wardrobe for 1.5 wks end of Dec*
+| Chapter | Scene   | Week   | Notes                         |
+|---------|---------|--------|-------------------------------|
+| N/A     | N/A     | 1      | Both graduate Year 12         |
+| N/A     | N/A     | 2      | Charlie begins at maintenance |
+| 3       | 3       | mdwk 3 | Charlie is sacked             |
+| 3       | 3       | mdwk 3 | Charlie starts at Wardrobe    |
+| 4, 5    | 4, 5, 6 | 3, 4   | Mara tests Charlie            |
+|         |         | 4      | Wardrobe: **2 weeks**         |
 
 ---
 
 ### January
 
-*Charlie settles in at Wardrobe*       
-*Charlie's been at Wardrobe for 5.5 wks end of Jan.*    
-*Nothing spectacular. Everything important.*    
-**This is where belonging sets in**.
-*Charlie at Wardrobe for 1 month*
+| Chapter | Scene   | Week   | Notes                          |
+|---------|---------|--------|--------------------------------|
+|         |         | 2      | Charlie settles in at Wardrobe |
+|         |         | 4      | Wardrobe: **1 month**          |
+
+* *Actually 6 wks end of Jan*
 
 ---
 
 ### February
 
-| Chapter | Scene | Week | Notes |  
-| --- | --- | --- | --- |
-| 6, 7 | 7, 8 | 1 | Lauren visits Wardrobe, twice |
-| 8 | 8, 9 | 3 | Lauren accepts Wardrobe as a good vocational fit |
-| 9 | 10, 11, 12 | 4 |  Mara tells Charlie he will test garments |
-
-
+| Chapter | Scene | Week | Notes                                            |
+|---------|-------|------|--------------------------------------------------|
+| 6, 7    | 7, 8  | 1    | Lauren visits Wardrobe, twice                    |
+| 8       | 8, 9  | 3    | Lauren accepts Wardrobe as a good vocational fit |
+|         |       | 4    | Wardrobe: **2 months**                           |
 
 ---
 
 ### March
 
-* *In the 1st week of this month, Charlie starts Spironolactone*  
-* *Charlie at Wardrobe for 2 months*
-
-| Chapter | Scene | Week | Notes |  
-| --- | --- | --- | --- |
-| 10 | 13, 14 | 3 | Working stays development |
-| 11 | 15, 16, 17, 18 | 4 | The Ladder / Rungs strategy |
+| Chapter | Scene      | Week | Notes                                    |
+|---------|------------|------|------------------------------------------|
+| N/A     | N/A        | 1    | **Charlie starts Spironolactone**        |
+| 9       | 10, 11, 12 | 3    | Mara tells Charlie he will test garments |
+|         |            | 4    | Wardrobe: **3 months**                   |
 
 
-
+---
 
 ### April
 
-* *Charlie has been on Spironolactone for 1 month*  
-* *Charlie at Wardrobe for 3 months*
+| Chapter | Scene  | Week | Notes                                              |
+|---------|--------|------|----------------------------------------------------|
+| 10      | 13, 14 | 4    | Was: stays -> chemise development; introduce Sarah |
+|         |        | 4    | Wardrobe........: **4 months**                     |
+|         |        | 4    | Spironolactone..: **1 month**                      |
 
-| Chapter | Scene | Week | Notes |  
-| --- | --- | --- | --- |
-| ?? | 19, 20 | 2 | Decision made: Charlie to room with Celeste |
-| ?? | 21, 22, 23 | WkEnd 2 | Charlie moves in with Celeste |
-| ?? | 24 | 3 | Celeste defines Charlie as 'Wife' |
-| ?? | N/A | 4 | Celeste applies at Uni for MBA |
+* **REMOVED ENTIRELY**: Scenes 15, 16, 17, 18 : The Ladder / Rungs strategy
 
-Plot questions:  
-
-*  *Is Celeste starting mid-year?*
-*  *Does this need to be part of the story?*
-
-
-REVIEW TIMELINE FROM HERE
----
+___
 
 ### May
 
-* *Charlie has been on Spironolactone for 2 months*  
-* *Charlie at Wardrobe for 4 months*
+| Chapter | Scene      | Week    | Notes                                       |
+|---------|------------|---------|---------------------------------------------|
+| ??      | 19, 20     | 2       | Decision made: Charlie to room with Celeste |
+|         | 21, 22, 23 | WkEnd 2 | Charlie moves in with Celeste               |
+|         | 24         | 3       | Celeste defines Charlie as 'Wife'           |
+|         | N/A        | 4       | Celeste begins appliations for Uni for MBA  |
+|         | 26, 27     | ??      | Wardrobe women identify Charlie as a woman  |
+|         |            | 4       | Wardrobe........: **5 months**              |
+|         |            | 4       | Spironolactone..: **2 months**              |
 
-| Chapter | Scene | Week | Notes |  
-| --- | --- | --- | --- |
-| ?? | 26, 27 | ?? | Wardrobe women identify Charlie as a woman |
+* *Scene 28 starts with "A period of three months will change a room."*
 
-*Scene 28 starts with "A period of three months will change a room."*
-
+---
 
 ### June
 
-* *Charlie has been on Spironolactone for 3 months*  
-* *Charlie at Wardrobe for 5 months*
+| Chapter | Scene | Week | Notes                                               |
+|---------|-------|------|-----------------------------------------------------|
+| ??      | 28    |      | Lauren begrudgingly accepts Charli's new definition |
+|         | 29    |      | Followed by Celeste                                 |
+|         |       | 4    | Wardrobe........: **6 months**                      |
+|         |       | 4    | Spironolactone..: **3 months**                      |
 
-| Chapter | Scene | Week | Notes |  
-| --- | --- | --- | --- |
-| ?? | 28 | ?? | Lauren begrudgingly accepts Charli's new definition |
-| ?? | 29 | ?? | Followed by Celeste (Scene 29) |
-
-
+---
 
 ### July
 
-* *Charlie has been on Spironolactone for 4 months*  
-* *Charlie at Wardrobe for 5 months*
-* **(Charlie turns 19)**
+| Chapter | Scene   | Week   | Notes                          |
+|---------|---------|--------|--------------------------------|
+|         |         | 1      | **(Charlie turns 19)**         |
+|         |         | 4      | Wardrobe........: **7 months** |
+|         |         | 4      | Spironolactone..: **4 months** |
 
-Key aspect to note: **Charlie concludes that Wardrobe's acceptance depends upon his remaining physically non-threatening and relatively androgynous. He therefore begins spironolactone in an attempt to preserve the conditions he believes earned that acceptance. His reasoning is internally logical but rests on an incomplete understanding of why the women trust him.**
+* Key aspect to note: **Charlie concludes that Wardrobe's acceptance depends upon his remaining physically non-threatening and relatively androgynous. He therefore begins spironolactone in an attempt to preserve the conditions he believes earned that acceptance. His reasoning is internally logical but rests on an incomplete understanding of why the women trust him.**
 
+---
 
 ### September
-*Charlie has been on Spironolactone for 5 months*
 
-* Celeste discovers the bottle.  (Scene 30) 
-* Lauren is involved.  (Scenes 30, 31, 32)
-* Discussion on trust.  (Scene 33, 34)
-* Celeste realises she has feelings for Charli, confesses them. (Scene 35)
+| Chapter | Scene       | Week   | Notes                              |
+|---------|-------------|--------|------------------------------------|
+| ??      | 30          |      | Celeste discovers the bottle         |
+|         | 30, 31, 32  |      | Lauren is involved                   |
+|         | 33, 34      |      | Discussion on trust                  |
+|         | 35          |      | Celeste realises feelings for Charli |
+|         |             | 4    | Wardrobe........: **8 months**       |
+|         |             | 4    | Spironolactone..: **5 months**       |
 
-**Now we have the emotional centre of Book One**. 
-Not, "You've been taking hormones." 
-But, "You've been frightened for months, and you never thought you could tell me." 
-*That hits much harder.*
-
+---
 
 ### October
 
-* Medical assessment. Formal HRT begins.
-* Not because someone persuaded Charlie.
-* Charlie finally allows other people into the conversation. 
-* He confesses his dysphoria to professionals
-* Still excludes his mum.
-* Sarah is invited to coffee, and later to Celeste's — late Oct, searing hot day. (Scene 36)
-* Reveals that Wardrobe had already decided Charli was a woman before Celeste did.
-* Celeste takes it well — she's mature. She and Charli make love.  (Scene 37)
-* Sarah dumps Mr Golf Course.  (Scene 38)
-* Sarah discovers she's actually more attracted to women.  (Scene 39)
+| Chapter | Scene | Week | Notes                                                                  |
+|---------|-------|------|------------------------------------------------------------------------|
+| ??      | 36    | ??   | Sarah is invited to coffee, and later to Celeste's — late Oct, hot day |
+|         | 37    |      | News: Wardrobe had decided Charli was a woman before Celeste did       |
+|         | 37    |      | Celeste takes it well — she's mature. She and Charli make love.        |
+|         | 38    |      | Sarah dumps Mr Golf Course                                             |
+|         | 39    |      | Sarah discovers she's actually more attracted to women                 |
+|         |       | 4    | Wardrobe........: **9 months**                                         |
+|         |       | 4    | Spironolactone..: **6 months**                                         |
+
+---
+
+### November 
+
+| Chapter | Scene | Week | Notes                           |
+|---------|-------|------|---------------------------------|
+|         |       | 3    | **(Age: Celeste-20)**           |
+|         |       | 4    | Wardrobe........: **10 months** |
+|         |       | 4    | Spironolactone..: **7 months**  |
 
 
-### November -> December
+---
 
-**(Age: Celeste-20)**
+### December
 
-* Lauren confronts Roger, ends up at Sarah's.  (Scene 40)
-* Lauren feels she has to hide her attaction to Sarah from Sarah.  (Scene 41)
-* Sarah provides a protective environment for Lauren.  (Scenes 42, 43, 44)
-* Sarah opens up to Lauren: she is attracted to her.  (Scene 45)
-* They hug, only that because Lauren is still quite fragile.  (Scene 46, 47)
-* They make love.  (Scene 48)
+| Chapter | Scene      | Week | Notes                                                          |
+|---------|------------|------|----------------------------------------------------------------|
+|         | 40         |      | Lauren confronts Roger, ends up at Sarah's                     |
+|         | 41         |      | Lauren feels she has to hide her attaction to Sarah from Sarah |
+|         | 42, 43, 44 |      | Sarah provides a protective environment for Lauren             |
+|         | 45         |      | Sarah opens up to Lauren: she is attracted to her              |
+|         | N/A        | 3    | **Charli starts HRT**                                          |
+|         | 46, 47     |      | They hug, only that because Lauren is still quite fragile      |
+|         | 48         |      | They make love                                                 |
+|         |            | 4    | Wardrobe...: **11 months**                                     |
 
+---
 
 ### January 
 
-* Charli meets Celeste's mum.  (Scenes 49, 50)
+| Chapter | Scene  | Week | Notes                         |
+|---------|--------|------|-------------------------------|
+|         | 49, 50 |      | Charli meets Celeste's mum    |
+|         |        |      |                               |
+|         |        | 4    | Wardrobe..: **1 year**        |
+|         |        | 4    | HRT.......: **1 month**       |
 
+---
 
 ### February
 
-* The loading dock incident  (Scene 51)
-* Celeste misinterprets Charli's shocked silence as secrecy. (Scene 52)
+| Chapter | Scene | Week | Notes                                                     |
+|---------|-------|------|-----------------------------------------------------------|
+|         | 51    |      | The loading dock incident                                 |
+|         | 52    |      | Celeste misinterprets Charli's shocked silence as secrecy |
+|         |       | 4    | Wardrobe..: **13 months**                                 |
+|         |       | 4    | HRT.......: **2 months**                                  |
 
+---
 
 ### March
 
-* A new Historical Faire is opening in Queensland.
-* Charli and Sarah are selected to help set it up.  (Scene 53, 54, 55)
-* Charli's voice is heard for the first time.  (Scene 56)
+| Chapter | Scene      | Week | Notes                                                                 |
+|---------|------------|------|-----------------------------------------------------------------------|
+|         | 53, 54, 55 |      | Charli and Sarah are selected to set up a new Historical Faire in Qld |
+|         | 56         |      | Charli's voice is heard for the first time                            |
+|         |            | 4    | Wardrobe..: **14 months**                                             |
+|         |            | 4    | HRT.......: **3 months**                                              |
+
 
 [Celeste's Girl — fin]
+
 <hr class="section-break strong" />
 
 
@@ -205,22 +223,33 @@ This book asks: **Can I simply be?**
 
 ### March
 
-* Sarah grasps Charli's lack of experience in the 'real world'.   (Scenes 1, 2)
-* Charli meets Brittany, Lisa and Ellen. Montville for cofferr.   (Scene 3)
-* Celeste finishes her degree????   (Scene 4)
-* Charli and Brittany go to the pub.   (Scene 5)
-* Charli tells Brittany about her past.   (Scene 6)
-* Brittany cements a friendship with Charli.   (Scene 7) 
-* Calls her Charlotte. Pool party.  (Scene 8)
-* Charlotte allows herself to be steamrolled. Confesses more of her dysphoria to Celeste.  (Scene 9)
-* Fixes the zippers issue, which has repercussions in Torquay. (Scenes 10, 11, 12, 13, 14)
+| Chapter | Scene | Week | Notes                                                       |
+|---------|-------|------|-------------------------------------------------------------|
+|         | 1, 2  | 1    | Sarah sees Charli's lack of experience in the 'real world'  |
+|         | 3     | 1    | Charli meets Brittany, Lisa and Ellen. Montville for coffee |
+|         | 4     | 1    | Montville for coffee                                        |
+|         | 5     | 1    | Charli and Brittany go to the pub                           |
+|         | 6     | 1    | Charli tells Brittany about her past                        |
+|         | 7     | 1    | Calls her Charlotte. Pool party                             |
+|         | 8     | 1    | Charlotte allows herself to be steamrolled                  |
+|         | 9     | 1    | Fixes the zippers issue, which has repercussions in Torquay |
+|         |       | 4    | Wardrobe..: **15 months**                                   |
+|         |       | 4    | HRT.......: **4 months**                                    |
+
+* ?? (Scenes 10, 11, 12, 13, 14)
 
 
 ### April
 
-* Charlotte returns home from Maleny, accompanied by Lisa and Brittany. (Scene 15)
-* Brittany stays at Sarah and Lauren's. Sees Roger's dysfunctional behaviour. (Scene 16)
-* NO NARRATOR. Roger intends to get to Lauren through Charlie, now Charlotte. (Scene 17)
+| Chapter | Scene | Week | Notes                                                                      |
+|---------|-------|------|----------------------------------------------------------------------------|
+|         | 15    | 1    |Charlotte returns home from Maleny, accompanied by Lisa and Brittany        |
+|         | 16    | 1    | Brittany stays at Sarah and Lauren's. Sees Roger's dysfunctional behaviour |
+|         | 17    | 1    | Roger intends to get to Lauren through Charlie, now Charlotte              |
+|         |       |      |                                                                            |
+|         |       | 4    | Wardrobe..: **16 months**                                                  |
+|         |       | 4    | HRT.......: **5 months**                                                   |
+
 
 
 ### May
