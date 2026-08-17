@@ -276,7 +276,7 @@ The room’s attention snapped to me like elastic.
 
 You could see it in their faces — the sudden confusion. I resisted the impulse to smile.
 
-Mr. Greeves blinked. “Celeste?”
+Mr. Greeves blinked. “Celeste?” 
 
 I looked at him steadily. “I’m with Charlie.”
 
@@ -374,7 +374,7 @@ He continued to stare at me for a moment, his face serious.
 
 We quickly finished the solution. I wrote the explanation in clear steps. He checked every transition like a quiet auditor. When we handed it in, Mr. Greeves nodded at me, then, more slowly, at him.
 
-The bell went. People flowed past us. Charlie shrank to let them by. I slid my notebook into my bag and stood.
+The bell went. People flowed past us. Charlie wrapped his arms around his messenger bag and shrank to let them by. I slid my notebook into my bag and stood.
 
 “Charlie.”
 
@@ -382,7 +382,7 @@ He looked up.
 
 “I’ve taken work in Wardrobe at the Historical Faire,” I said. “Interested?”
 
-The Faire employed half the local students, the way Macca’s or Hungry Jack’s did in other towns; the only difference was that here the uniforms came with petticoats, stays, linen shifts, and a history lesson.
+The Faire employed half the local students, the way Macca's or Hungry Jack's did in other towns; the only difference was that here the uniforms came with petticoats, stays, linen shifts, and a history lesson.
 
 He frowned slightly. “Wardrobe? Why me?”
 
@@ -495,7 +495,7 @@ I stretched my shoulders and headed toward the tiny kitchenette. It barely deser
 
 I’d just filled the kettle when the door to Wardrobe banged open.
 
-A man in a hi-vis vest and work boots stepped into the doorway as if he’d decided the room was his and he was taking possession. He wore a cap that had seen better days, and a face that looked permanently sunburnt. His mouth wore that  slightly annoyed grimace outdoors men reserve for indoor occupations.
+A man in a hi-vis vest and work boots stepped into the doorway as if he’d decided the room was his and he was taking possession. He wore a cap that had seen better days, and a face that looked permanently sunburnt. His mouth wore that  slightly annoyed grimace outdoors men reserve for indoor occupations. 
 
 “Far-out,” he said, eyes flicking over the room. “It’s like walking into a bloody op-shop in here.”
 
@@ -653,7 +653,7 @@ I glanced at the door, then at Mara. Her gaze held mine for a second longer.
 
 I rolled my eyes and moved toward the door.
 
-As I stepped into the corridor outside Wardrobe, the noise of the faire changed — less muffled, more alive. Somewhere in the distance, tourists laughed. A bell rang. Someone yelled about a lost hat. The smell of hot chips drifted in from the food court, as if mocking the Faire's carefully crafted historical illusions.
+As I stepped into the corridor outside Wardrobe, the noise of the Faire changed — less muffled, more alive. Somewhere in the distance, tourists laughed. A bell rang. Someone yelled about a lost hat. The smell of hot chips drifted in from the food court, as if mocking the Faire's carefully crafted historical illusions.
 
 I walked fast. 
 
@@ -773,7 +773,7 @@ Time of year: December, January
 
 [ *Celeste* ]
 
-Charlie arrived ten minutes early. He stood outside Wardrobe as if the door had a sign: "For Authorised Personnel Only". There was no phone in his hand. He stood quietly waiting, folded scrap of paper in one hand, fingers worrying the edge until it softened. Every now and then he glanced at the door — as if to check whether the world had changed its mind.
+Charlie arrived ten minutes early. He stood outside Wardrobe as if the door had a sign: "For Authorised Personnel Only". There was no phone in his hand. He stood quietly waiting, his worn leather messenger bag at his feet, folded scrap of paper in one hand, fingers worrying the edge until it softened. Every now and then he glanced at the door — as if to check whether the world had changed its mind.
 
 Inside, Wardrobe moved the way it always did: rails clacking softly as garments were shifted, the new steamer hissing like it meant business, the constant quiet conversation between fabric and hands.
 
@@ -803,7 +803,13 @@ Mara turned away. “Shut the door.”
 
 He shut it quietly.
 
-Mara walked to the centre table and picked up a garment bag.
+Mara glanced at his bag.
+
+"Personal items go in the tearoom."
+
+She pointed.
+
+When he returned, Mara walked to the centre table and picked up a garment bag.
 
 “Presently, our main occupation is maintaining costumes for the Faire actresses and actors," she told him. "Do you have any experience with needle and thread?“
 
@@ -1077,7 +1083,6 @@ He was coming back tomorrow.
 
 
 
-
 ## 5 Second Day 🪡
 
 
@@ -1103,7 +1108,7 @@ Mara didn’t test people the way teachers do.
 
 Teachers would announce a test, watch you sweat, and then moralise the result. Mara tested you the way you tested a seam: under her fingers, quietly, looking for strain.
 
-Charlie was back for a second morning. Same early arrival. Same clean hands. Same careful stillness. 
+Charlie was back for a second morning. Same early arrival. Same old leather bag. Same clean hands. Same careful stillness. 
 
 Mara pointed at a tin on the table.
 
@@ -1916,12 +1921,6 @@ The door clicked shut.
 
 
 
-
-
-
-
-
-
 ## 9 Not My First Choice 👗
 
 [![Charlie][S10a]{ .artR width="460" }][S10a]
@@ -2050,11 +2049,11 @@ And Charlie *would*.
 
 I carefully watched his face. The smallest frown slowly appeared as his eyes dropped to his torso — doing maths. 
 
-A calculation:
+A calculation: *will this even sit right?*
 
-*Will this even sit right?*
+Mara silently waited. 
 
-Mara silently waited. Charlie’s eyes went to the dress again. His frown melted into slight confusion. Lucy casually sidled up beside him.
+Charlie’s eyes went to the dress again. His frown melted into slight confusion. Lucy casually sidled up beside him.
 
 “Well,” she murmured, eyes bright, “a tester, no less. And of a dress.”
 
@@ -2154,9 +2153,9 @@ I wrote at the top of the page, in neat block letters:
 
 Then underneath, because it mattered, because it named what we were building:
 
-**Tester: Charlie Rossignol**  
-**Purpose: durability & mobility without silhouette compromise**   
-**Notes: equipment, not theatre**
+**Tester:** *Charlie Rossignol*  
+**Purpose:** *durability & mobility without silhouette compromise*   
+**Notes:** *equipment, not theatre*
 
 Mara’s gaze flicked over my shoulder, and her mouth twitched again.
 
@@ -2226,15 +2225,11 @@ Charlie stood, took the log sheet off the clipboard, and walked to the fitting a
 
 <!--
 ## 11 Has Charlie Run It? ✨
-
 [![Charlie][S11a]{ .artR width="460" }][S11a]
-
 This was Scene 11 — "Has Charlie Run It?".
-Time of year: March. Note: Charlie's late puberty intrudes, Charlie's solution: spironolactone.
-
 Absorbing into #9
-
 <hr class="section-break soft" />
+Time of year: March. Note: Charlie's late puberty intrudes, Charlie's solution: spironolactone.
 -->
 
 
@@ -2242,13 +2237,11 @@ Absorbing into #9
 
 
 
-## 12 The Ledger 📒
+## 10 The Ledger 📒
 
 <!--
-
 [![Charlie][S12a]{ .artR width="460" }][S12a]
-
-This was Scene 11 — "Has Charlie Run It?".
+This was Scene 12 — "The Ledger".
 Time of year: End of April
 -->
 
@@ -2277,7 +2270,7 @@ I looked up.
 
 She shook her head.
 
-"No. Everything. No more mending pile filled with guesses and assumptions."
+"Not just repairs. *Everything*. No more mending pile filled with guesses and assumptions."
 
 I glanced over to the other end of the worktable, where the mending pile once lived. I had watched Charlie finish the last item the night before, so I was surprised to see a folded up chemise sitting on the edge, looking a bit abandoned.
 
@@ -2285,7 +2278,7 @@ Mara noticed it too. Her lips tightened.
 
 "Whose is that?"
 
-Charlie appeared just then, quietly. He started undoing the buttons of his jacket as he followed Mara's gaze.
+Charlie appeared just then, quietly. He'd set his leather bag on the floor and had started undoing the buttons of his jacket when he followed Mara's gaze.
 
 "Oh, that? One of the actresses dropped it off last night, just at closing. You had just—"
 
@@ -2309,7 +2302,7 @@ His eyes went a bit wider as she handed him the spiral notebook and the chemise.
 
 "Um, I *did* have a look at it last night," he said. "I could probably tell—"
 
-"'Probably' isn't data," Mara said firmly.
+"'Probably' isn't data," Mara said quietly.
 
 His face fell. Mara saw it.
 
@@ -2339,7 +2332,7 @@ I went back to work.
 
 Later that morning, I opened the window. A cold wind had come up and was blowing leaves around the carpark. I propped the window partly open to let in a bit of fresh air, wondering why I couldn't smell the usual hot chips porta-pottie medley.
 
-I had just returned to invoices when the door opened.
+I had just returned to doing invoices when the door opened.
 
 Lucy came in, wearing a huge grin. She sidled up to me.
 
@@ -2351,13 +2344,13 @@ I tipped my chin at Mara.
 
 I nodded.
 
-"He takes his jobs seriously."
+"He takes his job seriously."
 
 Lucy gave a sharp laugh.
 
 "Lily never knew what hit her." She tossed her head. "And then, this other actress—"
 
-The door burst open and Charlie tottered in, eyes scanning his notes. His mouth was to one side.
+The door burst open and Charlie tottered in, his eyes on his notes and his mouth to one side.
 
 Mara looked up from her work.
 
@@ -2397,7 +2390,7 @@ Mara looked up then.
 
 Mara nodded at the other end of the worktable.
 
-"Charlie is responsible for repairs. He needs details on how the failure happened."
+"Charlie is responsible for repairs. He will need details on how the failure happened."
 
 "I don't like discussing intimate garments with a bloke."
 

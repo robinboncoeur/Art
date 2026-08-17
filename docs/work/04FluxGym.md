@@ -1107,6 +1107,43 @@ If you’re training a LoRA, keep your **trigger token** up front (I used `[cele
 
 
 
+
+
+
+## Prompt Trials
+
+🔬🙂
+
+
+
+
+| #      | Suggested caption                                                                                                                                                          |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1**  | `sarahzyx, a woman with blonde hair in a bun, frontal head and shoulders portrait, wearing a white blouse, neutral expression, light gray studio background`               |
+| **2**  | `sarahzyx, a woman with blonde hair in a bun, left-facing profile head and shoulders portrait, wearing a white blouse, neutral expression, light gray studio background`   |
+| **3**  | `sarahzyx, a woman with blonde hair in a bun, three-quarter head and shoulders portrait, wearing a white blouse, neutral expression, light gray studio background`         |
+| **4**  | `sarahzyx, a woman with blonde hair in a bun, frontal upper body portrait, wearing a fitted white t-shirt and blue jeans, neutral expression, gray studio background`      |
+| **5**  | `sarahzyx, a woman with blonde hair in a bun, full body frontal view, wearing a fitted white t-shirt and blue jeans, barefoot, neutral expression, gray studio background` |
+| **6**  | `sarahzyx, a woman with blonde hair in a bun, full body rear view, wearing a fitted white t-shirt and blue jeans, barefoot, gray studio background`                        |
+| **7**  | `sarahzyx, a woman with blonde hair in a bun, full body left-facing profile, wearing a fitted white t-shirt and blue jeans, barefoot, gray studio background`              |
+| **8**  | `sarahzyx, a woman with blonde hair in a bun, full body right-facing profile, wearing a fitted white t-shirt and blue jeans, barefoot, gray studio background`             |
+| **9**  | `sarahzyx, a woman with blonde hair in a bun, rear head and shoulders portrait, wearing a white blouse, light gray studio background`                                      |
+| **10** | `sarahzyx, a woman with blonde hair in a bun, three-quarter head and shoulders portrait, wearing a white blouse, neutral expression, light gray studio background`         |
+
+---
+
+portrait of sarahzyx woman, head and shoulders portrait, neutral expression  
+closeup of sarahzyx woman, surprised expression, hair down, casual clothing  
+full body photo of sarahzyx woman, standing outdoors, casual clothing
+
+
+===
+
+sarahzyx woman, close-up portrait, front view, neutral expression, blonde hair in a bun
+sarahzyx woman, close-up portrait, left profile, blonde hair in a bun
+sarahzyx woman, close-up portrait, three-quarter view, neutral expression, blonde hair in a bun
+...
+
 <!--           Image Links         /-->
 
 [Br02]: ../assets/images/base/Bnr02a.jpg
