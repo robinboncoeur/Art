@@ -43,11 +43,12 @@
 
 ### January
 
-| Chapter | Scene   | Week   | Notes                                  |
-|---------|---------|--------|----------------------------------------|
-|         |         |        | Charlie skills up, settles in Wardrobe |
+| Chapter | Scene | Week  | Notes                                                |
+|---------|-------|-------|------------------------------------------------------|
+|         |       |       | Charlie settles in Wardrobe. Staff slowly assess     |
+|         |       |       | Charlie's suitability to their workplace             |
 -
-|         |         | 4      | Wardrobe: **1 month**                  |
+|         |       | 4     | Wardrobe: **1 month**                                |
 
 * *Actually 6 weeks end of Jan*
 
@@ -55,14 +56,15 @@
 
 ### February
 
-| Chapter | Scene | Week | Notes                                                |
-|---------|-------|------|------------------------------------------------------|
-| 6, 7    | 7-8   | 2    | Lauren visits Wardrobe, twice                        |
+| Chapter | Scene | Week  | Notes                                                |
+|---------|-------|-------|------------------------------------------------------|
+| 6, 7    | 7-8   | 2     | Lauren visits Wardrobe, twice                        |
+|         |       |       | Staff continue to assess Charlie's ability to fit in |
 -
-| Chars   |       |      | Celeste, Charlie, Mara, *Lauren*                     |
-| New     |       |      | *Lauren, Roger*                                      |
+| Chars   |       |       | Celeste, Charlie, Mara, *Lauren*                     |
+| New     |       |       | *Lauren, Roger*                                      |
 -
-|         |       | 4    | Wardrobe: **2 months**                               |
+|         |       | 4     | Wardrobe: **2 months**                               |
 
 ---
 
@@ -70,26 +72,26 @@
 
 | Chapter | Scene  | Week | Notes                                                |
 |---------|--------|------|------------------------------------------------------|
-| 8       | 8-9    | 1    | Lauren understands Wardrobe is a good vocational fit |
-|         |        |      | Charlie finds his place in Wardrobe, then late       |
-|         |        |      | puberty starts. Frightened, he starts anti-androgens |
+| 8       | 8-9    | 4    | Lauren understands Wardrobe is a good vocational fit |
+|         |       |       | Staff continue to assess Charlie's ability to fit in |
+|         |       |       | Puberty starts for Charlie, much to his horror       |
 -
-|         |        |      | **Spironolactone**                                   |
 |         |        | 4    | Wardrobe: **3 months**                               |
 
 ---
 
 ### April
 
-| Chapter | Scene  | Week | Notes                                               |
-|---------|--------|------|-----------------------------------------------------| 
-| 9       | 10-11  | 3    | Mara tells Charlie he will test garments (physics)  |
+| Chapter | Scene  | Week | Notes                                                |
+|---------|--------|------|------------------------------------------------------| 
+|         |        | 1    | Frightened by puberty, Charlie starts anti-androgens |
+| 9       | 10-11  | 3    | Mara tells Charlie he will test garments (physics)   |
 -
-|         |        |      | Celeste, Charlie, Mara, Lauren                      |
-|         |        |      | *Sarah, Lily, Bree*                                 |
+|         |        |      | Celeste, Charlie, Mara, Lauren                       |
+|         |        |      | *Sarah, Lily, Bree*                                  |
 -
-|         |        |      | Wardrobe........: **4 months**                      |
-|         |        |      | Spironolactone..: **1 month**                       |
+|         |        |      | Wardrobe........: **4 months**                       |
+|         |        |      | **Spironolactone**                                   |
 
 
 ___
@@ -102,7 +104,7 @@ ___
 |         |        |      | Was: stays, chemises not warm enough, new design    |
 -
 |         |        | 4    | Wardrobe........: **5 months**                      |
-|         |        | 4    | Spironolactone..: **2 months**                      |
+|         |        | 4    | Spironolactone..: **1 month**                       |
 
 * *Scene 28 started with "A period of three months will change a room."*
 * **REPLACED**: Scenes 15, 16, 17, 18 : The Ladder / Rungs strategy
@@ -117,7 +119,7 @@ ___
 |         | 21-22-23 | 3     | Charlie moves in with Celeste                    |
 -
 |         |          | 4    | Wardrobe........: **6 months**                    |
-|         |          | 4    | Spironolactone..: **3 months**                    |
+|         |          | 4    | Spironolactone..: **2 months**                    |
 
 ---
 
@@ -130,7 +132,7 @@ ___
 -
 |         |         | 1      | **Charlie turns 19**                             |
 |         |         | 4      | Wardrobe........: **7 months**                   |
-|         |         | 4      | Spironolactone..: **4 months**                   |
+|         |         | 4      | Spironolactone..: **2 months**                   |
 
 * Key aspect to note: **Charlie concludes that Wardrobe's acceptance depends upon his remaining physically non-threatening and relatively androgynous. He therefore begins spironolactone in an attempt to preserve the conditions he believes earned that acceptance. His reasoning is internally logical but rests on an incomplete understanding of why the women trust him.**
 
@@ -145,20 +147,20 @@ ___
 |         | 29      |       | Followed by Celeste                              |
 -
 |         |         | 4     | Wardrobe........: **8 months**                   |
-|         |         | 4     | Spironolactone..: **5 months**                   |
+|         |         | 4     | Spironolactone..: **4 months**                   |
 
 ---
 
 ### September
 
-| Chapter | Scene       | Week   | Notes                              |
-|---------|-------------|--------|------------------------------------|
-| ??      | 30          |      | Celeste discovers the bottle         |
-|         | 30, 31, 32  |      | Lauren is involved                   |
-|         | 33, 34      |      | Discussion on trust                  |
+| Chapter | Scene      | Week | Notes                                          |
+|---------|------------|------|------------------------------------------------|
+| ??      | 30         |      | Celeste discovers the bottle                   |
+|         | 30, 31, 32 |      | Lauren is involved                             |
+|         | 33, 34     |      | Discussion on trust                            |
 -
-|         |             | 4    | Wardrobe........: **9 months**       |
-|         |             | 4    | Spironolactone..: **6 months**       |
+|         |            | 4    | Wardrobe........: **9 months**                 |
+|         |            | 4    | Spironolactone..: **5 months**                 |
 
 ---
 
