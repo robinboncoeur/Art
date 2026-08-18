@@ -212,7 +212,7 @@ A well-rehearsed ritual.
 
 Except one.
 
-I nearly missed him. He sat at the very back, almost invisible, eyes on no one, except very briefly scanning the room: quick, skittish, dropping whenever they came close to meeting anyone else’s. Not asking, checking. He seemed to realise no one was going to choose him and his mouth tightened — resignation born of experience.
+I nearly missed him. He sat at the very back, almost invisible, eyes on no one, except very briefly scanning the room: quick, skittish, dropping whenever they came close to meeting anyone else's. Not asking, checking. He seemed to realise no one was going to choose him and his mouth tightened — resignation born of experience.
 
 I stilled. 
 
@@ -364,7 +364,7 @@ He glanced up at me again, his hazel eyes more searching now.
 
 “Waste? What do you mean?”
 
-“Waste of ability,” I clarified. “Waste of talent.” I kept my voice calm. “You’re just misallocated.”
+“Waste of ability,” I clarified. “Waste of talent.” I kept my voice calm. “You’re just mis-allocated.”
 
 I leaned closer, just enough to make my next words private.
 
@@ -12020,7 +12020,7 @@ And I’d smiled like an idiot and tried to laugh it off with my mouth, while my
 
 And then I’d gone home and curled up on the couch and felt small and stupid and furious with myself, because surely, by now, after everything, I should have known better than to freeze.
 
-Which was why Queensland had loomed after that like a phrase in a language I didn’t speak yet. New site, new men, new hands, new versions of that moment. I’d imagined myself stiff and wordless in loading bays I’d never seen, in corridors and costume sheds and gravel carparks, Sarah somewhere further down the line, too far away to interpose, Celeste hundreds of kilometres south.
+Which was why Queensland had loomed after that like a phrase in a language I didn’t speak yet. New site, new men, new hands, new versions of that moment. I’d imagined myself stiff and wordless in loading bays I’d never seen, in corridors and costume sheds and gravel carpark, Sarah somewhere further down the line, too far away to interpose, Celeste hundreds of kilometres south.
 
 It had taken weeks before the courier with the clipboard arrived and I heard myself say, very calmly, “Could I get you to please step back a bit?” before adrenaline could get in the way.He’d stepped back.
 
