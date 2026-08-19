@@ -605,9 +605,9 @@ Graham shrugged. “Fine. You want him, take him. But I’m not babysitting him 
 
 “You're not meant to babysit. You're meant to supervise. There’s a difference.”
 
-She turned to me.
+Graham shrugged. Mara turned to me.
 
-“If we take him, he does things by Wardrobe's rules,“ Mara cut in. “He shows up on time. He listens. He follows instruction. He's not a larrikin. He keeps his hands clean and his mouth cleaner. He gets one trial shift.” Mara tapped once on the table. “One. That’s all I need. One day.”
+“*If* we take him, he does things by Wardrobe's rules,“ she said firmly. “He shows up on time. He listens. He follows instruction. He's not a larrikin. He keeps his hands clean and his mouth cleaner. He gets one trial shift.” She tapped once on the table. “One. That’s all I need. One day.”
 
 Graham seemed uncomfortable. “So what, you want me to send him over?”
 
