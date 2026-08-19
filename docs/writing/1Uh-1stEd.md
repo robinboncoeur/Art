@@ -957,7 +957,7 @@ One of the other girls — Leah — arrived with a pile of folded aprons. She st
 
 Mara didn’t look up. “He’s working.”
 
-Leah’s mouth opened, then shut. She glanced at me, searching for cues. I gave her raised eyebrows. 
+Leah’s mouth opened, then shut. She glanced at me, searching for clues. I gave her raised eyebrows. 
 
 Mara looked up then, and her gaze pinned Leah the way a pin fixes fabric.
 
