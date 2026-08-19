@@ -977,7 +977,7 @@ A while later, Mara moved to the far side of the room and pulled a curtain partw
 
 Charlie stopped. “Yes, Mara?”
 
-“Put aside what you're doing,” Mara said, “and bring me the dress.”
+“Bring me the dress.”
 
 Charlie set the needle down where it belonged, precisely, smoothing the thread, and then carried the dress over with both hands as if it could bruise. Mara took it, examined the seam with her fingertips, turned it inside-out, then right side out again. She tugged lightly near the closure.
 
