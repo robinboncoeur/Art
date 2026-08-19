@@ -1274,11 +1274,28 @@ He rose and took the sleeve from her.
 
 
 
+## 6 Spaces ✨
+
+[![Charlie][S06a]{ .artR width="460" }][S06a]
+
+<!--
+Time of year: February
+-->
+
+[ *Celeste* ]
+
+<hr class="section-break soft" />
 
 
 
 
-## 6 Lauren ✨
+
+
+
+
+
+
+## 7 Lauren ✨
 
 [![Charlie][S07a]{ .artR width="460" }][S07a]
 
@@ -12098,7 +12115,7 @@ From her.
 
 From us.
 
-If she had been anyone else, she might have kept me back. Wrapped me in cotton wool. Swallowed the QLD contract rather than risk me in a new environment.
+If she had been anyone else, she might have kept me back. Wrapped me in cotton wool. Swallowed the Qld contract rather than risk me in a new environment.
 
 Instead, she had stood there with her hands on my shoulders and said I trust you. I trust Sarah. I trust myself to hear and react if you say stop.
 

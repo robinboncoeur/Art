@@ -10,7 +10,7 @@
 
 ## Celeste's Girl
 
-[![img][Stc1]{ .artR width="360" }][Stc1]
+[![image][Stc1]{ .artR width="360" }][Stc1]
 
 
 ### November 
@@ -134,7 +134,7 @@ ___
 |         |         | 4      | Wardrobe........: **7 months**                   |
 |         |         | 4      | Spironolactone..: **2 months**                   |
 
-* Key aspect to note: **Charlie concludes that Wardrobe's acceptance depends upon his remaining physically non-threatening and relatively androgynous. He therefore begins spironolactone in an attempt to preserve the conditions he believes earned that acceptance. His reasoning is internally logical but rests on an incomplete understanding of why the women trust him.**
+* Key aspect to note: **Charlie concludes that Wardrobe's acceptance depends upon his remaining physically non-threatening and relatively androgynous. He therefore begins Spironolactone in an attempt to preserve the conditions he believes earned that acceptance. His reasoning is internally logical but rests on an incomplete understanding of why the women trust him.**
 
 ---
 
@@ -197,7 +197,7 @@ ___
 | Chapter | Scene    | Week | Notes                                                               |
 |---------|----------|------|---------------------------------------------------------------------|
 |         | 40       |      | Lauren confronts Roger, ends up at Sarah's                          |
-|         | 41       |      | Lauren feels she has to hide her attaction to Sarah from Sarah      |
+|         | 41       |      | Lauren feels she has to hide her attraction to Sarah from Sarah     |
 |         | 42-43-44 |      | Sarah provides a protective environment for Lauren                  |
 |         | 45       |      | Sarah opens up to Lauren: she is attracted to her                   |
 |         | 46-47    |      | They hug, only that because Lauren is still quite fragile           |

@@ -64,6 +64,9 @@ Or so I thought. And then, I purchased Dorico 6, and found that Musescore 4—bo
     </p>
   </div>
 </div>
+
+Slightly different orchestration.
+
 <div class="music-card music-card--with-art">
   <div>
     <p>E
