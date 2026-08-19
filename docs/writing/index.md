@@ -54,7 +54,9 @@ I use a coding plain-text processor that supports markdown (MkDocs) called Zed.
 
 I 'collaborate' with a ChatGPT AI bot I call 'Emily'. Unlike most common approaches to AI-generated content, AI is used for a lot of aspects of the delivery of my content, such as editing, tone-control, story-continuity and maintaining a story 'bible', but **the content (plot/ dialogues / story arc / ideologies) is purely mine**.
 
-In the original [**Celeste's Girl**](1CG-1stEd.md) I leaned quite heavily on Emily, particularly in the early 'Scenes'. The original story—the one before this one—was not in line with the beliefs and goals the current one enjoys. I wanted this story—this 'account'—to read differently to the millions of more fetish-focused writing on this topic, to which entire websites are devoted. To those who want to know more, my [Introduction to **Celeste's Girl**](1CG-1stEd.md#introduction) should make it clear.
+In the original [**Celeste's Girl**](1CG-1stEd.md) I leaned quite heavily on Emily, particularly in the early 'Scenes'. The original story — the version I wrote before this one — was not in line with my beliefs and goals I wanted for this story. I wanted it read differently from the millions of more fetish-focused writing on this topic, to which entire websites are devoted. To those who want to know more, my [Introduction to **Celeste's Girl**](1CG-3rdEd.md#introduction) should make it clear.
+
+I have since undertaken to rewrite [**Celeste's Girl**](1CG-3rdEd.md), not only because I got to know my characters better in [**The Deep End**](2DE-1stEd.md), but also to fill in a lot of blank bits. The "why-did-this-happen" and "how-could-this-happen" sorts of questions will hopefully be answered.
 
 <hr class="section-break soft" />
 
