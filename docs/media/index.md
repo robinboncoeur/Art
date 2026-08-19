@@ -65,7 +65,7 @@ Or so I thought. And then, I purchased Dorico 6, and found that Musescore 4—bo
   </div>
 </div>
 
-Slightly different orchestration.
+Slightly [different orchestration](https://media.seabrae.org/audio/cg/music/TheWrongDoor-Eb.pdf).
 
 <div class="music-card music-card--with-art">
   <div>
