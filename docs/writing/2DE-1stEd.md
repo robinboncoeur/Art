@@ -795,7 +795,7 @@ My eyes stung, suddenly.
 ## Scene 5
 
 <!--
-[![Img][Sy05]{ .artR width="460" }][Sy05]
+[![img][Sy05]{ .artR width="460" }][Sy05]
 /-->
 
 ### 🍹 Pub Call 🍹
@@ -1735,7 +1735,7 @@ Her smile was tinged with serene pity.
 ## Scene 8
 
 <!--
-[![Img][Sy08]{ .artR width="460" }][Sy08]
+[![img][Sy08]{ .artR width="460" }][Sy08]
 /-->
 
 ### 🏊‍♀️Diving In 🏊‍♀️
@@ -1992,7 +1992,7 @@ I didn't have to ask what she meant.
 ## Scene 9
 
 <!--
-[![Img][Sy09]{ .artR width="460" }][Sy09]
+[![img][Sy09]{ .artR width="460" }][Sy09]
 /-->
 
 ### 👩‍🍼 Pitter-Patter 👩‍🍼
@@ -3439,7 +3439,7 @@ She nodded and reached into her bag. Her shoulders slumped.
 
 Lisa closed her eyes and nodded. I put my iPad into her hands.
 
-"Here, something to do. It's a bit over two hours or so, but it'll feel like all day." She shook her head and tried to pass it back. "No, you hang on to it," I insisted. "You'll need to start reading..." I flicked to a pdf I'd bookmarked: "This."
+"Here, something to do. It's a bit over two hours or so, but it'll feel like all day." She shook her head and tried to pass it back. "No, you hang on to it," I insisted. "You'll need to start reading..." I flicked to a PDF I'd bookmarked: "This."
 
 She nodded and slowly exhaled.
 
@@ -5412,7 +5412,7 @@ Apart from the pounding in my ears.
 ## Scene 23
 
 
-[![Img][Sy23]{ .artR width="460" }][Sy23]
+[![img][Sy23]{ .artR width="460" }][Sy23]
 
 
 ### 💧Truth in How It Deforms🩸
@@ -5788,7 +5788,7 @@ As I got Brittany’s suitcase out of the boot, Charlotte was the first to break
 
 It was meant to be light. It failed beautifully.
 
-Brittany’s caracao jacket lifted at the lapels as if it, too, had somewhere urgent to be. She laughed, turned, and pulled up the handle of her bag.
+Brittany’s caraco jacket lifted at the lapels as if it, too, had somewhere urgent to be. She laughed, turned, and pulled up the handle of her bag.
 
 Then stopped.
 
@@ -6755,7 +6755,7 @@ Charlotte looked up.
 
 Her expression went blank.
 
-“Which are the most comfortable?” I said. “Boy shorts? Army-issue? Your nan’s bloomers?”
+“Which are the most comfortable?” I said. “Boy shorts? Army-issue? Your Nan’s bloomers?”
 
 She snorted, then immediately winced.
 
@@ -6823,7 +6823,7 @@ She missed it with the sort of longing that made recovery feel like exile.
 ## Scene 28
 
 
-[![Img][Sy28]{ .artR width="460" }][Sy28]
+[![img][Sy28]{ .artR width="460" }][Sy28]
 
 
 ### 🧤 Care Spoke 🧣
