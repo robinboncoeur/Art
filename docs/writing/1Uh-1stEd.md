@@ -23,7 +23,7 @@
 
 ### Introduction
 
-I write character-driven fiction about gender, power, belonging, and the women who build the rooms other people survive in. I’m not formally published in the traditional sense, and I’ve had AI as a drafting partner, but I’ve been working seriously on a long fiction project about gender, belonging, and women’s authority and agency.
+I write character-driven fiction about gender, power, belonging, and the women who build the rooms other people survive in. I’m not formally published in the traditional sense, and I’ve had AI as a drafting partner, but I’ve been working seriously on this fiction project. The core themes are: **agency, safety and respect**.
 
 
 
@@ -1283,6 +1283,8 @@ Time of year: February
 -->
 
 [ *Celeste* ]
+
+[Currently being edited](W_Edits.md)
 
 <hr class="section-break soft" />
 
