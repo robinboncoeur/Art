@@ -196,7 +196,7 @@ Just then, Sarah's phone pinged. She glanced down at it and grinned.
 ## Scene 2
 
 
-[![Img][Sy02]{ .artR width="460" }][Sy02]
+[![img][Sy02]{ .artR width="460" }][Sy02]
 
 
 ### 💞 Weak Rails 🫧
@@ -380,7 +380,7 @@ I didn't have it.
 ## Scene 3
 
 
-[![Img][Sy03]{ .artR width="460" }][Sy03]
+[![img][Sy03]{ .artR width="460" }][Sy03]
 
 
 ### 🌸 Brittany 🌸
@@ -671,7 +671,7 @@ Her smile softened, then she tucked it away and reached for the sleeve of the co
 ## Scene 4
 
 <!--
-[![Img][Sy04]{ .artR width="460" }][Sy04]
+[![img][Sy04]{ .artR width="460" }][Sy04]
 /-->
 
 ### 🛋 Your Choice 🛋
@@ -1009,7 +1009,7 @@ She'd seen.
 ## Scene 6
 
 <!--
-[![Img][Sy06]{ .artR width="460" }][Sy06]
+[![img][Sy06]{ .artR width="460" }][Sy06]
 /-->
 
 ### 🥐 Over a Croissant 🥐
@@ -1296,7 +1296,7 @@ Brittany held my gaze. “Okay,” she said softly.
 ## Scene 7
 
 
-[![Img][Sy07]{ .artR width="460" }][Sy07]
+[![img][Sy07]{ .artR width="460" }][Sy07]
 
 
 ### 👗 Rules for Everything 👗
@@ -1407,7 +1407,7 @@ My head went into my hands.
 
 My head snapped to her.
 
-“Wait. What if if they ask why I didn’t pick up a pair of togs when we picked up the dress — ”
+“Wait. What if they ask why I didn’t pick up a pair of togs when we picked up the dress — ”
 
 She glanced at me sharply. “Ever hear of ‘Martha Monthly’?”
 
@@ -1796,7 +1796,7 @@ I nodded. "Okay," I said through thin lips. "Sounds easy enough. But—"
 
 “But what?”
 
-“Nothing,” I said. “It’s just that your rules sounnd frighteningly easy to get, in here. Out there...”
+“Nothing,” I said. “It’s just that your rules sound frighteningly easy to get, in here. Out there...”
 
 The turn signal clicked softly. She turned into a very narrow road into the jungle. My stomach churned. 
 
@@ -2209,7 +2209,7 @@ That landed well.
 
 "I miss you," she said.
 
-"And I miss you," I replied. “More than’s sensible.”
+"And I miss you," I replied. “More than is sensible.”
 
 <hr class="section-break strong" />
 
@@ -2431,7 +2431,9 @@ They had simply begun behaving as though I might be.
 
 [ *Charlotte* ]
 
-My polka-dot umbrella snapped at me as I released the catch, as if to tell me it wasn’t done playing in the drizzle yet. Neither was I. I grimaced and stepped inside, into the quiet Wardrobe that seemed to settle over everything.
+My polka-dot umbrella snapped at me as I released the catch, as if to tell me it wasn’t done playing in the drizzle yet. Neither was I. 
+
+I grimaced and stepped inside, into the quiet Wardrobe that seemed to settle over everything.
 
 I wasn’t early, but I was still the first one there.
 
@@ -3134,7 +3136,7 @@ I lifted my eyebrows valiantly.
 
 With a flourish, she threw a large yellow folder onto the tearoom table. Her eyes shone.
 
-"Brittany and I finally came up with a design for a new caracao jacket." Her voice was breathless. "Would you like to have a look?"
+"Brittany and I finally came up with a design for a new caraco jacket." Her voice was breathless. "Would you like to have a look?"
 
 The design was close to what we had done for the Faire back in Torquay, with some significant changes. 
 
@@ -3316,7 +3318,7 @@ Even my eyeliner finally felt right.
 ## Scene 15
 
 
-[![Img][Sy15]{ .artR width="460" }][Sy15]
+[![img][Sy15]{ .artR width="460" }][Sy15]
 
 
 ### ✈️  The Longest Morning  💞
@@ -3371,7 +3373,7 @@ She bit her lip. "I've —  never been in an aeroplane before."
 
 Brittany shrugged. "Yeah, first time's a bit weird, but you quickly get used to it."
 
-Once onboard, after we'd stowed our luggage and fastened our seatbelts, it became clear that flying was never going to be Lisa's favourite thing to do.
+Once onboard, after we'd stowed our luggage and fastened our seat-belts, it became clear that flying was never going to be Lisa's favourite thing to do.
 
 When the engines roared and my body went heavy into the seat back, Lisa’s hands turned white-knuckled. I glanced at her face. Pinched. Wide-eyed. Her eyes fleetingly sought mine — I moved my lips into my best happy curve and, reaching out, put my hand over hers. With a hand that shook, she grabbed mine as the aircraft thundered and rattled down the runway.
 
@@ -3449,7 +3451,7 @@ It felt, oddly, like I was leaving home. I never thought I'd miss the stale dong
 
 I glanced over at the girls, suddenly grateful they were coming back with me.
 
-Lisa had gone to sleep by the time we'd descended into Melbourne's airspace. Outside, grey clouds loomed just above the window, the landscape below laid out like a fairy-garden. Brittany was glued to the window. As the announcement came to fasten seatbelts for landing, she glanced over at me with a wide grin, then tapped Lisa on the arm as a flight attendant appeared.
+Lisa had gone to sleep by the time we'd descended into Melbourne's airspace. Outside, grey clouds loomed just above the window, the landscape below laid out like a fairy-garden. Brittany was glued to the window. As the announcement came to fasten seat-belts for landing, she glanced over at me with a wide grin, then tapped Lisa on the arm as a flight attendant appeared.
 
 Lisa awoke with a wide-eyed start.
 
@@ -3543,7 +3545,7 @@ Charlotte's mum was... different. Nothing like I expected.
 
 Sarah and Lauren reminded me of ballerinas dancing a pas de deux. Sarah would pull a wet plastic container out of the dishwasher, and Lauren would take it from her, tea-towel already in hand to dry it. Sarah's hips would slip sideways just enough to let Lauren slide past her in the small kitchenette. 
 
-They were chalk and cheese in so many ways: Lauren played the violin; Sarah wrote poetry on her Macbook Air with headphones on — not listening to music, but politics — until the early hours of the morning; Lauren loved prawns while Sarah had a thing for olives... but the gentleness between them, the care in Sarah's eyes, the tender strokes of the brush Lauren gave Sarah's blond hair as they watched TV made me envious.
+They were chalk and cheese in so many ways: Lauren played the violin; Sarah wrote poetry on her MacBook Air with headphones on — not listening to music, but politics — until the early hours of the morning; Lauren loved prawns while Sarah had a thing for olives... but the gentleness between them, the care in Sarah's eyes, the tender strokes of the brush Lauren gave Sarah's blond hair as they watched TV made me envious.
 
 Dinner that night was jacket potatoes with cheese and vegemite. I had just sliced my potato and squeezed it when I noticed that Sarah had stilled.
 
@@ -5786,7 +5788,7 @@ As I got Brittany’s suitcase out of the boot, Charlotte was the first to break
 
 It was meant to be light. It failed beautifully.
 
-Brittany’s caraco jacket lifted at the lapels as if it, too, had somewhere urgent to be. She laughed, turned, and pulled up the handle of her bag.
+Brittany’s caracao jacket lifted at the lapels as if it, too, had somewhere urgent to be. She laughed, turned, and pulled up the handle of her bag.
 
 Then stopped.
 
@@ -6504,7 +6506,7 @@ And I was left with no time to hide behind, because it was happening. Now.
 
 I didn’t feel ready.
 
-“I thought there’d be more time,” I said.
+“I thought there would be more time,” I said.
 
 Celeste’s hand found mine under the table.
 
@@ -6771,7 +6773,7 @@ She peeled off the shorts she had slept in, moving with the careful dignity of s
  
 She drew them on slowly, arranging the dressings underneath with the sort of concentration most people reserved for explosives.
 
-The cotton lycra settled where the others had expectations.
+The cotton Lycra settled where the others had expectations.
 
 I picked up my cup, then put it down again.
 
@@ -6789,7 +6791,7 @@ Her eyebrows rose. “Need?”
 
 “Back in a tick.”
 
-I knew exactly what I was after: bike shorts, two sizes too big, mostly cotton, enough lycra to follow the body and not enough to make stupid demands. Something that did not pretend healing was elegant. Something useful. Something kind.
+I knew exactly what I was after: bike shorts, two sizes too big, mostly cotton, enough Lycra to follow the body and not enough to make stupid demands. Something that did not pretend healing was elegant. Something useful. Something kind.
 
 And on the way back to the bungalow, with the paper bag tucked under my arm and my tea long abandoned on the veranda, I found the true stress-point in Charlotte’s emotional seam.
 
@@ -7551,7 +7553,7 @@ Mara looked at me over her machine.
 
 Her mouth flattened, but not unkindly.
 
-"You may listen. You may ask me to do things, like turn the handwheel. You may tell us what you think. You may not kneel, lift, twist, crawl under tables, or attempt to resuscitate."
+"You may listen. You may ask me to do things, like turn the hand-wheel. You may tell us what you think. You may not kneel, lift, twist, crawl under tables, or attempt to resuscitate."
 
 "I wasn't going to crawl."
 
@@ -7567,7 +7569,7 @@ Mum covered her mouth with her fingers.
 
 I sat back carefully, annoyed at my body and by the fact that every woman in the room had noticed I owned one.
 
-"Turn the handwheel slowly."
+"Turn the hand-wheel slowly."
 
 Mara did.
 
@@ -8516,7 +8518,7 @@ Celeste's eyes snapped to mine.
 
 "I was just remembering Charlotte's first day at school." I rubbed my thumb around the rim of my cup. "She'd never had to leave me before." I looked up. "Tell me... did your parents have people over much when you were little?"
 
-Celeste gave a feeting grin.
+Celeste gave a fleeting grin.
 
 "All the time. I used to boss their kids around. I remember my mum making me apologise to one of the boys because I made him cry."
 
