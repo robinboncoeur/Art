@@ -74,6 +74,7 @@ By the time we reached Eagle Junction, the sun had come out. The platform heat h
 
 I dug through my purse for a breath mint and my fingers found something cold, small, precious. There it was: a tiny white vial tucked beside my wallet like a secret.
 
+<!-- vale off --> "J’Adore"
 *J’Adore.*
 
 Everything in me leaned towards home, towards a little flat in Torquay, towards her. For a second it was like Celeste was close enough to melt into. I held the vial to my face, eyes closed. The thought of her made my throat ache.
@@ -123,6 +124,7 @@ It wasn’t a question.
 My eyes went hot. I looked down quickly and brought my hand up to rub the back of my neck; it felt like cast iron.
 
 And suddenly, the fragrance — J’Adore, still sitting on my wrists, faint but there — and with it the platform, the man’s voice behind me, that word like he owned it.
+<!-- vale on -->
 
 Love.
 
@@ -891,6 +893,7 @@ Rache stared at her, then at Natalie. Finally, she turned on her heel, and the l
 
 The tearoom was still mostly dust and bare concrete, so we had lunch in the little courtyard behind Wardrobe. Brittany's eyes narrowed slightly at my energy drink.
 
+<!-- vale off -->
 "That stuff is *so* bad for you," she said, settling beside me and opening her little eskie. She handed me a dragon fruit. "This'll give you energy *and* enhance your beauty!"
 
 I giggled.
@@ -1773,6 +1776,7 @@ I looked out the window. “As if I would.”
 "Not sure I get what you mean."
 
 “Right. So, say something like, ‘How d’you know Harri?’ or ‘Is that a heated pool?’ or ‘Did you come hungry too?’ Or if someone’s got nice swimmers on, sure, say that. Just keep it easy.”
+<!-- vale on -->
 
 I folded my arms. “Say hi back. Ask simple-to-answer question. That it?”
 
@@ -2221,7 +2225,7 @@ That landed well.
 ## Scene 10
 
 <!--
-[![Img][Sy10]{ .artR width="460" }][Sy10]
+[![img][Sy10]{ .artR width="460" }][Sy10]
 /-->
 
 ### 🪡 Made Workable 🪡
@@ -2424,7 +2428,7 @@ They had simply begun behaving as though I might be.
 ## Scene 11
 
 <!--
-[![Img][Sy11]{ .artR width="460" }][Sy11]
+[![img][Sy11]{ .artR width="460" }][Sy11]
 /-->
 
 ### ꧁ Lacings ꧁
@@ -2643,7 +2647,7 @@ I turned to Fiona.
 ## Scene 12
 
 <!--
-[![Img][Sy12]{ .artR width="460" }][Sy12]
+[![img][Sy12]{ .artR width="460" }][Sy12]
 /-->
 
 ### 🌸 🌺 Polyester 🌷 🌸 
@@ -3039,6 +3043,7 @@ After we said goodnight, I sat for a while with the dark phone screen in my hand
 
 I brushed my teeth in the narrow little bathroom, watching the water swirl around the corroded drain. I looked up by accident and caught my own eyes in the mirror.
 
+<!-- vale off -->
 There was still tiredness in my face. Still the faint puffiness from crying. My hair was a mess. I looked exactly like a girl who had had a rotten afternoon.
 
 But I also looked different, somehow.
@@ -6812,6 +6817,7 @@ The women. The work. Mara’s rules. The ledger chair. The future itself, organi
 She missed it with the sort of longing that made recovery feel like exile.
 
 *Sehnsucht*.
+<!-- vale off -->
 
 <hr class="section-break strong" />
 

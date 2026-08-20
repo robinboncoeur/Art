@@ -1,5 +1,4 @@
-aircon
-Aircon
+[Aa]ircon
 Arbres
 blokey
 bolognaise
@@ -37,8 +36,7 @@ Heyer
 hors
 Hullo
 img
-influencer
-influencers
+[Ii]nfluencers?
 J’Adore
 Jeune
 Kaimu
@@ -49,8 +47,7 @@ Kirsty
 Kontakt
 Kontext
 Lacrimosa
-lippie
-Lippie
+[Ll]ippie
 Lustig
 Macca's
 Maleny
@@ -60,8 +57,7 @@ meds
 Mmm
 Montville
 Moorside
-mozzie
-mozzies
+[Mm]ozzies?
 Northwind
 overlocker
 personhood
@@ -80,15 +76,13 @@ Rookh
 roomie
 Rossignol
 rsync
-rsync
 rulebook
 Sabatella
 Salieri
 Sauvignon
 Sciamma
 seamline
-seatbelts
-Seatbelts
+[Ss]eatbelts?
 soundfont
 sparkie
 Spironolactone
@@ -99,8 +93,7 @@ Tahlia
 tennies
 thingie
 toserver
-Tradies
-tradies
+[Tt]radies?
 Trimethoprim
 tu
 tuplets
