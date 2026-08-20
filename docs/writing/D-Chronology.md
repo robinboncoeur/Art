@@ -8,6 +8,7 @@
 
 
 
+
 ## Celeste's Girl
 
 [![image][Stc1]{ .artR width="360" }][Stc1]
@@ -47,6 +48,7 @@
 |---------|-------|-------|------------------------------------------------------|
 |         |       |       | Charlie settles in Wardrobe. Staff slowly assess     |
 |         |       |       | Charlie's suitability to their workplace             |
+| 6       |       |       | Wardrobe gets to know Charlie.                       |
 -
 |         |       | 4     | Wardrobe: **1 month**                                |
 
@@ -58,10 +60,10 @@
 
 | Chapter | Scene | Week  | Notes                                                |
 |---------|-------|-------|------------------------------------------------------|
-| 6, 7    | 7-8   | 2     | Lauren visits Wardrobe, twice                        |
-|         |       |       | Staff continue to assess Charlie's ability to fit in |
+| 7       | 7-8   | 2     | Lauren visits Wardrobe, twice                        |
+|         |       |       | Charlie is less and less noticeable, is fitting in   |
 -
-| Chars   |       |       | Celeste, Charlie, Mara, *Lauren*                     |
+| Chars   |       |       | Celeste, Charlie, Mara                               |
 | New     |       |       | *Lauren, Roger*                                      |
 -
 |         |       | 4     | Wardrobe: **2 months**                               |
@@ -73,7 +75,6 @@
 | Chapter | Scene  | Week | Notes                                                |
 |---------|--------|------|------------------------------------------------------|
 | 8       | 8-9    | 4    | Lauren understands Wardrobe is a good vocational fit |
-|         |       |       | Staff continue to assess Charlie's ability to fit in |
 |         |       |       | Puberty starts for Charlie, much to his horror       |
 -
 |         |        | 4    | Wardrobe: **3 months**                               |
