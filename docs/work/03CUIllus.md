@@ -2,7 +2,7 @@
 
 
 [![Old Kaimu][Br02]{ .artC width="1100" }][Br02]
-
+<!-- vale off -->
 
 <hr class="section-break strong" />
 

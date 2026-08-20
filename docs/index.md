@@ -30,7 +30,9 @@ Celeste’s Girl follows Charlie, a gentle, self-effacing young person who enter
 
 Under the influence of Celeste, Mara, Sarah, Lauren, and the wider female structure of Wardrobe, Charlie learns competence, safety, discipline, presentation, and belonging. What begins as adaptation—doing what the work requires, wearing what fits, accepting rules that make the department function—slowly becomes revelation. Charlie becomes Charli, then Charlotte: not because someone forces a costume onto him, but because the practical, emotional, and social demands of Wardrobe allow the person already there to emerge.
 
+<!-- vale off -->
 The story is also about Celeste discovering the danger of her own perception. She sees Charlotte early—perhaps before Charlotte can bear to see herself—and she has a gift for naming truths before anyone else has language for them. But being right does not make her innocent. Her intelligence, confidence, and influence shape outcomes. The story therefore asks what happens when love, insight, desire, and control become tangled, and whether a person can help reveal another's truth without claiming ownership of it.
+<!-- vale on -->
 
 These pages now centre on the developing world of [Celeste’s Girl](writing/1CG-2ndEd.md). The gowns, stays, ledgers, fittings, and period settings are not the point in themselves. They are the instruments through which the story examines identity, work, authority, safety, and belonging. Within that structure, Charlie’s gradual emergence as Charlotte becomes less a transformation than a recognition: the discovery of a self that could only become visible in the right company.
 
@@ -53,7 +55,7 @@ The visual work here was created using ComfyUI, a node-based Stable Diffusion in
 
 The text is accompanied by audio files of the narration, recorded for the most part in ElevenLabs, a state-of-the-art Text-To-Speech audio file generator. The audio files are embellished by short clips of the sort of music that provided the emotional atmosphere when I wrote. 
 
-The music was created by transcribing notes from musical scores (PDFs) into MuseScore, then rendering and refining the result in Reaper, a digital audio workstation. I only use public-domain or otherwise permissible source material: the musical scores.
+The music was created by transcribing notes from musical scores (PDF) into MuseScore, then rendering and refining the result in Reaper, a digital audio workstation. I only use public-domain or otherwise permissible source material: the musical scores.
 
 Large Language Models are a central part of my creative workflow—not as a substitute for imagination, but as a demanding collaborator: useful for research, structure, revision, and turning rough language into clean, enjoyable prose.
 
@@ -96,7 +98,7 @@ I am not writing it to chase a market. I am writing it because the subject matte
 
 Couple of things; we grew up Seventh-Day Adventist. I still believe in God, but not the doctrines of that church, which stem from Methodism. Too little attention is paid to the Words of Christ, and too much emphasis is placed on rules for the Levi priests. And it's all very cherry-picked, and misinterpreted. They think Sodom and Gomorrah were destroyed because of homosexuality. But in Ezekiel, things are spelled out pretty clearly:
 
-*As I live, saith the Lord GOD, Sodom thy sister hath not done, she nor her daughters, as thou hast done, thou and thy daughters. Behold, this was the iniquity of thy sister Sodom: pride, fulness of bread, and careless ease was in her and in her daughters; neither did she strengthen the hand of the poor and needy. And they were haughty, and committed abomination before Me; therefore I removed them when I saw it.*
+*As I live, saith the Lord GOD, Sodom thy sister hath not done, she nor her daughters, as thou hast done, thou and thy daughters. Behold, this was the iniquity of thy sister Sodom: pride, fullness of bread, and careless ease was in her and in her daughters; neither did she strengthen the hand of the poor and needy. And they were haughty, and committed abomination before Me; therefore I removed them when I saw it.*
 
 Nothing about gay relationships at all.
 

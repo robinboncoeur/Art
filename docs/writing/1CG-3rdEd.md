@@ -365,7 +365,7 @@ He glanced up at me again, his hazel eyes more searching now.
 
 “Waste? What do you mean?”
 
-“Waste of ability,” I clarified. “Waste of talent.” I kept my voice calm. “You’re just misallocated.”
+“Waste of ability,” I clarified. “Waste of talent.” I kept my voice calm. “You’re just mis-allocated.”
 
 I leaned closer, just enough to make my next words private.
 
@@ -656,7 +656,7 @@ I rolled my eyes and moved toward the door.
 
   
 
-As I stepped into the corridor outside Wardrobe, the noise of the faire changed — less muffled, more alive. Somewhere in the distance, tourists laughed. A bell rang. Someone yelled about a lost hat. The smell of hot chips drifted in from the food court, as if mocking the Faire's carefully crafted historical illusions.
+As I stepped into the corridor outside Wardrobe, the noise of the Faire changed — less muffled, more alive. Somewhere in the distance, tourists laughed. A bell rang. Someone yelled about a lost hat. The smell of hot chips drifted in from the food court, as if mocking the Faire's carefully crafted historical illusions.
 
 I walked fast. 
 
@@ -1317,7 +1317,7 @@ Testing something he hadn’t decided yet.
 
 We let him.
 
-Mata finished the seam in her hands first — small, even stitches at the cuff — then set it aside and wiped her palms once on calico.
+Mara finished the seam in her hands first — small, even stitches at the cuff — then set it aside and wiped her palms once on calico.
 
 “Sit.”
 
@@ -1528,6 +1528,7 @@ Lauren's jaw tightened. "He's meant to be working in maintenance, though. His fa
 
 Lauren's eyes widened somewhat and she stopped, it seemed, to recalibrate.
 
+<!-- vale off -->
 "Why yes, he did. He's been able to secure an apprenticeship for him in the shipyards in Williamstown. He made a few phone calls to get that sorted for Charles. The maintenance job was just to get him ready for it."
 
 Mara's expression didn't soften. Her tone was direct, unflinching.
@@ -1617,6 +1618,7 @@ Mara nodded, as if filing that away like a measurement.
 Lauren's lips parted slightly, her face clearly indicating that Mara's assessment had irritated her.
 
 "But you think this..." Lauren said with a wave at the room, "is? Around... around all this?" Her eyes moved, briefly, to the fitting curtains — to the private controlled space.
+<!-- vale on -->
 
 Mara's expression didn't change. "You mean around women."
 
@@ -2641,8 +2643,8 @@ NOTES (MOVEMENT / STRESS):
 FAILURE POINTS:
 FIX APPLIED:
 RE-TEST:
-SIGNED (MARA):
-SIGNED (CELESTE):
+SIGNED (Mara):
+SIGNED (Celeste):
 
 I ran my finger down the columns and felt, absurdly, relieved. The whole room would be calmer now. Fewer claims the garment just tore, as though fabric did things out of spite.
 
@@ -5634,7 +5636,7 @@ I peered at the rice paper rolls at the bottom of the bag.
 
 “Tofu?”
 
-“That's all they had.“ She turned to Charlie, who was still focused on the worksheet. “Hey, fashion statement, got you something.“ She pressed a Woolies shopping bag against his chest. ““Let’s just say I’m sick of the apologetic laundry-basket look.” Charlie's eyes grew wide as he retrieved two pairs of jeans and a T-shirt that was soft, narrow through the shoulders, and shaped enough to suggest someone had expected the wearer to possess a body rather than apologise for one.
+“That's all they had.“ She turned to Charlie, who was still focused on the worksheet. “Hey, fashion statement, got you something.“ She pressed a Woollies shopping bag against his chest. ““Let’s just say I’m sick of the apologetic laundry-basket look.” Charlie's eyes grew wide as he retrieved two pairs of jeans and a T-shirt that was soft, narrow through the shoulders, and shaped enough to suggest someone had expected the wearer to possess a body rather than apologise for one.
 
 “Jeans,” Sarah said. “Ones that fit intentionally. And before you make that wounded woodland-creature face, they were four dollars. You can thank me later.”
 
@@ -5788,7 +5790,7 @@ His face was expressionless.
 
 “So, you want me to do my job sort of like my mum would do it?”
 
-“Exactly. And you already do, Charlie. That's how you did that maths problem in Mr Greeve's class. And how you sorted pins. And how you're ferreting out waste. The essential role of quiet support.“ I let that land. “And, it has a name.”
+“Exactly. And you already do, Charlie. That's how you did that maths problem in Mr Greeves' class. And how you sorted pins. And how you're ferreting out waste. The essential role of quiet support.“ I let that land. “And, it has a name.”
 
 “Name?”
 
@@ -13481,7 +13483,7 @@ From her.
 
 From us.
 
-If she had been anyone else, she might have kept me back. Wrapped me in cotton wool. Swallowed the QLD contract rather than risk me in a new environment.
+If she had been anyone else, she might have kept me back. Wrapped me in cotton wool. Swallowed the Qld contract rather than risk me in a new environment.
 
 Instead, she had stood there with her hands on my shoulders and said I trust you. I trust Sarah. I trust myself to hear and react if you say stop.
 

@@ -1,5 +1,7 @@
 # Domain Transfer
 
+<!-- vale off -->
+
 [Q]  
 Hi Emily. Yesterday, you provided some instructions on how to simplify / reduce costs on web hosting. I remember something about Cloudflare (which I've signed up for). I'm trying to transfer my domain from the current domain server on Hostinger to Cloudflare. Would you be willing to recreate your suggestions? They were excellent. I'll have to admit: I'm a bit unsure on how to proceed in this process.
 

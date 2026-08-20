@@ -1,6 +1,7 @@
 # Work: The Site
 
 [![Wardrobe][Br03]{ .artC width="1100" }][Br01]
+<!-- vale off -->
 
 <hr class="section-break strong" />
 

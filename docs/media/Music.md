@@ -148,7 +148,7 @@ This is not a happy piece. Nor is it completely done. It's one I've struggled wi
 
 
 
-
+<!-- vale off -->
 ### Sketch 11—La Gioconda
 
 **2022.Feb.19**
@@ -158,6 +158,7 @@ This is not a happy piece. Nor is it completely done. It's one I've struggled wi
 
 
 In the Louvre hangs a painting most non-french people think of as Mona Lisa. The French call her [La Joconde](https://MuseScore.com/user/29275325/scores/7603490) which loosely translated means "jovial", a sentiment which I hoped to convey with this little piece.
+<!-- vale on -->
 
 Penne Vodka - an actual real composer - has been making awesome suggestions to improve my efforts at orchestration. Spreading out harmonic threads over first and second woodwind instruments added a lot of richness.
 
@@ -183,7 +184,9 @@ Edited to add (2025-Sept-15): I have revisited this piece. The published version
 
 **2021.Dec.10**
 
+<!-- vale off -->
 [Just a bit of fun](https://MuseScore.com/user/29275325/scores/7247817) for the silly season. I was actually listening to a piece called "Ru Lai Cau Ho" sung by the inimitable Cam Ly - Vietnamese music doesn't stick to twelve tones but sort-of quavers around a fair bit - and this thing grew out of that. No relationship at all... this sounds more like an ethnic dance of some sort.
+<!-- vale on -->
 
 <audio controls preload="metadata">
   <source src="http://tightbytes.com/music/Sketches/Sketch10.mp3" type="audio/wav">
@@ -194,12 +197,13 @@ Edited to add (2025-Sept-15): I have revisited this piece. The published version
 
 
 
-
+<!-- vale off -->
 ### Sketch 9—Metaphor of Chooks
 
 **2021.Oct.20**
 
 Some time ago, we decided to do the ethically kind thing and provide a home for six "rescue hens" (measure 1 - 8, noble intentions): chickens that had passed most of their lives in small cages. I fenced in our backyard - eventually - to keep them from destroying our entire property - as chooks do - and gave them a lovely little house to live in, even equipping it with a automatic door to keep out undesirables such as foxes and goanas. When the chooks arrived, they looked a bit worse for wear. However, they quickly adapted (measures 9-17) and found their place in the home we gave them, and in our hearts (measures 18-24). [They ran around](https://MuseScore.com/user/29275325/scores/7074271), pooed everywhere, scratched every square inch of dirt for bugs, turning their domain into Dunkirk after a shelling.
+<!-- vale on -->
 
 Bear in mind: they were "rescue hens". They came with pre-existing conditions, which manifested themselves after a while (measures 25-40) which ultimately ended up with four of them, at the time I wrote the piece, succumbing to those conditions. The others eventually followed, going the way of all flesh, ultimately (measures 41-48).
 
@@ -233,9 +237,9 @@ Just purchased the [Spitfire Studio Strings](https://www.spitfireaudio.com/spitf
 
 
 
-
+<!-- vale off -->
 ### Sketch 7—Souffle des Arbres
-
+<!-- vale on -->
 **Uploaded to** [MuseScore-Sketch VII](https://MuseScore.com/user/29275325/scores/6784400) **on 22nd-May-2021**
 
 From instruments I've added to my usual list of suspects, one might be able to discern I've been having a long, quite admiring look at Mendelssohn's work of late, most particularly the instrumental opening of the Elijah. Yeah, so a timpani. Actually plunked down a fair bit of change just for a really good library (for Reaper) just for this one instrument.
@@ -546,7 +550,9 @@ There's stuff that, as Mozart would have winced at as he tried Salieri's piece o
 
 But it gets worse.
 
+<!-- vale off -->
 A real quandary lies in measures 15 through 19... this is the 4th attempt at a reasonable - but questionable - segway into what follows. So, re-thinking this. It's just doesn't flow right. It actually sounds better in MS3 than Reaper. Reaper is the acid test as to whether this works, though.
+<!-- vale on -->
 
 I actually feel bad for the timpani player: wanted to give him a bit more to do, but those are the only spots that seem indicated.
 
@@ -638,7 +644,9 @@ I recently purchased the Spitfire Studio Brass library (for Reaper) and wow, wha
 
 **Update: 2022-Sep-01**
 
+<!-- vale off -->
 Have only just barely started Ryan's course - got stuck into Marc Sabatella's course on MuseScore, the whole enchillada (learned a lot, too!) - but also watched a quick video he did on pieces that failed to make the cut in his composition, and why. Which made me re-examine some of the weak spots in "Poeme".... there are several. Also, spiffed up the score itself... reloading onto the site.
+<!-- vale on -->
 
 <hr class="section-break soft" />
 
@@ -655,7 +663,9 @@ Currently trying to get a "Chorale" right - also struggling with harmonies - tha
 
 **Update: 2023-02-27**
 
-The .reabanks for Spitfire Studio Woodwinds had flaws: they have been fixed and the updates uploaded to the Reaper forum and the Reaticulate github page. The Spitfire Studio Brass (Standard and Professional) are also done and uploaded to both sites.
+<!-- vale off -->
+The .reabanks for Spitfire Studio Woodwinds had flaws: they have been fixed and the updates uploaded to the Reaper forum and the Reaticulate GitHub page. The Spitfire Studio Brass (Standard and Professional) are also done and uploaded to both sites.
+<!-- vale on -->
 
 And I've made a start on the Strings: the Base, Core Techniques and Legato patches for Standard are done and work.
 
@@ -675,7 +685,7 @@ Practising my violin: this is definitely uphill work. The bow wants to chatter a
 
 I have a section The Violin - on the **All Repairs** page that sort-of covers more of the nitty-gritty of costs, progress in terms of fixing up the violins, etc: so I won't rehash that here. I'll just say that of the first of February, 2023, I now own three (3) violins, all student-grade, in various states of (dis)repair.
 
-My go-to place for things violin is [SimplyForStrings](https://www.simplyforstrings.com.au/) in Red Hill, QLD. On 31/01/2023, Michael actually examined that second violin - the one made in Czechoslovakia - to see if the pegs needed urgently changing: they are worn, but he reckons they're okay for now. He kindly showed me how to replace a string correctly. I hope to be taking their 'Violin Maintenance" class when they next hold it.
+My go-to place for things violin is [SimplyForStrings](https://www.simplyforstrings.com.au/) in Red Hill, Qld. On 31/01/2023, Michael actually examined that second violin - the one made in Czechoslovakia - to see if the pegs needed urgently changing: they are worn, but he reckons they're okay for now. He kindly showed me how to replace a string correctly. I hope to be taking their 'Violin Maintenance" class when they next hold it.
 
 <hr class="section-break soft" />
 
@@ -688,7 +698,9 @@ My go-to place for things violin is [SimplyForStrings](https://www.simplyforstri
 
 I went to Red Hill to [Simply for Strings](https://www.simplyforstrings.com.au/) today to have a sticky-beak. The ad on their site suggested that the Gliga Vasile Professional had the sound I was after: rich and nicely textured, more of a second violin / orchestral support instrument, which was indeed what I was after.
 
+<!-- vale off -->
 Rhys selected three of the Gliga... at different price-points and of course, quality of wood, etc. The first was the [Gliga III ($790)](https://www.simplyforstrings.com.au/products/gliga-iii-violin-outfit-4-4). Nice, especially when in the hands of Rhys: wow! I'm glad I didn't have to expose my feeble efforts at bow-bouncing and sawing at the e-string. 
+<!-- vale on -->
 
 Then, he played the [Gliga II ($970)](https://www.simplyforstrings.com.au/products/gliga-ii-violin-outfit-with-dark-antique-varnish-4-4). Beautiful, rich, just what I wanted to ultimately be playing. And finally, the one I came to see: the [Gliga Vasile Professional](https://www.simplyforstrings.com.au/products/gliga-vasile-professional-series-violin-dark-antique-model-4-4). All three are considered either intermediate or advanced student violins. So, we're past the sub-$500 stuff now: definitely real violins.
 
@@ -749,7 +761,7 @@ In reply to Can't run the beta on Linux - *by zabalza.asier* - for Muse Hub, you
 
 
 ### Instrument Repair/Restoring YouTubes
-
+<!-- vale off -->
 [Kimon, violin-maker YouTube](https://www.youtube.com/@maestrokimon)
 
 [Kevin Lee, luthier Youtube](https://www.youtube.com/@kevinleeluthier)
@@ -773,7 +785,7 @@ In reply to Can't run the beta on Linux - *by zabalza.asier* - for Muse Hub, you
 [AMS-Musicshop: Learn to Play the Violin -- Complete Collection](https://www.amsmusicshop.com/learn-to-play-the-violin-books-1-3-complete-collection-download-only/).
 
 [Key Signatures](https://www.schoolofcomposition.com/how-to-easily-remember-all-key-signatures/).
-
+<!-- vale on -->
 <hr class="section-break strong" />
 
 
@@ -830,7 +842,9 @@ Penne Vodka (Joe DiRienzo, New York)
 
 [Counterpoint](https://viva.pressbooks.pub/openmusictheory/chapter/species-counterpoint/)
 
+<!-- vale off -->
 [Five Species of Counterpoint - cantus firmus johann joseph fux](https://wwnorton.com/college/music/musictheory/premium/webfacts/ch08a.html)
+<!-- vale on -->
 
 <hr class="section-break strong" />
 
@@ -847,7 +861,7 @@ I've been re-visiting La Giaconda (Sketch 11). Several 'things' have made that h
 I'm still writing for the "orchestra" but I do feel like I'm getting a better representation of what the notes on the page would produce played live. Also, most likely due to my mismanagement of uploading, it is no longer in my 'Sketches' list on [my pages](https://MuseScore.com/robynsveil). To be honest, it's one of my better imaginings, really... just, the orchestration and publishing sucked. I've added brass — horns, and alto and bass trombone — and am going to swap things around a bit.
 
 ---
-
+<!-- vale off -->
 2025-Oct-18: Finished tidying up La Giaconda (Sketch 11). The sound files for sketches 6, 8, 9, 11 and 15 are now on GitHub instead of Hostinger (tightbytes). Slowly everything will be moved off. 
 
 
@@ -861,7 +875,7 @@ To add musical pieces to this page, do the following:
 * rsync -avhn --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/ytdl/
 * rsync -avh --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/ytdl/
 * sudo chown -R celestesh:celestesh celestesh@i5Seabrae:/mnt/seamedia/public/audio/ytdl/.
-
+<!-- vale on -->
 <!--  Image references  -->
 
 [Br02]: ../assets/images/base/Bnr02c.jpg

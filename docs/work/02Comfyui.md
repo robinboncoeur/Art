@@ -1,6 +1,6 @@
 # ComfyUI Tips
 
-
+<!-- vale off -->
 [![Old Kaimu][Br02]{ .artC width="1100" }][Br02]
 
 
@@ -62,7 +62,7 @@ Tip: if your tool supports weights, lightly weight the anatomy:
 Clefts/ridges often appear from lighting, not just anatomy.
 
 * **Use:** “soft clamshell lighting”, “beauty dish with diffusion”, “broad, frontal fill”, “open shade”, “window light with bounce.”
-* **Avoid:** “hard rim/key at 45°”, “split/Rembrandt lighting”, “high contrast”, “specular hotspot under lower lip.”
+* **Avoid:** “hard rim/key at 45°”, “split/Rembrandt lighting”, “high contrast”, “specular hot-spot under lower lip.”
 * **Lens/angle:** “85mm look, eye-level camera.” (Down-lighting and wide lenses emphasize brow/chin topology.)
 
 ---
@@ -77,8 +77,8 @@ When a cleft or ridge still shows up, fix *locally*.
 
 1. Duplicate the image (preserve seed/settings).
 2. **Mask** only the chin groove (thin vertical strip) or brow ridge area. Feather ~8–15px.
-3. **Prompt (chin):** “rounded chin, no cleft, soft skin microtexture, natural shading”
-   **Prompt (brow):** “smooth browbone, low brow ridge, fuller forehead contour, natural shadowing”
+3. **Prompt (chin):** “rounded chin, no cleft, soft skin micro-texture, natural shading”
+   **Prompt (brow):** “smooth brow-bone, low brow ridge, fuller forehead contour, natural shadowing”
 4. **Denoise strength:** 0.35–0.55 (start at 0.45).
 5. **CFG/guidance:** slightly lower than your base (e.g., if 7.5 → 6.5).
 6. Keep the same positive/negative blocks; apply 1–2 passes max.
@@ -106,7 +106,7 @@ FaceID/InstantID/IP-Adapter can stop the model from “inventing” geometry:
 
 (for the LoRA you’ll train)
 
-* Include **explicit positives** in captions on a few closeups: “rounded chin, no cleft”, “smooth browbone, low brow ridge.”
+* Include **explicit positives** in captions on a few closeups: “rounded chin, no cleft”, “smooth brow-bone, low brow ridge.”
 * Avoid photos with **strong vertical shadow under the lower lip** (it reads as a cleft).
 * Keep **soft/flat light** in a healthy fraction of face crops so the LoRA learns that topology.
 

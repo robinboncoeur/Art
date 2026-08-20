@@ -1,6 +1,7 @@
 # Is Homosexuality Sin
 
 [![Run for It][Br01]{ .artC width="1100" }][Br01]
+<!-- vale off -->
 
 <hr class="section-break strong" />
 
@@ -102,9 +103,11 @@ George Hollenback argued that the Greek translation addressed grammatically the 
 
 This LXX text then becomes the basis for Paul's allusions in 1 Cor 6:9 and 1 Tim 1:10, where he creates the compound arsenokoitai ("men-bedders.") Scholars argue that this Pauline term has been mistranslated into English as "homosexuals" only since the mid-twentieth century.
 
-Dispute how the Hebrew consonants should be be rendered.
+
+Dispute how the Hebrew consonants should be rendered.
 
 The standard English translation "You shall not lie with a male as with a woman" inserts both as and with, which have no equivalent in Hebrew. The literal Hebrew is: wĕʾet-zākār lōʾ tiškab miškĕbê ʾiššâ tôʿēbâ hīʾ literally translates to "and male you shall not lie lyings-of woman; abomination it."
+
 
 K. Renato Lings (Love Lost in Translation, 2013; Theology & Sexuality article, 2009) makes the central case that the comparative reading is a translator's gloss, not what the Hebrew syntax requires.
 
@@ -133,13 +136,14 @@ Steven Greenberg (Wrestling with God and Men, 2004), argues that the verse may o
 Philo of Alexandria (1st century CE) read the verse this way, and Luther's German translation rendered zachar as Knaben (boys): "Du sollst nicht beim Knaben liegen wie beim Weibe."
 
 The reason most modern English translations don't reflect this may be that translation choices ossified early as a result of Jerome's Latin Vulgate which translated zachar as the gender-neutral masculus. LXX then glossed it as arsen ("male") and the pederasty-specific reading was lost in transmission. Tyndale, the Geneva Bible, and the KJV all followed the Vulgate/LXX pattern, and modern English translations (NIV, ESV, NRSV) inherit this reading.
+<!-- vale on -->
 
 <hr class="section-break soft" />
 
 
 ### 3. The term Sodomy
 
-Question: the old Testament's naming of Sodom is historically accurate, and sodomy is considered a sin. Is sodomy a word based on an inaccurate description of one of the sins being committed in that city, applied by puritanical clergy or a biblically accurate description of sins being committed according to the Old Testament?
+Question: the old Testament's naming of Sodom is historically accurate, and sodomy is considered a sin. Is sodomy a word based on an inaccurate description of one of the sins being committed in that city, applied by puritanical clergy or a biblical accurate description of sins being committed according to the Old Testament?
 
 *ANSWER*:
 
@@ -154,13 +158,14 @@ Good question! But, the argument is a bit circular. My understanding is as follo
 
 So, as I understand it, the name “Sodom” (Hebrew: סְדֹם, Sədom) as the name of the city was a Hebrew word probably translating to something like “Scorched” or “Volcano.” “Gomorrah” (Hebrew: עֲמֹרָה, ʿAmora) most likely derives from a root meaning "submersion" or "deep water."
 
-Whether Sodom and Gomorrah actually existed as cities named “Sodom and Gomorrah“, were complete fiction for narratives sake, or those names were a literary device describing actual cities by other names is unknown. The names being such a common, powerful, juxtaposed symbol (like “Fire and Ice”, “Earth and Sky”, Etc.) - to me - immediately makes me suspect it’s a literary device to make the meaning of the story more impactful.
+Whether Sodom and Gomorrah actually existed as cities named “Sodom and Gomorrah“, were complete fiction for narratives sake, or those names were a literary device describing actual cities by other names is unknown. The names being such a common, powerful, juxtaposed symbol (like “Fire and Ice”, “Earth and Sky”, Etc.) - to me - immediately makes me suspect it’s a literary device to make the meaning of the story have more impact.
 
+<!-- vale off -->
 (Again in my understanding) the first use of the word “Sodomy” to describe anal sex (not specifically homosexual anal sex) was ~1049 CE when the Italian Benedictine monk Peter Damian coined the Latin term sodomia in his treatise Liber Gomorrhianus ("Book of Gomorrah") addressed to Pope Leo IX.
 
 It was coined based on the idea that the sin of sodomy (anal sex) was the sin being committed in Sodom. This, of course, is exactly what my original answer is talking about - that the beliefs of the people/culture at the time were determining their understanding of the Bible - not the other way around.
 
-Recent scholars associate the sin of Sodom and Gomorrah with general physical abuse of people, rape, or a general sinful nature in all realms. The sin is not explicitly defined in the Bible, but the the word “Yada” is used. Other references in the Bible refer to this…
+Recent scholars associate the sin of Sodom and Gomorrah with general physical abuse of people, rape, or a general sinful nature in all realms. The sin is not explicitly defined in the Bible, but the word “Yada” is used. Other references in the Bible refer to this…
 
 Ezekiel 16:49–50 (the most explicit biblical reference) "Behold, this was the iniquity of your sister Sodom: pride, fullness of bread, and abundance of idleness was in her and in her daughters; neither did she strengthen the hand of the poor and needy."
 
@@ -283,7 +288,7 @@ However, the scriptures that we have were written by the fallible, easily confus
 
 There’s a dozen different English language translations in the Bible Bookstore with variances between them. The variances are even greater between modern, living languages.
 
-There’s appx. 45,000 different denominations of the Christian Church. If the scriptures as we have them were infallible, there would be one and one only.
+There’s approx. 45,000 different denominations of the Christian Church. If the scriptures as we have them were infallible, there would be one and one only.
 
 The evidence that the scriptures have been modified during transcription and translation is overwhelming and undeniable. Ignoring this is a failing as a Christian.
 
@@ -320,7 +325,7 @@ Human beings are adept at taking a tiny seed of understanding, and expanding it 
 
 We do this with dogma as well. We take a passage, or couple of passages, and write a library’s worth of narrative around it - based entirely what people “understand the Bible to mean”, or “Using their spiritual eye”, or however you want to phrase.
 
-Church dogma is entirely shaped by this denominationally derived assumptive narrative, derived from “what people think the Bible means.”
+Church dogma is entirely shaped by this denominational derived assumptive narrative, derived from “what people think the Bible means.”
 
 The culture and social traditions of the times invariably and strongly affect their interpretation of the Bible (I.e. the Church dogma.)
 
@@ -409,9 +414,9 @@ I’m a data scientist. If you misquote or otherwise abuse facts (any facts) to 
 * If person-X wants to hate LGBTQ+ people, then hate them.  
 * If they use the Bible to justify their hate, I’ll call bullshit and tell them why it’s bullshit.  
 * If they hurt LGBTQ+ people (because of their hate, regardless of what justification they use for that hate) they will be called out and actively intervened with.  
-* And constantly telling people they are an abomination, are going to hell, badgering them to change (or worse, trying conversion therapy on them), ostracizing them in society, driving them (gently) from worshiping how they want to because they are LGBTQ_ … ETC … are all forms of hurting people.
+* And constantly telling people they are an abomination, are going to hell, badgering them to change (or worse, trying conversion therapy on them), ostracizing them in society, driving them (gently) from worshiping how they want to because they are LGBTQ_ … etc … are all forms of hurting people.
 
-Thats my simple logical proof ;D
+That's my simple logical proof ;D
 
 <hr class="section-break soft" />
 
@@ -437,7 +442,7 @@ Since the dawn of recorded history, the human LGBTQ+ population has stayed consi
 
 ### 12. He Can. But Won't.
 13. 
-What you are implying is the the omniscient, omnipresent, omnipotent God cannot preserve his word and that meat humans thwarted his efforts to do so.
+What you are implying is the omniscient, omnipresent, omnipotent God cannot preserve his word and that meat humans thwarted his efforts to do so.
 
 *ANSWER*
 
@@ -482,6 +487,7 @@ And they kissed one another and wept with one another, David weeping the most. 4
 
 The ancient language words used in Samuel are confounding, because they are used BOTH in the context of romantic and non-romantic relationships elsewhere in the Bible.
 
+
 אָהַב (ahav) Love: Jonathan is repeatedly said to ahav David. This is the most common Hebrew word for love in all its forms.
 It is the same word used for the love between husband and wife (Isaac and Rebekah, Genesis 24:67; Jacob and Rachel, Genesis 29:18)
 It is used for God's love for Israel
@@ -506,7 +512,7 @@ When David discusses that the love of Johnathon was more wonderful than the love
 me'ahavat nashim, "More than the love of women": uses the standard word ahavat (from ahav) and nashim (women). David is making an explicit, direct comparison himself, and declaring Jonathan's love superior. He is not saying it was different in kind — he is placing both on the same scale and saying one exceeded the other.
 The word "brother" (אָחִי, achi): achi was commonly used in the ancient Near East in both fraternal and covenantal/treaty contexts, and notably in love poetry. In the Song of Songs, the male lover calls his beloved achoti ("my sister") repeatedly — it was a term of intimate endearment, not only biological relation.
 These ambiguities (used both within and without romantic intent) in the language make it easy for people who (for whatever reason) feel the need to deny the obviousness romantic component of the relationship.
-
+<!-- vale on -->
 Personally, I suspect these are the same people who convince themselves that their old ‘spinster’ aunt has been living in the same house with “their best friend” in a purely platonic relationship, even though the house only has one bed that ever seems to change sheets. 😄
 
 <hr class="section-break soft" />
