@@ -569,7 +569,7 @@ I spoke before I could stop myself. “And he asked to stay on, didn’t he?”
 
 Graham’s eyes flicked to me, surprised. 
 
-“Well, yeah. He did. How did you know?” He turned back to Mara. “When I told him this morning to start looking for something else he looked like he was about to cry. He kept saying he needed the work, that he’d do anything.”
+“Well, yeah. He did.” He turned back to Mara. “When I told him this morning to start looking for something else he looked like he was about to cry. He kept saying he needed the work, that he’d do anything.”
 
 I set the kettle down slowly. 
 
@@ -597,7 +597,9 @@ Graham held up his hands in mock surrender. “Right-o. Just saying—”
 
 Graham snorted. “Doesn’t sound like a qualification to me.”
 
-“It is in Wardrobe,” Mara said. She reached for the bodice I’d been unpicking and held it up by the straps. 
+“It is in Wardrobe,” Mara said. 
+
+She reached for the bodice I’d been unpicking and held it up by the straps. 
 
 “You see this? This is engineering disguised as femininity. It’s physics: measurements and force and stress.“ She waved her hand dismissively. “We don’t need biceps: they get in our way. We need brains.”
 
@@ -629,7 +631,7 @@ Mara tilted her head. “Am I wrong?”
 
 “Well, no.”
 
-Mara’s mouth twitched. “Right, then. Now, try to be useful somewhere else. I’ve got work.”
+Mara’s mouth twitched. “Right, then. Now, try to find somewhere else to be. I’ve got work.”
 
 Graham grunted and left, the door banging loudly behind him.
 
@@ -657,7 +659,7 @@ As I stepped into the corridor outside Wardrobe, the noise of the Faire changed 
 
 I walked fast. 
 
-Ten minutes.
+*Ten minutes.*
 
 The maintenance compound sat behind the main buildings, past a cluster of props and a row of portable toilets that contributed nothing to the “authentic eighteenth century experience”. The path was half gravel, half mud. A pallet of timber sat near a fence, and a stack of metal poles leaned precariously against a wall.
 
@@ -675,11 +677,11 @@ Moments later Graham climbed down, still muttering.
 
 Charlie loosened his grip slightly, but didn’t step away. Graham pulled the folded scrap of paper from his pocket and gave it to him. He gestured vaguely toward the main buildings. 
 
-“That's from Wardrobe. You're being offered a trial shift. You want it, show up." He turned away. “In any case, you’re done here.”
+“That's from Wardrobe. They're offering you a trial shift. You want it, show up." He turned away. “In any case, you’re done here.”
 
 Charlie stared at the paper, then at Graham’s receding back. “But—" 
 
-“Talk to them,” Graham said, opening the door to the shed. “It’s a bunch of women. They seem to think you might work out.”
+“Wardrobe,” Graham said, opening the door to the shed. “Just a bunch of sheilas, but they reckon they can use you.”
 
 Charlie’s eyes dropped to the page again. His fingers tightened around it.
 
