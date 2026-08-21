@@ -2264,7 +2264,7 @@ Time of year: End of April
 
 Mara put a ledger on the table one morning.
 
-Thick. Hard cover. The kind that you'd worry about offending if you dropped it. It claimed a spot between pincushion and shears, beside the tin of chalk, accompanied by a wooden stool that hadn't seen varnish in decades.
+Thick. Hard cover. The kind that you'd worry about offending if you dropped it. It claimed a spot between pincushion and shears on the repairs table, beside the tin of chalk, accompanied by a wooden stool that hadn't seen varnish in decades.
 
 On the first page of the ledger Mara had already ruled headings in her angular hand.
 
@@ -2287,7 +2287,7 @@ She shook her head.
 
 "Not just repairs. *Everything*. No more mending pile filled with guesses and assumptions."
 
-I glanced over to the other end of the worktable, where the mending pile once lived. I had watched Charlie finish the last item the night before, so I was surprised to see a folded up chemise sitting on the edge, looking a bit abandoned.
+I glanced at the repairs table, where all items to be mended once lived. I had watched Charlie finish the last item the night before, so I was surprised to see a folded up chemise sitting next to the sewing machine, a bit lonely.
 
 Mara noticed it too. Her lips tightened.
 
@@ -2299,19 +2299,19 @@ Charlie appeared just then, quietly. He'd set his leather bag on the floor and h
 
 "Who?"
 
-Charlie startled slightly. He frowned, trying to remember.
+Charlie startled slightly.
 
-"I think her name was Lily." He gave a nod. "Yeah, that was it."
+"Lily."
 
 He removed his denim jacket.
 
-Mara picked up a spiral notebook. She fixed her gaze on his face.
+Mara picked up a spiral notebook and fixed her gaze on his face.
 
 "Your first task this morning is to get details on how that garment failed. From Lily."
 
 "But—" He threw a puzzled look at the window.
 
-"She's an actress in the marketplace."
+"She's an actress in the palace."
 
 His eyes went a bit wider as she handed him the spiral notebook and the chemise.
 
@@ -2327,7 +2327,7 @@ Of course she did.
 
 "No-no," he said hastily. "I just thought—"
 
-"That your testing abilities were going to answer every question?" 
+"That your testing was going to answer every question?" 
 
 She waited. 
 
@@ -2345,7 +2345,7 @@ Mara's eyes met mine.
 
 I went back to work.
 
-Later that morning, I opened the window. A cold wind had come up and was blowing leaves around the carpark. I propped the window partly open to let in a bit of fresh air, wondering why I couldn't smell the usual hot chips porta-pottie medley.
+Later that morning, I opened the window. A cold wind had come up and was blowing leaves around the carpark. I propped the window partly open to let in a bit of fresh air, idly wondering why I couldn't smell the usual hot chips porta-pottie medley.
 
 I had just returned to doing invoices when the door opened.
 
@@ -2355,7 +2355,7 @@ Lucy came in, wearing a huge grin. She sidled up to me.
 
 I tipped my chin at Mara.
 
-"He's looking like a reporter for the local paper at a hostage scene," Lucy said, lowering her voice. "Asked poor Lily a bazillion questions and scribbling away—"
+"He's out there like a reporter at a hostage scene," Lucy said, lowering her voice. "Asking Lily a bazillion questions and scribbling away—"
 
 I nodded.
 
@@ -2365,7 +2365,7 @@ Lucy gave a sharp laugh.
 
 "Lily never knew what hit her." She tossed her head. "And then, this other actress—"
 
-The door burst open and Charlie tottered in, his eyes on his notes and his mouth to one side.
+The door slowly opened and Charlie stepped into the workroom. He was studying his notes, his mouth to one side.
 
 Mara looked up from her work.
 
@@ -2383,19 +2383,19 @@ His neck reddened slightly as he passed it over to her. She glanced over it, and
 
 "Can you read this?"
 
-"Yes."
+"Mostly yes."
 
-"Good. Transcribe it."
+"Transcribe it."
 
 She pointed at the ledger.
 
-===
+---
 
-Over the next few days, the weather got colder. And the number of actresses bringing items to Wardrobe for repair increased. Mara wouldn't even look up from her work when one of them appeared but would simply point at Charlie.
+Over the next few days, the weather got colder. The number of actresses visiting Wardrobe seemed to increase. Mara finally didn't even look up from her work, but would simply point at Charlie.
 
-Charlie's furious scribbling had settled: he wrote less into the notebook and, for simple repairs, entered details directly into the ledger.
+The furious notebook scribbling stopped: Charlie wrote directly into the ledger.
 
-He had just shut the ledger one afternoon and had picked up a jacket to repair when the door opened and a tall blond actress strode in carrying a linen chemise. She stood before Mara, hands on hips, ignoring her gesture towards the mending corner.
+He had just closed it one afternoon and had picked up a jacket to repair when the door opened and a blond actress strode in carrying a linen chemise. She stood before Mara, hands on hips, ignoring her gesture towards the mending corner.
 
 Mara looked up then.
 
@@ -2403,7 +2403,7 @@ Mara looked up then.
 
 "Yes."
 
-Mara nodded at the other end of the worktable.
+Mara nodded at the other end of the room.
 
 "Charlie is responsible for repairs. He will need details on how the failure happened."
 
@@ -2423,13 +2423,15 @@ Mara stood.
 
 "You have a right to your opinion," she said silkily. "The more information we have on what went wrong, the better able we are to prevent problems in the future. Whether you assist us in that is up to you."
 
-The blonde dropped the linen garment on the worktable and turned on her heels. Mara wordlessly picked up the chemise, folded it and inserted it at the bottom of the repair pile.
+The blonde dropped the linen garment on the worktable and turned on her heels. Mara wordlessly picked up the chemise, folded it and inserted it at the bottom of the repair pile, which had accumulated that afternoon.
 
 "Whenever you can get to it," she said to Charlie.
 
 He nodded.
 
-Friday afternoons became design review sessions. Mara, Charlie and I would sit at her worktable, ledger open — I would take notes. The ways garments failed had started to emerge as patterns.
+Friday afternoons became design review sessions. Mara, Charlie and I would sit at her worktable, ledger open — I would take notes. 
+
+Charlie's notes had translated into garment failure patterns.
 
 Charlie usually had the floor.
 
@@ -2459,7 +2461,7 @@ Lucy turned the jacket over. "It's just where the sleeve's come loose—"
 
 "Perhaps," Mara said. "We still need to know *why*. And *how*."
 
-"But why is that so important?" the blonde interjected. "We never had to do that before."
+"But why is that so important?" the blonde interjected. "We never did all that before."
 
 Mara turned to Charlie.
 
@@ -2473,11 +2475,11 @@ The steamer hissed. A diesel truck rumbled by the partly open window.
 
 "I'll ask Bree to pop 'round," Lucy said finally.
 
-After the actresses left, Charlie glanced up. Mara tipped her chin at him.
+After Lucy and the actress left, Charlie glanced up. Mara tipped her chin at him.
 
 "Carry on."
 
-We had been back at work for only a few minutes — me at the rails, Charlie doing repairs — when the door opened briskly and a tall actress with an imposing bearing entered Wardrobe. She glanced around the room. When she found Charlie, she strode up to his table.
+We had been back at work for only a few minutes — me at the rails, Charlie back at the repairs table — when the door opened briskly and a tall actress with an imposing bearing entered Wardrobe. She glanced around the room. When she found Charlie, she strode up to his table.
 
 "Hi, I'm Bree," she said in a voice designed to carry to the budget seats.
 
@@ -2487,7 +2489,7 @@ Charlie wordlessly pulled the jacket from the pile and opened the ledger.
 
 "Of course!"
 
-His smile was doing its best, but his eyes looked overwhelmed. Bree was at least a foot taller than he was, with a regal bearing. I could picture her doing King Lear in the title role.
+His smile was doing its best, but his eyes said overwhelmed. Bree was at least a foot taller and held herself like royalty. I could picture her doing King Lear in the title role.
 
 "Would you like to sit down, Bree?" he offered.
 
@@ -2505,15 +2507,15 @@ Charlie blinked.
 
 Before he could finish, her fist flew at him, stopping inches away from his startled face. She burst into gales of laughter.
 
-"Oh, sorry sugar, I didn't mean to..." She looked over at Mara, shaking her head and biting her lower lip. "I— I really didn't mean to—"
+"Oh, sorry sugar, I didn't mean to—" She glanced at Mara, biting her lower lip. "I— I really didn't mean to—"
 
 Mara said nothing but went back to work.
 
 Charlie's mouth curved valiantly and so Bree's smile regained most of its cheerfulness.
 
-"Sorry, hon," she repeated. "I tend to lose myself in the moment." She wrapped her arms around herself. "What else can I tell you?"
+"Sorry, hon," she said with a smile. "I tend to lose myself in the moment." She wrapped her arms around herself. "What else can I tell you?"
 
-Charlie was carefully examining the sleeve.
+Charlie carefully examined the sleeve.
 
 "Did the jacket feel tight in the shoulders?"
 
@@ -2525,15 +2527,15 @@ Bree's eyebrows rose.
 
 "I didn't notice. Sorry."
 
-Charlie turned the jacket inside out and nodded.
+Charlie gave a quick nod, and turned the jacket inside out.
 
-"I think I have what I need," he said. "I might reinforce both sleeves when I do the repair so it doesn't happen again. Is there any other issue you have with this jacket?"
+"I think I have what I need," he said. "I might reinforce both sleeves when I do the repair so it doesn't happen again. Are there any other issues with this jacket?"
 
-Bree rose. 
+Bree shook her head and rose. 
 
 "You're the talk of the Faire," she said to Charlie, who gaped at her. "Keep up the good work!"
 
-===
+---
 
 A couple of days later, Lily showed up at around two in the afternoon with a dour-faced actress holding a bodice. Lily was carrying a bag from the Faire bakery.
 
@@ -2551,13 +2553,13 @@ He calmly took down details about the bodice — when, where, how — and then s
 
 "We can add a bit of reinforcing if you'd like. So it doesn't split again."
 
-"That would be lovely," Lily interjected before dour-face could speak. "You do such lovely work, Charlie." The scowl on the other woman's face had eased a bit. "I'll be back to the stand in a tick, Vanessa," Lily continued.
+"That would be lovely," Lily interjected before dour-face could speak. "You do such lovely work, Charlie." The scowl on the other woman's face had eased a bit. "I'll be back to the palace in a tick, Vanessa," Lily continued.
 
 Vanessa mumbled something, approximated a smile, then turned and left.
 
 "Don't mind her," Lily said gently to Charlie. “She's going through a horrible breakup with her boyfriend."
 
-Charlie nodded, his eyes a question mark.
+Charlie nodded, his face one of expectation.
 
 "Was there—" he began, but Lily giggled and shook her head.
 
@@ -2571,7 +2573,7 @@ Mara spoke clearly, without emotion.
 
 Lily's shoulders went up. She quickly picked the leggings from Charlie's hands.
  
-"Oh, sorry," she murmured. "It's just— it gets so cold these days in the marketplace, especially in the early mornings. But I'm sorry, I didn't mean to—"
+"Oh, sorry," she murmured. "It's just— it's so cold in the palace, especially in the early mornings. But I'm sorry, I didn't mean to—"
 
 Mara looked at the leggings: they were of a heavy stretch cotton with a soft inner layer.
 
@@ -2599,7 +2601,7 @@ She turned to Lily.
 
 Mara turned to go back to her worktable. Before she sat down, she said to me,
 
-"We need to rethink the chemise for winter. And possibly, the petticoat."
+"Time to rethink the winter chemise. And possibly, the petticoat."
 
 Less than a week later, a new chemise design was spread out on Mara's worktable. I was on the phone to Lauren's linen supplier when Lily appeared. She went straight to Charlie.
 
@@ -2613,7 +2615,7 @@ Charlie slowly put down his work, carefully arranging everything so he could qui
 
 "I'll be careful."
 
-"Oh, I'm sure you are!" she breathed. "Your hands are so gentle. They remind me of Bree's."
+"Oh, I'm sure you will be!" she breathed. "Your hands are so gentle. They remind me of Bree's."
 
 Her face reddened suddenly.
 
@@ -2639,21 +2641,21 @@ After Lily left, Mara pointed at the ledger.
 
 Charlie turned his head at her with a slight frown.
 
-"Why. Because the gusset was coming apart?"
+"*Why*. That's because the gusset was coming apart?"
 
-"No, because the chemise and the petticoats are not keeping the actresses warm."
+"No, you repaired leggings because chemise and petticoats do not keep an actress warm."
 
 Charlie opened the ledger.
 
-===
+---
 
-That evening, Mara had just turned off the steamer when the door opened. Bree sauntered in followed by the tall blonde, who cast a suspicious eye at Charlie almost immediately. Wearing a broad smile, Bree came up to Charlie and wrapped her arm around his shoulders. His eyes went saucer-shaped.
+That evening, Mara had just turned off the steamer when the door opened. Bree sauntered in followed by the tall blonde, who cast a suspicious eye at Charlie. Bree, however, wrapped her arm around Charlie's shoulders. His eyes went saucer-shaped.
 
-"I just wanted to say thank you for fixing Lily's leggings," she said cheerfully. "Those mornings in the marketplaces are getting colder all the time."
+"I just wanted to say thank you for fixing Lily's leggings," she said cheerfully. "Those mornings in the palace are getting colder all the time, even with the fireplace."
 
 Charlie did his best. He looked up at her, curving his lips.
 
-"Your jacket should be ready tomorrow. Was there anything else?"
+"Your jacket should be ready tomorrow. Anything else?"
 
 Bree chuckled.
 
@@ -2661,7 +2663,7 @@ Bree chuckled.
 
 Charlie swallowed and glanced at Mara, who had pulled the chemise from the bottom of the pile.
 
-"Care to tell us what the issue is?" she said.
+"Care to tell us what the issue is?"
 
 Charlie grabbed his notebook and pen, and perched attentively on the wooden stool.
 
@@ -2685,9 +2687,11 @@ Charlie was still writing when he asked:
 
 "Would the next size up be more comfortable?"
 
-He looked up then. Sarah was glaring at him.
+He looked up then and startled. Sarah was glaring at him.
 
-"Oi! Girlfriend! Relax." Bree's voice bounced off the wall. Sarah's demeanour didn't change.
+"Oi! Girlfriend! Relax." Bree's voice bounced off the wall. 
+
+Sarah's demeanour didn't change.
 
 "Are you saying I'm—"
 
@@ -2701,9 +2705,7 @@ Her body swayed suddenly as Bree gave her a shove.
 
 "C'mon, Sarah! Charlie's one of us," Bree boomed. "Give it a rest, will ya?"
 
-Sarah shrugged,
-
-Mara studied the chemise for a moment, then handed it to Charlie.
+Sarah shrugged, her face still sullen. Mara studied the chemise for a moment, then handed it to Charlie.
 
 "One size up?"
 
@@ -2719,13 +2721,15 @@ He gently smoothed the garment on its side on the table.
 
 "Just here, Bree." His fingers moved respectfully over the material. "It would give the chemise a nice silhouette, but without binding or bunching."
 
-Sarah studied him. Her face had lost some of its hardness.
+I noticed Sarah studying him, watching his hands, his eyes. Her face lost some of its hardness.
+
+---
 
 Two days later, Bree collected her jacket and Sarah's chemise.
 
 "Oh, that feels so much better," Bree exclaimed, pulling the jacket on over her hoodie. "You're a magician, Charlie."
 
-Charlie's smile went a bit crooked. I could see he was eyeing seams nervously.
+Charlie's smile went a bit crooked as Bree thrust her arm forward, away from him this time. I could see he was eyeing seams nervously.
 
 They held.
 
@@ -2733,15 +2737,15 @@ They held.
 
 Charlie's mouth fell open.
 
-"Did the leggings fail again?"
+"Did the leggings fail?"
 
 Bree chortled.
 
-"No, silly, I meant her heart."
+"No, silly, not her leggings. Her heart."
 
-Charlie sat still for a moment.
+Charlie sat still for a moment, a momentary frown came and went.
 
-"What do you mean? She already really likes you."
+"What do you mean? She really likes you."
 
 At first, Bree's eyes popped wide in surprise. She gave her head a disbelieving shake.
 
@@ -2755,7 +2759,9 @@ Charlie frowned.
 
 The door slammed.
 
-Charlie flicked a pinched look at me. I suppressed a grin and went over to where Mara was pinning the new chemise on the mannequin. The material was a heavier, yet softer linen.
+Charlie flicked a pinched look at me. I suppressed a grin and went over to where Mara was pinning the new chemise on the mannequin. 
+
+The material was a heavier, yet softer linen.
 
 And the ledger sat confidently between pincushion and shears, vindicated.
 
@@ -2767,19 +2773,17 @@ And the ledger sat confidently between pincushion and shears, vindicated.
 
 
 
-
+<!--
 ## 13 Working Stays ✨
 
-<!--
+
 [![Charlie][S13a]{ .artR width="460" }][S13a]
 This was Scene 13 — "Working Stays".
 Time of year: End of April
 [ *Celeste* ]
 -->
 
-[Absorbed into Ledger](W_Edits.md)
-
-<hr class="section-break soft" />
+[13 Working Stays -absorbed into Ledger](W_Edits.md)
 
 
 
@@ -2787,91 +2791,89 @@ Time of year: End of April
 
 
 
-## 14 Working Stays 2 ✨
 
 <!--
+## 14 Working Stays 2 ✨
+
+
 [![Charlie][S14a]{ .artR width="460" }][S14a]
 This was Scene 14 — "Working Stays 2".
 Time of year: March
 [ *Celeste* ]
 -->
 
-[Absorbed into Ledger](W_Edits.md)
-
-<hr class="section-break soft" />
+[14 Working Stays 2 - absorbed into Ledger](W_Edits.md)
 
 
 
 
 
 
-
-## 15 The Ladder ✨
 
 <!--
+## 15 The Ladder ✨
+
+
 [![Charlie][S15a]{ .artR width="460" }][S15a]
 This was Scene 15 - "The Ladder".
 Time of year: ???
 [ *Celeste* ]
 -->
 
-[Currently being edited](W_Edits.md)
-
-<hr class="section-break soft" />
+[15 The Ladder - absorbed into Ledger](W_Edits.md)
 
 
 
 
 
 
-
-## 16 First Rung ✨
 
 <!--
+## 16 First Rung ✨
+
+
 [![Charlie][S16a]{ .artR width="460" }][S16a]
 This was Scene 16 - "First Rung".
 Time of year: ???
 [ *Celeste* ]
 -->
 
-[Absorbed into ...](W_Edits.md)
-
-<hr class="section-break soft" />
+[16 First Rung - absorbed into Spaces](W_Edits.md)
 
 
 
 
 
 
-
-## 17 Second Rung ✨
 
 <!--
+## 17 Second Rung ✨
+
+
 [![Charlie][S17a]{ .artR width="460" }][S17a]
 This was Scene 17 - "Second Rung".
 Time of year: ???
 [ *Celeste* ]
 -->
 
-[Absorbed into ...](W_Edits.md)
-
-<hr class="section-break soft" />
+[17 Second Rung - absorbed into Spaces](W_Edits.md)
 
 
 
 
 
-
-## 18 Third Rung ✨
 
 <!--
+## 18 Third Rung ✨
+
+
 [![Charlie][S18a]{ .artR width="460" }][S18a]
 This was Scene 18 - "Third Rung".
 Time of year: ???
 [ *Celeste* ]
 -->
 
-[Absorbed into ...](W_Edits.md)
+[18 Third Rung - absorbed into Spaces](W_Edits.md)
 
 <hr class="section-break soft" />
 
