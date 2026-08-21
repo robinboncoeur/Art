@@ -87,7 +87,7 @@ The back door — a roller gate — slammed shut and Tahlia emerged with an enve
 
 He carefully slipped the envelope from under her arm.
 
-"You might put that bolt on the cutting table," Mara told Tahlia. "Been waiting for that since last week."
+"Just put that bolt on the cutting table," Mara told Tahlia. "It was meant to arrive last week."
 
 Lucy had finished her inspection of the dress just as Lily, a little redhead with freckles, a cheery smile, and long eyelashes designed to invoke envy from every woman in the room bounced through the door. Her eyes widened at the sight of the dress.
 
@@ -99,9 +99,7 @@ Hands on hips, Lucy turned to her.
 
 "Shall we?"
 
-Lily carelessly began to pull her jumper off when Lucy coughed. She followed Lucy's gaze in the direction of the mending corner. 
-
-Shrugged, and continued to pull off her jumper.
+Lily carelessly began to pull her jumper off when Lucy coughed. She followed Lucy's gaze in the direction of the mending table — shrugged and continued to pull off her jumper.
 
 Charlie didn't look up.
 
@@ -129,7 +127,7 @@ Mara put down the invoice she was studying.
 
 Lucy nodded and turned back to Lily, who had whipped off the dress.
 
-"Oof. Pretty, but hot."
+"Oof. Pretty, but hot worn in here."
 
 Lily slipped into her oversized jumper, which covered much of her black leggings.
 
