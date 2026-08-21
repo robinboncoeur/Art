@@ -244,6 +244,8 @@ Fin
 [St09]: ../assets/images/base/09aParis.jpg
 [St10]: ../assets/images/base/10montvl.jpg
 
+
+<!-- vale off -->
 Brilee
 Teresa
 Zoe
@@ -256,3 +258,6 @@ Gerald Finzi - Three Soliloquies from "Love's Labours Lost"
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧👢✨…
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  —
 /-->
+
+
+Wardrobe had its own rhythm — calm on the surface, precise underneath. Charlie had already started matching it — he had joined a system without trying to dominate it.

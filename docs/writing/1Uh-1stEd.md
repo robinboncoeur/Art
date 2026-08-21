@@ -715,7 +715,7 @@ He swallowed.
 
 They searched for mockery.
 
-And found none.
+Found none.
 
 “I know your kind of work isn't this,” I said, leaning slightly closer. “You just haven't been offered the right lane.” 
 
@@ -941,7 +941,7 @@ Charlie’s mouth tightened. “Sometimes.”
 
 “Who taught you?”
 
-“My mum.” He put a knot in the far end of the thread. “She does alterations for neighbours, for a bit of pin money.”
+“My mum.” His fingers flickered on the far end of the thread. A knot appeared. “She does alterations for neighbours, for a bit of pin money.”
 
 Mara's eyes flicked to mine. She gave me the slightest nod. 
 
@@ -993,7 +993,7 @@ And then she looked at him.
 
 Not the dress. *Him*.
 
-“Tell me, Rossignol, what happens if you make a mistake in here?”
+“Tell me, Rossignol, what do you do if you make a mistake?”
 
 Charlie's neck went red. “I— I fix it.”
 
@@ -1007,21 +1007,19 @@ Charlie looked at the floor. “Then I’d be— out.”
 
 Mara placed her slender fingers on the seam.
 
-“Yes,” she said quietly. “You’d be out. Out, because you were not being safe. Only by being truthful are you, and the rest of us, safe.”
+“Yes,” she said quietly. “You’d be out. Out, because you were not being safe.”
 
 Charlie looked up at Mara then, who held his gaze.
 
-“You understand me.” 
-
-It was a statement, not a question.
+“You understand me. Being truthful keeps you, and the rest of us, safe.” 
 
 “Yes, Mara.”
 
 Mara straightened. “Celeste.”
 
-I knew what was coming.
+She tipped her chin at the other side of the workroom.
 
-“Show him the inventory shelf,” Mara said. “You point. He listens. Then you go back to rails. He doesn't follow you.”
+“Show him the inventory shelf,” she said. “You point. He listens. Then you go back to rails. He doesn't follow you.”
 
 I nodded. “Come on,” I said to Charlie.
 
@@ -1031,7 +1029,7 @@ When I finished, I stepped back.
 
 “That’s it.”
 
-He nodded. “Okay. Thanks for that.” And then, almost despite himself, he asked, very softly: “Does Mara— hate me?”
+He gave a quick nod. “Thanks for that.” And then, almost despite himself, he asked, very softly: “Does Mara— hate me?”
 
 I glanced down at his face. He was data-gathering. Nothing else.
 
@@ -1045,9 +1043,9 @@ Mara called across the room again. “Rossignol.”
 
 Charlie turned as if by reflex. “Yes, Mara.”
 
-“Pins,” Mara said. “Sort by size. If you mix them, you get to do them over.”
+“Pins,” Mara said. “Sort by size. If you mix them, you'll do them over.”
 
-Charlie took the tin and began to sort, methodical and silent. I went back to the rails. After another half hour, Mara’s voice cut through the steady hiss of steam.
+Charlie took the tin and began to sort, methodical and silent. I went back to the rails. After another half hour, Mara’s voice cut through the hiss of the steam press.
 
 “Rossignol.”
 
@@ -1072,8 +1070,6 @@ Mara’s gaze didn’t soften, but something in her posture eased — like a sea
 He looked around, then, at the rails, the steam, the dresses on the mannequins.
 
 His shoulders seemed to drop, the tiniest bit.
-
-He was coming back tomorrow.
 
 <hr class="section-break soft" />
 
@@ -1114,11 +1110,9 @@ Charlie was back for a second morning. Same early arrival. Same old leather bag.
 
 Mara pointed at a tin on the table.
 
-“Pins,” she said. “Sort them. Then you’re on the mending pile.”
+“Needles,” she said. “Sort them. Then you’re on the mending pile.”
 
-Charlie poured the pins out onto a cloth. With a kind of tidy focus that made the task look dignified, he began arranging them by length.
-
-Wardrobe had its own rhythm — calm on the surface, precise underneath. Charlie had already started matching it — he had joined a system without trying to dominate it.
+Charlie poured the needles out onto a cloth. With a kind of tidy focus that made the task look dignified, he began arranging them by size.
 
 Mara’s next test came ten minutes later, when she “accidentally” left a pair of vintage shears too close to the edge of the table. 
 
