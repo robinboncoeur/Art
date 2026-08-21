@@ -196,7 +196,8 @@ Charlotte does not have a driving licence.
 #### Social Truth
 **Locked canon**
 
-Charlotte is a young woman shaped by female guidance, emotional responsiveness, and a profound need to find her proper place. Thanks to a very late onset of puberty, she developed very little in the way of physical masculine traits and so after commencing HRT is physically indistinguishable from a cis woman. Her social risks are therefore those of other young women, but she does **not** possess their accumulated lived experience.
+Charlotte is a young woman shaped by female guidance, emotional responsiveness, and a profound need to find her proper place. Thanks to a very late onset of puberty, she developed very little in the way of physical masculine traits and so after commencing HRT is physically indistinguishable from a cis woman. Her social risks are therefore those of other young women, but she does **not** possess their accumulated lived experience. A gifted observer who mistakes invisibility for safety.
+
 
 
 #### Psyche
@@ -223,6 +224,19 @@ Charlotte is a young woman shaped by female guidance, emotional responsiveness, 
 - fear can rise quickly because she notices ambiguity acutely  
 - can feel suddenly unbuffered outside female protective structures  
 - easily thrown by situations where ordinary femininity becomes embodied
+
+
+#### Relationship with Craft
+
+She repeatedly demonstrates an instinctive respect for materials. Whether it's music, cloth, or later even how she handles people.
+
+* She doesn't force things.
+* She listens first. 
+* notices patterns before rules
+* understands materials intuitively
+* learns best through observation and practice
+* derives satisfaction from making things quietly better
+* prefers precision to speed
 
 <hr class="section-break soft" />
 
@@ -337,11 +351,21 @@ Celeste represents “home” to Charli, not merely in romance but in emotional 
 ## 4.7 Mara Tallbanks
 **Locked / broader canon**
 
-Mara is part of the women’s competence network and is linked to training, professionalism, and Charli’s status change. She is dry, standards-led, and non-sentimental.
+Mara is part of the women’s competence network and is linked to training, professionalism, and Charli’s status change. She is dry, standards-led, and non-sentimental. A costume maker who believes people's hands reveal their character long before their words do.
 
-Mara’s evolution in how she names Charli signals status change and metamorphosis.
+Mara’s evolution in how she names Charli signals status change and metamorphosis. Questions like:
+
+* How did she become head of Wardrobe?
+* What first drew her into costume?
+* Why does she value repair over replacement?
+* What philosophy underpins her teaching?
+* How does she choose volunteers?
+* What disappointments has she absorbed without becoming bitter?
 
 <hr class="section-break soft" />
+
+
+
 
 
 
@@ -349,10 +373,25 @@ Mara’s evolution in how she names Charli signals status change and metamorphos
 ## 4.6 Lauren Rossignol
 **Locked canon**
 
-Lauren is part of the wider women-led network and has previously featured in emotionally significant scenes. She is associated with steadiness, survival, and practical recovery.
+Lauren is part of the wider women-led network and has previously featured in emotionally significant scenes. She is associated with steadiness, survival, and practical recovery. A nurse who instinctively cares for people before judging them, but who has spent years doubting her own perceptions.
 
-She belongs to the broader female competence network around Wardrobe.
+She belongs to the broader female competence network around Wardrobe. Points to consider:
 
+* Family background.
+* Nursing career.
+* Personality.
+* Strengths.
+* Blind spots.
+* Marriage to Roger.
+* Relationship with Charlie before the novel begins.
+* Core values.
+* Things she believes to be true at the opening of the story.
+* Things she doesn't yet know.
+
+
+
+And Roger? A man who mistakes fulfilling responsibility for understanding the people he's is responsible for.
+<hr class="section-break soft" />
 
 
 
