@@ -385,45 +385,33 @@ The first version got you close enough to it to start digging. 🌿
 
 ---
 
-And I think you've put your finger on the central problem:
-
-ultimately CHOSE womanhood but hasn't a clue what that even means.
+And I think you've put your finger on the central problem: ultimately CHOSE womanhood but hasn't a clue what that even means.
 
 Exactly.
 
 Because what the hell has he chosen?
 
-If womanhood isn't dresses...
+* If womanhood isn't dresses...
+* If it isn't makeup...
+* If it isn't softness...
+* If it isn't female friendship...
+* If it isn't rejection of masculinity...
+* If it isn't a particular personality...
+* If it isn't possessing a particular body...
 
-If it isn't makeup...
-
-If it isn't softness...
-
-If it isn't female friendship...
-
-If it isn't rejection of masculinity...
-
-If it isn't a particular personality...
-
-If it isn't possessing a particular body...
-
-...then Charlie can quite reasonably reach the astonishing position of saying:
-
+...then Charlie can quite reasonably reach the astonishing position of saying:  
 I want to be a woman.
 
-followed immediately by:
-
+followed immediately by:  
 I don't actually know what I've just said.
 
 That isn't a plot hole.
 
-That's the plot.
+**That's the plot.**
 
 And now choice and consequence becomes vastly richer than the fantasy grammar.
 
-The fantasy tends to make transformation the resolution.
-
-Unhidden can make choice the beginning of responsibility.
+The fantasy tends to make transformation the resolution. Unhidden can make choice the beginning of responsibility.
 
 Charlie doesn't get to say I choose womanhood and roll credits. He now has to find out what living that choice means—not according to some TG-fiction inventory of dresses, bras, makeup, hair, mannerisms and pronouns, but through experience.
 
@@ -435,35 +423,22 @@ because he doesn't know what womanhood means, he can't possibly make one enormou
 
 He can only make smaller decisions.
 
-I want masculinisation to stop.
+I want masculinisation to stop. Then later:  
 
-Then later:
+* I think I want this physical change.
+* I like 'she'.
+* I want people to understand me as female.
+* I want this name.
+* I don't want that.
+* That consequence frightens me.
+* I still want it.
+* I thought I'd want this, but actually I don't.
 
-I think I want this physical change.
+And gradually those decisions accumulate into a life. That feels much more interesting to me than transformation. Transformation describes what happens to the object. Choice describes what happens within the person.
 
-I like she.
+---
 
-I want people to understand me as female.
-
-I want this name.
-
-I don't want that.
-
-That consequence frightens me.
-
-I still want it.
-
-I thought I'd want this, but actually I don't.
-
-And gradually those decisions accumulate into a life.
-
-That feels much more interesting to me than transformation.
-
-Transformation describes what happens to the object.
-
-Choice describes what happens within the person.
-
-And Wardrobe makes this especially potent
+**And Wardrobe makes this especially potent**
 
 Because Charlie has landed in possibly the worst place imaginable for maintaining a simplistic fantasy of femininity. 😄
 
@@ -478,9 +453,9 @@ Women working. Women sweating. Women swearing. Women dealing with money and dead
 And, wonderfully, Charlie works with the very objects that his earlier equivalent in TG fantasy might have mistaken for womanhood itself.
 
 ---
-
+<!-- vale off -->
 Charlie can literally spend his days surrounded by the signifiers of femininity while gradually learning that none of them answers his question.
-
+<!-- vale off -->
 He can wear the dress.
 
 Nothing happens.

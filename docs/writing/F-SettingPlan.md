@@ -127,4 +127,20 @@ This book asks: **Can I remain myself in a world that doesn't naturally operate 
 <!--
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— … …
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 
+
+##
+
+[![Me][St00]{ .artL width="260" }][St00]
+
+[ Robyn ]
+
+<hr class="section-break soft" />
+
+[![Me][Ts00]{ .artR width="260" }][Ts00]
+
+[ Emily ]
+
+<hr class="section-break strong" />
+
+
 /-->

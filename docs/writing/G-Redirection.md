@@ -379,9 +379,9 @@ And, wonderfully, Charlie works with the very objects that his earlier equivalen
 Except Wardrobe teaches him the opposite lesson. A dress is fabric, engineering, labour, fit, purpose and somebody's bloody problem before lunch. **The fetish object becomes work.** 
 
 That may be one of the most useful things we've accidentally built into the novel.
-
+<!-- vale off -->
 Charlie can literally spend his days surrounded by the *signifiers* of femininity while gradually learning that **none of them answers his question**.
-
+<!-- vale on -->
 **He can wear the dress. Nothing happens.**
 
 He's still Charlie.
@@ -987,6 +987,10 @@ And, for once, nobody answers a question he hasn't asked. 🌿
 
 
 
+
+
+
+
 ## Story Restructure
 
 [![Me][St00]{ .artL width="260" }][St00]
@@ -999,7 +1003,7 @@ I'm beginning to see a path forward. First: timing of the storyline itself.
 
 I'm going to swap the story around a bit, with Lauren and Sarah's developing relationship taking centre-stage immediately after Charlie's visit to the doctor. Oh, and all that *wife* and pronoun stuff takes place inserted *into* those chapters.  
 
-* So, a bit about Sarah and Mr Golfplayer.
+* So, a bit about Sarah and Mr Golf-player.
 * A bit about roles.
 * A bit more about Sarah realising her future isn't shaped like a bloke.
 * A bit about 'wife' (Charlie's perceived role as provider is undercut)
@@ -1051,215 +1055,154 @@ That's perilously close to the old transformation-fantasy mechanism wearing more
 That's not gender discovery.  
 That's **love, insecurity, desire and category confusion**.
 
-And it is completely believable that a nineteen-year-old could muddle those together.
-
-Especially *this* nineteen-year-old, who has spent much of the novel trying to infer social rules analytically.
-
-Charli has just acquired an astonishing new piece of experiential information:
-
+And it is completely believable that a nineteen-year-old could muddle those together. Especially *this* nineteen-year-old, who has spent much of the novel trying to infer social rules analytically. Charli has just acquired an astonishing new piece of experiential information:   
 **This is what wanting somebody can feel like.**
 
-And immediately does the Charlie thing:
-
+And immediately does the Charlie thing:   
 **What would make her want me like that?**
 
 Oh dear. 😄
 
-### There's an even more interesting asymmetry
+---
 
-Charli knows Celeste loves Charli.
+**There's an even more interesting asymmetry**
 
-But Charli might not yet completely trust that Celeste **desires** Charli.
+Charli knows Celeste loves Charli. But Charli might not yet completely trust that Celeste **desires** Charli.
 
 Those are different things.
 
-Celeste has confessed attraction to women. Charli now has direct experiential knowledge of being attracted to a female body. So the inference becomes seductive:
-
+Celeste has confessed attraction to women. Charli now has direct experiential knowledge of being attracted to a female body. So the inference becomes seductive:  
 *I understand why she's attracted to women now.*
 
 Because look at Celeste.
 
-And then:
-
+And then:   
 *I want her to look at me and feel what I feel when I look at her.*
 
 That's poignant.
 
-And potentially quite wrong.
+**And potentially quite wrong.**
 
-Because Charli may be reducing Celeste's attraction to exactly the thing Charli is currently overwhelmed by: **the body**.
+Because Charli may be reducing Celeste's attraction to exactly the thing Charli is currently overwhelmed by: **the body**. Celeste gets to complicate that assumption simply by desiring the person actually in front of her. That doesn't mean bodies are irrelevant to attraction. They plainly aren't. But Charli doesn't yet understand Celeste's sexuality from the inside any more than Celeste understands Charli's gender from the inside.
 
-Celeste gets to complicate that assumption simply by desiring the person actually in front of her.
+---
 
-That doesn't mean bodies are irrelevant to attraction. They plainly aren't. But Charli doesn't yet understand Celeste's sexuality from the inside any more than Celeste understands Charli's gender from the inside.
+**And this gives the clinician something excellent to untangle later**
 
-### And this gives the clinician something excellent to untangle later
+Suppose Charli eventually starts talking about wanting a female body. That's new.
 
-Suppose Charli eventually starts talking about wanting a female body.
+Months ago:   
+“I don't want this body becoming more male.”
 
-That's new.
-
-Months ago:
-
-> “I don't want this body becoming more male.”
-
-Now:
-
-> “I think I want it to become more female.”
+Now:   
+“I think I want it to become more female.”
 
 That's significant. But a good clinician shouldn't leap immediately to *Excellent, oestrogen!*.
 
-The interesting question is:
-
+The interesting question is:   
 **“What makes you think you'd like that?”**
 
-And Charli might mention Celeste.
+And Charli might mention Celeste. Now we're somewhere fascinating. Because the clinician can separate:   
+**Would you like a female body because you want to inhabit one — or because you believe Celeste would desire you more if you had one?**
 
-Now we're somewhere fascinating.
-
-Because the clinician can separate:
-
-**Would you like a female body because you want to inhabit one—or because you believe Celeste would desire you more if you had one?**
-
-And Charli may genuinely not know.
-
-That's precisely the uncertainty we need.
-
-Because we've just found another possible contaminant of the evidence.
-
-First it was:
-
-> *I need feminisation so Wardrobe will continue accepting me.*
+And Charli may genuinely not know. That's precisely the uncertainty we need. Because we've just found another possible contaminant of the evidence. First it was:   
+*I need feminisation so Wardrobe will continue accepting me.*
 
 Celeste helps dismantle that.
 
-Now potentially:
+Now potentially:  
+*I need feminisation so Celeste will desire me.*
 
-> *I need feminisation so Celeste will desire me.*
-
-And **Celeste** may ultimately dismantle that too.
-
-Which leaves Charli with an increasingly purified question:
-
+And **Celeste** may ultimately dismantle that too. Which leaves Charli with an increasingly purified question:   
 **If your place at Wardrobe is secure, and Celeste loves you, and Celeste desires you without requiring you to change—what do *you* want your body to be?**
 
 Now we're getting somewhere.
 
-### Better still: the desire doesn't necessarily disappear when its supposed cause does
+---
 
-This is where I'd take it.
+**Better still: the desire doesn't necessarily disappear when its supposed cause does**
 
-Charli initially thinks:
-
+This is where I'd take it. Charli initially thinks:   
 *I want to be beautiful for Celeste.*
 
-Then perhaps:
-
+Then perhaps:   
 *I want Celeste to desire me as I desire her.*
 
-And from Charli's present conceptual framework:
-
+And from Charli's present conceptual framework:    
 *Celeste desires women.*
 
-Therefore:
-
+Therefore:    
 *I want a woman's body.*
 
-But then Celeste makes it unmistakably clear that Charli doesn't need to acquire a different body to earn her desire.
-
-Problem solved.
+But then Celeste makes it unmistakably clear that Charli doesn't need to acquire a different body to earn her desire. Problem solved.
 
 Except...
-
 **the desire for the body remains.**
 
 Ah.
 
-That's useful information.
+That's useful information. Because now Charli has conducted, without intending to, another little experiment. Hypothesis:   
+*I want a female body because I want Celeste to want me.*
 
-Because now Charli has conducted, without intending to, another little experiment.
+Evidence:   
+*Celeste already wants me.*
 
-Hypothesis:
+Prediction:   
+*Then I shouldn't need the female body anymore.*
 
-> *I want a female body because I want Celeste to want me.*
-
-Evidence:
-
-> *Celeste already wants me.*
-
-Prediction:
-
-> *Then I shouldn't need the female body anymore.*
-
-Result:
-
-> **I still want it.**
+Result:   
+**I still want it.**
 
 Charlie would understand *that*. 😄
 
 And suddenly we're approaching oestrogen for a reason entirely different from the existing version.
 
-Not:
-
+Not:   
 **I hate masculinisation, therefore feminise me.**
 
-But:
-
+But:   
 **I stopped masculinisation. My belonging is safe. Celeste's love is safe. Celeste's attraction isn't conditional on changing me. And yet, when I imagine my body changing in that direction, I still want it.**
 
 That's the beginning of genuinely positive bodily preference.
 
-### There's one thing I'd protect fiercely
+---
 
-Don't make Celeste's naked body an advertisement for womanhood.
+**There's one thing I'd protect fiercely**
 
-That would pull us straight back into idealisation.
+Don't make Celeste's naked body an advertisement for womanhood. That would pull us straight back into idealisation. What overwhelms Charli should be **Celeste specifically**. Her body is amazing because it is *hers*, because Charli loves her, because this is an unprecedented intimacy, because another person has allowed Charli extraordinarily close, because attraction suddenly isn't theoretical.
 
-What overwhelms Charli should be **Celeste specifically**.
-
-Her body is amazing because it is *hers*, because Charli loves her, because this is an unprecedented intimacy, because another person has allowed Charli extraordinarily close, because attraction suddenly isn't theoretical.
-
-Charli may initially generalise from that:
-
+Charli may initially generalise from that:   
 **female bodies are beautiful.**
 
-Fair enough. Young people generalise wildly from first experiences.
+Fair enough. Young people generalise wildly from first experiences. But the novel doesn't have to endorse the generalisation. And it could actually become another stage in Charli's growing understanding of what womanhood *isn't*.
 
-But the novel doesn't have to endorse the generalisation.
+* A female body isn't Womanhood.
+* It's a body.
+* Celeste's happens to be one Charli finds breathtaking.
 
-And it could actually become another stage in Charli's growing understanding of what womanhood *isn't*.
+---
+---
 
-A female body isn't Womanhood.
 
-It's a body.
 
-Celeste's happens to be one Charli finds breathtaking.
+## Timing
 
-### And then there's the pronoun timing
+**And then there's the pronoun timing**
 
-This may be where your rearrangement becomes exceptionally good.
-
-Because during this same interval Charli is accumulating **two completely different positive vectors**.
-
-One is social:
-
+This may be where your rearrangement becomes exceptionally good. Because during this same interval Charli is accumulating **two completely different positive vectors**. One is social:   
 **She feels good. Girl feels good. Charli feels good.**
 
-The other is bodily:
-
+The other is bodily:  
 **I think I might actually want some of the things oestrogen could do.**
 
 Neither proves the other.
 
 That's essential.
 
-Charli could want *she* without wanting feminisation.
-
-Charli could want feminisation without identifying as a woman.
-
-The clinicians should keep those questions separate.
-
-But eventually Charli begins answering both in the same direction.
+* Charli could want *she* without wanting feminisation.
+* Charli could want feminisation without identifying as a woman.
+* The clinicians should keep those questions separate.
+* But eventually Charli begins answering both in the same direction.
 
 Not because they necessarily have to converge.
 
@@ -1267,41 +1210,40 @@ Because **hers do**.
 
 And that makes the eventual oestrogen decision vastly more earned.
 
+---
+
+### Proposed Architecture
+
 I can almost see the architecture now:
 
-**STOP**
-→ supervised anti-androgen, destination explicitly unknown
-→ life continues
-→ belonging is secured independently of gender
-→ *wife* destabilises Charli's simplistic gender-role assumptions
-→ Sarah/Lauren demonstrate that relationships don't require the old heterosexual template
-→ Celeste/Charli love becomes explicit
-→ physical intimacy produces attraction, wonder and a possibly mistaken theory about wanting a female body
-→ Charli begins becoming socially *she*
-→ discovers that *she* has positive value independent of escaping *he*
-→ Celeste demonstrates that her desire isn't conditional upon Charli acquiring a female body
-→ **Charli nevertheless continues wanting one**
+**STOP**  
+→ supervised anti-androgen, destination explicitly unknown  
+→ life continues  
+→ belonging is secured independently of gender  
+→ *wife* destabilises Charli's simplistic gender-role assumptions  
+→ Sarah/Lauren demonstrate that relationships don't require the old heterosexual template  
+→ Celeste/Charli love becomes explicit  
+→ physical intimacy produces attraction, wonder and a possibly mistaken theory about wanting a female body  
+→ Charli begins becoming socially *she*  
+→ discovers that *she* has positive value independent of escaping *he*  
+→ Celeste demonstrates that her desire isn't conditional upon Charli acquiring a female body  
+→ **Charli nevertheless continues wanting one**  
 → professional exploration separates *Celeste wants me / I want to be wanted / I want this body / I want to be understood as female*
 → only then does oestrogen become a real proposition.
 
 That has **months** in it.
 
-More importantly, it contains development rather than delay.
+More importantly, it contains development rather than delay. And I think you've just found something particularly valuable: 
 
-And I think you've just found something particularly valuable: Charli's first positive desire for a female body doesn't have to arrive as a perfectly enlightened piece of gender self-knowledge.
+**Charli's first positive desire for a female body doesn't have to arrive as a perfectly enlightened piece of gender self-knowledge.**
 
 It can arrive **mixed up with sex and love and beauty and insecurity and a nineteen-year-old's imperfect theory of how attraction works**.
 
-That's human.
+That's human. Then the story gets to do what *Unhidden* is increasingly about doing:
 
-Then the story gets to do what *Unhidden* is increasingly about doing:
-
-Separate the strands.
-
-See what remains.
-
-And let Charli choose from there. 🌿
-
+* Separate the strands.
+* See what remains.
+* And let Charli choose from there. 🌿
 
 <hr class="section-break strong" />
 
@@ -1314,8 +1256,8 @@ And let Charli choose from there. 🌿
 [ Robyn ]
 Ah!!
 
-"Celeste has confessed attraction to women. Charli now has direct experiential knowledge of being attracted to a female body. So the inference becomes seductive: *I understand why she's attracted to women now.*  
-Because look at Celeste. And then: *I want her to look at me and feel what I feel when I look at her.*  
+"Celeste has confessed attraction to women. Charli now has direct experiential knowledge of being attracted to a female body. So the inference becomes seductive: *I understand why she's attracted to women now.*   
+Because look at Celeste. And then: *I want her to look at me and feel what I feel when I look at her.*   
 That's poignant.  
 And potentially quite wrong. Because Charli may be reducing Celeste's attraction to exactly the thing Charli is currently overwhelmed by: **the body**."
 
@@ -1335,225 +1277,156 @@ But then Celeste makes it unmistakably clear that Charli doesn't need to acquire
 [![Me][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
+
 YES — with one adjustment I think matters enormously.
 
 I would **not** frame it as Charli doesn't understand *as a woman does*. That risks accidentally making womanhood confer some special female understanding of attraction, bodies or love. Celeste herself may not completely understand why she desires whom she desires.
 
-I'd frame it as:
-
+I'd frame it as:  
 **Charli doesn't yet understand desire from the position Celeste occupies.**
 
-And Charli has only just acquired a completely new piece of evidence.
-
-She has experienced Celeste's body intimately and is absolutely poleaxed by it.
-
-So Charli does what Charli does.
+And Charli has only just acquired a completely new piece of evidence. She has experienced Celeste's body intimately and is absolutely poleaxed by it. So Charli does what Charli does.
 
 She **models**. 😄
 
-### Charli's model is perfectly logical—and incomplete
+---
+
+**Charli's model is perfectly logical—and incomplete**
 
 Charli knows:
 
-**Fact 1:** Celeste is attracted to women.
+* **Fact 1:** Celeste is attracted to women.
+* **Fact 2:** Celeste loves Charli.
+* **Fact 3:** Charli has now encountered Celeste's female body sexually/intimately.
+* **Fact 4:** Holy bloody hell.
 
-**Fact 2:** Celeste loves Charli.
+And that fourth fact is *experiential knowledge*. Until now, Charli could know perfectly well that people found bodies sexually attractive. That's abstract knowledge. Now she knows what it is to be overwhelmed by another person's body. And therefore:
 
-**Fact 3:** Charli has now encountered Celeste's female body sexually/intimately.
+*Oh.*
 
-**Fact 4:** Holy bloody hell.
-
-And that fourth fact is *experiential knowledge*. Until now, Charli could know perfectly well that people found bodies sexually attractive. That's abstract knowledge.
-
-Now she knows what it is to be overwhelmed by another person's body.
-
-And therefore:
-
-> *Oh.*
->
-> *This must be what Celeste means.*
+*This must be what Celeste means.*
 
 That's the mistake.
 
-Not a stupid mistake. A **reasonable inference from inadequate data**.
-
-Charli thinks she has finally understood something about Celeste:
-
+Not a stupid mistake. A **reasonable inference from inadequate data**. Charli thinks she has finally understood something about Celeste:   
 **Celeste is attracted to women because female bodies can do THIS to you.**
 
-And because Charli loves Celeste, the next thought becomes almost inevitable:
-
+And because Charli loves Celeste, the next thought becomes almost inevitable:  
 **I want to be able to do this to her.**
 
 That's beautiful, actually.
 
-Not *I want breasts.*
-
-Not *I want curves.*
-
+Not *I want breasts.*  
+Not *I want curves.*  
 Not *I want to look feminine.*
 
 Something much more relational:
 
 **I want to be desired by the person I desire.**
 
-And Charli now believes she understands what the necessary equipment looks like.
+And Charli now believes she understands what the necessary equipment looks like.   
+Except...   
+*She doesn't*. 😄
 
-She doesn't. 😄
+--
 
-### Because Charli is making Celeste's desire symmetrical
+**Because Charli is making Celeste's desire symmetrical**
 
-That's the deeper mistake.
-
-Charli unconsciously assumes:
-
+That's the deeper mistake. Charli unconsciously assumes:  
 **What makes Celeste desirable to me must resemble what would make me desirable to Celeste.**
 
 But attraction isn't necessarily reciprocal like that.
 
 Indeed, Celeste could find something extraordinarily desirable in Charli that Charli doesn't remotely understand because **Charli isn't attracted to Charli**.
 
-That's potentially a fantastic conversation.
-
-Charli may essentially be thinking:
-
+That's potentially a fantastic conversation. Charli may essentially be thinking:   
 *Look at you. Of course I want you.*
 
-But when Celeste turns that proposition around—
-
+But when Celeste turns that proposition around—   
 *Look at you. Of course I want you.*
 
-—Charli doesn't believe her.
+—**Charli doesn't believe her.**
 
-Because Charli looks at Charli and doesn't experience what she experiences looking at Celeste.
-
-Well, of course she bloody doesn't!
+Because Charli looks at Charli and doesn't experience what she experiences looking at Celeste. Well, of course she bloody doesn't!
 
 She's confusing **self-perception with somebody else's attraction**.
 
 And there is so much character material in that.
 
-### Which makes Celeste's role very delicate
+---
 
-Celeste should not say:
+**Which makes Celeste's role very delicate**
 
-> “You don't need to change. I love your body exactly as it is.”
+Celeste should not say:   
+“You don't need to change. I love your body exactly as it is.”
 
-Because, however loving, that could become another trap.
-
-Charli is entitled to want a different body **even if Celeste adores the present one**.
-
-Instead, Celeste needs somehow to establish two truths simultaneously:
-
+Because, however loving, that could become another trap. Charli is entitled to want a different body **even if Celeste adores the present one**. Instead, Celeste needs somehow to establish two truths simultaneously:  
 **I desire you now.**
 
-and
+—and—
 
 **My desire doesn't give me ownership of what you do with your body.**
 
-That second one is enormously important.
-
-Because otherwise we've simply replaced one external determinant with another.
-
-Wardrobe doesn't get to determine Charli's body.
-
-The clinician doesn't.
-
-And **Celeste doesn't either.**
+That second one is enormously important. Because otherwise we've simply replaced one external determinant with another. Wardrobe doesn't get to determine Charli's body. The clinician doesn't. And **Celeste doesn't either.**
 
 Even love doesn't get that vote.
 
-### Then comes your magnificent “Except...”
+---
 
-This is why I agree completely that it needs **much more narrative space**.
+**Then comes your magnificent “Except...”**
 
-Because we need enough time for Charli's initial theory genuinely to fail.
+This is why I agree completely that it needs **much more narrative space**. Because we need enough time for Charli's initial theory genuinely to fail. Charli thinks:   
+*I want a female body because I want Celeste to desire me.*
 
-Charli thinks:
-
-> *I want a female body because I want Celeste to desire me.*
-
-Celeste establishes beyond reasonable doubt:
-
-> **I already desire you.**
+Celeste establishes beyond reasonable doubt:   
+**I already desire you.**
 
 Not merely *I love you*. That's insufficient evidence.
 
-Desire.
+__Desire__.
 
-Charli has to believe her.
+Charli has to believe her.  
+And that might take time too.  
+Eventually the problem Charli thought she was solving has disappeared.  
+Therefore the desire should disappear.  
+Except...  
 
-And that might take time too.
+*It doesn't.*
 
-Eventually the problem Charli thought she was solving has disappeared.
+And **that moment deserves pages**. Not necessarily a dramatic revelation. In fact, probably better if it isn't. Because Charli has to confront a profoundly inconvenient piece of evidence:   
 
-Therefore the desire should disappear.
+* *I thought I wanted this for Celeste.*
+* *I don't need it for Celeste.*
+* *She doesn't require it.*
+* *She already wants me.*
+* *So why do I still—*
 
-Except...
-
-It doesn't.
-
-And **that moment deserves pages**.
-
-Not necessarily a dramatic revelation. In fact, probably better if it isn't.
-
-Because Charli has to confront a profoundly inconvenient piece of evidence:
-
-*I thought I wanted this for Celeste.*
-
-*I don't need it for Celeste.*
-
-*She doesn't require it.*
-
-*She already wants me.*
-
-*So why do I still—*
-
-There.
-
-That's the question.
+There. That's the question.
 
 **Why do I still want it?**
 
 Now we're finally asking about Charli.
 
-### And notice what we've accomplished
+---
 
-We've progressively removed external explanations.
+**And notice what we've accomplished**
 
-First:
-
+We've progressively removed external explanations. First:  
 **I need to stop masculinisation or Wardrobe won't accept me.**
 
-False. Wardrobe accepts Charli regardless.
-
-Then:
-
+False. Wardrobe accepts Charli regardless. Then:   
 **Perhaps I need a female body for Celeste to desire me.**
 
-False. Celeste already desires Charli.
-
-Potentially even:
-
+False. Celeste already desires Charli. Potentially even:   
 **Maybe “she” just feels good because Celeste likes women.**
 
-But *she* continues feeling right in contexts where Celeste isn't present.
-
-One by one, the instrumental reasons fall away.
-
-And something stubbornly remains:
-
+But *she* continues feeling right in contexts where Celeste isn't present. One by one, the instrumental reasons fall away. And something stubbornly remains:   
 **Charli wants this for Charli.**
 
 That is precisely why we mustn't rush to oestrogen.
 
-Oestrogen becomes meaningful only after Charli has had enough experience to discover that positive desire remains when the supposed reasons for it have been removed.
-
-And *then* we can return to the clinician.
-
-Months ago:
-
-> “You want puberty to stop, but beyond that you aren't clear what you want.”
+Oestrogen becomes meaningful only after Charli has had enough experience to discover that positive desire remains when the supposed reasons for it have been removed. And *then* we can return to the clinician. Months ago:   
+“You want puberty to stop, but beyond that you aren't clear what you want.”
 
 Correct.
 
@@ -1563,19 +1436,14 @@ Not a diagnosis.
 
 Not *I've realised I'm actually a woman.*
 
-Something much more Charli:
+Something much more Charli:   
+“I think I was wrong about why I wanted it.”
 
-> “I think I was wrong about why I wanted it.”
+Now **that** is a conversation I want to hear. Because the clinician can ask the obvious question:  
+“What did you think you wanted it for?”
 
-Now **that** is a conversation I want to hear.
-
-Because the clinician can ask the obvious question:
-
-> “What did you think you wanted it for?”
-
-And eventually:
-
-> “And now?”
+And eventually:   
+“And now?”
 
 Charli has to answer without Wardrobe.
 
@@ -1585,19 +1453,11 @@ Without fear of masculinisation.
 
 Without somebody else's expectations.
 
-That's when *I want my body to be more female* finally means what we need it to mean.
-
-Not proof of womanhood.
+That's when *I want my body to be more female* finally means what we need it to mean. Not proof of womanhood.
 
 **A positive bodily preference belonging to Charli.**
 
-And separately, elsewhere, *she* and *girl* are accumulating their own positive meanings.
-
-Eventually those different roads may converge.
-
-But we don't force them to.
-
-So yes—put a bloody great mark beside this in **What Still Needs To Be Written**. 😄
+And separately, elsewhere, *she* and *girl* are accumulating their own positive meanings. Eventually those different roads may converge. But we don't force them to. So yes — put a bloody great mark beside this in **What Still Needs To Be Written**. 😄
 
 I think we've just discovered that the interval between **STOP** and **OESTROGEN** isn't a troublesome gap in the existing story that needs filling.
 
@@ -1605,12 +1465,11 @@ I think we've just discovered that the interval between **STOP** and **OESTROGEN
 
 And perhaps one of the most important ones in *Unhidden*. 🌿
 
-
 <hr class="section-break strong" />
 
 
 
-##
+## Object of Desire
 
 [![Me][St00]{ .artL width="260" }][St00]
 
@@ -1618,16 +1477,12 @@ And perhaps one of the most important ones in *Unhidden*. 🌿
 This:
 "I want to be desired by the person I desire."
 
--> What makes Celeste desirable to me must resemble what would make me desirable to Celeste.
-
-This is going to be so interesting to infuse, almost by osmosis, rather than drive home with a sledgehammer.
-
-"Indeed, Celeste could find something extraordinarily desirable in Charli that Charli doesn't remotely understand because **Charli isn't attracted to Charli**. That's potentially a fantastic conversation."
+-> What makes Celeste desirable to me must resemble what would make me desirable to Celeste. This is going to be so interesting to infuse, almost by osmosis, rather than drive home with a sledgehammer. "Indeed, Celeste could find something extraordinarily desirable in Charli that Charli doesn't remotely understand because **Charli isn't attracted to Charli**. That's potentially a fantastic conversation."
 
 Indeed!
 
 And this is how I view:  
-"Charli is entitled to want a different body **even if Celeste adores the present one**."
+"*Charli is entitled to want a different body* **even if Celeste adores the present one**."
 
 Charli is entitled to want a different body **even if Celeste has come to adore the present complete person**.
 
@@ -1637,14 +1492,18 @@ But it wasn't a decider: she still fell in love with Charli because — Charli.
 
 <hr class="section-break soft" />
 
+
+
+
 [![Me][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
+
 Yes. And that makes Celeste much more important to this arc than merely being the person whose female body catalyses Charli's thinking.
 
 Because Celeste already has a history of discovering that **attraction to a category and attraction to a person aren't the same thing**.
 
-The football player taught her something, but not quite *I don't like men*. He gave her evidence about herself: whatever her future was going to be, **this particular culturally legible version of heterosexual couplehood wasn't it**. The bloke, the role, the expectations surrounding him, perhaps what being *his girlfriend* implicitly asked her to become—none of it fitted.
+The football player taught her something, but not quite *I don't like men*. He gave her evidence about herself: whatever her future was going to be, **this particular culturally legible version of heterosexual couple-hood wasn't it**. The bloke, the role, the expectations surrounding him, perhaps what being *his girlfriend* implicitly asked her to become—none of it fitted.
 
 That gives Celeste some emotional distance when Charlie appears. She doesn't need to inspect him as a potential boyfriend. Indeed, quite the opposite. Charlie can simply be Charlie.
 
@@ -1652,25 +1511,16 @@ And then the little bastard gets in anyway. 😄
 
 Not through the front door marked **ATTRACTION**.
 
-Through familiarity.
-
-Attention.
-
-Trust.
-
-Shared work.
-
-Intellectual recognition.
-
-Private jokes.
-
-Reliability.
-
-Being missed when absent.
-
-Being the person she wants to tell something to.
-
-Being the person whose reaction matters.
+* Through familiarity.
+* Attention.
+* Trust.
+* Shared work.
+* Intellectual recognition.
+* Private jokes.
+* Reliability.
+* Being missed when absent.
+* Being the person she wants to tell something to.
+* Being the person whose reaction matters.
 
 Until eventually Celeste has the rather inconvenient discovery:
 
@@ -1678,126 +1528,87 @@ Until eventually Celeste has the rather inconvenient discovery:
 
 And *then* attraction has to negotiate with that fact.
 
-### Which creates a gorgeous mismatch between them
+---
+
+**Which creates a gorgeous mismatch between them**
 
 Charli looks at Celeste's body and thinks:
 
-**I understand.**
+* **I understand.**
+* *This is why women are desirable.*
+* *This is what Celeste desires.*
+* *If I were more like this, perhaps she could desire me the way I desire her.*
 
-*This is why women are desirable.*
-
-*This is what Celeste desires.*
-
-*If I were more like this, perhaps she could desire me the way I desire her.*
-
-Meanwhile Celeste's experience has been almost exactly the reverse.
-
-She didn't fall for a body and extrapolate a person from it.
+Meanwhile Celeste's experience has been almost exactly the reverse. She didn't fall for a body and extrapolate a person from it.
 
 She fell for **Charlie**.
 
-So when Charli effectively thinks:
+So when Charli effectively thinks:   
+*But what could you possibly find desirable here?*
 
-> *But what could you possibly find desirable here?*
+Celeste has an answer that Charli cannot initially comprehend:  
+*You.*
 
-Celeste has an answer that Charli cannot initially comprehend:
+And that answer might actually frustrate Charli!  Because it's too unspecific. 😂
 
-> *You.*
-
-And that answer might actually frustrate Charli!
-
-Because it's too unspecific. 😂
-
-Charli wants **data**.
-
+Charli wants **data**.   
 *Yes, but what?*
 
 And Celeste is trying to explain an attraction that has become holistic. Of course there are particular things she likes physically. She shouldn't be written as some disembodied saint who has transcended sexual attraction. But those particulars aren't separable in her mind from the person whose body they belong to.
 
-That gives us exactly the distinction you just made:
-
-> Charli is entitled to want a different body **even if Celeste has come to adore the present complete person**.
+That gives us exactly the distinction you just made:  
+Charli is entitled to want a different body **even if Celeste has come to adore the present complete person**.
 
 Yes.
 
 And I prefer your formulation to my earlier *“Celeste adores the present body.”*
 
-Because Celeste's experience isn't necessarily:
-
+Because Celeste's experience isn't necessarily:   
 **I adore this male body and therefore don't change it.**
 
-It's:
-
+It's:   
 **This is currently the body of the person I adore. Therefore it has become part of what I adore.**
 
 Those are profoundly different statements.
 
 The second leaves Charli free.
 
-### And Celeste's attraction can survive change without becoming clairvoyance
+---
 
-This is important too.
+**And Celeste's attraction can survive change without becoming clairvoyance**
 
-We don't want Celeste retrospectively turned into someone who was *really seeing Charlotte all along*.
-
-Absolutely not.
-
-She loved **Charlie as Charlie existed then**.
-
-She desired Charlie as she came to know him.
+This is important too. We don't want Celeste retrospectively turned into someone who was *really seeing Charlotte all along*. Absolutely not. She loved **Charlie as Charlie existed then**. She desired Charlie as she came to know him.
 
 Then Charlie changes.
 
-Celeste's relationship with that changing person changes too.
-
-Some changes she may love. Some may surprise her. Some might take adjustment. Some might make absolutely no difference. And because she's physically attracted to women, some later changes may indeed become sexually attractive to her.
-
-But none of that means she was secretly attracted to the future female body concealed inside Charlie.
+Celeste's relationship with that changing person changes too. Some changes she may love. Some may surprise her. Some might take adjustment. Some might make absolutely no difference. And because she's physically attracted to women, some later changes may indeed become sexually attractive to her. But none of that means she was secretly attracted to the future female body concealed inside Charlie.
 
 There wasn't one.
 
-She loved the person who was actually there.
+She loved the person who was actually there. That's much stronger.
 
-That's much stronger.
+---
 
-### Which makes that prospective conversation delicious
+**Which makes that prospective conversation delicious**
 
-I can imagine Charli trying to solve the problem with the precision that works so beautifully at Wardrobe and so disastrously with human beings.
-
-Not necessarily these words, but the emotional shape:
-
+I can imagine Charli trying to solve the problem with the precision that works so beautifully at Wardrobe and so disastrously with human beings. Not necessarily these words, but the emotional shape:    
 *What do you like about me?*
 
-Celeste answers something about Charli.
-
-No, no.
-
-Charli wants to know **physically**.
-
-So Celeste names something.
-
-Charli immediately treats it as a specification. 😄
-
-Celeste names another thing.
-
-Specification.
-
-Until eventually Celeste realises what Charli is doing.
-
-And *that's* where the conversation could pivot.
-
-Because Celeste isn't being asked *What turns you on?*
-
-She's unknowingly being asked:
-
+* Celeste answers something about Charli.
+* No, no. Charli wants to know **physically**.
+* So Celeste names something.
+* Charli immediately treats it as a specification. 😄
+* Celeste names another thing.
+* Specification.
+* Until eventually Celeste realises what Charli is doing.
+* And *that's* where the conversation could pivot.
+* Because Celeste isn't being asked *What turns you on?*
+* She's unknowingly being asked:   
 **What would I need to become so that you could want me properly?**
 
-Oh, Charli.
+**Oh, Charli.**
 
-And Celeste can reject the premise without rejecting Charli's bodily wishes.
-
-That's the needle:
-
+And Celeste can reject the premise without rejecting Charli's bodily wishes. That's the needle:   
 **“You don't need to become anything for me.”**
 
 does **not** mean:
@@ -1808,21 +1619,16 @@ It means:
 
 **Take me out of your calculation.**
 
-That might be one of the greatest gifts Celeste gives her.
+That might be one of the greatest gifts Celeste gives her. Because Charli's entire early gender problem has been contaminated by other people:
 
-Because Charli's entire early gender problem has been contaminated by other people:
-
-*What will Wardrobe think I am?*
-
-*What will women see when they look at me?*
-
-*Will they still trust me?*
+* *What will Wardrobe think I am?*
+* *What will women see when they look at me?*
+* *Will they still trust me?*
 
 Then:
 
-*What does Celeste desire?*
-
-*What would make me desirable to her?*
+* *What does Celeste desire?*
+* *What would make me desirable to her?*
 
 Again and again Charli is trying to design herself according to the anticipated response of the people she values.
 
@@ -1830,24 +1636,16 @@ Celeste can finally say, in effect:
 
 **Don't design yourself for me.**
 
-And perhaps that's particularly resonant because of who Celeste is.
-
-The football player represented one possible future in which she could have allowed herself to be shaped by a ready-made relationship role.
-
-She didn't.
+And perhaps that's particularly resonant because of who Celeste is. The football player represented one possible future in which she could have allowed herself to be shaped by a ready-made relationship role.  
+She didn't.  
 
 So she's uniquely positioned to recognise the danger when Charli starts doing essentially the same thing from the opposite direction.
 
-### Then the really lovely thing happens
+---
 
-Celeste removes herself from the equation.
+**Then the really lovely thing happens**
 
-And Charli's desire remains.
-
-That's where this arc becomes *choice and consequence* rather than romance-driven transition.
-
-Because Charli can eventually know:
-
+Celeste removes herself from the equation. And Charli's desire remains. That's where this arc becomes *choice and consequence* rather than romance-driven transition. Because Charli can eventually know:  
 **Celeste will have me.**
 
 Charlie-shaped.
@@ -1860,36 +1658,28 @@ Uncertain.
 
 Celeste's love is no longer the problem Charli needs to solve with her body.
 
-And yet:
-
+And yet:  
 *I still want this.*
 
 That **still** is going to matter enormously.
 
 Because every time we remove an external reason and the preference survives, Charli gets closer to discovering which desires are actually hers.
 
-And I agree completely about doing the first part by osmosis. Don't have Charli announce:
-
-> *What makes Celeste desirable to me must resemble what would make me desirable to Celeste.*
+And I agree completely about doing the first part by osmosis. Don't have Charli announce:  
+*What makes Celeste desirable to me must resemble what would make me desirable to Celeste.*
 
 Good heavens, no. 😄
 
 Let us **watch her behave as though it's true**.
 
-A question here.
+* A question here.
+* A glance there.
+* An oddly specific curiosity about what Celeste finds attractive.
+* Charli studying Celeste's reaction rather than the mirror.
+* A tiny disappointment when something doesn't produce the response anticipated.
+* Celeste gradually realising that several apparently unrelated questions have all been asking the same thing.
 
-A glance there.
-
-An oddly specific curiosity about what Celeste finds attractive.
-
-Charli studying Celeste's reaction rather than the mirror.
-
-A tiny disappointment when something doesn't produce the response anticipated.
-
-Celeste gradually realising that several apparently unrelated questions have all been asking the same thing.
-
-And then, eventually, she sees it.
-
+And then, eventually, she sees it.   
 **Charli has been trying to become desirable to her.**
 
 That gives Celeste the emotional knowledge to answer the question Charli hasn't known how to ask.
@@ -1898,39 +1688,6 @@ And because Celeste loves **complete people**, her answer isn't a specification.
 
 It's Charli. 🌿
 
-
-<hr class="section-break strong" />
-
-
-
-
-##
-
-[![Me][St00]{ .artL width="260" }][St00]
-
-[ Robyn ]
-
-<hr class="section-break soft" />
-
-[![Me][Ts00]{ .artR width="260" }][Ts00]
-
-[ Emily ]
-
-<hr class="section-break strong" />
-
-
-
-##
-
-[![Me][St00]{ .artL width="260" }][St00]
-
-[ Robyn ]
-
-<hr class="section-break soft" />
-
-[![Me][Ts00]{ .artR width="260" }][Ts00]
-
-[ Emily ]
 
 <hr class="section-break strong" />
 

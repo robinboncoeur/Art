@@ -190,13 +190,13 @@ Charlotte does not have a driving licence.
 - emotionally vulnerable but not weak in spirit  
 - deeply responsive to female structure and approval  
 - derives satisfaction from making things quietly better  
-- lacking formative peer-group conditioning cis girls receive
+- lacking formative peer-group conditioning cis-girls receive
 
 
 #### Social Truth
 **Locked canon**
 
-Charlotte is a young woman shaped by female guidance, emotional responsiveness, and a profound need to find her proper place. Thanks to a very late onset of puberty, she developed very little in the way of physical masculine traits and so after commencing HRT is physically indistinguishable from a cis woman. Her social risks are therefore those of other young women, but she does **not** possess their accumulated lived experience. A gifted observer who mistakes invisibility for safety.
+Charlotte is a young woman shaped by female guidance, emotional responsiveness, and a profound need to find her proper place. Thanks to a very late onset of puberty, she developed very little in the way of physical masculine traits and so after commencing HRT is physically indistinguishable from a cis-woman. Her social risks are therefore those of other young women, but she does **not** possess their accumulated lived experience. A gifted observer who mistakes invisibility for safety.
 
 
 
@@ -549,7 +549,7 @@ This relationship is becoming central in _The Deep End_.
 
 It is built on:
 - mutual respect
-- Brittany’s groundedness
+- Brittany’s grounded attribute
 - Charli’s admiration of Brittany’s practical knowledge
 - increasing trust
 - Brittany’s observational intelligence
@@ -586,8 +586,8 @@ The danger in scenes like the pool-party scene should come from **normality beco
 
 Charli’s development includes:
 - very late male puberty
-- self-medication with spironolactone as a private “solution” to late puberty
-- spironolactone halting masculinisation and contributing to subtle feminisation
+- self-medication with Spironolactone as a private “solution” to late puberty
+- Spironolactone halting masculinisation and contributing to subtle feminisation
 - later supervised HRT approximately three months afterwards
 
 This history contributes to why she is now physically read as female.
@@ -595,7 +595,7 @@ This history contributes to why she is now physically read as female.
 ### 6.2 Social vulnerability
 **Locked canon**
 
-Though physically read as female, Charli lacks much of the accumulated experience cis girls gain through adolescence. This creates vulnerability in ordinary social situations, especially where the body becomes socially foregrounded.
+Though physically read as female, Charli lacks much of the accumulated experience cis-girls gain through adolescence. This creates vulnerability in ordinary social situations, especially where the body becomes socially foregrounded.
 
 ### 6.3 “Wife” label
 **Locked canon**
@@ -804,7 +804,7 @@ Prefer:
 
 ---
 
-## 11. Continuity Watchlist
+## 11. Continuity Watch-list
 
 These points should be kept in foreground while drafting.
 
@@ -968,10 +968,10 @@ These are not necessarily final prose, but they are key continuity anchors.
 **Locked canon**
 
 - Charli entered male puberty very late.
-- In private distress over late puberty, she began self-medicating with **spironolactone**, treating it as a “solution.”
+- In private distress over late puberty, she began self-medicating with **Spironolactone**, treating it as a “solution.”
 - This halted masculinisation and contributed to subtle feminisation.
 - Roughly three months later, she began fully supervised HRT.
-- As a result, she is now physically read as female and is effectively indistinguishable from a cis girl her age.
+- As a result, she is now physically read as female and is effectively indistinguishable from a cis-girl her age.
 
 #### Implication
 **Locked canon**
@@ -1573,7 +1573,7 @@ Graham does not need to be beautifully cast unless he speaks often. He needs to 
 
 Roger matters more emotionally than Graham. If Roger has only a few scenes, his voice still has to land. He should sound like history walking into the room.
 
-Not cartoonishly awful. More dangerous if he sounds ordinary.
+Not cartoonish awful. More dangerous if he sounds ordinary.
 
 ## The important production rule
 
@@ -1805,7 +1805,7 @@ Not broad Aussie. Not caricature. Not Crocodile Dundee.
 Or my brother-in-law. Look, I've lived in Oz now for 26 years, but DANG that boy's ocker! Wish he came with subtitles, sometimes.
 
 There's a fair assortment of British accents. She's a dry one, so I already have a couple of candidates that should work.
-Lauren? English with a French background? Well, no, Rossignol is Roger (I knew a 'Roger' back in Orleans—he was a plumber, contractored to my uncle, nice bloke, though). Still, why not? Mara sees something French in Lauren, so who knows.
+Lauren? English with a French background? Well, no, Rossignol is Roger (I knew a 'Roger' back in Orleans—he was a plumber, contracted to my uncle, nice bloke, though). Still, why not? Mara sees something French in Lauren, so who knows.
 
 
 [Emily]   
@@ -1833,7 +1833,7 @@ Test lines:
 
 Lauren is more interesting. I don’t think she needs to be French-accented. In fact, I’d be cautious there. A French accent could make her too “flavoured” when Lauren’s emotional function is grounded motherhood, guilt, steadiness, and belated seeing. But a **French background somewhere in the family texture**? Lovely. That could explain why Mara senses something in her without turning Lauren into a walking accent note.
 
-Rossignol belonging to Roger is useful, actually. It means Lauren’s connection to Frenchness could be by marriage, family history, or simply through names and cultural residue rather than speech. Mara “seeing something French in Lauren” could be less about accent and more about carriage, restraint, manners, or even a specific way Lauren handles fabric, food, music, household order, or apology.
+Rossignol belonging to Roger is useful, actually. It means Lauren’s connection to French-ness could be by marriage, family history, or simply through names and cultural residue rather than speech. Mara “seeing something French in Lauren” could be less about accent and more about carriage, restraint, manners, or even a specific way Lauren handles fabric, food, music, household order, or apology.
 
 Something like:
 
@@ -1893,7 +1893,7 @@ That’s Lauren. Not French exactly. But perhaps with enough Rossignol in the fa
 
 [![img][St29]{ .artR width="460" }][St29]
 
-
+<!-- vale off -->
 Celests Girl. Scene six.
 —
 Answers.
@@ -1972,14 +1972,6 @@ This matters because:
 
 
 
-
-
-
-
-
-
-
-
 - **_Celeste’s Girl_** establishes Charlotte / Charlie’s earlier transformation arc and the central Celeste–Charlotte dynamic.  
 - **_The Deep End_** expands outward into a new environment where Charlotte must function more independently.  
 - Possible later books continue into broader adulthood / business / city / deeper relational structures.
@@ -1997,4 +1989,4 @@ Current discussion has reached:
 - A major short phone scene with **Celeste** has just occurred, stabilising Charli and reaffirming their bond.
 - Scene Five is expected to move to **Friday night**, where the girls suggest a **pool party**.
 - Scene Six is expected to centre on Charli’s possible selective disclosure to Brittany, provided Brittany earns that trust in Scene Five.
->
+-->

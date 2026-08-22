@@ -23,6 +23,7 @@ else's
 eskie
 Faire
 Fille
+Finlayson
 Finzi
 frother
 G'day
@@ -42,10 +43,12 @@ Kaimu
 Kalinnikov
 Katya
 Kilda
+[Kk]indy
 Kirsty
 Kont(akt|ext)
 Lacrimosa
 [Ll]ippie
+Lisbeth
 Macca's
 Maleny
 mansplaining
@@ -53,6 +56,7 @@ Mara
 ^masculinis(ation|ed|ing)
 Mauresque
 meds
+Michaels
 Mmm
 Montville
 Moorside
@@ -91,6 +95,7 @@ sudo
 sunburnt
 sunnies
 Tahlia
+Tallbanks
 tennies
 tensioning
 thingie
