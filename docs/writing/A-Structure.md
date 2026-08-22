@@ -1,7 +1,7 @@
 # Writing 101
 
 
-[![Wardrobe][Bnr03b]{ .artC width="1100" }][Bnr03b]
+[![Wardrobe][Brb03]{ .artC width="1100" }][Brb03]
 
 
 
@@ -297,7 +297,7 @@ C) Or build a master arc map for Book 2 before drafting further? 😄
 ## 🧱 Your Scene Spine
 
 
-[![Charlie][St03a]{ .artR width="460" }][St03a]
+[![Charlie][St03]{ .artR width="460" }][St03]
 
 
 **Tightened (Same content, cleaner structure)**
@@ -328,6 +328,7 @@ Sarah clocks it. Doesn’t praise. Just… accepts it.
 
 **Beat 6 — Exit Note**
 
+<!-- vale off -->
 The smile at Landsborough. Charli smiles back automatically — then feels the risk of that reflex. Not fear. Awareness.
 
 Perfect exit. Beautifully “still has much to learn” without stating it.
@@ -345,7 +346,7 @@ Perfect exit. Beautifully “still has much to learn” without stating it.
 ### 🛠️ Template
 
 
-[![img][St05a]{ .artR width="460" }][St05a]
+[![img][St05]{ .artR width="460" }][St05]
 
 
 **Cleanly in Zed**
@@ -409,7 +410,7 @@ It’s guard rails.
 ## Emotions
 
 
-[![The Wardrobe][St11a]{ .artR width="460" }][St11a]
+[![The Wardrobe][S11]{ .artR width="460" }][S11]
 
 
 Hi you 🌿
@@ -533,7 +534,7 @@ If you’d like next time, we can build a “Do Not Use” list too — the phra
 ## Tight Throat
 
 
-[![Charlie][St15a]{ .artR width="460" }][St15a]
+[![Charlie][S15]{ .artR width="460" }][S15]
 
 
 Hi Robyn 💛
@@ -613,6 +614,7 @@ Below is a **mini-dictionary** you can paste straight into your toolkit, *and* t
 ## Targeted swaps in *your* excerpt (low-friction edits)
 
 I’m going to suggest swaps that keep your rhythm and don’t “rewrite the scene,” just diversify the somatics.
+<!-- vale on -->
 
 ### 1) “trying to work out why my stomach had tightened.”
 
@@ -690,7 +692,7 @@ This is one of your flagged repeats. Swap to elbows/chin/bag:
 
 ### 8) “My throat tightened again…”
 
-This is the big one because you even bolded it — totally fair as a marker. But it’s the exact moment to *prove* the “interruption” concept from earlier.
+This is the big one because you even made it bold — totally fair as a marker. But it’s the exact moment to *prove* the “interruption” concept from earlier.
 
 Swap it to **voice/mouth** or **breath**:
 
@@ -765,7 +767,7 @@ But even without that: with the swaps above, this excerpt will instantly feel mo
 ## New Site Challenges
 
 
-[![Charlie][St17a]{ .artR width="460" }][St17a]
+[![Charlie][S17]{ .artR width="460" }][S17]
 
 
 Oh this is a deliciously practical question. 🧵✂️
@@ -927,7 +929,7 @@ Your instincts are excellent here. You’re building texture, not drama — and 
 
 ## Audio Test
 
-[![Charlie][St19a]{ .artR width="460" }][St19a]
+[![Charlie][S19]{ .artR width="460" }][S19]
 
 I wrote Celeste’s Girl because I’m tired of two lies.
 That womanhood is a costume.
@@ -953,18 +955,62 @@ It’s also a quiet insistence that trans women are not an enemy camp… but som
 
 <!--  Image references  -->
 
-[Bnr03b]: ../assets/images/base/Bnr03b.jpg
-[St00]: ../assets/images/base/00Writer.jpg
+[Brb35]: ../assets/images/base/Bnr35b.jpg
+[Bra01]: ../assets/images/base/Bnr01a.jpg
+[Bra02]: ../assets/images/base/Bnr02a.jpg
+[Brc02]: ../assets/images/base/Bnr02c.jpg
+[Brb03]: ../assets/images/base/Bnr03b.jpg
 
-[St03a]: ../assets/images/story/Scene03a.jpg
-[St05a]: ../assets/images/story/Scene05a.jpg
-[St11a]: ../assets/images/story/Scene11a.jpg
-[St14a]: ../assets/images/story/Scene14a.jpg
-[St15a]: ../assets/images/story/Scene15a.jpg
-[St17a]: ../assets/images/story/Scene17a.jpg
-[St19a]: ../assets/images/story/Scene19a.jpg
-[St21a]: ../assets/images/story/Scene21a.jpg
+[S01]: ../assets/images/story/Scene01a.jpg
+[S02]: ../assets/images/story/Scene02a.jpg
+[S03]: ../assets/images/story/Scene03a.jpg
+[S04]: ../assets/images/story/Scene04a.jpg
+[S05]: ../assets/images/story/Scene05a.jpg
+[S06]: ../assets/images/story/Scene06a.jpg
+[S07]: ../assets/images/story/Scene07a.jpg
+[S08]: ../assets/images/story/Scene08a.jpg
+[S09]: ../assets/images/story/Scene09a.jpg
+[S10]: ../assets/images/story/Scene10a.jpg
+[S11]: ../assets/images/story/Scene11a.jpg
+[S12]: ../assets/images/story/Scene12a.jpg
+[S13]: ../assets/images/story/Scene13a.jpg
+[S14]: ../assets/images/story/Scene14a.jpg
+[S15]: ../assets/images/story/Scene15a.jpg
+[S16]: ../assets/images/story/Scene16a.jpg
+[S17]: ../assets/images/story/Scene17a.jpg
+[S18]: ../assets/images/story/Scene18a.jpg
+[S19]: ../assets/images/story/Scene19a.jpg
+[S20]: ../assets/images/story/Scene20a.jpg
+[S21]: ../assets/images/story/Scene21a.jpg
+[S22]: ../assets/images/story/Scene22a.jpg
+[S23]: ../assets/images/story/Scene23a.jpg
+[S24]: ../assets/images/story/Scene24a.jpg
+[S25]: ../assets/images/story/Scene25a.jpg
+[S56]: ../assets/images/story/Scene56a.jpg
+
+
+[St00]: ../assets/images/base/00Writer.jpg
+[Ts00]: ../assets/images/base/00Emily.jpg
+[Sta1]: ../assets/images/base/01aKaimu.jpg
+[Stb1]: ../assets/images/base/01vRead.jpg
+[Stc1]: ../assets/images/base/01cActress.jpg
+[Std1]: ../assets/images/base/01dLily.jpg
+[Ste1]: ../assets/images/base/01eWinter.jpg
+[St02]: ../assets/images/base/02music.jpg
+[St03]: ../assets/images/base/03mists.jpg
+[St04]: ../assets/images/base/04maiden.jpg
+[St05]: ../assets/images/base/05flight.jpg
+[St06]: ../assets/images/base/06office.jpg
+[St07]: ../assets/images/base/07WritingFriday.jpg
+[St08]: ../assets/images/base/08maiden.jpg
+[St09]: ../assets/images/base/09aParis.jpg
+[St10]: ../assets/images/base/10montvl.jpg
 
 <!--
-😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 —
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧…
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 
 /-->
+
+🌹
+
+<hr class="section-break strong" />

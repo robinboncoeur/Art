@@ -1,14 +1,15 @@
 # Celeste and Charlie
 
 
-[![Their Love][Br35]{ .artC width="1100" }][Br35]
+[![Their Love][Brb35]{ .artC width="1100" }][Brb35]
 
 
+It all started with The Wrong Door.
 
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/ytdl/Elgar-Minuet.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoorD.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -48,7 +49,7 @@ I own all images and videos on these pages. They were created using AI. ComfyUI 
 
 
 
-### On Writing
+### On The Process
 
 I use a coding plain-text processor that supports markdown (MkDocs) called Zed.
 
@@ -65,14 +66,16 @@ I have since undertaken to rewrite [**Celeste's Girl**](1CG-3rdEd.md), not only 
 
 ### The Site
 
-The pages of my site are save in markdown, then uploaded to GitHub along with images and other media. CloudFlare creates the static pages and serves the site. For now, large files, such as video or >25mg music files, are also served by CloudFlare. However, I'm setting up my own server to manage serving that sort of media. *Update 26-04-2026*: the audio files on this page are all served privately.
+The pages of my site are saved in markdown (e.g., index.md), then uploaded to GitHub along with images and other media. CloudFlare creates the static pages and serves the site. For now, large files, such as video or >25mg music files, are also served by CloudFlare. However, I'm setting up my own server to manage serving that sort of media. 
+
+*Update 26-04-2026*: the audio files on this page are all served privately.
 
 <hr class="section-break soft" />
 
 
 
 
-### The Prompt
+### Image Prompt Example
 
 Cinematic medium close-up portrait of a young woman with soft, natural features and light brown hair loosely tied up, gazing thoughtfully off-camera to the left with a subtle, hopeful smile. She is dressed in period attire, wearing a dark, muted indigo or navy blue linen square-neck gown or bodice over a slightly ruffled, cream or off-white chemise with a square neckline. The lighting is soft, diffused daylight, suggesting an overcast or foggy morning, illuminating her face gently from the front-left, creating subtle highlights on her cheekbones and nose. She is positioned indoors, looking out from a weathered stone window or balcony opening, the dark window frame partially visible on the right. The background is a softly blurred (shallow depth of field) view of an old European city street-scape, featuring muted tones of grey, beige, and dark green from distant architectural details, including a prominent dome or spire partially visible through a pale atmospheric haze, suggesting a historical or period drama setting. The overall mood is serene, romantic, and slightly melancholic, rendered with high detail, photorealistic quality, and a color palette dominated by cool blues, greys, and soft, warm skin tones, reminiscent of film stills from the 19th century.
 
@@ -94,34 +97,58 @@ Cinematic medium close-up portrait of a young woman with soft, natural features 
 
 
 
-
-
-
-
-## Happy Thoughts
-
-<div class="video-card video-card--small">
-	<div class="video-frame">
-		<video controls preload="metadata" playsinline>
-			<source src="https://media.seabrae.org/videos/cg/C03.mp4" type="video/mp4">
-			Your browser does not support the video tag.
-		</video>
-	</div>
-	<p class="video-caption">
-		<strong>Girl is the default human setting. Celeste explains it best.</strong>
-</div>
-
-<hr class="section-break strong" />
-
-
 <!--  Image references  -->
 
 
-[Br35]: ../assets/images/base/Bnr35b.jpg
-[St00]: ../assets/images/base/00Writer.jpg
-[St09]: ../assets/images/base/09aParis.jpg
+[Brb35]: ../assets/images/base/Bnr35b.jpg
+[Bra01]: ../assets/images/base/Bnr01a.jpg
+[Bra02]: ../assets/images/base/Bnr02a.jpg
 
+[S01a]: ../assets/images/story/Scene01a.jpg
+[S02a]: ../assets/images/story/Scene02a.jpg
+[S03a]: ../assets/images/story/Scene03a.jpg
+[S04a]: ../assets/images/story/Scene04a.jpg
+[S05a]: ../assets/images/story/Scene05a.jpg
+[S06a]: ../assets/images/story/Scene06a.jpg
+[S07a]: ../assets/images/story/Scene07a.jpg
+[S08a]: ../assets/images/story/Scene08a.jpg
+[S09a]: ../assets/images/story/Scene09a.jpg
+[S10a]: ../assets/images/story/Scene10a.jpg
+[S11a]: ../assets/images/story/Scene11a.jpg
+[S12a]: ../assets/images/story/Scene12a.jpg
+[S13a]: ../assets/images/story/Scene13a.jpg
+[S14a]: ../assets/images/story/Scene14a.jpg
+[S15a]: ../assets/images/story/Scene15a.jpg
+[S16a]: ../assets/images/story/Scene16a.jpg
+[S17a]: ../assets/images/story/Scene17a.jpg
+[S18a]: ../assets/images/story/Scene18a.jpg
+[S19a]: ../assets/images/story/Scene19a.jpg
+[S20a]: ../assets/images/story/Scene20a.jpg
+[S21a]: ../assets/images/story/Scene21a.jpg
+[S22a]: ../assets/images/story/Scene22a.jpg
+[S23a]: ../assets/images/story/Scene23a.jpg
+[S24a]: ../assets/images/story/Scene24a.jpg
+[S25a]: ../assets/images/story/Scene25a.jpg
+[S56a]: ../assets/images/story/Scene56a.jpg
+
+
+[St00]: ../assets/images/base/00Writer.jpg
+[Ts00]: ../assets/images/base/00Emily.jpg
+[Sta1]: ../assets/images/base/01aKaimu.jpg
+[Stb1]: ../assets/images/base/01vRead.jpg
+[Stc1]: ../assets/images/base/01cActress.jpg
+[Std1]: ../assets/images/base/01dLily.jpg
+[Ste1]: ../assets/images/base/01eWinter.jpg
+[St02]: ../assets/images/base/02music.jpg
+[St03]: ../assets/images/base/03mists.jpg
+[St04]: ../assets/images/base/04maiden.jpg
+[St05]: ../assets/images/base/05flight.jpg
+[St06]: ../assets/images/base/06office.jpg
+[St07]: ../assets/images/base/07WritingFriday.jpg
+[St08]: ../assets/images/base/08maiden.jpg
+[St09]: ../assets/images/base/09aParis.jpg
+[St10]: ../assets/images/base/10montvl.jpg
 <!--
-✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— … …
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧…
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 
 /-->

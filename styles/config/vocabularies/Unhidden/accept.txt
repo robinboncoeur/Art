@@ -2,7 +2,7 @@
 Arbres
 artform
 blokey
-bolognaise
+[Bb]olognaise
 Bree
 C'mon
 caraco
@@ -11,8 +11,7 @@ Cass
 Celine
 Charli
 chmod
-Chooks
-chooks
+[Cc]hooks
 d'oeuvres
 daggy
 Danni
@@ -27,10 +26,8 @@ Fille
 Finzi
 frother
 G'day
-Gartner
 Giaconda
 Gliga
-Goss
 grainline
 Greeves?
 Harri
@@ -46,15 +43,14 @@ Kalinnikov
 Katya
 Kilda
 Kirsty
-Kontakt
-Kontext
+Kont(akt|ext)
 Lacrimosa
 [Ll]ippie
-Lustig
 Macca's
 Maleny
 mansplaining
 Mara
+^masculinis(ation|ed|ing)
 Mauresque
 meds
 Mmm
@@ -73,7 +69,6 @@ Queenslanders
 Qwen
 Rache
 reaticulate
-Redland
 repinned
 Retraite
 ridgebacks
@@ -111,4 +106,4 @@ Uvalde
 Vasile
 vegemite
 Vicks
-What'll
+[Ww]hat'll

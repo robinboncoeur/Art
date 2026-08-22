@@ -1,7 +1,7 @@
 # Discussions
 
 
-[![img][Br01]{ .artC width="1110" }][Br01]
+[![img][Bra01]{ .artC width="1110" }][Bra01]
 
 
 <hr class="section-break strong" />
@@ -383,12 +383,181 @@ But increasingly, I don't think that's the most interesting revelation.
 
 The first version got you close enough to it to start digging. 🌿
 
+---
+
+And I think you've put your finger on the central problem:
+
+ultimately CHOSE womanhood but hasn't a clue what that even means.
+
+Exactly.
+
+Because what the hell has he chosen?
+
+If womanhood isn't dresses...
+
+If it isn't makeup...
+
+If it isn't softness...
+
+If it isn't female friendship...
+
+If it isn't rejection of masculinity...
+
+If it isn't a particular personality...
+
+If it isn't possessing a particular body...
+
+...then Charlie can quite reasonably reach the astonishing position of saying:
+
+I want to be a woman.
+
+followed immediately by:
+
+I don't actually know what I've just said.
+
+That isn't a plot hole.
+
+That's the plot.
+
+And now choice and consequence becomes vastly richer than the fantasy grammar.
+
+The fantasy tends to make transformation the resolution.
+
+Unhidden can make choice the beginning of responsibility.
+
+Charlie doesn't get to say I choose womanhood and roll credits. He now has to find out what living that choice means—not according to some TG-fiction inventory of dresses, bras, makeup, hair, mannerisms and pronouns, but through experience.
+
+And some consequences won't be what he imagined.
+
+---
+
+because he doesn't know what womanhood means, he can't possibly make one enormous, perfectly informed decision called BECOME WOMAN.
+
+He can only make smaller decisions.
+
+I want masculinisation to stop.
+
+Then later:
+
+I think I want this physical change.
+
+I like she.
+
+I want people to understand me as female.
+
+I want this name.
+
+I don't want that.
+
+That consequence frightens me.
+
+I still want it.
+
+I thought I'd want this, but actually I don't.
+
+And gradually those decisions accumulate into a life.
+
+That feels much more interesting to me than transformation.
+
+Transformation describes what happens to the object.
+
+Choice describes what happens within the person.
+
+And Wardrobe makes this especially potent
+
+Because Charlie has landed in possibly the worst place imaginable for maintaining a simplistic fantasy of femininity. 😄
+
+He's surrounded by women.
+
+Not Woman as an idea.
+
+Women.
+
+Women working. Women sweating. Women swearing. Women dealing with money and deadlines and badly behaved fabric and actresses and management and coffee and each other. Different ages, bodies, temperaments, relationships to appearance, attitudes toward clothing, degrees of conventional femininity.
+
+And, wonderfully, Charlie works with the very objects that his earlier equivalent in TG fantasy might have mistaken for womanhood itself.
+
+---
+
+Charlie can literally spend his days surrounded by the signifiers of femininity while gradually learning that none of them answers his question.
+
+He can wear the dress.
+
+Nothing happens.
+
+He's still Charlie.
+
+He can understand the garment better than the woman who will ultimately wear it.
+
+Still Charlie.
+
+He can become completely accustomed to women's clothing touching his body without acquiring one atom of additional knowledge about whether he wants to be a woman.
+
+Excellent.
+
+Because we've now severed something that the fantasy genre often welds together:
+
+feminine clothing → feminine experience → female identity.
+
+No.
+
+Three different things.
+
+And once they're separated, the eventual choice becomes much harder—and much more meaningful.
+
+---
+
+Eventually the problem Charli thought she was solving has disappeared. Therefore the desire should disappear.
+
+Except... It doesn't.
+
+And that moment deserves pages.
+
+Not necessarily a dramatic revelation. In fact, probably better if it isn't. Because Charli has to confront a profoundly inconvenient piece of evidence: I thought I wanted this for Celeste.
+I don't need it for Celeste.
+She doesn't require it.
+She already wants me.
+So why do I still—
+There.
+
 <hr class="section-break strong" />
 
 
-<!--           Image Links         /-->
+<!--  Image references  -->
 
-[Br01]: ../assets/images/base/Bnr02a.jpg
+
+[Brb35]: ../assets/images/base/Bnr35b.jpg
+[Bra01]: ../assets/images/base/Bnr01a.jpg
+[Bra02]: ../assets/images/base/Bnr02a.jpg
+
+[S01a]: ../assets/images/story/Scene01a.jpg
+[S02a]: ../assets/images/story/Scene02a.jpg
+[S03a]: ../assets/images/story/Scene03a.jpg
+[S04a]: ../assets/images/story/Scene04a.jpg
+[S05a]: ../assets/images/story/Scene05a.jpg
+[S06a]: ../assets/images/story/Scene06a.jpg
+[S07a]: ../assets/images/story/Scene07a.jpg
+[S08a]: ../assets/images/story/Scene08a.jpg
+[S09a]: ../assets/images/story/Scene09a.jpg
+[S10a]: ../assets/images/story/Scene10a.jpg
+[S11a]: ../assets/images/story/Scene11a.jpg
+[S12a]: ../assets/images/story/Scene12a.jpg
+[S13a]: ../assets/images/story/Scene13a.jpg
+[S14a]: ../assets/images/story/Scene14a.jpg
+[S15a]: ../assets/images/story/Scene15a.jpg
+[S16a]: ../assets/images/story/Scene16a.jpg
+[S17a]: ../assets/images/story/Scene17a.jpg
+[S18a]: ../assets/images/story/Scene18a.jpg
+[S19a]: ../assets/images/story/Scene19a.jpg
+[S20a]: ../assets/images/story/Scene20a.jpg
+[S21a]: ../assets/images/story/Scene21a.jpg
+[S22a]: ../assets/images/story/Scene22a.jpg
+[S23a]: ../assets/images/story/Scene23a.jpg
+[S24a]: ../assets/images/story/Scene24a.jpg
+[S25a]: ../assets/images/story/Scene25a.jpg
+[S56a]: ../assets/images/story/Scene56a.jpg
+
+
 [St00]: ../assets/images/base/00Writer.jpg
 [Ts00]: ../assets/images/base/00Emily.jpg
 [Sta1]: ../assets/images/base/01aKaimu.jpg
@@ -405,6 +574,11 @@ The first version got you close enough to it to start digging. 🌿
 [St08]: ../assets/images/base/08maiden.jpg
 [St09]: ../assets/images/base/09aParis.jpg
 [St10]: ../assets/images/base/10montvl.jpg
+
+<!--
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧…
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 
+/-->
 
 <!--
 Brilee
