@@ -326,83 +326,62 @@ They'll remember her as the quiet young woman who had to learn, piece by piece, 
 
 [ Emily ]
 
-I think that's exactly the right instinct. What strikes me is that all three of your questions have the same answer: **Don't tell the reader. Let Mara reveal it.** Those three points:
-
-* How long has Celeste been here?
-* How competent is Celeste?
-* How much does Mara trust her?
-
-—aren't background information. They're **the relationship**. Readers are surprisingly good at triangulating relationships from dialogue. For example, imagine these two exchanges.
-
-> "Celeste has worked here for about eighteen months."
-
-versus
-
-> Mara looked up from the stays. "You've stopped asking permission before rearranging my workroom."
->
-> Celeste smiled. "You noticed."
->
-> "I'd be worried if you still were."
-
-The second tells us almost everything:
-
-* Celeste has been there long enough to become confident.
-* Mara has watched that growth.
-* Mara approves.
-* Mara trusts her judgement.
-* Their relationship is warm enough for gentle teasing.
-
-No exposition required.
+Charlie wants to remain among the Wardrobe women because he belongs there. 🌿
+And we've been almost ruthlessly refusing to let any of those things mean: *therefore, girl*.
 
 ---
 
-Likewise competence. Rather than saying: *Celeste had become one of Mara's most trusted volunteers...* have Mara simply delegate something she would never delegate to someone inexperienced. Imagine Graham asks Mara something. Mara doesn't even answer.
+And then we found the thing that can't be explained away by any of those mechanisms:
 
-> "Ask Celeste."
+Girl. Not the costume of it. Not being made to perform it. Not somebody taking Charlie by the shoulders and declaring what he secretly is.
 
-Four syllables.
+Just the eventually discovered fact that being understood that way *feels right*. That *she* isn't merely preferable because he hurts. That girl isn't merely an escape hatch from boy. There is positive desire there.
 
-Years of history.
+### To Keep in Mind
 
----
+he rewrite has required you to relinquish some extremely satisfying machinery. We've repeatedly encountered moments where the older version effectively whispered, *See? There she is*. And we've been taking a red pencil to them.
 
-Trust is even subtler. Trust isn't usually expressed as praise. It's expressed as **absence of supervision**. Readers notice things like:
+No. *Charlie pressed his shirt because Wardrobe taught him standards.*
 
-* Mara doesn't check Celeste's measurements.
-* Mara doesn't look over her shoulder.
-* Mara hands her the workshop keys.
-* Mara leaves Charlie with her.
-* Mara finishes someone else's sentence because she already knows where it's going.
+No. *Charlie wore the garment because Mara needed diagnostic information.*
 
-Those are all trust.
+No. *Charlie wanted to stay among women because he'd finally found a social environment in which his peculiarities had value.*
 
----
+<!-- vale off -->
+No. *Charlie feared masculinisation partly because he misunderstood what made those women trust him.*
+<!-- vale on -->
 
-I also noticed something else about your section breakdown:
+No. *Charlie took an anti-androgen because he wanted something to stop, not because he'd secretly selected the destination.*
 
-1. **Wardrobe**
-2. **Problem**
-3. **Proposal**
+That's a remarkable stripping-away process, because we're deliberately removing things that would make the transition easier to explain.
 
-That's actually a very elegant progression. The first section says, "This is the world." The second says, "Here is the disruption." The third says, "Here is how this world responds."
+And what's left underneath is much more difficult. **Charlie eventually wants to be female.** But now the novel has to earn that sentence. Not through clothing. Not through feminine mannerisms. Not through sexual fantasy. Not through an essentialist woman within. Not because women are nicer to him. Not because Celeste wants it. Not because the clinicians diagnose it. Not because his author already knows Charlotte exists.
 
-That's structurally much cleaner than thinking in terms of "introduce Mara", "introduce Graham", "introduce Celeste". Those are by-products. The reader experiences the *world* first, then the people.
+After all those explanations have been removed, Charlie eventually has to discover something irreducibly his: **I want this.**
 
----
+And this connects beautifully with what you've just said about your own change in understanding. There seems to have been a movement from fantasy about womanhood toward curiosity about women. Those are enormously different orientations.
 
-One thought I'd keep in the back of your mind while editing. You've spoken before about reducing **cognitive load**, and I think that's the hidden objective here. Every sentence in Section One should answer only one question:
+*Fantasy asks:* What would it feel like if I crossed into that category?
 
-> **"What sort of place is Wardrobe?"**
+**Curiosity asks:** What is this category I've been romanticising in the first place? What does womanhood actually consist of in lived experience? How much of what I've associated with it is clothing, convention, sexuality, projection, stereotype, social power, relationship—and how much survives when I strip those things away?
 
-Not,
+There isn't going to be one tidy answer to that. Women themselves wouldn't agree on one. And that's rather the point. The simplistic model offers an attractively complete answer. The mature model produces more questions.
 
-> "What is Wardrobe, and who is Mara, and how experienced is Celeste, and how does Graham fit in, and what does Charlie think..."
+Which brings me back to stuck.
 
-The more each section has a single job, the more effortlessly the reader moves through it. And I think your plan naturally leads you there. Finally, I smiled when I read:
+I think you really could have remained there, because *fantasy can be extraordinarily self-sealing when it is also rewarding*. If a particular conception of womanhood provides identity, emotional relief, erotic satisfaction and narrative material, there are a lot of incentives not to interrogate it too closely. The interrogation risks spoiling the magic.
 
-> *I'm not going to flesh those out in exposition, but rather, firm up their conversation.*
+Except, in your case, something interesting happened. Interrogating it didn't impoverish the story.
 
-A year ago, I suspect your instinct would have been to add a paragraph explaining the history. Today your instinct is to sharpen the dialogue until the history becomes obvious. That's a significant evolution in your writing. You're increasingly trusting the reader to assemble the picture from the characters' behaviour instead of handing them the completed puzzle. In novels like yours—where relationships are the engine of the story—that trust pays enormous dividends. 🌿
+**It blew the bloody doors off.** 😄
+
+Because beneath the comparatively straightforward transformation narrative was this much stranger story about belonging, perception, gender, safety, bodily autonomy, social categorisation, projection, desire and agency. And perhaps Unhidden is an unusually apt title for reasons we didn't entirely appreciate when it was chosen. The obvious thing being unhidden is Charlotte.
+
+But increasingly, I don't think that's the most interesting revelation.
+
+*The story itself was hidden.*
+
+The first version got you close enough to it to start digging. 🌿
 
 <hr class="section-break strong" />
 

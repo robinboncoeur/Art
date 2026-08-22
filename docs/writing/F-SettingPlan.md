@@ -13,9 +13,9 @@
 									Windows To The Faire
 				┌──────────────────────────────────────────┐
 				│                                          │
-				│  MACHINE WALL             MACHINE WALL   │
-				│  ┌─────┐ ┌─────┐         ┌───---──┐      │
-				│  │Lucy?│ │Leah │         │repair  │      │
+				┴  MACHINE WALL             MACHINE WALL   │
+Faire →    ┌─────┐ ┌─────┐         ┌───---──┐      │
+				┬  │Lucy?│ │Leah │         │repair  │      │
 				│  └─────┘ └─────┘         │Charlie │      │
 				│                          └-──--───┘      │
 				│                                          │
@@ -29,7 +29,7 @@
 				│  THREAD / NOTIONS      IRON / PRESSING   │
 				│  drawers & shelving    STEAMER           │
 				│                                          │
-Faire → │ DOOR                                     │
+        │                                          │
 				├──────────────────────┬───────────────────┤
 				│ FITTING / STORAGE    │ LAUNDRY / DIRTY   │
 				│                      │                   │
