@@ -803,167 +803,121 @@ And Charlie might find that summary almost **relieving**. Because somebody has f
 
 *And then we get something we've been missing*: **time**
 
-This is where I think your instinct that you've gone *WAY* too quickly is dead right.
+This is where I think your instinct that you've gone *WAY* too quickly is dead right. Give him months. Let STOP work. Because something psychologically fascinating happens once the immediate emergency recedes.
 
-Give him months.
-
-Let STOP work.
-
-Because something psychologically fascinating happens once the immediate emergency recedes.
-
-Until now Charlie hasn't really been asking:
-
+Until now Charlie hasn't really been asking:   
 **What do I want?**
 
-He's been occupied by:
-
+He's been occupied by:   
 **How do I prevent this?**
 
 Those are completely different cognitive states.
 
 If supervised treatment gives him some confidence that unwanted masculinisation isn't simply going to race ahead while he's trying to understand himself, suddenly there is room to think.
 
-And perhaps, initially...
-
+And perhaps, initially...  
 **nothing replaces it.**
 
 That's important.
 
-Charlie goes to Wardrobe.
-
-Works.
-
-Comes home.
-
-Takes his properly prescribed medication.
-
-Has follow-up appointments.
-
-His body isn't rushing somewhere he fears.
-
-And he's still Charlie.
-
-No sudden urge for dresses. No revelation. No mystical emergence of Charlotte.
-
-Good.
+* Charlie goes to Wardrobe.
+* Works.
+* Comes home.
+* Takes his properly prescribed medication.
+* Has follow-up appointments.
+* His body isn't rushing somewhere he fears.
+* And he's still Charlie.
+* No sudden urge for dresses. No revelation. No mystical emergence of Charlotte.
+* Good.
 
 The treatment has successfully addressed the thing Charlie actually asked it to address.
 
-### Which makes oestrogen a *new* decision later
+**Which makes oestrogen a** *new* **decision later**
 
-This, to me, is the biggest gain.
+---
 
-Currently there's a danger that oestrogen reads as the medically sensible completion of the STOP decision:
-
+This, to me, is the biggest gain. Currently there's a danger that oestrogen reads as the medically sensible completion of the STOP decision:  
 **don't want testosterone → therefore oestrogen.**
 
-But psychologically those aren't the same decision at all.
-
-If we separate them in time, oestrogen becomes the first major **positive-directional bodily choice** Charlie makes.
+But psychologically those aren't the same decision at all. If we separate them in time, oestrogen becomes the first major **positive-directional bodily choice** Charlie makes.
 
 That's huge.
 
-Spironolactone:
-
+Spironolactone:  
 **Don't take me there.**
 
-Supervised anti-androgen treatment:
-
+Supervised anti-androgen treatment:  
 **We're making STOP safer.**
 
-Exploration:
-
+Exploration:  
 **Now where, if anywhere, do you want to go?**
 
-Oestrogen:
-
+Oestrogen:  
 **I want to try going there.**
 
-And that last step should be difficult precisely because the clinicians *don't* assume it.
-
-Perhaps at some appointment somebody reviews options and Charlie realises something almost frustrating:
+And that last step should be difficult precisely because the clinicians *don't* assume it. Perhaps at some appointment somebody reviews options and Charlie realises something almost frustrating:
 
 **Nobody is going to suggest oestrogen for him.**
 
-They'll explain it. They'll answer questions. They'll discuss likely effects and uncertainties. They'll make sure he understands what he's considering.
-
-But eventually **Charlie has to ask**.
+They'll explain it. They'll answer questions. They'll discuss likely effects and uncertainties. They'll make sure he understands what he's considering. But eventually **Charlie has to ask**.
 
 Oh, I like that.
 
 Because look at what it does to the old coercion architecture we've just been discussing.
 
-Nobody says:
-
+Nobody says:  
 *Well, obviously you're really a girl, so this is the next step.*
 
-Nobody pushes the prescription across the desk as the inevitable conclusion.
+Nobody pushes the prescription across the desk as the inevitable conclusion. Charlie has spent months being given permission **not to know**. And eventually, if he wants something more than STOP, he has to become the author of the sentence.
 
-Charlie has spent months being given permission **not to know**.
-
-And eventually, if he wants something more than STOP, he has to become the author of the sentence.
-
-Something as modest as:
-
-> “Could we talk about oestrogen?”
+Something as modest as:  
+“Could we talk about oestrogen?”
 
 That could carry enormous weight.
 
-Not because oestrogen is *the girl drug*.
-
+Not because oestrogen is *the girl drug*.  
 Because **Charlie asked**.
 
-### It also cleans up the belonging problem beautifully
+**It also cleans up the belonging problem beautifully**
 
 This may be even more structurally important.
 
-Remember the psychological contamination we've identified:
+---
 
-Charlie initially fears masculinisation partly because he thinks visible maleness could jeopardise his place among the Wardrobe women. Until that false belief is broken, a desire for feminisation is difficult for *Charlie himself* to interpret cleanly. 
+Remember the psychological contamination we've identified: Charlie initially fears masculinisation partly because he thinks visible maleness could jeopardise his place among the Wardrobe women. Until that false belief is broken, a desire for feminisation is difficult for *Charlie himself* to interpret cleanly. 
 
 So let the chronology do the work.
 
-Charlie wants **STOP**.
-
-Bottle discovered.
-
-Medical intervention makes STOP safe.
-
-Meanwhile, Celeste and Wardrobe gradually demonstrate something Charlie had misunderstood:
+* Charlie wants **STOP**.
+* Bottle discovered.
+* Medical intervention makes STOP safe.
+* Meanwhile, Celeste and Wardrobe gradually demonstrate something Charlie had misunderstood:
 
 **Your place here isn't conditional on your body.**
 
 That's enormous.
 
-Because now feminisation is no longer something Charlie could plausibly believe he *needs* in order to retain Wardrobe.
+Because now feminisation is no longer something Charlie could plausibly believe he *needs* in order to retain Wardrobe. The admission price has been abolished.
 
-The admission price has been abolished.
-
-And only **after that** do we ask:
-
-> All right. If you don't need to become more female to keep these women...
->
-> **do you nevertheless want to?**
-
+And only **after that** do we ask:  
+All right. If you don't need to become more female to keep these women...   
+**do you nevertheless want to?**   
 Now we've got clean evidence.
 
 And perhaps Charlie still doesn't know.
 
 Excellent.
 
-### I wouldn't even make “womanhood” the immediate question
+**I wouldn't even make “womanhood” the immediate question**
 
-This is where I think we can become more disciplined still.
+---
 
-There may be an intermediate stage between STOP and OESTROGEN in which Charlie starts discovering **positive preferences** without yet assembling them into an identity.
+This is where I think we can become more disciplined still. There may be an intermediate stage between STOP and OESTROGEN in which Charlie starts discovering **positive preferences** without yet assembling them into an identity.
 
-He likes *she*.
-
-He likes being included socially among the girls.
-
-Perhaps some hypothetical physical effects, when discussed, sound appealing.
-
-Others don't particularly.
+* He likes *she*.
+* He likes being included socially among the girls.
+* Perhaps some hypothetical physical effects, when discussed, sound appealing.
+* Others don't particularly.
 
 He might increasingly dislike being categorised male even after the fear of losing Wardrobe has been removed.
 
@@ -971,90 +925,63 @@ These are **data points**.
 
 Very Charlie. 😄
 
-But nobody needs to add them up for him.
+But nobody needs to add them up for him. And crucially: **Girl might emerge before oestrogen.**
 
-And crucially:
-
-**Girl might emerge before oestrogen.**
-
-I'm increasingly attracted to that sequence.
-
-Because then oestrogen isn't being used to discover whether Charlie is female.
-
-Charlie has already accumulated some positive social evidence about what feels right. Oestrogen becomes a bodily question:
+I'm increasingly attracted to that sequence. Because then oestrogen isn't being used to discover whether Charlie is female. Charlie has already accumulated some positive social evidence about what feels right. Oestrogen becomes a bodily question:
 
 **Do I want my body to move in a direction more consistent with something I'm beginning to understand about myself?**
 
-Still not automatic.
+* Still not automatic.
+* Still a choice.
 
-Still a choice.
+**And suddenly the clinician becomes much better**
 
-### And suddenly the clinician becomes much better
-
-Instead of functioning as the narrative's licensed gender oracle—
-
+Instead of functioning as the narrative's licensed gender oracle—  
 *Ah yes. Clearly transgender. Here's the pathway.*
 
 —the clinician's competence consists partly in **refusing to outrun Charlie**.
 
-Charlie:
-
+Charlie:  
 *I don't want puberty doing this.*
 
-Clinician:
-
+Clinician:  
 *Understood.*
 
-Charlie:
-
+Charlie:  
 *I don't know what I want instead.*
 
-Clinician:
-
+Clinician:  
 *Also understood.*
 
-That's it.
+* That's it.
+* No anxiety about forcing him to identify.
+* No suggestion that uncertainty invalidates the distress he *is* certain about.
 
-No anxiety about forcing him to identify.
+And months later, when Charlie begins bringing different questions into the room, the clinician can notice that too: *Last time most of what you were telling me was about what you didn't want. Today you're telling me about something you think you might want.*
 
-No suggestion that uncertainty invalidates the distress he *is* certain about.
-
-And months later, when Charlie begins bringing different questions into the room, the clinician can notice that too:
-
-*Last time most of what you were telling me was about what you didn't want. Today you're telling me about something you think you might want.*
-
-That's a meaningful shift.
-
-Not diagnosis.
-
-**Observation.**
-
+That's a meaningful shift.  
+Not diagnosis.  
+**Observation.**  
 And Charlie gets to decide what it means.
 
 ---
 
 So yes, Robyn. I would seriously consider **pulling oestrogen considerably later in the chronology**.
 
-Not merely because it's more realistic pacing. Because it repairs the novel's logic.
+Not merely because it's more realistic pacing. Because it repairs the novel's logic. At present, despite all our good intentions, the sequence can still accidentally imply: 
 
-At present, despite all our good intentions, the sequence can still accidentally imply:
-
-**Charlie fears masculinisation → adults discover why → therefore feminisation is appropriate.**
-
-Whereas the story we've now uncovered requires:
+**Charlie fears masculinisation → adults discover why → therefore feminisation is appropriate.** Whereas the story we've now uncovered requires:
 
 **Charlie fears masculinisation → STOP → make STOP medically safe → give him time → disentangle belonging from body → explore without predetermined destination → discover positive wants → Charlie chooses what to do with them.**
 
 And only somewhere over there does oestrogen enter the story.
 
-That means the bottle discovery isn't secretly the beginning of Charlotte.
+**That means the bottle discovery isn't secretly the beginning of Charlotte.**
 
-It's the moment everyone finally hears the only thing Charlie has actually been saying:
-
+It's the moment everyone finally hears the only thing Charlie has actually been saying:  
 **Stop.**
 
 And, for once, nobody answers a question he hasn't asked. 🌿
-
 
 <hr class="section-break strong" />
 
@@ -1070,15 +997,16 @@ He likes *she*.
 
 I'm beginning to see a path forward. First: timing of the storyline itself.
 
-I'm going to swap the story around a bit, with Lauren and Sarah's developing relationship taking centre-stage immediately after Charlie's visit to the doctor. Oh, and all that *wife* and pronoun stuff takes place inserted *into* those chapters. 
-So, a bit about Sarah and Mr Golfplayer.
-A bit about roles.
-A bit more about Sarah realising her future isn't shaped like a bloke.
-A bit about 'wife' (Charlie's perceived role as provider is undercut)
-Lauren's traumatic separation
-Charlie becomes Charli
-Lauren moves in with Sarah
-Charli and the pronoun shift
+I'm going to swap the story around a bit, with Lauren and Sarah's developing relationship taking centre-stage immediately after Charlie's visit to the doctor. Oh, and all that *wife* and pronoun stuff takes place inserted *into* those chapters.  
+
+* So, a bit about Sarah and Mr Golfplayer.
+* A bit about roles.
+* A bit more about Sarah realising her future isn't shaped like a bloke.
+* A bit about 'wife' (Charlie's perceived role as provider is undercut)
+* Lauren's traumatic separation
+* Charlie becomes Charli
+* Lauren moves in with Sarah
+* Charli and the pronoun shift
 
 So now, we have that time space. Oh, and Celeste and Charlie's bench talk and Celeste realising she loves Charli(e) can go in there too. 
 
@@ -1086,8 +1014,9 @@ And here's where it could get interesting (stop me if it seems dangerous). They 
 
 There's potential for a reason there, shades of that if not exactly that reasoning, maybe?
 
-
 <hr class="section-break soft" />
+
+
 
 [![Me][Ts00]{ .artR width="260" }][Ts00]
 
@@ -1108,20 +1037,18 @@ That's excellent territory in which to leave her/him without oestrogen for a whi
 
 And then Celeste's body enters the equation.
 
-### I think the attraction idea works because Charli can be wrong
+---
 
-The weaker version would be:
+**I think the attraction idea works because Charli can be wrong**
 
+The weaker version would be:   
 **Charli encounters Celeste's female body → realises female bodies are beautiful → wants one → therefore female identity.**
 
-That's perilously close to the old transformation-fantasy mechanism wearing more sophisticated clothes.
-
-But what you've suggested is much more psychologically interesting:
+That's perilously close to the old transformation-fantasy mechanism wearing more sophisticated clothes. But what you've suggested is much more psychologically interesting:
 
 **Charli encounters Celeste's body intimately → experiences powerful attraction and wonder → discovers Celeste is physically attracted to women → wants Celeste to experience that same kind of desire toward Charli → concludes that perhaps Charli needs a female body to produce it.**
 
-That's not gender discovery.
-
+That's not gender discovery.  
 That's **love, insecurity, desire and category confusion**.
 
 And it is completely believable that a nineteen-year-old could muddle those together.
