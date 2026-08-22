@@ -1,6 +1,6 @@
 # Story Canon
 
-[![The Idea][Bnr01b]{ .artC width="800" }][Bnr01b]
+[![The Idea][Brb01]{ .artC width="800" }][Brb01]
 
 <hr class="section-break strong" />
 
@@ -150,7 +150,7 @@ Note: *Earlier conceptions placing it on the Gold Coast have been superseded.*
 
 ## 4. Characters' Dossiers
 
-[![img][St04]{ .artR width="460" }][St04]
+[![img][S03a]{ .artR width="460" }][S03a]
 
 
 ### 4.1 Charlie / Charli / Charlotte Rossignol
@@ -248,7 +248,7 @@ She repeatedly demonstrates an instinctive respect for materials. Whether it's m
 
 ### 4.2 Celeste Shelley
 
-[![img][Ban1]{ .artR width="460" }][Ban1]
+[![img][Stn1]{ .artR width="460" }][Stn1]
 
 #### Core identity
 **Locked canon**
@@ -348,8 +348,10 @@ Celeste represents “home” to Charli, not merely in romance but in emotional 
 
 
 
-## 4.7 Mara Tallbanks
+## 4.3 Mara Tallbanks
 **Locked / broader canon**
+
+[![img][S23a]{ .artR width="160" }][S23a]
 
 Mara is part of the women’s competence network and is linked to training, professionalism, and Charli’s status change. She is dry, standards-led, and non-sentimental. A costume maker who believes people's hands reveal their character long before their words do.
 
@@ -362,6 +364,32 @@ Mara’s evolution in how she names Charli signals status change and metamorphos
 * How does she choose volunteers?
 * What disappointments has she absorbed without becoming bitter?
 
+
+### Status
+**Locked broader dossier**
+
+### Essence
+Mara belongs to the women’s competence network and represents standards, professionalism, and dry female authority.
+
+### Core qualities
+- exacting
+- dry
+- practical
+- structurally minded
+- not sentimental
+- professionally formative
+
+### Story function
+- helps place Charli professionally
+- reflects status change through naming shifts
+- contributes to the network of women who guide without rescuing
+
+### Thematic role
+Mara belongs to the triad of women who shape Charli differently:
+- one understands personally
+- one directs socially
+- one trains professionally
+
 <hr class="section-break soft" />
 
 
@@ -370,8 +398,10 @@ Mara’s evolution in how she names Charli signals status change and metamorphos
 
 
 
-## 4.6 Lauren Rossignol
+## 4.4 Lauren Rossignol
 **Locked canon**
+
+[![img][S08a]{ .artR width="460" }][S08a]
 
 Lauren is part of the wider women-led network and has previously featured in emotionally significant scenes. She is associated with steadiness, survival, and practical recovery. A nurse who instinctively cares for people before judging them, but who has spent years doubting her own perceptions.
 
@@ -388,9 +418,28 @@ She belongs to the broader female competence network around Wardrobe. Points to 
 * Things she believes to be true at the opening of the story.
 * Things she doesn't yet know.
 
+---
 
+### Status
+**Locked broader dossier**
+
+### Essence
+Lauren is associated with steadiness, practical survival, and emotional recovery within the wider women-led network.
+
+### Core qualities
+- grounded
+- recovering / resilient
+- emotionally important in her own right
+- shaped by survival and untangling difficult structures
+
+### Function
+Lauren helps embody the broader truth that Wardrobe’s women do not merely speak well; they survive, organise, and act.
+
+
+### Relationship
 
 And Roger? A man who mistakes fulfilling responsibility for understanding the people he's is responsible for.
+
 <hr class="section-break soft" />
 
 
@@ -398,9 +447,12 @@ And Roger? A man who mistakes fulfilling responsibility for understanding the pe
 
 
 
-## 4.3 Sarah St Michaels
 
-[![img][St06]{ .artR width="460" }][St06]
+
+
+## 4.6 Sarah St Michaels
+
+[![img][St14]{ .artR width="460" }][St14]
 
 **Locked canon**
 
@@ -431,11 +483,141 @@ Sarah’s voice should remain dry, sharp, and consistent even if the wider narra
 
 
 
+## 4.7 Leah
 
-## 4.4 Brittany Finlayson
+### Status
+**Locked broader dossier**
+
+### Essence
+Leah...
+
+### Core qualities
+
+-
+
+### Story function
+
+-
+
+### Thematic role
+
+<hr class="section-break strong" />
 
 
-[![img][St07]{ .artR width="460" }][St07]
+
+
+
+
+
+
+## 4.8 Lucy
+
+### Status
+**Locked broader dossier**
+
+### Essence
+Lucy...
+
+### Core qualities
+
+-
+
+### Story function
+
+-
+
+### Thematic role
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+## 4.9 Tahlia
+
+### Status
+**Locked broader dossier**
+
+### Essence
+Tahlia...
+
+### Core qualities
+
+-
+
+### Story function
+
+-
+
+### Thematic role
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+## 4.10 Bree
+
+### Status
+**Locked broader dossier**
+
+### Essence
+Bree...
+
+### Core qualities
+
+-
+
+### Story function
+
+-
+
+### Thematic role
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+
+## 4.11 Lily
+
+### Status
+**Locked broader dossier**
+
+### Essence
+Bree...
+
+### Core qualities
+
+-
+
+### Story function
+
+-
+
+### Thematic role
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+
+## 4.12 Brittany Finlayson
+
+
+[![img][St11]{ .artR width="460" }][St11]
 
 
 **Locked canon / emerging canon**
@@ -494,10 +676,10 @@ Brittany earns trust **not by demanding truth, but by handling ambiguity with gr
 
 
 
-## 4.5 Fiona March
+## 4.13 Fiona March
 
 
-[![img][St08]{ .artR width="460" }][St08]
+[![img][St08]{ .artR width="160" }][St08]
 
 
 **Locked canon (limited but usable)**
@@ -508,11 +690,78 @@ At present, Fiona serves as evidence that Charli’s teaching mode is legitimate
 
 ---
 
+### Status
+**Limited but usable dossier**
 
----
+### Essence
+Fiona is one of the local figures whose respect matters. She helps signal whether Charli’s teaching competence is landing.
 
+### Core qualities currently established
+- practical enough that her respect carries weight
+- part of the social/professional environment around Charli
+
+### Current narrative function
+Fiona’s regard helps establish that Charli is becoming credible and valued in the new setting.
 
 <hr class="section-break strong" />
+
+
+
+
+
+
+
+
+## 4.14 Graham
+
+### Status
+**Locked broader dossier**
+
+### Essence
+Bree...
+
+### Core qualities
+
+-
+
+### Story function
+
+-
+
+### Thematic role
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+
+
+
+## 4.15 Lisbeth
+
+### Status
+**Locked broader dossier**
+
+### Essence
+Lisbeth...
+
+### Core qualities
+
+-
+
+### Story function
+
+-
+
+### Thematic role
+
+<hr class="section-break strong" />
+
+
 
 
 
@@ -1300,36 +1549,6 @@ Sarah’s dryness and standards-driven nature should remain stable even as the o
 
 
 
-### 17.5 Mara dossier
-
-
-[![img][St23]{ .artR width="460" }][St23]
-
-
-#### Status
-**Locked broader dossier**
-
-#### Essence
-Mara belongs to the women’s competence network and represents standards, professionalism, and dry female authority.
-
-#### Core qualities
-- exacting
-- dry
-- practical
-- structurally minded
-- not sentimental
-- professionally formative
-
-#### Story function
-- helps place Charli professionally
-- reflects status change through naming shifts
-- contributes to the network of women who guide without rescuing
-
-#### Thematic role
-Mara belongs to the triad of women who shape Charli differently:
-- one understands personally
-- one directs socially
-- one trains professionally
 
 <hr class="section-break strong" />
 
@@ -1340,56 +1559,10 @@ Mara belongs to the triad of women who shape Charli differently:
 
 
 
-### 17.6 Lauren dossier
-
-
-[![img][St24]{ .artR width="460" }][St24]
-
-
-#### Status
-**Locked broader dossier**
-
-#### Essence
-Lauren is associated with steadiness, practical survival, and emotional recovery within the wider women-led network.
-
-#### Core qualities
-- grounded
-- recovering / resilient
-- emotionally important in her own right
-- shaped by survival and untangling difficult structures
-
-#### Function
-Lauren helps embody the broader truth that Wardrobe’s women do not merely speak well; they survive, organise, and act.
 
 ---
 
-### 17.7 Fiona dossier
 
-#### Status
-**Limited but usable dossier**
-
-#### Essence
-Fiona is one of the local figures whose respect matters. She helps signal whether Charli’s teaching competence is landing.
-
-#### Core qualities currently established
-- practical enough that her respect carries weight
-- part of the social/professional environment around Charli
-
-#### Current narrative function
-Fiona’s regard helps establish that Charli is becoming credible and valued in the new setting.
-
-
-Family background.
-Nursing career.
-Personality.
-Strengths.
-Blind spots.
-Marriage to Roger.
-Relationship with Charlie before the novel begins.
-Core values.
-Things she believes to be true at the opening of the story.
-Things she doesn't yet know.
-<hr class="section-break strong" />
 
 
 
@@ -1907,46 +2080,61 @@ I stopped to taste it. “French for: Nightingale.”
 
 <!--   Image Links    /-->
 
-[Bnr01b]: ../assets/images/base/Bnr01b.jpg
+[Brb35]: ../assets/images/base/Bnr35b.jpg
+[Bra01]: ../assets/images/base/Bnr01a.jpg
+[Brb01]: ../assets/images/base/Bnr01b.jpg
+[Bra02]: ../assets/images/base/Bnr02a.jpg
+
+[S01a]: ../assets/images/story/Scene01a.jpg
+[S02a]: ../assets/images/story/Scene02a.jpg
+[S03a]: ../assets/images/story/Scene03a.jpg
+[S04a]: ../assets/images/story/Scene04a.jpg
+[S05a]: ../assets/images/story/Scene05a.jpg
+[S06a]: ../assets/images/story/Scene06a.jpg
+[S07a]: ../assets/images/story/Scene07a.jpg
+[S08a]: ../assets/images/story/Scene08a.jpg
+[S09a]: ../assets/images/story/Scene09a.jpg
+[S10a]: ../assets/images/story/Scene10a.jpg
+[S11a]: ../assets/images/story/Scene11a.jpg
+[S12a]: ../assets/images/story/Scene12a.jpg
+[S13a]: ../assets/images/story/Scene13a.jpg
+[S14a]: ../assets/images/story/Scene14a.jpg
+[S15a]: ../assets/images/story/Scene15a.jpg
+[S16a]: ../assets/images/story/Scene16a.jpg
+[S17a]: ../assets/images/story/Scene17a.jpg
+[S18a]: ../assets/images/story/Scene18a.jpg
+[S19a]: ../assets/images/story/Scene19a.jpg
+[S20a]: ../assets/images/story/Scene20a.jpg
+[S21a]: ../assets/images/story/Scene21a.jpg
+[S22a]: ../assets/images/story/Scene22a.jpg
+[S23a]: ../assets/images/story/Scene23a.jpg
+[S24a]: ../assets/images/story/Scene24a.jpg
+[S25a]: ../assets/images/story/Scene25a.jpg
+[S56a]: ../assets/images/story/Scene56a.jpg
+
+
 [St00]: ../assets/images/base/00Writer.jpg
-
-[St01]: ../assets/images/story/Scene01a.jpg
-[St02]: ../assets/images/story/Scene02a.jpg
-[St03]: ../assets/images/story/Scene03a.jpg
-[St04]: ../assets/images/story/Scene04a.jpg
-[St05]: ../assets/images/story/Scene05a.jpg
-[St06]: ../assets/images/story/Scene06a.jpg
-[St07]: ../assets/images/story/Scene07a.jpg
-[St08]: ../assets/images/story/Scene08a.jpg
-[St09]: ../assets/images/story/Scene09a.jpg
-[St10]: ../assets/images/story/Scene10a.jpg
-[St11]: ../assets/images/story/Scene11a.jpg
-[St12]: ../assets/images/story/Scene12a.jpg
-[St13]: ../assets/images/story/Scene13a.jpg
-[St14]: ../assets/images/story/Scene14a.jpg
-[St15]: ../assets/images/story/Scene15a.jpg
-[St16]: ../assets/images/story/Scene16a.jpg
-[St17]: ../assets/images/story/Scene17a.jpg
-[St18]: ../assets/images/story/Scene18a.jpg
-[St19]: ../assets/images/story/Scene19a.jpg
-[St20]: ../assets/images/story/Scene20a.jpg
-[St21]: ../assets/images/story/Scene21a.jpg
-[St22]: ../assets/images/story/Scene22a.jpg
-[St23]: ../assets/images/story/Scene23a.jpg
-[St24]: ../assets/images/story/Scene24a.jpg
-[St25]: ../assets/images/story/Scene25a.jpg
-[St26]: ../assets/images/story/Scene26a.jpg
-[St27]: ../assets/images/story/Scene27a.jpg
-[St28]: ../assets/images/story/Scene28a.jpg
-[St29]: ../assets/images/story/Scene29a.jpg
-[St30]: ../assets/images/story/Scene30a.jpg
-[St31]: ../assets/images/story/Scene31a.jpg
-[St32]: ../assets/images/story/Scene32a.jpg
-[St33]: ../assets/images/story/Scene33a.jpg
-[St34]: ../assets/images/story/Scene34a.jpg
-[St35]: ../assets/images/story/Scene35a.jpg
-
-[Ban1]: ../assets/images/base/01nCeleste.jpg
+[Ts00]: ../assets/images/base/00Emily.jpg
+[Sta1]: ../assets/images/base/01aKaimu.jpg
+[Stb1]: ../assets/images/base/01vRead.jpg
+[Stc1]: ../assets/images/base/01cActress.jpg
+[Std1]: ../assets/images/base/01dLily.jpg
+[Ste1]: ../assets/images/base/01eWinter.jpg
+[Stn1]: ../assets/images/base/01nCeleste.jpg
+[St01]: ../assets/images/base/01aBout.jpg
+[St02]: ../assets/images/base/02music.jpg
+[St03]: ../assets/images/base/03mists.jpg
+[St04]: ../assets/images/base/04maiden.jpg
+[St05]: ../assets/images/base/05flight.jpg
+[St06]: ../assets/images/base/06office.jpg
+[St07]: ../assets/images/base/07WritingFriday.jpg
+[St08]: ../assets/images/base/08maiden.jpg
+[St09]: ../assets/images/base/09aParis.jpg
+[St10]: ../assets/images/base/10montvl.jpg
+[St11]: ../assets/images/base/11bdress.jpg
+[St12]: ../assets/images/base/12accost.jpg
+[St13]: ../assets/images/base/13donga.jpg
+[St14]: ../assets/images/base/14Sarah.jpg
 
 <!--
 😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 👗 👚 👜 👠 🩰 💄  💞 💖 ❤️ 💋 🎻 📒 🩸 💧 🚺 ❤️ 🫧 🌩 🌧 🧵 🪡 —
