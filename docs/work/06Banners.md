@@ -5,6 +5,7 @@
 [A]  
 I'm so glad to hear that, girlfriend — switching to MkDocs with the Material theme is a game-changer for clarity and ease, and I'm thrilled it's working out for you! Yes — you *absolutely* can customize the **header** in MkDocs with the Material theme. Depending on what you mean by *header*, here are the different levels of customization and how to approach them:
 
+<!-- vale off -->
 <hr class="section-break strong" />
 
 

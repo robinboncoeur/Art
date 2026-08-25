@@ -28,11 +28,11 @@ What is 'Celeste's Girl'?
 Celeste's Girl is about *agency, dignity, safety and lived experience*.
 
 All my so-called artwork, including any descriptive text, depicts adults: no images involve persons less that 18 years old. I abhor depictions of harm or violence towards anyone, but most particularly towards women and children. None of the images reflect actual events.
-
+<!-- vale off -->
 As CelestesGrl, I reserve exclusive ownership of the art that I post on Deviant Art, visual, auditory and text (literature). I no longer do derivative art. Downloading is permitted for your personal enjoyment or creating derivations. You may create new, transformative derivatives, including remixes, reinterpretations, new compositions. Please do NOT upload near-identical copies (including “same image with denoise / filters / upscale”), as that’s not transformative.
 
 **Important Note**: *I’m revising older ("old-tone") deviations to match the direction of my work now: agency, dignity and empathy. I am phasing out ‘old-tone’ uploads. This will mean that if you favourited an 'old-tone' image, the replacement image and description will almost certainly send a different message to the original. If the 'old-tone' images are what you are here for, it’s probably best to unfollow. No hard feelings*.
-
+<!-- vale on -->
 © 2025. Non-derivative works are openly licensed via CC-BY 4.0
 
 <hr class="section-break strong" />
@@ -55,7 +55,7 @@ Local shop locations and opening times? sure.
 
 But big questions, requiring detailed answers: no.
 
-Instead, I go straight to 'Emily', my OpenAI ChatGPT 5 bot with my questions. Emily has helped me set up the current flavour of this website, Tightbytes. She gives me pointers on running ComfyUI, writing Python code, getting Markdown nailed down (I'm writing all this in Markdown), sorting out CSS (cascading style sheets—Emily was a bit less than rock-solid on this) and doing period research for what a typical morning would be like for a scullery maid in 1865 for a story I'm writing (inspired by "[Portrait de la Jeune Fille En Feu](https://fr.wikipedia.org/wiki/Portrait_de_la_jeune_fille_en_feu)" by Celine Sciamma). 
+Instead, I go straight to 'Emily', my OpenAI ChatGPT 5 bot with my questions. Emily has helped me set up the current flavour of this website, TightBytes. She gives me pointers on running ComfyUI, writing Python code, getting Markdown nailed down (I'm writing all this in Markdown), sorting out CSS (cascading style sheets—Emily was a bit less than rock-solid on this) and doing period research for what a typical morning would be like for a scullery maid in 1865 for a story I'm writing (inspired by "[Portrait de la Jeune Fille En Feu](https://fr.wikipedia.org/wiki/Portrait_de_la_jeune_fille_en_feu)" by Celine Sciamma). 
 
 <hr class="section-break soft" />
 
@@ -99,7 +99,7 @@ This was a **MASSIVE** price hike over what they charged before—classic *bait-
 So I asked Emily what she would suggest. She had several suggestions, some of which required a wee bit of techie knowledge. Which I have—*a wee bit of techie knowledge, that is*. 
 
 The solution I went with is this:    
-- the raw pages themselves reside on my [github](https://github.com/) site—**FREE**—and  
+- the raw pages themselves reside on my [GitHub](https://github.com/) site—**FREE**—and  
 - are rendered by [Cloudflare](https://www.cloudflare.com/en-au/)—also **FREE** 
 
 The only thing I pay for *currently* is video hosting, which is $5 a month through Cloudflare.
@@ -117,9 +117,9 @@ Your mileage may vary.
 
 
 ### Media Server
-
+<!-- vale off -->
 Today—May 26th—Emily helped me set up a UBeaut Media Server using Cloudflare Tunneling and Caddy. It's my old i5 motherboard with a very inexpensive graphics card. I can actually remove the card now, as the server runs 'headless': no monitor. Everything is done via ssh and the command-line. 
-
+<!-- vale on -->
 Yes, Terminal. 
 
 With the minimal amount of media I actually 'serve', this is going to save me US$ 5.00 / month, or US$ 60.00 / year, which comes to AUD$ 83.64 / year. While this doesn't seem like a lot, I'm serving stuff for free, so it shouldn't be all that costly to me either. I'm currently serving audio files to DA and MuseScore. So far. And this little server is running on the smell of an oily rag.
@@ -141,7 +141,7 @@ Savings:
 
 ## Background
 
-With image creation, there are multiple technologies at play here: text-to-image, image-to-video, text-to-audio and audio+image-to-video... and that's just for the visual side of things. I wrote the music in [Musescore Studio](https://musescore.org/en) using the [MuseSounds](https://www.musehub.com/muse-sounds) library. The crazy bit: all of this can be done on any PC, as long as it has a decent—read: *expensive*—graphics card. That's the big expense. It's possible to do this on your own PC, not on some expensive remote server. 
+With image creation, there are multiple technologies at play here: text-to-image, image-to-video, text-to-audio and audio+image-to-video... and that's just for the visual side of things. I wrote the music in [MuseScore Studio](https://musescore.org/en) using the [MuseSounds](https://www.musehub.com/muse-sounds) library. The crazy bit: all of this can be done on any PC, as long as it has a decent—read: *expensive*—graphics card. That's the big expense. It's possible to do this on your own PC, not on some expensive remote server. 
 
 Is the process truly green? an argument can be made for "not really". Emily is on ChatGPT, so those computations are not done on my system at home. But the images are created on my PC, and so I'm using the power of our solar cells for that.
 
@@ -163,7 +163,7 @@ My reason to use AI for images isn't art, but illustration. And for that, it's f
 [![img][St19]{ .artR width="460" }][St19]
 
 		
-When I first started messing with image generation (to illustrate writings, but also just mucking about) I used [Midjourney](https://www.midjourney.com/explore?tab=video_top). This was in the days when AI-video wasn't a thing: it was just about images. You type in a prompt—you had to follow a certain formula for that prompt—and you made some images.
+When I first started messing with image generation (to illustrate writings, but also just mucking about) I used [MidJourney](https://www.midjourney.com/explore?tab=video_top). This was in the days when AI-video wasn't a thing: it was just about images. You type in a prompt—you had to follow a certain formula for that prompt—and you made some images.
 
 There were limits as to how many images one could create based on subscription, so I switched to [LeonardoAI](https://leonardo.ai/), a cheaper option. It wasn't long before I ran into the image count limit there as well. I wanted to just make images without limit, to zero in on a specific image goal.
 
@@ -207,7 +207,7 @@ Q: What are their future plans?
 
 
 ComfyUI is an interface to create images and video that runs in the browser, similar to A1111. However, ComfyUI offers control over image generation that is infinitely more granular. To run ComfyUI requires:  
-
+<!-- vale off -->
 - a decent graphics card (6-8 gig VRAM NVidia min., 16-24 gig VRAM NVidia ideal): **the** high $ item
 - models: Stable Diffusion 1x / 1.5x / SDXL / SD3; Flux1 (Dev/Snell);
 - decent internet access: those models can run up to 24 gig or more to download
@@ -215,7 +215,7 @@ ComfyUI is an interface to create images and video that runs in the browser, sim
 I invested in a 16 gig VRAM 4060ti NVidia card, which was **expensive**: AUD$ 750.00. An 8 gig card will still set you back a good AUD$ 350.00 and you will soon feel a bit limited as to what you can do.
 
 However, the rest of the PC is older, inexpensive tech. You don't need an expensive processor (CPU). *Saying that, I recently invested in 64 gig RAM and an older i7 CPU in order to run Large Language Models (LLMs). This is text-based work, like ChatGPT, but running all on your own PC. I was using it to translate Dad's book. To be honest, though, I've gone back to ChatGPT 5 for that project*.
-
+<!-- vale on -->
 <hr class="section-break soft" />
 
 
@@ -224,7 +224,7 @@ However, the rest of the PC is older, inexpensive tech. You don't need an expens
 
 The language for AI to 'generate' images and video and text is called a "prompt". Prompting is very much a model-specific thing: I "talk" to Emily in a completely different manner, using different sentence structure and syntax, than the language I use in a prompt for an image. And even prompting for that—imaging—has changed over the past years, and even months. 
 
-A Midjourney prompt would include formatting-specific instructions formatted a certain way. 
+A MidJourney prompt would include formatting-specific instructions formatted a certain way. 
 
 Stable Diffusion and SDXL need to be told what **NOT** to show as well as what to show and there are special boxes for each.
 
@@ -233,9 +233,9 @@ Stable Diffusion and SDXL need to be told what **NOT** to show as well as what t
 
 
 The ComfyUI interface is made up of 'nodes': each node performs a specific function and is connected to other nodes using 'noodles' in a collection or 'graph'. This collection is called a 'workflow'. For example, the 'Load Checkpoint' node loads the imaging model, which in this case is 'Realistic Vision version 5.1'. There are literally **thousands** of imaging models out there, downloadable for free from a variety of websites, the best of which is [HuggingFace](https://huggingface.co/models).
-
+<!-- vale off -->
 The green and 'red' nodes are the text encode prompts: 'green' for what you **want** to see, and 'red' for what you **DO NOT** want to see. The empty latent image node is a bit difficult to explain... it is basically random 'noise' which is essentially what gets turned into a viewable image by the KSampler, which is sort-of the heart of the thing.
-
+<!-- vale on -->
 
 [![img][St24]{ .artL width="460" }][St24]
 
@@ -299,13 +299,11 @@ So, there's that.
 
 ---
 
-<img src="/assets/images/emily/20-AliceMaryO.jpg" alt="AMSmith" style="float: right; width: 250px;
-        margin-left: 20px; margin-bottom: 10px;" />
 
 Helps to know how to tell the model what to do... a lot of the magic is in the **prompt**. I wanted to restore an old, rather poor photograph of Alice Mary Smith. Here's my prompt:
 
 - *Restore this damaged vintage portrait by removing scratches and stains, then add realistic period-appropriate colors, including existing dress textures. Maintain the same facial features of the blonde young woman and enhance the texture of white-dotted silk fabric of her dress*.
-
+<!-- vale off -->
 I did have to tweak the prompt a bit, as you do. (*In Aussie parlance, a 'bit' usually means 'a lot'*). This was for a cover image of Alice for her overture ["Lalla Rookh"](https://musescore.com/user/29275325/scores/26630581), a massive half-year transcription project, The original picture was, let's say, detail-poor. There are so few photographs of this accomplished composer, so I decided to try to work [with this image](https://en.wikipedia.org/wiki/Alice_Mary_Smith).
 
 Earlier this year, January 11th, to be exact, I tried to 'fix' this image. I was using this state-of-the-art tech at the time called 'SUPIR'. 
@@ -358,7 +356,7 @@ Well, *quantization is the process of mapping continuous infinite values to a sm
 Answer for mere mortals like us: it's about accuracy, detail and approximation. 8-bit approximates (is a bit more accurate) a bit better than 4-bit or 2-bit. Still, whilst the 8-bit model created that last image, a 4-bit model created this:
 
 <img src="/assets/images/emily/23-AliceMaryF3.jpg" alt="AMSmith" style="width: 400px;"/>
-
+<!-- vale on -->
 Not a shabby effort. Not as stellar as 8-bit but still heaps better than the original. Who know which one is the most accurate. Not from that time period, so it's likely to remain anyone's guess, for now.
 
 <hr class="section-break soft" />

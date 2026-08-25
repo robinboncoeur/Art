@@ -1065,7 +1065,7 @@ He doesn't yet possess one for understanding Lucy.
 
 **Charlie has secretly stopped puberty**
 
-Neither Celeste, as narrator, **nor the reader** knows at this point that Charlie has begun taking spironolactone.
+Neither Celeste, as narrator, **nor the reader** knows at this point that Charlie has begun taking Spironolactone.
 
 **That must remain hidden.**
 
@@ -1101,7 +1101,7 @@ The key word we established was:
 **_hint_**
 
 Neither Celeste nor the first-time reader should understand Charlie's reasoning yet.  
-Instead, we want perhaps two or three small **discoverables** across the relevant chapters.  
+Instead, we want perhaps two or three small **discoverable aspects** across the relevant chapters.  
 Something happens that, on first reading, means little.  
 An actress tells Charlie:
 
@@ -1121,13 +1121,13 @@ Again:
 
 **don't explain it.**
 
-Much later, once Celeste and the reader know about the spironolactone and understand Charlie's reasoning, those moments become retrospectively legible.
+Much later, once Celeste and the reader know about the Spironolactone and understand Charlie's reasoning, those moments become retrospectively legible.
 
 **Oh.**
 
 *That's what he thought was happening.*
 
-The discoverables should reward rereading, not solve the mystery during the first read.
+The discoverable aspects should reward rereading, not solve the mystery during the first read.
 
 ---
 
@@ -1161,13 +1161,13 @@ That is one of the strongest pieces of structural irony we've found.
 
 ### 11. Why this misconception matters later
 
-Charlie's spironolactone decision is therefore not merely about bodily discomfort.  
+Charlie's Spironolactone decision is therefore not merely about bodily discomfort.  
 It becomes entangled with belonging.  
 Wardrobe has given Charlie something unprecedented:
 
 **women choose his company.**
 
-But because he misunderstands why, the success of spironolactone seems to confirm his belief.  
+But because he misunderstands why, the success of Spironolactone seems to confirm his belief.  
 He has stopped masculinisation.  
 And look:
 

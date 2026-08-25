@@ -2,6 +2,8 @@
 
 ## An Initial Prompt
 
+<!-- vale off -->
+
 A nearly still portrait. She remains facing forward and listens quietly to someone just off camera. Natural breathing only, with extremely subtle facial micro-expression. Her gaze remains steady. No head turn, no looking upward, no exaggerated blinking, no camera movement, no change in hairstyle, clothing, lighting, or facial identity.
 
 

@@ -9,7 +9,7 @@ caraco
 carparks?
 Cass
 Celine
-Charli
+Charli?
 chmod
 [Cc]hooks
 d'oeuvres
@@ -27,6 +27,7 @@ Finlayson
 Finzi
 frother
 G'day
+Gartner
 Giaconda
 Gliga
 grainline
@@ -34,12 +35,14 @@ Greeves?
 Harri
 Heyer
 hors
+Hostinger
 Hullo
 img
 [Ii]nfluencers?
 J’Adore
 Jeune
 Kaimu
+Kalapana
 Kalinnikov
 Katya
 Kilda
@@ -53,7 +56,7 @@ Macca's
 Maleny
 mansplaining
 Mara
-^masculinis(ation|ed|ing)
+[Mm]asculinis(ation|ed|ing)
 Mauresque
 meds
 Michaels
@@ -90,7 +93,7 @@ seamline
 [Ss]eatbelts?
 soundfont
 sparkie
-Spironolactone
+[Ss]pironolactone
 sudo
 sunburnt
 sunnies
@@ -101,6 +104,7 @@ tensioning
 thingie
 toserver
 [Tt]radies?
+[Tt]ransformative
 Trimethoprim
 tu
 tuplets

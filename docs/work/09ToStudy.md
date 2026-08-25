@@ -143,7 +143,7 @@ Or simpler:
 
 > “It feels like an old name I can’t take off.”
 
-That is gorgeous for Charlotte because names are already structurally important in the novel: Charlie, Charli, Sharl, Charlotte. The body part as an “old name” ties directly to your naming mechanism. It also avoids crude language while remaining emotionally clear.
+That is gorgeous for Charlotte because names are already structurally important in the novel: Charlie, Charli, Charl, Charlotte. The body part as an “old name” ties directly to your naming mechanism. It also avoids crude language while remaining emotionally clear.
 
 **Fourth beat: Celeste separates identity from intervention.**
 This is vital. Celeste should say something like:

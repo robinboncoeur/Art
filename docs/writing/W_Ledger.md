@@ -79,7 +79,7 @@ Ideas for this chapter needs to be organised in an outline first.
 
 ---
 
-*The Ledger* is exactly the sort of chapter that benefits from being **architected before it is written**, because several things have to happen almost invisibly at once. The work story has to remain the foreground while the belonging story quietly advances underneath it. And most importantly, Charlie must **learn something without yet understanding what he has learned**.
+*The Ledger* is exactly the sort of chapter that benefits from being **creating the architecture before it is written**, because several things have to happen almost invisibly at once. The work story has to remain the foreground while the belonging story quietly advances underneath it. And most importantly, Charlie must **learn something without yet understanding what he has learned**.
 
 The earlier discussion gives us a particularly useful guardrail: Charlie is being accepted because of the **quality of his attention**, while Charlie himself lacks the experience needed to identify that as the reason. 
 
@@ -553,7 +553,7 @@ She gives Charlie **permission to approach women**.
 Not social permission. **Professional permission.**  
 That distinction matters enormously for this particular young man.
 
-Until now, Charlie has no reason to think an actress wants him talking to her. He doesn't know the ordinary mechanisms by which people begin conversations, develop acquaintanceships, recognise mutual interest in one another's company.
+Until now, Charlie has no reason to think an actress wants him talking to her. He doesn't know the ordinary mechanisms by which people begin conversations, develop acquaintances, recognise mutual interest in one another person's company.
 
 Mara removes the entire problem. He doesn't have to wonder:  
 *Should I talk to her?*  

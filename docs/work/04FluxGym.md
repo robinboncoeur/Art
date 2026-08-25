@@ -16,6 +16,8 @@
 
 [![Just Asking][Sy08]{ .artR width="320" }][Sy08]
 
+<!-- Note: turning spellcheck off for the entire document -->
+<!-- vale off -->
 
 [ Robyn ]     
 Hi Emily. I have a question on FluxGym. I read an article on Medium by John Shi that recommends using, instead of Flux-dev, a fine-tuned model ... in this case, one called Flux-Dev2Pro. The huggingface.co link took me to the download page. There are two .json files and 3 .safetensor files. I've downloaded the lot into a separate folder under /fluxgym/models called /Flux-Dev2Pro. How does fluxgym know how to select this? 3 different safetensors?
@@ -36,7 +38,7 @@ Those 3 `.safetensors`
 
 *What they are*
 
-Most Dev2Pro repos ship **multiple variants** of the same model:
+Most Dev2Pro repositorys ship **multiple variants** of the same model:
 
 * **fp8 / e4m3fn** → smallest VRAM, fastest, slightly softer detail
 * **bf16 / fp16** → more VRAM, sharper/cleaner guidance
@@ -69,12 +71,12 @@ Tell FluxGym
 
 *about Dev2Pro (edit `models.yaml`)*
 
-FluxGym’s model list comes from `models.yaml`. Add an entry pointing to the Dev2Pro file you chose (Hugging Face repo or local filename). Example skeleton:
+FluxGym’s model list comes from `models.yaml`. Add an entry pointing to the Dev2Pro file you chose (Hugging Face repository or local filename). Example skeleton:
 
 ```yaml
 - name: flux-dev2pro-bf16
   base: flux
-  repo: ashen0209/Flux-Dev2Pro        # HF repo (works even if you placed it locally)
+  repository: ashen0209/Flux-Dev2Pro        # HF repository (works even if you placed it locally)
   file: flux1-dev2pro-bf16.safetensors # EXACT filename you chose in models/unet
   clip: clip_l.safetensors            # make sure these exist in models/clip
   t5xxl: t5xxl_fp8_e4m3fn.safetensors
@@ -85,7 +87,7 @@ FluxGym’s model list comes from `models.yaml`. Add an entry pointing to the De
 Notes:
 
 * If you prefer **zero downloads**, keep `file` as the **exact local filename** you placed in `models/unet`. FluxGym will find it; otherwise it tries to fetch from HF. (There are GitHub issues about pointing to local paths / avoiding re-download—editing `models.yaml` is the supported route.) ([GitHub][3])
-* If a repo isn’t on Hugging Face, FluxGym may refuse it without code tweaks (there’s an issue about non-HF sources). Dev2Pro **is** on HF, so you’re fine. ([GitHub][4])
+* If a repository isn’t on Hugging Face, FluxGym may refuse it without code tweaks (there’s an issue about non-HF sources). Dev2Pro **is** on HF, so you’re fine. ([GitHub][4])
 
 
 ---
@@ -167,7 +169,7 @@ Those three `.safetensors` files are **one model split into 3 pieces**. You must
 --- 
 Quick sanity checks
 
-1. Make sure you actually have **0001, 0002, 0003** (not two “0003”s). If one is missing/misnamed, redownload.
+1. Make sure you actually have **0001, 0002, 0003** (not two “0003”s). If one is missing/misnamed, re-download.
 2. Confirm the index JSON exists and references those exact filenames. If you open it, you’ll see a big `weight_map` with entries like:
 
    ```
@@ -183,14 +185,14 @@ Using them in FluxGym
 
 You have two workable paths:
 
-**A) Let FluxGym pull from the Hugging Face repo (easiest):**
-Edit `models.yaml` so the Dev2Pro entry points to the **repo** (not local files). FluxGym will download the shards automatically (using the index). This avoids any “single-file only” assumptions.
+**A) Let FluxGym pull from the Hugging Face repository (easiest):**
+Edit `models.yaml` so the Dev2Pro entry points to the **repository** (not local files). FluxGym will download the shards automatically (using the index). This avoids any “single-file only” assumptions.
 
 **B) Use your local shards:**
 Keep **all 3 shards + the index JSON** in the same directory. In `models.yaml`, set the model entry to the **same basename** as the index expects. Some builds of FluxGym accept the index filename directly; others just need the directory where the index + shards live. If your build only accepts a single `file:` value and refuses the index name, the practical workaround is to:
 
-* Place the **entire Dev2Pro folder** as a local “repo mirror” (i.e., keep the exact filenames),
-* Point the `repo:` field to the HF repo name (so it knows layout), **and** have the files already present locally (so it won’t redownload).
+* Place the **entire Dev2Pro folder** as a local “repository mirror” (i.e., keep the exact filenames),
+* Point the `repository:` field to the HF repository name (so it knows layout), **and** have the files already present locally (so it won’t re-download).
 
 If you hit a “can’t find weights” error locally, it’s almost always because:
 
@@ -205,7 +207,7 @@ If you hit a “can’t find weights” error locally, it’s almost always beca
 
 *How to tell (fp8 vs bf16 etc.)*
 
-Sharded files **don’t** encode precision in the name; they’re just parts of one checkpoint. If the repo offers *multiple variants* (e.g., fp8 and bf16), each variant usually has **its own set of 3 shards and its own index** in a separate folder or with a different basename. In your case, it sounds like you downloaded **one** variant that’s simply split into 3 chunks.
+Sharded files **don’t** encode precision in the name; they’re just parts of one checkpoint. If the repository offers *multiple variants* (e.g., fp8 and bf16), each variant usually has **its own set of 3 shards and its own index** in a separate folder or with a different basename. In your case, it sounds like you downloaded **one** variant that’s simply split into 3 chunks.
 
 
 
@@ -257,7 +259,7 @@ Perfect—thanks for sharing the file. I checked your `models.yaml` and made one
 + flux-dev2pro:
 ```
 
-Everything else (repo, base, license fields, file basename) looks correct for pulling the **sharded** checkpoint via the index on Hugging Face.
+Everything else (repository, base, license fields, file basename) looks correct for pulling the **sharded** checkpoint via the index on Hugging Face.
 
 You can download the patched file here and drop it in place of your original:
 [Download models_patched.yaml](sandbox:/mnt/data/models_patched.yaml)
@@ -298,7 +300,7 @@ Something isn't right in the yaml. Here's the error fluxgym displays in terminal
 [ Emily ]     
 Ahh—this one’s a filename + sharding mismatch.
 
-FluxGym is trying to pull a file called `diffusion_pytorch_model.safetensors` from `ashen0209/Flux-Dev2Pro`, but that repo doesn’t have a single-file checkpoint. It ships the UNet in **three shards** named with hyphens, e.g. `diffusion_pytorch_model-00001-of-00003.safetensors`, `...-00002-of-00003...`, `...-00003-of-00003...`. So `hf_hub_download` 404s because your `models.yaml` asks for a filename that doesn’t exist. ([huggingface.co][1])
+FluxGym is trying to pull a file called `diffusion_pytorch_model.safetensors` from `ashen0209/Flux-Dev2Pro`, but that repository doesn’t have a single-file checkpoint. It ships the UNet in **three shards** named with hyphens, e.g. `diffusion_pytorch_model-00001-of-00003.safetensors`, `...-00002-of-00003...`, `...-00003-of-00003...`. So `hf_hub_download` 404s because your `models.yaml` asks for a filename that doesn’t exist. ([huggingface.co][1])
 
 You’ve got two clean ways forward:
 
@@ -309,11 +311,11 @@ Option A
 
 **Point FluxGym at a **single-file** Dev2Pro checkpoint**
 
-Use a repo that actually exposes one file. For example, `multimodalart/FLUX.1-dev2pro-full` includes a single-file UNet named `flux1-dev.safetensors` (license matches Dev: **flux-1-dev-non-commercial-license**). Update your YAML like this:
+Use a repository that actually exposes one file. For example, `multimodalart/FLUX.1-dev2pro-full` includes a single-file UNet named `flux1-dev.safetensors` (license matches Dev: **flux-1-dev-non-commercial-license**). Update your YAML like this:
 
 ```yaml
 flux-dev2pro:
-  repo: multimodalart/FLUX.1-dev2pro-full
+  repository: multimodalart/FLUX.1-dev2pro-full
   base: black-forest-labs/FLUX.1-dev
   license: other
   license_name: flux-1-dev-non-commercial-license
@@ -321,7 +323,7 @@ flux-dev2pro:
   file: flux1-dev.safetensors
 ```
 
-That filename exists in that repo and downloads as a single blob, which FluxGym knows how to place in `models/unet/`. ([huggingface.co][2])
+That filename exists in that repository and downloads as a single blob, which FluxGym knows how to place in `models/unet/`. ([huggingface.co][2])
 
 > Note: There are community “single-file” mirrors like `bdsqlsz/flux1-dev2pro-single` with `flux1-dev2pro.safetensors`. If you use those, be sure you’re comfortable with the licensing; the official Dev family is non-commercial. ([huggingface.co][3])
 
@@ -334,7 +336,7 @@ Option B
 
 FluxGym’s downloader only grabs **one** filename you specify; it won’t fetch all shards + an index. If you want to use the ashen checkpoint directly:
 
-1. Manually download **all three** shard files from that repo.
+1. Manually download **all three** shard files from that repository.
 2. Put them where FluxGym expects UNets (usually `.../models/unet/transformer/` depending on FluxGym’s loader).
 3. Bypass the downloader by pointing FluxGym at the **local** file path (or leave the YAML alone and don’t click “download”).
 
@@ -373,7 +375,7 @@ Add this block to your `models.yaml`:
 
 ```yaml
 flux-dev2pro-bf16:
-  repo: rockerBOO/flux-dev2pro-bf16
+  repository: rockerBOO/flux-dev2pro-bf16
   base: black-forest-labs/FLUX.1-dev
   license: other
   license_name: flux-1-dev-non-commercial-license
@@ -412,8 +414,8 @@ Well, that's weird. I had downloaded the file, placed it in the right folder, an
 [ Emily ]     
 Ha—yep, that happens. Two common reasons FluxGym “helpfully” re-downloads a file you already placed:
 
-1. **`repo:` is set in `models.yaml`.**
-   If a repo is present, FluxGym usually prefers pulling from HF. It doesn’t always check your local copy first.
+1. **`repository:` is set in `models.yaml`.**
+   If a repository is present, FluxGym usually prefers pulling from HF. It doesn’t always check your local copy first.
 
 2. **Filename mismatch / hash mismatch.**
    If the `file:` in YAML doesn’t **exactly** match your local filename (including case), or the size/hash doesn’t match HF’s, it’ll fetch again.
@@ -425,9 +427,9 @@ If you want to **avoid re-downloads** in future, you’ve got two easy options:
 ---
 Option A
 
-**Local-only entry (no repo)**
+**Local-only entry (no repository)**
 
-Create a second entry that points to your local file and **omit `repo:`**:
+Create a second entry that points to your local file and **omit `repository:`**:
 
 ```yaml
 flux-dev2pro-bf16-local:
@@ -445,7 +447,7 @@ Pick this one in the dropdown when you don’t want downloads.
 ---
 Option B
 
-**Keep `repo:` but make skipping possible**
+**Keep `repository:` but make skipping possible**
 
 * Ensure `file:` **exactly** equals the HF filename (`flux-dev2pro-bfl.safetensors`).
 * Put your local copy in the **same place FluxGym writes** downloaded UNets (usually its `models/unet` folder). Many builds will skip re-download if the file already exists with the expected size.

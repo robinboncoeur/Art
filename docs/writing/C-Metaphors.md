@@ -21,7 +21,7 @@
 
 
 Robyn   
-Hi Emily. Today, I'd like to talk about writing metaphors, ones that are, at the same time, unusual but also germaine to the topic. I don't want a lot of examples, but an *approach*, a way of thinking. Let's take this case:   
+Hi Emily. Today, I'd like to talk about writing metaphors, ones that are, at the same time, unusual but also germane to the topic. I don't want a lot of examples, but an *approach*, a way of thinking. Let's take this case:   
 
 It didn’t become a thing all at once. Nothing that matters ever does. It becomes a thing the way fabric becomes soft: through repetition, through use, through being pulled and released so many times that *it stops fighting your hands*. 
 

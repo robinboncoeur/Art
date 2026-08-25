@@ -11,7 +11,7 @@
   .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
 </style>
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -33,7 +33,7 @@ What does it cost her? What does it cost them? What does everyone gain that none
 
 **Celeste's Girl** is my love letter to women's work, to chosen family, and to the fierce, unglamorous kind of solidarity that stands in front of loading bays and board tables and says: "No. Not here. Not to her." It's also a quiet insistence that trans women are not an enemy camp, but some of the keenest, most motivated allies women will ever have in dismantling the structures that harm us all.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -132,7 +132,7 @@ I’m very good at inspiring that reaction.
 
 I have to be careful with it.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -321,7 +321,7 @@ Not because I’d saved him.
 
 Because I’d placed him — and left him room to decide whether he wanted to stay there.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -757,7 +757,7 @@ Not a lifeline: a lane. A place he could earn.
 
 And, if he chose it, keep.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -1032,7 +1032,7 @@ Mara turned away as if an important matter had been settled. Which, it had: she 
 
 And, for the first time in a long time, he hadn’t been found wanting.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -1210,7 +1210,7 @@ Being chosen isn’t a miracle. It’s a responsibility.
 
 And I’m not letting him waste it.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -1422,7 +1422,7 @@ Not into rescue. Into work. Into responsibility.
 
 Into the next room.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -1642,7 +1642,7 @@ Mara's mouth twitched again.
 
 "Good," she said. "Keep it clean."
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -1828,7 +1828,7 @@ Women building something that would hold.
 
 And Charlie learning — quietly, steadily — how to live inside it.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -2061,7 +2061,7 @@ And I thought: this is what he needed. Not a kinder classroom. A room where comp
 
 A room where the system’s noise could stay outside the door — because inside, we had signal.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -2295,7 +2295,7 @@ And in that moment, with chalk on fabric and a plan on paper, Wardrobe stopped b
 
 It became a place that made new ones.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -2468,7 +2468,7 @@ And once a precision like that has a place, it doesn’t stop.
 
 It becomes the rule.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -2617,7 +2617,7 @@ I signed, and the ink looked oddly serious on the page, as if the act itself had
 
 And just like that, the atelier took one step away from being a clever little pocket of women doing miracles in private, and one step toward being a system that could withstand daylight and strangers.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -2853,7 +2853,7 @@ And then, as if it were the most ordinary thing in the world—as if the world h
 
 Charlie’s pen paused. Finally, he underlined front closure once, neatly, and got back to work.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -3050,7 +3050,7 @@ This time it wasn’t compliance.
 It was commitment.
 
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -3269,7 +3269,7 @@ Mara didn’t look up.
 
 And Charlie lifted his arms.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -3397,7 +3397,7 @@ Mara didn’t smile. But then, she never did. And, she didn’t need to.
 
 She had built a ladder.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -3582,7 +3582,7 @@ Charlie picked up his chalk again.
 
 As if... work was what you did next.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -3766,7 +3766,7 @@ Charlie picked up his chalk.
 
 Competence could become a habit, and habits would hold you up when people couldn’t.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -3978,7 +3978,7 @@ Outside, the Faire carried on... loud, theatrical, full of people telling storie
 
 Inside, at the cutting table, we began building a story that would hold.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -4220,7 +4220,7 @@ This was work.
 
 And these were the terms.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -4387,7 +4387,7 @@ Charlie’s gaze flicked, briefly, to the signed sheet on the bench. Then he rea
 
 It was to be reliable.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -4573,7 +4573,7 @@ For the first time since he’d moved in, the house didn’t feel like a risk.
 
 It felt like a system we could both live inside—without anyone losing themselves.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -4749,7 +4749,7 @@ Charlie’s mouth twitched: he almost allowed himself a smile.
 
 I didn’t deny it. I set the timer on my phone, sat at the table, and watched them continue to draw boxes. Work, at least, was something we all understood.And boredom—sweet, structured boredom—was how we were going to survive.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -4988,7 +4988,7 @@ And the operating surface — ledger, invoices, swatches, calculator, laptop —
 
 More like a plan.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -5188,7 +5188,7 @@ By structure.
 
 By “we”.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -5428,7 +5428,7 @@ Sarah’s mouth curved. The apple crunched.
 
 And the pencil kept moving.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -5739,7 +5739,7 @@ And that was Wardrobe, wasn’t it? Just women doing the quiet, effective thing.
 
 Turning “she” from a word into a place.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -5998,7 +5998,7 @@ And Charli—Charli laughed too. Not small this time: a real laugh. A first, for
 
 It was as if the word she had stopped being a risk and started being a home.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -6143,7 +6143,7 @@ And Charli had tied her happiness to it in a way that made her both luminous… 
 
 It would be her.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -6519,7 +6519,7 @@ So we’d have to give her something real in its place. Something supervised. So
 
 And we’d have to do it gently enough that she stayed whole.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -6738,7 +6738,7 @@ She didn’t need me distant to prove we were being safe.
 
 She needed me close to feel that safety, herself.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -7073,7 +7073,7 @@ I signalled left.
 
 Charli nodded, and for the first time in days, the nod didn’t look like surrender.It looked like choice.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -7300,7 +7300,7 @@ Charli’s eyes shone again. She didn’t wipe them. She just watched me, as if 
 
 I held her hand like a vow I intended to keep.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -7618,7 +7618,7 @@ I let my own breath out slowly, careful and steady. In the soft domestic hush, I
 
 The kind that could make a girl feel—maybe for the first time—that she didn’t have to be brave alone.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -8044,7 +8044,7 @@ The hardest part wasn’t wanting her.
 
 The hardest part was making wanting her safe.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -8412,7 +8412,7 @@ Outside, the heat raged on.
 
 Inside, we sat in the shade and let the world be wrong without letting it touch her.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -8548,7 +8548,7 @@ I bent over and kissed her—slow, sealing—and thought, with steel wrapped in 
 
 I will not be late again.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -8694,7 +8694,7 @@ I smiled.
 
 Done meant done.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -8857,7 +8857,7 @@ It was a kind of warmth. A kind of beauty. A kind of yes.
 
 And that yes was woman-shaped.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -9084,7 +9084,7 @@ I stepped out.
 
 And for the first time that day I felt the faintest hint of peace: not because everything was resolved, but because I knew women who would not let me face it alone.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -9315,7 +9315,7 @@ Not the cold silence of a man being absent.
 
 The calm quiet of a woman being present.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -9613,7 +9613,7 @@ I nodded.The fear in my body didn’t vanish.
 
 But it no longer had the whole house to itself.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -9815,7 +9815,7 @@ Ordinary.Heavy with meaning.I stood there a moment with the metal warming in my 
 
 And I closed my fingers around it. 🔑✨
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -10009,7 +10009,7 @@ Roger could sell the house. He could keep every possession he had ever collected
 
 But he no longer possessed me.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -10270,7 +10270,7 @@ But her smile lingered with a kind of satisfaction, as if she already knew she h
 
 And I realised, as the light turned green and I drove us home, that my future included Sarah.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -10416,7 +10416,7 @@ Just to feel it.
 
 Then I followed Sarah into the kitchen, heart quiet for the first time all day, and let the door swing gently closed behind me.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -10611,7 +10611,7 @@ And I stayed there, feeling the warmth of her.
 
 There’s always tomorrow.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -10848,7 +10848,7 @@ The last clear thought I remember was simple and absolute:
 
 None of this was temporary anymore.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -11185,7 +11185,7 @@ Tomorrow, I would put her in the Swift and let her ask them as I drove her home 
 
 For tonight, it was enough that she was here, Charli was warm beside me, and nobody was pretending change was impossible.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -11384,7 +11384,7 @@ I turned the key again and pulled away, heading towards Uni—and towards a life
 
 We weren’t waiting anymore.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -11584,7 +11584,7 @@ Outside, somewhere between here and Queensland, a man was rehearsing a scene in 
 
 Inside, we were getting on with the work.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -11915,7 +11915,7 @@ Resilience isn’t the speed at which you stop hurting. It’s the certainty tha
 
 We were, slowly and clumsily, getting there. Together.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -12101,7 +12101,7 @@ I tapped the Thai takeaway number I had on speed-dial.
 
 One decision at a time.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -12384,7 +12384,7 @@ In a few weeks, if all went to plan, that someone would be me, waiting at an arr
 
 For now, it was just the two of us in our too-small bed, clutching damp cotton and trying to sleep around the ache of the future.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -12624,7 +12624,7 @@ She nodded against me, the movement small and sure.
 
 For the first time since Queensland had become a solid thing on the calendar, I believed it.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
 
 
 
@@ -12804,7 +12804,9 @@ In Wardrobe, when Lucy had called me “she,” it had made my knees go a little
 
 And later that night, Celeste had asked why I’d gone so quiet, and I’d blurted out, “I think I belong,” but I don’t think she’d known why I said that, at the time. And I’d been afraid to tell her what it felt like.
 
-Lucy identifying me to me was… belonging.Belonging.
+Lucy identifying me to me was… belonging.
+
+Belonging.
 
 High school had been the opposite of that.
 
