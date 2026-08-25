@@ -2,6 +2,14 @@ site_name: Celeste's Girl
 site_url: https://art.tightbytes.com
 edit_uri: "http://127.0.0.1:8000/docs/"
 use_directory_urls: true
+
+validation:
+  links:
+    absolute_links: ignore
+
+not_in_nav: |
+  /includes/image-references.md
+
 theme:
   name: material
   icon: assets/images/iconL.png

@@ -1,7 +1,7 @@
 # Celeste's Girl 2.0
 
 
-[![Wardrobe][Br01a]{ .artC width="1100" }][Br01a]
+[![Wardrobe][Bra01]{ .artC width="1100" }][Bra01]
 
 
 Updated to: =EDIT=
@@ -34,7 +34,7 @@ I write character-driven fiction about gender, power, belonging, and the women w
 
 ### Purpose
 
-[![Charlotte][St00a]{ .artL width="360" }][St00a]
+[![Charlotte][St00]{ .artL width="360" }][St00]
 
 <div class="music-card music-card--with-art">
   <div class="music-content">
@@ -1489,7 +1489,7 @@ Testing something he hadn’t decided yet.
 
 We let him.
 
-Mata finished the seam in her hands first—small, even stitches at the cuff—then set it aside and wiped her palms once on calico.
+Mara finished the seam in her hands first—small, even stitches at the cuff—then set it aside and wiped her palms once on calico.
 
 “Sit.”
 
@@ -2594,9 +2594,6 @@ And in that moment, with chalk on fabric and a plan on paper, Wardrobe stopped b
 It became a place that made new ones.
 
 <hr class="section-break soft" />
-
-
-
 
 
 
@@ -5136,14 +5133,6 @@ When I emerged, eyes gritty from screens and concentration, the house smelled li
 
 “Hi,” I replied, and leaned against the bench.
 
-
-
-
-[![Charlie][S22a]{ .artR width="460" }][S22a]
-
-
-
-
 He waited. He’d learned the cadence of me: I spoke when I chose to. I didn’t need someone filling air space on my behalf. A plate sat on the counter with toast and fruit. Not prettified. Just there. Useful.
 
 “I didn’t know if you eat after you study,” Charlie said quietly, still not looking at me. “But if you don’t want—”
@@ -5460,12 +5449,6 @@ It had been clear from the outset that Charlie wasn’t moving into my life as a
 
 I tapped the whiteboard.
 
-
-
-[![Charlie][S23a]{ .artR width="460" }][S23a]
-
-
-
 “Available,” I added. “For ten minutes.”
 
 Charlie’s mouth twitched: he almost allowed himself a smile.
@@ -5494,7 +5477,7 @@ And boredom—sweet, structured boredom—was how we were going to survive.
 ## 24 The Operating Surface ✨
 
 
-[![Charlie][S24a]{ .artR width="460" }][S24a]
+[![Celeste's Girl][S24a]{ .artR width="460" }][S24a]
 
 
 [ Celeste ]
@@ -5790,6 +5773,10 @@ More like a plan.
 
 ## 25 Definitions ✨
 
+
+[![Celeste's Girl][S25a]{ .artR width="460" }][S25a]
+
+
 [ *Celeste* ]
 
 The table stayed cleared after lunch. Not because I was being precious about it, but because the minute you let paper drift, you let thinking drift, and then you’re back to improvising your way into errors you could have prevented with ten seconds of discipline.
@@ -6069,11 +6056,15 @@ He let out a breath—shaky at first, then steadier—like someone who’d been 
 
 
 
-=EDIT=
+
 
 ## 26 A Boring Miracle ✨
 
-[ *Sarah* (Blondie) ]
+
+[![Celeste's Girl][S26a]{ .artR width="460" }][S26a]
+
+
+[ *Sarah* ]
 
 The thing about Wardrobe was that nothing changed all at once. 
 
@@ -6536,6 +6527,10 @@ That was Wardrobe’s way of making something real.
 
 ## 27 Stop Tiptoeing ✨
 
+
+[![Celeste's Girl][S27a]{ .artR width="460" }][S27a]
+
+
 [ *Sarah* ]
 
 Wardrobe had two moods: work and waiting.
@@ -6818,11 +6813,247 @@ And because, at last, she had stopped refusing the chair.
 
 
 
-✨ Society Has Decided ✨
+✨28 Society Has Decided ✨
+
+
+[![Celeste's Girl][S28a]{ .artR width="460" }][S28a]
+
 
 [ *Celeste* ]
 
+A period of three months will change a room.
 
+Not the bones of it. Mara’s worktables still bore the same scars, the same old pinpricks and iron: sheen and chalk ghosts that never quite wash out. But the rhythm had shifted. There was less scrambling. Fewer panicked rearrangements. More quiet, confident repetition—tools being reached for without looking, hands moving as if the day had been rehearsed.
+
+Wardrobe had become what I’d always wanted it to be: a place where women did difficult things without drama.
+
+I had missed more of that change than I liked to admit.
+
+School had taken me away in pieces at first, then in great blocks: lectures, group work, late submissions, meetings with supervisors, the grim little rituals of final-year competence. I still came in. I still knew the numbers, the orders, the deadlines, the problems that had to be solved before they became disasters. But knowing a place administratively is not the same as living inside its daily weather.
+
+Wardrobe had gone on without me.
+
+Of course it had. Mara would have considered anything else sentimental nonsense. The worktables filled, emptied, filled again. Fittings happened. Mistakes were corrected. Tea was made. Scissors opened and closed. Women arrived tired and left steadier. Somewhere in all that repetition, while I was elsewhere proving I could manage a future, Charli had become part of the room’s present.
+
+The morning steam rose in slow sheets from the irons. Someone had left a spool of linen thread on the windowsill to warm. A kettle clicked, then settled into a soft hiss. And under all of it was the sound I’d come to associate with safety: the snick of Mara’s scissors, unhurried and certain.
+
+Charli arrived early—again—and this time I didn’t think why does he do that? I simply let it be what it was: his ritual. His way of entering the day gently, before the day could look at him too hard.
+
+He moved through the room with the ease of someone who knew the rules without having to recite them.
+
+Bag on the hook. Hands washed thoroughly. Apron on. Hair pinned back.
+
+He was at the long table when I came in, smoothing a length of white linen as if he was calming an animal. He lifted his head when I approached and gave me a smile that didn’t try to vanish immediately.
+
+That was new.
+
+Not big or theatrical.
+
+Just… there.
+
+Something in me eased, the way it does when a person you care about begins to look less like they’re bracing for impact and more like they’re living.
+
+“You’re early,” I said, as if it was a complaint.
+
+“I like the quiet.”
+
+His voice had steadied over the months. Soft, but a different sort of soft; careful, but with less apology in it.
+
+Lucy was already at the cutting table, coffee in hand, unimpressed with the universe. Tahlia was humming without meaning to, pulling tape measures into line. Sarah was perched on her usual stool like she’d been born there, boot heel hooked on the rung, expression set to I am merely observing your civilisation, you little ferals.
+
+The Faire girls had been drifting through more and more often. Not just for fittings and repairs, but because Wardrobe had become a gravitational point: a women’s room, in the truest sense, the kind where you could be tired, sharp, messy, brilliant, and not have to explain any of it.
+
+That drift had changed Charli too.
+
+The accumulation of being treated as safe and wanted allowed his laugh to come easier now. He didn’t hover on the edges during lunch anymore: he’d started joining in the conversations. Small remarks at first, then a dry little observation that made Lucy bark out something almost like amusement. He had begun to look at the other women without that constant flinch of anticipation.
+
+And this morning—this morning—he looked happy.
+
+Mara appeared behind me without fanfare. She didn’t greet anyone. She simply put a garment bundle on the table with the quiet brutality of a fact being placed in evidence.
+
+“Chemise.”
+
+Charli’s hands stilled.
+
+“Mine?”
+
+Mara’s expression didn’t change, simply a short nod. “Designed by you. Sewn by you. Corrected by you. Washed three times. Pressed. If it fails, we learn.”
+
+He unwrapped it carefully. White linen, fine but strong, period-correct in cut and gusset placement. Underarm shaping that actually respected movement instead of pretending bodies didn’t have shoulders.
+
+The work was… classic Charli. Not perfect, not yet, but good in a way that made my throat tighten unexpectedly. It wasn’t just the garment. It was the quiet fact that Charli had begun to build something—make something—instead of merely surviving.
+
+Mara made a small gesture toward the stays hanging nearby: the latest iteration, the one we’d been refining for weeks.
+
+“Put them on,” she said. “Over the chemise.”
+
+Charli nodded. Tahlia was already turning back to her work: deliberately casual, giving him privacy without making it a performance. Lucy didn’t look up at all, which was Lucy’s way of saying, I don’t need to inspect you: I’m here for the seams.
+
+Sarah, though—Sarah’s eyes flicked over with that sharp British amusement.
+
+“Oh, go on then,” she said. “Try on your armour, love.”
+
+Charli shot her a look that was half abashed and half… fond. That, too, was new. He stepped behind the screen. The room didn’t pause; it simply went on around him. I heard the soft rustle of linen. The tiny tug and chemise of fabric settling against skin.
+
+"Ready to be strapped in?" Sarah called in to him.
+
+"Yes, please."
+
+The measured movements of someone lacing stays with care followed. When they stepped out again, it was like seeing the argument come together.
+
+The chemise sat correctly at his shoulders. The neckline was modest, period-true. The sleeves ended at the right point, linen cuff whispering against his wrists. And the stays—
+
+The stays held.
+
+Not brutally or theatrically. They held the way good engineering holds: firm in the right places, forgiving in the right places, allowing movement rather than forbidding it. Charli stood very still for a moment, as if he was waiting for the world to contradict what he felt.
+
+“Walk,” Mara ordered.
+
+Charli walked: small, careful steps at first, then with growing confidence as his body realised it was permitted to exist inside this structure without being punished.
+
+“Raise your arms,” Mara said.
+
+Charli did, slowly.
+
+The underarm gussets behaved. The stays flexed the way they were meant to. No tugging, no glaring strain lines.
+
+“Turn.”
+
+Charli turned. And that was when I saw it again.
+
+That fullness in the chest.
+
+The first time I’d noticed it—on his first day—it had been a flicker of curiosity. A question I didn’t ask aloud. A softness beneath the t-shirt that didn’t quite fit the story the world would have told about a boy arriving for work.
+
+Then, again when he moved in with me. In the morning, in the half-light, when he’d pulled on a t-shirt and I’d caught the shape for a second and filed it away like a strange line in a ledger.
+
+Now, under a chemise and stays designed to reveal structure, it was unmistakable. Not exaggerated or a spectacle. Just… undeniably there. A swelling. The kind of body truth you can’t unsee once you see it.
+
+My mind did what it always did: it reached for explanations. Stress. Weight fluctuation. Posture. The way stays redistribute silhouette. The way linen catches light. The way my own expectations might be colouring perception.
+
+And then another part of me, the part that understood Wardrobe’s quiet rules, said: stop trying to argue the body out of what it is.
+
+Charli stood there, cheeks flushed, hands at his sides like he wasn’t sure what to do with them. And I saw, suddenly, not just a “boy learning women’s work,” but a person whose body had been quietly, steadily contradicting the world’s categories long before we ever named anything.
+
+Tahlia circled him, professional, not looking at him but at the clothing.
+
+“Looks better.”
+
+Lucy pointed with her coffee. “Shoulder line’s good. No bunching.”
+
+Sarah tilted her head, considering Charli like she was a painting that had finally come into focus.
+
+Then, because Sarah is Sarah, she said it.
+
+“Honestly,” she remarked, loud enough for the room, “it’s a bit unfair how well Celeste’s wife is turning out.”
+
+Charli looked at Sarah with raised brows, slightly puzzled. The room, however, wasn’t puzzled. Quite the opposite. Lucy let out a short half laugh.
+
+“Wife,” she repeated, as if tasting it. “That's it. That tracks.”
+
+Tahlia grinned. “It does, too, doesn't it?”
+
+Then one of the Faire girls, Bree, tall and bright-eyed, walked in mid-sentence.
+
+She clocked the tableau: Charli in chemise and stays, the women circling, Mara’s expression like a judge in a courtroom of cloth. Her face lit.
+
+“Oh my lands,” she exclaimed, delighted. “She looks a proper actress.”
+
+I felt something inside me stop.
+
+She.
+
+Bree hadn’t hesitated. She hadn’t checked. She hadn’t looked to me for permission.
+
+She had simply… said this word. Like, it was just already there, had been there for ages, as if it was obvious, as if it had been obvious for months.
+
+And then I noticed: Lucy didn’t react. Tahlia didn’t look startled. Sarah’s mouth quirked—satisfied, almost smug, like she’d just nudged a domino and watched it fall exactly as expected.
+
+And Charli—Charli didn’t correct anyone. Not a twitch of protest. Not a nervous laugh. Not a frantic, “I’m not—”
+
+She just stood there with a soft smile for Bree, chest rising and falling, as if she was listening to the word land inside her body, pleased that it didn’t hurt. Bree stepped closer, hands hovering near the stays without touching.
+
+“Can she lift her arms again?” she asked, speaking like Charli was a collaborator.
+
+“She can,” Mara said.
+
+Charli lifted her arms.
+
+Bree clapped once, delighted. “She’s going to be a menace. I love her.”
+
+Charli’s face was incandescent. A glow. A quiet basking. The kind you see when someone has been chosen into a circle they never thought would open for them.
+
+Sarah was looking at my face with a knowing smile. She leaned back on her stool with a satisfied sigh.
+
+And there it was: the cost of my absence.
+
+Not neglect. I would not let myself call it that. But absence all the same.
+
+I had been studying, calculating, planning, keeping the machinery of my life pointed toward the future. Meanwhile, Wardrobe had been doing what Wardrobe did best: observing, correcting, naming only when the evidence became impossible to ignore.
+
+They had not rushed ahead of me.
+
+I had simply arrived late.
+
+“Right,” Sarah said, as if concluding a minor administrative matter. “I think we can stop tiptoeing now.”
+
+There it was.
+
+A declaration, because now I understood what they'd known for a long time. 
+
+Tahlia reached out and adjusted a lace end with practised fingers.
+
+“Looks good, Charli.”
+
+Charli glanced at me and blinked fast, as if tears were an option she was trying not to allow herself.
+
+“It’s—” she started. “It’s fine.”
+
+Lucy snorted. “It’s not fine, it’s better than fine. Don’t insult your own work.”
+
+Charli’s mouth did something new—a smile, a real, a radiant one. I stood there, watching, trying to keep my face neutral, because inside, something complicated was happening.
+
+I had been using the word 'wife' internally, privately: as a way of naming function. The role. The support. The way Charli fit into my life not as romance, not as a fantasy, but as infrastructure.
+
+I had thought it was precise. Accurate. The only possible term for it. But, a private shorthand.
+
+I hadn’t realised it was also… a seed.
+
+A framing.
+
+A story the room could detect, acknowledge, take up and make real. Which, of course it did. Because women are not stupid about language. We understand what words do. We understand that the right word, used repeatedly in the right room, can make a person stop feeling like they’re trespassing.
+
+I could not have foreseen this. I certainly had not planned this. But I had, unmistakably, contributed to the conditions that made it inevitable.
+
+Bree was still chattering: rehearsal tonight, the dress run, someone’s car, chips afterward. Not inviting Charli exactly. Including her. There was a difference, and I felt it with a small, delayed shock.
+
+An invitation can be refused.
+
+This sounded like logistics.
+
+Charli must have heard the difference too, because her answer came too quickly.
+
+“Sure. I can do that.” Then she caught herself, as if eagerness were a mistake. “If that’s… if that’s okay.”
+
+Tahlia rolled her eyes fondly. “You’re already counted, girlfriend.”
+
+“Absolutely, she is,” Lucy said.
+
+She.
+
+Again.
+
+Not ceremonially. Not carefully. Just there, tucked into the room’s ordinary grammar.
+
+Mara tapped the table once.
+
+“Enough talking. More work.”
+
+And that was that.
+
+No declaration. No vote. No permission requested from me.
+
+The room had moved on.
 
 <hr class="section-break soft" />
 
@@ -6830,9 +7061,13 @@ And because, at last, she had stopped refusing the chair.
 
 
 
-<!--
+
 
 ## 29 Not the Direction ✨
+
+
+[![Celeste's Girl][S29a]{ .artR width="460" }][S29a]
+
 
 [ *Lauren* ]
 
@@ -6979,6 +7214,10 @@ It would be her.
 
 
 ## 30 The Brush ✨
+
+
+[![Celeste's Girl][S30a]{ .artR width="460" }][S30a]
+
 
 [ *Celeste* ]
 
@@ -7357,6 +7596,10 @@ And we’d have to do it gently enough that she stayed whole.
 
 ## 31 How We Do Safe ✨
 
+
+[![Celeste's Girl][S31a]{ .artR width="460" }][S31a]
+
+
 [ *Celeste* ]
 
 I had put the bottle on the kitchen bench.
@@ -7578,6 +7821,10 @@ She needed me close to feel that safety, herself.
 
 
 ## 32 In The Car ✨
+
+
+[![Celeste's Girl][S32a]{ .artR width="460" }][S32a]
+
 
 [ *Lauren* ]
 
@@ -7913,6 +8160,10 @@ Charli nodded, and for the first time in days, the nod didn’t look like surren
 
 ## 33 Commute ✨
 
+
+[![Celeste's Girl][S33a]{ .artR width="460" }][S33a]
+
+
 [ *Celeste* ]
 
 We left Wardrobe the way women leave a place that has held them all day: quietly, efficiently, without ceremony.
@@ -8141,6 +8392,10 @@ I held her hand like a vow I intended to keep.
 
 
 ## 34 Here 🌸
+
+
+[![Celeste's Girl][S34a]{ .artR width="460" }][S34a]
+
 
 [ *Celeste* ]
 
@@ -8456,13 +8711,13 @@ The kind that could make a girl feel—maybe for the first time—that she didn�
 
 
 
-/-->
-
-<!--
-
 
 
 ## 35 The Bench ❤️
+
+
+[![Celeste's Girl][S35a]{ .artR width="460" }][S35a]
+
 
 [ *Celeste* ]
 
@@ -8889,6 +9144,10 @@ The hardest part was making wanting her safe.
 
 ## 36 Coffee, Then Shade ☕️
 
+
+[![Celeste's Girl][S36a]{ .artR width="460" }][S36a]
+
+
 [ *Celeste* ]
 
 I invited Sarah the way you invite someone to a meeting you’re pretending isn’t a meeting.
@@ -9258,6 +9517,10 @@ Inside, we sat in the shade and let the world be wrong without letting it touch 
 
 ## 37 After the Visit 🫦
 
+
+[![Celeste's Girl][S37a]{ .artR width="460" }][S37a]
+
+
 [ *Celeste* ]
 
 Sarah left my house the same way she did most things: like the air was luckier for having been in her lungs. The front door shut. Not slammed—Sarah wasn’t vulgar—but closed with that precise, decisive click that felt like punctuation.
@@ -9391,7 +9654,13 @@ I will not be late again.
 
 
 
+
+
 ## 38 The Golf Course Call 📱
+
+
+[![Celeste's Girl][S38a]{ .artR width="460" }][S38a]
+
 
 [ *Sarah* ]
 
@@ -9542,6 +9811,10 @@ Done meant done.
 
 
 ## 39 Not Shaped Like You 🩸
+
+
+[![Celeste's Girl][S39a]{ .artR width="460" }][S39a]
+
 
 [ *Sarah* ]
 
@@ -9704,6 +9977,10 @@ And that yes was woman-shaped.
 
 
 ## 40 The Weight of Order 🧵
+
+
+[![Celeste's Girl][S40a]{ .artR width="460" }][S40a]
+
 
 [ *Lauren* ]
 
@@ -9932,6 +10209,10 @@ And for the first time that day I felt the faintest hint of peace: not because e
 
 
 ## 41 The Door That Locks 🚪
+
+
+[![Celeste's Girl][S41a]{ .artR width="460" }][S41a]
+
 
 [ *Lauren* ]
 
@@ -10163,6 +10444,10 @@ The calm quiet of a woman being present.
 
 
 ## 42 With Clean Edges 🚪
+
+
+[![Celeste's Girl][S42a]{ .artR width="460" }][S42a]
+
 
 [ *Lauren* ]
 
@@ -10465,6 +10750,10 @@ But it no longer had the whole house to itself.
 
 ## 43 Keys 🔑
 
+
+[![Celeste's Girl][S43a]{ .artR width="460" }][S43a]
+
+
 [ *Lauren* ]
 
 The next morning, Sarah didn’t ask how I’d slept.
@@ -10661,15 +10950,17 @@ And I closed my fingers around it. 🔑✨
 
 
 
-/-->
 
 
 
-<!--
 
 
 
 ## 44 Do Not Follow Her 🪡
+
+
+[![Celeste's Girl][S44a]{ .artR width="460" }][S44a]
+
 
 [ *Lauren* ]
 
@@ -10866,6 +11157,10 @@ But he no longer possessed me.
 
 
 ## 45 Test Fit 💞
+
+
+[![Celeste's Girl][S45a]{ .artR width="460" }][S45a]
+
 
 [ *Lauren* ]
 
@@ -11130,6 +11425,10 @@ And I realised, as the light turned green and I drove us home, that my future in
 
 ## 46 A Bowl for Keys 💛
 
+
+[![Celeste's Girl][S46a]{ .artR width="460" }][S46a]
+
+
 [ *Lauren* ]
 
 Sarah’s front door stuck slightly on humid nights.
@@ -11163,8 +11462,6 @@ Longing.
 Not lust, not exactly. Just a simple craving to be touched—gently, warmly. A hunger that lived in my shoulders, in the back of my neck, in the place between my ribs where I’d been holding my breath for years.
 
 Once, I would have swallowed it down and called it discipline.
-
-
 
 Now, my body didn’t cooperate.
 
@@ -11274,7 +11571,13 @@ Then I followed Sarah into the kitchen, heart quiet for the first time all day, 
 
 
 
+
+
 ## 47 Always Tomorrow 💋
+
+
+[![Celeste's Girl][S47a]{ .artR width="460" }][S47a]
+
 
 [ *Sarah* ]
 
@@ -11471,6 +11774,10 @@ There’s always tomorrow.
 
 
 ## 48 Care is Basin-Shaped 💞
+
+
+[![Celeste's Girl][S48a]{ .artR width="460" }][S48a]
+
 
 [ *Sarah* ]
 
@@ -11706,7 +12013,13 @@ None of this was temporary anymore.
 
 
 
+
+
 ## 49 Jacket Potatoes 🥂
+
+
+[![Celeste's Girl][S49a]{ .artR width="460" }][S49a]
+
 
 [ *Celeste* ]
 
@@ -12048,6 +12361,10 @@ For tonight, it was enough that she was here, Charli was warm beside me, and nob
 
 ## 50 Swift and Strong 🚗
 
+
+[![Celeste's Girl][S50a]{ .artR width="460" }][S50a]
+
+
 [ *Celeste* ]
 
 The next morning the flat smelled like coffee and last night’s rosemary.
@@ -12249,6 +12566,10 @@ We weren’t waiting anymore.
 
 ## 51 Hand-Picked 👗
 
+
+[![Celeste's Girl][S51a]{ .artR width="460" }][S51a]
+
+
 [ *Sarah* ]
 
 The first thing that told me something was wrong was the silence.
@@ -12266,10 +12587,6 @@ I put the iron down, face-first on the rest. It hissed like it disapproved.
 From the workroom you could see the loading bay through the long glass door: a rectangle of outside light, the back of the van, the courier signing off. And just beyond, near the stacked calico rolls—Charli.
 
 She was in the new caraco test: light cocoa, pinned at the back with glass-headed pins so we could mark the seams properly. Petticoat, short gown, fichu. Hair up in that messy knot Celeste liked, the one that made her look like she’d just stepped out of an 18th-century painting and into our carpark.
-
-
-<img src="/assets/images/story/Scene51a.jpg" style="float: right; width: 440px; margin-left: 20px" />
-
 
 And next to her: a young bloke wearing a cheap company business suit and a confident grin, clipboard under one arm, leaning much too far into her space.
 
@@ -12395,10 +12712,6 @@ Once it was shut behind us, the workroom noise wrapped around us again—safe, f
 
 I steered Charli over to a stool near the pressing station and sat her down.
 
-
-<img src="/assets/images/story/Scene51b.jpg" style="float: right; width: 440px; margin-left: 20px" />
-
-
 “You did nothing wrong,” I said, directly. “Let’s start there.”
 
 Her eyes filled, stupidly fast. “I should’ve said something sooner,” she whispered. “I just… froze. And then I thought if I smiled he’d go away, but he didn’t, and—”
@@ -12448,6 +12761,10 @@ Inside, we were getting on with the work.
 
 
 ## 52 Resilience by Ambush 💞
+
+
+[![Celeste's Girl][S52a]{ .artR width="460" }][S52a]
+
 
 [ *Celeste* ]
 
@@ -12780,6 +13097,11 @@ We were, slowly and clumsily, getting there. Together.
 
 
 ## 53 A Big Ask 🧳
+
+
+[![Celeste's Girl][S53a]{ .artR width="460" }][S53a]
+
+
 [ *Celeste* ]
 
 By the time the final bolt of navy wool came off the cutting table, I measured time in coats.
@@ -12967,6 +13289,10 @@ One decision at a time.
 
 
 ## 54 Terms 🌧
+
+
+[![Celeste's Girl][S54a]{ .artR width="460" }][S54a]
+
 
 [ *Celeste* ]
 
@@ -13255,6 +13581,10 @@ For now, it was just the two of us in our too-small bed, clutching damp cotton a
 
 ## 55 Ships in the Night 💞
 
+
+[![Celeste's Girl][S55a]{ .artR width="460" }][S55a]
+
+
 [ *Sarah* ]
 
 By the time we got back from the lawyer’s office, the afternoon light had gone that thin, metallic colour that made everything in the street look slightly unreal.
@@ -13497,7 +13827,7 @@ For the first time since Queensland had become a solid thing on the calendar, I 
 
 
 
-## 56 Flying North, as Charli 🛫
+## 56 Flying North 🛫
 
 
 [![Charlie][S56a]{ .artR width="460" }][S56a]

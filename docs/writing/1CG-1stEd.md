@@ -1,15 +1,8 @@
 # Celeste's Girl
 
-<img src="/assets/images/story/PageHead.jpg" style="width: 1100px" />
 
+[![Wardrobe][Bra01]{ .artC width="1100" }][Bra01]
 
-😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 ⚧ ♀ ⚜
-
-<style>
-  .flex-container {display: flex; gap: 20px; align-items: flex-start;}
-  .column {flex: 1 1 0; min-width: 0;}
-  .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
-</style>
 
 <hr class="section-break strong" />
 
@@ -40,7 +33,9 @@ What does it cost her? What does it cost them? What does everyone gain that none
 
 ## 1 Are You Lost? ✨ 
 
-<img src="/assets/images/story/Scene01a.jpg" style="float: right; width: 460px; margin-left: 20px" />
+
+[![Celeste][S01a]{ .artR width="360" }][S01a]
+
 
 [ *Celeste* ]
 
@@ -144,7 +139,9 @@ I have to be careful with it.
 
 ## 2 Group Task ✨
 
-<img src="/assets/images/story/Scene02a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
+[![Celeste][S02a]{ .artR width="360" }][S02a]
+
 
 [ *Celeste* ]
 
@@ -333,7 +330,9 @@ Because I’d placed him — and left him room to decide whether he wanted to st
 
 ## 3 Wardrobe 🧵
 
-<img src="/assets/images/story/Scene03b.jpg" style="width: 1100px;" />
+
+[![Charlie][S03a]{ .artR width="360" }][S03a]
+
 
 [ *Celeste* ]
 
@@ -694,7 +693,7 @@ He glanced past me, as if expecting an audience. There was none: only the distan
 
 
 
-<img src="/assets/images/story/Scene03a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+[![Celeste][S03b]{ .artR width="360" }][S03b]
 
 
 
@@ -768,7 +767,7 @@ And, if he chose it, keep.
 
 ## 4 First Day 🧵
 
-<img src="/assets/images/story/Scene04a.jpg" style="float: right; width: 540px; margin-left: 20px" />
+[![Celeste][S04a]{ .artR width="360" }][S04a]
 
 [ *Celeste* ]
 
@@ -1044,7 +1043,9 @@ And, for the first time in a long time, he hadn’t been found wanting.
 
 ## 5 Second Day 🪡
 
-<img src="/assets/images/story/Scene05a.jpg" style="float: right; width: 540px; margin-left: 20px" />
+
+[![Celeste][S05a]{ .artR width="360" }][S05a]
+
 
 [*Celeste*]
 
@@ -1221,7 +1222,9 @@ And I’m not letting him waste it.
 
 ## 6 Sewing as Physics ✨
 
-<img src="/assets/images/story/Scene06a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
+[![Celeste][S06a]{ .artR width="360" }][S06a]
+
 
 [ *Celeste* ]
 
@@ -1433,7 +1436,8 @@ Into the next room.
 
 ## 7 Lauren ✨
 
-<img src="/assets/images/story/Scene07a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
+[![Celeste][S07c]{ .artR width="360" }][S07c]
 
 
 [ *Celeste* ]
@@ -1653,7 +1657,7 @@ Mara's mouth twitched again.
 
 ## 8 Infrastructure ✨
 
-<img src="/assets/images/story/Scene08a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+[![Celeste's Girl][S08a]{ .artR width="360" }][S08a]
 
 
 [ *Celeste* ]
@@ -1838,7 +1842,9 @@ And Charlie learning — quietly, steadily — how to live inside it.
 
 ## 9 Noise or Signal ✨
 
-<img src="/assets/images/story/Scene08a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
+[![Celeste's Girl][S09a]{ .artR width="360" }][S09a]
+
 
 [ *Celeste* ]
 
@@ -2074,10 +2080,11 @@ A room where the system’s noise could stay outside the door — because inside
 
 ## 10 Not My First Choice 👗
 
-<img src="/assets/images/story/Scene10a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
-👗
-[Celeste]
+[![Celeste's Girl][S10a]{ .artR width="360" }][S10a]
+
+
+👗 [Celeste]
 
 We found it the way we found most good things in Wardrobe: not through inspiration, but through paperwork. Mara slid a thin archival print-out across the cutting table without ceremony. It landed beside my notebook like a challenge.
 
@@ -2306,12 +2313,12 @@ It became a place that made new ones.
 
 ## 11 Has Charlie Run It? ✨
 
-<img src="/assets/images/story/Scene11a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
+[![Celeste's Girl][S11a]{ .artR width="360" }][S11a]
+
 
 [ *Celeste* ]
 
-✨ Has Charlie Run It? ✨
- [Celeste]
  It didn’t become a thing all at once.
 
 Nothing that matters ever does. It becomes a thing the way fabric becomes soft: through repetition, through use, through being pulled and released so many times that it stops fighting your hands.
@@ -2481,7 +2488,9 @@ It becomes the rule.
 
 ## 12 The Ledger 📒
 
-<img src="/assets/images/story/Scene12a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
+[![Celeste's Girl][S12a]{ .artR width="360" }][S12a]
+
 
 [Celeste]
 
@@ -2630,7 +2639,9 @@ And just like that, the atelier took one step away from being a clever little po
 
 ## 13 Working Stays ✨
 
-<img src="/assets/images/story/Scene13a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
+[![Celeste's Girl][S13a]{ .artR width="360" }][S13a]
+
 
 [Celeste]
 
@@ -2865,7 +2876,9 @@ Charlie’s pen paused. Finally, he underlined front closure once, neatly, and g
 
 ## 14 The Block ✨
 
-<img src="/assets/images/story/Scene14a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
+[![Celeste's Girl][S14a]{ .artR width="360" }][S14a]
+
 
 [ *Celeste* ]
 
@@ -3061,7 +3074,9 @@ It was commitment.
 
 ## 15 The Ladder ✨
 
-<img src="/assets/images/story/Scene15a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
+[![Celeste's Girl][S15a]{ .artR width="360" }][S15a]
+
 
 [ *Celeste* ]
 
@@ -3281,7 +3296,9 @@ And Charlie lifted his arms.
 
 ## 16 First Rung ✨
 
-<img src="/assets/images/story/Scene16a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
+[![Celeste's Girl][S16a]{ .artR width="360" }][S16a]
+
 
 [ *Celeste* ]
 
@@ -3408,7 +3425,9 @@ She had built a ladder.
 
 ## 17 Second Rung ✨
 
-<img src="/assets/images/story/Scene17a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
+[![Celeste's Girl][S17a]{ .artR width="360" }][S17a]
+
 
 [ *Celeste* ]
 
@@ -3594,7 +3613,9 @@ As if... work was what you did next.
 
 ## 18 Third Rung ✨
 
-<img src="/assets/images/story/Scene18a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
+[![Celeste's Girl][S18a]{ .artR width="360" }][S18a]
+
 
 [ *Celeste* ]
 
@@ -3776,7 +3797,9 @@ Competence could become a habit, and habits would hold you up when people couldn
 
 ## 19 The Numbers ✨
 
-<img src="/assets/images/story/Scene19a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
+[![Celeste's Girl][S19a]{ .artR width="360" }][S19a]
+
 
 ✨ The Numbers ✨
 
@@ -3988,7 +4011,9 @@ Inside, at the cutting table, we began building a story that would hold.
 
 ## 20 House Policy ✨ 
 
-<img src="/assets/images/story/Scene20a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
+[![Celeste's Girl][S20a]{ .artR width="360" }][S20a]
+
 
 [ *Celeste* ]
 
@@ -4230,6 +4255,10 @@ And these were the terms.
 
 ## 21 Rails ✨
 
+
+[![Celeste's Girl][S21a]{ .artR width="360" }][S21a]
+
+
 [ *Celeste* ]
 
 He didn’t arrive with a suitcase, but with a box of labels.
@@ -4363,7 +4392,7 @@ Charlie glanced at her, then back to me.
 I held his gaze.
 
 
-<img src="/assets/images/story/Scene21a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+[![Celeste's Girl][S21b]{ .artR width="360" }][S21b]
 
 
 
@@ -4396,6 +4425,10 @@ It was to be reliable.
 
 
 ## 22 Clean Help ✨
+
+
+[![Celeste's Girl][S23a]{ .artR width="360" }][S23a]
+
 
 [ *Celeste* ]
 
@@ -4452,10 +4485,6 @@ I lifted a hand.
 “This is fine.”
 
 His shoulders dropped a fraction. Relief. I sat and began to eat. The quiet felt earned, not imposed. After a minute, I said the thing that had been circling since yesterday.
-
-
-<img src="/assets/images/story/Scene22a.jpg" style="float: right; width: 440px; margin-left: 20px" />
-
 
 “You really do a lot.”
 
@@ -4582,6 +4611,10 @@ It felt like a system we could both live inside—without anyone losing themselv
 
 
 ## 23 Settling ✨
+
+
+[![Celeste's Girl][S23a]{ .artR width="360" }][S23a]
+
 
 [ *Celeste* ]
 
@@ -4735,10 +4768,6 @@ I met his eyes.
 
 For the first time, I understood the real shape of what was happening. It had been clear from the outset that Charlie wasn’t moving into my life as a romantic gesture. What wasn't clear at first, but became increasingly apparent was that he was moving into it like a support structure. My focus was to make sure the beam didn’t start thinking it was the roof. I tapped the whiteboard.
 
-
-<img src="/assets/images/story/Scene23a.jpg" style="float: right; width: 440px; margin-left: 20px" />
-
-
 “Available,” I added. “For ten minutes.”
 
 Charlie’s mouth twitched: he almost allowed himself a smile.
@@ -4759,6 +4788,10 @@ I didn’t deny it. I set the timer on my phone, sat at the table, and watched t
 
 
 ## 24 The Operating Surface ✨
+
+
+[![Celeste's Girl][S24a]{ .artR width="360" }][S24a]
+
 
 [ *Celeste* ]
 
@@ -4821,10 +4854,6 @@ His eyes moved down the page. Movement. Stress. Failure points. Fix applied. Re-
 “Actually, it’s boring,” I corrected. “That’s why it works.”
 
 He let out a faint breath that might have been a laugh if he’d trusted himself to make it.
-
-
-<img src="/assets/images/story/Scene24a.jpg" style="float: right; width: 440px; margin-left: 20px" />
-
 
 I pointed at the laptop.
 
@@ -4998,6 +5027,10 @@ More like a plan.
 
 ## 25 Definitions ✨
 
+
+[![Celeste's Girl][S25a]{ .artR width="360" }][S25a]
+
+
 [ *Celeste* ]
 
 The table stayed cleared. Not because I was being precious about it, but because the minute you let paper drift, you let thinking drift, and then you’re back to improvising your way into errors you could have prevented with ten seconds of discipline.
@@ -5031,10 +5064,6 @@ He looked up, cautious. Thinking like the ledger.
 I met his gaze calmly.
 
 “One word.” I let the silence do its job. “Wife.”
-
-
-<img src="/assets/images/story/Scene25a.jpg" style="float: right; width: 440px; margin-left: 20px" />
-
 
 His pencil hovered above the paper, as if his hand had forgotten its job. A small internal jolt passed through him: shoulders lifting a fraction, then settling. He took a breath, the kind you take when you’ve learned that saying the first thing you feel will only make it worse.
 
@@ -5198,6 +5227,10 @@ By “we”.
 
 ## 26 Boring Miracles ✨
 
+
+[![Celeste's Girl][S26a]{ .artR width="360" }][S26a]
+
+
 [ *Celeste* ]
 
 By the time it happened for me, it had already happened. That was the first thing I understood: there was no single moment where the room agreed. No vote. No declaration. No bright line you could point to and say:
@@ -5209,10 +5242,6 @@ It was stronger than that, and better: it was repetition. It was the way you sto
 Wardrobe had grown a second pulse since Mara’s ledger arrived. The first pulse was the work itself: cloth, bodies, heat, the blunt honesty of fit. The second was the record of it: ink that refused to flatter, names that made claims and then held them.
 
 On the corkboard above the cutting table, the first page of wear-tests had been replaced. Then replaced again. Failures were neatly noted and fixes applied. Retests were signed. It looked like progress, the way a scar looks like healing: not pretty, but proof that the body had done the hard thing and survived.
-
-
-<img src="/assets/images/story/Scene26a.jpg" style="float: right; width: 440px; margin-left: 20px" />
-
 
 Charlie had a chair now.
 
@@ -5228,13 +5257,9 @@ Lucy was sorting tape lengths into a tin like she was laying out surgical instru
 
 Leah had a bodice block pinned to the dress form, her fingers moving with the brisk assurance of someone who’d stopped negotiating with fabric and started commanding it.
 
-Talia was on her knees at the hem of a petticoat, seam ripper flashing, muttering to herself with the intimacy you only give a problem you fully intend to solve.
+Tahlia was on her knees at the hem of a petticoat, seam ripper flashing, muttering to herself with the intimacy you only give a problem you fully intend to solve.
 
 There were two actresses from the Faire sitting on the bench by the windows, lacing and unlacing stays under Mara’s supervision with the obedient patience of women who were paying to be uncomfortable on purpose.
-
-
-<img src="/assets/images/story/Scene26b.jpg" style="float: right; width: 440px; margin-left: 20px" />
-
 
 And Sarah—Sarah was sitting at one of the machines, leaning against the table with satisfied grin, watching all of it like she owned shares. She saw me and her grin broadened. A grin that contained, inexplicably, both mischief and loyalty.
 
@@ -5333,10 +5358,6 @@ It wasn’t pretty. Lauren’s handwriting never was when she was moving quickly
 Charlie’s gaze followed the cover, then returned to his hands. If he noticed the spelling, he didn’t show it. And of course he wouldn’t. Spoken aloud, nothing had changed. To him it was the same sound. The same tolerable ambiguity. He seem oblivious, the way people miss earthquakes when they’re inside a building designed to sway.
 
 And I had been missing it too.
-
-
-<img src="/assets/images/story/Scene26c.jpg" style="float: right; width: 440px; margin-left: 20px" />
-
 
 An actress from the Faire—a new girl, I didn’t recognize her—came in just before lunch with a garment bag on her arm and a problem on her face. She was young, freckled, earnest in that way that makes you want to be kind but not indulgent.
 
@@ -5440,6 +5461,10 @@ And the pencil kept moving.
 
 ## 27 Stop Tiptoeing ✨
 
+
+[![Celeste's Girl][S27a]{ .artR width="360" }][S27a]
+
+
 [ *Sarah* ]
 
 Wardrobe had two moods: working and waiting.
@@ -5459,11 +5484,6 @@ He turned up early the way anxious people did when they’d learned that being f
 The opposite of blokey. Blokes entered. They landed in a room as if space was made for them by law. They took up oxygen and called it personality.
 
 Charlie didn’t take up anything. He asked the air for permission.
-
-
-<img src="/assets/images/story/Scene27a.jpg" style="float: right; width: 440px; margin-left: 20px" />
-
-
 
 Lucy was in too, coffee in hand, unimpressed with the universe as usual. Tahlia followed, one earbud in, humming without meaning to, already tugging tape measures into submission. Mara said nothing to anyone, which was the closest she got to a welcoming speech.
 
@@ -5748,7 +5768,11 @@ Turning “she” from a word into a place.
 
 
 
-✨ Society Has Decided ✨
+✨ 28 Society Has Decided ✨
+
+
+[![Celeste's Girl][S28a]{ .artR width="360" }][S28a]
+
 
 [ *Celeste* ]
 
@@ -5785,10 +5809,6 @@ His voice had steadied over the months. Soft, but a different sort of soft; care
 Lucy was already at the cutting table, coffee in hand, unimpressed with the universe. Tahlia was humming without meaning to, pulling tape measures into line. Sarah was perched on her usual stool like she’d been born there, boot heel hooked on the rung, expression set to I am merely observing your civilisation, you little ferals.
 
 The Faire girls had been drifting through more and more often. Not just for fittings and repairs, but
-
-
-<img src="/assets/images/story/Scene28a.jpg" style="float: right; width: 440px; margin-left: 20px" />
-
 
  because Wardrobe had become a gravitational point: a women’s room, in the truest sense, the kind where you could be tired, sharp, messy, brilliant, and not have to explain any of it.
 
@@ -6007,6 +6027,10 @@ It was as if the word she had stopped being a risk and started being a home.
 
 ## 29 Not the Direction ✨
 
+
+[![Celeste's Girl][S29a]{ .artR width="360" }][S29a]
+
+
 [ *Lauren* ]
 
 Three months didn’t announce itself with fireworks, but with habits: like the hook Charli used without thinking. The way he reached for the tape measure before someone asked. Three months announced itself by way the room no longer paused when he stepped into it, because he belonged there now, as naturally as the kettle, as naturally as Mara’s shears.
@@ -6151,6 +6175,10 @@ It would be her.
 
 
 ## 30 The Brush ✨
+
+
+[![Celeste's Girl][S30a]{ .artR width="360" }][S30a]
+
 
 [ *Celeste* ]
 
@@ -6528,6 +6556,11 @@ And we’d have to do it gently enough that she stayed whole.
 
 ## 31 How We Do Safe ✨
 
+
+[![Celeste's Girl][S31a]{ .artR width="360" }][S31a]
+
+
+
 [ *Celeste* ]
 
 I had put the bottle on the kitchen bench.
@@ -6748,6 +6781,10 @@ She needed me close to feel that safety, herself.
 
 
 ## 32 In The Car ✨
+
+
+[![Celeste's Girl][S32a]{ .artR width="360" }][S32a]
+
 
 [ *Lauren* ]
 
@@ -7082,6 +7119,10 @@ Charli nodded, and for the first time in days, the nod didn’t look like surren
 
 ## 33 Commute ✨
 
+
+[![Celeste's Girl][S33a]{ .artR width="360" }][S33a]
+
+
 [ *Celeste* ]
 
 We left Wardrobe the way women leave a place that has held them all day: quietly, efficiently, without ceremony.
@@ -7309,6 +7350,10 @@ I held her hand like a vow I intended to keep.
 
 
 ## 34 Here 🌸
+
+
+[![Celeste's Girl][S34a]{ .artR width="360" }][S34a]
+
 
 [ *Celeste* ]
 
@@ -7629,6 +7674,10 @@ The kind that could make a girl feel—maybe for the first time—that she didn�
 
 
 ## 35 The Bench ❤️
+
+
+[![Celeste's Girl][S35a]{ .artR width="360" }][S35a]
+
 
 [ *Celeste* ]
 
@@ -8052,7 +8101,13 @@ The hardest part was making wanting her safe.
 
 
 
+
+
 ## 36 Coffee, Then Shade ☕️
+
+
+[![Celeste's Girl][S36a]{ .artR width="360" }][S36a]
+
 
 [ *Celeste* ]
 
@@ -8422,6 +8477,10 @@ Inside, we sat in the shade and let the world be wrong without letting it touch 
 
 ## 37 After the Visit 🫦
 
+
+[![Celeste's Girl][S37a]{ .artR width="360" }][S37a]
+
+
 [ *Celeste* ]
 
 Sarah left my house the same way she did most things: like the air was luckier for having been in her lungs. The front door shut. Not slammed—Sarah wasn’t vulgar—but closed with that precise, decisive click that felt like punctuation.
@@ -8554,7 +8613,14 @@ I will not be late again.
 
 
 
+
+
+
 ## 38 The Golf Course Call 📱
+
+
+[![Celeste's Girl][S38a]{ .artR width="360" }][S38a]
+
 
 [ *Sarah* ]
 
@@ -8703,7 +8769,13 @@ Done meant done.
 
 
 
+
+
 ## 39 Not Shaped Like You 🩸
+
+
+[![Celeste's Girl][S39a]{ .artR width="360" }][S39a]
+
 
 [ *Sarah* ]
 
@@ -8864,7 +8936,13 @@ And that yes was woman-shaped.
 
 
 
+
+
 ## 40 The Weight of Order 🧵
+
+
+[![Celeste's Girl][S40a]{ .artR width="360" }][S40a]
+
 
 [ *Lauren* ]
 
@@ -9091,7 +9169,13 @@ And for the first time that day I felt the faintest hint of peace: not because e
 
 
 
+
+
 ## 41 The Door That Locks 🚪
+
+
+[![Celeste's Girl][S41a]{ .artR width="360" }][S41a]
+
 
 [ *Lauren* ]
 
@@ -9321,7 +9405,14 @@ The calm quiet of a woman being present.
 
 
 
+
+
+
 ## 42 With Clean Edges 🚪
+
+
+[![Celeste's Girl][S42a]{ .artR width="360" }][S42a]
+
 
 [ *Lauren* ]
 
@@ -9623,6 +9714,10 @@ But it no longer had the whole house to itself.
 
 ## 43 Keys 🔑
 
+
+[![Celeste's Girl][S43a]{ .artR width="360" }][S43a]
+
+
 [ *Lauren* ]
 
 The next morning, Sarah didn’t ask how I’d slept.
@@ -9821,7 +9916,13 @@ And I closed my fingers around it. 🔑✨
 
 
 
+
+
 ## 44 Do Not Follow Her 🪡
+
+
+[![Celeste's Girl][S44a]{ .artR width="360" }][S44a]
+
 
 [ *Lauren* ]
 
@@ -10017,6 +10118,10 @@ But he no longer possessed me.
 
 
 ## 45 Test Fit 💞
+
+
+[![Celeste's Girl][S45a]{ .artR width="360" }][S45a]
+
 
 [ *Lauren* ]
 
@@ -10278,7 +10383,13 @@ And I realised, as the light turned green and I drove us home, that my future in
 
 
 
+
+
 ## 46 A Bowl for Keys 💛
+
+
+[![Celeste's Girl][S46a]{ .artR width="360" }][S46a]
+
 
 [ *Lauren* ]
 
@@ -10423,7 +10534,13 @@ Then I followed Sarah into the kitchen, heart quiet for the first time all day, 
 
 
 
+
+
 ## 47 Always Tomorrow 💋
+
+
+[![Celeste's Girl][S47a]{ .artR width="360" }][S47a]
+
 
 [ *Sarah* ]
 
@@ -10619,6 +10736,10 @@ There’s always tomorrow.
 
 
 ## 48 Care is Basin-Shaped 💞
+
+
+[![Celeste's Girl][S48a]{ .artR width="360" }][S48a]
+
 
 [ *Sarah* ]
 
@@ -10853,7 +10974,14 @@ None of this was temporary anymore.
 
 
 
+
+
+
 ## 49 Jacket Potatoes 🥂
+
+
+[![Celeste's Girl][S49a]{ .artR width="360" }][S49a]
+
 
 [ *Celeste* ]
 
@@ -11192,7 +11320,14 @@ For tonight, it was enough that she was here, Charli was warm beside me, and nob
 
 
 
+
+
+
 ## 50 Swift and Strong 🚗
+
+
+[![Celeste's Girl][S50a]{ .artR width="360" }][S50a]
+
 
 [ *Celeste* ]
 
@@ -11394,6 +11529,10 @@ We weren’t waiting anymore.
 
 ## 51 Hand-Picked 👗
 
+
+[![Celeste's Girl][S51a]{ .artR width="360" }][S51a]
+
+
 [ *Sarah* ]
 
 The first thing that told me something was wrong was the silence.
@@ -11411,10 +11550,6 @@ I put the iron down, face-first on the rest. It hissed like it disapproved.
 From the workroom you could see the loading bay through the long glass door: a rectangle of outside light, the back of the van, the courier signing off. And just beyond, near the stacked calico rolls—Charli.
 
 She was in the new caraco test: light cocoa, pinned at the back with glass-headed pins so we could mark the seams properly. Petticoat, short gown, fichu. Hair up in that messy knot Celeste liked, the one that made her look like she’d just stepped out of an 18th-century painting and into our carpark.
-
-
-<img src="/assets/images/story/Scene51a.jpg" style="float: right; width: 440px; margin-left: 20px" />
-
 
 And next to her: a young bloke wearing a cheap company business suit and a confident grin, clipboard under one arm, leaning much too far into her space.
 
@@ -11540,10 +11675,6 @@ Once it was shut behind us, the workroom noise wrapped around us again—safe, f
 
 I steered Charli over to a stool near the pressing station and sat her down.
 
-
-<img src="/assets/images/story/Scene51b.jpg" style="float: right; width: 440px; margin-left: 20px" />
-
-
 “You did nothing wrong,” I said, directly. “Let’s start there.”
 
 Her eyes filled, stupidly fast. “I should’ve said something sooner,” she whispered. “I just… froze. And then I thought if I smiled he’d go away, but he didn’t, and—”
@@ -11591,7 +11722,13 @@ Inside, we were getting on with the work.
 
 
 
+
+
 ## 52 Resilience by Ambush 💞
+
+
+[![Celeste's Girl][S52a]{ .artR width="360" }][S52a]
+
 
 [ *Celeste* ]
 
@@ -11922,7 +12059,14 @@ We were, slowly and clumsily, getting there. Together.
 
 
 
+
+
 ## 53 A Big Ask 🧳
+
+
+[![Celeste's Girl][S53a]{ .artR width="360" }][S53a]
+
+
 [ *Celeste* ]
 
 By the time the final bolt of navy wool came off the cutting table, I measured time in coats.
@@ -12108,7 +12252,13 @@ One decision at a time.
 
 
 
+
+
 ## 54 Terms 🌧
+
+
+[![Celeste's Girl][S54a]{ .artR width="360" }][S54a]
+
 
 [ *Celeste* ]
 
@@ -12392,7 +12542,13 @@ For now, it was just the two of us in our too-small bed, clutching damp cotton a
 
 
 
+
+
 ## 55 Ships in the Night 💞
+
+
+[![Celeste's Girl][S55a]{ .artR width="360" }][S55a]
+
 
 [ *Sarah* ]
 
@@ -12633,6 +12789,10 @@ For the first time since Queensland had become a solid thing on the calendar, I 
 
 
 ## 56 Flying North, as Charli 🛫
+
+
+[![Celeste's Girl][S56a]{ .artR width="360" }][S56a]
+
 
 [ *Charli* ]
 

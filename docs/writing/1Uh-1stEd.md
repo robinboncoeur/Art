@@ -12396,11 +12396,10 @@ As the plane dipped further and the world rose up to meet us, I pressed my foreh
 
 --8<-- "includes/image-references.md"
 
+<!--
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧 —— … …
-
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺—— 
 
-<hr class="section-break strong" />
 
 
 Freya (Celeste)
@@ -12453,3 +12452,9 @@ https://elevenlabs.io/app/voice-library?voiceId=ZEt85AU1ui8Rr8FxNslW
 
 Kirsty
 https://elevenlabs.io/app/voice-library?voiceId=VYkr1IQzbDVb2GJoYAIl
+
+
+
+-->
+
+<hr class="section-break strong" />
