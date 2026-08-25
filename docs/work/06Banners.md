@@ -255,3 +255,11 @@ Banner on, and well done! 💐
 
 
 <hr class="section-break strong" />
+
+<!-- Images References -->
+
+--8<-- "includes/image-references.md"
+
+🌷
+
+<hr class="section-break strong" />

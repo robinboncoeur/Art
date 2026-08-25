@@ -1144,24 +1144,12 @@ sarahzyx woman, close-up portrait, left profile, blonde hair in a bun
 sarahzyx woman, close-up portrait, three-quarter view, neutral expression, blonde hair in a bun
 ...
 
-<!--           Image Links         /-->
+<hr class="section-break strong" />
 
-[Br02]: ../assets/images/base/Bnr02a.jpg
+<!-- Images References -->
 
-[Sy08]: ../assets/images/base/08maiden.jpg
-[Sy15]: ../assets/images/base/15orage.jpg
-[Sy17]: ../assets/images/base/17think.jpg
-[Sy18]: ../assets/images/base/18shop.jpg
+--8<-- "includes/image-references.md"
 
-[Sy01]: ../assets/images/story/Scene03a.jpg
-[Sy02]: ../assets/images/story/Scene07a.jpg
-[Sy03]: ../assets/images/story/Scene08a.jpg
-[Sy04]: ../assets/images/story/Scene09a.jpg
-[St05]: ../assets/images/story/Scene10a.jpg
-[St06]: ../assets/images/story/Scene12a.jpg
-[St07]: ../assets/images/story/Scene15a.jpg
-[St08]: ../assets/images/story/Scene16a.jpg
-[Sy09]: ../assets/images/story/Scene17a.jpg
-[Sy14]: ../assets/images/story/Scene18a.jpg
+🌷
 
-<!--           Image Links         /-->
+<hr class="section-break strong" />

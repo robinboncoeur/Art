@@ -638,21 +638,10 @@ Dpm fast
 
 <hr class="section-break strong" />
 
+<!-- Images References -->
 
-<!--           Image Links         /-->
+--8<-- "includes/image-references.md"
 
-[Br02]: ../assets/images/base/Bnr02c.jpg
-[Sy08]: ../assets/images/base/08maiden.jpg
+🌷
 
-[Syf1]: ../assets/images/base/01ftrain.jpg
-[Sy02]: ../assets/images/base/02music.jpg
-[Sy03]: ../assets/images/base/03mists.jpg
-[Sy04]: ../assets/images/base/04maiden.jpg
-[Sy05]: ../assets/images/base/05flight.jpg
-[Sy06]: ../assets/images/base/06office.jpg
-[Sy07]: ../assets/images/base/07WritingFriday.jpg
-[Sy08]: ../assets/images/base/08maiden.jpg
-[Sy09]: ../assets/images/base/09aParis.jpg
-[St07a]: ../assets/images/story/Scene07a.jpg
-[St10b]: ../assets/images/story/Scene10b.jpg
-[Sy26]: ../assets/images/story/26Celeste.jpg
+<hr class="section-break strong" />

@@ -13611,40 +13611,16 @@ As the plane dipped further and the world rose up to meet us, I pressed my foreh
 
 
 
-<!--  Image references  -->
+<hr class="section-break strong" />
 
-[Br01a]: ../assets/images/base/Bnr01a.jpg
+<!-- Images References -->
 
-[St00a]: ../assets/images/base/00Writer.jpg
+--8<-- "includes/image-references.md"
 
-[S01a]: ../assets/images/story/Scene01a.jpg
-[S02a]: ../assets/images/story/Scene02a.jpg
-[S03a]: ../assets/images/story/Scene03a.jpg
-[S04a]: ../assets/images/story/Scene04a.jpg
-[S05a]: ../assets/images/story/Scene05a.jpg
-[S06a]: ../assets/images/story/Scene06a.jpg
-[S07a]: ../assets/images/story/Scene07a.jpg
-[S08a]: ../assets/images/story/Scene08a.jpg
-[S09a]: ../assets/images/story/Scene09a.jpg
-[S10a]: ../assets/images/story/Scene10a.jpg
-[S11a]: ../assets/images/story/Scene11a.jpg
-[S12a]: ../assets/images/story/Scene12a.jpg
-[S13a]: ../assets/images/story/Scene13a.jpg
-[S14a]: ../assets/images/story/Scene14a.jpg
-[S15a]: ../assets/images/story/Scene15a.jpg
-[S16a]: ../assets/images/story/Scene16a.jpg
-[S17a]: ../assets/images/story/Scene17a.jpg
-[S18a]: ../assets/images/story/Scene18a.jpg
-[S19a]: ../assets/images/story/Scene19a.jpg
-[S20a]: ../assets/images/story/Scene20a.jpg
-[S21a]: ../assets/images/story/Scene21a.jpg
-[S22a]: ../assets/images/story/Scene22a.jpg
-[S23a]: ../assets/images/story/Scene23a.jpg
-[S24a]: ../assets/images/story/Scene24a.jpg
-[S25a]: ../assets/images/story/Scene25a.jpg
+🌷
 
+<hr class="section-break strong" />
 
-[S56a]: ../assets/images/story/Scene56a.jpg
 
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧 —— … …
 

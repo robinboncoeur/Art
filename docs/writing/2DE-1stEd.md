@@ -8583,47 +8583,12 @@ I took my keys out of my purse.
 
 
 
+<hr class="section-break strong" />
 
+<!-- Images References -->
 
-<!--            Image Links             /-->
+--8<-- "includes/image-references.md"
 
-[Br02]: ../assets/images/base/Bnr02a.jpg
+🌷
 
-[Sy01]: ../assets/images/story/DScene01a.jpg
-[Sy02]: ../assets/images/story/DScene02a.jpg
-[Sy03]: ../assets/images/story/DScene03a.jpg
-[Sy04]: ../assets/images/story/DScene04a.jpg
-[Sy05]: ../assets/images/story/DScene05a.jpg
-[Sy06]: ../assets/images/story/DScene06a.jpg
-[Sy07]: ../assets/images/story/DScene07a.jpg
-[Sy08]: ../assets/images/story/DScene08a.jpg
-[Sy09]: ../assets/images/story/DScene09a.jpg
-[Sy10]: ../assets/images/story/DScene10a.jpg
-[Sy11]: ../assets/images/story/DScene11a.jpg
-[Sy12]: ../assets/images/story/DScene12a.jpg
-[Sy13]: ../assets/images/story/DScene13a.jpg
-[Sy14]: ../assets/images/story/DScene14a.jpg
-[Sy15]: ../assets/images/story/DScene15a.jpg
-[Sy16]: ../assets/images/story/DScene16a.jpg
-[Sy17]: ../assets/images/story/DScene17a.jpg
-[Sy18]: ../assets/images/story/DScene18a.jpg
-[Sy19]: ../assets/images/story/DScene19a.jpg
-[Sy20]: ../assets/images/story/DScene20a.jpg
-[Sy21]: ../assets/images/story/DScene21a.jpg
-[Sy22]: ../assets/images/story/DScene22a.jpg
-[Sy23]: ../assets/images/story/DScene23a.jpg
-[Sy24]: ../assets/images/story/DScene24a.jpg
-[Sy25]: ../assets/images/story/DScene25a.jpg
-[Sy26]: ../assets/images/story/DScene26a.jpg
-[Sy27]: ../assets/images/story/DScene27a.jpg
-[Sy28]: ../assets/images/story/DScene28a.jpg
-[Sy29]: ../assets/images/story/DScene29a.jpg
-[Sy30]: ../assets/images/story/DScene30a.jpg
-[Sy31]: ../assets/images/story/DScene31a.jpg
-[Sy32]: ../assets/images/story/DScene32a.jpg
-[Sy33]: ../assets/images/story/DScene33a.jpg
-[Sy34]: ../assets/images/story/DScene34a.jpg
-[Sy35]: ../assets/images/story/DScene35a.jpg
-
-
-<!--            Image Links             /-->
+<hr class="section-break strong" />

@@ -1,7 +1,7 @@
 # To Study
 
 
-[![Wardrobe][Bnr03b]{ .artC width="1100" }][Bnr03b]
+[![Wardrobe][Brb3]{ .artC width="1100" }][Brb03]
 
 
 
@@ -237,3 +237,14 @@ That may be the distilled heart of Charlotte’s view.
 It lets her desire bottom surgery without making anatomy the basis of womanhood. It states identity first, surgery second. It is not for arousal, not for public inspection, not for political defence. It is peace. Quiet. Dissonance removed.
 
 And that, darling Robyn, is a very Charlotte reason. 💛
+
+
+<hr class="section-break strong" />
+
+<!-- Images References -->
+
+--8<-- "includes/image-references.md"
+
+🌷
+
+<hr class="section-break strong" />

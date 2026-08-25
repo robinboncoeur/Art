@@ -1470,41 +1470,10 @@ I agree completely, Robyn: this isn't merely useful material for *The Ledger*. *
 
 <hr class="section-break strong" />
 
+<!-- Images References -->
 
+--8<-- "includes/image-references.md"
 
-
-
-
-## Invisible Image Links
-
-✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧👢✨…
-
-😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 🎧 —
-
-
-[Br01]: ../assets/images/base/Bnr02a.jpg
-[St01]: ../assets/images/base/01eWinter.jpg
-[Std1]: ../assets/images/base/01dLily.jpg
-[Ste1]: ../assets/images/base/01dLily.jpg
-[Stg1]: ../assets/images/base/01gKaimu.jpg
-[Sth1]: ../assets/images/base/01hCeleste.jpg
-[Sti1]: ../assets/images/base/01iCeleste.jpg
-[Stj1]: ../assets/images/base/01jWriter.jpg
-[Stk1]: ../assets/images/base/01kRULost.jpg
-[Stf1]: ../assets/images/base/01dLily.jpg
-[St08]: ../assets/images/base/08maiden.jpg
-
-
-[St00]: ../assets/images/base/00Writer.jpg
-[St02]: ../assets/images/story/Scene07a.jpg
-[St03]: ../assets/images/story/Scene08a.jpg
-[St04]: ../assets/images/story/Scene09a.jpg
-[St05]: ../assets/images/story/Scene10a.jpg
-[St06]: ../assets/images/story/Scene12a.jpg
-[St07]: ../assets/images/story/Scene15a.jpg
-[St09]: ../assets/images/story/Scene17a.jpg
-[St10]: ../assets/images/story/Scene18a.jpg
-
-
+🌷
 
 <hr class="section-break strong" />

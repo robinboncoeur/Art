@@ -161,18 +161,19 @@ That’s the line. Gentle enough to say. Strong enough to stand on. 🌿
 
 
 
-<!--  Image references  -->
+<hr class="section-break strong" />
 
-[Br35]: assets/images/base/Bnr35c.jpg
-[St00]: assets/images/base/00Writer.jpg
+<!-- Images References -->
 
+--8<-- "includes/image-references.md"
+
+🌷
+
+<hr class="section-break strong" />
 
 <!--
 
-✈️ 🛬 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
-
+✈️ 🛬 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧 😊 … …
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 🔐 — —
 
 /-->
-
-<hr class="section-break strong" />

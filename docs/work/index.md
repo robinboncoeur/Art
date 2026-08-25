@@ -1102,7 +1102,7 @@ extra:
 [St10]: ../assets/images/base/10montvl.jpg
 [St12]: ../assets/images/base/12accost.jpg
 [St13]: ../assets/images/base/13donga.jpg
-[St14]: ../assets/images/base/14alice.jpg
+[St14]: ../assets/images/base/30alice.jpg
 [St15]: ../assets/images/base/15orage.jpg
 [St16]: ../assets/images/base/16flight.jpg
 

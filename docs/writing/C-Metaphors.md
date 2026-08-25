@@ -1,7 +1,7 @@
 # Metaphor Writing
 
 
-[![img][Bnr03b]{ .artC width="1110" }][Bnr03b]
+[![img][Brb03]{ .artC width="1110" }][Brb03]
 
 
 <hr class="section-break strong" />
@@ -313,7 +313,7 @@ If you keep doing exactly what you’re doing—writing, then interrogating *whe
 ## Second Pass
 
 
-[![img][St01]{ .artR width="460" }][St02]
+[![img][St01]{ .artR width="460" }][Sta2]
 
 
 Robyn   
@@ -1090,16 +1090,7 @@ Looking forward to it. ✨
 
 <!--   Image Links    /-->
 
-[Bnr03b]: ../assets/images/base/Bnr03b.jpg
-[St00]: ../assets/images/base/00Writer.jpg
-
-[St01]: ../assets/images/story/Scene01a.jpg
-[St02]: ../assets/images/story/Scene02a.jpg
-[St03]: ../assets/images/story/Scene03a.jpg
-[St04]: ../assets/images/story/Scene04a.jpg
-[St05]: ../assets/images/story/Scene05a.jpg
-[St06]: ../assets/images/story/Scene06a.jpg
-[St07]: ../assets/images/story/Scene07a.jpg
+--8<-- "includes/image-references.md"
 
 <!--
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻 💧 🚺  —

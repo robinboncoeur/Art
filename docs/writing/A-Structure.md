@@ -410,7 +410,7 @@ It’s guard rails.
 ## Emotions
 
 
-[![The Wardrobe][S11]{ .artR width="460" }][S11]
+[![The Wardrobe][St07]{ .artR width="460" }][St07]
 
 
 Hi you 🌿
@@ -534,7 +534,7 @@ If you’d like next time, we can build a “Do Not Use” list too — the phra
 ## Tight Throat
 
 
-[![Charlie][S15]{ .artR width="460" }][S15]
+[![Charlie][St08]{ .artR width="460" }][St08]
 
 
 Hi Robyn 💛
@@ -767,7 +767,7 @@ But even without that: with the swaps above, this excerpt will instantly feel mo
 ## New Site Challenges
 
 
-[![Charlie][S17]{ .artR width="460" }][S17]
+[![Charlie][St05]{ .artR width="460" }][St05]
 
 
 Oh this is a deliciously practical question. 🧵✂️
@@ -929,7 +929,7 @@ Your instincts are excellent here. You’re building texture, not drama — and 
 
 ## Audio Test
 
-[![Charlie][S19]{ .artR width="460" }][S19]
+[![Charlie][St06]{ .artR width="460" }][St06]
 
 I wrote Celeste’s Girl because I’m tired of two lies.
 That womanhood is a costume.
@@ -955,56 +955,7 @@ It’s also a quiet insistence that trans women are not an enemy camp… but som
 
 <!--  Image references  -->
 
-[Brb35]: ../assets/images/base/Bnr35b.jpg
-[Bra01]: ../assets/images/base/Bnr01a.jpg
-[Bra02]: ../assets/images/base/Bnr02a.jpg
-[Brc02]: ../assets/images/base/Bnr02c.jpg
-[Brb03]: ../assets/images/base/Bnr03b.jpg
-
-[S01]: ../assets/images/story/Scene01a.jpg
-[S02]: ../assets/images/story/Scene02a.jpg
-[S03]: ../assets/images/story/Scene03a.jpg
-[S04]: ../assets/images/story/Scene04a.jpg
-[S05]: ../assets/images/story/Scene05a.jpg
-[S06]: ../assets/images/story/Scene06a.jpg
-[S07]: ../assets/images/story/Scene07a.jpg
-[S08]: ../assets/images/story/Scene08a.jpg
-[S09]: ../assets/images/story/Scene09a.jpg
-[S10]: ../assets/images/story/Scene10a.jpg
-[S11]: ../assets/images/story/Scene11a.jpg
-[S12]: ../assets/images/story/Scene12a.jpg
-[S13]: ../assets/images/story/Scene13a.jpg
-[S14]: ../assets/images/story/Scene14a.jpg
-[S15]: ../assets/images/story/Scene15a.jpg
-[S16]: ../assets/images/story/Scene16a.jpg
-[S17]: ../assets/images/story/Scene17a.jpg
-[S18]: ../assets/images/story/Scene18a.jpg
-[S19]: ../assets/images/story/Scene19a.jpg
-[S20]: ../assets/images/story/Scene20a.jpg
-[S21]: ../assets/images/story/Scene21a.jpg
-[S22]: ../assets/images/story/Scene22a.jpg
-[S23]: ../assets/images/story/Scene23a.jpg
-[S24]: ../assets/images/story/Scene24a.jpg
-[S25]: ../assets/images/story/Scene25a.jpg
-[S56]: ../assets/images/story/Scene56a.jpg
-
-
-[St00]: ../assets/images/base/00Writer.jpg
-[Ts00]: ../assets/images/base/00Emily.jpg
-[Sta1]: ../assets/images/base/01aKaimu.jpg
-[Stb1]: ../assets/images/base/01vRead.jpg
-[Stc1]: ../assets/images/base/01cActress.jpg
-[Std1]: ../assets/images/base/01dLily.jpg
-[Ste1]: ../assets/images/base/01eWinter.jpg
-[St02]: ../assets/images/base/02music.jpg
-[St03]: ../assets/images/base/03mists.jpg
-[St04]: ../assets/images/base/04maiden.jpg
-[St05]: ../assets/images/base/05flight.jpg
-[St06]: ../assets/images/base/06office.jpg
-[St07]: ../assets/images/base/07WritingFriday.jpg
-[St08]: ../assets/images/base/08maiden.jpg
-[St09]: ../assets/images/base/09aParis.jpg
-[St10]: ../assets/images/base/10montvl.jpg
+--8<-- "includes/image-references.md"
 
 <!--
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧…

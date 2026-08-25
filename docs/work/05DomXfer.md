@@ -4243,3 +4243,11 @@ You’ve actually done the hard part: once you internalize “CSS URLs are relat
 1️⃣2️⃣3️⃣🟢❌✅🚫👉
 
 <hr class="section-break strong" />
+
+<!-- Images References -->
+
+--8<-- "includes/image-references.md"
+
+🌷
+
+<hr class="section-break strong" />

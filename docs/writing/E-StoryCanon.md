@@ -61,6 +61,7 @@ The stories primarily use character dialogue to tell the story. They aim to be:
 - reader-protective without being dishonest  
 - clear-eyed about risk without becoming despair-driven  
 
+<hr class="section-break soft" />
 
 ### 1.2 Moral / tonal contract with the reader
 **Locked canon**
@@ -73,6 +74,7 @@ The project’s governing promise is approximately:
 
 The work aims to model what a **sane, loving, non-panicked female response** sounds like.
 
+<hr class="section-break soft" />
 
 ### 1.3 General thematic centre
 **Locked canon**
@@ -97,7 +99,7 @@ Wardrobe and related women-led environments are not merely accepting spaces; the
 
 ## 2. World and Setting
 
-[![img][St02]{ .artR width="460" }][St02]
+[![img][Sta2]{ .artR width="460" }][Sta2]
 
 ### 2.1 Wardrobe
 **Locked canon**
@@ -115,6 +117,7 @@ It functions as more than a workplace. It is:
 - a women’s competence network  
 - a place of containment and placement  
 
+<hr class="section-break soft" />
 
 ### 2.2 Geography
 **Locked canon**
@@ -156,6 +159,8 @@ Note: *Earlier conceptions placing it on the Gold Coast have been superseded.*
 ### 4.1 Charlie / Charli / Charlotte Rossignol
 **Locked canon**
 
+Age: 19
+
 #### Core identity
 Charlotte Rossignol was born and registered in Victoria, Australia as Charles Rossignol. She spent her childhood and adolescence living as a boy before gradually coming to understand herself as female during late adolescence and early adulthood.
 
@@ -171,6 +176,7 @@ Eventually, society will never see Charlotte as anything but a woman, but Charlo
 
 Charlotte does not have a driving licence.
 
+<hr class="section-break soft" />
 
 #### Essence
 **Locked canon**
@@ -192,13 +198,14 @@ Charlotte does not have a driving licence.
 - derives satisfaction from making things quietly better  
 - lacking formative peer-group conditioning cis-girls receive
 
+<hr class="section-break soft" />
 
 #### Social Truth
 **Locked canon**
 
 Charlotte is a young woman shaped by female guidance, emotional responsiveness, and a profound need to find her proper place. Thanks to a very late onset of puberty, she developed very little in the way of physical masculine traits and so after commencing HRT is physically indistinguishable from a cis-woman. Her social risks are therefore those of other young women, but she does **not** possess their accumulated lived experience. A gifted observer who mistakes invisibility for safety.
 
-
+<hr class="section-break soft" />
 
 #### Psyche
 **Locked canon**
@@ -225,6 +232,7 @@ Charlotte is a young woman shaped by female guidance, emotional responsiveness, 
 - can feel suddenly unbuffered outside female protective structures  
 - easily thrown by situations where ordinary femininity becomes embodied
 
+<hr class="section-break soft" />
 
 #### Relationship with Craft
 
@@ -238,7 +246,7 @@ She repeatedly demonstrates an instinctive respect for materials. Whether it's m
 * derives satisfaction from making things quietly better
 * prefers precision to speed
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -253,16 +261,18 @@ She repeatedly demonstrates an instinctive respect for materials. Whether it's m
 #### Core identity
 **Locked canon**
 
+Age: 20
+
 Celeste Shelley was born in Torquay, Victoria, Australia of Lisbeth and Nigel Shelley. The family moved to the UK when she was little. Lisbeth took her back to their home in Torquay — without Nigel — when Celeste was nine. Celeste had a strong role model in her mum, who valued independence and critical thinking skills.
 
 Celeste excelled academically and socially at school, although she tended to stay a bit aloof of her peers as she grew older. A tumultuous, failed relationship with a blond midfielder (alluded to in Scene 49) was her only foray into the dating scene.
 
 Celeste drives a 10-year-old red Suzuki Swift, gift from her father.
 
+<hr class="section-break soft" />
 
 #### Essence
 Celeste is part of the governing intelligence of the story world. She is stronger and more decisive than Charlotte.
-
 
 **Emotionally:**
 - strong
@@ -282,6 +292,7 @@ Celeste is part of the governing intelligence of the story world. She is stronge
 - usually the emotional and moral centre of a scene
 - usually protective, controlling, perceptive, and formative
 
+<hr class="section-break soft" />
 
 #### Strengths  
 - provides moral atmosphere  
@@ -290,21 +301,21 @@ Celeste is part of the governing intelligence of the story world. She is stronge
 - separates danger from uncertainty  
 - capable of bringing order into emotional confusion
 
+<hr class="section-break soft" />
 
 #### Vulnerabilities / complexities  
 - can be controlling  
 - may structure others before fully understanding her own motives  
 - bears genuine anxiety about whether those she loves will cope without her
 
-
-
-
+<hr class="section-break soft" />
 
 ### Narrative importance
 **Locked canon**
 
 The story is, in a profound sense, at least as much about Celeste as it is about Charlotte. Her judgment, desires, interpretations, and structuring intelligence shape the emotional and moral atmosphere.
 
+<hr class="section-break soft" />
 
 ### POV / voice rule
 **Locked canon**
@@ -316,6 +327,7 @@ Celeste POV, as indeed all character points-of-view, should be written in:
 
 Celeste has a dry sense of humour, which shows in her speech and her observations.
 
+<hr class="section-break soft" />
 
 ### Functional story role
 **Locked canon**
@@ -326,6 +338,7 @@ Celeste often provides:
 - discernment rather than soothing cliché  
 - distinction between uncertainty and danger
 
+<hr class="section-break soft" />
 
 ### Current _Deep End_ state
 **Locked canon**
@@ -335,13 +348,14 @@ Celeste had earlier feared that Charli might not cope being away from the full W
 - their bond still steadies her  
 - distance has changed the form of support, not erased it
 
+<hr class="section-break soft" />
 
 ### Key relational truth
 **Locked canon**
 
 Celeste represents “home” to Charli, not merely in romance but in emotional shelter, orientation, and female placement.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -352,6 +366,8 @@ Celeste represents “home” to Charli, not merely in romance but in emotional 
 **Locked / broader canon**
 
 [![img][S23a]{ .artR width="160" }][S23a]
+
+Age 52
 
 Mara is part of the women’s competence network and is linked to training, professionalism, and Charli’s status change. She is dry, standards-led, and non-sentimental. A costume maker who believes people's hands reveal their character long before their words do.
 
@@ -364,12 +380,17 @@ Mara’s evolution in how she names Charli signals status change and metamorphos
 * How does she choose volunteers?
 * What disappointments has she absorbed without becoming bitter?
 
+<hr class="section-break soft" />
 
 ### Status
 **Locked broader dossier**
 
+<hr class="section-break soft" />
+
 ### Essence
 Mara belongs to the women’s competence network and represents standards, professionalism, and dry female authority.
+
+<hr class="section-break soft" />
 
 ### Core qualities
 - exacting
@@ -390,7 +411,7 @@ Mara belongs to the triad of women who shape Charli differently:
 - one directs socially
 - one trains professionally
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -402,6 +423,8 @@ Mara belongs to the triad of women who shape Charli differently:
 **Locked canon**
 
 [![img][S08a]{ .artR width="460" }][S08a]
+
+Age 42
 
 Lauren is part of the wider women-led network and has previously featured in emotionally significant scenes. She is associated with steadiness, survival, and practical recovery. A nurse who instinctively cares for people before judging them, but who has spent years doubting her own perceptions.
 
@@ -418,13 +441,17 @@ She belongs to the broader female competence network around Wardrobe. Points to 
 * Things she believes to be true at the opening of the story.
 * Things she doesn't yet know.
 
----
+<hr class="section-break soft" />
 
 ### Status
 **Locked broader dossier**
 
+<hr class="section-break soft" />
+
 ### Essence
 Lauren is associated with steadiness, practical survival, and emotional recovery within the wider women-led network.
+
+<hr class="section-break soft" />
 
 ### Core qualities
 - grounded
@@ -432,15 +459,18 @@ Lauren is associated with steadiness, practical survival, and emotional recovery
 - emotionally important in her own right
 - shaped by survival and untangling difficult structures
 
+<hr class="section-break soft" />
+
 ### Function
 Lauren helps embody the broader truth that Wardrobe’s women do not merely speak well; they survive, organise, and act.
 
+<hr class="section-break soft" />
 
 ### Relationship
 
-And Roger? A man who mistakes fulfilling responsibility for understanding the people he's is responsible for.
+And Roger (age: 45)? A man who mistakes fulfilling responsibility for understanding the people he's is responsible for.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -456,6 +486,8 @@ And Roger? A man who mistakes fulfilling responsibility for understanding the pe
 
 **Locked canon**
 
+Age 34
+
 Sarah is:
 - acerbic
 - dry
@@ -465,10 +497,14 @@ Sarah is:
 
 Her tenderness, when it appears, is notable precisely because it emerges against this baseline.
 
+<hr class="section-break soft" />
+
 ### Current _Deep End_ role
 **Locked canon**
 
 Sarah has been preoccupied with the practical finishing touches of Wardrobe’s physical plant and has not recently been central in Charli’s day-to-day Queensland orbit.
+
+<hr class="section-break soft" />
 
 ### Voice rule
 **Locked canon**
@@ -485,19 +521,27 @@ Sarah’s voice should remain dry, sharp, and consistent even if the wider narra
 
 ## 4.7 Leah
 
+[![img][Stc2]{ .artR width="460" }][Stc2]
+
 ### Status
 **Locked broader dossier**
+
+Age 18
+
+<hr class="section-break soft" />
 
 ### Essence
 Leah...
 
+<hr class="section-break soft" />
+
 ### Core qualities
 
--
+<hr class="section-break soft" />
 
 ### Story function
 
--
+<hr class="section-break soft" />
 
 ### Thematic role
 
@@ -512,19 +556,27 @@ Leah...
 
 ## 4.8 Lucy
 
+[![img][St13]{ .artR width="460" }][St13]
+
 ### Status
 **Locked broader dossier**
 
+Age 29
+
+<hr class="section-break soft" />
+
 ### Essence
-Lucy...
+L...
+
+<hr class="section-break soft" />
 
 ### Core qualities
 
--
+<hr class="section-break soft" />
 
 ### Story function
 
--
+<hr class="section-break soft" />
 
 ### Thematic role
 
@@ -535,21 +587,32 @@ Lucy...
 
 
 
-## 4.9 Tahlia
+## 4.9 Tahlia Mercer
+
+[![img][Stb2]{ .artR width="460" }][Stb2]
 
 ### Status
 **Locked broader dossier**
 
+Age 39
+
+<hr class="section-break soft" />
+
 ### Essence
-Tahlia...
+
+Her strong suit in Wardrobe — what she excels at — is the overlocker. She's happily married to Ian Mercer, who loves cars (a bit too much, his only fault).
+
+Married to Ian Mercer
+
+<hr class="section-break soft" />
 
 ### Core qualities
 
--
+<hr class="section-break soft" />
 
 ### Story function
 
--
+<hr class="section-break soft" />
 
 ### Thematic role
 
@@ -565,16 +628,22 @@ Tahlia...
 ### Status
 **Locked broader dossier**
 
+Age 25
+
+<hr class="section-break soft" />
+
 ### Essence
-Bree...
+...
+
+<hr class="section-break soft" />
 
 ### Core qualities
 
--
+<hr class="section-break soft" />
 
 ### Story function
 
--
+<hr class="section-break soft" />
 
 ### Thematic role
 
@@ -592,16 +661,22 @@ Bree...
 ### Status
 **Locked broader dossier**
 
+Age 22
+
+<hr class="section-break soft" />
+
 ### Essence
-Bree...
+...
+
+<hr class="section-break soft" />
 
 ### Core qualities
 
--
+<hr class="section-break soft" />
 
 ### Story function
 
--
+<hr class="section-break soft" />
 
 ### Thematic role
 
@@ -621,6 +696,8 @@ Bree...
 
 
 **Locked canon / emerging canon**
+
+Age 22
 
 Brittany is becoming a crucial figure in _The Deep End_.
 
@@ -684,6 +761,8 @@ Brittany earns trust **not by demanding truth, but by handling ambiguity with gr
 
 **Locked canon (limited but usable)**
 
+Age 46
+
 Fiona is in a position where her respect matters socially and professionally. She is part of the group whose regard Charli has earned through competence.
 
 At present, Fiona serves as evidence that Charli’s teaching mode is legitimate and valued.
@@ -717,20 +796,27 @@ Fiona’s regard helps establish that Charli is becoming credible and valued in 
 ### Status
 **Locked broader dossier**
 
+Age 44
+
+<hr class="section-break soft" />
+
 ### Essence
-Bree...
+...
+
+<hr class="section-break soft" />
 
 ### Core qualities
 
--
+<hr class="section-break soft" />
 
 ### Story function
 
--
+<hr class="section-break soft" />
 
 ### Thematic role
 
 <hr class="section-break strong" />
+
 
 
 
@@ -746,16 +832,22 @@ Bree...
 ### Status
 **Locked broader dossier**
 
+Age 42
+
+<hr class="section-break soft" />
+
 ### Essence
-Lisbeth...
+...
+
+<hr class="section-break soft" />
 
 ### Core qualities
 
--
+<hr class="section-break soft" />
 
 ### Story function
 
--
+<hr class="section-break soft" />
 
 ### Thematic role
 
@@ -2080,61 +2172,7 @@ I stopped to taste it. “French for: Nightingale.”
 
 <!--   Image Links    /-->
 
-[Brb35]: ../assets/images/base/Bnr35b.jpg
-[Bra01]: ../assets/images/base/Bnr01a.jpg
-[Brb01]: ../assets/images/base/Bnr01b.jpg
-[Bra02]: ../assets/images/base/Bnr02a.jpg
-
-[S01a]: ../assets/images/story/Scene01a.jpg
-[S02a]: ../assets/images/story/Scene02a.jpg
-[S03a]: ../assets/images/story/Scene03a.jpg
-[S04a]: ../assets/images/story/Scene04a.jpg
-[S05a]: ../assets/images/story/Scene05a.jpg
-[S06a]: ../assets/images/story/Scene06a.jpg
-[S07a]: ../assets/images/story/Scene07a.jpg
-[S08a]: ../assets/images/story/Scene08a.jpg
-[S09a]: ../assets/images/story/Scene09a.jpg
-[S10a]: ../assets/images/story/Scene10a.jpg
-[S11a]: ../assets/images/story/Scene11a.jpg
-[S12a]: ../assets/images/story/Scene12a.jpg
-[S13a]: ../assets/images/story/Scene13a.jpg
-[S14a]: ../assets/images/story/Scene14a.jpg
-[S15a]: ../assets/images/story/Scene15a.jpg
-[S16a]: ../assets/images/story/Scene16a.jpg
-[S17a]: ../assets/images/story/Scene17a.jpg
-[S18a]: ../assets/images/story/Scene18a.jpg
-[S19a]: ../assets/images/story/Scene19a.jpg
-[S20a]: ../assets/images/story/Scene20a.jpg
-[S21a]: ../assets/images/story/Scene21a.jpg
-[S22a]: ../assets/images/story/Scene22a.jpg
-[S23a]: ../assets/images/story/Scene23a.jpg
-[S24a]: ../assets/images/story/Scene24a.jpg
-[S25a]: ../assets/images/story/Scene25a.jpg
-[S56a]: ../assets/images/story/Scene56a.jpg
-
-
-[St00]: ../assets/images/base/00Writer.jpg
-[Ts00]: ../assets/images/base/00Emily.jpg
-[Sta1]: ../assets/images/base/01aKaimu.jpg
-[Stb1]: ../assets/images/base/01vRead.jpg
-[Stc1]: ../assets/images/base/01cActress.jpg
-[Std1]: ../assets/images/base/01dLily.jpg
-[Ste1]: ../assets/images/base/01eWinter.jpg
-[Stn1]: ../assets/images/base/01nCeleste.jpg
-[St01]: ../assets/images/base/01aBout.jpg
-[St02]: ../assets/images/base/02music.jpg
-[St03]: ../assets/images/base/03mists.jpg
-[St04]: ../assets/images/base/04maiden.jpg
-[St05]: ../assets/images/base/05flight.jpg
-[St06]: ../assets/images/base/06office.jpg
-[St07]: ../assets/images/base/07WritingFriday.jpg
-[St08]: ../assets/images/base/08maiden.jpg
-[St09]: ../assets/images/base/09aParis.jpg
-[St10]: ../assets/images/base/10montvl.jpg
-[St11]: ../assets/images/base/11bdress.jpg
-[St12]: ../assets/images/base/12accost.jpg
-[St13]: ../assets/images/base/13donga.jpg
-[St14]: ../assets/images/base/14Sarah.jpg
+--8<-- "includes/image-references.md"
 
 <!--
 😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 👗 👚 👜 👠 🩰 💄  💞 💖 ❤️ 💋 🎻 📒 🩸 💧 🚺 ❤️ 🫧 🌩 🌧 🧵 🪡 —

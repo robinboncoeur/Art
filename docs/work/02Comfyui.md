@@ -6238,35 +6238,10 @@ If you send me your current denoise/CFG and typical aspect ratio, I’ll tailor 
 
 <hr class="section-break strong" />
 
+<!-- Images References -->
 
-<!--           Image Links         /-->
+--8<-- "includes/image-references.md"
 
-[Br02]: ../assets/images/base/Bnr02c.jpg
+🌷
 
-[Sy01]: ../assets/images/base/01ftrain.jpg
-[Sy02]: ../assets/images/base/02music.jpg
-[Sy03]: ../assets/images/base/03mists.jpg
-[Sy04]: ../assets/images/base/04maiden.jpg
-[Sy05]: ../assets/images/base/05flight.jpg
-[Sy06]: ../assets/images/base/06office.jpg
-[Sy07]: ../assets/images/base/07WritingFriday.jpg
-[Sy08]: ../assets/images/base/08maiden.jpg
-[Sy09]: ../assets/images/base/09aParis.jpg
-[Sy10]: ../assets/images/base/10montvl.jpg
-[Sy11]: ../assets/images/base/11bdress.jpg
-[Sy12]: ../assets/images/base/12accost.jpg
-[Sy13]: ../assets/images/base/13donga.jpg
-[Sy14]: ../assets/images/base/14alice.jpg
-[Sy15]: ../assets/images/base/15orage.jpg
-[Sy16]: ../assets/images/base/16flight.jpg
-[Sy17]: ../assets/images/base/17think.jpg
-[Sy18]: ../assets/images/base/18shop.jpg
-[Sy19]: ../assets/images/base/19charlotte.jpg
-[Sy15]: ../assets/images/base/15orage.jpg
-[Sy26]: ../assets/images/base/26Celeste.jpg
-
-[St07a]: ../assets/images/story/Scene07a.jpg
-[St10b]: ../assets/images/story/Scene10b.jpg
-
-
-[b25]: ../blogs/Blog0925.md
+<hr class="section-break strong" />

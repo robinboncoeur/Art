@@ -540,7 +540,7 @@ There.
 [Stc1]: ../assets/images/base/01cActress.jpg
 [Std1]: ../assets/images/base/01dLily.jpg
 [Ste1]: ../assets/images/base/01eWinter.jpg
-[St02]: ../assets/images/base/02music.jpg
+[Sta2]: ../assets/images/base/02amusic.jpg
 [St03]: ../assets/images/base/03mists.jpg
 [St04]: ../assets/images/base/04maiden.jpg
 [St05]: ../assets/images/base/05flight.jpg

@@ -12888,4 +12888,12 @@ I reached across the narrow gap and curled my fingers around Sarah’s where the
 
 As the plane dipped further and the world rose up to meet us, I pressed my forehead one more time against the humming window and let myself believe, properly, that I was exactly where I was meant to be: flying north with a woman I trusted at my side, another one waiting for me in a small, messy flat far below the clouds, and the next chapter of my life laid out somewhere between the coast and the hills, ready to be stitched. ✨
 
-<hr style="height:24px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break strong" />
+
+<!-- Images References -->
+
+--8<-- "includes/image-references.md"
+
+🌷
+
+<hr class="section-break strong" />

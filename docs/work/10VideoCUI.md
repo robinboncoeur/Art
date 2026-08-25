@@ -36,3 +36,14 @@ Only then do we add interpolation, upscaling, longer duration, or more elaborate
 I also agree with keeping FramePack installed. Its export problem is likely repairable, and it may still prove useful for certain images or motion styles even if Hunyuan becomes the main tool.
 
 So our next practical task is simply: **identify the exact Hunyuan I2V workflow and model files suitable for your current ComfyUI installation and 16 GB card**, then get one minimal portrait test running. That is where we begin. 🎬
+
+
+<hr class="section-break strong" />
+
+<!-- Images References -->
+
+--8<-- "includes/image-references.md"
+
+🌷
+
+<hr class="section-break strong" />
