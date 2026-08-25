@@ -65,13 +65,13 @@ Or so I thought. And then, I purchased Dorico 6, and found that Musescore 4—bo
   </div>
 </div>
 
-Slightly [different orchestration](https://media.seabrae.org/audio/cg/music/TheWrongDoor-Eb.pdf).
+Slightly [different orchestration](https://media.seabrae.org/audio/cg/music/TheWrongDoor-Ec.pdf).
 
 <div class="music-card music-card--with-art">
   <div>
     <p>E
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoor-Eb.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoor-Ec.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
     </p>
