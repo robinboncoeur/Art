@@ -1,7 +1,7 @@
 # Art and Writing
 
 
-[![Celeste and Charli][Br35]{ .artC width="1100" }][Br35]
+[![Celeste and Charli][Brb35]{ .artC width="1100" }][Brb35]
 
 
 <hr class="section-break strong" />
