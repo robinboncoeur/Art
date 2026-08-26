@@ -1644,7 +1644,7 @@ And Lauren nodded.
 
 
 
-## 7 Morning Tea ✨
+## 8 Morning Tea ✨
 
 
 [![Charlie][S08a]{ .artR width="460" }][S08a]
@@ -1816,7 +1816,7 @@ I already knew that was unrealistic.
 
 
 
-## 8 Signal, not Noise ✨
+## 9 Signal, not Noise ✨
 
 [![Charlie][S09a]{ .artR width="460" }][S09a]
 
@@ -2084,12 +2084,11 @@ The door clicked shut.
 
 
 
-## 9 Not My First Choice 👗
+## 10 Not My First Choice 👗
 
 [![Charlie][S10a]{ .artR width="460" }][S10a]
 
 <!--
-This was Scene 10 — "Not My First Choice".
 Time of year: March
 👗 
 -->
@@ -2154,7 +2153,9 @@ I noticed then his hair had been brushed back more carefully than usual, and his
 
 We didn’t take any more time to admire our prototype. We did what we always did with any garment we'd improved: we tested with a chemise and a real day's work.
 
-And Lucy was our default tester. She was one of our most reliable staff, one who would often go back and do Faire actress work when we needed someone to test a costume. She did actual work: lifting baskets, crouching for children, running for late arrivals.
+On Lucy.
+
+Lucy was our default tester. A fitter and a tester, she was the one we relied on to give us real-world information on a garment. She would do Faire actress work at times: lifting baskets, crouching for children, running for late arrivals.
 
 She was the kind of wearer who put costumes through their paces. 
 
@@ -2174,25 +2175,27 @@ Yes. We knew.
 
 Mara took the garment from Lucy the focused way a mechanic takes a part off an engine and laid it flat on the table. She pressed her palm along the seam.
 
-“This is not failure.” Mara wasn’t talking to Lucy but to me. “Still, I don't want Lucy wearing it again until we get some core issues sorted.”
+“This is not failure,” Mara said to me. “Still, I don't want Lucy wearing it again until we get some core issues sorted.”
 
-"What are you suggesting?”
+"How do you suggest we sort the issues?”
 
-"Just telling us where a garment pulls is not enough to go on." She ran her fingers along the seam. "The tester should understand what a garment is telling us about the physics.”
+"Just having Lucy tell us where a garment pulls is not enough information." She ran her fingers along the seam. "We need to know what a garment is telling us about the physics.”
 
 Mara turned the dress over.
 
-"The 'where' isn't the question. This dress isn't keeping any secrets from me. It's plain as daylight."
+"The 'where' isn't the question. That bit's as plain as daylight."
 
-"Well, we could try to run a seam this way or that, a few times, like making stays."
+"So, do we run a seam this way or that, a few times?"
 
-She shook her head, and turned towards the mending pile.
+She shook her head, and turned towards the mending table.
+
+"No, I need the 'how'. I want the physics." 
 
 I felt my spine stiffen.
 
 “Charlie.”
 
-The way Mara said 'Charlie' then landed differently than 'Rossignol' ever did — like an unexpected promotion.
+The way Mara said 'Charlie' at that moment landed differently than 'Rossignol' ever did.
 
 Charlie looked up. Mara held up the garment with two fingers.
 
@@ -2204,21 +2207,21 @@ Mara nodded. “Yes. *He* is.”
 
 The logic was undeniable. 
 
-We couldn’t test properly — and obtain the data we needed — from someone who only knew how to wear. 
+*Physics.* 
 
-The tester should be able to read a behaviour and know where the fix lived.
-
-And Charlie *would*.
+Charlie could read a behaviour and know where the fix lived.
 
 I carefully watched his face. The smallest frown slowly appeared as his eyes dropped to his torso — doing maths. 
 
 A calculation: *will this even sit right?*
 
+His eyes went to the dress again and his frown melted into slight confusion.
+
 Mara silently waited. 
 
-Charlie’s eyes went to the dress again. His frown melted into slight confusion. Lucy casually sidled up beside him.
+I watched Lucy casually sidle up beside him.
 
-“Well,” she murmured, eyes bright, “a tester, no less. And of a dress.”
+“Well,” she murmured innocently, eyes bright, “a tester! And of a dress.”
 
 Charlie glanced at her and gave one shoulder a nearly imperceptible shrug.
 
@@ -2246,13 +2249,11 @@ We moved to the fitting area. Mara drew the curtain and held the garment up.
 
 “Arms up.”
 
-Charlie complied as if his body were a coat stand. Mara worked quickly, checking lines, checking pull, checking where the fabric resisted movement.
-
-I stood just outside the curtain, notebook in hand.
+Charlie complied. Mara worked quickly, checking lines, pull, and where the fabric resisted movement.
 
 “Turn. Now lift your arms. Higher. Good. Twist. Again.”
 
-I could only just hear Charlie’s movements: quiet, obedient — professional. And then, Mara’s voice: irritated yet satisfied.
+And then, her voice: irritated yet satisfied.
 
 “There,” she said. “Feel that?”
 
@@ -2264,21 +2265,25 @@ Mara's exhale was almost harsh.
 
 “Say it again.”
 
-Charlie repeated it, clearer. I scribbled furiously.
+I stood just outside the fitting area curtain, notebook in hand, scribbling furiously.
 
 “The closure,” he continued, “holds. But if someone grabs here—" 
 
-There was a faint sound.
+The curtain moved slightly.
 
 “—it transfers force to the waistband. The reinforcement needs to stop before the pivot point, or it becomes a lever. It will eventually tear next to the reinforcement.”
 
 Silence.
 
-I wrote as fast as I could, my mind already mapping the fix. Stop the tape at the pivot. Shift the ease. Strengthen without bulk. Preserve the silhouette. 
+I wrote as fast as I could, my mind already mapping the fix.
+
+Stop the tape at the pivot. Shift the ease. Strengthen without bulk.
+
+Preserve the silhouette. 
 
 Mara drew the curtain back.
 
-Charlie stepped out, still in the dress, looking slightly flushed, his eyes on the floor, one finger on the spot  indicating strain. Mara grabbed chalk and marked a line on the garment. 
+Charlie stepped out, still in the dress, one finger on the spot indicating strain. Mara grabbed chalk and marked a line on the garment.
 
 I watched his face: controlled, determined.
 
@@ -2286,7 +2291,7 @@ I watched his face: controlled, determined.
 
 Her eyes flicked to him.
 
-“We test with Charlie,” she finished, "from here on out." 
+“Here on out, we test with Charlie." 
 
 Charlie’s ears went slightly pink. I kept my voice flat. 
 
@@ -2294,15 +2299,13 @@ Charlie’s ears went slightly pink. I kept my voice flat.
 
 Mara nodded. “Exactly. Make it defensible.” She turned to Charlie.
 
-“You can take it off now,” she said. “And then, write me a report.”
+“You can take it off now,” she said. “Then, write me a report.”
 
 Charlie blinked. “A report.”
 
 “Yes,” Mara said. “Details. Where it pulled. What caused it. What you propose. In plain language. No poetry.”
 
 “Yes Mara.”
-
-He moved towards the fitting curtain again, and this time the shadow of misgiving didn’t follow him. The brightness of the task . Work had swallowed any awkwardness, the way it always did for him. 
 
 He disappeared behind the curtain.
 
@@ -2322,27 +2325,31 @@ Then underneath, because it mattered, because it named what we were building:
 
 Mara’s gaze flicked over my shoulder, and her mouth twitched again.
 
-“Now we can do this properly.”
+“Now we do this properly.”
 
-The second prototype was a jacket. Different cut, different sleeve head, but the same intention: make it survive the day without turning it into armour. Mara hung it on the mannequin and stood back, chin lifted.
+---
 
-“Right,” she said. “We’re not sending Lucy out to be the crash test.”
+The second prototype was a jacket. Different cut, different sleeve head, but the same intention: make it survive the day without turning it into armour. Mara hung it on the mannequin and stood back, chin lifted. Lucy and I watched her pull on the sleeves, and pull at the sides.
 
-Lucy, already half-grinning as if she knew she would normally have been volunteered, blithely stepped away from the jacket.
+Mara turned to us.
 
-“Bless,” she said, and looked at me. “Thank you.”
+“So, this time,” she said to Lucy, “we’re not sending *you* out to crash test it.”
 
-Mara ignored her gratitude the way she ignored weather.
+Lucy half-grinned as she blithely took a step back.
+
+“Bless,” she said with a flick of the hand. “Thank you.”
+
+Mara ignored her.
 
 “Charlie.”
 
-Charlie looked up from the bench where he’d been hand-stitching a reinforcement tape onto a waistband. He put his needle down carefully, as if precision was a form of respect, and stood. Mara held up the jacket with two fingers.
+Charlie looked up from the bench where he’d been hand-stitching a reinforcement tape onto a waistband. He put his needle down carefully, precisely, and stood. Mara held up the jacket with two fingers.
 
 “Same drill.”
 
 “Right. Where’s the log sheet?”
 
-That was the moment I realised the unease hadn’t vanished: it had been translated into structure, into process. He wordlessly took the sheet from her and moved toward the fitting curtain.
+The unease hadn’t vanished: it had been translated into structure, into process. He wordlessly took the sheet from her and moved toward the fitting area.
 
 Mara snapped the curtain closed with a decisive tug.
 
@@ -2358,13 +2365,15 @@ Charlie set his work down and stood.
 
 Mara’s eyes flicked to the curtain hardware as if it had personally offended her.
 
-“Yes,” she said. “We'll get it fixed.”
+“Yes,” she said, “we'll get it fixed.”
 
-By the fourth garment, no one had named it — but everyone was using it.
+By the fourth garment, no one had named it — but everyone was using it. It had become routine. 
 
-Later, weeks into this new rhythm, I caught the moment it became truly normal. A new jacket had been pinned, a clever cut I’d been excited about. It looked perfect on the mannequin. The silhouette was right. The closures sat where they should. It was one of those garments that made you want to clap. 
+A new jacket had been pinned, a clever cut I’d been excited about. It looked perfect on the mannequin. The silhouette was right. The closures sat where they should. 
 
-Lucy reached for it, stopped, and glanced at Mara.
+Lucy ran her fingers over the seams.
+
+"Looks just about ready to me."
 
 Mara didn’t even look up from her pattern paper.
 
@@ -2374,9 +2383,11 @@ Charlie, at the bench, lifted his head.
 
 “I can do it now, if you want me to.”
 
-“Good,” Mara said. “Ten minutes. Break it on purpose.”
+“Do it,” Mara said. “Ten minutes. Break it on purpose.”
 
-Charlie stood, took the log sheet off the clipboard, and walked to the fitting area.
+Charlie lifted the clipboard with the log sheet from its hook, removed the jacket from the mannequin and took both to the fitting area.
+
+The curtain closed with a crisp snick.
 
 <hr class="section-break soft" />
 
