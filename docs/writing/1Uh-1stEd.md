@@ -31,7 +31,7 @@ I write character-driven fiction about gender, power, belonging, and the women w
 
 ### Purpose
 
-[![Charlotte][St00a]{ .artL width="360" }][St00a]
+[![Charlotte][St00]{ .artL width="280" }][St00]
 
 <!--
 <div class="music-card music-card--with-art">
