@@ -175,7 +175,7 @@ I closed the door and filed him away.
 
 For now.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -394,7 +394,7 @@ He stared at me for a moment, then gave a noncommittal nod.
 
 I could feel him watching me walk away.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -745,7 +745,7 @@ I turned slowly, and looked at him properly.
 
 And then, I walked away, back toward Wardrobe, back into steam and cloth-dust and the woman who didn’t take strays.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -1071,7 +1071,7 @@ He looked around, then, at the rails, the steam, the dresses on the mannequins.
 
 His shoulders seemed to drop, the tiniest bit.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -1264,7 +1264,7 @@ Charlie went very still.
 
 He rose and took the sleeve from her.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -1428,7 +1428,7 @@ I opened the door to the laundry. Fabric softener highlights slowly escorted sta
 
 And Wardrobe cautiously resumed breathing wool and chalk dust.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -1444,15 +1444,29 @@ And Wardrobe cautiously resumed breathing wool and chalk dust.
 [![Charlie][S07a]{ .artR width="460" }][S07a]
 
 <!--
-Scene 6 removed. This was Scene 7.
-Time of year: February
+TIME: February
+
+APPEARING / WHAT WE KNOW:
+Charlie — now Known in Wardrobe; quiet, not timid.
+Lucy — practical dresser/fitter, comfortable with Charlie, lightly mischievous.
+Mara — already recognises Charlie's precision and technical thinking.
+Celeste — increasingly able to read Charlie's small reactions.
+
+RELATIONSHIPS AT START:
+Wardrobe → Charlie: Known, moving toward Trusted. 
+He's finding his role in Wardrobe increasingly important.
+Still certain that he's bound for shipyards and welding equipment.
+
+CHANGE:
+Lauren challenges Mara: Charlie's name and role.
+Learns about Wardrobe.
 -->
 
 [ *Celeste* ]
 
 I was at the rail tagging garment bags when Lauren Rossignol arrived.
 
-She didn't come to Wardrobe like a mother arriving at a principal's office. Instead, she stepped into the room respectfully, like someone realising she'd entered a place where skilled hands were at work. A canvas tote on her shoulder and her car keys in her hand, her gaze swept the room, at the rails, the mannequin, the prototype jacket pinned in place.
+She didn't come to Wardrobe like a mother arriving at a principal's office. Instead, she stepped into the room respectfully, like someone realising she'd entered a place where skilled hands were at work. A canvas tote on her shoulder and her car keys in her hand, her gaze swept the room, at the rails, the mannequin wearing Lily's palace dress with pins in place.
 
 Her hair was pulled back too tightly for vanity.
 
@@ -1466,7 +1480,7 @@ She looked up.
 
 "Can I help you."
 
-Lauren paused. Her gaze had settled on the mending corner that wasn't a corner anymore, where a figure sat with their back to her, absorbed in a garment. She turned to Mara.
+Lauren paused. Her gaze had settled on the mending table for a few seconds longer than necessary, where a figure sat with their back to her, absorbed in a garment. She turned to Mara.
 
 "I'm Charles' mother," she said finally.
 
@@ -1488,63 +1502,35 @@ Lauren nodded. Mara pointed at the chair next to her table.
 
 "Would you like to sit down?"
 
-Lauren sat, carefully. She placed her keys on her knee instead of the table, as if not to take up more space than necessary. Her tote stayed on her shoulder.
+Lauren sat, carefully. She placed her keys on her knee instead of the table. Her tote stayed on her shoulder.
 
-Mara eyed her calmly.
+Mara eyed her, impassive.
 
 "My name is Mara." The words came out quiet, measured. "What would you like to know?"
 
-Lauren looked around the room again, searching — then hastily returned, as if remembering her manners.
+Lauren was looking around the room again, searching. She hastily returned, as if remembering her manners.
 
-"Sorry, I'm Lauren." She stopped, pressing her fist against her lips for a beat. "I want to understand why he's not in maintenance anymore."
+"Sorry. I'm Lauren." She stopped, pressing her fist against her lips for a beat. "I just want to understand why he's here and not in maintenance."
 
 Mara's mouth went into a thin line.
 
-"Maintenance wasn't working."
+“Maintenance gave him work that needs shoulders. He needs work that requires hands.”
 
-Lauren's head went back slightly.
+Lauren stared at her for a moment.
 
-"I'm not sure I follow."
+"His father arranged Maintenance."
 
-"Maintenance expected Charlie to solve problems by force," Mara explained. "That's not how he works."
+Mara held Lauren in her gaze.
 
-"What do you mean?"
+"Alright," she said.
 
-Mara folded her hands.
+Lauren's shoulders moved slightly forward. She took in a slow deep breath and let it out in a short puff.
 
-"He slows down when faced with a problem," she replied, "and then, he handles things carefully."
+And stared at the window.
 
-Lauren stared at the table.
+Mara waited.
 
-"And I suppose that approach doesn't work in maintenance." 
-
-Mara tapped the table once. "Correct. And in Wardrobe, it's required."
-
-Lauren looked at the pattern paper on Mara's table.
-
-"May I ask what is this for?"
-
-Mara gestured towards the open window. Morning at the Historical Faire was in full swing: the voices of actors in the marketplace proclaiming the virtues of their onions and turnips could be heard in the distance.
-
-"New production. The Faire wants a shopkeeper line."
-
-Lauren's eyebrows rose.
-
-"You make them here yourselves?"
-
-"Been doing so for years," Mara said. "Almost since the Faire opened. The owners weren't happy with what we were getting from overseas."
-
-Lauren's head tipped with appreciation. She glanced at the sewing machines on the next table.
-
-"We make costumes and maintain them," Mara continued. "And alter them, if need be. Store seasonal items after we've prepared them for next season."
-
-The steamer hissed as the shouting of the vendors seemed to grow louder.
-
-"So, this isn't just repair. It's— a trade."
-
-"Several trades," said Mara. "People think all we do is stitch torn seams." She stood. "We're a workshop. Cloth just happens to be our material."
-
-Lauren looked thoughtful for a moment, then seemed to remember something. Reaching into her tote bag, she produced a folded piece of cloth, which she handed to Mara.
+"I'm just concerned for his future,” Lauren said finally. She looked thoughtful for a moment, then seemed to remember something. Reaching into her tote bag, she produced a folded piece of cloth, which she handed to Mara.
 
 "Charlie showed me this last night," she said. "The lace had separated from the cap. He'd sewn it back."
 
@@ -1580,7 +1566,47 @@ She pointed at the edge of the lace.
 
 "You didn't just teach sewing, but seeing."
 
-Lauren's hand reached out and gently touched the lace. Her head bobbed in a barely perceptible nod. She glanced at Mara, then turned to the window.
+Lauren's hand reached out and gently touched the lace. Her head bobbed in a barely perceptible nod. She glanced at Mara, and then her eyes fell on the mannequin proudly wearing the ornate gown. She took in the sewing machines on tables with folded fabric and bobbins of thread and tins for chalk, pins, and thimbles. And finally, stopped at the repair table.
+
+"Would you like to have a look around?"
+
+Lauren nodded again and pointed at the pattern on the table.
+
+"May I ask what is this for?"
+
+Mara gestured towards the open window. Morning at the Historical Faire was in full swing: the voices of actors in the marketplace proclaiming the virtues of their onions and turnips could be heard in the distance.
+
+"New production. The Faire wants a shopkeeper line."
+
+Lauren's eyebrows rose.
+
+"You don't just do repairs, then?"
+
+"We did," Mara said, "when the Faire first opened. But then, the owners weren't happy with what we were getting from overseas."
+
+Lauren's head tilted as she studied the pattern.
+
+"The costumes we made held up better," Mara continued. "And so, management kept ordering new ones to replace the others. There aren't that many of the overseas ones left."
+
+The front-loader started its final spin rattle as the shouting of the vendors seemed to grow louder.
+
+"So, this is— a trade."
+
+"Several trades," said Mara. "People think all we do is stitch torn seams." She stood. "We're a workshop. Cloth just happens to be our material."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 "So, what do I do?"
 
@@ -1634,7 +1660,41 @@ He held up the seam.
 
 And Lauren nodded.
 
-<hr class="section-break soft" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=========================
+
+Lauren looked at the pattern paper on Mara's table.
+
+
+
+=============================
+
+<hr class="section-break strong" />
 
 
 
@@ -1806,7 +1866,7 @@ I gave what I hoped was a sympathetic smile and left.
 
 I already knew that was unrealistic.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -2074,7 +2134,7 @@ Mara didn’t look up from the sleeve.
 
 The door clicked shut.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -2089,7 +2149,20 @@ The door clicked shut.
 [![Charlie][S10a]{ .artR width="460" }][S10a]
 
 <!--
-Time of year: March
+TIME: March
+
+APPEARING / WHAT WE KNOW:
+Charlie — now Known in Wardrobe; quiet isn't automatically read as timidity anymore.
+Lucy — practical dresser, comfortable with Charlie, lightly mischievous.
+Mara — already recognises Charlie's precision and technical thinking.
+Celeste — increasingly able to read Charlie's small reactions.
+
+RELATIONSHIPS AT START:
+Wardrobe → Charlie: Known, moving toward Trusted.
+
+CHANGE:
+Charlie becomes the routine garment tester.
+Testing becomes work, not an event.
 👗 
 -->
 
@@ -2329,9 +2402,9 @@ Mara’s gaze flicked over my shoulder, and her mouth twitched again.
 
 ---
 
-The second prototype was a jacket. Different cut, different sleeve head, but the same intention: make it survive the day without turning it into armour. Mara hung it on the mannequin and stood back, chin lifted. Lucy and I watched her pull on the sleeves, and pull at the sides.
+The second prototype was a jacket. Different cut, different sleeve head, but the same intention: make it survive the day without turning it into armour. Mara hung it on the mannequin and stood back, chin lifted. Lucy and I watched her tug on the sleeves.
 
-Mara turned to us.
+She turned to us.
 
 “So, this time,” she said to Lucy, “we’re not sending *you* out to crash test it.”
 
@@ -2389,7 +2462,7 @@ Charlie lifted the clipboard with the log sheet from its hook, removed the jacke
 
 The curtain closed with a crisp snick.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -2402,7 +2475,7 @@ The curtain closed with a crisp snick.
 [![Charlie][S11a]{ .artR width="460" }][S11a]
 This was Scene 11 — "Has Charlie Run It?".
 Absorbing into #9
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 Time of year: March. Note: Charlie's late puberty intrudes, Charlie's solution: spironolactone.
 -->
 
@@ -2924,7 +2997,7 @@ The material was a heavier, yet softer linen.
 
 And the ledger sat confidently between pincushion and shears, vindicated.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -3034,7 +3107,7 @@ Time of year: ???
 
 [18 Third Rung - absorbed into Spaces](W_Edits.md)
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -3265,7 +3338,7 @@ Outside, the Faire carried on... loud, theatrical.
 
 Inside, at the cutting table, we began building a story that would hold.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -3506,7 +3579,7 @@ He was useful.
 
 This was work.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -3693,7 +3766,7 @@ Charlie’s gaze flicked, briefly, to the signed sheet on the bench. Then he rea
 It was to be reliable.
 
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -3897,7 +3970,7 @@ His presence no longer felt like a risk.
 
 It felt like a system we could both live inside.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -4103,7 +4176,7 @@ Work, at least, was something we all understood.
 
 And boredom — sweet, structured boredom — was how we were going to survive.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -4398,7 +4471,7 @@ And the operating surface — ledger, invoices, swatches, calculator, laptop —
 
 More like a plan.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -4683,7 +4756,7 @@ He let out a breath — shaky at first, then steadier — like someone who’d b
 
 “Okay,” he said, “tell me what to do next.”
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -5146,7 +5219,7 @@ Signed.
 
 That was Wardrobe’s way of making something real.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -5429,7 +5502,7 @@ She belonged because the work had made room for her.
 
 And because, at last, she had stopped refusing the chair.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -5445,7 +5518,7 @@ And because, at last, she had stopped refusing the chair.
 
 
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -5591,7 +5664,7 @@ And Charli had tied her happiness to it in a way that made her both luminous… 
 
 It would be her.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -5968,7 +6041,7 @@ So we’d have to give her something real in its place. Something supervised. So
 
 And we’d have to do it gently enough that she stayed whole.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -6188,7 +6261,7 @@ She didn’t need me distant to prove we were being safe.
 
 She needed me close to feel that safety, herself.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -6524,7 +6597,7 @@ I signalled left.
 
 Charli nodded, and for the first time in days, the nod didn’t look like surrender.It looked like choice.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -6752,7 +6825,7 @@ Charli’s eyes shone again. She didn’t wipe them. She just watched me, as if 
 
 I held her hand like a vow I intended to keep.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -7071,7 +7144,7 @@ I let my own breath out slowly, careful and steady. In the soft domestic hush, I
 
 The kind that could make a girl feel — maybe for the first time — that she didn’t have to be brave alone.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -7499,7 +7572,7 @@ The hardest part wasn’t wanting her.
 
 The hardest part was making wanting her safe.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -7868,7 +7941,7 @@ Outside, the heat raged on.
 
 Inside, we sat in the shade and let the world be wrong without letting it touch her.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -8005,7 +8078,7 @@ I bent over and kissed her — slow, sealing — and thought, with steel wrapped
 
 I will not be late again.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -8152,7 +8225,7 @@ I smiled.
 
 Done meant done.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -8316,7 +8389,7 @@ It was a kind of warmth. A kind of beauty. A kind of yes.
 
 And that yes was woman-shaped.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -8544,7 +8617,7 @@ I stepped out.
 
 And for the first time that day I felt the faintest hint of peace: not because everything was resolved, but because I knew women who would not let me face it alone.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -8776,7 +8849,7 @@ Not the cold silence of a man being absent.
 
 The calm quiet of a woman being present.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -9075,7 +9148,7 @@ I nodded.The fear in my body didn’t vanish.
 
 But it no longer had the whole house to itself.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -9278,7 +9351,7 @@ Ordinary.Heavy with meaning.I stood there a moment with the metal warming in my 
 
 And I closed my fingers around it. 🔑✨
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -9478,7 +9551,7 @@ Roger could sell the house. He could keep every possession he had ever collected
 
 But he no longer possessed me.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -9740,7 +9813,7 @@ But her smile lingered with a kind of satisfaction, as if she already knew she h
 
 And I realised, as the light turned green and I drove us home, that my future included Sarah.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -9887,7 +9960,7 @@ Just to feel it.
 
 Then I followed Sarah into the kitchen, heart quiet for the first time all day, and let the door swing gently closed behind me.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -10083,7 +10156,7 @@ And I stayed there, feeling the warmth of her.
 
 There’s always tomorrow.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -10321,7 +10394,7 @@ The last clear thought I remember was simple and absolute:
 
 None of this was temporary anymore.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -10659,7 +10732,7 @@ Tomorrow, I would put her in the Swift and let her ask them as I drove her home 
 
 For tonight, it was enough that she was here, Charli was warm beside me, and nobody was pretending change was impossible.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -10859,7 +10932,7 @@ I turned the key again and pulled away, heading towards Uni — and towards a li
 
 We weren’t waiting anymore.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -11060,7 +11133,7 @@ Outside, somewhere between here and Queensland, a man was rehearsing a scene in 
 
 Inside, we were getting on with the work.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -11392,7 +11465,7 @@ Resilience isn’t the speed at which you stop hurting. It’s the certainty tha
 
 We were, slowly and clumsily, getting there. Together.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -11579,7 +11652,7 @@ I tapped the Thai takeaway number I had on speed-dial.
 
 One decision at a time.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -11865,7 +11938,7 @@ For now, it was just the two of us in our too-small bed, clutching damp cotton a
 
 
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 
 
@@ -12106,7 +12179,7 @@ She nodded against me, the movement small and sure.
 
 For the first time since Queensland had become a solid thing on the calendar, I believed it.
 
-<hr class="section-break soft" />
+<hr class="section-break strong" />
 
 -->
 
