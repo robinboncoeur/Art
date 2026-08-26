@@ -822,7 +822,7 @@ Those two discoveries absolutely must not be collapsed into one. 🌿
 
 
 
-## 4.7 Leah
+## 4.7 Leah 
 
 [![img][Stc2]{ .artR width="460" }][Stc2]
 
