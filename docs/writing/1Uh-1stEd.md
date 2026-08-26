@@ -3,6 +3,7 @@
 
 [![Wardrobe][Bra01]{ .artC width="1100" }][Bra01]
 
+<!-- Find ==EDIT== -->
 
 <hr class="section-break strong" />
 
@@ -2743,9 +2744,11 @@ Before he could finish, her fist flew at him, stopping inches away from his star
 
 Mara said nothing but went back to work.
 
-Charlie's mouth curved valiantly and so Bree's smile regained most of its cheerfulness.
+Charlie's mouth curved valiantly. 
 
-"Sorry, hon," she said with a smile. "I tend to lose myself in the moment." She wrapped her arms around herself. "What else can I tell you?"
+Bree's smile quickly regained most of its cheerfulness.
+
+"Sorry, hon," she said. "I tend to lose myself in the moment." She wrapped her arms around herself. "What else can I tell you?"
 
 Charlie carefully examined the sleeve.
 
@@ -2807,7 +2810,11 @@ Lily's shoulders went up. She quickly picked the leggings from Charlie's hands.
  
 "Oh, sorry," she murmured. "It's just— it's so cold in the palace, especially in the early mornings. But I'm sorry, I didn't mean to—"
 
-Mara looked at the leggings: they were of a heavy stretch cotton with a soft inner layer.
+Mara 
+
+... ==EDIT==
+
+looked at the leggings: they were of a heavy stretch cotton with a soft inner layer.
 
 "The chemise and extra petticoats don't keep you warm?"
 
