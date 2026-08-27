@@ -15,7 +15,7 @@
 ## Finally-Scene 35
 
 
-[![Delicacy][St08]{ .artR width="460" }][St08]
+[![Delicacy][St00]{ .artR width="460" }][St00]
 
 
 
@@ -138,7 +138,7 @@ The conversation with Lauren can bring both truths into the same room.
 
 ### The apprenticeship Charlotte missed
 
-[![Delicacy][Std1]{ .artR width="320" }][Std1]
+[![Delicacy][Stg1]{ .artR width="320" }][Stg1]
 
 
 Charlotte missed what might be called the ordinary **apprenticeship of becoming**.
@@ -241,7 +241,7 @@ The barista is looking at Charlotte.
 ### Being seen
 
 
-[![Delicacy][Stj1]{ .artR width="320" }][Stj1]
+[![Delicacy][Stn1]{ .artR width="320" }][Stn1]
 
 
 
