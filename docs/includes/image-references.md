@@ -2,11 +2,20 @@
 
 [Bra01]: /assets/images/base/Bnr01a.jpg
 [Brb01]: /assets/images/base/Bnr01b.jpg
+[Brc01]: /assets/images/base/Bnr01c.jpg
 [Bra02]: /assets/images/base/Bnr02a.jpg
 [Brb02]: /assets/images/base/Bnr02b.jpg
+[Brc02]: /assets/images/base/Bnr02c.jpg
 [Bra03]: /assets/images/base/Bnr03a.jpg
+[Bra04]: /assets/images/base/Bnr04a.jpg
 [Brb03]: /assets/images/base/Bnr03b.jpg
+[Bra25]: /assets/images/base/Bnr25a.jpg
+[Bra35]: /assets/images/base/Bnr35a.jpg
 [Brb35]: /assets/images/base/Bnr35b.jpg
+[Brc35]: /assets/images/base/Bnr35c.jpg
+
+[BrcS1]: /assets/images/base/BnrSkirt1.jpg
+[BrcS2]: /assets/images/base/BnrSkirt2.jpg
 
 [S01a]: /assets/images/story/Scene01a.jpg
 [S02a]: /assets/images/story/Scene02a.jpg
@@ -74,16 +83,26 @@
 
 [St00]: /assets/images/base/00Writer.jpg
 [Ts00]: /assets/images/base/00Emily.jpg
-[Sta1]: /assets/images/base/01aKaimu.jpg
+[Sta1]: /assets/images/base/01aBout.jpg
 [Stb1]: /assets/images/base/01vRead.jpg
 [Stc1]: /assets/images/base/01cActress.jpg
 [Std1]: /assets/images/base/01dLily.jpg
 [Ste1]: /assets/images/base/01eWinter.jpg
+[Stf1]: /assets/images/base/01ftrain.jpg
+[Stg1]: /assets/images/base/01gKaimu.jpg
+[Sth1]: /assets/images/base/01hCeleste.jpg
+[Sti1]: /assets/images/base/01iCeleste.jpg
+[Stj1]: /assets/images/base/01jWriter.jpg
+[Stk1]: /assets/images/base/01kRULost.jpg
+[Stl1]: /assets/images/base/01lGrpTask.jpg
+[Stm1]: /assets/images/base/01mGrpTask.jpg
 [Stn1]: /assets/images/base/01nCeleste.jpg
-[St01]: /assets/images/base/01aBout.jpg
+[Sto1]: /assets/images/base/01oCharli.jpg
 [Sta2]: /assets/images/base/02amusic.jpg
 [Stb2]: /assets/images/base/02bTahlia.jpg
 [Stc2]: /assets/images/base/02cLeah.jpg
+[St01]: /assets/images/base/01aKaimu.jpg
+[St02]: /assets/images/base/02amusic.jpg
 [St03]: /assets/images/base/03mists.jpg
 [St04]: /assets/images/base/04maiden.jpg
 [St05]: /assets/images/base/05flight.jpg
@@ -96,6 +115,22 @@
 [St12]: /assets/images/base/12accost.jpg
 [St13]: /assets/images/base/13donga.jpg
 [St14]: /assets/images/base/14Sarah.jpg
+[St15]: /assets/images/base/15orage.jpg
+[St16]: /assets/images/base/16flight.jpg
+[St17]: /assets/images/base/17think.jpg
+[St18]: /assets/images/base/18shop.jpg
+[St19]: /assets/images/base/19charlotte.jpg
+[St20]: /assets/images/base/20lass.jpg
+[St21]: /assets/images/base/21ofchat.jpg
+[St22]: /assets/images/base/22ti4060.jpg
+[St23]: /assets/images/base/23workflow.jpg
+[St24]: /assets/images/base/24purple.jpg
+[St25]: /assets/images/base/25Tamara.jpg
+[St26]: /assets/images/base/26Celeste.jpg
+[St27]: /assets/images/base/27Charlotte.jpg
+[St29]: /assets/images/base/29Charlotte.jpg
+[St30]: /assets/images/base/30alice.jpg
+[St33]: /assets/images/base/33garden.jpg
 
 <!--
 😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 👗 👚 👜 👠 🩰 💄  💞 💖 ❤️ 💋 🎻 📒 🩸 💧 🚺 ❤️ 🫧 🌩 🌧 🧵 🪡 —
