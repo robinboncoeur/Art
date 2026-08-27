@@ -2485,7 +2485,7 @@ Time of year: March. Note: Charlie's late puberty intrudes, Charlie's solution: 
 
 
 
-## 10 The Ledger 📒
+## 11 The Ledger 📒
 
 <!--
 [![Charlie][S12a]{ .artR width="460" }][S12a]
@@ -2802,7 +2802,7 @@ Charlie nodded, his face one of expectation.
 
 Charlie stared at the leggings.
 
-Mara spoke clearly, without emotion.
+Mara appeared behind him. She spoke clearly, without emotion.
 
 "We don't do alterations or repairs on personal garments."
 
@@ -2810,21 +2810,13 @@ Lily's shoulders went up. She quickly picked the leggings from Charlie's hands.
  
 "Oh, sorry," she murmured. "It's just— it's so cold in the palace, especially in the early mornings. But I'm sorry, I didn't mean to—"
 
-Mara 
-
-... ==EDIT==
-
-looked at the leggings: they were of a heavy stretch cotton with a soft inner layer.
-
 "The chemise and extra petticoats don't keep you warm?"
 
-Lily shook her head, then got up to go.
+Lily shook her head, then got up to go. Mara held out her hand.
 
-"Wait." Mara put out her hand. "Show me."
+"Have a look?"
 
-The gusset in the crotch had given way. 
-
-She handed the leggings to Charlie.
+She carefully inspected the leggings: they were of a heavy stretch cotton with a soft inner layer. The gusset in the crotch had given way. She handed the leggings to Charlie.
 
 "This is a common fail point for leggings. Any ideas on how to fix it?"
 
@@ -2832,13 +2824,11 @@ His brows narrowed as he rubbed the stretch cotton between his fingers.
 
 "We would need this type of material," he said slowly. "I'd replace the gusset completely, and then, add a reinforcement layer on the inside."
 
-"Do it."
-
 She turned to Lily.
 
-"When we find that type of cotton, we'll let you know. We will fix it."
+"We will fix it."
 
-Mara turned to go back to her worktable. Before she sat down, she said to me,
+She turned to go back to her worktable. Before she sat down, she said to me,
 
 "Time to rethink the winter chemise. And possibly, the petticoat."
 
@@ -2848,7 +2838,7 @@ Less than a week later, a new chemise design was spread out on Mara's worktable.
 
 Charlie slowly put down his work, carefully arranging everything so he could quickly pick it all back up where he'd left off.
 
-"I do." He reached into the repair basket and produced a bag. "If you can wait, I can do the repair for you and give them back to you straight away."
+"Came in yesterday." He reached into the repair basket and produced a bag. "If you can wait, I can do the repair for you straight away."
 
 "Oh, that would be amazing!" She handed him the leggings almost reluctantly. "They're my favourite pair," she said, her eyes fixed on the garment.
 
@@ -2864,11 +2854,11 @@ Charlie gave her a crooked smile, then slowly started unpicking the gusset. She 
 
 “Yes. It failed.”
 
-Lily smiled. “Right.”
+Lily gave a quick nod. “Right.”
 
 When they got to the overlocker Lily said,
 
-"I'm afraid your coffee has gone cold."
+"Oh dear. Your coffee has gone cold."
 
 He shrugged.
 
@@ -2878,11 +2868,11 @@ After Lily left, Mara pointed at the ledger.
 
 "Just a quick note: what you repaired, and why."
 
-Charlie turned his head at her with a slight frown.
+Charlie turned his head.
 
-"*Why*. That's because the gusset was coming apart?"
+"The *Why*. Because the gusset was coming apart?"
 
-"No, you repaired leggings because chemise and petticoats do not keep an actress warm."
+"No, because chemise and petticoats do not always keep an actress warm."
 
 Charlie opened the ledger.
 
@@ -2892,13 +2882,13 @@ That evening, Mara had just turned off the steamer when the door opened. Bree sa
 
 "I just wanted to say thank you for fixing Lily's leggings," she said cheerfully. "Those mornings in the palace are getting colder all the time, even with the fireplace."
 
-Charlie did his best. He looked up at her, curving his lips.
+Charlie curved his lips upwards towards eyes that didn't quite agree.
 
 "Your jacket should be ready tomorrow. Anything else?"
 
 Bree chuckled.
 
-"No, hun, just wanted to say thanks. Oh, and Sarah's chemise," she said, indicating the scowling blonde beside her. "Any idea when it might be ready?"
+"No, hun, just wanted to say thanks. Oh, and Sarah's chemise," she said, indicating the pinch-faced blonde beside her. "Any idea when it might be ready?"
 
 Charlie swallowed and glanced at Mara, who had pulled the chemise from the bottom of the pile.
 
@@ -2912,19 +2902,21 @@ Sarah huffed.
 
 Mara didn't blink.
 
-"It would help. Charlie hasn't found any signs of strain or tears."
+"It would help. Charlie hasn't found any signs of strain or tearing."
 
-Sarah's scowl deepened. She glanced at Charlie's face, and let out a sigh.
+Sarah's scowl deepened. She glanced at Charlie's face, and puffed again.
 
 "It— binds."
 
-Mara waited. Sarah let out a bigger sigh.
+Mara waited. Sarah's scowl deepened.
 
 "Across the bust," she said finally.
 
-Charlie was still writing when he asked:
+Charlie's head was in the ledger when he asked:
 
 "Would the next size up be more comfortable?"
+
+Silence.
 
 He looked up then and startled. Sarah was glaring at him.
 
@@ -2950,9 +2942,9 @@ Sarah shrugged, her face still sullen. Mara studied the chemise for a moment, th
 
 Charlie nodded.
 
-"And darts."
+"And darts," he added gently. His eyes flicked at Sarah, then back to the chemise. 
 
-His eyes flicked at Sarah, then back to the chemise. Bree sidled up to him.
+Bree sidled up to him.
 
 "Show me what you would do, Charlie."
 
@@ -2960,7 +2952,9 @@ He gently smoothed the garment on its side on the table.
 
 "Just here, Bree." His fingers moved respectfully over the material. "It would give the chemise a nice silhouette, but without binding or bunching."
 
-I noticed Sarah studying him, watching his hands, his eyes. Her face lost some of its hardness.
+I noticed Sarah studying him, watching his hands, his eyes. 
+
+Her face slowly lost some of its hardness.
 
 ---
 
@@ -2992,7 +2986,7 @@ At first, Bree's eyes popped wide in surprise. She gave her head a disbelieving 
 
 Charlie frowned.
 
-"Yes. She does," he said seriously. He flinched as Bree slapped him briskly on the shoulder.
+"Yes," he said seriously. She does!" He flinched as Bree slapped him briskly on the shoulder.
 
 "You better be right," she said as she left.
 
