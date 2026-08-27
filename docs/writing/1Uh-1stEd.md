@@ -1421,19 +1421,17 @@ The temperature in the room seemed to change as Leah led a rather large, florid-
 
 Lily disappeared.
 
-Mara's eyes scanned the workroom, then landed on mine.
-
 Tahlia glanced once in our direction, then seemed to sink out of sight behind her overlocker.
 
 I ended up staring at the invoices with a slight feeling of revulsion not inspired by invoices.
 
-After twenty minutes, it became clear that Mr Accountant had "uncovered" a rounding error. He harrumphed a few times and twiddled his pen, exuding a stale atmosphere of poor hygiene decisions.
+After twenty minutes, it became clear that what Mr Accountant had "uncovered" was a rounding error. He harrumphed a few times and twiddled his pen, exuding a stale atmosphere of poor hygiene decisions.
 
 The room warmed slightly as the door finally clicked shut behind his receding back.
 
-Tahlia threw open her window.
+Tahlia threw open the window.
 
-I opened the door to the laundry. Fabric softener highlights slowly escorted stale, dour pong out the window.
+I opened the door to the laundry. Fabric softener highlights slowly escorted stale, sour pong out the window.
 
 And Wardrobe cautiously resumed breathing wool and chalk dust.
 
