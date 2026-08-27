@@ -53,11 +53,14 @@ For centuries, patriarchy trained societies to treat men as default and women as
 
 The visual work here was created using ComfyUI, a node-based Stable Diffusion interface to vision models. The vision models are designed for creating images based on a text prompt, or in some cases, another image. This gives me the flexibility to build, test, revise, and refine images as part of the storytelling process. 
 
+The characters — faces, mainly — were gleaned from a site called "this person does not exist". Character identity originates from an artificially generated face depicting no real person. The source portrait is not reproduced. Subsequent identity references and final illustrations are newly AI-generated images. In other words, I'm not using the originally-generated images, but derivatives of derivatives (low-ranking adapter).   
+We make "synthetic provenance only" a casting rule for the Local Identity Models: there will be no identifiable real-person source photographs at all. This gives the whole cast a clean boundary from the outset.
+
 The text is accompanied by audio files of the narration, recorded for the most part in ElevenLabs, a state-of-the-art Text-To-Speech audio file generator. The audio files are embellished by short clips of the sort of music that provided the emotional atmosphere when I wrote. 
 
-The music was created by transcribing notes from musical scores (PDF) into MuseScore, then rendering and refining the result in Reaper, a digital audio workstation. I only use public-domain or otherwise permissible source material: the musical scores.
+The music was created by either writing the music myself, or by transcribing notes from musical scores (PDF) into MuseScore, then rendering and refining the result in Reaper, a digital audio workstation. I only use public-domain or otherwise permissible source material: the musical scores.
 
-Large Language Models are a central part of my creative workflow—not as a substitute for imagination, but as a demanding collaborator: useful for research, structure, revision, and turning rough language into clean, enjoyable prose.
+Large Language Models are a central part of my creative workflow — not as a substitute for imagination, but as a demanding collaborator: useful for research, structure, revision, and turning rough language into clean, enjoyable prose.
 
 <hr class="section-break strong" />
 
