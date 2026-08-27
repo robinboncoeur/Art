@@ -2824,7 +2824,7 @@ His brows narrowed as he rubbed the stretch cotton between his fingers.
 
 "We would need this type of material," he said slowly. "I'd replace the gusset completely, and then, add a reinforcement layer on the inside."
 
-She turned to Lily.
+Mara turned to Lily.
 
 "We will fix it."
 
@@ -2832,13 +2832,15 @@ She turned to go back to her worktable. Before she sat down, she said to me,
 
 "Time to rethink the winter chemise. And possibly, the petticoat."
 
+---
+
 Less than a week later, a new chemise design was spread out on Mara's worktable. I was on the phone to Lauren's linen supplier when Lily appeared. She went straight to Charlie.
 
 "Celeste said you have the material."
 
 Charlie slowly put down his work, carefully arranging everything so he could quickly pick it all back up where he'd left off.
 
-"Came in yesterday." He reached into the repair basket and produced a bag. "If you can wait, I can do the repair for you straight away."
+"Came in yesterday." He reached into the repair basket and produced a bag. "If you can wait, I can do the repair straight away."
 
 "Oh, that would be amazing!" She handed him the leggings almost reluctantly. "They're my favourite pair," she said, her eyes fixed on the garment.
 
@@ -2856,23 +2858,23 @@ Charlie gave her a crooked smile, then slowly started unpicking the gusset. She 
 
 Lily gave a quick nod. “Right.”
 
-When they got to the overlocker Lily said,
+When they got to the overlocker Lily glanced at the tearoom.
 
 "Oh dear. Your coffee has gone cold."
 
 He shrugged.
 
-"That's okay. It was nice of you to bring afternoon tea."
+"It was nice of you to bring afternoon tea."
 
 After Lily left, Mara pointed at the ledger.
 
-"Just a quick note: what you repaired, and why."
+"Just a quick note: *what* you repaired, and *why*."
 
 Charlie turned his head.
 
-"The *Why*. Because the gusset was coming apart?"
+"Because the gusset was coming apart?"
 
-"No, because chemise and petticoats do not always keep an actress warm."
+"No. Because chemise and petticoats do not always keep an actress warm."
 
 Charlie opened the ledger.
 
