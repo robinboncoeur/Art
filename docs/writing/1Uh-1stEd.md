@@ -1271,6 +1271,10 @@ He rose and took the sleeve from her.
 
 
 
+
+
+
+
 ## 6 Spaces ✨
 
 [![Charlie][S06a]{ .artR width="460" }][S06a]
@@ -1364,6 +1368,10 @@ The back door — a roller gate — slammed shut and Tahlia emerged with an enve
 He carefully slipped the envelope from under her arm.
 
 "Just put that bolt on the cutting table," Mara told Tahlia. "It was meant to arrive last week."
+
+
+[![Lily][Std1]{ .artR width="240" }][Std1]
+
 
 Lucy had finished her inspection of the dress just as Lily, a little redhead with freckles, a cheery smile, and totally unfair eyelashes bounced through the door. Her eyes widened at the sight of the dress.
 <!-- vale off -->
