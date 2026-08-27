@@ -17,10 +17,10 @@
 ## Emotions Overview
 
 
-[![The Writer][St00]{ .artR width="460" }][St00]
+[![Me][St00]{ .artL width="260" }][St00]
 
 
-Robyn   
+[ Robyn ]   
 Hi Emily. Today, I'd like to talk about writing metaphors, ones that are, at the same time, unusual but also germane to the topic. I don't want a lot of examples, but an *approach*, a way of thinking. Let's take this case:   
 
 It didn’t become a thing all at once. Nothing that matters ever does. It becomes a thing the way fabric becomes soft: through repetition, through use, through being pulled and released so many times that *it stops fighting your hands*. 
@@ -31,7 +31,9 @@ It's that **"it stops fighting..."** bit that I struggle with. I like using fabr
 
 <hr class="section-break soft" />
 
-Emily      
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
+
+[ Emily ]      
 You’re circling the right instinct already—and the fact you’re questioning *that exact phrase* tells me your ear is working properly. 😊
 
 Let me give you an approach rather than alternatives.
@@ -170,20 +172,23 @@ If you like, we can take just that paragraph and do two or three tonal variants�
 ### First Pass
 
 
-[![img][St01]{ .artR width="460" }][St01]
+[![Me][St00]{ .artL width="260" }][St00]
 
 
-Robyn   
+[ Robyn ]   
 I'm going to treat this like an exercise: this is a muscle that needs developing from the tendons out. I'm going to try:
 
 "Nothing that matters ever does. It becomes a thing the way fabric becomes soft: through repetition, through use, through being pulled and released so many times that it feels like a part of you."
 
 I don't want a counter-example, but rather, where it might fail the reader. Where to tighten it.
 
-
 <hr class="section-break soft" />
 
-Emily      
+
+
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
+
+[ Emily ]      
 This is a strong instinctive pass—you’ve moved away from abstraction and toward *experience*. That’s exactly the right direction. 🌿
 
 Let me stay inside your frame and show you where it might *lose* a reader, rather than rewrite it.
@@ -313,10 +318,10 @@ If you keep doing exactly what you’re doing—writing, then interrogating *whe
 ## Second Pass
 
 
-[![img][St01]{ .artR width="460" }][Sta2]
+[![Me][St00]{ .artL width="260" }][St00]
 
 
-Robyn   
+[ Robyn ]   
 Okay. Good point. So, focus on sensory...
 
 Nothing that matters ever does. It becomes a thing the way fabric becomes soft: through repetition, through use, through being pulled and released so many times that it feels like a tired muscle rendered supple by massaging it.
@@ -325,7 +330,11 @@ Nothing that matters ever does. It becomes a thing the way fabric becomes soft: 
 
 <hr class="section-break soft" />
 
-Emily      
+
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
+
+
+[ Emily ]      
 You’re doing exactly the right kind of work here—pushing it, then checking where it strains. That’s the muscle building. 🌿
 
 Let me stay in your lane and point to where this version might *slip*, rather than redirect it.
@@ -448,10 +457,10 @@ You’re very close now. This is refinement, not correction. And the fact you’
 ## Third Pass
 
 
-[![img][St01]{ .artR width="460" }][St03]
+[![Me][St00]{ .artL width="260" }][St00]
 
 
-Robyn   
+[ Robyn ]   
 Excellent point. Jumping into another system *is* too jarring. I *need* to stay in the cloth domain with everything. Next go (I don't even know if this is true, but I'm after sensory, not physical accuracy):
 
 Nothing that matters ever does. It becomes a thing the way fabric becomes soft: through repetition, through use, through being pulled and released so many times that turns distressed linen into raw silk.
@@ -460,7 +469,11 @@ Nothing that matters ever does. It becomes a thing the way fabric becomes soft: 
 
 <hr class="section-break soft" />
 
-Emily      
+
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
+
+
+[ Emily ]      
 You’re honing in on it now—the instinct to **stay inside the same material world** is exactly right. This is much closer. 🌿
 
 Let me show you where this one might *lose trust*, because that’s the key issue here.
@@ -601,10 +614,10 @@ If you want, the next step would be to keep this exact structure and just refine
 ## Fourth Pass
 
 
-[![img][St01]{ .artR width="460" }][St04]
+[![Me][St00]{ .artL width="260" }][St00]
 
 
-Robyn   
+[ Robyn ]   
 Okay. Has to be credible or I lose the reader. How about:
 
 Nothing that matters ever does. It becomes a thing the way fabric becomes soft: through repetition, through use, through being pulled and released so many times that turns worn linen into what feels like silk.
@@ -613,7 +626,9 @@ Nothing that matters ever does. It becomes a thing the way fabric becomes soft: 
 
 <hr class="section-break soft" />
 
-Emily      
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
+
+[ Emily ]      
 You’re right on the edge of it now—this is very close. 🌿
 
 Let me stay disciplined and show you *where it might slip*, not redirect it.
@@ -733,10 +748,10 @@ If you keep interrogating your endings like this—*“am I adding, or am I trus
 ## Fifth Pass
 
 
-[![img][St01]{ .artR width="460" }][St05]
+[![Me][St00]{ .artL width="260" }][St00]
 
 
-Robyn   
+[ Robyn ]   
 This?
 
 Nothing that matters ever does. It becomes a thing the way fabric becomes soft: through repetition, through use, through being washed and wrung so many times that can make even linen silky.
@@ -745,7 +760,9 @@ Nothing that matters ever does. It becomes a thing the way fabric becomes soft: 
 
 <hr class="section-break soft" />
 
-Emily      
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
+
+[ Emily ]      
 You’re almost there—this one has a lovely grounded feel to it. 🌿 Let’s look at where it might *slip* for a reader.
 
 ---
@@ -875,17 +892,19 @@ You’re doing high-level work here, Robyn. This is the stage where most writers
 ## Sixth Pass
 
 
-[![img][St01]{ .artR width="460" }][St06]
+[![Me][St00]{ .artL width="260" }][St00]
 
 
-Robyn   
+[ Robyn ]   
 Nothing that matters ever does. It becomes a thing the way fabric becomes soft: through repetition, through use, through being pulled and released so many times that it can soften even linen.
 
 
 
 <hr class="section-break soft" />
 
-Emily      
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
+
+[ Emily ]      
 This is it. This is the one that *holds*. 🌿
 
 Let me show you why it works—and where there’s still a hairline place you might choose to refine, depending on how exacting you want to be.
@@ -1020,10 +1039,10 @@ And that’s exactly what you were aiming for.
 ## Finally
 
 
-[![img][St07]{ .artR width="460" }][St07]
+[![Me][St00]{ .artL width="260" }][St00]
 
 
-Robyn   
+[ Robyn ]   
 I changed 'can' to 'will' and it reads absolutely right.
 
 "Nothing that matters ever does. It becomes a thing the way fabric becomes soft: through repetition, through use, through being pulled and released so many times that it **will** soften even linen."
@@ -1033,10 +1052,13 @@ What a valuable exercise, Emily. Your input has been stellar, gently guiding thr
 BTW, This thread is going to be my "Writing Metaphors Effectively" thread. Starting a new one for Scene 11.
 
 
+
 <hr class="section-break soft" />
 
 
-Emily      
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
+
+[ Emily ]      
 That’s such a satisfying click, isn’t it? 😊
 “**will**” gives it that quiet certainty—no flourish, no hedging. It simply *knows*.
 
