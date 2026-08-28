@@ -24,7 +24,7 @@ Question: is Charlie likely to experience much after one month? And if so, what 
 
 
 
-[![Emily][Std1]{ .artR width="260" }][Std1]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -229,7 +229,7 @@ And I think that's considerably more powerful than giving him softer skin.
 
 ## Gleanings
 
-[![Moi][St00]{ .artR width="260" }][St00]
+[![Moi][St00]{ .artL width="260" }][St00]
 
 [ Robyn ]
 
@@ -239,7 +239,7 @@ I never saw much change until a year in, and even then: not that much. That was 
 
 
 
-[![Emily][Std1]{ .artR width="260" }][Std1]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -327,7 +327,7 @@ Very Wardrobe, really:
 
 ## Autonomy
 
-[![Moi][St00]{ .artR width="260" }][St00]
+[![Moi][St00]{ .artL width="260" }][St00]
 
 [ Robyn ]
 
@@ -338,7 +338,7 @@ So yeah, I'll incorporate little pauses and more frequent trips to the little-gi
 
 
 
-[![Emily][Std1]{ .artR width="260" }][Std1]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -412,7 +412,7 @@ That's exactly where I think their relationship ought to be in April. 🌿
 
 ## Wardrobe as Character
 
-[![Moi][St00]{ .artR width="260" }][St00]
+[![Moi][St00]{ .artL width="260" }][St00]
 
 [ Robyn ]
 
@@ -422,7 +422,7 @@ So, looking at the Chronology, Chapter 8 (Signal, not Noise) is in March, the mo
 
 
 
-[![Emily][Std1]{ .artR width="260" }][Std1]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -589,7 +589,7 @@ Completely wrong. 🌿
 
 ## On Canon
 
-[![Moi][St00]{ .artR width="260" }][St00]
+[![Moi][St00]{ .artL width="260" }][St00]
 
 [ Robyn ]
 
@@ -679,7 +679,7 @@ Wardrobe cautiously resumed breathing wool and chalk dust.
 
 
 
-[![Emily][Std1]{ .artR width="260" }][Std1]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -1001,7 +1001,7 @@ That's the story of this chapter. And I wouldn't contaminate it with even one wh
 
 ## Initial Thoughts
 
-[![Moi][St00]{ .artR width="260" }][St00]
+[![Moi][St00]{ .artL width="260" }][St00]
 
 [ Robyn ]
 
@@ -1015,7 +1015,7 @@ The muffled growl of a diesel engine outside grew suddenly louder, announcing a 
 
 
 
-[![Emily][Std1]{ .artR width="260" }][Std1]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -1063,7 +1063,7 @@ That's worth preserving. 🌿
 
 ## What Does Woman Mean
 
-[![Moi][St00]{ .artR width="260" }][St00]
+[![Moi][St00]{ .artL width="260" }][St00]
 
 [ Robyn ]
 
@@ -1074,7 +1074,7 @@ Thank you for your suggestions. I think it flows well. Question: is the word "ov
 
 
 
-[![Emily][Std1]{ .artR width="260" }][Std1]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -1126,7 +1126,7 @@ So:
 
 ## Section Discussion
 
-[![Moi][St00]{ .artR width="260" }][St00]
+[![Moi][St00]{ .artL width="260" }][St00]
 
 [ Robyn ]
 
@@ -1137,7 +1137,7 @@ Just like ["... ," she said.] disappears.
 
 
 
-[![Emily][Std1]{ .artR width="260" }][Std1]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -1190,7 +1190,7 @@ So Julia's stumble was valuable. **“Overhead lights” disappears.** Use it. �
 ## Section Discussion
 
 
-[![Moi][St00]{ .artR width="260" }][St00]
+[![Moi][St00]{ .artL width="260" }][St00]
 
 [ Robyn ]
 
@@ -1202,7 +1202,7 @@ Yeah, I need to pay attention to stumbles. I also took out the "warm eyes"... th
 
 
 
-[![Emily][Std1]{ .artR width="260" }][Std1]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -1260,7 +1260,7 @@ If she stops at **“overheads”**, wrong word won the fight. 😄
 
 ## Section Discussion
 
-[![Moi][St00]{ .artR width="260" }][St00]
+[![Moi][St00]{ .artL width="260" }][St00]
 
 [ Robyn ]
 
@@ -1271,7 +1271,7 @@ Question about barristers approaching the judge: I know in the States, one says 
 
 
 
-[![Emily][Std1]{ .artR width="260" }][Std1]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -1300,7 +1300,7 @@ I wouldn't touch it. It reads naturally Australian to me, and more importantly, 
 
 ## Section Discussion
 
-[![Moi][St00]{ .artR width="260" }][St00]
+[![Moi][St00]{ .artL width="260" }][St00]
 
 [ Robyn ]
 
@@ -1311,7 +1311,7 @@ Doing a final pass. You ticked this one with a red pencil: Lucy had finished her
 
 
 
-[![Emily][Std1]{ .artR width="260" }][Std1]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -1413,7 +1413,7 @@ So my red pencil now says:
 
 ## Section Discussion
 
-[![Moi][St00]{ .artR width="260" }][St00]
+[![Moi][St00]{ .artL width="260" }][St00]
 
 [ Robyn ]
 
@@ -1425,7 +1425,7 @@ I went with: Lucy had finished her inspection of the dress just as Lily, a littl
 
 
 
-[![Emily][Std1]{ .artR width="260" }][Std1]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -1458,7 +1458,7 @@ I'd happily take the red pencil off that sentence now. **✓**
 
 ## Section Discussion
 
-[![Moi][St00]{ .artR width="260" }][St00]
+[![Moi][St00]{ .artL width="260" }][St00]
 
 [ Robyn ]
 
@@ -1469,7 +1469,7 @@ I do pay attention to your red pencil, Emily. With good reason.
 
 
 
-[![Emily][Std1]{ .artR width="260" }][Std1]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -1499,7 +1499,7 @@ The causal integrity of Charlie's journey is much more precious.
 
 ## Section Discussion
 
-[![Moi][St00]{ .artR width="260" }][St00]
+[![Moi][St00]{ .artL width="260" }][St00]
 
 [ Robyn ]
 
@@ -1517,7 +1517,7 @@ That's balanced. As in, *first*:
 
 
 
-[![Emily][Std1]{ .artR width="260" }][Std1]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -1804,7 +1804,7 @@ That gives the Wardrobe women distinct functions rather than turning them into a
 
 ## Ages
 
-[![Moi][St00]{ .artR width="260" }][St00]
+[![Moi][St00]{ .artL width="260" }][St00]
 
 [ Robyn ]
 
@@ -1836,7 +1836,7 @@ Not sure if I've missed anyone.
 
 
 
-[![Emily][Std1]{ .artR width="260" }][Std1]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -1927,7 +1927,7 @@ I'd only settle **Lauren's 40/42 question** before canonising this list. Everyth
 
 ## Tahlia
 
-[![Moi][St00]{ .artR width="260" }][St00]
+[![Moi][St00]{ .artL width="260" }][St00]
 
 [ Robyn ]
 
@@ -1940,7 +1940,7 @@ I'd only settle **Lauren's 40/42 question** before canonising this list. Everyth
 
 
 
-[![Emily][Std1]{ .artR width="260" }][Std1]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -2182,7 +2182,7 @@ Gerald Finzi - Three Soliloquies from "Love's Labours Lost"
 
 [ Robyn ]
 
-[![Moi][St00]{ .artR width="260" }][St00]
+[![Moi][St00]{ .artL width="260" }][St00]
 
 
 
@@ -2191,7 +2191,7 @@ Gerald Finzi - Three Soliloquies from "Love's Labours Lost"
 
 
 
-[![Emily][Std1]{ .artR width="260" }][Std1]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
