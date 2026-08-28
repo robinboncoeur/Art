@@ -2168,11 +2168,7 @@ Teresa
 Zoe
 Theo
 
-<hr class="section-break strong" />
-
 Gerald Finzi - Three Soliloquies from "Love's Labours Lost"
-✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧👢✨…
-😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  —
 
 
 
@@ -2180,10 +2176,11 @@ Gerald Finzi - Three Soliloquies from "Love's Labours Lost"
 
 ## Section Discussion
 
-[ Robyn ]
 
 [![Moi][St00]{ .artL width="260" }][St00]
 
+
+[ Robyn ]
 
 
 <hr class="section-break soft" />

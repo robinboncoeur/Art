@@ -4,25 +4,27 @@
 
 I hate public transport. 
 
-I had been pricing cars but they were either out of my price range or projects, so it was the bus for the next foreseeable.
+*I had been pricing cars but they were either out of my price range or projects, so it was the bus for the next foreseeable.*
 
-The bus was almost empty when I got on except for some long-haired person in the back of the bus. 
+The bus was almost empty when I got on except for some long-haired person in the back of the bus. I slid into a seat and waited for the throng at the next ten stops. It never came. One of the other actresses — one I didn't know and didn't care to, either — boarded near the edge of town. She didn't seem to want to chat although she seemed to recognise me.
 
 Travel time from home was quicker than I thought it would be. 
 
-When the bus pulled up at the Faire gate, I was surprised to see the long-haired person at the back of the bus was Charlie. He'd noticed me, and seemed to be averting his gaze.
+When the bus pulled up at the Faire gate — the route terminus — I exited out the front of the bus. As I passed the side door of the bus, it opened and the long-haired person stepped out. It was Charlie.
+
+His eyes flicked up at me briefly, then away.
 
 We began to walk wordlessly towards Wardrobe.
 
-"Good morning."
+"Good morning," I said.
 
-His eyes flick to me. He tightened his lips — the effort didn't quite result in a smile.
+His eyes flicked to me. He tightened his lips — the effort didn't quite result in a smile.
 
 "Hi, Sarah."
 
 I took in a breath.
 
-"Look, I think we got off to a bad start," I said. "I just like my privacy, that's all."
+"Look, I think we got off to a bad start," I said. "It's just— I like my privacy. That's all."
 
 He nodded quickly and shifted his messenger bag up his slender shoulders.
 
@@ -42,7 +44,7 @@ I grinned again.
 
 His face split into an actual smile. He held the door for me as I entered Wardrobe, then disappeared into the tearoom. Mara was pinning a pattern at the cutting table. She waved me over — a single, quick motion.
 
-"You're with Lucy today. Jacket fittings, ones Charlie can't do. We will not release them until they fit properly."
+"You're with Lucy today. Jacket fittings. Charlie's the wrong shape. We won't release them until they're right."
 
 I nodded. Mara pointed at Lucy in the fitting area.
 
@@ -52,13 +54,13 @@ When I got to the fitting area, Lucy wordlessly handed me a caraco jacket. I car
 
 "Charlie!"
 
-I stared back at her, puzzled. And then, heard his voice behind me.
+I stared at her. And then, heard his voice behind me.
 
 "You rang?"
 
 Lucy chuckled.
 
-"Yes, Lurch. Sarah, reach down like that again, like when you putting the jacket on. There." She pointed. Charlie focused. I felt my shoulders rise.
+"Yes, Lurch. Sarah, reach down like that again, like when you were putting the jacket on. There." She pointed. Charlie focused. I felt my shoulders rise.
 
 I took in a breath.
 
@@ -74,11 +76,11 @@ The touch came.
 
 And then, I heard Charlie's voice, back at the mending table.
 
-"Not that seam, Lucy. The other one, further up."
+"Not that seam, Lucy. The other one, an inch and a half up."
 
-I opened my eyes. Lucy was holding a seam together and re-pinning.
+I opened my eyes. Lucy, pins in her mouth, was holding the seam together and re-pinning.
 
-Later, Mara had me pull drying woolen costumes off the line and removing wrinkles with the steamer. As I ran the handle down the skirt of a working dress, I felt a slap on my back. It was Bree.
+Later, Mara had me pull nearly dry woolen costumes off the line and removing the few remaining wrinkles with the steamer. As I ran the handle down the skirt of a working dress, I felt a slap on my back. It was Bree.
 
 "Never thought *you'd* jump ship," she said.
 
@@ -86,7 +88,7 @@ My lips went hard.
 
 "Don't *you* ever get tired of it?"
 
-"Sometimes," she admitted. "But if I found something else to do, I'd miss seeing 'Bright Eyes', Sarah. Not happening."
+"Sometimes," she admitted. "But if I went somewhere else, I'd miss seeing 'Bright Eyes', Sarah. Not happening."
 
 She turned to Charlie.
 
@@ -98,7 +100,7 @@ Bree turned to me.
 
 "He's so serious. You need to loosen him up a bit, Sarah."
 
-I gave her a look and then, winced. One of the pins had bitten me.
+I gave her a look and then winced: one of the pins had bitten me.
 
 I heard Tahlia's voice rise from behind her overlocker.
 
