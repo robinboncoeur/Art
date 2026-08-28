@@ -42,7 +42,7 @@ We began to walk wordlessly towards Wardrobe.
 
 "Good morning," I said.
 
-His eyes flick to me. He tightened his lips — the effort didn't quite result in a smile.
+His eyes flicked to me. He tightened his lips — the effort didn't quite result in a smile.
 
 "Hi, Sarah."
 
@@ -922,7 +922,7 @@ In this bloody story, apparently even Cupid has to submit a maintenance request.
 
 
 
-## Back to It
+## Overlocker Mystery
 
 
 [![Moi][St00]{ .artL width="260" }][St00]
@@ -930,6 +930,8 @@ In this bloody story, apparently even Cupid has to submit a maintenance request.
 
 [ Robyn ]
 
+Overlockers.   
+I know virtually nothing about them except — faintly — they tidy up seams, so they're less likely to come unravelled or sort of have threads jump ship. But what can go wrong with an overlocker? Like, commonly?
 
 <hr class="section-break soft" />
 
@@ -941,6 +943,132 @@ In this bloody story, apparently even Cupid has to submit a maintenance request.
 
 [ Emily ]
 
+Yes — your faint understanding is basically right. 😄 An **overlocker** (serger in American terminology) trims the raw fabric edge while wrapping it in thread, producing that neat, stretchy, non-fraying seam finish you see inside commercially made clothing. Depending on setup, it can also construct seams rather than merely finish them.
+
+![Image](https://images.openai.com/static-rsc-4/9wslEngvGzOTGCFlOsYOqdCDbUPLxsvDn2n1eUh2YfvG-nBJ5deF37GjKjw8dO5UUMM94buKaYUoDqDceY-dvqf6RYpCt0UCbkO2B8t9GRH826cnq8-0O9rPlPO_2vfRkO0mGqtYC1pW_Av5RatQHYALpcB_OL9akOtiIuqZuvSc_2lV6OVYNJ86w26QwIkX?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xz-ShfVh002-XhX8TR9JF8o11aRx3SylmgOF_f-9c03r87joaSBQegxOP9oc7X1pWoZ_fJeQ0I8dyn6DFOBUhKqqWS6b4n5uByP1omuiX3VIGLBMFEOVj4U3CZTU6gzhO_437DKkGyAA729pVpuYQrr9Ti5vxylg9ATQN2O7Y7h9iOWAbbXARKoSoV4GjJEQ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/MWAAqrYQKrHihranss4VQZVbP15j9y3YYPPjRrHZm1U6UzwauN_hYnAflFoSfCuS1waEQIoegAZgUoD3FJYw4cUPlRDkjw-jQl_IXYe1VW4xj5-kgQonE-BkdO-0yt0m7MLY_Cpn6fHnlLqf12bOix9C4hnUJEdkBa10HP3lVz3t5BZUfW7pBQ4-Qd8gkMKA?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/3uNZ0haz5vSORVRbQAzpWI-1pewA20CyznNcvP63zIM1u7CfRtK1ESB4xAGC1zScwHa7Ck_gi8vJlZsSs4pjZW8Bp-ISPcqkcjLsSNni1_1gMZcJslntetDV6LsfhEbLtO_vhMV1-3WLcch823LoWinKZ_EDkV_ea_0S3I9i-LHZ-9T2p8Rze0VlP4-v4HYf?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/hXyPC0z0hmqP-o7p_toB8kHzqjxJkaaEgMpJZvffS-MfVaCzYuQfrryxHkyRWm6P8xuqPMdaL3EY2tLI1EhMIxhL681-GRy7N7HlNh8VpTRE_ZZ7xkHLCDXbXvqBJnk0Ya7NFiz3_MKBXyLvkRu2MCwUfZb5NaDkTqaa-cuk6rhv1C6Tw6bDKrKVIbcUcRoX?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/k2K4ma4cxUz3m0xs02nhydXYfzJtrK5qRSqOIwHB6hZh-ZqJrf3Zd9_DheO5FW5hfvJIEXi6AHuxU3NWlp2E7hV4o9Fvgfkt0hUFqOGqwnjDtyoH-sjuab1zDJu18_CLXzHRPaPa340MOchy5KnvzcT0-XT9fkEiU6tE0QbT3gVWq0KUUyTAhG8IGcKXhUDh?purpose=fullsize)
+
+And they're wonderfully suitable for your scene because they are **temperamental little bastards with multiple threads**. A typical four-thread overlocker has two needles and two loopers, with a threading path considerably more complicated than an ordinary sewing machine.
+
+Common problems include:
+
+* **Thread breaking or repeatedly coming unthreaded.** Wrong threading order, thread not properly seated in tension discs, poor thread, needle damage, or something snagging the thread.
+* **Skipped stitches.** It sews, but occasionally fails to form a stitch. A bent/blunt/wrong needle is a very common culprit; incorrect needle insertion or timing problems can also cause it.
+* **Loops hanging off the fabric edge.** Usually tension or cutting-width adjustment. The seam looks loose and untidy rather than wrapping snugly around the edge.
+* **Fabric puckering.** Tension and/or differential feed isn't right for the fabric.
+* **Fabric stretching or going wavy.** Particularly knits. That's one reason overlockers have **differential feed**: the front and rear feed dogs can move fabric at different rates.
+* **Poor cutting.** The knife gets blunt, damaged or misaligned, so instead of producing a lovely clean edge it chews or incompletely cuts the fabric.
+* **Machine jams.** Thread tangles, lint accumulates around the loopers/knife/feed mechanism, a needle breaks, or fabric gets caught.
+* **Bad stitch formation despite everything apparently being threaded correctly.** At this point Tahlia begins inventing new Australian vocabulary. 😄
+
+### For *your* machine, I'd choose something very mundane
+
+You currently have:
+
+> pointing at the third bobbin. "Keeps getting stuck."
+
+I'd change that, because an overlocker doesn't really present its threads as a straightforward row of bobbins in the way Sarah/Charlie might describe them. Usually you're looking at several **cones/spools of thread**, while the complicated business happens through the threading paths, tension system and loopers.
+
+And I have a much better Lauren-solvable problem:
+
+**one thread isn't feeding freely because it's catching at the spool/cone.**
+
+That's perfect because Tahlia experiences the symptom as:
+
+> “Keeps breaking the thread.”
+
+She's rethreaded the machine. Perhaps twice. Still happens.
+
+Charlie looks over the machine, sees an intimidating threading diagram and wisely decides **nope**.
+
+Lauren walks in, hears them talking about it, and says something like:
+
+> “Which thread?”
+>
+> “Lower looper.”
+>
+> Lauren looked at the machine. “Does it keep snapping about there?”
+>
+> Tahlia looked at her. “Yeah.”
+>
+> “Mine does that.”
+
+Now Lauren investigates **one stupidly specific thing she knows from experience**.
+
+For example, thread can catch around the spool pin, under/around the cone, at a guide, or otherwise fail to unwind smoothly. Lauren frees/reseats it, rethreads that path correctly, turns the handwheel cautiously, then lets Tahlia test it.
+
+**Brrrrrrrrrrr.**
+
+Perfect stitches.
+
+And Tahlia gives Lauren *the look*. 😂
+
+The beauty is that Lauren hasn't *repaired an overlocker*. She's recognised something hers has done.
+
+That preserves Tahlia's expertise beautifully.
+
+Then Mara says, effectively:
+
+> “Still putting the work order in.”
+>
+> Tahlia nodded. “Needs a service anyway.”
+
+Exactly right. The immediate nuisance has been solved, but a Faire workplace machine doing considerably more hours than Lauren's domestic machine should be routinely serviced—and if it's overdue, Mara isn't cancelling that because Lauren got today's job running.
+
+### There is another option I like even more for Lauren
+
+**A thread has slipped out of/bypassed one of the guides.**
+
+Lauren looks at the threading path and spots it because her own machine has a similar arrangement.
+
+That gives you a deliciously small action:
+
+Lauren doesn't dismantle anything.
+
+She points.
+
+> “Should that be behind there?”
+
+Tahlia looks.
+
+Pause.
+
+Then perhaps:
+
+> “Oh, for fuck's sake.”
+
+😂
+
+**That** might be my choice.
+
+Because it doesn't make Lauren better with overlockers than Tahlia. Quite the opposite: it's the classic problem where the person who has been staring at something for twenty minutes stops being able to see it, and a fresh pair of eyes spots the stupid thing immediately.
+
+And Sarah watches Lauren do it.
+
+Notices she asked before touching the machine.
+
+Notices she didn't make Tahlia feel stupid.
+
+Notices that when the machine rattles happily into life, Lauren doesn't look around for applause.
+
+Sarah goes back to her steaming.
+
+Then looks over again.
+
+...
+
+*Why am I noticing this woman?*
+
+Oh, we're going to have fun with this chapter. 😄💞
 
 <hr class="section-break strong" />
 

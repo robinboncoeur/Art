@@ -114,10 +114,10 @@ The dress on the hanger in the repair area moved, and Charlie's head appeared.
 
 "What is it doing, Tahlia?"
 
-"It's what it's *not* doing, hun," she replied, pointing at the third bobbin. "Keeps getting stuck."
+"It's what it's *not* doing, hun," she replied, pointing at the third cone. "Keeps catching at the spool and breaking the thread."
 
 Charlie went over to the table, his eyes searching the top of the machine. He touched nothing. Finally, he stepped back.
 
 Tahlia grimaced.
 
-"These machines are more complex than they appear," she said. He tipped his head slightly, then returned to his table.
+"Silly machines are too complex for their own good," she said. He tipped his head slightly, then returned to his table.
