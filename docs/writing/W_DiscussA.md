@@ -13,7 +13,7 @@
 
 ## Chapter 6 - Pivotal
 
-[![Emily][Ts00]{ .artL width="260" }][Ts00]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -40,7 +40,7 @@
 ## Gleanings
 
 
-[![Emily][Ts00]{ .artL width="260" }][Ts00]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -106,7 +106,7 @@ Neither Mara nor Celeste are worried about Charlie ultimately leaving. In their 
 
 
 
-[![Emily][Ts00]{ .artL width="260" }][Ts00]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -164,7 +164,7 @@ Buried underneath the debate is a single, precious discovery: Charlie cares beca
 
 ## Wardrobe as Character
 
-[![Emily][Ts00]{ .artL width="260" }][Ts00]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -210,7 +210,7 @@ That's a much broader, richer vision than the one you started with, and I think 
 
 ## On Canon
 
-[![Emily][Ts00]{ .artL width="260" }][Ts00]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
@@ -308,7 +308,7 @@ That's why she's perpetually half a step behind women like Celeste, Mara, Lucy a
 
 ## What Does Woman Mean
 
-[![Emily][Ts00]{ .artL width="260" }][Ts00]
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 [ Emily ]
 
