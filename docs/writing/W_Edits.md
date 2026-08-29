@@ -4,7 +4,7 @@
 
 I hate public transport. 
 
-The bus was almost empty when I got on except for some long-haired person in the back of the bus. I slid into a seat and waited for the throng at the next ten stops. It never came. One of the other actresses — one I didn't know and didn't care to, either — boarded near the edge of town. She didn't seem to want to chat although she seemed to recognise me.
+The bus was almost empty when I got on except for some long-haired person in the back of the bus. I slid into a seat and waited for the throng at the next ten stops. It never came. One of the other actresses — one I didn't know and didn't care to, either — boarded near the edge of town. She didn't appear to want to chat, although she seemed to recognise me.
 
 Travel time from home was quicker than I thought it would be. 
 
@@ -48,7 +48,7 @@ I nodded. Mara pointed at Lucy in the fitting area.
 
 "Let us know if you need anything."
 
-When I got to the fitting area, Lucy wordlessly handed me a caraco jacket. I carefully put it on: pins glistened at the seams. Lucy looked sharply at them for a moment, then looked me straight in the eye.
+When I got to the fitting area, Lucy handed me a caraco jacket. I carefully put it on: pins glistened at the seams. Lucy looked sharply at them for a moment, then looked me straight in the eye.
 
 "Charlie!"
 
@@ -58,7 +58,9 @@ I stared at her. And then, heard his voice behind me.
 
 Lucy chuckled.
 
-"Yes, Lurch. Sarah, reach down like that again, like when you were putting the jacket on. There." She pointed. Charlie focused. I felt my shoulders rise.
+"Yes, Lurch. Sarah, reach out again, like when you were putting the jacket on. There." 
+
+She pointed. Charlie focused. I felt my shoulders rise.
 
 I took in a breath.
 
@@ -78,7 +80,7 @@ And then, I heard Charlie's voice, back at the mending table.
 
 I opened my eyes. Lucy, pins in her mouth, was holding the seam together and re-pinning.
 
-Later, Mara had me pull nearly dry woolen costumes off the line and removing the few remaining wrinkles with the steamer. As I ran the handle down the skirt of a working dress, I felt a slap on my back. It was Bree.
+Later, Mara had me pull nearly dry woolen costumes off the line and remove the few remaining wrinkles with the steamer. As I ran the handle down the skirt of a working dress, I felt a solid slap on my back. It was Bree.
 
 "Never thought *you'd* jump ship," she said.
 
@@ -86,11 +88,11 @@ My lips went hard.
 
 "Don't *you* ever get tired of it?"
 
-"Sometimes," she admitted. "But if I went somewhere else, I'd miss seeing 'Bright Eyes', Sarah. Not happening."
+"Sometimes," she admitted. "But if I worked somewhere else, I'd miss 'Bright Eyes', Sarah. Not happening."
 
 She turned to Charlie.
 
-"Hey, chuckles, you were right." He looked up, eyes questioning. "About 'Bright Eyes'."
+"Hey, chuckles, you were right." He looked up, eyes questioning. "About Lily."
 
 His lips flickered with a quick smile. He gave a quick nod, and tucked his head back down over his sewing.
 
