@@ -4,8 +4,6 @@
 
 I hate public transport. 
 
-*I had been pricing cars but they were either out of my price range or projects, so it was the bus for the next foreseeable.*
-
 The bus was almost empty when I got on except for some long-haired person in the back of the bus. I slid into a seat and waited for the throng at the next ten stops. It never came. One of the other actresses — one I didn't know and didn't care to, either — boarded near the edge of town. She didn't seem to want to chat although she seemed to recognise me.
 
 Travel time from home was quicker than I thought it would be. 
