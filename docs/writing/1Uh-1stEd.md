@@ -3261,7 +3261,7 @@ Lauren's brows rose.
 
 "Mine did the same thing," she said. "The way I fixed it was—"
 
-Her fingers gently pulled out a tightly-wound bit of thread around some fluff from of a recess in the side of the overlocker. She held it up like evidence.
+Her fingers gently pulled out a tightly-wound bit of thread around some fluff from a recess. She held it up like evidence.
 
 "Should be right, now."
 
