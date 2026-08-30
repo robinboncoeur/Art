@@ -3020,66 +3020,66 @@ And the ledger sat confidently between pincushion and shears, vindicated.
 This was Scene 13 — "Working Stays".
 Time of year: End of April
 [ *Celeste* ]
--->
+
 
 [13 Working Stays -absorbed into Ledger](W_Edits.md)
 
 
-<!--
+
 ## 14 Working Stays 2 ✨
 [![Charlie][S14a]{ .artR width="460" }][S14a]
 This was Scene 14 — "Working Stays 2".
 Time of year: March
 [ *Celeste* ]
--->
+
 
 [14 Working Stays 2 - absorbed into Ledger](W_Edits.md)
 
 
-<!--
+
 ## 15 The Ladder ✨
 [![Charlie][S15a]{ .artR width="460" }][S15a]
 This was Scene 15 - "The Ladder".
 Time of year: ???
 [ *Celeste* ]
--->
+
 
 [15 The Ladder - absorbed into Ledger](W_Edits.md)
 
 
-<!--
+
 ## 16 First Rung ✨
 [![Charlie][S16a]{ .artR width="460" }][S16a]
 This was Scene 16 - "First Rung".
 Time of year: ???
 [ *Celeste* ]
--->
 
 [16 First Rung - absorbed into Spaces](W_Edits.md)
 
 
 
-<!--
+
 ## 17 Second Rung ✨
 [![Charlie][S17a]{ .artR width="460" }][S17a]
 This was Scene 17 - "Second Rung".
 Time of year: ???
 [ *Celeste* ]
--->
+
 
 [17 Second Rung - absorbed into Spaces](W_Edits.md)
 
 
 
-<!--
+
 ## 18 Third Rung ✨
 [![Charlie][S18a]{ .artR width="460" }][S18a]
 This was Scene 18 - "Third Rung".
 Time of year: ???
 [ *Celeste* ]
--->
 
 [18 Third Rung - absorbed into Spaces](W_Edits.md)
+
+-->
 
 <hr class="section-break strong" />
 
@@ -3275,162 +3275,131 @@ Lauren's hand.
 
 
 
-<!--
 
 
-## 19 The Numbers  📝
 
 
-[![Charlie][S19a]{ .artR width="460" }][S19a]
-
+## 13 Access Not Implied
 
 [ *Celeste* ]
 
-Mara called me to the cutting table the way she called anyone: a hand gesture that assumed you’d come, and a tone that didn’t waste time making you feel chosen.
+Mara called me to the cutting table.
 
 “Bring the ledger.”
 
-Lauren was already there, sleeves rolled up, pencil behind her ear like it had grown there. In front of her: printed emails, order confirmations, a delivery docket stamped in red. On top sat a single sheet covered in neat columns: the kind of handwriting that made maths look like it had manners. Charlie hovered at the edge of the table.
+Lauren was already there, sleeves rolled up, pencil behind her ear like it had grown there. In front of her: printed emails, order confirmations, a delivery docket stamped in red. On top sat a single sheet covered in neat columns.
 
-Sarah sat on a stool with her arms folded, expression guarded, as if she didn’t want to be caught caring.
+Sarah sat on a stool with her arms folded.
 
-Mara tapped the stack of papers with two fingers.
+Tahlia listened in from her overlocker.
 
-“The Faire wants another run,” she said. “More sizes. More units.”
+Charlie sat on the unvarnished chair.
+
+Mara tapped the stack of papers.
+
+“They're hiring for the new marketplace on the other side of the Faire,” she said. “They want more units.”
+
+So that's what all that diesel traffic was about. We'd heard something about how things were expanding into the forest, but I'd figured it was additional picnic tables.
+
+"How many costumes do they want?" Sarah asked.
 
 Lauren slid the top sheet toward her.
 
+Sarah's jaw dropped.
+
+“Thirty-six?”
+
+“That's just this batch," Lauren said. "With a follow-on option if they hire more people.”
+
+“Thirty-six!”
+
 “And they want delivery dates,” Lauren added. “Not just ‘when it’s ready.’”
 
-Mara’s eyes flicked over the page, as if she was checking tolerances.
+I heard a low whistle come from the overlocker.
 
-“How many?”
-
-Lauren didn’t even glance down.
-
-“Thirty-six,” she said. “This batch. With a follow-on option if the first run sells through.”
-
-Sarah let out a low whistle.
-
-“Thirty-six,” she repeated. “That’s not... boutique.”
+“Thirty-six,” Tahlia said. “That’s not— boutique.”
 
 “No,” Mara said. “That’s work.”
 
 She looked at me, and the room shifted into a structure.
 
-“Open the ledger.”
-
-I did. The pages looked like proof it could work: headings, repeated fields, signatures. Charlie’s handwriting, increasingly steady. Mara’s marginal corrections. The blunt, unwavering language of process. Mara pointed to the most recent entries.
+I opened the ledger. The pages tried to reassure me it could work: headings, repeated fields, signatures. Charlie’s handwriting, increasingly steady. Mara’s marginal corrections. The blunt, unwavering language of process. Mara pointed to the most recent entries.
 
 “How many prototypes did we run last week?”
 
 Charlie answered before I could.
 
-“Eleven,” he answered, “across three body types. One full redo on the ‘well-nourished’ block. Two seam-finish changes. And... the underarm guard adjustment.”
+“Eleven,” he blurted, then glanced at me, eyes widening. “Oh— sorry.“
 
-His voice sounded cautious but clear. Facts. Sequence. Outcome. Mara nodded, then pointed at Lauren’s sheet.
+Mara tipped her chin at him.
 
-“And how many finished garments left the building?”
+"Carry on."
+
+I nodded at him, brows raised. He swallowed.
+
+“Um— across three body types. One full redo on the ‘well-nourished’ block." He took in a breath. "Two seam-finish changes. And— the underarm guard adjustment.”
+
+Mara pointed at Lauren’s sheet.
+
+“And how many *finished* garments left the building?”
 
 Lauren’s pencil tapped the paper once. “Nine.”
 
-Charlie blinked. “Only nine?”
+Sarah's brow furrowed. “Only nine?”
 
-Lauren turned her head slightly toward him.
+Lauren turned her head slightly toward her.
 
 “Nine *finished* garments,” she said, “that's nine more than most people manage without a system.”
 
-“Here’s the problem,” Mara said, and drew a plain box on the paper with her pencil. “Prototype time competes with production time.”
+She slid another, uglier sheet forward.
 
-Sarah shrugged. “So you hire someone.”
-
-Mara’s gaze cut to her.
-
-“With what money?”
-
-Sarah opened her mouth, then shut it.
-
-Lauren slid another sheet forward. This one looked uglier.
-
-“Mara asked me to tally costs,” Lauren said. “This spreadsheet lists everything. Materials. Hardware. Labour. Waste. The things you forget to count when you’re still pretending you’re just making pretty things.”
+“Mara asked me to tally costs,” Lauren said. “This lists *everything*, including the things you forget to count when you’re focused on making things pretty.”
 
 Mara’s mouth tightened.
 
-“We’re profitable on small runs,” Lauren continued. “We’re... interesting on larger ones. But only if we stop bleeding time.”
+“We’re profitable on small runs,” Lauren continued. “We’re— interesting on larger ones. But we're bleeding time.”
 
-Charlie stared at the sheets as if they were written in hieroglyphics. Mara pointed at it.
+We stared at the sheets.
 
-“Read the bottom line,” she told him.
+“If we try to do thirty-six outfits without changing anything," Sarah muttered, "we’ll—"
 
-Charlie leaned in.
+“Be exhausted beyond repair,” Lauren finished for her.
 
-“It says...” He swallowed. “It says if we do thirty-six without changing anything, we’ll—"
-
-“We’ll be exhausted,” Lauren finished for him.
-
-Sarah snorted. “Welcome to womanhood.”
+Sarah snorted. “Not realistic.”
 
 Mara’s eyes flicked to her.
 
-“Colleague,” Sarah muttered. Mara returned to Charlie.
+“Just sayin',” Sarah said. "The maths don't math."
 
-“So. What do we change?”
+“We could— standardise more steps,” Charlie said slowly, “Use templates. Make hardware packs. Cutting order.”
 
-“We could... reduce prototype cycles,” Charlie said slowly, “and standardise more steps. Templates. Hardware packs. Cutting order.” His eyes lifted, cautious. “Scheduling.”
-
-Mara nodded.
+I nodded.
 
 “That’s the shape of it.”
 
-She looked at me.
+Mara's brows rose slightly.
 
 “Celeste. You can see it.”
 
-It was an assignment because I *could* see it. I could feel my mind doing its favourite thing: taking chaos and converting it into something usable, repeatable. I loved the atelier for its craft, but what I loved more — what I almost didn’t dare admit — was the relief of a system snapping into place, the world becoming something you could manage.
+I *could* see it. 
 
-Lauren watched my face and gave a small, private smile.
+I could feel my mind doing its favourite thing: taking chaos and converting it into something usable, repeatable.
 
-“What do you see?”
+Lauren was watching my face.
 
-“We need operations,” I said. “Not vibes or heroics. Operations.”
+“What is it you see?”
 
-Sarah blinked. “Operations.”
+“We need *operations*,” I said. “Not vibes or heroics. Operations.”
+
+Sarah shrugged. “Operations.”
 
 “Yes,” I said. “Inventory. Vendor schedules. Production planning. Quality Assurance that doesn’t depend on Mara being in three places at once.”
 
-Mara held my gaze. Something in the pressure eased a fraction, as if she’d been carrying the whole weight alone.
+Mara cleared her throat.
 
-Lauren leaned on the table.
+"There's something else to think about. Staffing. Hours." She turned to me. “And you’re going back to school.”
 
-“And if we do that,” she said, warm, almost conversational, “we’re not just making garments. We’re building a business.”
-
-A business. 
-
-Charlie stared at the papers. 
-
-Mara addressed the room.
-
-“Wardrobe is already a business,” she said. “The only question is whether we run it, or it runs us.”
-
-Silence settled. Then Lauren turned the moment into something you could act on.
-
-“Okay,” she said. “Decisions. Do we accept the Faire run?”
-
-Mara didn’t hesitate. “Yes.”
-
-Sarah huffed. “Of course.”
-
-Charlie looked up. “Can we... can we do it?”
-
-Mara’s gaze went to him, steady.
-
-“We can,” she said. “If we stop pretending labour is infinite.”
-
-Charlie moved the ledger into Lauren’s reach and stepped back. Not retreating. Making room. There was a difference, and for once he seemed to know it.
-
-She turned to me, her eyebrows raised a tiny fraction. “You’re going back to school.”
-
-The sentence landed with the peculiar precision of a pin going through fabric. Mara didn’t guess. This was an observation she’d put together on her own, without me saying anything to her directly.
+I stared at her. I hadn't told Mara.
 
 Heat climbed into my face.
 
@@ -3448,222 +3417,191 @@ Then Mara’s tone went flat.
 
 “One problem: we don’t have the money to send you.”
 
-There it was. Tuition.
+*Send me?*
 
-“I can run circles around most people in a classroom,” I said quietly. “I can’t run circles around fees.”
+That was never on my radar.
 
-In the corner of my eye, Charlie’s head snapped up.
+“I've been saving up,” I said quietly. “And I'll continue to work.”
 
-He didn’t speak. He didn’t have to.
+Mara's face went impassive.
 
-The old script had already reached for him.
+"Even operations won't prevent burnout." 
 
-*I can fix this. I can provide.*
+Lauren was nodding.
 
-Lauren saw it too. Her warmth became guardrails. She directed her gaze at Mara.
+“We need to do this the Wardrobe way,” she said.
 
-“Then we do it the Wardrobe way,” Lauren said. “We solve it like adults.”
+"But—"
 
-Mara’s eyes narrowed, attentive. Lauren tapped the papers.
+"Celeste, listen. We're not doing charity. This is investment."
 
-“We accept the Faire run. We price it properly. We track time properly. We stop doing invisible labour.” She glanced at me. “And we set up a fund. Transparent. Written. Agreed.”
+She tapped the papers and glanced at me. 
+
+“We set up a fund. Transparent. Written. Agreed.”
 
 Sarah’s head cocked. “A fund.”
 
-Lauren nodded. “Education. Operations. Whatever we call it. This won’t happen on hints and hope.”
+Lauren nodded. “Education. Operations. Whatever we call it. This won’t happen on good intentions and hope.”
 
 Mara held Lauren’s gaze for a long second.
 
-“Write it,” she said finally.
+“Let's write it,” she said finally.
 
-Lauren’s pencil moved. Charlie stared at the page, face blank.
-
-Mara glanced at him.
-
-“Nobody,” Mara said, “gets to mistake money for authority in this room.”
-
-Charlie swallowed. “No.”
-
-Mara tapped the ledger.
-
-“We proceed.”
-
-Lauren pushed a clean sheet toward me. 
+Lauren handed me her pen. 
 
 “Provide all the details you can about Uni,” she said, warm again. “We need numbers. Fees. Timeline. Units.”
 
-I picked up the pen. 
+Sarah folded her arms.
 
-Outside, the Faire carried on... loud, theatrical.
+"So, what do we do about staffing, then?"
 
-Inside, at the cutting table, we began building a story that would hold.
+Lauren turned to her.
 
-<hr class="section-break strong" />
+"Could you go full-time?"
 
+"Of course!" Sarah said. "But I'm just one person—"
 
+Lauren began counting on her fingers.
 
+"Tahlia's full-time, Leah's full-time." She thoughtfully threw out a third finger. "Perhaps I could cut back a bit at Home-Health—"
 
+Mara shook her head. "You shouldn't need to do that.”
 
+Lauren's fingers stopped.
 
+Her face had changed. 
 
+She glanced at me. 
 
+It was just a quick flick of the eyes, but Mara caught it.
 
+Because, of course she did.
 
-## 20 House Policy ✨ 
+She gave a slow nod.
 
+“There’s a bit nobody ever counts,” Mara said. 
 
-[![Charlie][S20a]{ .artR width="460" }][S20a]
+“I want to know," Mara said to Lauren without looking at her, "how many hours we lose to friction.”
 
+Sarah gaped at her, her face a question mark.
 
-[ *Celeste* ]
+Charlie's eyes darted from his mum to Mara and back again, not comprehending either. “Friction.”
 
-Mara laid out the Faire run the way she laid out everything: if you didn’t carry the weight properly, someone got hurt.
+Lauren nodded. 
 
-“Thirty-six units,” she said, and tapped the order sheet. “That means we stop behaving like a clever pocket of talent and start behaving like a shop.”
-
-Lauren had brought a roll of butcher’s paper and a marker. She unrolled it on the cutting table like she was flattening a problem. Columns appeared. Headings. Boxes. A place for reality to sit.
-
-CUT
-SEW
-HARDWARE
-FINISH
-QC
-PACK
-PICKUP / DELIVERY
-
-Charlie watched the grid form, standing close enough to see, far enough not to intrude, chalk dust on his fingers.
-
-Sarah leaned on the shelving, arms folded, expression set to: 
-
-*fine, impress me.*
-
-Mara’s finger moved down the list.
-
-“Hardware packs get made first,” she said. “Grommets counted. Tape cut. Boning sorted by stiffness.” She nodded at Lauren. “Labelled.”
-
-Lauren’s marker squeaked as she wrote.
-
-“Hardware packs,” she said in her warm voice. “Like meal prep. You do it properly, and you stop bleeding time every time you need a grommet.”
-
-Mara didn’t smile, but her shoulders loosened the tiniest bit.
-
-“Quality Control checklist,” Mara continued. “Nothing leaves the building without it.”
-
-Sarah rolled her eyes. “We’re doing paperwork now.”
-
-Mara looked at her. “We have been doing paperwork. We’re just calling it by its name now.”
-
-Lauren’s marker paused. She added a box to the side.
-
-TIME LOST:
-
-Mara’s eyes flicked to it. “What’s that?”
-
-Lauren’s tone stayed conversational. Steel lived underneath it.
-
-“That’s the bit nobody counts,” Lauren said. “And it’s the bit that kills you.”
-
-She looked around the table.
-
-“This is not about anyone volunteering extra hours,” she added. “I want to know how many hours we’re already losing to friction.”
-
-Charlie frowned. “Friction.”
-
-Lauren nodded. “Commute time. Waiting on deliveries. Re-doing things because the right tape wasn’t where it should be. Starting late because someone’s brain is fried.”
-
-Sarah shook her head. “Really?”
-
-Lauren turned to her, unflinching.
-
-“You can scoff,” she said. “Or you can tell me how many minutes it takes you to find grommets when they’ve migrated.”
-
-Sarah opened her mouth, then shut it again. 
-
-*Too many.*
-
-Lauren turned to Charlie.
-
-“How long from home to here, Charlie?”
+“That's right. Friction. Commute time.” She leaned back. “How long is the bus ride from home to here, Charlie?”
 
 He hesitated.
 
-“Forty-five minutes,” he said finally. “Sometimes more.”
+“An hour and a half,” he said finally. “I have to change buses in Torquay.”
 
-“Each way.”
+Sarah let her breath out in a long puff.
+ 
+“An hour and a half every day!”
 
-Charlie nodded.
+"No-no. *Three* hours every day," I said. "An hour and a half *just to get here!* And what time do you have to leave to catch the last bus back to Torquay?"
+
+Charlie reddened slightly.
+
+"Um, the bus leaves at four-forty five. But sometimes it leaves a few minutes early."
 
 Lauren scribbled.
 
-“I’m not here every day. Charlie is. And that’s an hour and a half a day.” She wrote the number slowly, then turned to him. “Seven and a half hours a week, Charlie. That’s a whole workday spent travelling.”
+“Fifteen hours a week, travel time.”
 
-Mara said. “That’s geography.”
+Mara said. “Geography is not on our side.”
 
-Lauren nodded. “Sure. And we can’t argue with geography.” She tapped the grid. “We can choose what we do about it.”
+Lauren nodded. “Of course. And we can’t argue with geography.”
 
-Her gaze moved to me.
+The room went still. All eyes were on Lauren.
 
-“Celeste,” she said, as if it were the obvious next line on the page, “how are you going to do an MBA while we scale a shop and keep the place clean?”
+“However,” she said quickly. “If Charlie moved closer, like, with Celeste—”
 
-I felt irritation rise: not at her, but at the world, at the way ambition always seemed to come with a price tag and a time tax.
+She stopped, her mouth frozen open on my name.
 
-“I won’t do it well on noise and buses and guesswork,” I said, fretful. “And I can’t do it at all, tired.”
+Mara said nothing.
 
-Mara’s eyes stayed on mine. I didn’t have to apologise for the edge. Mara spoke fluent irritation. She used it.
+Charlie's eyes seemed to take over his face. He tried to swallow. Tried again, harder.
 
-“So, we remove friction,” Mara said, flat.
+Sarah studied us wordlessly, her face one of disbelief.
 
-Charlie’s eyes flicked between us, trying to follow the move, a reflex searching for a role. If friction is the enemy, he was there to fight it. If this is a problem, he could solve it. 
+"That's an idea," the voice from the overlocker said.
 
-Lauren saw it too. Her face went thoughtful: she laid guardrails down like tape lines on a floor.
+"Don't be daft, Tahlia," Sarah said. "Charlie can't just move in with Celeste."
 
-“We're going to solve this with logistics,” she said, warm and firm. “Not a one-person solution. Logistics.”
+"Why not?"
 
-Mara nodded. “Exactly.”
+"Yeah, why not?" Lucy had just come in from the loading bay, awkwardly carrying a large box. Charlie jumped up to help her. They set the box next to the rails. Lucy dusted off her arms and looked around at the group.
 
-Lauren and Mara turned to me. I nodded at them, and looked at Charlie.
+Sarah tucked her head forward.
 
-“I live a five-minute walk from here,” I said, “and I have a spare room. Move in, and your commute drops to five minutes. We split costs.”
+"B-because— he's a— boy?" she said, as if explaining something to a small child.
 
-Charlie stared at me. For a second he looked as if the floor had moved and everyone else had known it was going to.
+Lauren hadn't said anything yet.
 
-Sarah stifled a gasp. “What?”
+Nor had Mara, but for a different reason. Her eyes fell on Charlie, who was still swimming in his own little emotional fishbowl. Her mouth tensed slightly.
 
-Lauren’s marker squeaked as she added a new box.
+"It's up to Celeste," she said finally.
 
-HOUSING / ROUTINE:
+I took in a slow, deep breath.
 
-Mara didn’t look at Sarah. “Colleague,” she said, automatic as breath. “Tenant, if he signs.”
+*It made sense.*
 
-Sarah shut her mouth.
+Lauren may be struggling with it, but it totally made sense. Tahlia, Lucy and I shared glances and nods.
 
-Charlie’s head tilted, as if not trusting his ears. “You mean... live with you?”
+*Yeah. Makes sense.*
 
-“I mean... *rent a room*,” I said, calm on purpose. Not cold, precise. “Separate rooms. Separate lives. Shared logistics.”
+I took in Mara's slow smile that wasn't a smile. 
 
-Lauren nodded, warm. “Rent. Terms. And with a house policy.”
+*Mara understood it.*
 
-Mara, flat: “Proximity doesn’t buy access.”
+"We will need rules. Procedures. But yeah," I said. "I'm for it."
 
-Charlie flinched, as though he’d been accused of something he’d never have had the nerve to do. Mara didn’t soften it: she wasn’t accusing him. She was protecting everyone, including him, from the presumption that mistakes vicinity for entitlement.
+Sarah shook her head.
 
-“Oh, I wouldn’t—" he began.
+“You really think house rules are going to make this uncomplicated?”
 
-“I know,” I said, and I meant it. “But we’re not building a system that relies on people being good. We’re building one with clear boundaries.”
+"Think it through, Sarah." I lifted the ledger, holding it as if it was Holy Writ. "We follow rules here. No one questions them. Why can't those rules apply at home? It's about safety, after all."
 
-His eyes flicked between me and Mara.
+Mara nodded.
 
-“It’s not personal,” Lauren said. “It’s grown-up. It's a positive, well-defined approach.”
+"And Charlie knows what happens if he compromises safety."
 
-Charlie swallowed.
+Charlie seemed to have regained some composure.
 
-“What are the terms?” he asked quietly.
+"I'm— out," I heard him murmur.
 
-Mara looked satisfied, the way she looked satisfied when a stitch finally behaved. Lauren pulled a fresh sheet from her stack, as if she’d been waiting for this exact moment.
+Sarah was still slowly shaking her head.
 
-“Right then,” she said, cheerful. “We write it.”
+"Two young persons in the same flat—"
 
-She drew headings quickly.
+"Proximity does not imply access," Mara said flatly. "For *anyone.*"
+
+I hadn't even considered that angle. 
+
+I glanced at Lauren.
+
+She was staring at me, her eyes cold as ice.
+
+Oh.
+
+"Rules are rules," said Tahlia as she wandered over to the cutting table. "Rules are for me, and for thee."
+
+"That's why rules work," said Mara.
+
+The wind blew one of the shutters against the wall with a thud. Laughter carried from the marketplace.
+
+Lauren's eyes slowly regained a bit of warmth.
+
+Her eyes moved to Mara, as if seeking reassurance.
+
+"You draw up the document, Lauren," Mara said to her. "No ambiguity. And everyone signs."
+
+Lauren nodded slowly. 
+
+“Rent. Terms. And with a house policy.”
+
+She drew headings.
 
 RENT:   
 BILLS:   
@@ -3671,7 +3609,7 @@ QUIET HOURS:
 STUDY HOURS (SACRED):   
 CHORES:   
 GUESTS:   
-PRIVACY:   
+BOUNDARIES:   
 CONFLICT RULE:   
 EXIT CLAUSE:   
 
@@ -3681,73 +3619,30 @@ Mara glanced at her. “That’s what adulthood looks like.”
 
 Sarah’s mouth twitched. “It looks like something from a law office.”
 
-“It acts like freedom.” Lauren spoke firmly, still warm. She fastened the page to a clipboard. “We apply the same principle as we have here: if it isn’t written, it isn’t real.”
+“It acts like freedom.” Lauren spoke firmly. 
 
-Charlie stood very still, reading down the list.
+Mara nodded.
 
-“Study hours... sacred,” he repeated, softly.
-
-“Yes,” I said. “If I’m doing this, I’m doing it properly.”
-
-His eyes moved down. “Privacy.”
-
-“Yes,” Mara said before I could. “Non-negotiable.”
-
-Charlie nodded. Something in his posture eased, the way it had eased when the ledger gave him rails.
-
-Lauren looked up at me.
-
-“Celeste,” she said, warm, “you set the parameters. It’s your place. Your domain.”
-
-I picked up the pen and didn’t hesitate.
-
-Rent amount. Bills split. Quiet hours. No hovering. No improvised “help”. Guests by agreement. Study hours written like a boundary you could build a life against. Charlie watched my hand writing the terms as if I was drawing a map. When I finished, I slid the page toward him.
-
-“Read it,” I said. “If you agree, you sign. If you don’t, we're done, here.”
-
-He read slowly. Carefully. When he reached the bottom, he paused at the exit clause.
-
-“What’s that?”
-
-Lauren kept her tone light.
-
-“That’s the part where nobody gets trapped,” she said gently. “Thirty days’ notice. No dramas.”
-
-Charlie signed: steady enough to tell me he understood what he was signing. Infrastructure. Mara tapped the page once. Approval.
-
-“Good,” she said. “Now we can work without wasting human life on travel.”
-
-Sarah stared at the paper, then at me. Her expression rearranged itself in real time, judgement trying to find purchase and failing, until it became something more sincere.
-
-“So,” she said finally, “you’re not doing this because you fancy him. Do you feel... safe, though?”
-
-I met her gaze.
-
-“I do. Look, I’m doing it because I’m not letting my ambition be eaten by chaos,” I said, “and because he’s useful.” Charlie’s ears coloured. Oddly, he looked relieved. 
-
-Lauren laughed softly, understanding in her eyes. 
-
-Mara didn’t laugh. She turned back to the butcher’s paper and tapped the production grid.
-
-“Right,” she said. “Now that we’ve removed a key friction point, we accept the Faire run.”
-
-Charlie picked up his chalk again.
-
-These were the terms.
-
-He was useful.
-
-This was work.
+“If it matters, make it clear.”
 
 <hr class="section-break strong" />
 
+<!--
+## 19 The Numbers  📝
+[![Charlie][S19a]{ .artR width="460" }][S19a]
+This was Scene 19 - "The Numbers".
+Time of year: ???
+[ *Celeste* ]
+
+## [19 & 20](W_Edits.md)
+-->
 
 
 
 
 
 
-
+<!--
 
 ## 21 Terms ✨
 
