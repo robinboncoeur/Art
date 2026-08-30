@@ -1,4 +1,5 @@
 [Aa]ircon
+Anglesea
 Arbres
 artform
 blokey
@@ -32,6 +33,7 @@ Giaconda
 Gliga
 grainline
 Greeves?
+handwheel
 Harri
 Heyer
 hors
@@ -45,6 +47,7 @@ Kaimu
 Kalapana
 Kalinnikov
 Katya
+keepable
 Kilda
 [Kk]indy
 Kirsty
@@ -77,7 +80,7 @@ Qwen
 Rache
 reaticulate
 repinned
-rethreaded
+rethread(ing|ed|s)?
 Retraite
 ridgebacks
 Rookh
@@ -108,7 +111,7 @@ toserver
 [Tt]radies?
 [Tt]ransformative
 Trimethoprim
-tu
+troppo
 tuplets
 unbuffered
 underbuilt

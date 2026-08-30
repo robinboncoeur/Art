@@ -32,6 +32,7 @@
 [S10a]: /assets/images/story/Scene10a.jpg
 [S11a]: /assets/images/story/Scene11a.jpg
 [S12a]: /assets/images/story/Scene12a.jpg
+[S12b]: /assets/images/story/Scene12b.jpg
 [S13a]: /assets/images/story/Scene13a.jpg
 [S14a]: /assets/images/story/Scene14a.jpg
 [S15a]: /assets/images/story/Scene15a.jpg
@@ -132,6 +133,18 @@
 [St29]: /assets/images/base/29Charlotte.jpg
 [St30]: /assets/images/base/30alice.jpg
 [St33]: /assets/images/base/33garden.jpg
+
+[Ot01]: /assets/images/other/overlocker01.jpg
+[Ot02]: /assets/images/other/overlocker02.jpg
+[Ot03]: /assets/images/other/overlocker03.jpg
+[Ot04]: /assets/images/other/overlocker04.jpg
+[Ot05]: /assets/images/other/overlocker05.jpg
+[Ot06]: /assets/images/other/overlocker06.jpg
+[Ota1]: /assets/images/other/Anglesea1.jpg
+[Otb1]: /assets/images/other/Anglesea2.jpg
+[Otc1]: /assets/images/other/Anglesea3.jpg
+[Otd1]: /assets/images/other/Anglesea4.jpg
+[Ote1]: /assets/images/other/Anglesea5.jpg
 
 <!--
 😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 👗 👚 👜 👠 🩰 💄  💞 💖 ❤️ 💋 🎻 📒 🩸 💧 🚺 ❤️ 🫧 🌩 🌧 🧵 🪡 —

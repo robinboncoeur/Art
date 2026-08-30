@@ -13,10 +13,9 @@
 
 
 
-
 ## Don't Touch Fridays
 
-[![Moi][St00]{ .artL width="260" }][St00]
+[![Moi][St00]{ .artL width="160" }][St00]
 
 [ Robyn ]
 
@@ -699,7 +698,7 @@ You taught me how to see. Just like Lauren taught Charlie how to see. One word c
 
 [ Emily ]
 
-Ohhh, **yes**. That works. And I think the overlocker has just earned its place in the chapter. 😄
+Oh, **yes**. That works. And I think the overlocker has just earned its place in the chapter. 😄
 
 Because it isn't merely a device for getting Lauren through the door. It does several jobs simultaneously, and—importantly—nobody has to announce any of them.
 
@@ -922,6 +921,8 @@ In this bloody story, apparently even Cupid has to submit a maintenance request.
 
 
 
+
+
 ## Overlocker Mystery
 
 
@@ -931,7 +932,10 @@ In this bloody story, apparently even Cupid has to submit a maintenance request.
 [ Robyn ]
 
 Overlockers.   
-I know virtually nothing about them except — faintly — they tidy up seams, so they're less likely to come unravelled or sort of have threads jump ship. But what can go wrong with an overlocker? Like, commonly?
+I know virtually nothing about them except — faintly — they tidy up seams, so they're less likely to come unravelled or sort of have threads jump ship. 
+
+What can go wrong with an overlocker?   
+Like, commonly?
 
 <hr class="section-break soft" />
 
@@ -945,17 +949,14 @@ I know virtually nothing about them except — faintly — they tidy up seams, s
 
 Yes — your faint understanding is basically right. 😄 An **overlocker** (serger in American terminology) trims the raw fabric edge while wrapping it in thread, producing that neat, stretchy, non-fraying seam finish you see inside commercially made clothing. Depending on setup, it can also construct seams rather than merely finish them.
 
-![Image](https://images.openai.com/static-rsc-4/9wslEngvGzOTGCFlOsYOqdCDbUPLxsvDn2n1eUh2YfvG-nBJ5deF37GjKjw8dO5UUMM94buKaYUoDqDceY-dvqf6RYpCt0UCbkO2B8t9GRH826cnq8-0O9rPlPO_2vfRkO0mGqtYC1pW_Av5RatQHYALpcB_OL9akOtiIuqZuvSc_2lV6OVYNJ86w26QwIkX?purpose=fullsize)
+<hr class="section-break soft" />
+[![Overlocker][Ot02]{ .artL width="200" }][Ot02]
+[![Overlocker][Ot06]{ .artL width="200" }][Ot06]
+[![Overlocker][Ot03]{ .artL width="200" }][Ot03]
+[![Overlocker][Ot01]{ .artL width="140" }][Ot01]
+[![Overlocker][Ot04]{ .artL width="140" }][Ot04]
+<hr class="section-break soft" />
 
-![Image](https://images.openai.com/static-rsc-4/xz-ShfVh002-XhX8TR9JF8o11aRx3SylmgOF_f-9c03r87joaSBQegxOP9oc7X1pWoZ_fJeQ0I8dyn6DFOBUhKqqWS6b4n5uByP1omuiX3VIGLBMFEOVj4U3CZTU6gzhO_437DKkGyAA729pVpuYQrr9Ti5vxylg9ATQN2O7Y7h9iOWAbbXARKoSoV4GjJEQ?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/MWAAqrYQKrHihranss4VQZVbP15j9y3YYPPjRrHZm1U6UzwauN_hYnAflFoSfCuS1waEQIoegAZgUoD3FJYw4cUPlRDkjw-jQl_IXYe1VW4xj5-kgQonE-BkdO-0yt0m7MLY_Cpn6fHnlLqf12bOix9C4hnUJEdkBa10HP3lVz3t5BZUfW7pBQ4-Qd8gkMKA?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/3uNZ0haz5vSORVRbQAzpWI-1pewA20CyznNcvP63zIM1u7CfRtK1ESB4xAGC1zScwHa7Ck_gi8vJlZsSs4pjZW8Bp-ISPcqkcjLsSNni1_1gMZcJslntetDV6LsfhEbLtO_vhMV1-3WLcch823LoWinKZ_EDkV_ea_0S3I9i-LHZ-9T2p8Rze0VlP4-v4HYf?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/hXyPC0z0hmqP-o7p_toB8kHzqjxJkaaEgMpJZvffS-MfVaCzYuQfrryxHkyRWm6P8xuqPMdaL3EY2tLI1EhMIxhL681-GRy7N7HlNh8VpTRE_ZZ7xkHLCDXbXvqBJnk0Ya7NFiz3_MKBXyLvkRu2MCwUfZb5NaDkTqaa-cuk6rhv1C6Tw6bDKrKVIbcUcRoX?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/k2K4ma4cxUz3m0xs02nhydXYfzJtrK5qRSqOIwHB6hZh-ZqJrf3Zd9_DheO5FW5hfvJIEXi6AHuxU3NWlp2E7hV4o9Fvgfkt0hUFqOGqwnjDtyoH-sjuab1zDJu18_CLXzHRPaPa340MOchy5KnvzcT0-XT9fkEiU6tE0QbT3gVWq0KUUyTAhG8IGcKXhUDh?purpose=fullsize)
 
 And they're wonderfully suitable for your scene because they are **temperamental little bastards with multiple threads**. A typical four-thread overlocker has two needles and two loopers, with a threading path considerably more complicated than an ordinary sewing machine.
 
@@ -1006,7 +1007,9 @@ Now Lauren investigates **one stupidly specific thing she knows from experience*
 
 For example, thread can catch around the spool pin, under/around the cone, at a guide, or otherwise fail to unwind smoothly. Lauren frees/reseats it, rethreads that path correctly, turns the handwheel cautiously, then lets Tahlia test it.
 
+<!-- vale off -->
 **Brrrrrrrrrrr.**
+<!-- vale on -->
 
 Perfect stitches.
 
@@ -1076,109 +1079,6 @@ Oh, we're going to have fun with this chapter. 😄💞
 
 
 
-## Canon
-
-
-[![Moi][St00]{ .artL width="260" }][St00]
-
-
-[ Robyn ]
-
-
-<hr class="section-break soft" />
-
-
-
-
-
-[![Emily][Ts00]{ .artR width="260" }][Ts00]
-
-
-[ Emily ]
-
-
-<hr class="section-break strong" />
-
-
-
-
-
-
-## Additional Thoughts
-
-
-[![Moi][St00]{ .artL width="260" }][St00]
-
-
-[ Robyn ]
-
-
-<hr class="section-break soft" />
-
-
-
-
-
-[![Emily][Ts00]{ .artR width="260" }][Ts00]
-
-
-[ Emily ]
-
-
-<hr class="section-break strong" />
-    
-
-
-
-
-## Woman
-
-
-[![Moi][St00]{ .artL width="260" }][St00]
-
-
-[ Robyn ]
-
-
-<hr class="section-break soft" />
-
-
-
-
-[![Emily][Ts00]{ .artR width="260" }][Ts00]
-
-
-[ Emily ]
-
-
-
-<hr class="section-break strong" />
-    
-
-
-
-
-## Section Discussion
-
-
-[![Moi][St00]{ .artL width="260" }][St00]
-
-
-[ Robyn ]
-
-
-<hr class="section-break soft" />
-
-
-
-
-[![Emily][Ts00]{ .artR width="260" }][Ts00]
-
-[ Emily ]
-
-
-
-<hr class="section-break strong" />
 
 
 
