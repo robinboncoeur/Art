@@ -3283,7 +3283,7 @@ Lauren's hand.
 
 
 
-## 13 Access Not Implied
+## 13 Not Boutique
 
 [ *Celeste* ]
 
@@ -3516,7 +3516,33 @@ Time of year: ???
 [ *Celeste* ]
 
 ## [19 & 20](W_Edits.md)
+
+
+
+
+Access Not Implied
 -->
+
+
+
+
+
+## 14 No Room
+
+
+[ *Charlie* ]
+
+
+[14 No Room](W_Edits.md)
+
+
+<hr class="section-break strong" />
+
+
+
+
+
+
 
 
 
