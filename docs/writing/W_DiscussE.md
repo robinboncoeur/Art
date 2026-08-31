@@ -27,14 +27,14 @@ And now, Charlie's repairing costumes. He feels he's found his niche.
 **I'm going to slip into Charlie's shoes for a moment.   
 And my Dad, into Roger's.**
 
-The *dread* of what my Dad's going to say when he finds out what I've decided to do — whether or not my Dad would actually say that — becomes unbearable. I see one way out: I have to leave home. 
+The *dread* of what my Dad's going to say when he finds out what I've decided to do — whether Dad would actually say anything is moot — becomes unbearable. I see one way out: I have to leave home. 
 
 But live where? 
 I start looking for something close to the Faire.  
 Like, Torquay or even Anglesea.  
 Nothing. 
 
-I don't drive: no driving licence. I'm a "Nigel Nofriends"... no mates. 
+I don't drive: no driving licence. I'm a "Nigel Nofriends"... no mates.  
 I'm stuck.  
 
 I talk to my mum: she knows a lady who lives on a little 2 horse 'ranch' on Bell's Beach. She's looking for help. We go to an interview, the lady has a look at me and it's 'nah, mate, not on'. 
@@ -365,89 +365,60 @@ And then, the next chapter **could be in Charlie's POV**. The whole angst about 
 
 **Oh, yes.** I think you've just found not merely the second chapter, but a reason for it to exist in its own right.
 
-And finishing *Access Not Implied* with Celeste having **successfully found someone else** is stronger than anything I was proposing. It shuts the door.
-
-From Celeste's perspective:
+And finishing *Access Not Implied* with Celeste having **successfully found someone else** is stronger than anything I was proposing. It shuts the door. From Celeste's perspective:
 
 **Problem raised → Celeste doesn't need Wardrobe's money → spare room is one possible income source → she rents it → done.**
 
-The reader has no reason whatsoever to think, *Ah yes, Charlie will obviously move in there.*
+The reader has no reason whatsoever to think, *Ah yes, Charlie will obviously move in there.* Because **he can't. Someone lives there.**
 
-Because **he can't. Someone lives there.**
-
-Then we leave Celeste's head.
-
+Then we leave Celeste's head.   
 And enter Charlie's.
 
-### This could be the first time we really inhabit the consequences of everything that's happened to him
+---
 
-We've spent this Wardrobe sequence watching Charlie become **Stranger → Known → Trusted → Ordinary**, substantially through other women's perceptions of him. Lauren sees things. Mara sees things. Celeste sees things. Lucy sees things. Sarah will see things.
+### Inhabiting Consequences
+
+This could be the first time we really inhabit the consequences of everything that's happened to him. We've spent this Wardrobe sequence watching Charlie become **Stranger → Known → Trusted → Ordinary**, substantially through other women's perceptions of him. Lauren sees things. Mara sees things. Celeste sees things. Lucy sees things. Sarah will see things.
 
 But Charlie himself?
 
-There's an enormous amount going on under that quiet exterior.
-
-This chapter could finally ask:
+There's an enormous amount going on under that quiet exterior. This chapter could finally ask:
 
 **Charlie, what the hell do you think is happening to your life?**
 
 And the answer is gloriously complicated.
 
-He has found something he is **good at**.
-
-Not school-good. Not *you should apply yourself* good. Not Maintenance's attempt to toughen him up.
-
-Actually useful.
+He has found something he is **good at**. Not school-good. Not *you should apply yourself* good. Not Maintenance's attempt to toughen him up. Actually useful.
 
 People depend upon him.
 
-Mara gives him work because she trusts his judgement. Actresses bring him garments. He knows things now that he didn't know months ago. His hands can solve problems. He belongs somewhere.
-
-And he's made an enormous decision:
+Mara gives him work because she trusts his judgement. Actresses bring him garments. He knows things now that he didn't know months ago. His hands can solve problems. He belongs somewhere. And he's made an enormous decision:
 
 > “I want to learn the trade.”
 
-That line probably felt straightforward when he said it.
-
-Then comes the delayed consequence.
+That line probably felt straightforward when he said it. Then comes the delayed consequence.
 
 **Dad.**
 
 Oh.
 
-Because Roger hasn't merely suggested boilermaking. He's done things for Charlie. He's arranged Maintenance. He's arranged the apprenticeship. In Roger's understanding, presumably, he's been **helping his son get his life started**.
+Because Roger hasn't merely suggested boilermaking. He's done things for Charlie. He's arranged Maintenance. He's arranged the apprenticeship. In Roger's understanding, presumably, he's been **helping his son get his life started**. And Charlie has quietly dismantled the whole plan. Not to take a more prestigious apprenticeship. Not university. Not another conventional trade.
 
-And Charlie has quietly dismantled the whole plan.
-
-Not to take a more prestigious apprenticeship.
-
-Not university.
-
-Not another conventional trade.
-
-**Costume repair.**
-
-Among women.
-
+**Costume repair.**  
+Among women.  
 At a Faire.
 
-The very qualities Roger apparently thought needed toughening haven't been corrected at all. They've turned out to be **valuable**.
+The very qualities Roger apparently thought needed toughening haven't been corrected at all. They've turned out to be **valuable**. That's psychologically enormous.
 
-That's psychologically enormous.
+---
 
 ### And Spiro belongs here
 
-Not as another Big Plot Development.
-
-I'd actually love it if Charlie treats it almost the way he treats everything else:
+Not as another Big Plot Development. I'd actually love it if Charlie treats it almost the way he treats everything else:
 
 **I started it.**
 
-Then we discover what that means from inside him.
-
-He's done this secret, medically consequential thing because puberty frightened him badly enough that *doing nothing* became intolerable. But he still doesn't have some beautifully formulated identity explanation.
-
-He knows:
+Then we discover what that means from inside him. He's done this secret, medically consequential thing because puberty frightened him badly enough that *doing nothing* became intolerable. But he still doesn't have some beautifully formulated identity explanation. He knows:
 
 **I don't want this to continue.**
 
@@ -455,75 +426,37 @@ And perhaps now, after some days/weeks on it, there's another emotion worth expl
 
 **I've done something Dad would hate even more than Wardrobe.**
 
-That's interesting because suddenly Roger becomes the shadow over **two acts of self-determination**.
+That's interesting because suddenly Roger becomes the shadow over **two acts of self-determination**. Roger has a plan for Charlie's work. Charlie has chosen differently. Roger presumably has expectations about what sort of young man Charlie should become. Charlie has quietly begun interfering with that process too. Charlie may not consciously join those things together. I'd rather he didn't. The reader can.
 
-Roger has a plan for Charlie's work.
+---
 
-Charlie has chosen differently.
+### And then: Reality
 
-Roger presumably has expectations about what sort of young man Charlie should become.
-
-Charlie has quietly begun interfering with that process too.
-
-Charlie may not consciously join those things together. I'd rather he didn't. The reader can.
-
-### And then comes the really painful possibility
-
-Roger hasn't actually done anything.
-
-That's what makes this good.
-
-Charlie can become increasingly anxious about a confrontation that exists almost entirely **in anticipation**.
-
-Lauren might even say:
+And then comes the really painful possibility. Roger hasn't actually done anything. That's what makes this good. Charlie can become increasingly anxious about a confrontation that exists almost entirely **in anticipation**. Lauren might even say:
 
 > “Your father hasn't said any of that.”
 
-And Charlie knows.
-
-That's no comfort whatsoever.
-
-Because the fear isn't:
+Charlie knows. That's no comfort whatsoever. Because the fear isn't:
 
 **Dad said he'll throw me out.**
 
 It's:
 
-**I know what Dad wanted me to become. I have rejected it. I don't want to be there when he discovers how completely.**
+**I know what Dad wants me to become. I have rejected it. I don't want to be there when he discovers how completely.**
 
-That is a very different reason for leaving home.
+That is a very different reason for leaving home. And wonderfully, Charlie can be **wrong about Roger without being wrong about needing independence**. That's the nuance I'd protect.
 
-And wonderfully, Charlie can be **wrong about Roger without being wrong about needing independence**.
+---
 
-That's the nuance I'd protect.
+### The housing search
 
-### The housing search then becomes character revelation
+A character revelation. Rather than plot logistics, every attempted solution tells us something about Charlie's actual position in the world. He doesn't drive. He doesn't have much money. He doesn't have mates. He has no social network of his own outside Wardrobe.
 
-Rather than plot logistics, every attempted solution tells us something about Charlie's actual position in the world.
+He can search Torquay, Jan Juc, Anglesea—but a map saying somewhere is nearby doesn't mean Charlie can actually **live there**. Then he finally tells Lauren.
 
-He doesn't drive.
+And that conversation could be superb because Lauren may initially misunderstand the problem. Perhaps she thinks Charlie is asking her to deal with Roger. Charlie doesn't want her to. Or she says Roger doesn't control whether Charlie works at Wardrobe.
 
-He doesn't have much money.
-
-He doesn't have mates.
-
-He has no social network of his own outside Wardrobe.
-
-He can search Torquay, Jan Juc, Anglesea—but a map saying somewhere is nearby doesn't mean Charlie can actually **live there**.
-
-Then he finally tells Lauren.
-
-And that conversation could be superb because Lauren may initially misunderstand the problem.
-
-Perhaps she thinks Charlie is asking her to deal with Roger.
-
-Charlie doesn't want her to.
-
-Or she says Roger doesn't control whether Charlie works at Wardrobe.
-
-Charlie knows that.
-
-Or:
+Charlie knows that. Or:
 
 *You don't have to move out.*
 
@@ -533,54 +466,34 @@ Again:
 
 He's not being evicted.
 
-He's deciding that if he is going to make adult decisions his father may profoundly disapprove of, he no longer wants those decisions taking place beneath the family roof.
-
-That is **growing up**, albeit Charlie-style.
-
-And it gives Lauren something difficult to do:
+He's deciding that if he is going to make adult decisions his father may profoundly disapprove of, he no longer wants those decisions taking place beneath the family roof. That is **growing up**, albeit Charlie-style. And it gives Lauren something difficult to do:
 
 **help her son leave when she doesn't think he needs to.**
 
 That's lovely material for her.
 
-### Meanwhile, Celeste is completely absent from the equation
+---
 
-I'd be quite disciplined about this.
+### Meanwhile...
 
-Charlie shouldn't think:
+Celeste is completely absent from the equation. I'd be quite disciplined about this. Charlie shouldn't think:
 
 *Celeste has a spare room.*
 
-Because as far as he knows, **she doesn't**.
+Because as far as he knows, **she doesn't**. She has a roomie. That possibility is closed. So Charlie genuinely tries everything else. 
 
-She has a roomie.
-
-That possibility is closed.
-
-So Charlie genuinely tries everything else.
-
-Bells Beach.
-
-No.
-
-Tahlia.
-
-Yes!
-
-Dog.
-
+Bells Beach.  
+No.  
+Tahlia.  
+Yes!  
+Dog.  
 Oh, for fuck's sake. 😂
 
-And somewhere in all this we can quietly show how extraordinary Tahlia's offer actually is.
-
-Months ago Charlie wasn't even part of this place.
-
-Now Tahlia hears he needs somewhere to stay and says, essentially:
+And somewhere in all this we can quietly show how extraordinary Tahlia's offer actually is. Months ago Charlie wasn't even part of this place. Now Tahlia hears he needs somewhere to stay and says, essentially:
 
 **Come to ours.**
 
-Ian presumably gets consulted and is fine with it.
-
+Ian presumably gets consulted and is fine with it.  
 That's belonging.
 
 Charlie is terrified that choosing Wardrobe is going to cost him family acceptance while, almost without noticing, Wardrobe keeps demonstrating:
@@ -589,21 +502,7 @@ Charlie is terrified that choosing Wardrobe is going to cost him family acceptan
 
 That's thematically gorgeous.
 
-And then I would **not solve it at the end of this chapter either**, if you can resist doing so.
-
-Let Charlie finish the chapter stuck.
-
-He's decided he can't continue living at home.
-
-He hasn't found anywhere else.
-
-Celeste has a roomie.
-
-Tahlia has a dog.
-
-Lauren's Bells Beach connection didn't work.
-
-Charlie has made a decision **before knowing whether the decision is convenient**.
+And then I would **not solve it at the end of this chapter either**, if you can resist doing so. Let Charlie finish the chapter stuck. He's decided he can't continue living at home. He hasn't found anywhere else. Celeste has a roomie. Tahlia has a dog. Lauren's Bells Beach connection didn't work. Charlie has made a decision **before knowing whether the decision is convenient**.
 
 That matters.
 
@@ -611,28 +510,21 @@ Perhaps the chapter closes not on despair but on resolve:
 
 **He still isn't changing his mind about Wardrobe.**
 
-That's the crucial thing.
-
-If the price of staying at Wardrobe turns out to be awkwardness, uncertainty, difficult conversations and an unresolved housing problem...
+That's the crucial thing. If the price of staying at Wardrobe turns out to be awkwardness, uncertainty, difficult conversations and an unresolved housing problem...
 
 **he chooses Wardrobe anyway.**
 
-Now *that* tells us how profoundly this place matters to him.
+Now *that* tells us how profoundly this place matters to him. 
 
-And only later—
-
-perhaps not even immediately next scene—
-
+And only later—  
+perhaps not even immediately next scene—  
 France happens.
 
-Celeste's roomie announces she's got the au-pair position.
-
-Suddenly a room becomes available.
-
+Celeste's roomie announces she's got the au-pair position.  
+Suddenly a room becomes available.  
 Lucy and Tahlia look at Charlie.
 
-They look at Celeste.
-
+They look at Celeste.  
 And both Charlie and Celeste go:
 
 **No.**
@@ -641,9 +533,7 @@ And both Charlie and Celeste go:
 
 Now we've earned every inch of the eventual one-month trial.
 
-And yes, Robyn, I think this Charlie POV chapter could become **very rich indeed**, because housing is really only its external spine.
-
-Internally it's about:
+And yes, Robyn, I think this Charlie POV chapter could become **very rich indeed**, because housing is really only its external spine. Internally it's about:
 
 * Dad.
 * Work.
