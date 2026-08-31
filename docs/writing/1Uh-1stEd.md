@@ -3425,7 +3425,7 @@ Then Mara’s tone went flat.
 
 That was never on my radar.
 
-“I've been saving up,” I said quietly. “And I'll continue to work. I could rent out my spare room, too.”
+“I've been saving up,” I said quietly. “And I'll continue to work. I'll' rent out my spare room, too.”
 
 Mara's face went impassive.
 
@@ -3441,11 +3441,7 @@ Lauren was nodding.
 
 She tapped the papers and glanced at me. 
 
-“We set up a fund. Transparent. Written. Agreed.”
-
-Sarah’s head cocked. “A fund.”
-
-Lauren nodded. “Education. Operations. Whatever we call it. This won’t happen on good intentions and hope.”
+“We set up a fund. Transparent. Written. Agreed.” She tapped her finger on the table. "This won’t happen on good intentions and hope.”
 
 Mara held Lauren’s gaze for a long second.
 
@@ -3471,165 +3467,46 @@ Lauren began counting on her fingers.
 
 Mara shook her head. "You shouldn't need to do that.”
 
-Lauren's fingers stopped.
+"*I* could stay later," Charlie broke in.
 
-Her face had changed. 
+"No, you can't," Mara said. "You have a bus to catch."
 
-She glanced at me. 
+Sarah drew her head back and frowned at him.
 
-It was just a quick flick of the eyes, but Mara caught it.
+"Where do you live?"
 
-Because, of course she did.
+"North Geelong."
 
-She gave a slow nod.
+"Actually, it's closer to Lara," Lauren corrected. "It's the connection at Torquay. Such a long bus ride."
 
-“There’s a bit nobody ever counts,” Mara said. 
+"I don't mind, Mum," he muttered.
 
-“I want to know," Mara said to Lauren without looking at her, "how many hours we lose to friction.”
+"So, we might need to hire more staff," Sarah said.
 
-Sarah gaped at her, her face a question mark.
+I could see Mara tense. She gave Sarah one of her looks.
 
-Charlie's eyes darted from his mum to Mara and back again, not comprehending either. “Friction.”
+"It's not that easy, Sarah," Lauren said. Her voice was gentle. "You need the right people. Not everyone's a quick read."
 
-Lauren nodded. 
+"We're taking the order," Mara said. "Celeste, work out details. We'll reconvene when you know more."
 
-“That's right. Friction. Commute time.” She leaned back. “How long is the bus ride from home to here, Charlie?”
+---
 
-He hesitated.
+By the end of the week, I'd not only sorted — at least, on paper — how this was all going to be possible, but I'd submitted my application for the Master's programme, and even found someone to rent a room to.
 
-“An hour and a half,” he said finally. “I have to change buses in Torquay.”
-
-Sarah let her breath out in a long puff.
- 
-“An hour and a half every day!”
-
-"No-no. *Three* hours every day," I said. "An hour and a half *just to get here!* And what time do you have to leave to catch the last bus back to Torquay?"
-
-Charlie reddened slightly.
-
-"Um, the bus leaves at four-forty five. But sometimes it leaves a few minutes early."
-
-Lauren scribbled.
-
-“Fifteen hours a week, travel time.”
-
-Mara said. “Geography is not on our side.”
-
-Lauren nodded. “Of course. And we can’t argue with geography.”
-
-The room went still. All eyes were on Lauren.
-
-“However,” she said quickly. “If Charlie moved closer, like, with Celeste—”
-
-She stopped, her mouth frozen open on my name.
-
-Mara said nothing.
-
-Charlie's eyes seemed to take over his face. He tried to swallow. Tried again, harder.
-
-Sarah studied us wordlessly, her face one of disbelief.
-
-"That's an idea," the voice from the overlocker said.
-
-"Don't be daft, Tahlia," Sarah said. "Charlie can't just move in with Celeste."
-
-"Why not?"
-
-"Yeah, why not?" Lucy had just come in from the loading bay, awkwardly carrying a large box. Charlie jumped up to help her. They set the box next to the rails. Lucy dusted off her arms and looked around at the group.
-
-Sarah tucked her head forward.
-
-"B-because— he's a— boy?" she said, as if explaining something to a small child.
-
-Lauren hadn't said anything yet.
-
-Nor had Mara, but for a different reason. Her eyes fell on Charlie, who was still swimming in his own little emotional fishbowl. Her mouth tensed slightly.
-
-"It's up to Celeste," she said finally.
-
-I took in a slow, deep breath.
-
-*It made sense.*
-
-Lauren may be struggling with it, but it totally made sense. Tahlia, Lucy and I shared glances and nods.
-
-*Yeah. Makes sense.*
-
-I took in Mara's slow smile that wasn't a smile. 
-
-*Mara understood it.*
-
-"We will need rules. Procedures. But yeah," I said. "I'm for it."
-
-Sarah shook her head.
-
-“You really think house rules are going to make this uncomplicated?”
-
-"Think it through, Sarah." I lifted the ledger, holding it as if it was Holy Writ. "We follow rules here. No one questions them. Why can't those rules apply at home? It's about safety, after all."
-
-Mara nodded.
-
-"And Charlie knows what happens if he compromises safety."
-
-Charlie seemed to have regained some composure.
-
-"I'm— out," I heard him murmur.
-
-Sarah was still slowly shaking her head.
-
-"Two young persons in the same flat—"
-
-"Proximity does not imply access," Mara said flatly. "For *anyone.*"
-
-I hadn't even considered that angle. 
-
-I glanced at Lauren.
-
-She was staring at me, her eyes cold as ice.
-
-Oh.
-
-"Rules are rules," said Tahlia as she wandered over to the cutting table. "Rules are for me, and for thee."
-
-"That's why rules work," said Mara.
-
-The wind blew one of the shutters against the wall with a thud. Laughter carried from the marketplace.
-
-Lauren's eyes slowly regained a bit of warmth.
-
-Her eyes moved to Mara, as if seeking reassurance.
-
-"You draw up the document, Lauren," Mara said to her. "No ambiguity. And everyone signs."
-
-Lauren nodded slowly. 
-
-“Rent. Terms. And with a house policy.”
-
-She drew headings.
-
-RENT:   
-BILLS:   
-QUIET HOURS:   
-STUDY HOURS (SACRED):   
-CHORES:   
-GUESTS:   
-BOUNDARIES:   
-CONFLICT RULE:   
-EXIT CLAUSE:   
-
-Sarah let out a low whistle. “Bloody hell.”
-
-Mara glanced at her. “That’s what adulthood looks like.”
-
-Sarah’s mouth twitched. “It looks like something from a law office.”
-
-“It acts like freedom.” Lauren spoke firmly. 
-
-Mara nodded.
-
-“If it matters, make it clear.”
+The girl — one of the Faire palace actresses who worked with Lily — moved in that weekend.
 
 <hr class="section-break strong" />
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 ## 19 The Numbers  📝
