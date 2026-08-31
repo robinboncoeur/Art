@@ -3181,11 +3181,11 @@ I opened my eyes. Lucy, pins in her mouth, was holding the seam together and re-
 
 Later, Mara had me pull nearly dry woollen costumes off the line and remove the few remaining wrinkles. As I drew the steamer along a skirt, I felt a solid slap on my back. It was Bree.
 
-"Never thought *you'd* jump ship," she said.
+"Never thought *you'd* jump ship," she said. "Don't you like acting any more?"
 
 My lips went hard.
 
-"Don't you ever get tired of the *looks*?"
+"Not missing the staring," I said. "Don't you ever get tired of those *looks*?"
 
 "Sometimes," she admitted. "But if I worked somewhere else, I'd miss 'Bright Eyes', Sarah. Not happening."
 
@@ -3219,7 +3219,11 @@ Charlie went over to her table, his eyes searching. He touched nothing. Finally,
 
 Tahlia grimaced.
 
-"Silly machines are too complex for their own good," she said. He tipped his head slightly, then returned to his table.
+"Silly machines are too complex for their own good." 
+
+He tipped his head slightly.
+
+"Mum has one at home. But I wasn't permitted to work it."
 
 I was still steaming wool when Lauren appeared.
 
@@ -3421,7 +3425,7 @@ Then Mara’s tone went flat.
 
 That was never on my radar.
 
-“I've been saving up,” I said quietly. “And I'll continue to work.”
+“I've been saving up,” I said quietly. “And I'll continue to work. I could rent out my spare room, too.”
 
 Mara's face went impassive.
 
