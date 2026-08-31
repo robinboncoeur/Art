@@ -645,24 +645,21 @@ And yes, Robyn, I think this Charlie POV chapter could become **very rich indeed
 
 Internally it's about:
 
-**Dad.
-Work.
-Spiro.
-Puberty.
-Competence.
-Belonging.
-Fear.
-Independence.
-What Charlie thinks Wardrobe has given him.
-What he's prepared to give up rather than lose it.**
+* Dad.
+* Work.
+* Spiro.
+* Puberty.
+* Competence.
+* Belonging.
+* Fear.
+* Independence.
+* What Charlie thinks Wardrobe has given him.
+* What he's prepared to give up rather than lose it.**
 
-And critically, he still doesn't need to know where any of this ultimately leads.
+And critically, he still doesn't need to know where any of this ultimately leads. He's made two decisions:
 
-He's made two decisions:
-
-**Stop what my body is doing.**
-
-**Stay at Wardrobe.**
+* **Stop what my body is doing.**  
+* **Stay at Wardrobe.**
 
 And now he's beginning to discover that making decisions for yourself has consequences.
 
