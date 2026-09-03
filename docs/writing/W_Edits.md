@@ -8,63 +8,99 @@ But that week was different.
 
 That week the workroom had a weight.
 
-The thirty-six costume order was well underway. Tasks had been allocated. Mara had evening interviewed — albeit reluctantly — some potential casual staff
+The thirty-six costume order was well underway. Tasks had been allocated. Mara had evening interviewed — albeit reluctantly — some potential applicants for casual staff. Only two had any of the skills Wardrobe needed.
 
-## *the 36 item order*
-
-*work goes ahead-Lauren in charge of procurement-still worried about Charlie*
-
-My hands stayed steady on my clipboard as if my body didn’t realise my life was rearranging itself by the hour. I moved through the workroom collecting fabric quotes, noting quantities, listening to Celeste’s quiet directives — this, then this, then this — like a captain mapping weather she couldn’t see yet.
-
-And all the while, I felt the other storm pressing at the edge of my mind, waiting for a gap.
+My hands stayed steady on my clipboard as if my body didn’t realise my life was rearranging itself by the hour. I moved through the workroom collecting fabric quotes, noting quantities, listening to Celeste’s quiet directives — this, then this, then this, and all the while, another storm loomed at the horizon.
 
 Roger.
 
-Coming home after an extended period overseas. It was almost laughable how long I’d managed to hold him at bay by staying too busy to feel anything properly. But busy-ness had limits.
+Coming home after an extended period on the base. It was almost laughable how long I’d managed to put dealing with him on hold by staying too busy to feel anything properly.
+
+But busy-ness had limits.
 
 So did denial.
 
-That afternoon, when I finally went home, the air in my house felt wrong: too empty, too staged, like a hotel room someone had tried to make look lived in.
+I put down the clipboard and slumped into a chair.
 
-Roger’s shoes were by the door. His keys were in the bowl. His scent — aftershave and entitlement — hung in the hallway as if it owned the place.
+"You right?"
+
+I turned. Sarah stopped putting the steamer nozzle away to look at me over her shoulder.
+
+"Just tired."
+
+"Uh-huh."
+
+I puffed.
+
+"Roger's coming home today."
+
+"Oh joy."
+
+I hadn't told Sarah much. Nothing about the messages I found on his PC when I was paying bills online. Nor anything about his attitude about Charlie's career choice.
+
+I might have hinted that the oven had gone out.
+
+Perhaps.
+
+I felt her eyes on me.
+
+"Message me when you get home," she said.
+
+I frowned. "Why?"
+
+Sarah tipped her head, her eyes never leaving my face.
+
+"Please?"
+
+That afternoon, when I finally went home, the air in my house felt wrong: empty, staged, like those hotel rooms with painted cinder-block walls displaying local artwork in an effort to look cozy.
+
+Roger’s shoes were by the door. His keys were in the bowl. His scent — aftershave and entitlement — hung in the hallway.
 
 My stomach tightened.
 
-I didn’t go to the kitchen. I didn’t tidy. I didn’t do any of my old rituals that had served as delay tactics for years.
+I didn’t go to the kitchen.
+
+I didn’t tidy. 
+
+I didn’t do any of my old rituals that had served as delay tactics for years.
 
 I went straight to the study.
 
-Roger was there, leaning back in his chair, phone in hand, smiling at something on the screen like a man who had never once feared consequence. He looked up as if he’d been expecting me.
+Roger was there, leaning back in his chair, phone in hand, smiling at something on the screen. He looked up as if he’d been expecting me.
 
-Not with warmth: with calculation.
+No warmth, just calculation.
 
 “Hey.”
 
-I heard my own voice come out calm. My look was equally so.
+I heard my own voice come out calm.
 
-“I know.”
+“So— I *know*.”
 
 His smile faltered. Then returned, thinner. “Know… what?”
 
 I placed my handbag on the desk with care. I needed my hands to do something controlled.
 
-“The messages,” I said. “The hotel receipts. The lies that don’t even bother trying anymore.”
+“Your messages to—.” I waved my hand, dismissive. “Hotel receipts. The lies that don’t even bother trying anymore.”
 
 His expression did the small, practiced shift into indignation.
 
 “You went through my—"
 
-“Don’t.”
+“I was doing bills.”
 
-The single word stopped him. It surprised me how cleanly it came out. Like Celeste had lent me a spine. Roger stared at me, recalibrating. Then he tried the other tack, the one that used to work.
+"I can't believe you'd read my emails!"
 
-“Look, you’re tired,” he said. “You’ve been working too much. And you’re letting those women get in your head.”
+I stared at him.
 
-I stared at him, not blinking.
+*He doesn't deny anything.*
 
-It hit me, with an almost comic clarity, that he was still speaking to the old version of me: the woman who needed him, who stayed because she couldn’t see a way out.
+*He doesn't even look embarrassed.*
 
-“No,” I said. “I’m letting myself get in my head. For the first time in years.”
+It was strange. 
+
+I was standing in my own house, looking at the man I’d built my life around, and felt nothing but a tired sadness.
+
+“I think we both know this is pointless,” I said. “I’m seeing reality for what it is. For the first time in years.”
 
 His jaw tightened. “So what does this mean?”
 
@@ -74,9 +110,9 @@ His jaw tightened. “So what does this mean?”
 
 I paused.
 
-It was strange, standing in my own house, looking at the man I’d built a life around, and feeling nothing but a tired, lucid sadness.
 
-“Normally I’d asking you to,” I said. “At your earliest convenience. Tonight.”
+
+“Normally I’d ask you to,” I said. “At your earliest convenience. Tonight.”
 
 His eyes widened, genuinely offended.
 
@@ -84,7 +120,7 @@ His eyes widened, genuinely offended.
 
 Something steady rose in me — quiet, not dramatic.
 
-“No,” I said. “I don’t need you. At all.”
+“No,” I said. “That I don’t. At all.”
 
 I watched that land. Watched the way his face changed — not grief or remorse — just anger at losing a convenience.
 
@@ -92,17 +128,17 @@ I watched that land. Watched the way his face changed — not grief or remorse �
 
 I lifted my hand.
 
-“Don’t,” I said again, and the second time it wasn’t borrowed strength. It was mine. Roger stood so suddenly his chair scraped the floor.
+“Don’t.”
 
-“Oh, you think you’re all "independent woman" now, do you?” he snapped. “Just because you’ve in some little women’s club and a job playing dress-ups?”
+Roger stood so suddenly his chair scraped the floor.
 
-I felt a cold calm: he was so transparent, his words — so revealing. I saw Wardrobe in my mind as clearly as if I were there: the racks, the pattern paper, the girls’ hands moving with skill. Celeste’s quiet authority. Sarah’s sharp honesty. The way Charli had begun, slowly, to exist.
+“Oh, you think you’re all "independent woman" now, do you?” he snapped. “Just because you’re in some little women’s club playing dress-ups?”
 
-Dress-ups.
+He was so transparent, his words — so revealing.
 
-That was what he thought women’s labour was.
+*Dress-ups.*
 
-“No,” I said. “I think I’m awake.”
+“No,” I said. “I’m awake. And I want better than— this.”
 
 He stepped closer. His voice dropped into that intimate threat men used when they wanted you to remember you were smaller.
 
@@ -114,21 +150,25 @@ I didn’t step back.
 
 He stared at me, breathing hard, then turned away with a violent gesture.
 
-“You’ll regret this!”
+“You are *so* going to regret this!”
 
-It was almost a script line. My hands started to shake only after he slammed the study door on his way out. I stood there alone in the strange quiet, not destroyed but terrified.Free, but not safe.
+It was almost a script line. 
+
+It wasn't until after he'd stormed out of the study that my hands started to shake. I stood alone in the strange quiet.
+
+I felt free, but not safe.
 
 Then, as if on cue, my phone buzzed in my pocket.
 
-A message from Sarah.
+Sarah.
 
 **You okay?**
 
 My eyes stung.
 
-I hadn’t told Sarah anything specific, but she’d been noticing me all day: noticing the way my smile had been too careful, the way I kept swallowing the same thought.
+I hadn’t told Sarah anything, but I noticed her eyes on me all day.
 
-My fingers hovered over the keyboard. I tried to type I’m fine and couldn’t. Instead I wrote:
+My fingers hovered over the keyboard. I tried to type 'I’m fine'. Instead:
 
 **No**
 
@@ -136,11 +176,13 @@ The reply came instantly, as if she’d been anticipating that response.
 
 **Come here now**
 
-I sat down slowly on the edge of the chair Roger had abandoned and felt my chest tighten so hard it stole the air from me.
+I sat down slowly on the edge of the chair Roger had scraped the floor with. My chest tightened so hard it stole the air from me.
 
-Sarah’s flat certainty shouldn’t have made me cry. It did anyway.
+Sarah’s flat certainty shouldn’t have made me cry.
 
-I typed:
+But it did.
+
+My screen was blurry: I found it hard to type.
 
 **I can’t**
 
@@ -148,39 +190,29 @@ A beat. Then:
 
 **Because you’re proud? Or because you’re scared?**
 
-I stared at the screen.
+I stared at the words.
 
-My fingers went cold.
-
-I hadn’t said it, not to anyone. But the true answer rose immediately, humiliating in its honesty:
-
-Because I had feelings for Sarah.
-
-Because somewhere — I couldn’t locate the exact day — I’d started wanting Sarah’s attention the way you wanted warmth when you’d been cold for too long: quietly, desperately, and with a shame that didn’t belong to me. And because I was certain Sarah could never want me back.
-
-Sarah was fire. Sarah was sharp. Sarah was the sort of woman who looked like she’d never needed anyone.
-
-I was… me. Middle-aged. Careful. A woman who’d stayed somewhere wrong for too long and was only now learning how to leave.
+My fingers went cold. A cupboard in the kitchen slammed shut. I heard the crack of a plate against the caesar-stone bench.
 
 My thumbs shook as I typed:
 
-**I don’t think you understand**
+**scared**
 
-Sarah’s reply took slightly longer this time. Not long — just long enough for me to picture her on her bed, phone in hand, face thoughtful in a way she didn’t show at work.
-
-Then it arrived.
+Three animated dots appeared instantly. Sarah’s reply took slightly longer this time.
 
 **I’m offering you a door that locks Lauren**
 
 I swallowed.
 
-From the family room came the sound of Roger moving — cupboards being slammed, something thrown, the heavy-footed performance of a man making sure I heard his anger. My body cringed before my mind could stop it.
+And heard another cupboard slammed shut, a knife against a plate, the heavy-footed performance of a man making sure I felt his annoyance. 
 
-And that, more than anything, decided it.
+My body cringed before my mind could stop it.
+
+And that decided it.
 
 I typed:
 
-**Okay**
+**Ok**
 
 A final message came back, firm as a hand at my elbow.
 
@@ -196,11 +228,11 @@ Such an enormous mercy.
 
 I stood, wiped my cheeks with the heel of my hand, and went to the bedroom to pack with the quiet efficiency of a woman who had finally stopped asking permission. At the front door, I hesitated: one last, stupid reflex of loyalty toward a life that hadn’t been loyal to me.
 
-Then I opened it.
-
-Outside, the evening air was warm and alive. Somewhere a neighbour’s sprinkler hissed. A bird called from a powerline as if gossiping about the whole street.
-
 I stepped out.
+
+The evening air was warm and alive. Somewhere a neighbour’s sprinkler hissed. A couple of crows were gossiping on a power pole.
+
+I moved towards my car.
 
 And for the first time that day I felt the faintest hint of peace: not because everything was resolved, but because I knew women who would not let me face it alone.
 
