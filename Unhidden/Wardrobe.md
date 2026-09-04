@@ -1,5 +1,21 @@
-This is your new *vault*.
+Wardrobe is a women-led costume / craft / social environment shaped by:  
+- standards  
+- competence  
+- practical intelligence  
+- female hierarchy without pettiness  
+- belonging conditional on behaviour and reliability  
 
-Make a note of something, [[Celeste]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+It functions as more than a workplace. It is:  
+- a training ground  
+- a social structure  
+- a women’s competence network  
+- a place of containment and placement  
 
-When you are ready, delete this note and make the vault your own.
+<hr class="section-break soft" />
+
+## Geography
+**Locked canon**
+
+**Wardrobe proper** is in **Victoria**, off the **Great Ocean Road**.  
+
+Note: *Earlier conceptions placing it on the Gold Coast have been superseded.*

@@ -11,17 +11,24 @@
             "id": "98eec8e80b8cf2a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Celeste.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Celeste"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "348543b78e64a48f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cb70fe7353abb3d2",
@@ -31,17 +38,28 @@
             "id": "884b5254461ddf9a",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b7c42d8bf8f28c05",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Celeste.md",
+                "file": "Charlotte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Celeste"
+              "title": "Charlotte"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "01a3863545f347b5",
@@ -119,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Celeste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Celeste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -181,7 +197,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Celeste.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -208,9 +223,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "884b5254461ddf9a",
+  "active": "348543b78e64a48f",
   "lastOpenFiles": [
+    "Celeste.md",
     "Wardrobe.md",
-    "Celeste.md"
+    "Charlotte.md",
+    "Mara.md",
+    "Untitled.canvas"
   ]
 }

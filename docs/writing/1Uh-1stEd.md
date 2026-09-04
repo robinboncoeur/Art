@@ -4137,6 +4137,21 @@ I didn’t step back.
 
 “Actually, I’m correcting one.”
 
+
+
+
+
+
+### Need to Insert
+
+**A situation that makes it untenable for Lauren (and Charlie) to stay at the house**
+
+
+
+
+
+
+
 He stared at me. The silence cut like a razor blade.
 
 Then, wordlessly, he turned on his heels.
@@ -4273,7 +4288,7 @@ He nodded. And selected what was on special.
 
 Sarah and Lauren were standing next to Lauren's little i20 when we got home. 
 
-I unlocked the door, pushed it with my shoulder, and waved everyone in.
+I unlocked the door. It creaked as I pushed it open with my shoulder, and waved everyone in.
 
 Sarah marched in with all the confidence of someone in charge of things. Lauren followed her, her shoulders a bit stiff carrying a canvas bag. And Charlie stood on the landing, uncertain. I waved him in, almost impatient. 
 
@@ -4291,9 +4306,81 @@ Lauren motioned him over.
 
 "Sorry, I was in a bit of a hurry," she said as she handed him the canvas bag. He disappeared into his room.
 
+By the time he'd re-emerged, everyone had settled into the tiny living room. Sarah perched on the edge of a kitchen chair. She took a sip of her tea.
+
+*Discussion: rules / terms*
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"We need to set a few ground rules," she said. "Lauren?"
+
+A spiral notebook appeared. With headings:
+
+RENT:   
+BILLS:   
+QUIET HOURS:   
+STUDY HOURS (SACRED):   
+CHORES:   
+GUESTS:   
+PRIVACY:   
+CONFLICT RULE:   
+EXIT CLAUSE:
+
+"We will get you and Charles— sorry, *Charlie* to sign this
+
+Charlie’s head tilted, as if not trusting his ears. “You mean... live with you?”
+
+“I mean... *rent a room*,” I said, calm on purpose. Not cold, precise. “Separate rooms. Separate lives. Shared logistics.”
+
+Lauren nodded, warm. “Rent. Terms. And with a house policy.”
+
+Mara, flat: “Proximity doesn’t buy access.”
+
+Charlie flinched, as though he’d been accused of something he’d never have had the nerve to do. Mara didn’t soften it: she wasn’t accusing him. She was protecting everyone, including him, from the presumption that mistakes vicinity for entitlement.
+
+“Oh, I wouldn’t—” he began.
+
+“I know,” I said, and I meant it. “But we’re not building a system that relies on people being good. We’re building one with clear boundaries.”
+
+
+
+
+
+Lauren looked up at me.
+
+“Celeste,” she said, warm, “you set the parameters. It’s your place. Your domain.”
+
+I picked up the pen and didn’t hesitate.
+
+Rent amount. Bills split. Quiet hours. No hovering. No improvised 'help'. Guests by agreement. Study hours written like a boundary you could build a life against. Charlie watched my hand writing the terms as if I was drawing a map. When I finished, I slid the page toward him.
+
+“Read it,” I said. “If you agree, you sign. If you don’t, we're done, here.”
+
+He read slowly. Carefully. When he reached the bottom, he paused at the exit clause.
+
+“What’s that?”
+
+Lauren kept her tone light.
+
+“That’s the part where nobody gets trapped,” she said gently. “Thirty days’ notice. No dramas.”
+
+"Thirty days?"
 
 
 
