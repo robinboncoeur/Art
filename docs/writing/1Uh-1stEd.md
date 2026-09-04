@@ -4023,7 +4023,7 @@ But that week was different.
 
 That week the workroom had a weight.
 
-The thirty-six costumes order was well underway. Tasks had been allocated. Mara had even interviewed, reluctantly, some potential applicants for casual staff. Two actually had a few Wardrobe skills.
+The thirty-six costume order was well underway. Tasks had been allocated. Mara had even interviewed, reluctantly, some potential applicants for casual staff. Two actually had some of the skills Wardrobe needed.
 
 My hands stayed steady on my clipboard. I moved through the workroom collecting fabric quotes, noting quantities, listening to Celeste’s quiet directives — this, then this, then that.
 
@@ -4035,7 +4035,7 @@ He was coming home today after an extended stay on the base. And I had decided t
 
 To be honest, it was almost laughable how long I’d avoided dealing with him. His affairs were old news now. But that phone call had changed everything.
 
-It had become about Charles.
+The issue had become about Charles.
 
 Wearily, I set down the clipboard and slumped into a chair.
 
@@ -4053,9 +4053,9 @@ I puffed.
 
 "Oh joy."
 
-I hadn't told Sarah much. Certainly nothing about the messages I found on his PC when I was paying bills. Nor anything about his attitude about Charles' career choice.
+I hadn't told Sarah much. Certainly nothing about the messages I found on his PC when I was paying bills. Nor did I mention any remarks about Charles' career choice.
 
-I might have hinted at some stage that the oven had gone out.
+Of course, I *might* have hinted at some stage that the oven had gone out.
 
 Perhaps.
 
@@ -4067,7 +4067,7 @@ Sarah tipped her head, her eyes never leaving my face.
 
 "Please?"
 
-That evening, when I finally got home, the air in the house felt wrong: empty, staged, like those motel rooms with painted cinder-block walls displaying local artwork in an effort to look cozy.
+When I got home that afternoon, the air in the house felt wrong: empty, staged, like those motel rooms with painted cinder-block walls displaying local artwork in an effort to look cozy.
 
 Roger’s shoes were by the door. His keys were in the bowl. His scent — aftershave and entitlement — hung in the hallway.
 
@@ -4085,13 +4085,13 @@ No warmth, just calculation.
 
 I heard my own voice come out calm.
 
-“So— I'm *done*, Roger.”
+“I'll get straight to the point. I'm *done*, Roger.”
 
 His smile faltered. Then returned, thinner. “What do you mean, done?”
 
 I placed my handbag on the desk with care.
 
-“Look, I found your messages to—.” I waved my hand, dismissive. “Hotel receipts. The lies that don’t even bother trying anymore.”
+“I'm done with— this, whatever this is. I found your messages to—.” I waved my hand, dismissive. “Hotel receipts. The lies that don’t even bother trying anymore.”
 
 His expression did the small, practiced shift into indignation.
 
@@ -4103,9 +4103,9 @@ His expression did the small, practiced shift into indignation.
 
 I stared at him.
 
-*He doesn't deny anything.*
+*He didn't deny anything.*
 
-*He doesn't even look embarrassed.*
+*He didn't even look embarrassed.*
 
 I was standing in my own house, looking at the man I’d built my life around, and felt nothing but a tired sadness.
 
@@ -4113,58 +4113,75 @@ I was standing in my own house, looking at the man I’d built my life around, a
 
 His jaw tightened. “You’re leaving me? Just like that?”
 
-I paused.
+I paused. I'd just noticed the bottle.
 
-"I've known your flings for some time, Roger." My lips went hard. "But when you went off about Charles—"
+"Bit early for that, don't you think?"
 
-He stood suddenly.
+"I don't need a morality play, Lauren."
 
-"He needs to man up."
+"Morality. Interesting choice of words. I've known about your little flings for some time, Roger." My lips went hard. "But the other night, when you went off about Charles—"
+
+He stood suddenly. Swayed slightly.
+
+"Charles needs to man up."
 
 "What, like you?"
 
-He drew himself to full height, like a cat standing on hind legs. He'd always been self-conscious about being shorter than his wife.
+He drew himself to full height.
 
-"You're turning him into a wom—"
+"You're encouraging this bloody nonsense."
 
-"Just stop, Roger," I said. "I'm done discussing things with you."
+"Just stop, Roger," I said. "I'm not discussing anything with you when you're like this."
 
-He stepped closer.
+I grabbed my bag and stepped towards the study door. Roger stepped between me and the door.
 
-“You’re making a big mistake.”
+“You’re not leaving until we finish this.”
 
-I didn’t step back.
+"Move, Roger."
 
-“Actually, I’m correcting one.”
+"I *said*—"
 
+My voice was ice.
 
+"And I said *move*."
 
+He snorted. 
 
+Stared at me, his jaw working.
 
+And finally, moved.
 
-### Need to Insert
+"You making a big mistake!"
 
-**A situation that makes it untenable for Lauren (and Charlie) to stay at the house**
+I walked down the hallway to the bedroom.
 
+I'd never seen Roger like this.
 
+I stopped at the door.
 
+*Charles.*
 
+*Charles can't come home.*
 
+*Not to this.*
 
+It wasn't until I sat down on the bed that my hands started to shake.
 
-He stared at me. The silence cut like a razor blade.
+I pulled my phone from my hip pocket.
 
-Then, wordlessly, he turned on his heels.
+I thought of texting Charles. Stopped.
 
-It wasn't until after he'd left the study that my hands started to shake.
+*He will ask why*. 
 
-My phone buzzed in my hip pocket.
+If he realised something was wrong, he would definitely come straight home.
 
-Sarah.
+I texted Sarah.
+
+**I need a favour. Charles cannot come home tonight.**
+
+Within seconds, I got a text back.
 
 **You okay?**
-
-My eyes stung.
 
 My fingers hovered over the keyboard. I tried to type 'I’m fine'. Instead:
 
@@ -4174,12 +4191,11 @@ The reply came instantly, as if she’d been anticipating that response.
 
 **come here now**
 
-I sat down slowly on the edge of the Roger's chair. My chest tightened so hard it stole the air from me.
+My chest tightened so hard it stole the air from me.
 
 My screen went blurry. I could barely see to type.
 
-**I can’t**  
-**Charles is on his way home**
+**please tell Charles not to come home**
 
 Three animated dots appeared instantly. Sarah’s reply took slightly longer this time.
 
@@ -4223,11 +4239,10 @@ I closed my eyes, took in the lingering warmth of the coming dusk. The evening a
 
 Somewhere a neighbour’s sprinkler hissed. A couple of crows gossiped on a power pole.
 
-I moved towards my car.
-
-And for the first time that day I felt something like quiet.
+I put my bag in my car and got in.
 
 <hr class="section-break strong" />
+
 
 
 

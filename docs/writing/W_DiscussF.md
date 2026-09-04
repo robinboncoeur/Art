@@ -784,31 +784,73 @@ As for the title: **No Longer Needed** is doing the same explanatory work I'd re
 
 [ Robyn ]
 
-I have a few issues with the story at the moment. Dot points:
+And now, to the discussion at Celeste's. This is actually a bit challenging, because of the personalities involved. So far:
 
-* Lauren is a careful planner, a nurse who does nothing impulsively  
-* *Yet*, finds herself ending a relationship *without* an exit strategy - very unlike Lauren  
-* Particularly since it's not just her needing alternate accommodations, but Charlie too
+---
 
-**So, we need to develop a situation where Lauren has no choice but to leave - it is out of her control.** 
+[ *Celeste* ]
 
-Potential scenarios
+I found Charlie standing at the bus stop, looking like something that had been ordered and forgotten about.
 
-* Roger shows a rare violent side (don't want a moustache-twirler)
-* Lauren is concerned for her safety for: reasons (may be justified or imagined)
-* Roger gets drunk
-* Something about the house makes it impossible to stay there
+He slipped wordlessly into the passenger seat. I caught the quick glance in my direction.
 
-And then:
+His throat worked.
 
-* while Lauren is dealing with the emotional trauma:  
-* Sarah contacts Celeste;  
-* they agree that having Charlie rent a room from Celeste can work from an economic and safely;  
-* they both start developing a framework;  
-* Lauren picks up Sarah;  
-* Sarah shares the framework with Lauren on the way;  
-* they head over to Celeste's;  
-* and the meeting happens
+"I promise I'll find something soon."
+
+I raised my hand as we pulled away from the kerb.
+
+"Let's cross that bridge when we come to it," I said. "We might just pop into Woolies and get you a toothbrush."
+
+As we were crossing the carpark, I got a text from Sarah.
+
+**Charlie with you?**
+
+I texted back as we entered the store:
+
+**yes**
+**just at woolies**
+
+We were in the medication aisle when my phone pinged again.
+
+**we're heading to your place with stuff for Charlie**
+
+I turned to him. 
+
+He was staring at toothbrushes.
+
+For far too long.
+
+His eyes caught mine, and he reddened slightly.
+
+"I'd go with extra soft, Charlie," I said. "I hear they're easier on your gums."
+
+He nodded. And selected what was on special.
+
+Sarah and Lauren were standing next to Lauren's little i20 when we got home. 
+
+I unlocked the door. It creaked as I pushed it open with my shoulder, and waved everyone in.
+
+Sarah marched in with all the confidence of someone in charge of things. Lauren followed her, her shoulders a bit stiff carrying a canvas bag. And Charlie stood on the landing, uncertain. I waved him in, almost impatient. 
+
+"Tea!" I announced as I flipped on the kettle.
+
+Lauren settled slowly into a chair in the kitchenette and looked around her. 
+
+"Where's the loo?" Sarah asked.
+
+I pointed.
+
+"Put your bag in your room, Charlie," I told him. "It's the last door on the right, after the toilet."
+
+Lauren motioned him over.
+
+"Sorry, I was in a bit of a hurry," she said as she handed him the canvas bag. He disappeared into his room.
+
+By the time he'd re-emerged, everyone had settled into the tiny living room. Sarah perched on the edge of a kitchen chair. She took a sip of her tea.
+
+
+... and then, it's *discussion: rules / terms*
 
 <hr class="section-break soft" />
 
@@ -820,12 +862,762 @@ And then:
 
 [ Emily ]
 
+Oh, this **is** challenging, because the danger now is writing a committee meeting. 😄 And these four people absolutely would not conduct one.
 
+What you've got before the discussion is doing something important: it **decompresses** after Lauren's scene. Toothbrushes. Woolies. Tea. Toilet. Canvas bag. Nobody says *Tonight has been traumatic*. They deal with practical things. Very Wardrobe.
+
+And Charlie staring at the toothbrushes for too long is excellent. He isn't actually choosing a toothbrush. His entire life has just been displaced and his brain has been presented with **soft, medium or firm**. Celeste understands enough to solve that tiny decision without commenting on the enormous one.
+
+> "I'd go with extra soft, Charlie."
+
+Lovely.
+
+But I think the conversation that follows has one crucial structural requirement:
+
+**Charlie must not discover that three women have already decided where he is going to live.**
+
+Sarah and Celeste can have developed a framework. They can have done the arithmetic. They can have identified the safety issues. They can even be convinced it's an excellent solution.
+
+But what they bring to Lauren and Charlie must be **a proposal**.
+
+And each woman has a different stake in it.
+
+### Who does what
+
+**Sarah** starts it. Definitely.
+
+She's the one who contacted Celeste. She's the one who has been thinking ahead while Lauren was still dealing with Roger. And Sarah is Sarah: once Charlie is back in the room and tea has been distributed, she's not going to spend fifteen minutes discussing the weather.
+
+I can almost hear:
+
+> Sarah took another sip.
+>
+> "Right. Charlie needs somewhere to live."
+
+Poor Charlie. 😄
+
+Celeste might immediately moderate:
+
+> "Potentially."
+
+Sarah looks at her.
+
+> "He does."
+
+That gives us both women instantly.
+
+**Lauren** is the difficult one.
+
+She's going to be enormously grateful Charlie is safe, but the moment she realises Sarah and Celeste have been discussing her son's living arrangements without her, I think her back goes up.
+
+Not explosively.
+
+Just:
+
+> "You've discussed this?"
+
+That's Lauren.
+
+And Sarah doesn't apologise for solving the problem:
+
+> "Yes."
+
+Celeste, however, understands what Lauren is actually asking:
+
+**Have you made decisions about my son without me?**
+
+So Celeste needs to make very clear:
+
+> "Discussed. Not decided."
+
+And then — critically — Charlie needs to be included.
+
+Something like:
+
+> "And nobody's deciding anything now," I said. "Charlie lives here only if Charlie wants to live here."
+
+That protects the entire ethos of the book.
+
+### Charlie may initially misunderstand the offer
+
+This could be delicious.
+
+He's already said:
+
+> "I promise I'll find something soon."
+
+He thinks tonight is emergency accommodation.
+
+So when Sarah says they've been discussing a more permanent arrangement, Charlie may immediately hear:
+
+**I have become a problem requiring management.**
+
+That's why I'd let the first practical question come from him:
+
+> "How much?"
+
+Not *Do you really want me here?*
+
+Not *Would that be okay?*
+
+**How much?**
+
+Because Charlie has been searching rentals. He knows rooms cost money. He wants to establish immediately that he's not being kept.
+
+And this is where Celeste needs to be very careful.
+
+She cannot say:
+
+> "Don't worry about rent."
+
+Because Charlie would hate that, Lauren would dislike it, and it would turn an adult arrangement into charity.
+
+There should be rent.
+
+Affordable, real rent.
+
+And I think Lauren would actually relax slightly when she hears that.
+
+**This is not Celeste taking her son in. Charlie would be renting a room.**
+
+That distinction is huge.
+
+### Then Sarah's framework can emerge organically
+
+Don't have her read a list.
+
+Let each term arise because somebody needs it.
+
+For instance:
+
+> "How much?"
+>
+> I told him.
+>
+> His eyebrows rose.
+>
+> "That's less than—"
+>
+> "Yes," Sarah said. "We know."
+>
+> Lauren looked at her. "You've worked this out?"
+>
+> "We had a drive."
+
+😂
+
+There's Sarah.
+
+Then perhaps Sarah explains the reasoning: Charlie already travels to Wardrobe; Celeste has the room; the rent contributes to Celeste's household; Charlie gets dramatically shorter travel; nobody is financially exploiting anybody.
+
+Lauren starts doing calculations automatically.
+
+**Nurse/planner Lauren comes back online.**
+
+> "Food?"
+>
+> "Separate," I said.
+>
+> Sarah shook her head. "Stupid."
+>
+> I stared at her.
+>
+> "You'll end up cooking together."
+>
+> "That's not the point."
+>
+> "It's exactly the point."
+>
+> Lauren rubbed her forehead. "Can we perhaps establish the important things first?"
+
+There they all are. 😄
+
+And Charlie is sitting quietly absorbing the fact that these women have apparently constructed a small housing policy around him while he was buying a toothbrush.
+
+### The rules should tell us about Celeste
+
+This is the bit I'd enjoy.
+
+Because Celeste has already said in the earlier meeting:
+
+> "We follow rules here; why not at home?"
+
+Now she has to discover what her rules actually are.
+
+And I don't think she has many.
+
+Lauren will want structure.
+
+Sarah will want safety.
+
+Charlie will want to know exactly what is expected.
+
+Celeste may be the least organised person in the room about the actual domestic mechanics because, until about an hour ago, **she didn't have a tenant**.
+
+So:
+
+> "Rules," Lauren said.
+>
+> I nodded.
+>
+> "Yes."
+>
+> She waited.
+>
+> I realised she expected me to have some.
+
+That is *very* Celeste POV. 😂
+
+Sarah has already thought about some, of course.
+
+But I'd avoid cute roommate rules. The important framework is adult and practical:
+
+**Rent. Privacy. Guests. Household expenses. Food. Cleaning. Notice if either wants to end the arrangement. Keys/security. Communication about being away overnight.**
+
+And one particular issue needs to surface because of what happened tonight:
+
+**Roger does not get access to Charlie through Celeste.**
+
+That one I think comes from Lauren.
+
+Not:
+
+> "Roger isn't allowed here."
+
+because this is Celeste's house.
+
+Lauren might instead say:
+
+> "There's something else."
+>
+> I waited.
+>
+> "Roger."
+>
+> Charlie went still.
+>
+> "He doesn't get a key," Lauren said.
+>
+> "Obviously," Sarah said.
+>
+> I looked at Lauren.
+>
+> "He doesn't come in unless I invite him."
+
+That's Celeste establishing her own boundary.
+
+Perhaps:
+
+> "And I won't."
+
+But I'm not sure she should make an eternal promise in the heat of tonight. Better:
+
+> "This is my home. Nobody comes in because they think they're entitled to."
+
+That has wider resonance without being a speech.
+
+### And I think Charlie should get one rule of his own
+
+This is important.
+
+Everyone else establishing terms *for Charlie* risks recreating precisely the thing Roger has been doing.
+
+So at some point Celeste asks:
+
+> "Anything you need?"
+
+Charlie is surprised.
+
+> "Me?"
+
+> "You're the other person who'd be living here."
+
+And what does Charlie ask for?
+
+I wouldn't make it profound.
+
+Something practical.
+
+Perhaps:
+
+> "Can I put a lock on my door?"
+
+Ooof.
+
+Maybe too loaded immediately after Roger. And Celeste's house probably already has ordinary bedroom privacy.
+
+Something more Charlie:
+
+> "Where do I put washing?"
+
+😂
+
+Honestly, that might be perfect.
+
+Everyone has been discussing rent and security and Roger and boundaries, and Charlie's pressing concern is that he has just noticed there is nowhere obvious for dirty clothes.
+
+It tells us he has already, tentatively, begun imagining **living here**.
+
+Celeste notices.
+
+She doesn't interpret it for us.
+
+### Lauren needs to relinquish something
+
+The emotional movement of this scene, I think, belongs primarily to Lauren even though Celeste narrates it.
+
+Lauren arrives carrying Charlie's things.
+
+She expects emergency accommodation.
+
+She discovers Sarah and Celeste have developed a possible longer-term solution.
+
+Her initial response is:
+
+**Wait. You did what?**
+
+Then she interrogates it.
+
+Rent?
+Food?
+Transport?
+Privacy?
+Safety?
+Roger?
+Duration?
+
+And gradually she discovers that the proposal survives scrutiny.
+
+That's what convinces Lauren.
+
+Not affection.
+
+**The plan is good.**
+
+That's exactly how you convince a planner.
+
+And eventually perhaps she turns to Charlie:
+
+> "What do you think?"
+
+Charlie has barely spoken.
+
+And there's your important moment.
+
+He looks around Celeste's little place. His canvas bag is already in the room down the hall. There's a Woolies toothbrush sitting beside whatever else they bought.
+
+Maybe:
+
+> "The bus is twenty minutes."
+
+Lauren laughs.
+
+Not because it's funny, exactly.
+
+Because of course **that's Charlie's answer**.
+
+Or:
+
+> "I'd like to try it."
+
+I think *try* is important.
+
+Nobody needs to decide tonight that this is permanent.
+
+A trial period would be extremely Lauren/Sarah/Celeste:
+
+**Four weeks. Then review.**
+
+Suddenly the whole thing becomes safer psychologically.
+
+Charlie isn't moving in forever.
+
+Celeste isn't making an indefinite commitment.
+
+Lauren isn't surrendering her son.
+
+They are **testing an arrangement**.
+
+Good heavens, they're Wardrobe women.
+
+Of *course* they'd prototype it. 😂
+
+That may actually be your framework.
+
+**One-month trial. Defined rent. Defined household expectations. Charlie has his own room and privacy. Roger has no automatic access. Either Charlie or Celeste can end it. Review after four weeks.**
+
+No grand decision required.
+
+And Mara would approve:
+
+**No guesses. Test.**
+
+I wouldn't actually invoke Mara or the ledger, because that would be too darling by half. But structurally, it's exactly how these people think.
+
+And then I'd resist ending the scene with Lauren thanking everyone tearfully.
+
+Give us something domestic.
+
+Agreement reached.
+
+Lauren looks tired.
+
+Sarah perhaps takes her empty mug.
+
+Charlie asks where he should put his toothbrush.
+
+Or Celeste realises:
+
+> I hadn't bought him a towel.
+
+That's gorgeous because the grand housing summit collapses back into **somebody staying tonight**.
+
+They've solved rent, privacy, safety and Roger.
+
+Nobody remembered a bloody towel. 😄
+
+That's where I'd head with this scene: **Sarah opens the proposal, Lauren stress-tests it, Celeste establishes the boundaries of her home, Charlie is given the deciding vote.**
+
+Four personalities, four jobs.
+
+Then it won't feel like a meeting.
+
+It'll feel like them. ❤️
 
 <hr class="section-break strong" />
 
 
 
+
+
+
+
+
+
+
+
+
+## One Night Only
+
+
+[![Moi][St00]{ .artL width="260" }][St00]
+
+
+[ Robyn ]
+
+I agree: this would be a long chapter because this would be a long talk.
+
+Couple of points: Lauren's just been through trauma. So, that post-trauma period is likely to be hitting her. As a mum, the initial hurtle was getting him to safety. Done. She's not going to be much in the mood to discuss more permanent living arrangements: this is a two-days-max solution, in her mind. And likely, in Charlie's as well. Too-hard basket to be planning that far in the future.
+
+Have Celeste and Sarah discussed it? Of course. Backstory would be that when Celeste brought it up in Wardrobe, Sarah and her would have hashed out a lot of details. And watched the thing with Tahlia fall through. Celeste wouldn't have been all that keen at first anyway, but after a month with closet-smoker Au-Pair girl, she would have been quite happy to see her south side heading north and been a lot more amenable to having Charlie replace her. Charlie doesn't do things in hiding (Celeste wouldn't know about the Spiro at this stage - no one does).
+
+So, that's my take in this chapter. We deal with tonight and tomorrow, and perhaps discuss something more full-time/permanent at Wardrobe with Mara present.
+
+<hr class="section-break soft" />
+
+
+
+
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
+
+
+[ Emily ]
+
+Yes. **I think your version is psychologically much truer**, and I'd pull back from my previous idea of letting the permanent-arrangement discussion happen tonight.
+
+Lauren has already used up her executive-function budget. 😄
+
+She has confronted her husband, discovered him intoxicated, had her exit physically blocked, assessed an unfamiliar risk, protected Charlie without alerting him, packed and left her home, and put herself in Sarah's hands. By the time she gets to Celeste's, **the planner isn't available for a housing summit**.
+
+And there's an important distinction:
+
+**Lauren hasn't changed her planning horizon. Her planning horizon has collapsed.**
+
+Normally she thinks weeks and months ahead. Tonight she can manage:
+
+* Is Charles safe?
+* Where is he sleeping?
+* Does he have what he needs?
+* Where am I sleeping?
+* What happens tomorrow morning?
+
+Anything beyond that belongs firmly in the **too-hard basket**.
+
+### Which changes what this Celeste scene is actually about
+
+It's **not the room discussion**.
+
+It's the scene that makes the later room discussion possible.
+
+And I think that's considerably better.
+
+Celeste and Sarah already know there's a potential solution. They've previously kicked the tyres on it. Celeste originally wasn't enormously enthusiastic, partly because she already had someone occupying the room; Sarah and Celeste have discussed practicalities; Tahlia was another possibility; that collapsed because of the Saint Bernards/allergy problem.
+
+Now circumstances have unexpectedly lined everything up:
+
+**Charlie needs somewhere.
+Celeste's room is becoming available.
+Charlie is already there.
+The commute works enormously better.
+Celeste knows him and trusts him.
+Sarah trusts both of them.**
+
+Sarah and Celeste can see the pieces clicking together.
+
+**Lauren cannot.**
+
+Not tonight.
+
+And because they're competent women rather than plot-delivery mechanisms, **they recognise that**.
+
+That gives the coming conversation much more texture.
+
+Sarah may arrive prepared to discuss what she and Celeste have already worked out. Then she sees Lauren.
+
+And shelves it.
+
+That would be a lovely Sarah beat.
+
+### So what actually gets discussed?
+
+Very little beyond the immediate arrangement—and yet because of the personalities, it can still be a substantial scene.
+
+Lauren needs to know exactly what tonight means.
+
+Charlie is sleeping in the spare room.
+
+For how long?
+
+Celeste might say:
+
+> "As long as he needs."
+
+And Lauren immediately rejects the vagueness because she can't cope with another undefined thing tonight:
+
+> "No. Just tonight."
+
+Or perhaps:
+
+> "Tonight and tomorrow. I'll work something out."
+
+**There's Lauren.**
+
+She hasn't stopped being the planner. She's desperately trying to restore the planner:
+
+*Give me forty-eight hours. I'll fix this.*
+
+Charlie probably shares that assumption completely.
+
+> "I'll look tomorrow."
+
+Of course he will.
+
+He's already been looking.
+
+And Celeste and Sarah exchange **the glance**.
+
+Not a sitcom glance. Just recognition.
+
+Because both know:
+
+*You two are about to spend forty-eight hours trying to solve a problem for which we may already have an answer.*
+
+But they don't say it.
+
+That restraint is important.
+
+### Celeste especially shouldn't push
+
+Your Au-pair backstory makes Celeste's position much better.
+
+Previously the proposition was:
+
+**Would I want Charlie living with me?**
+
+And Celeste's answer was probably something like:
+
+*Ehhhhhh... maybe?*
+
+Not because she dislikes Charlie. Because sharing your home with someone is enormous.
+
+Then she's had a month of **closet-smoker Au-Pair Girl**. 😂
+
+Someone who conceals things, breaks whatever household understanding exists, perhaps thinks Celeste can't smell cigarette smoke because apparently Celeste was born yesterday.
+
+Now compare that with Charlie.
+
+Charlie asks before touching things.
+
+Charlie follows rules literally.
+
+Charlie cleans up.
+
+Charlie doesn't sneak.
+
+Charlie probably tells Celeste he's going outside before he goes outside. 😄
+
+And, crucially, Celeste has spent months learning that Charlie is **extremely safe company**.
+
+So without Charlie doing anything at all, the comparison tenant has made him look spectacular.
+
+That's a much better reason for Celeste's attitude to have changed than *Celeste has become closer to Charlie and therefore wants him there.*
+
+She has acquired **data about what she values in a housemate**.
+
+And Charlie scores ridiculously well.
+
+### Sarah knows this
+
+That's where I think Sarah can quietly operate tonight.
+
+She doesn't need to sell Lauren the arrangement.
+
+She just needs to establish that Lauren **doesn't have to solve it tomorrow morning**.
+
+Perhaps Lauren says:
+
+> "I'll start looking tomorrow."
+
+And Sarah says:
+
+> "Don't."
+
+Lauren looks at her.
+
+Sarah softens it:
+
+> "Not tomorrow."
+
+That's all.
+
+Because Sarah has just watched Lauren come out of an unsafe domestic situation. The last thing she needs is Lauren getting up at seven tomorrow morning and opening Flatmates while still running on adrenaline.
+
+Celeste can support:
+
+> "He's fine here."
+
+Charlie perhaps starts:
+
+> "I don't want to—"
+
+Celeste:
+
+> "Charlie. You bought a toothbrush."
+
+😂
+
+Not necessarily that line, but that energy.
+
+**Nobody is asking him to decide anything. Sleep here. Eat breakfast. Go to work. We'll deal with the rest later.**
+
+That should be tonight's framework.
+
+### And I strongly agree about moving the permanent discussion to Wardrobe
+
+Especially **with Mara present**.
+
+That's much more powerful.
+
+Because then we're not discussing Lauren's emergency while Lauren is traumatised.
+
+We're discussing Charlie's living arrangements **after everyone has slept, after Roger is no longer immediately relevant, and in the place where the practical benefits of the arrangement are obvious.**
+
+And Mara adds something nobody in Celeste's living room can quite provide:
+
+**distance.**
+
+Sarah has feelings for Lauren.
+
+Celeste has feelings for Charlie.
+
+Lauren is his mother.
+
+Charlie desperately needs somewhere.
+
+They're all interested parties.
+
+Mara isn't.
+
+Mara can look at the proposal and ask:
+
+*Does this actually work?*
+
+Rent.
+Transport.
+Hours.
+Privacy.
+Boundaries.
+Duration.
+
+And—very Mara—she can puncture any hint that Charlie owes Celeste gratitude beyond the obligations of an ordinary tenant.
+
+If he's paying rent, he's renting a room.
+
+**Not being rescued.**
+
+That distinction will matter enormously to Charlie.
+
+It also lets the eventual agreement become very Wardrobe:
+
+Sarah and Celeste have already done preliminary thinking.
+
+Lauren examines the proposal when she's capable of examining it.
+
+Mara stress-tests it.
+
+**Charlie decides.**
+
+Perfect.
+
+### Which means the present scene can breathe
+
+And I think that's why you're right that this chapter may become long.
+
+The Celeste section doesn't have to advance the housing plot very far. It can advance **people**.
+
+Lauren can sit there with tea and gradually come down.
+
+Charlie can be desperately uncertain about what he's allowed to do.
+
+Celeste can make ordinary domestic accommodations without turning them into generosity.
+
+Sarah can watch Lauren.
+
+Lauren can watch Charlie.
+
+And everybody can conspicuously **not talk about Roger very much**.
+
+In fact, I think one of the strongest moments might simply be Lauren seeing Charlie emerge from that spare room after putting his bag down.
+
+He's safe.
+
+There.
+
+Physically in front of her.
+
+Perhaps that's when some of her composure finally fails—not dramatically, but something tiny. Her hand tightens around the mug. She looks down. Sarah notices.
+
+Because the first objective Lauren set herself after Roger blocked that doorway was:
+
+**Charles can't come home.**
+
+And now he hasn't.
+
+Mission accomplished.
+
+Only then does her nervous system have permission to start presenting the bill.
+
+So I'd make the governing principle of the Celeste scene:
+
+**Tonight is not for solving their lives. Tonight is for making sure everybody has somewhere safe to sleep.**
+
+Tomorrow can arrive tomorrow.
+
+And the *real* room discussion belongs at Wardrobe, where Charlie's future can be considered as a practical proposition rather than as an extension of Lauren's emergency.
+
+I think that's substantially better. ❤️
+
+<hr class="section-break strong" />
 
 
 
@@ -834,37 +1626,6 @@ And then:
 
 
 <!--
-
-## How To
-
-
-[![Moi][St00]{ .artL width="260" }][St00]
-
-
-[ Robyn ]
-
-
-
-<hr class="section-break soft" />
-
-
-
-
-[![Emily][Ts00]{ .artR width="260" }][Ts00]
-
-
-[ Emily ]
-
-
-
-<hr class="section-break strong" />
-
-
-
-
-
-
-
 
 ## Overlocker Mystery
 
