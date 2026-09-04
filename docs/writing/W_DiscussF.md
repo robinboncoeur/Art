@@ -776,15 +776,39 @@ As for the title: **No Longer Needed** is doing the same explanatory work I'd re
 
 
 
-<!--
 
-## And Then
+
+## What About?
 
 [![Moi][St00]{ .artL width="260" }][St00]
 
 [ Robyn ]
 
+I have a few issues with the story at the moment. Dot points:
 
+* Lauren is a careful planner, a nurse who does nothing impulsively  
+* *Yet*, finds herself ending a relationship *without* an exit strategy - very unlike Lauren  
+* Particularly since it's not just her needing alternate accommodations, but Charlie too
+
+**So, we need to develop a situation where Lauren has no choice but to leave - it is out of her control.** 
+
+Potential scenarios
+
+* Roger shows a rare violent side (don't want a moustache-twirler)
+* Lauren is concerned for her safety for: reasons (may be justified or imagined)
+* Roger gets drunk
+* Something about the house makes it impossible to stay there
+
+And then:
+
+* while Lauren is dealing with the emotional trauma:  
+* Sarah contacts Celeste;  
+* they agree that having Charlie rent a room from Celeste can work from an economic and safely;  
+* they both start developing a framework;  
+* Lauren picks up Sarah;  
+* Sarah shares the framework with Lauren on the way;  
+* they head over to Celeste's;  
+* and the meeting happens
 
 <hr class="section-break soft" />
 
@@ -809,6 +833,7 @@ As for the title: **No Longer Needed** is doing the same explanatory work I'd re
 
 
 
+<!--
 
 ## How To
 
