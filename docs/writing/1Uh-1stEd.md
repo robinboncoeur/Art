@@ -1345,7 +1345,7 @@ I pointed at a parcel leaning against a sewing machine.
 
 When Leah arrived, she moved towards Charlie at the mending corner, like a timid barrister approaching the bench.
 
-"Do you still play your oboe?" she asked with a crooked smile.
+"Do you still play your oboe?" she asked, her lips a bit crooked.
 
 He looked up briefly and shook his head. His ears had gone a bit pink.
 
