@@ -1,4 +1,4 @@
-# Discussions
+# Trauma Night
 
 
 [![img][Bra01]{ .artC width="1110" }][Bra01]
@@ -13,7 +13,7 @@
 
 
 
-## Don't Touch
+## Rough
 
 [![Moi][St00]{ .artL width="160" }][St00]
 
@@ -44,7 +44,7 @@ Got some thinking to do.
 
 Here's what I have so far:
 
-# Edits
+---
 
 [ *Lauren* ]
 
@@ -270,6 +270,7 @@ And for the first time that day I felt the faintest hint of peace: not because e
 
 
 
+### A Few Potholes
 
 [![Emily][Ts00]{ .artR width="260" }][Ts00]
 
@@ -285,7 +286,7 @@ Lauren knows the marriage is dead, knows Roger is dangerous, knows she has feeli
 
 I think we can make it considerably more dangerous, quieter, and better.
 
-### First: Charlie is not an obstacle. Charlie is the mechanism.
+#### First: Charlie is not an obstacle. Charlie is the mechanism.
 
 You've put your finger on the fatal problem with the current ending. Lauren absolutely **cannot** simply walk out while Charlie remains in that house with an enraged Roger.
 
@@ -401,7 +402,7 @@ That feels completely true to her.
 
 ---
 
-### And that solves Sarah's message too.
+#### And that solves Sarah's message too.
 
 I wouldn't have Sarah magically detect a domestic crisis from meaningful looks across Wardrobe.
 
@@ -856,6 +857,7 @@ By the time he'd re-emerged, everyone had settled into the tiny living room. Sar
 
 
 
+### At First Blush
 
 [![Emily][Ts00]{ .artR width="260" }][Ts00]
 
@@ -882,7 +884,7 @@ But what they bring to Lauren and Charlie must be **a proposal**.
 
 And each woman has a different stake in it.
 
-### Who does what
+#### Who does what
 
 **Sarah** starts it. Definitely.
 
@@ -938,7 +940,7 @@ Something like:
 
 That protects the entire ethos of the book.
 
-### Charlie may initially misunderstand the offer
+#### Charlie may initially misunderstand the offer
 
 This could be delicious.
 
@@ -982,7 +984,7 @@ And I think Lauren would actually relax slightly when she hears that.
 
 That distinction is huge.
 
-### Then Sarah's framework can emerge organically
+#### Then Sarah's framework can emerge organically
 
 Don't have her read a list.
 
@@ -1034,7 +1036,7 @@ There they all are. 😄
 
 And Charlie is sitting quietly absorbing the fact that these women have apparently constructed a small housing policy around him while he was buying a toothbrush.
 
-### The rules should tell us about Celeste
+#### The rules should tell us about Celeste
 
 This is the bit I'd enjoy.
 
@@ -1116,7 +1118,7 @@ But I'm not sure she should make an eternal promise in the heat of tonight. Bett
 
 That has wider resonance without being a speech.
 
-### And I think Charlie should get one rule of his own
+#### And I think Charlie should get one rule of his own
 
 This is important.
 
@@ -1162,7 +1164,7 @@ Celeste notices.
 
 She doesn't interpret it for us.
 
-### Lauren needs to relinquish something
+#### Lauren needs to relinquish something
 
 The emotional movement of this scene, I think, belongs primarily to Lauren even though Celeste narrates it.
 
@@ -1318,6 +1320,8 @@ So, that's my take in this chapter. We deal with tonight and tomorrow, and perha
 
 
 
+### Oh, Actually Yes
+
 [![Emily][Ts00]{ .artR width="260" }][Ts00]
 
 
@@ -1343,7 +1347,7 @@ Normally she thinks weeks and months ahead. Tonight she can manage:
 
 Anything beyond that belongs firmly in the **too-hard basket**.
 
-### Which changes what this Celeste scene is actually about
+#### Which changes what this Celeste scene is actually about
 
 It's **not the room discussion**.
 
@@ -1378,7 +1382,7 @@ And shelves it.
 
 That would be a lovely Sarah beat.
 
-### So what actually gets discussed?
+#### So what actually gets discussed?
 
 Very little beyond the immediate arrangement—and yet because of the personalities, it can still be a substantial scene.
 
@@ -1426,7 +1430,7 @@ But they don't say it.
 
 That restraint is important.
 
-### Celeste especially shouldn't push
+#### Celeste especially shouldn't push
 
 Your Au-pair backstory makes Celeste's position much better.
 
@@ -1466,7 +1470,7 @@ She has acquired **data about what she values in a housemate**.
 
 And Charlie scores ridiculously well.
 
-### Sarah knows this
+#### Sarah knows this
 
 That's where I think Sarah can quietly operate tonight.
 
@@ -1512,7 +1516,9 @@ Not necessarily that line, but that energy.
 
 That should be tonight's framework.
 
-### And I strongly agree about moving the permanent discussion to Wardrobe
+#### And I strongly agree 
+
+**about moving the permanent discussion to Wardrobe**
 
 Especially **with Mara present**.
 
@@ -1569,7 +1575,7 @@ Mara stress-tests it.
 
 Perfect.
 
-### Which means the present scene can breathe
+#### Which means the present scene can breathe
 
 And I think that's why you're right that this chapter may become long.
 
