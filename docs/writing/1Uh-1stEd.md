@@ -3595,7 +3595,7 @@ Outside, a lapwing screeched at the growing darkness.
 "We'll see what we can do."
 
 "Thanks, Mum."
-
+<!-- vale off -->
 Mrs Harwood was one of Mum's patients. Her family had owned most of the land in the area years ago, but most of it had been sold to cover debts. She now lived on a small two-horse 'ranch', with an unsealed driveway and paint peeling off the front door.
 
 Her sheepdog half-heartedly barked once as we entered then decided he'd done his bit and hobbled back under the kitchen table.
@@ -3605,7 +3605,7 @@ As we sat down on creaky chairs, Mrs Harwood gave me a "once-over".
 "This is— Charles?"
 
 I felt my face heat up. Old Harwood had already decided: "Not fit for purpose."
-
+<!-- vale on -->
 We didn't stay long. 
 
 No point.
@@ -4013,18 +4013,220 @@ Then he stepped back, gave me one last nod, and walked away.
 
 
 
+## 16 A Door That Locks
+
+[ *Lauren* ]
+
+Wardrobe had always been busy in the way a good kitchen was busy — productive noise, purposeful movement, women speaking in shorthand because competence didn’t need speeches.
+
+But that week was different.
+
+That week the workroom had a weight.
+
+The thirty-six costumes order was well underway. Tasks had been allocated. Mara had even interviewed, reluctantly, some potential applicants for casual staff. Two actually had a few Wardrobe skills.
+
+My hands stayed steady on my clipboard. I moved through the workroom collecting fabric quotes, noting quantities, listening to Celeste’s quiet directives — this, then this, then that.
+
+All the while, another storm loomed on the horizon.
+
+Roger.
+
+He was coming home today after an extended stay on the base. And I had decided today was the day. I wasn't going to put it off any longer.
+
+To be honest, it was almost laughable how long I’d avoided dealing with him. His affairs were old news now. But that phone call had changed everything.
+
+It had become about Charles.
+
+Wearily, I set down the clipboard and slumped into a chair.
+
+"You right?"
+
+Sarah was looking at me over her shoulder, a slight furrow between her brows.
+
+"Just tired."
+
+"Sure."
+
+I puffed.
+
+"Roger's coming home today."
+
+"Oh joy."
+
+I hadn't told Sarah much. Certainly nothing about the messages I found on his PC when I was paying bills. Nor anything about his attitude about Charles' career choice.
+
+I might have hinted at some stage that the oven had gone out.
+
+Perhaps.
+
+"Message me when you get home," she said, the furrow deepening.
+
+"Why?"
+
+Sarah tipped her head, her eyes never leaving my face.
+
+"Please?"
+
+That evening, when I finally got home, the air in the house felt wrong: empty, staged, like those motel rooms with painted cinder-block walls displaying local artwork in an effort to look cozy.
+
+Roger’s shoes were by the door. His keys were in the bowl. His scent — aftershave and entitlement — hung in the hallway.
+
+My stomach tightened.
+
+I didn’t go to the kitchen.
+
+I didn’t do any of my old rituals but went straight into the study.
+
+Roger was leaning back in his chair, phone in hand, smiling at something on the screen. He looked up as if he’d been expecting me.
+
+No warmth, just calculation.
+
+“Hey.”
+
+I heard my own voice come out calm.
+
+“So— I'm *done*, Roger.”
+
+His smile faltered. Then returned, thinner. “What do you mean, done?”
+
+I placed my handbag on the desk with care.
+
+“Look, I found your messages to—.” I waved my hand, dismissive. “Hotel receipts. The lies that don’t even bother trying anymore.”
+
+His expression did the small, practiced shift into indignation.
+
+“You went through my—"
+
+“I was doing bills.”
+
+"I can't believe you'd read my emails!"
+
+I stared at him.
+
+*He doesn't deny anything.*
+
+*He doesn't even look embarrassed.*
+
+I was standing in my own house, looking at the man I’d built my life around, and felt nothing but a tired sadness.
+
+“I think we both know this is pointless,” I said. “I’m just— done.”
+
+His jaw tightened. “You’re leaving me? Just like that?”
+
+I paused.
+
+"I've known your flings for some time, Roger." My lips went hard. "But when you went off about Charles—"
+
+He stood suddenly.
+
+"He needs to man up."
+
+"What, like you?"
+
+He drew himself to full height, like a cat standing on hind legs. He'd always been self-conscious about being shorter than his wife.
+
+"You're turning him into a wom—"
+
+"Just stop, Roger," I said. "I'm done discussing things with you."
+
+He stepped closer.
+
+“You’re making a big mistake.”
+
+I didn’t step back.
+
+“Actually, I’m correcting one.”
+
+He stared at me. The silence cut like a razor blade.
+
+Then, wordlessly, he turned on his heels.
+
+It wasn't until after he'd left the study that my hands started to shake.
+
+My phone buzzed in my hip pocket.
+
+Sarah.
+
+**You okay?**
+
+My eyes stung.
+
+My fingers hovered over the keyboard. I tried to type 'I’m fine'. Instead:
+
+**no**
+
+The reply came instantly, as if she’d been anticipating that response.
+
+**come here now**
+
+I sat down slowly on the edge of the Roger's chair. My chest tightened so hard it stole the air from me.
+
+My screen went blurry. I could barely see to type.
+
+**I can’t**  
+**Charles is on his way home**
+
+Three animated dots appeared instantly. Sarah’s reply took slightly longer this time.
+
+**don't worry. I'll sort it Lauren**  
+**please come here now**
+
+I stared at the words.
+
+The bang of a cupboard slamming shut came from the kitchen. I recoiled before my mind could stop it.
+
+**I’m offering you a door that locks**
+
+I swallowed. And typed:
+
+**ok**
+
+A final message came back, firm as a hand at my elbow.
+
+**bring nothing you can’t live without**  
+**I’ll make tea**
+
+*Tea.*
+
+Such an simple word.
+
+Such an enormous mercy.
+
+I stood, wiped my cheeks with the heel of my hand, and went to the bedroom to pack. Items flew into my overnight bag with the quiet efficiency of someone no longer asking permission. 
+
+At the front door, I stopped.
+
+And then, stepped out.
+
+As the door clicked shut behind me, my phone buzzed.
+
+Sarah.
+
+**Charlie is staying at Celeste's**
+
+I closed my eyes, took in the lingering warmth of the coming dusk. The evening air was warm and alive. 
+
+Somewhere a neighbour’s sprinkler hissed. A couple of crows gossiped on a power pole.
+
+I moved towards my car.
+
+And for the first time that day I felt something like quiet.
+
+<hr class="section-break strong" />
 
 
 
 
 
 
-<!--
-[14 No Room](W_Edits.md)
 
 
 
-## 21 Terms ✨
+
+
+
+
+## 17 Terms ✨
 
 [ *Celeste* ]
 
@@ -4032,7 +4234,73 @@ Then he stepped back, gave me one last nod, and walked away.
 [![Charlie][S21b]{ .artR width="460" }][S21b]
 
 
-Charlie arrived with a box of labels instead of a suitcase.
+I found Charlie standing at the bus stop, looking like something that had been ordered and then, forgotten about.
+
+He slipped wordlessly into the passenger seat. I caught the quick glance in my direction.
+
+His throat worked.
+
+"I promise I'll find something soon."
+
+I raised my hand as we pulled away from the kerb.
+
+"Let's cross that bridge when we come to it," I said. "We might just pop into Woolies and get you a toothbrush."
+
+As we were crossing the carpark, I got a text from Sarah.
+
+**Charlie with you?**
+
+I texted back as we entered the store:
+
+**yes**
+**just at woolies**
+
+We were in the medication aisle when my phone pinged again.
+
+**we're heading to your place with stuff for Charlie**
+
+I turned to him. 
+
+He was staring at toothbrushes.
+
+For far too long.
+
+His eyes caught mine, and he reddened slightly.
+
+"I'd go with extra soft, Charlie," I said. "I hear they're easier on your gums."
+
+He nodded. And selected what was on special.
+
+Sarah and Lauren were standing next to Lauren's little i20 when we got home. 
+
+I unlocked the door, pushed it with my shoulder, and waved everyone in.
+
+Sarah marched in with all the confidence of someone in charge of things. Lauren followed her, her shoulders a bit stiff carrying a canvas bag. And Charlie stood on the landing, uncertain. I waved him in, almost impatient. 
+
+"Tea!" I announced as I flipped on the kettle.
+
+Lauren settled slowly into a chair in the kitchenette and looked around her. 
+
+"Where's the loo?" Sarah asked.
+
+I pointed.
+
+"Put your bag in your room, Charlie," I told him. "It's the last door on the right, after the toilet."
+
+Lauren motioned him over.
+
+"Sorry, I was in a bit of a hurry," she said as she handed him the canvas bag. He disappeared into his room.
+
+
+
+
+
+
+
+
+
+
+
 
 It was the most Charlie thing he could have done: turn shifting into a logistics problem and solving it quietly.
 
@@ -4210,7 +4478,7 @@ It was to be reliable.
 
 
 
-
+<!--
 
 ## 22 Rails ✨
 
