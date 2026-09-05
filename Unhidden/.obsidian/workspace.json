@@ -21,49 +21,28 @@
             "id": "348543b78e64a48f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wardrobe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wardrobe"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "cb70fe7353abb3d2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "884b5254461ddf9a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "story-line-board",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "layout-grid",
+              "title": "StoryLine - Unhidden"
             }
           },
           {
-            "id": "b7c42d8bf8f28c05",
+            "id": "c4818b6f34b94fc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charlotte.md",
+                "file": "StoryLine/Celeste's Girl/Unhidden/Scenes/Act 1/01-01 Are You Lost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Charlotte"
+              "title": "01-01 Are You Lost"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,6 +98,16 @@
               },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2b23723ab6391817",
+            "type": "leaf",
+            "state": {
+              "type": "story-line-navigator",
+              "state": {},
+              "icon": "compass",
+              "title": "StoryLine navigator"
             }
           }
         ]
@@ -227,14 +216,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "giganttix:Open Giganttix": false,
+      "storyline:StoryLine projects": false
     }
   },
-  "active": "348543b78e64a48f",
+  "active": "c4818b6f34b94fc5",
   "lastOpenFiles": [
+    "StoryLine/Celeste's Girl/Unhidden/Scenes/Act 1/01-01 Are You Lost.md",
+    "StoryLine/Celeste's Girl/Unhidden/Scenes/Act 1",
+    "StoryLine/Celeste's Girl/Unhidden/System/manuscript-state.json",
     "Charlotte.md",
-    "Celeste.md",
     "Wardrobe.md",
+    "StoryLine/Celeste's Girl/System/codex-categories.json",
+    "StoryLine/Celeste's Girl/System",
+    "StoryLine/Celeste's Girl/series.json",
+    "StoryLine/Celeste's Girl/Codex/Locations",
+    "StoryLine/Celeste's Girl/Codex/Characters",
+    "StoryLine/Celeste's Girl/Codex",
+    "StoryLine/Celeste's Girl/Unhidden/System",
+    "StoryLine/Celeste's Girl/Unhidden/Scenes",
+    "StoryLine/Celeste's Girl/Unhidden/Unhidden.md",
+    "Celeste.md",
     "Mara.md",
     "Untitled.canvas"
   ]

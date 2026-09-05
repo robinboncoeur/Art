@@ -1,0 +1,24 @@
+{
+  "corkboardPositions": {
+    "StoryLine/Celeste's Girl/Unhidden/Scenes/00-00 Untitled.md": {
+      "x": -360,
+      "y": -250,
+      "z": 2
+    },
+    "StoryLine/Celeste's Girl/Unhidden/Scenes/00-00 Are You Lost.md": {
+      "x": 0,
+      "y": 0,
+      "z": 3
+    },
+    "StoryLine/Celeste's Girl/Unhidden/Scenes/Act 1/01-00 Are You Lost.md": {
+      "x": 0,
+      "y": 0,
+      "z": 4
+    },
+    "StoryLine/Celeste's Girl/Unhidden/Scenes/Act 1/01-01 Are You Lost.md": {
+      "x": 0,
+      "y": 0,
+      "z": 5
+    }
+  }
+}

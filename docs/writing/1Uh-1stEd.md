@@ -1351,7 +1351,7 @@ He looked up briefly and shook his head. His ears had gone a bit pink.
 
 "Leah, you're on rails," Mara said.
 
-A smile stole across Leah's face as she removed her jacket and went to work.
+A smile stole across Leah's face as she turned to put away her handbag.
 
 That afternoon, Lucy carried a heavy, ornate dress from the storage room, awkwardly trying to keep the hem off the floor. She hung it on the tallest rail and stepped back with arms crossed, eyeing it critically.
 
@@ -1361,13 +1361,13 @@ Mara looked up from her work.
 
 "It'll need going over with the steamer." She frowned. "Is that dress even going to fit her?"
 
-The back door — a roller gate — slammed shut and Tahlia emerged with an envelope tucked under one arm, carrying a roll of hunter green fabric in the crook of her arms. Charlie jumped up but Tahlia shook her head.
+The back door — a roller gate — slammed shut and Tahlia emerged carrying a roll of hunter green fabric in the crook of her arms, an envelope tucked in one armpit. Charlie jumped up but Tahlia shook her head.
 
 "I'm good, hun," she said. She twitched the shoulder with the envelope. "Just take that invoice over to Celeste, won't you?"
 
-He carefully slipped the envelope from under her arm.
+He carefully slipped the envelope out from her armpit.
 
-"Just put that bolt on the cutting table," Mara told Tahlia. "It was meant to arrive last week."
+"Put that bolt on the cutting table," Mara told Tahlia. "It was meant to arrive last week."
 
 
 [![Lily][Std1]{ .artR width="240" }][Std1]
@@ -1381,7 +1381,7 @@ Hands on hips, Lucy turned to her.
 
 "Shall we?"
 
-Lily carelessly began to pull her jumper off when Lucy coughed. She followed Lucy's gaze in the direction of the mending table — shrugged and continued to pull off her jumper.
+Lily carelessly began to pull her jumper off when Lucy gave a cautionary cough. She followed Lucy's gaze in the direction of the mending table — shrugged and continued to pull off her jumper.
 
 Charlie didn't look up.
 
@@ -1405,13 +1405,13 @@ She lifted the skirt, which was dragging on the floor.
 
 Mara put down the invoice she was studying.
 
-"Find a palace dress in storage that won't require as many alterations."
+"Find a palace dress in storage in her size."
 
 Lucy nodded and turned back to Lily, who had whipped off the dress.
 
-"Oof. Pretty, but hot worn in here."
+"Oof. Pretty, but a bit hot to wear in here."
 
-Lily slipped into her oversized jumper, which covered much of her black leggings.
+Lily slipped into her oversized jumper, its hem falling to her upper thighs over the black leggings.
 
 There was a knock on the door.
 
@@ -1485,7 +1485,7 @@ Mara was at the cutting table, pencil behind her ear, studying the pattern paper
 
 She looked up.
 
-"Can I help you."
+"Can I help you?"
 
 Lauren paused. Her gaze had settled on the mending table for a few seconds longer than necessary, where a figure sat with their back to her, absorbed in a garment. She turned to Mara.
 
@@ -1499,13 +1499,11 @@ Lauren frowned slightly.
 
 "I expected him to be working in maintenance," she said. "He told me over dinner last night he was working here."
 
-"He is."
+"He is." Mara studied her calmly. "And you are wondering why."
 
-Lauren bit her lip. Mara studied her calmly.
+Lauren bit her lip and nodded. 
 
-"And you are wondering why."
-
-Lauren nodded. Mara pointed at the chair next to her table.
+Mara pointed at the chair next to her table.
 
 "Would you like to sit down?"
 
@@ -1529,15 +1527,15 @@ Lauren stared at her for a moment.
 
 Mara held Lauren in her gaze.
 
-"Alright," she said.
+"Yes," she said.
 
-Lauren's shoulders moved slightly forward. She took in a slow deep breath and let it out in a short puff.
+Lauren's shoulders moved slightly forward. She took in a slow, deep breath and let it out in a short puff.
 
 And stared at the window.
 
 Mara waited.
 
-"I'm just concerned for his future,” Lauren said finally. She looked thoughtful for a moment, then seemed to remember something. Reaching into her tote bag, she produced a folded piece of cloth, which she handed to Mara.
+"We're just concerned for his future,” Lauren said finally. She looked thoughtful for a moment, then seemed to remember something. Reaching into her tote bag, she produced a folded piece of cloth, which she handed to Mara.
 
 "Charlie showed me this last night," she said. "The lace had separated from the cap. He'd sewn it back."
 
@@ -1573,9 +1571,13 @@ She pointed at the edge of the lace.
 
 "You didn't just teach sewing, but seeing."
 
-Lauren's hand reached out and gently touched the lace. Her head bobbed in a barely perceptible nod. She glanced at Mara, and then her eyes fell on the mannequin proudly wearing the ornate gown. She took in the sewing machines on tables with folded fabric and bobbins of thread and tins for chalk, pins, and thimbles. And finally, stopped at the repair table.
+Lauren's hand reached out and gently touched the lace. Her head bobbed in a barely perceptible nod. She glanced at Mara and then her eyes fell on the mannequin wearing the ornate gown. She took in the sewing machines on tables with folded fabric and bobbins of thread and tins for chalk, pins, and thimbles. 
 
-"Would you like to have a look around?"
+And finally, stopped at the repair table.
+
+Her eyes changed.
+
+"Would you like to have a look around?" Mara said.
 
 Lauren nodded again and pointed at the pattern on the table.
 
@@ -1589,7 +1591,7 @@ Lauren's eyebrows rose.
 
 "You don't just do repairs, then?"
 
-"We did," Mara said, "when the Faire first opened. But then, the owners weren't happy with what we were getting from overseas."
+"We did at first," Mara said, "when the Faire had just opened. But then, the owners weren't happy with what we were getting from overseas."
 
 Lauren's head tilted as she studied the pattern.
 
@@ -1601,19 +1603,9 @@ The front-loader started its final spin rattle as the shouting of the vendors se
 
 "Several trades," said Mara. "People think all we do is stitch torn seams." She stood. "We're a workshop. Cloth just happens to be our material."
 
+Lauren looked up from the pattern. Her eyes went to the repair table again.
 
-
-
-
-
-
-
-
-
-
-
-
-
+She glanced at me, and then, turned to Mara.
 
 "So, what do I do?"
 
@@ -1621,11 +1613,11 @@ Mara's look didn't change.
 
 "You don't do anything different."
 
-"But Roger—" Lauren stopped.
+"But Charles' father—" Lauren stopped.
 
 Mara's look sharpened.
 
-"Roger will have his opinion."
+"He will have his opinion."
 
 Lauren looked at her.
 
@@ -1633,7 +1625,7 @@ Lauren looked at her.
 
 Lauren grimaced.
 
-"Roger *is* Charles' father."
+"Still. Roger *is* Charles' father."
 
 Mara put her arms on the table and leaned forward, looking straight at Lauren.
 
@@ -1641,7 +1633,7 @@ Mara put her arms on the table and leaned forward, looking straight at Lauren.
 
 "Then what *are* you saying?"
 
-"I'm saying to not ignore yourself."
+"I'm saying this: do not ignore your own."
 
 Lauren looked away. 
 
@@ -1650,10 +1642,6 @@ I continued to quietly put tags on finished costumes. The metal hook of the hang
 And then, for a while, the only sounds were those of the Faire through the window and the faint hiss of the steamer.
 
 I watched Lauren take in a breath and look around. 
-
-And then, she blinked. 
-
-She'd recognised the figure in the mending corner.
 
 Mara wordlessly watched her get up and walk over to Charlie.
 
@@ -1666,40 +1654,6 @@ Her eyes moved from his face to his hands.
 He held up the seam.
 
 And Lauren nodded.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=========================
-
-Lauren looked at the pattern paper on Mara's table.
-
-
-
-=============================
 
 <hr class="section-break strong" />
 
@@ -1719,6 +1673,20 @@ Lauren looked at the pattern paper on Mara's table.
 <!--
 This was Scene 8 — "Infrastructure".
 Time of year: February
+
+APPEARING / WHAT WE KNOW:
+Charlie — now Known in Wardrobe; quiet, not timid.
+Lucy — working with Charlie at the mannequin
+Mara — consistently professional
+Celeste — increasingly able to read Charlie's small reactions.
+
+RELATIONSHIPS AT START:
+Wardrobe → Charlie: working now on fitting vs repairs. 
+Still certain that he's bound for shipyards and welding equipment.
+
+CHANGE:
+Lauren has had a think about Charlie's future.
+
 -->
 
 [ *Celeste* ]
@@ -8914,7 +8882,7 @@ A sound came out of me that might have been a laugh. Thin, a bit humiliating. Sa
 
 I hovered at the end of the hallway, unsure where to put myself. I felt like a guest in a life I’d never imagined stepping into. The gentle, human warmth from Sarah’s home settled slowly through me like lotion on dry skin. I thought, suddenly and stupidly, of what I had just left. Of half-finished jobs: doors that didn’t close properly, drawers that stuck. Things left slightly wrong, as if a woman would quietly tidy the world behind him.
 
-I took in a slow deep breath and closed my eyes as if I could shut it out. My chest tightened anyway.
+I took in a slow, deep breath and closed my eyes as if I could shut it out. My chest tightened anyway.
 
 Sarah returned with a mug held in both hands, like tea mattered. She handed it to me, but didn’t let go straight away. Her fingers stayed on the ceramic for a moment — steadying the mug, steadying me.
 
