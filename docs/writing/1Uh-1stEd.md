@@ -3564,7 +3564,7 @@ Outside, a lapwing screeched at the growing darkness.
 
 "Thanks, Mum."
 <!-- vale off -->
-Mrs Harwood was one of Mum's patients. Her family had owned most of the land in the area years ago, but most of it had been sold to cover debts. She now lived on a small two-horse 'ranch', with an unsealed driveway and paint peeling off the front door.
+Mrs Harwood was one of Mum's patients. Her family had owned most of the land in the area years ago, but most of it had been sold to cover debts. She lived on a small two-horse 'ranch' that she managed on her own, with an unsealed driveway and paint peeling off the front door. At 65, she looked more weatherbeaten and tougher than Graham
 
 Her sheepdog half-heartedly barked once as we entered then decided he'd done his bit and hobbled back under the kitchen table.
 
@@ -3572,7 +3572,7 @@ As we sat down on creaky chairs, Mrs Harwood gave me a "once-over".
 
 "This is— Charles?"
 
-I felt my face heat up. Old Harwood had already decided: "Not fit for purpose."
+I felt my face heat up. Old Harwood had clearly been hoping for a ranch-hand and had already decided that I was: "not fit for purpose."
 <!-- vale on -->
 We didn't stay long. 
 
