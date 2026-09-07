@@ -3669,7 +3669,7 @@ It was weird how at that moment, that huge dining room felt small.
 
 [ *Sarah* ]
 
-He left like a man who thought the universe was basically a well-run hotel. Not hurried, not sneaky — just that satisfied, economical exit of someone who’d collected what he came for and now felt pleasantly “done,” like putting a glass in the sink after a drink and expecting applause for it.
+He left that morning like a man who thought the universe was basically a well-run hotel. Not hurried, not sneaky — just that satisfied, economical exit of someone who’d collected what he came for and now felt pleasantly “done,” like putting a glass in the sink after a drink and expecting a pat on the back.
 
 I stayed flat on my back and listened to the little noises of him un-being there: shoes thudding near the door, keys giving their smug little jingle, the short pause where he weighed up saying something human and then — predictably — didn’t.
 
@@ -4224,14 +4224,156 @@ I put my bag in my car and got in.
 
 
 
-## 17 Tonight is Sorted ✨
-
-[ *Celeste* ]
+## 17 Tonight is Sorted
 
 
 [![Charlie][S21b]{ .artR width="460" }][S21b]
 
 
+<!--
+[Being written...](W_Edits.md)
+-->
+
+[ *Celeste* ]
+
+I found Charlie standing at the bus stop, looking like something that had been ordered and then forgotten about.
+
+He slipped wordlessly into the passenger seat. I caught the quick glance in my direction.
+
+His throat worked.
+
+"I promise I'll find something soon."
+
+I raised my hand as we pulled away from the kerb.
+
+"Let's cross that bridge when we come to it," I said. "We might just pop into Woolies and get you a toothbrush."
+
+As we were crossing the carpark, I got a text from Sarah.
+
+**Charlie with you?**
+
+I texted back as we entered the store:
+
+**yes**  
+**just at woolies**
+
+We were in the medication aisle when my phone pinged again.
+
+**we're heading to your place with stuff for Charlie**
+
+I turned to him. 
+
+He was staring at toothbrushes.
+
+For far too long.
+
+His eyes caught mine, and he reddened slightly.
+
+"I'd go with extra soft, Charlie," I said. "I hear they're easier on your gums."
+
+He nodded. And selected what was on special.
+
+Sarah and Lauren were standing next to Lauren's little i20 when we got home. 
+
+I unlocked the front door. It creaked as I pushed it open with my shoulder.
+
+Sarah marched in with all the confidence of someone assigned to take charge. Lauren followed her carrying a canvas bag, her shoulders a bit stiff. And Charlie stood on the landing, uncertain. I impatiently waved him in. 
+
+"Tea!" I announced as I flipped on the kettle.
+
+Lauren settled slowly onto a corner of the couch and looked around her. 
+
+"Where's the loo?" Sarah asked.
+
+I pointed.
+
+"Put your bag in your room, Charlie," I told him. "It's the last door on the right, after the toilet."
+
+Lauren motioned him over.
+
+"Hope I got everything you need. I was in a bit of a hurry," she said as she handed him the canvas bag. He disappeared into his room.
+
+By the time he'd re-emerged, everyone had settled into the tiny living room. Sarah pulled up a kitchen chair.
+
+"Everyone's tired, so we'll keep this short," she said. "Just want to make sure everyone's safe."
+
+She looked at Lauren. Charlie had settled beside his mum, glancing at her, then down at his hands. 
+
+Lauren cleared her throat.
+
+"That would be good," she said softly.
+
+Sarah turned to me.
+
+"Your house, your rules."
+
+I thought for a moment.
+
+"Just basic stuff. Privacy, like knocking before opening doors, that sort of thing."
+
+Sarah grimaced.
+
+"That's it?"
+
+I shrugged.
+
+"The toilet door locks. Use it. If it's shut, assume it's engaged." I remembered something. "Oh, and don't leave wet towels on the floor."
+
+Sarah raised an eyebrow. "Those are your rules?"
+
+"What? They're good rules."
+
+"You mentioned privacy," Lauren said.
+
+I turned to her.
+
+"My room is mine, and Charlie's is his. I won't go in his without asking."
+
+"I won't go in — um, yours, either," Charlie said quickly, swallowing hard.
+
+I bit my lip to keep from smiling.
+
+Sarah stood.
+
+"Anything else?"
+
+Lauren took a sip of her tea. Her shoulders seemed to have eased somewhat.
+
+"Just want to say thank you, Celeste," she murmured. "I—"
+
+I smiled at her.
+
+"Happy to help, Lauren," I said.
+
+Sarah was in the kitchenette gathering her things.
+
+"Let's get you some rest, Lauren," she said.
+
+After the door closed behind them, I returned to the living room.
+
+And looked at Charlie.
+
+He was looking at me.
+
+"You hungry?"
+
+He shook his head.
+
+"You know where the toilet is," I said. "Help yourself to what's in the fridge if you want anything."
+
+He nodded, not moving.
+
+I picked up my bag.
+
+"Night, Charlie."
+
+He got up then.
+
+"G'night, Celeste." 
+
+He disappeared into his room. 
+
+I heard his door close.
 
 <hr class="section-break strong" />
 
