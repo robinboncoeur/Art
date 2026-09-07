@@ -4288,13 +4288,179 @@ I heard his door close.
 
 
 
-## 18 Some Doors Lock
+## 18 Some Doors Lock 🚪
 
+[ *Lauren* ]
+
+Sarah’s home wasn’t imposing, or fashionable, or striking. It was… contained.
+
+It smelled like citrus cleaner and warm fabric. Every object looked chosen by someone who refused to settle for things that didn’t work. Someone lived here deliberately, not by accident: not the magazine-layout kind, but the kind that said — 
+
+*I will not be at the mercy of chaos if I can help it*.
+
+I stood just inside the front door with my overnight bag on the floor by my feet, shoulders still held high. My body was braced for consequences: it still believed I would be called back, corrected, punished.
+
+Sarah eyed me as she shut the door behind me. She didn’t speak straight away — thank goodness she didn’t launch into sympathy or I would have burst into tears. She didn’t ask anything.
+
+Instead, she did something almost aggressively ordinary.
+
+She turned the deadlock.
+
+Then — meaningfully — she turned it again.
+
+Unlock. Lock.
+
+Final.
+
+“There,” she said. “Now no one can just… walk in.”
+
+The lump in my throat came so quickly I had to look away. I stared at a framed print on the wall — botanical, sharp-lined, beautiful in a restrained way — until my eyes stopped shining.
+
+“I didn’t bring much,” I managed.
+
+Sarah peered at me, lips pressed into a tight smile. “You brought enough.”
+
+She picked the bag up and carried it like it held significance, like my life wasn’t an inconvenience. She walked ahead down the hall and flicked on a lamp so the light came up soft and warm. It caught the edges of her hair and turned them gold.
+
+“You can to take your shoes off,” Sarah said, with a gentleness unlike her, “if you'd like.”
+
+I slipped my shoes off automatically. My hands started shaking again now that I’d stopped moving, as if my body had waited for safety before it began to misbehave. Sarah noticed, of course, but didn’t point it out. Instead, she went to the kitchen.
+
+“I’m famished,” she said. “Could I make you a sandwich?”
+
+A sound came out of me that might have been a laugh. Thin, a bit humiliating. Sarah’s mouth curved briefly, gratified at the sound. 
+
+"Is that a yes? You okay with bone ham?"
+
+I nodded. She turned to the fridge with brisk competence.
+
+I hovered at the end of the hallway, unsure where to put myself. I felt like a guest in a life I’d never imagined stepping into. The gentle, human warmth from Sarah’s home settled slowly through me. I thought, suddenly and stupidly, of what I had just left. Of half-finished jobs: doors that didn’t close properly, drawers that stuck, things left slightly wrong.
+
+I took in a slow, deep breath and closed my eyes as if I could shut it out. My chest tightened anyway.
+
+Sarah indicated a chair, then placed a plate on the table with the sandwiches cut in triangles and arranged in a circle, like sandwiches mattered.
+
+I sat down slowly.
+
+“Eat,” she said, nodding at the food. “You look like you’re about to evaporate.”
+
+We ate in silence.
+
+As she put the empty plates in the kitchen, she pointed to the brown brushed leather couch in her living room. It was firm, clean, with a throw folded neatly at one end, placed there. Sarah took an armchair after pressing a cup of herbal tea into my hands. The tea smelled like chamomile and something sharper — ginger, maybe. 
+
+We sat for a moment. The kettle clicked softly as it cooled. A clock ticked faintly in the kitchen.
+
+Finally, Sarah asked, very calmly, “Do you think it likely he comes here?”
+
+I bit my lip.
+
+“I— I don’t think so,” I said. “He doesn’t know you."
+
+Sarah waited.
+
+“Not that I know of.”
+
+"But he knows about Wardrobe and that you work there."
+
+Heat crept up my neck. Even now, trained reflexes tried to make an unpleasant truth smaller.
+
+“He does,” I admitted, “but I still don't think he knows where you live.”
+
+Sarah nodded, unsurprised.
+
+“Regardless,” she said. “We need a plan. There’s no negotiating with someone who thinks the world is an argument he can’t lose.”
+
+My hands tightened around the mug. Sarah stood and went to the small table by the door. She tapped her phone, then set it down with care.
+
+“Leave your ringer on,” she said. “And leave your phone in the kitchen." She pressed her lips together.
+
+I stared at her.
+
+"You don't answer it," she said. "We just need to know what he's up to."
+
+I sighed and briefly shook my head.
+
+“I hate getting you involved in this, Sarah."
+
+“I'm involved,” she said, like it was simple logic. “Full stop. You’re here for a reason.”
+
+I looked at her face and something painful and bright moved in my chest.
+
+“Thank you,” I heard myself say, my voice smaller than I wanted. Sarah made a face.
+
+“I’m not doing this for points,” she said.
+
+I looked down into my tea.
+
+My eyes stung.
+
+She didn’t pretend not to notice, but closed the space between us — sat carefully beside me. She reached for the throw, unfolded it with brisk precision, and laid it across my lap.
+
+“I’m going to ask you a question,” Sarah said. Her voice was lower now, careful in a way I had never heard before. “And you can say no. Promise I’ll be normal about it.”
+
+My heart thudded.
+
+“Okay.”
+
+A pause.
+
+“Would you like a hug?”
+
+Such a simple sentence. It hit me like an ocean wave. My mouth opened. No sound came out.
+
+Sarah waited, utterly still, the offer echoing in her soft eyes.
+
+I nodded — sharp, helpless.
+
+Sarah exhaled like she’d been holding herself back from something and pulled me in.
+
+It wasn’t a delicate hug. It wasn’t the awkward pat-pat of social obligation. It was firm and full-bodied — arms around my shoulders, a hand cradling the back of my head.
+
+A small broken sound escaped into her shoulder and I hated myself for it.
+
+Sarah held me tighter.
+
+“It’s alright,” she said, her voice thick. “Let it out.”
+
+I cried.
+
+Quiet. Ugly.
+
+The way you cried when you’d spent years being careful not to.
+
+And Sarah stayed.
+
+When my breathing finally slowed, she loosened gradually, almost imperceptibly, letting my body decide when to stop leaning. I wiped my face with the heel of my hand, mortified. Sarah tilted her head.
+
+“Right,” she said. “Time for practicalities. Like: sleep.”
+
+I blinked. “Sleep.”
+
+“Yes,” she said, already standing, “because your brain will spin indefinitely if we let it. Come on.”
+
+She led me down the hall to the spare room.
+
+The bed was made with crisp sheets. A folded towel sat at the end like a promise. A small lamp glowed warmly on the bedside table. On the pillow was a spare toothbrush in its packet.
+
+I must have stared at it a bit too long. She shrugged dismissively. “I keep spares,” she said, making it sound like logistics. “People have emergencies.”
+
+Sarah reached past me to draw the curtains. A streetlight vanished. She checked the window latch with a click. Then, still not looking at me, she said, “If he rings, you don’t answer. You stay in here. I’ll handle it.”
+
+I tried to speak. Failed.
+
+“You need sleep,” Sarah said. Then, as if it cost her something, she added, 
+
+“This door locks too. If you need it to.”
+
+<hr class="section-break strong" />
+
+
+
+
+
+## 19 _____
 
 [Being edited...](W_Edits.md)
-
-
-
 
 
 <hr class="section-break strong" />
