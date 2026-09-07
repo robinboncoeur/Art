@@ -4434,7 +4434,9 @@ When my breathing finally slowed, she loosened gradually, almost imperceptibly, 
 
 “Right,” she said. “Time for practicalities. Like: sleep.”
 
-I blinked. “Sleep.”
+I blinked. 
+
+“Sleep.”
 
 “Yes,” she said, already standing, “because your brain will spin indefinitely if we let it. Come on.”
 
@@ -4442,13 +4444,17 @@ She led me down the hall to the spare room.
 
 The bed was made with crisp sheets. A folded towel sat at the end like a promise. A small lamp glowed warmly on the bedside table. On the pillow was a spare toothbrush in its packet.
 
-I must have stared at it a bit too long. She shrugged dismissively. “I keep spares,” she said, making it sound like logistics. “People have emergencies.”
+I must have stared at it a bit too long. She shrugged dismissively. 
+
+“I keep spares,” she said, making it sound like logistics. “People have emergencies.”
 
 Sarah reached past me to draw the curtains. A streetlight vanished. She checked the window latch with a click. Then, still not looking at me, she said, “If he rings, you don’t answer. You stay in here. I’ll handle it.”
 
 I tried to speak. Failed.
 
-“You need sleep,” Sarah said. Then, as if it cost her something, she added, 
+“Sleep.” 
+
+Sarah moved to the door. Then, as if it cost her something, she added, 
 
 “This door locks too. If you need it to.”
 
