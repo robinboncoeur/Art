@@ -4312,7 +4312,7 @@ Unlock. Lock.
 
 Final.
 
-“There,” she said. “Now no one can just… walk in.”
+“There,” she said. “Now no one can just walk in.”
 
 The lump in my throat came so quickly I had to look away. I stared at a framed print on the wall — botanical, sharp-lined, beautiful in a restrained way — until my eyes stopped shining.
 
@@ -4326,7 +4326,7 @@ She picked the bag up and carried it like it held significance, like my life was
 
 I slipped my shoes off automatically. My hands started shaking again now that I’d stopped moving, as if my body had waited for safety before it began to misbehave. Sarah noticed, of course, but didn’t point it out. Instead, she went to the kitchen.
 
-“I’m famished,” she said. “Could I make you a sandwich?”
+“I’m famished,” she said. “Can I make you a sandwich?”
 
 A sound came out of me that might have been a laugh. Thin, a bit humiliating. Sarah’s mouth curved briefly, gratified at the sound. 
 
