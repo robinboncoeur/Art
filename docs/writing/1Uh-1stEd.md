@@ -4426,7 +4426,9 @@ Sarah held me tighter.
 
 I cried.
 
-Quiet. Ugly.
+Quiet. 
+
+Ugly.
 
 The way you cried when you’d spent years being careful not to.
 
