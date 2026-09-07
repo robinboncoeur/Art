@@ -4320,9 +4320,9 @@ The lump in my throat came so quickly I had to look away. I stared at a framed p
 
 Sarah peered at me, lips pressed into a tight smile. “You brought enough.”
 
-She picked the bag up and carried it like it held significance, like my life wasn’t an inconvenience. She walked ahead down the hall and flicked on a lamp so the light came up soft and warm. It caught the edges of her hair and turned them gold.
+She picked the bag up and carried it like it held significance. She walked ahead down the hall and flicked on a lamp so the light came up soft and warm. It caught the edges of her hair and turned them gold.
 
-“You can to take your shoes off,” Sarah said, with a gentleness unlike her, “if you'd like.”
+“You can take your shoes off,” Sarah said gently, “if you'd like.”
 
 I slipped my shoes off automatically. My hands started shaking again now that I’d stopped moving, as if my body had waited for safety before it began to misbehave. Sarah noticed, of course, but didn’t point it out. Instead, she went to the kitchen.
 
@@ -4350,17 +4350,13 @@ As she put the empty plates in the kitchen, she pointed to the brown brushed lea
 
 We sat for a moment. The kettle clicked softly as it cooled. A clock ticked faintly in the kitchen.
 
-Finally, Sarah asked, very calmly, “Do you think it likely he comes here?”
+Finally, Sarah asked, very calmly, “Any chance he comes here?”
 
 I bit my lip.
 
-“I— I don’t think so,” I said. “He doesn’t know you."
+“I— I don’t think so,” I said. “He doesn’t know you." Sarah waited. “Not that I know of.”
 
-Sarah waited.
-
-“Not that I know of.”
-
-"But he knows about Wardrobe and that you work there."
+"But he knows about Wardrobe," Sarah said, "and that you work there."
 
 Heat crept up my neck. Even now, trained reflexes tried to make an unpleasant truth smaller.
 
@@ -4394,9 +4390,9 @@ I looked down into my tea.
 
 My eyes stung.
 
-She didn’t pretend not to notice, but closed the space between us — sat carefully beside me. She reached for the throw, unfolded it with brisk precision, and laid it across my lap.
+Sarah didn’t pretend not to notice, but sat carefully beside me. She reached for the throw, unfolded it with brisk precision, and laid it across my lap.
 
-“I’m going to ask you a question,” Sarah said. Her voice was lower now, careful in a way I had never heard before. “And you can say no. Promise I’ll be normal about it.”
+“I’m going to ask you a question.” Her voice was lower now, careful in a way I had never heard before. “And you can say no. Promise I’ll be normal about it.”
 
 My heart thudded.
 
@@ -4454,7 +4450,7 @@ I tried to speak. Failed.
 
 “Sleep.” 
 
-Sarah moved to the door. Then, as if it cost her something, she added, 
+Sarah moved to the door. Then she stopped. 
 
 “This door locks too. If you need it to.”
 
