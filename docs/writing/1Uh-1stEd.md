@@ -4288,10 +4288,10 @@ I heard his door close.
 
 
 
-## Some Doors Lock
+## 18 Some Doors Lock
 
 
-[Being written...](W_Edits.md)
+[Being edited...](W_Edits.md)
 
 
 
@@ -8851,7 +8851,6 @@ I will not be late again.
 
 <hr class="section-break strong" />
 
--->
 
 
 
@@ -8870,7 +8869,6 @@ I will not be late again.
 
 
 
- <!-->
 ## 42 With Clean Edges 🚪
 
 [ *Lauren* ]
