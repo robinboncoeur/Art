@@ -1,7 +1,7 @@
 # ComfyUI Tips
 
 <!-- vale off -->
-[![Old Kaimu][Br02]{ .artC width="1100" }][Br02]
+[![Old Kaimu][Brc02]{ .artC width="1100" }][Brc02]
 
 
 <hr class="section-break strong" />
@@ -13,19 +13,18 @@
 
 
 
-
-
 ## Working with Flux
 
 
-[![Just...][Sy01]{ .artR width="320" }][Sy01]
+[![Writer][St00]{ .artR width="320" }][St00]
 
 
 You’re not imagining it—Flux tends to “over-carve” faces. Two fixes: (1) prompt/caption anatomy explicitly, and (2) do quick regional inpaints (Krea/Kontext) to smooth chin/brow without nuking identity.
 
 Here’s a practical kit you can paste/use.
 
-### 1) Prompt anatomy
+---
+1. Prompt anatomy
 
 ...that *adds* softness (and negate the rest)
 
@@ -53,9 +52,10 @@ Use both positive *and* negative anatomy terms. (Negatives alone often aren’t 
 Tip: if your tool supports weights, lightly weight the anatomy:
 `rounded chin:1.2, soft low brow ridge:1.2, no cleft chin:1.3`.
 
+
 ---
 
-### 2) Lighting and lens cues
+2. Lighting and lens cues
 
 ...that *prevent* the artifacts
 
@@ -65,9 +65,10 @@ Clefts/ridges often appear from lighting, not just anatomy.
 * **Avoid:** “hard rim/key at 45°”, “split/Rembrandt lighting”, “high contrast”, “specular hot-spot under lower lip.”
 * **Lens/angle:** “85mm look, eye-level camera.” (Down-lighting and wide lenses emphasize brow/chin topology.)
 
+
 ---
 
-### 3) Krea or Kontext
+3. Krea or Kontext
 
 ... fast regional inpaint
 
@@ -91,18 +92,20 @@ When a cleft or ridge still shows up, fix *locally*.
 * **Steps:** a bit fewer than base gen (e.g., if 28 → 22) to avoid re-inventing the face.
 * If identity drifts, reduce strength or add your **FaceID/InstantID/Reference** control at low weight (0.2–0.35) while inpainting.
 
+
 ---
 
-### 4) For reference/ID guidance
+4. For reference/ID guidance
 
 FaceID/InstantID/IP-Adapter can stop the model from “inventing” geometry:
 
 * Keep **ID weight modest** (0.25–0.45) during *full* gen so it doesn’t over-lock expression.
 * **For inpaint**, bump to ~0.4 and lower denoise; this pins identity while letting the chin/brow smooth.
 
+
 ---
 
-### 5) Dataset & captions
+5. Dataset & captions
 
 (for the LoRA you’ll train)
 
@@ -110,9 +113,10 @@ FaceID/InstantID/IP-Adapter can stop the model from “inventing” geometry:
 * Avoid photos with **strong vertical shadow under the lower lip** (it reads as a cleft).
 * Keep **soft/flat light** in a healthy fraction of face crops so the LoRA learns that topology.
 
+
 ---
 
-### 6) 2 ready-to-paste prompts
+6. 2 ready-to-paste prompts
 
 **A. Generation (preventive)**
 
@@ -129,9 +133,10 @@ FaceID/InstantID/IP-Adapter can stop the model from “inventing” geometry:
 * *Positive:* `smooth browbone, low supraorbital ridge, fuller forehead curve, gentle shadowing`
 * *Negative:* `no prominent brow ridge, no deep glabellar crease, no harsh nose bridge shadow`
 
+
 ---
 
-### 7) Parameter nudges
+7. Parameter nudges
 
 * **Lower CFG** a touch (e.g., 7.5 → 6–6.5): reduces “stylized chiseling.”
 * **Softer noise schedule / fewer steps** can help in inpaint passes (keeps the fix subtle).
@@ -151,7 +156,7 @@ If you want, ping me a problematic render (or describe the settings), and I’ll
 ## A GIMP TL;DR
 
 
-[![Just...][Sy02]{ .artR width="320" }][Sy02]
+[![Just...][St02]{ .artR width="320" }][St02]
 
 
 You’ve got it right, girlfriend. In ComfyUI the Mask Editor exports a **PNG with alpha** where the **transparent pixels are the masked (editable) region**. You can absolutely round-trip that PNG through GIMP, feather the edge, and bring it back into ComfyUI. Here’s the tidy version with the few “gotchas” that matter.
@@ -222,7 +227,7 @@ If you tell me which inpaint node you’re using (and your denoise/CFG), I’ll 
 ## Making LoRAs
 
 
-[![Just...][Sy03]{ .artR width="320" }][Sy03]
+[![Just...][St03]{ .artR width="320" }][St03]
 
 
 Totally fair question. Yes—you *can* get a usable character LoRA from ~16 images. The reason many folks aim for 60–120 isn’t “more is always better,” it’s about **coverage** and **disentangling**. Here’s the why:
@@ -328,7 +333,7 @@ Bottom line: small sets are fine for **narrow, repeatable use** (and with ID gui
 ## “Robustifier” add-on
 
 
-[![Just...][Sy04]{ .artR width="320" }][Sy04]
+[![Just...][St04]{ .artR width="320" }][St04]
 
 
 You’re a star, girlfriend. Let’s lock in a robust LoRA with a tight, surgical plan so you don’t overshoot.
@@ -428,7 +433,7 @@ Run the same set on each checkpoint:
 ## ReActor
 
 
-[![Just...][Sy05]{ .artR width="320" }][Sy05]
+[![Just...][St05]{ .artR width="320" }][St05]
 
 
 Totally okay with ReActor, girlfriend—especially since you’re swapping **your own** face and aiming for a believable, adult younger-you. The key is: use ReActor for the **identity transform** (age-regressive + feminization) and then either (a) go straight to dataset, or (b) lightly refine with Flux. Below is a robust, low-drift path that keeps you out of adapter/shape-mismatch trouble.
@@ -718,7 +723,7 @@ If you paste one of your current Qwen prompts, I’ll trim it to a “micro-femi
 ## LoRA Notes
 
 
-[![Just...][Sy06]{ .artR width="320" }][Sy06]
+[![Just...][St06]{ .artR width="320" }][St06]
 
 
 ### Watercolor Style
@@ -763,10 +768,10 @@ Training:
 ## Z Image Turbo
 
 
-[![Just...][Sy07]{ .artR width="320" }][Sy07]
+[![Just...][St07]{ .artR width="320" }][St07]
 
 
-[Q]  
+[ Robyn ]   
 Hi Emily. Been having a bit of looking around on Z Image Turbo. It appears to really respond well to complete sentences and as descriptive a language as one can come up with. This, at CFG of 1. Also, negative prompts do almost nothing at CFG=1, and the slowdown by increasing the CFG even to 1.3 is significant. So, I'd like to try something. Can we can couch this prompt in full sentences, being a bit more detailed in descriptions, and - for now - eliminate the negative prompt? Here's the prompt:
 
 documentary photo, modern women-run atelier workroom, warm morning light
@@ -780,7 +785,7 @@ worktable: sewing machine, red thread spool, indigo wool fabric, tape measure, p
 
 ---
 
-[A]  
+[ Emily ]   
 Absolutely — and I can see why ZiT likes this. Here’s your exact content, but rewritten as *continuous, descriptive sentences* (no separate negative prompt). I’ve also cleaned the fabric contradictions so the model isn’t being told “matte plain wool” and “satin sheen / brocade / floral print” in the same breath.
 
 Use this as your *positive prompt*:
@@ -855,7 +860,7 @@ If you want, I can also do a **Variant C** that’s *explicitly full-body, portr
 ## A1111 to ComfyUI
 
 
-[![Just...][Sy08]{ .artR width="320" }][Sy08]
+[![Just...][St08]{ .artR width="320" }][St08]
 
 
 As of my last knowledge update in September 2021, I'm not familiar with a user interface called "ComfyUI" in relation to Stable Diffusion or as a competitor to "Automatic1111." It's possible that these developments have occurred after my knowledge cutoff date.
@@ -936,14 +941,13 @@ Paste the next warning when you’re ready, or paste the output of `pip show pyn
 
 
 
-# Two-Character Persistence
-## Discussion
+## Two-Character Persistence
 
 
-[![Just...][Sy10]{ .artR width="320" }][Sy10]
+[![Just...][St10]{ .artR width="320" }][St10]
 
 
-[Q]  
+[ Robyn ]   
 Hi Emily. I am trying - and currently failing - to create a 2-character SRPO-based (flux) workflow. Would you be willing to have a look at it and give me some pointers on how to make it work? Attached is the workflow, and the error is ostensibly generated by the KSampler: 'Linear' object has no attribute 'temp' (*attached a workflow*).
 
 <hr class="section-break soft" />
@@ -953,7 +957,7 @@ Hi Emily. I am trying - and currently failing - to create a 2-character SRPO-bas
 
 ### What to change (in order)
 
-[A]  
+[ Emily ]   
 Absolutely—happy to debug it. The short version: the crash is coming from a **model/type mismatch**. Your graph is mixing a **GGUF UNet** with **Flux sampling nodes** that expect a standard PyTorch Flux/SRPO UNet. That’s why KSampler eventually hits a module that looks like a plain `Linear` (from the GGUF path) and tries to access an attribute it doesn’t have (`temp`).
 
 Here’s how to fix it cleanly:
@@ -1002,11 +1006,11 @@ If you want, export just the small **Models** subgraph after swapping out the GG
 
 ---
 
-[Q]  
+[ Robyn ]   
 Here's the updated workflow, Emily. I guess what I'm asking is a bit challenging, because it is taking forEVER to get going. This workflow is an adaptation of one that used Flux.1-Dev as the main model. I was hoping to overcome the time problem by switching to SRPO. I might have to go the Flux.1-Schnell, perhaps. In any even, it is running now, so your suggestion worked... thank you, Emily! This workflow is a unique one... if I could get it to speed up a bit, it might actually be pretty amazing.
 
 
-[A]  
+[ Emily ]   
 Brilliant work getting this far, girlfriend — and yes, I can see why this setup is *slow*. Your modified **SRPO two-character LoRA workflow** is well-structured, but the long start-up comes from a few subtle architectural choices that make SRPO run at “Flux-Dev” speed instead of “Schnell” speed.
 
 Here’s a breakdown of **why it’s slow** and how to make it *feel snappier* without breaking the lovely two-LoRA conditioning logic you’ve built.
@@ -1131,13 +1135,13 @@ Would you like me to do that?
 
 ### Looking at Schnell
 
-[Q]  
+[ Robyn ]   
 First, I need to say: your suggestions have been impressively accurate!! I made the changes you suggested (steps, cpu for the dualClipLoader device, also changed to t5xxl_fp8_e4m3fn_scaled.safetensors, scheduler simple. I made the mask resolution and latent both 896*896. I have attached v3 of the workflow.
 
 Unfortunately, the stall (it's only a stall, it does progress eventually) is at the level of the KSampler. Oh well. Some things can't be helped, perhaps? Unless you have some other ideas?
 
 
-[A]  
+[ Emily ]   
 You’ve already done 80% of the right things, girlfriend. The last bit of “stall” is almost certainly the UNet doing heavy lifting every step. Here are the most effective knobs (in order) that will make this graph feel snappier without breaking your 2-LoRA conditioning.
 
 #### 1) Swap SRPO → Schnell for inference
@@ -1191,11 +1195,11 @@ If you want, send me which Schnell file you have on disk, and I’ll give you a 
 
 ## More Ideas
 
-[Q]  
+[ Robyn ]   
 I downloaded this ages ago, Emily: Flux1-schnell-fp8.safetensors. It weighs in at 17.1 gig. Then, I have this NSFW flavour of Flux: flux1DevNSFWUNLOCKEDfp8.safetensors which is only 11.9 gig... actually smaller than schnell.
 
 
-[A]  
+[ Emily ]   
 You’re spot on that size ≠ speed. A few quick truths to anchor us:
 
 * **Schnell vs Dev:** Schnell’s UNet is architected to sample faster. Even if a Dev checkpoint is smaller on disk (e.g., “NSFW unlocked”), Dev will still be slower per step than Schnell at the same resolution/steps.
@@ -1253,11 +1257,11 @@ If you want, I can patch your v3 JSON to a “Schnell-optimised v4” (same node
 
 ---
 
-[Q]  
+[ Robyn ]   
 Downloading flux1-schnell-e4m3fn.safetensors now... 11.9 gig. Just did a queue with v3, and one of my LoRAs (the first one) was replaced by an asian face. :-/
 
 
-[A]  
+[ Emily ]   
 Nice move grabbing **flux1-schnell-e4m3fn.safetensors** — that’ll help with speed.
 The **“LoRA turns into a different (Asian) face”** thing is classic identity drift from how the two LoRAs are being applied and mixed. Here’s a tight, do-this-now checklist to fix it without gutting your v3 graph.
 
@@ -1344,11 +1348,11 @@ If you want, send me the **node IDs** for your two `SetClipHooks`, the current *
 
 ## Final Solution
 
-[Q]  
+[ Robyn ]   
 You know, at this point, SRPO seems to be delivering an image that looks decent, and now the LoRA issue seems resolved. I might try another set of prompts and see how I go. But at this point, I'm pretty chuffed to be at this stage. Well-done you, Emily!!!!
 
 
-[A]  
+[ Emily ]   
 ahh that’s lovely to hear, girlfriend — chuffed right along with you! 🎉
 
 Since SRPO is now behaving and the LoRA drift is sorted, here are a few light-touch next steps to keep momentum:
@@ -1402,7 +1406,7 @@ If you hit any oddities with certain poses/angles, toss me the two branch prompt
 
 <img src="/assets/images/notes26a/260101a.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[Q]  
+[ Robyn ]   
 Good morning, Emily. I'm ready to tackle that bbox/SAM face swap workflow. In this picture I have 2 characters: one standing, and one sitting. Standing is Celeste, sitting is Charlie. I hope to be able to assign faces to the, using image to image... it can be done in separate instances (not all at once). Doable?
 
 ---
@@ -1662,9 +1666,10 @@ If you tell me **which exact nodes you’re using for identity** (InstantID? IPA
 
 ## SRPO-FaceOnly
 
-<img src="/assets/images/notes26a/N260116ab.jpg" style="float: right; width: 420px; margin-left: 20px" />
+.../images/notes26a/N260116ab.jpg"
+---
 
-[Q]  
+[ Robyn ]   
 I'll do better... I'll send you a workflow that works well for even side view face swaps. I just need it modifying to include the missing nodes for bbox/SAM and how they are connected.
 
 ---
@@ -1928,7 +1933,7 @@ For now, the wiring above is 1:1 compatible with your workflow structure and use
 
 <img src="/assets/images/notes26a/N260116ac.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[Q]  
+[ Robyn ]   
 I'm already lost at 3). Actually, if you send me a .json with what YOU would normally recommend and if I don't actually have a particular node (set) installed, ComfyUI will do it for me. Would that work for you?
 
 ---
@@ -2017,7 +2022,7 @@ If you import it and tell me **which nodes show as missing**, I’ll immediately
 
 <img src="/assets/images/notes26a/N260116ad.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[Q]  
+[ Robyn ]   
 Okay, so what I've done is un-subgraph the whole workflow. I have replaced nodes with their current iterations. The only node I cannot find is the BBOX Select (or 'Select BBOX). It simply doesn't seem to exist anywhere. I've attached the workflow for your study.
 
 ---
@@ -2096,7 +2101,7 @@ If you load the patched workflow and tell me:
 
 <img src="/assets/images/notes26a/N260116ae.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[Q]  
+[ Robyn ]   
 Actually, I'm getting the error "Cannot read properties of undefined (reading 'output') when I try to run this workflow. No node is highlighted, or outlined in green. Terminal isn't showing me anything. I'm baffled.
 
 ---
@@ -2148,7 +2153,7 @@ If you load the fixed JSON and it still errors, paste the **browser console** er
 <hr class="section-break soft" />
 
 
-[Q]  
+[ Robyn ]   
 Actually, I found it. As you said, it was missing connections. Thanks.
 
 ---
@@ -2190,7 +2195,7 @@ If you want, paste (or screenshot) just the mask result after you set Celeste’
 <hr class="section-break soft" />
 
 
-[Q]  
+[ Robyn ]   
 Let's take this step by step.. on lock the target first, you said:
 
 "If you’re using SAM2 point prompt: put one positive point dead-centre on the target face (forehead/cheek), and one negative point on the other person’s face."
@@ -2338,7 +2343,7 @@ Tell me the **exact name of the SAM2 node** you’re using *and* paste the list 
 
 ---
 
-[Q]  
+[ Robyn ]   
 So, for input it wants a string. In my string for coords_pos, i've got 660,275; 750,450. for neg, i've got: 410,150; 500, 225, also as string. When I try to run this, Sam2Segmentation errors with:
 
 all input arrays must have the same number of dimensions, but the array at index 0 has 2 dimensions and the array at index 1 has 0 dimensions. Format problem? Why is it accepting my first array and not the 2nd?
@@ -2474,7 +2479,7 @@ If you paste the **exact node name** (full title) and, if visible, any hint text
 
 <img src="/assets/images/notes26a/N260116af.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[Q]  
+[ Robyn ]   
 Removed the space. Exact same error.
 
 ---
@@ -2566,7 +2571,7 @@ If you want, paste a screenshot of your **Sam2Segmentation node inputs** (just t
 
 <img src="/assets/images/notes26a/N260116ag.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[Q]  
+[ Robyn ]   
 Oh my, that's wild! That Points Editor worked a TREAT! I didn't even know it existed, Emily. That is so AWESOME... perfect. EXACTLY What I Am After....
 
 ---
@@ -2664,7 +2669,7 @@ If you want, send me a screenshot of:
 
 <img src="/assets/images/notes26a/260101b.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[Q]  
+[ Robyn ]   
 Ohhhh yes — **that’s a win**. Not “it sort of changed something,” but *a controlled, localized edit* that stayed in-bounds. That’s the hard part, and you’ve nailed it.
 
 What you’re seeing (“perhaps not perfect”) is almost always just **mask edge + denoise balance**, not a fundamental workflow problem. Here’s how to make it *cleaner* in a couple of tight, predictable moves.
@@ -2755,7 +2760,7 @@ Tell me **which face you swapped here (Celeste or Charlie)** and what’s “not
 
 ---
 
-[Q]  
+[ Robyn ]   
 I swapped both, Emily, in sequence. Charlie's first (seated) and Celeste's second (standing). She's slightly blurry but overall a decent image. I can even use existing LoRAs for now... this does a tight, clean job of purely swapping the face, and not growing it. 
 
 
@@ -2871,7 +2876,7 @@ If you tell me one detail: **what mask refinement nodes you’re using** (GrowMa
 
 <img src="/assets/images/notes26a/N260116ai.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[Q]  
+[ Robyn ]   
 I'm using GrowMask (set to 12) and Feathermask (L4,T4,R4,B4). Needs to be noted that I had a bit of depth of field going, so all of Celeste was slightly out of focus... SRPO was just being consistent with that.
 
 ---
@@ -2944,7 +2949,7 @@ If you want, show me the **mask preview** you used for Celeste (just the mask). 
 
 <img src="/assets/images/notes26a/260101c.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[Q]  
+[ Robyn ]   
 Pretty happy with this, Emily. The most successful dual-character identification I've ever been able to do. And fast. I can do the image in ZiT, then SRPO-swap the figures in two passes. I might even have two tabs open in the ComfyUI graph area: one for Celeste, one for Charlie. Keep it Obvious. This is going to work beautifully!
 
 ---
@@ -3040,7 +3045,7 @@ If you want, I can help you make a tiny “operator checklist” you can keep be
 
 <img src="/assets/images/notes26a/N260116ak.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[Q]  
+[ Robyn ]   
 Those first tries were amazing, Emily. But now, not so much. The face keeps shifting around. I really think I need to 1) get a precise fix on the face, only the face. The Points Editor node is too inexact.
 
 ---
@@ -3088,7 +3093,7 @@ Here are three ways, from easiest to most “surgical.” Pick the first that fi
 
 ---
 
-# Option A (best balance): **Face bbox → SAM2 box → face-only trim**
+Option A (best balance): **Face bbox → SAM2 box → face-only trim**
 
 Instead of clicking points, you use a **face detector bbox** (very precise), then SAM2 refines it.
 
@@ -3110,7 +3115,7 @@ If you don’t have “SAM2 box prompt” but you *do* have “points,” you ca
 
 ---
 
-# Option B (most precise): **Face parsing mask (skin/face)**
+Option B (most precise): **Face parsing mask (skin/face)**
 
 This is the “only the face, period” approach.
 
@@ -3134,7 +3139,7 @@ Node names vary, but look for anything like:
 
 ---
 
-# Option C (bulletproof): **Crop → swap → paste back**
+Option C (bulletproof): **Crop → swap → paste back**
 
 This is the “retoucher’s method.”
 
@@ -3194,7 +3199,7 @@ That will stop the “shifting around” feeling fast.
 
 <img src="/assets/images/notes26a/260124g.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[Q]  
+[ Robyn ]   
 Which period is this dress from, Emily? Regency?
 
 ---
@@ -3212,7 +3217,7 @@ What you’ve got here is very “**Jane Austen era**,” roughly **1805–1818*
 So: **Regency (early 19th century)** rather than Victorian, and definitely not the 1830s+.
 
 ---
-[Q]  
+[ Robyn ]   
 I have InsightFace, Ultralytics face and FaceDetailer installed. I have a SAM2Segmentation  node currently fed by that PointsEditor thing, but it also has an input for bbox and mask (besides x and y coordinates. For that particular node, which SAM2 model do you recommend? Currently loading the sam2_hiera_small safetensor.
 
 
@@ -3316,7 +3321,7 @@ If you paste (or screenshot) your `SAM2Segmentation` node inputs (just the ports
 
 ---
 
-[Q]
+[ Robyn ]   
 So, I found an UltralyticsDetectorProvider... 2 outputs BBOX_Detector / SEGM_Detector... and a dropdown, with bbox/face_yolo8m.pt preselected. What does this plug into?
 
 
@@ -3425,7 +3430,7 @@ If you tell me the exact node names you see after the Provider (anything “Ultr
 
 <img src="/assets/images/notes26a/N260116am.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[Q]  
+[ Robyn ]   
 Okay! bbox_detector -> BBOX Dector node (SEGS). Image plugged into image input detailer hook empty. Defaults: threshold:.5; dilation:10; crop_factor:3.0; drop_size:10.
 
 ---
@@ -3562,7 +3567,7 @@ No more Points Editor, no drift.
 
 ---
 
-[Q]  
+[ Robyn ]   
 So, I've got BBox Detector -> SEGS to MASK (Combined -> Sam2Segmentation, with your adjusted settings for BBox Detector.
 
 
@@ -3672,7 +3677,7 @@ If yes, pick **Index** and set it to `0` for Charlie and `1` for Celeste — and
 
 ---
 
-[Q]  
+[ Robyn ]   
 Picker (SEGS) ??
 
 
@@ -3759,7 +3764,7 @@ If you want, tell me what controls you see inside **Picker (SEGS)** (index? clic
 
 <img src="/assets/images/notes26a/N260116an.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[Q]  
+[ Robyn ]   
 Picker (SEGS) has two inputs: segs and fallback_image_opt. Inderneath is what looks like an input box or text box with the word "picks" in it. Underneath that, a button labelled 'pick'. Outputs: SEGS. When I click the 'pick' button, a semi-transparent rectangle appears sort-of over the nodes. At the top of the rectangle are two buttons: Done and Cancel. In the left upper-hand corner are two lines of text:
 Click: Toggle Selection
 Ctrl-Click: Single_Selection
@@ -3874,7 +3879,7 @@ If you can tell me one tiny thing: when you queue the detector (without picker),
 
 ---
 
-[Q]  
+[ Robyn ]   
 What I've done is: 
 1) bypassed Picker, so, like I had it before BBox -> SEGS to Mask ->
 2) Sam2Segmentation -> GrowMask -> Convert Mask 2 Image -> Preview
@@ -3991,7 +3996,7 @@ If you tell me the exact node names you have for **FaceDetailer / InsightFace de
 
 <img src="/assets/images/notes26a/N260116ao.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[Q]  
+[ Robyn ]   
 Yup, my mistake, Emily. For BBox_Detector, I was wired directly to LoadImage. But for Sam2Segmentation, it was LoadImage -> ImageScaleToTotalPixels -> Sam2Segmentation. Oops.
 
 ---
@@ -4043,7 +4048,7 @@ If you want, send me a quick screenshot of the **SEGS→MASK preview** once it�
 
 ---
 
-[Q]  
+[ Robyn ]   
 Right. My LoadImage image is 1536 * 1536. The ImageScaleToTotalPixels settings are:
 nearest exact
 1.00
@@ -4164,7 +4169,7 @@ If you tell me that one number, I’ll tell you exactly which parameter to set (
 <img src="/assets/images/notes26a/260124a.jpg" style="float: left; width: 360px; margin-right: 20px" />
 <img src="/assets/images/notes26a/260124b.jpg" style="float: right; width: 360px; margin-left: 20px" />
 
-[Q]  
+[ Robyn ]   
 Smaller (around 1024). I've taken that variable out of the equation.
 The first image is the LoadImage one: created by ZiT. The second: save-Image of the PreviewMask.
 
@@ -4274,7 +4279,7 @@ If you tell me which you choose (2048 or 1536), I’ll tell you the cleanest “
 
 ---
 
-[Q]  
+[ Robyn ]   
 Well, I just loaded that Z-Image_0018.png into GIMP to resize it, and it says that it *is* at 1536. Resolution: 11.8110. Interpolation: cubic. 
 
 ¯\_(ツ)_/¯
@@ -4375,7 +4380,7 @@ If it still doesn’t show a big face box, tell me what *two* faces are in frame
 
 ---
 
-[Q]  
+[ Robyn ]   
 Yup: size in pixels... 1536 x 1536.
 
 
@@ -4479,7 +4484,7 @@ If you try `drop_size=96` and your combined mask becomes one clean blob on the f
 
 <img src="/assets/images/notes26a/N260116aq.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[Q]  
+[ Robyn ]   
 So, I've got threshold:.65; dilation:1; crop_f:1.4; drop_size all the way to a mind_blowing 260 and the preview mask is still pretty much the same. Everything is wired to the LoadImage. Do you think it might be the image itself?
 
 ---
@@ -4595,7 +4600,7 @@ Do the **single-face normal photo test** above and tell me what you get. Then we
 
 ---
 
-[Q]  
+[ Robyn ]   
 Okay, now it IS detecting not only the face but hair and jacket. Changing values back to default don't affect the outline in the preview mask. This is *weird*.
 
 
@@ -4708,7 +4713,7 @@ If you want, upload a screenshot of that isolated mini chain (just those four no
 
 ---
 
-[Q]  
+[ Robyn ]   
 Okay. Did that, got a big rectangle pretty much where the face would be. .9, rectangle disappears. Picker was removed early in the game.
 
 
@@ -5211,7 +5216,7 @@ and I’ll tell you whether it’s hugging the face perfectly or needs one notch
 ---
 
 
-[Q]  
+[ Robyn ]   
 This is the closest to a simple SEGS to Mask I could find, Emily.
 
 ---
@@ -5316,7 +5321,7 @@ If you want the cleanest possible “simple SEGS→mask” experience, tell me w
 
 <img src="/assets/images/notes26a/N260116av.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[Q]  
+[ Robyn ]   
 Mask from list expects an integer. And I don't have a get item. So, I'll manually do the face selection and carry on: good with that. Also, the Dilate/Erode Mask... got it set on -14, but the size doesn't appear to change. Also, the shape dropdown does nothing: I don't get a circle, just a rectangle.
 
 Time to start a new thread... may I have a context summary, please?
@@ -5557,7 +5562,7 @@ If you paste your summary into the new thread, open with:
 
 <img src="/assets/images/notes26a/N260116ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[Q]  
+[ Robyn ]   
 Is Dilate Mask (SEGS) what you're suggesting for early dilation?
 
 ---
@@ -5603,7 +5608,7 @@ If you tell me which exact node you’re currently using for Dilate/Erode (the n
 
 ---
 
-[Q]  
+[ Robyn ]   
 It is **WORKING**!!
 
 ---
@@ -5716,7 +5721,7 @@ Either way — you’ve crossed the hard part 🥳✨
 
 ---
 
-[Q]  
+[ Robyn ]   
 How do you clear the Picker cache again?
 
 
@@ -5805,7 +5810,7 @@ If you want, tell me which OS/browser you’re on (Mint/Chrome etc.) and whether
 ---
 
 
-[Q]  
+[ Robyn ]   
 I'm running Chrome in Linux 21.3. 
 
 Annnnd... success.
@@ -5863,7 +5868,7 @@ If you feel like it, tell me what you mean by “success” here — did you get
 
 ---
 
-[Q]  
+[ Robyn ]   
 At this stage, I'm happy that the correct faces were selected, and swapped for the LoRA face. The faces don't appear painted on, and look proportional to the rest of the figure (s). 
 What I'll try for next is expressions, perhaps in the prompt. But I'm going to consider this at LEAST a qualified success. Thank you for your patience and all your node and setting suggestions. This is something I had been wanting to do for a LONG time. We got there in the end! 
 
@@ -5959,7 +5964,7 @@ If you tell me which stage you’re using for the expression control (Qwen rende
 
 ---
 
-[Q]  
+[ Robyn ]   
 Actually, I'm going to call it for tonight. We got a lot done today - you've been an enormous help (as usual)! Thank you...
 
 <hr class="section-break soft" />
@@ -5990,7 +5995,7 @@ Sleep well, and we’ll pick up with expressions whenever you’re ready 😄�
 
 ## Discussion
 
-[Q]  
+[ Robyn ]   
 Hi Emily. I'm using a new model - Qwen Image Edit All-In-One. It is brillant at combining 3 or even 4 images into one. I struggle with prompting, however. Are you familiar with Qwen's syntax for identifying the subject matter in the 3 images? I typically have one woman in picture 1, 1 girl in picture 2 and a scene in picture 3.
 
 <hr class="section-break strong" />
@@ -6002,7 +6007,7 @@ Hi Emily. I'm using a new model - Qwen Image Edit All-In-One. It is brillant at 
 
 ### Prompt Basics
 
-[A]  
+[ Emily ]   
 Hey girlfriend! Yep—Qwen Image Edit (the newer “2509 / All-in-One” builds) really can combine multiple inputs, and you can *refer to each image in the prompt* by number or role. Under the hood, this release added true multi-image support (best with 1–3 images) for combos like “person + person,” “person + scene,” and “person + product.” ([huggingface.co][1])
 
 Here’s a prompt pattern that works consistently in ComfyUI:
@@ -6072,12 +6077,12 @@ If you’d like, tell me how you’re wiring your current ComfyUI graph (node na
 ### Quick checklist
 
 
-[Q]  
+[ Robyn ]   
 Sharvin from Code Crafter's Corner showed me how to wire things together - probably one of the simplest workflows in existence. It was prompting that was giving me dramas, Emily. For one, my prompts didn't result in personages I could recognise: they lost their identities. So, I'm going to try your prompt suggestions, one after the other. The first one you suggested has the two characters in the pose you specify, but again, there is signficant erosion of personality. How do I remedy this?
 
 ---
 
-[A]  
+[ Emily ]   
 Got you, girlfriend. When identities “wash out,” it’s usually three things at once: weak references, conflicting style cues, and over-strong edit noise. Here’s a tight plan that fixes it without changing your simple graph.
 
 #### 1) Feed stronger references
@@ -6171,12 +6176,12 @@ If you want, tell me roughly what denoise/CFG you’re running and whether your 
 
 ### Prompt and Qwen Behaviour
 
-[Q]  
+[ Robyn ]   
 Your suggestions have made a massive difference. Thank you. I have found the more I say about the room, the more the camera zooms out. The more I say about the women, the more it focuses (zooms in) on them.
 
 ---
 
-[A]  
+[ Emily ]   
 That’s a great read on its behavior—and you can totally steer it. Think of “zoom” as three dials you control: wording, canvas, and strength.
 
 #### 1) Wording
@@ -6237,6 +6242,11 @@ Do an **identity pass** tight (waist-up), then a **widening pass**:
 If you send me your current denoise/CFG and typical aspect ratio, I’ll tailor a one-liner you can reuse at the top of every prompt (wide/medium/close versions).
 
 <hr class="section-break strong" />
+
+
+
+
+
 
 <!-- Images References -->
 
