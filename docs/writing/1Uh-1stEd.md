@@ -4324,15 +4324,15 @@ She picked the bag up and carried it like it held significance. She walked down 
 
 “You can take your shoes off,” I heard her say, “if you'd like.”
 
-I slipped my shoes off automatically. My hands started shaking again now that I’d stopped moving, as if my body had waited for safety before it began to misbehave. Sarah noticed, of course, but didn’t point it out. Instead, she went to the kitchen.
+I slipped my shoes off. My hands had started shaking again, as if my body had waited for safety before it began to misbehave. Sarah noticed, of course, but said nothing. Instead, she disappeared into the kitchen.
 
 “I’m famished,” she said. “Can I make you a sandwich?”
 
-A sound came out of me that might have been a laugh. Thin, a bit humiliating. Sarah’s mouth curved briefly, gratified at the sound. 
+A sound came out of me that might have been a laugh. Sarah's face appeared. 
 
 "Is that a yes? You okay with bone ham?"
 
-I nodded. She turned to the fridge with brisk competence.
+I nodded. She returned to the fridge with brisk competence.
 
 I hovered at the end of the hallway, unsure where to put myself. I felt like a guest in a life I’d never imagined stepping into. The gentle, human warmth from Sarah’s home settled slowly through me. I thought, suddenly and stupidly, of what I had just left. Of half-finished jobs: doors that didn’t close properly, drawers that stuck, things left slightly wrong.
 
@@ -4346,7 +4346,7 @@ I sat down slowly.
 
 We ate in silence.
 
-As she put the empty plates in the kitchen, she pointed to the brown brushed leather couch in her living room. It was firm, clean, with a throw folded neatly at one end, placed there. Sarah took an armchair after pressing a cup of herbal tea into my hands. The tea smelled like chamomile and something sharper — ginger, maybe. 
+As she put the empty plates in the sink, she pointed at the brown brushed leather couch in her living room. It was firm, clean, with a throw folded neatly at one end. Sarah pressed a cup of herbal tea into my hands, then settled into an armchair. The tea smelled like chamomile and something sharper — ginger, maybe. 
 
 We sat for a moment. The kettle clicked softly as it cooled. A clock ticked faintly in the kitchen.
 
@@ -4382,35 +4382,41 @@ I sighed and briefly shook my head.
 
 I looked at her face and something painful and bright moved in my chest.
 
-“Thank you,” I heard myself say, my voice smaller than I wanted. Sarah made a face.
+“Thank you,” I heard myself say, my voice smaller than I wanted.
 
-“I’m not doing this for points,” she said.
+Sarah made a face.
+
+“I’m not doing this for points.”
 
 I looked down into my tea.
 
 My eyes stung.
 
-Sarah didn’t pretend not to notice, but sat carefully beside me. She reached for the throw, unfolded it with brisk precision, and laid it across my lap.
+I felt Sarah sit down beside me on the couch. She reached for the throw, unfolded it with brisk precision, and laid it across my lap.
 
-“I’m going to ask you a question.” Her voice was lower now, careful in a way I had never heard before. “And you can say no. Promise I’ll be normal about it.”
-
-My heart thudded.
-
-“Okay.”
+“I’m going to ask you a question.” Her voice was low now, careful. “And you can say no. Promise I’ll be normal about it.”
 
 A pause.
 
 “Would you like a hug?”
 
-Such a simple sentence. It hit me like an ocean wave. My mouth opened. No sound came out.
+Such a simple sentence. 
+
+It hit me like an ocean wave. 
+
+My mouth opened. No sound came out.
 
 Sarah waited, utterly still, the offer echoing in her soft eyes.
 
 I nodded — sharp, helpless.
 
-Sarah exhaled like she’d been holding herself back from something and pulled me in.
+She exhaled like she’d been holding herself back and pulled me in.
 
-It wasn’t a delicate hug. It wasn’t the awkward pat-pat of social obligation. It was firm and full-bodied — arms around my shoulders, a hand cradling the back of my head.
+It wasn’t a delicate hug. 
+
+It wasn’t the awkward pat-pat of social obligation. 
+
+It was firm and full-bodied — arms around my shoulders, a hand cradling the back of my head.
 
 A small broken sound escaped into her shoulder and I hated myself for it.
 
