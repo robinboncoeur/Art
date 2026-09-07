@@ -4320,9 +4320,9 @@ The lump in my throat came so quickly I had to look away. I stared at a framed p
 
 Sarah peered at me, lips pressed into a tight smile. “You brought enough.”
 
-She picked the bag up and carried it like it held significance. She walked ahead down the hall and flicked on a lamp so the light came up soft and warm. It caught the edges of her hair and turned them gold.
+She picked the bag up and carried it like it held significance. She walked down the hall and flicked on a lamp so the light came up soft and warm. It caught the edges of her hair and turned them gold.
 
-“You can take your shoes off,” Sarah said gently, “if you'd like.”
+“You can take your shoes off,” I heard her say, “if you'd like.”
 
 I slipped my shoes off automatically. My hands started shaking again now that I’d stopped moving, as if my body had waited for safety before it began to misbehave. Sarah noticed, of course, but didn’t point it out. Instead, she went to the kitchen.
 
