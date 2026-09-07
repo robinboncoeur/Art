@@ -4370,9 +4370,9 @@ Sarah nodded, unsurprised.
 
 “Regardless,” she said. “We need a plan. There’s no negotiating with someone who thinks the world is an argument he can’t lose.”
 
-My hands tightened around the mug. Sarah stood and went to the small table by the door. She tapped her phone, then set it down with care.
+My hands tightened around the mug. Sarah went to the small table by the door and picked up her phone.
 
-“Leave your ringer on,” she said. “And leave your phone in the kitchen." She pressed her lips together.
+“Leave your ringer on,” she said. “And leave your phone here, next to mine."
 
 I stared at her.
 
