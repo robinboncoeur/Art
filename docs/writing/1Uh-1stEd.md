@@ -4362,7 +4362,7 @@ Heat crept up my neck. Even now, trained reflexes tried to make an unpleasant tr
 
 “He does,” I admitted, “but I still don't think he knows where you live.”
 
-Sarah nodded, unsurprised.
+Sarah nodded, unconvinced.
 
 “Regardless,” she said. “We need a plan. There’s no negotiating with someone who thinks the world is an argument he can’t lose.”
 
