@@ -27,7 +27,8 @@ Fille
 Finlayson
 Finzi
 frother
-G'day
+[Gg]'day
+[Gg]'night
 Gartner
 Giaconda
 Gliga

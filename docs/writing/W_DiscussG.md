@@ -695,7 +695,7 @@ Instead, each person supplies one piece:
 
 **Charlie reveals the obstacle** — he has no viable alternative and is still prioritising everyone else's comfort over his preference.
 
-**Sarah reframes the problem** — it doesn't have to be permanent *or* one night.
+**Sarah re-frames the problem** — it doesn't have to be permanent *or* one night.
 
 **Mara returns the proposal to the people affected.**
 
