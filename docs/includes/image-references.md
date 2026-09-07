@@ -8,8 +8,8 @@
 [Brb02]: /assets/images/base/Bnr02b.jpg
 [Brc02]: /assets/images/base/Bnr02c.jpg
 [Bra03]: /assets/images/base/Bnr03a.jpg
-[Bra04]: /assets/images/base/Bnr04a.jpg
 [Brb03]: /assets/images/base/Bnr03b.jpg
+[Bra04]: /assets/images/base/Bnr04a.jpg
 [Bra25]: /assets/images/base/Bnr25a.jpg
 [Bra35]: /assets/images/base/Bnr35a.jpg
 [Brb35]: /assets/images/base/Bnr35b.jpg
@@ -140,6 +140,7 @@
 [Ot04]: /assets/images/other/overlocker04.jpg
 [Ot05]: /assets/images/other/overlocker05.jpg
 [Ot06]: /assets/images/other/overlocker06.jpg
+[Ot07]: /assets/images/other/SDXLWorkflow01.jpg
 [Ota1]: /assets/images/other/Anglesea1.jpg
 [Otb1]: /assets/images/other/Anglesea2.jpg
 [Otc1]: /assets/images/other/Anglesea3.jpg

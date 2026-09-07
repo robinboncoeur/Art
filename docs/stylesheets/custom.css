@@ -6,6 +6,11 @@
 	--hero-h: 120px;
 }
 
+/* Softer light-mode background */
+[data-md-color-scheme="default"] {
+    --md-default-bg-color: #f2efe8;
+}
+
 /* ===== Header shell ===== */
 .md-header {
 	position: fixed;
@@ -67,7 +72,7 @@
 
 /* ===== Top tabs ===== */
 .md-tabs {
-	height: 1.6rem;
+	height: 2rem;
 }
 
 .md-tabs__list {
@@ -75,12 +80,17 @@
 }
 
 .md-tabs__link {
-	font-family: "Libre Franklin", sans-serif;
-	font-size: 0.82rem;
-	color: #f8f8f8 !important;
-	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
-	margin-top: 1%;
-	margin-bottom: 1%;
+    font-family: "Libre Franklin", sans-serif;
+    font-size: 0.80rem;
+    color: #f8f8f8 !important;
+    opacity: 0.8;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
+    margin-top: .3rem;
+    margin-bottom: 1%;
+}
+
+.md-tabs__item--active .md-tabs__link {
+    opacity: 1;
 }
 
 .md-tabs__link:hover {

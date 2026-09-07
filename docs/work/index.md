@@ -1,7 +1,8 @@
 # Work: The Site
 
-[![Wardrobe][Br03]{ .artC width="1100" }][Br01]
-<!-- vale off -->
+
+[![Wardrobe][Brb02]{ .artC width="1100" }][Brb02]
+
 
 <hr class="section-break strong" />
 
@@ -12,9 +13,11 @@
 
 ## Markdown Cheatsheet
 
-[![Read][Stb1]{ .artR width="340" }][Stb1]
 
-This site uses MkDocs, which is a superset of markdown. This section will serve as reminder on markdown syntax. As I get information from [Emily](../work/01Emilyai.md) on other tech -- tasks that are more involved -- that tech will be given its own dedicated page.
+[![Writer][St00]{ .artR width="340" }][St00]
+
+
+This site uses MkDocs, which is a Super-Set of markdown. This section will serve as reminder on markdown syntax. As I get information from [Emily](../work/01Emilyai.md) on other tech -- tasks that are more involved -- that tech will be given its own dedicated page.
 
 For full documentation on MkDocs markdown, visit [mkdocs.org](https://www.mkdocs.org).  
 Here's the link for [the material theme](https://squidfunk.github.io/mkdocs-material/).
@@ -34,784 +37,66 @@ docs/
     index.md  # The documentation homepage.
     ...       # Other markdown pages, images and other files.
 ```
-
----
-
-Download Zed from Here:
-
-```bash
-curl -f https://zed.dev/install.sh | sh
-```
-
-
-<hr class="section-break strong" />
-
-
-
-
-
-
-
-
-### Inline images
-
-**Emily-Assisted**  
-For externally-stored images (most will be stored on GitHub, for my pages)::
-
-```
-![Me](https://art.tightbytes.com/assets/images/blog25/06-16Office.jpg){: align=left width=300 }
-```
-
-and for those stored with the data files::
-
-```
-![Celeste](images/C01-Aa.jpg){: align=left width=300 }
-```
-
-Not sure about this approach:
-
-```
-<figure>
-  <img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
-  <figcaption>Image caption</figcaption>
-</figure>
-```
-These pages more commonly have a html link:
-
-```
-<a href="/assets/images/blog25/06-16Office.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/blog25/06-16Office.jpg" alt="Me" width="300"align="right"></a>
-```
-
-...as it allows for a clickable image to open a larger version in a new tab. The HTML `<img>` approach really does offer a lot more flexibility when you're aiming for beautiful layouts or precise formatting in MkDocs with the Material theme. And best of all, it plays nicely with all your existing `assets/images/...` structure.
-
-If you need to:
-
-* **Center the image** → `style="display: block; margin: 0 auto;"`
-* **Make it responsive** → `style="max-width: 100%; height: auto;"`
-* **Add a light border or shadow** → `style="box-shadow: 0 0 5px rgba(0,0,0,0.2);"`
-
-<hr class="section-break strong" />
-
-
-
-
-
-
-
-
-### Embedded YouTube Video
-
-This code is no longer being used:
-
-```
-<video width="384" height="384" controls>
-  <source src="https://tightbytes.com/videos/Celeste/C01Aaa.mp4" type="video/mp4">
-</video>
-```
-
-Instead, videos are being hosted on Cloudflare. 
-
-```
-<div style="position:relative;padding-top:100%">
-    <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/420e07a7d02c25184d2faf7e6ff0b53c/iframe"
-    allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-    style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
-</div>
-```
-
-Simply change the number after '.com/' -- 420e07a7d02c25184d2faf7e6ff0b53c -- and before '/iframe'.  Quick-n-dirty way to make it not huge:
-
-```
-<style>
-  .flex-container {display: flex; gap: 20px; align-items: flex-start;}
-  .column {flex: 1 1 0; min-width: 0;}
-  .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
-</style>
-
-<!-- NOTE! DO NOT INDENT! MARKDOWN WILL FAIL!! /-->
-
-<div class="flex-container" markdown>
-<div class="column">
-
-<div style="position:relative;padding-top:100%">
-    <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/6c50151790d66b09f2d94d7c3096ec7d/iframe"
-    allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-    style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
-</div>
-
-</div>
-
-<div class="column column--right" markdown>
-</div>
-
-</div>
-
-```
-
-
-<style>
-  .flex-container {display: flex; gap: 20px; align-items: flex-start;}
-  .column {flex: 1 1 0; min-width: 0;}
-  .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
-</style>
-
-<div class="flex-container" markdown>
-<div class="column">
-
-<div style="position:relative;padding-top:100%">
-    <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/420e07a7d02c25184d2faf7e6ff0b53c/iframe"
-    allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-    style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
-</div>
-
-
-</div>
-<div class="column column--right" markdown>
-.
-</div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-### Embedded Audio
-
-This code:
-
-```
-		<audio controls="controls">
-		  <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
-		  Your browser does not support the <code>audio</code> element. 
-		</audio>
-```
-
-...produced:
-
-<audio controls="controls">
-  <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
-
-<hr class="section-break strong" />
-
-
-
-
-
-
-
-### Embedded Video
-
-This code:
-
-```
-<iframe width="560" height="315"    src="https://tightbytes.com/art/images/Cui/24/1750s/s02/LeRegarde01.mp4" frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen>
-</iframe>
-``` 
-
-...produces, from my site:
-
-<iframe width="560" height="315"    src="https://tightbytes.com/art/images/Cui/24/1750s/s02/LeRegarde01.mp4" frameborder="0"    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen>
-</iframe>
-
-(Note to self: took out  [  autoplay; ] )
-
----
-
-For Cloudflare, simply change out the number string after ".com/" and before "/iframe", in this instance, this number:  'f16255e78c021b7a0e5fae66ae554133'. So, this code:
-
-```
-<div style="position:relative;padding-top:56.25%">
-  <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/f16255e78c021b7a0e5fae66ae554133/iframe"
-          allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-          allowfullscreen
-          style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
-</div>
-```
-
-... produces, from Cloudflare:
-
-<div style="position:relative;padding-top:56.25%">
-  <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/f16255e78c021b7a0e5fae66ae554133/iframe"
-          allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-          allowfullscreen
-          style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
-</div>
-
-<!-- Save this:
-
-<video width="480" height="480" controls>
-  <source src="/assets/videos/C01.mp4" type="video/mp4">
-</video>
-
-/-->
-
-
-Emily suggests:
-
-<div style="position:relative;padding-top:56.25%">
-  <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/f16255e78c021b7a0e5fae66ae554133/iframe"
-          allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-          allowfullscreen
-          style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
-</div>
-
-or
-
-<div class="cf-player">
-  <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/f16255e78c021b7a0e5fae66ae554133/iframe"
-          allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-          allowfullscreen></iframe>
-</div>
-
-<style>
-  .cf-player{
-    aspect-ratio:1/1;
-    width:100%;
-    max-width:480px;     /* cap size if you like */
-    margin:auto;         /* center it */
-  }
-  .cf-player iframe{
-    width:100%;
-    height:100%;
-    border:0;
-  }
-
-  /* Fallback for very old browsers:
-  .cf-player{position:relative;padding-top:100%}
-  .cf-player iframe{position:absolute;inset:0}
-  */
-</style>
-
-... and even ...
-
-<div class="cf-player">
-  <iframe
-    src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/f16255e78c021b7a0e5fae66ae554133/iframe"
-    title="Cloudflare Stream video"
-    allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-    allowfullscreen
-    loading="lazy"></iframe>
-</div>
-
-<style>
-  .cf-player{
-    aspect-ratio:1/1;
-    width:100%;
-    max-width:480px;
-    margin:auto;
-    background:#111;          /* pleasant placeholder while loading */
-    border-radius:12px;
-    overflow:hidden;
-  }
-  .cf-player iframe{
-    display:block;
-    width:100%;
-    height:100%;
-    border:0;
-  }
-</style>
-
-... **05.Nov.2025**  
-Added this - thanks, Emily.
-
-<style>
-  /* two 384×384 iframes side by side */
-  .video-row {
-    display: flex;
-    gap: 16px;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: flex-start;
-  }
-  .video-row iframe {
-    width: 384px;
-    height: 384px;
-    border: 0;
-    border-radius: 8px; /* optional */
-  }
-  /* Stack on narrow screens */
-  @media (max-width: 820px) {
-    .video-row { flex-direction: column; align-items: center; }
-  }
-</style>
-
-<div class="video-row">
-  <iframe
-    src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/6978db4dbc1c3046f3aa321ff664b1dd/iframe"
-    title="Version Française"
-    loading="lazy"
-    allow="autoplay; fullscreen; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-
-  <iframe
-    src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/4dfe30900934badaea9190c99103c567/iframe"
-    title="English Version"
-    loading="lazy"
-    allow="autoplay; fullscreen; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
-
-
-<hr class="section-break strong" />
-
-
-
-
-
-
-
-
-### Creating Dotpoints
-
-Once you've decided:
-
-* Select A.  
-* Select B.  
-* To identify C.  
-* Finally, click on D.  
-
-Note: *setting things to italics like this makes more impact - these have yielded reasonable results. You will almost certainly find better settings, which is the whole point of sharing this*.
-
-<hr class="section-break strong" />
-
-
-
-
-
-
-
-
-
-### Links Management
-
-Here's a typical example of embedding a link: Blender-for-Mac users, please refer to the [Mac user help](http://blender.stackexchange.com/questions/6173/where-does-console-output-go) page.
-
-<hr class="section-break strong" />
-
-
-
-
-
-
-
-
-### Horizontal Separator Lines
-
-The code is this (minus the '*')::
-
-```
-<hr class="section-break strong" />
-```
-
-...which produces the following grey horizonal bar to help separate sctions (like the one below).
-
-<hr class="section-break strong" />
-
-
-
-
-
-
-
-
-### HTML and CSS
-
-**Grid for two simple layouts**:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r1IitKbJRFE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-**Slide Show**:
- 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WJERnXiFFug" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-[CSS stuff](https://ishadeed.com/article/conditional-css-has-nth-last-child/?utm_source=convertkit&utm_medium=email&utm_campaign=Why+people+use+CSS+frameworks%20-%2010872019)
-
-[AstroDocs](https://docs.astro.build/en/editor-setup/)
-
----
-
-**Do Not Show On Page**
-
-<!-- Everything within these tags will not show on the page 
-
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://www.tightbytes.com/index.html
-    - icon: fontawesome/brands/bluesky
-      link: https://bluesky.com/_____sveil
-
-
-/-->
-
-
-
-**01.Nov.2025**   
-Left-right images
-
-<a href="/assets/images/blog25/06-1nnn.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/blog25/06-1nnn.jpg" alt="Victorian Train-front" width="360" align="left"></a>
-
-<a href="/assets/images/blog25/06-2nnn.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/blog25/06-2nnn.jpg" alt="Victorian Train-back" width="360" align="right"></a>
-
-<hr class="section-break strong" />
-
-/-->
-
-
-
-<!--
-
-Video
-
-<div style="position:relative;padding-top:56.25%">
-  <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/8cd2f116617fd567782e073f7fb11311/iframe"
-          allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-          allowfullscreen
-          style="border:none;position:absolute;inset:0;width:75%;height:75%"></iframe>
-</div>
-/-->
-
-
-<!--
-
-Links 😕 🤭
-
-... [bit of work](../other/Garden25.md#garden-bed-liner) ...
-
-... [our Discussion](../visual/Person2.md) ...
-
-
-for yaml
-
-extra:
-  social:
-    - icon: fontawesome/brands/bluesky
-      link: https://bluesky.com/_____sveil
-    - icon: fontawesome/brands/github
-      link: https://www.tightbytes.com/index.html
-
-/-->
- 
-
-
-<!--
-
-Pics Group
-
-<style>
-  .flex-container {display: flex; gap: 20px;}
-  .column {width: 100%;}
-</style>
-
-<div class="flex-container">
-  <div class="column">
-
-    <a href="/assets/images/emily/46-1Serene.jpg" target="_blank" rel="noopener">
-    <img src="/assets/images/emily/46-1Serene.jpg" alt="Serene" width="280"></a>
-
-    <a href="/assets/images/emily/46-2Cross.jpg" target="_blank" rel="noopener">
-    <img src="/assets/images/emily/46-2Cross.jpg" alt="Cross" width="280"></a>
-
-    <a href="/assets/images/emily/46-3Happy.jpg" target="_blank" rel="noopener">
-    <img src="/assets/images/emily/46-3Happy.jpg" alt="Happy" width="280"></a>
-
-  </div>
-</div>
-
-/-->
-
-
-
-<!--
-
-Insta Link
-
-*Questions? Comments? Want the workflow? Leave me a note on* 
-<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
-
-<hr class="section-break strong" />
-
-
-
-/-->
-
-
-a cute little shorts gallery 💅📱
-
-
-
-<style>
-  /* Row that holds all the videos */
-  .video-row {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    justify-content: center;      /* centre the row nicely */
-  }
-
-  /* Each vertical video */
-  .video-portrait {
-    position: relative;
-    aspect-ratio: 9 / 16;         /* vertical, like TikTok/Reels/Shorts */
-    width: min(45vw, 320px);      /* two(ish) per row on desktop */
-    max-width: 100%;
-  }
-
-  .video-portrait iframe {
-    border: none;
-    position: absolute;
-    inset: 0;
-    width: 100%;
-    height: 100%;
-  }
-
-  /* On small screens, stack them nicely */
-  @media (max-width: 700px) {
-    .video-portrait {
-      width: 100%;
-      max-width: 360px;
-    }
-  }
-</style>
-
-
-<div class="video-row">
-
-  <div class="video-portrait">
-    <iframe
-      src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/VIDEO_ID_1/iframe"
-      allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture"
-      allowfullscreen>
-    </iframe>
-  </div>
-
-  <div class="video-portrait">
-    <iframe
-      src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/VIDEO_ID_2/iframe"
-      allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture"
-      allowfullscreen>
-    </iframe>
-  </div>
-
- Optional third, fourth, etc. – they’ll wrap automatically
-
-  <div class="video-portrait">
-    <iframe
-      src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/VIDEO_ID_3/iframe"
-      allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture"
-      allowfullscreen>
-    </iframe>
-  </div>
-
-</div>
-
-
-
-
-<hr class="section-break strong" />
-
-
-
-
-
-
-
-## Markdown Cheatsheet
-
-<a href="/assets/images/blogs/06-16Office.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/blogs/06-16Office.jpg" alt="Victorian Train-front" width="140" align="left">< /a>
-
-This site uses MkDocs, which is a superset of markdown. This section will serve as reminder on markdown syntax. As I get information from [Emily](01Emilyai.md) on other tech -- tasks that are more involved -- that tech will be given its own dedicated page.
-
-For full documentation on MkDocs markdown, visit [mkdocs.org](https://www.mkdocs.org).  
-Here's the link for [the material theme](https://squidfunk.github.io/mkdocs-material/).
-
-**Install Commands**
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-**Project layout**
-
-```
-mkdocs.yml    # The configuration file.
-docs/
-    index.md  # The documentation homepage.
-    ...       # Other markdown pages, images and other files.
-```
-
-<hr class="section-break strong" />
-
-
-
-
-
-
-
-
-### Inline images
-
-**Emily-Assisted**  
-For externally-stored images (most will be stored on GitHub, for my pages)::
-
-```
-![Me](https://art.tightbytes.com/assets/images/blog25/06-16Office.jpg){: align=left width=300 }
-```
-
-and for those stored with the data files::
-
-```
-![Celeste](images/C01-Aa.jpg){: align=left width=300 }
-```
-
-Not sure about this approach:
-
-```
-<figure>
-  <img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
-  <figcaption>Image caption</figcaption>
-</figure>
-```
-These pages more commonly have a html link:
-
-```
-<a href="/assets/images/blog25/06-16Office.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/blog25/06-16Office.jpg" alt="Me" width="300"align="right"></a>
-```
-
-...as it allows for a clickable image to open a larger version in a new tab. The HTML `<img>` approach really does offer a lot more flexibility when you're aiming for beautiful layouts or precise formatting in MkDocs with the Material theme. And best of all, it plays nicely with all your existing `assets/images/...` structure.
-
-If you need to:
-
-* **Center the image** → `style="display: block; margin: 0 auto;"`
-* **Make it responsive** → `style="max-width: 100%; height: auto;"`
-* **Add a light border or shadow** → `style="box-shadow: 0 0 5px rgba(0,0,0,0.2);"`
-
-<hr class="section-break strong" />
-
-
-
-
-
-
-
-
-### Embedded YouTube Video
-
-This code is no longer being used:
-
-```
-<video width="384" height="384" controls>
-  <source src="https://tightbytes.com/videos/Celeste/C01Aaa.mp4" type="video/mp4">
-</video>
-```
-
-Instead, videos are being hosted on Cloudflare. 
-
-```
-<div style="position:relative;padding-top:100%">
-    <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/420e07a7d02c25184d2faf7e6ff0b53c/iframe"
-    allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-    style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
-</div>
-```
-
-Simply change the number after '.com/' -- 420e07a7d02c25184d2faf7e6ff0b53c -- and before '/iframe'.  Quick-n-dirty way to make it not huge:
-
-```
-<style>
-  .flex-container {display: flex; gap: 20px; align-items: flex-start;}
-  .column {flex: 1 1 0; min-width: 0;}
-  .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
-</style>
-
-<!-- NOTE! DO NOT INDENT! MARKDOWN WILL FAIL!! /-->
-
-<div class="flex-container" markdown>
-<div class="column">
-
-<div style="position:relative;padding-top:100%">
-    <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/6c50151790d66b09f2d94d7c3096ec7d/iframe"
-    allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-    style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
-</div>
-
-</div>
-
-<div class="column column--right" markdown>
-</div>
-
-</div>
-
-```
-
-
-<style>
-  .flex-container {display: flex; gap: 20px; align-items: flex-start;}
-  .column {flex: 1 1 0; min-width: 0;}
-  .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
-</style>
-
-<div class="flex-container" markdown>
-<div class="column">
-
-<div style="position:relative;padding-top:100%">
-    <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/420e07a7d02c25184d2faf7e6ff0b53c/iframe"
-    allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-    style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
-</div>
-
-
-</div>
-<div class="column column--right" markdown>
-.
-</div>
-</div>
 
 <hr class="section-break soft" />
 
 
 
+### Editing Content
 
+I write content directly into markdown, inserting the tags as needed. I use a very lightweight but also quite powerful plain text editor called 'Zed'. I can download [Zed from Here](https://zed.dev/) or in Terminal, simply enter:
 
-### Embedded Audio
-
-This code:
-
-```
-		<audio controls="controls">
-		  <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
-		  Your browser does not support the <code>audio</code> element. 
-		</audio>
+```bash
+curl -f https://zed.dev/install.sh | sh
 ```
 
-...produced:
+<hr class="section-break strong" />
 
-<audio controls="controls">
-  <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
+
+
+
+
+
+
+
+### Inline images
+
+
+[![Writer][Stj1]{ .artR width="340" }][Stj1]
+
+
+**Emily-Assisted**  
+For externally-stored images (most will be stored on my image server or GitHub, for my pages)::
+
+```
+![Me](https://art.tightbytes.com/assets/images/blog25/06-16Office.jpg){: align=left width=300 }
+```
+
+and for those stored with the data files on GitHub::
+
+```
+![Celeste](images/C01-Aa.jpg){: align=left width=300 }
+```
+
+I currently use this approach:
+
+```
+[![Writer][Stj1]{ .artR width="340" }][Stj1]
+```
+
+There is an associated CSS page that allows that above string to act as a link, to create the rounded corners and a bit of 'pull-in' with a mouse hover, sizing and so forth. Also, image links are in an image-references page, which makes all images available all over the site.
+
+<hr class="section-break soft" />
+
+
+### Deprecated
+
+HTML links:
+
+```
+<a href="/assets/images/blog25/06-16Office.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/blog25/06-16Office.jpg" alt="Me" width="300"align="right"></a>
+```
 
 <hr class="section-break strong" />
 
@@ -823,158 +108,48 @@ This code:
 
 ### Embedded Video
 
-This code:
+I am removing — and will no longer being using — YouTube videos, because of copyright risks. I will have links to my own videos. The link code looks like this:
 
 ```
-<iframe width="560" height="315"    src="https://tightbytes.com/art/images/Cui/24/1750s/s02/LeRegarde01.mp4" frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen>
-</iframe>
-``` 
+<div class="video-card video-card--normal">
+	<div class="video-frame">
+		<video controls preload="metadata" playsinline>
+			<source src="https://media.seabrae.org/videos/eu/AnneIsCooking.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<p class="video-caption">
+		<strong>Soldiers, à la Française</strong> Anne is cooking in Montmartre.
+</div>
+```
 
-...produces, from my site:
+which produces:
 
-<iframe width="560" height="315"    src="https://tightbytes.com/art/images/Cui/24/1750s/s02/LeRegarde01.mp4" frameborder="0"    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen>
-</iframe>
-
-(Note to self: took out  [  autoplay; ] )
+<div class="video-card video-card--normal">
+	<div class="video-frame">
+		<video controls preload="metadata" playsinline>
+			<source src="https://media.seabrae.org/videos/eu/AnneIsCooking.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<p class="video-caption">
+		<strong>Soldiers, à la Française</strong>. <br>
+		Anne is cooking in Montmartre. One option that Chrome at least offers is to right-click on the video, and display it in a new tab — that is, full-sized in the browser.
+</div>
 
 ---
 
-For Cloudflare, simply change out the number string after ".com/" and before "/iframe", in this instance, this number:  'f16255e78c021b7a0e5fae66ae554133'. So, this code:
-
-```
-<div style="position:relative;padding-top:56.25%">
-  <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/f16255e78c021b7a0e5fae66ae554133/iframe"
-          allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-          allowfullscreen
-          style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
+<div class="video-card video-card--normal">
+	<div class="video-frame">
+		<video controls preload="metadata" playsinline>
+			<source src="https://media.seabrae.org/audio/cg/music/TheWrongDoor-Ec.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<p class="video-caption">
+		<strong>Follow along on the score</strong>.<br> 
+			One option that Chrome at least offers is to right-click on the video, and display it in a new tab — that is, full-sized in the browser.
 </div>
-```
-
-... produces, from Cloudflare:
-
-<div style="position:relative;padding-top:56.25%">
-  <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/f16255e78c021b7a0e5fae66ae554133/iframe"
-          allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-          allowfullscreen
-          style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
-</div>
-
-<!-- Save this:
-
-<video width="480" height="480" controls>
-  <source src="/assets/videos/C01.mp4" type="video/mp4">
-</video>
-
-/-->
-
-
-Emily suggests:
-
-<div style="position:relative;padding-top:56.25%">
-  <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/f16255e78c021b7a0e5fae66ae554133/iframe"
-          allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-          allowfullscreen
-          style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
-</div>
-
-or
-
-<div class="cf-player">
-  <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/f16255e78c021b7a0e5fae66ae554133/iframe"
-          allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-          allowfullscreen></iframe>
-</div>
-
-<style>
-  .cf-player{
-    aspect-ratio:1/1;
-    width:100%;
-    max-width:480px;     /* cap size if you like */
-    margin:auto;         /* center it */
-  }
-  .cf-player iframe{
-    width:100%;
-    height:100%;
-    border:0;
-  }
-
-  /* Fallback for very old browsers:
-  .cf-player{position:relative;padding-top:100%}
-  .cf-player iframe{position:absolute;inset:0}
-  */
-</style>
-
-... and even ...
-
-<div class="cf-player">
-  <iframe
-    src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/f16255e78c021b7a0e5fae66ae554133/iframe"
-    title="Cloudflare Stream video"
-    allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-    allowfullscreen
-    loading="lazy"></iframe>
-</div>
-
-<style>
-  .cf-player{
-    aspect-ratio:1/1;
-    width:100%;
-    max-width:480px;
-    margin:auto;
-    background:#111;          /* pleasant placeholder while loading */
-    border-radius:12px;
-    overflow:hidden;
-  }
-  .cf-player iframe{
-    display:block;
-    width:100%;
-    height:100%;
-    border:0;
-  }
-</style>
-
-... **05.Nov.2025**  
-Added this - thanks, Emily.
-
-<style>
-  /* two 384×384 iframes side by side */
-  .video-row {
-    display: flex;
-    gap: 16px;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: flex-start;
-  }
-  .video-row iframe {
-    width: 384px;
-    height: 384px;
-    border: 0;
-    border-radius: 8px; /* optional */
-  }
-  /* Stack on narrow screens */
-  @media (max-width: 820px) {
-    .video-row { flex-direction: column; align-items: center; }
-  }
-</style>
-
-<div class="video-row">
-  <iframe
-    src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/6978db4dbc1c3046f3aa321ff664b1dd/iframe"
-    title="Version Française"
-    loading="lazy"
-    allow="autoplay; fullscreen; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-
-  <iframe
-    src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/4dfe30900934badaea9190c99103c567/iframe"
-    title="English Version"
-    loading="lazy"
-    allow="autoplay; fullscreen; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
-
 
 <hr class="section-break strong" />
 
@@ -985,7 +160,57 @@ Added this - thanks, Emily.
 
 
 
-### Creating Dotpoints
+### Embedded Audio
+
+This code:
+
+```
+<div class="music-card">
+  <div>
+    <p>The Wrong Door [vEc]</p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoor-Ec.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+```
+
+...produces:
+
+<div class="music-card">
+  <div>
+    <p>The Wrong Door [vEc]</p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoor-Ec.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+## Text Formatting
+
+### Creating Dot-points
+
+This code:
+
+```text
+Once you've decided:
+
+* Select A.  
+* Select B.  
+* To identify C.  
+* Finally, click on D.  
+```
+
+Gives you the following text.
 
 Once you've decided:
 
@@ -1008,7 +233,15 @@ Note: *setting things to italics like this makes more impact - these have yielde
 
 ### Links Management
 
-Here's a typical example of embedding a link: Blender-for-Mac users, please refer to the [Mac user help](http://blender.stackexchange.com/questions/6173/where-does-console-output-go) page.
+Here's a typical example of embedding a link. This text:
+
+```
+Blender-for-Mac users, please refer to the [Mac user help](http://blender.stackexchange.com/questions/6173/where-does-console-output-go) page.
+```
+
+produces:
+
+Blender-for-Mac users, please refer to the [Mac user help](http://blender.stackexchange.com/questions/6173/where-does-console-output-go) page.
 
 <hr class="section-break strong" />
 
@@ -1019,103 +252,108 @@ Here's a typical example of embedding a link: Blender-for-Mac users, please refe
 
 
 
-### Horizontal Separator Lines
+### Horizontal Separators
 
-The code is this (minus the '*')::
+This tag:
 
 ```
 <hr class="section-break strong" />
 ```
 
-...which produces the following grey horizonal bar to help separate sctions (like the one below).
+or
+
+```
+<hr class="section-break soft" />
+```
+
+...produces a separator bar like the one below.
+
+
+You will need to add the following to your custom CSS page:
+
+```css
+/* ===== Section breaks ===== */
+
+.md-typeset hr.section-break {
+	clear: both;
+	border: none !important;
+	border-top: none !important;
+	border-bottom: none !important;
+	background: none;
+	margin: 3rem 0 2rem;
+	height: 1.5rem;
+	position: relative;
+}
+
+.md-typeset hr.section-break::before {
+	content: "";
+	position: absolute;
+	top: 50%;
+	left: 0;
+	right: 0;
+	height: 1px;
+	background: linear-gradient(
+		90deg,
+		transparent,
+		rgba(123, 30, 58, 0.55),
+		transparent
+	);
+}
+
+.md-typeset hr.section-break::after {
+	content: "❦";
+	position: relative;
+	display: block;
+	width: 3rem;
+	margin: 0 auto;
+	text-align: center;
+	background: var(--md-default-bg-color);
+	color: #7b1e3a;
+	font-size: 1.1rem;
+	line-height: 1.5rem;
+}
+
+.md-typeset hr.section-break.soft::after {
+	content: "✦";
+	color: rgba(123, 30, 58, 0.65);
+}
+
+.md-typeset hr.section-break.strong::before {
+	height: 3px;
+	border-radius: 999px;
+	background: linear-gradient(
+		90deg,
+		transparent,
+		#7b1e3a,
+		#c991a2,
+		#7b1e3a,
+		transparent
+	);
+}
+
+.md-typeset hr.section-break.strong::after {
+	content: "❦";
+	font-size: 1.25rem;
+}
+```
 
 <hr class="section-break strong" />
 
+<!-- Images References -->
 
+--8<-- "includes/image-references.md"
 
+🌷
 
-
-
-
-
-### HTML and CSS
-
-**Grid for two simple layouts**:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r1IitKbJRFE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-**Slide Show**:
- 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WJERnXiFFug" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-[CSS stuff](https://ishadeed.com/article/conditional-css-has-nth-last-child/?utm_source=convertkit&utm_medium=email&utm_campaign=Why+people+use+CSS+frameworks%20-%2010872019)
-
-[AstroDocs](https://docs.astro.build/en/editor-setup/)
-
----
-
-**Do Not Show On Page**
-
-<!-- Everything within these tags will not show on the page 
-
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://www.tightbytes.com/index.html
-    - icon: fontawesome/brands/bluesky
-      link: https://bluesky.com/_____sveil
-
-
-/-->
-
-
-
-<hr class="section-break strong" />
-
-
-<!--  Image references  -->
-
-[Br02]: ../assets/images/base/Bnr02c.jpg
-[Br03]: ../assets/images/base/Bnr03b.jpg
-
-[Sk00]: ../assets/images/base/00Writer.jpg
-
-[Sk09]: ../assets/images/sketches/09Metaphor.jpg
-[Sk10]: ../assets/images/sketches/10Bitoffun.jpg
-[Sk11]: ../assets/images/sketches/11Giaconda.jpg
-[Sk12]: ../assets/images/sketches/12Chorale.jpg
-[Sk13]: ../assets/images/sketches/13Retraite.jpg
-[Sk14]: ../assets/images/sketches/14Northwind.jpg
-[Sk15]: ../assets/images/sketches/15Waterfall.jpg
-
-[St00]: ../assets/images/base/00Writer.jpg
-
-[Sta1]: ../assets/images/base/01aKaimu.jpg
-[Stb1]: ../assets/images/base/01bRead.jpg
-[Stb1]: ../assets/images/base/01bRead.jpg
-[Ste1]: ../assets/images/base/01eWinter.jpg
-[St09]: ../assets/images/base/09aParis.jpg
-[St10]: ../assets/images/base/10montvl.jpg
-[St12]: ../assets/images/base/12accost.jpg
-[St13]: ../assets/images/base/13donga.jpg
-[St14]: ../assets/images/base/30alice.jpg
-[St15]: ../assets/images/base/15orage.jpg
-[St16]: ../assets/images/base/16flight.jpg
-
-[St08]: ../assets/images/story/Scene08a.jpg
-[St35]: ../assets/images/story/Scene35a.jpg
-[St56]: ../assets/images/story/Scene56a.jpg
 
 <!--
 
-✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧 ❦  …
 
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
 
 /-->
 
 <hr class="section-break strong" />
+
+<!-- vale off -->

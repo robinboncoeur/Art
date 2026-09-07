@@ -78,6 +78,20 @@ Slightly [different orchestration](https://media.seabrae.org/audio/cg/music/TheW
   </div>
 </div>
 
+---
+
+<div class="video-card video-card--normal">
+	<div class="video-frame">
+		<video controls preload="metadata" playsinline>
+			<source src="https://media.seabrae.org/audio/cg/music/TheWrongDoor-Ec.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<p class="video-caption">
+		<strong>Follow along on the score</strong>.<br> 
+			Best viewed full-sized in the browser. Right-click on the video, and select "Open Video in new tab" to display it full size. 
+</div>
+
 *Updated: 06-Aug-2026, 1100*
 
 ---

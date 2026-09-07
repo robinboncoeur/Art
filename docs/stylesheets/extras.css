@@ -56,6 +56,15 @@
 		height: auto;
 		max-height: 220px;
 	}
+
+	.music-title {
+		white-space: nowrap;
+	}
+
+	.music-player {
+		width: 100%;
+		max-width: 420px;
+	}
 }
 
 /* ===== Story artwork ===== */
@@ -205,6 +214,7 @@
 	content: "❦";
 	font-size: 1.25rem;
 }
+
 /* ===== Video player ===== */
 
 .video-card {

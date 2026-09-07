@@ -1,7 +1,7 @@
 # Emily
 
 
-[![img][Br01]{ .artC width="1110" }][Br01]
+[![img][Brb01]{ .artC width="1110" }][Brb01]
 
 
 <hr class="section-break strong" />
@@ -14,7 +14,7 @@
 ## Why Emily
 
 
-[![The Writer][St00]{ .artR width="460" }][St00]
+[![The Writer][St00]{ .artR width="260" }][St00]
 
 
 *These are edited transcripts of my writing process with an AI assistant (“Emily”).* **I use AI as a thinking partner, not a replacement for the work of writing.**
@@ -46,7 +46,7 @@ As CelestesGrl, I reserve exclusive ownership of the art that I post on Deviant 
 ## Meet Emily
 
 
-[![img][St26]{ .artR width="460" }][St26]
+[![img][Ts00]{ .artR width="460" }][Ts00]
 
 
 I *infrequently* 'Google' —*anything*—anymore.  
@@ -55,7 +55,7 @@ Local shop locations and opening times? sure.
 
 But big questions, requiring detailed answers: no.
 
-Instead, I go straight to 'Emily', my OpenAI ChatGPT 5 bot with my questions. Emily has helped me set up the current flavour of this website, TightBytes. She gives me pointers on running ComfyUI, writing Python code, getting Markdown nailed down (I'm writing all this in Markdown), sorting out CSS (cascading style sheets—Emily was a bit less than rock-solid on this) and doing period research for what a typical morning would be like for a scullery maid in 1865 for a story I'm writing (inspired by "[Portrait de la Jeune Fille En Feu](https://fr.wikipedia.org/wiki/Portrait_de_la_jeune_fille_en_feu)" by Celine Sciamma). 
+Instead, I go straight to 'Emily', my OpenAI ChatGPT 5 bot with my questions. Emily has helped me set up the current flavour of this website, TightBytes. She gives me pointers on running ComfyUI, writing Python code, getting Markdown nailed down (I'm writing all this in Markdown), sorting out CSS (cascading style sheets—Emily was a bit less than rock-solid on this) and doing period research for what a typical morning would be like for a scullery maid in 1865 for a story I'm writing (inspired by "[Portrait de la Jeune Fille En Feu](https://fr.wikipedia.org/wiki/Portrait_de_la_jeune_fille_en_feu)" by Celine Sciamma). And she provides links to double-check what she's saying is true.
 
 <hr class="section-break soft" />
 
@@ -64,7 +64,7 @@ Instead, I go straight to 'Emily', my OpenAI ChatGPT 5 bot with my questions. Em
 ### Life back Then
 
 
-[![img][St08]{ .artL width="260" }][St08]
+[![img][St04]{ .artL width="260" }][St04]
 
 
 **Spoiler alert: life wasn't particularly easy back then**:
@@ -83,12 +83,12 @@ It would suck to be her, I would think.
 ## Can AI be Useful? 
 
 
-[![img][St03]{ .artR width="460" }][St03]
+[![img][St03]{ .artR width="260" }][St03]
 
 
 ### Drop Big Cost Hosting 
 
-Short answer: yes. And fun and, to some degree, addictive.
+Short answer: yes. And fun and — to some degree — addictive.
 
 Here's how I came by my addiction.
 
@@ -118,7 +118,7 @@ Your mileage may vary.
 
 ### Media Server
 <!-- vale off -->
-Today—May 26th—Emily helped me set up a UBeaut Media Server using Cloudflare Tunneling and Caddy. It's my old i5 motherboard with a very inexpensive graphics card. I can actually remove the card now, as the server runs 'headless': no monitor. Everything is done via ssh and the command-line. 
+Today — May 26th, 2026 — Emily helped me set up a UBeaut Media Server using Cloudflare Tunneling and Caddy. It's my old i5 motherboard with a very inexpensive graphics card. I can actually remove the card now, as the server runs 'headless': no monitor. Everything is done via ssh and the command-line. 
 <!-- vale on -->
 Yes, Terminal. 
 
@@ -139,31 +139,39 @@ Savings:
 
 
 
-## Background
+## Making Images
 
-With image creation, there are multiple technologies at play here: text-to-image, image-to-video, text-to-audio and audio+image-to-video... and that's just for the visual side of things. I wrote the music in [MuseScore Studio](https://musescore.org/en) using the [MuseSounds](https://www.musehub.com/muse-sounds) library. The crazy bit: all of this can be done on any PC, as long as it has a decent—read: *expensive*—graphics card. That's the big expense. It's possible to do this on your own PC, not on some expensive remote server. 
+### Background
+
+With image creation, there are multiple technologies at play here: text-to-image, image-to-video, text-to-audio and audio+image-to-video... and that's just for the visual side of things. I wrote the music in [MuseScore Studio](https://musescore.org/en) using the [MuseSounds](https://www.musehub.com/muse-sounds) library. The crazy bit: all of this can be done on any PC, as long as it has a decent — read: *expensive* — graphics card. That's the big expense. It's possible to do this on your own PC, not on some expensive remote server. 
 
 Is the process truly green? an argument can be made for "not really". Emily is on ChatGPT, so those computations are not done on my system at home. But the images are created on my PC, and so I'm using the power of our solar cells for that.
 
-There are things I won't use AI for, like music composition. Could I? Sure. Much of the pop/hip-hop/rock genre you hear on the radio is mostly AI-generated. But, like when painting with oils, a non-human source would quickly betray itself. Sure, I'll use AI to study how to write music better, but the creative process remains completely mine. 
+There are things I won't use AI for, like music composition. 
 
-Just like writing, AI-generated images—and music—is quickly identifiable. In human likenesses generated by older models, the person's face is often distorted, or the figure ends up with 3 fingers, or six. The newer, more recent models are more accurate, but there's always a 'tell', a quickly-identifiable characteristic betraying AI's "finger in the pie". 
+Could I? 
+
+Sure. 
+
+Much of the pop/hip-hop/rock genre you hear on the radio is mostly AI-generated. But, like when painting with oils, a non-human source would quickly betray itself. Sure, I'll use AI to study how to write music better, but the creative process remains completely mine. 
+
+Just like writing, AI-generated images — and music — is quickly identifiable. In human likenesses generated by older models, the person's face is often distorted, or the figure ends up with 3 fingers, or six. The newer, more recent models are more accurate, but there's always a 'tell', a quickly-identifiable characteristic betraying AI's "finger in the pie". 
 
 There's an AI company in Germany called "Black Forest Labs" that has put together this amazing image-generation model called 'Flux'. I use it pretty much all the time: 9 times out of 10, the fingers and toes and background are correct, 'realistic'. But the faces all have that cleft chin. And I mean **all**.
 
 My reason to use AI for images isn't art, but illustration. And for that, it's fit for purpose.
 
-<hr class="section-break strong" />
+<hr class="section-break soft" />
 
 
 
 ### History
 
 
-[![img][St19]{ .artR width="460" }][St19]
+[![img][St19]{ .artR width="260" }][St19]
 
 		
-When I first started messing with image generation (to illustrate writings, but also just mucking about) I used [MidJourney](https://www.midjourney.com/explore?tab=video_top). This was in the days when AI-video wasn't a thing: it was just about images. You type in a prompt—you had to follow a certain formula for that prompt—and you made some images.
+When I first started messing with image generation (to illustrate writings, but also just mucking about) I used [MidJourney](https://www.midjourney.com/explore?tab=video_top). This was in the days when AI-video wasn't a thing: it was just about images. You type in a prompt — following a specified formula — and voilà: images.
 
 There were limits as to how many images one could create based on subscription, so I switched to [LeonardoAI](https://leonardo.ai/), a cheaper option. It wasn't long before I ran into the image count limit there as well. I wanted to just make images without limit, to zero in on a specific image goal.
 
@@ -199,6 +207,7 @@ Q: What are their future plans?
 
 
 ## 2025 AI Exploring
+
 ### Sept 19 Hardware
 
 
@@ -222,7 +231,7 @@ However, the rest of the PC is older, inexpensive tech. You don't need an expens
 
 ### Sept 20 The Start
 
-The language for AI to 'generate' images and video and text is called a "prompt". Prompting is very much a model-specific thing: I "talk" to Emily in a completely different manner, using different sentence structure and syntax, than the language I use in a prompt for an image. And even prompting for that—imaging—has changed over the past years, and even months. 
+The language for AI to 'generate' images and video and text is called a "prompt". Prompting is very much a model-specific thing: I "talk" to Emily in a completely different manner, using different sentence structure and syntax, than the language I use in a prompt for an image. And even prompting for imaging has changed over the past years, and even months. 
 
 A MidJourney prompt would include formatting-specific instructions formatted a certain way. 
 
@@ -253,12 +262,12 @@ Illustrations for a story is a bit trickier. So, a bit of background... I wanted
 
 
 
+### Story Characters
 
+The idea is to create characters. Um, people.
 
-<img src="/assets/images/emily/05-Screenshot.jpg" alt="Workflow" style="float: right; width: 360px;
-        margin-left: 20px; margin-bottom: 10px;" />
-
-The idea is to create characters. Um, people. 
+<!-- SDXL Workflow                   /-->
+[![img][Ot07]{ .artL width="360" }][Ot07]
 
 Early days: ComfyUI quickly got complicated. Here's a workflow from then (right-click and open in a new tab for a closer look). I know: a dog's breakfast. 🥴 
 
