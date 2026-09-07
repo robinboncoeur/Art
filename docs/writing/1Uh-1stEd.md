@@ -4293,7 +4293,7 @@ Lauren motioned him over.
 
 "Hope I got everything you need. I was in a bit of a hurry," she said as she handed him the canvas bag. He disappeared into his room.
 
-By the time he'd re-emerged, everyone had settled into the tiny living room. Sarah pulled up a kitchen chair.
+By the time he'd re-emerged, everyone had a cuppa. Sarah pulled up a kitchen chair.
 
 "Everyone's tired, so we'll keep this short," she said. "Just want to make sure everyone's safe."
 
