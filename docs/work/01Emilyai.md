@@ -267,7 +267,7 @@ Illustrations for a story is a bit trickier. So, a bit of background... I wanted
 The idea is to create characters. Um, people.
 
 <!-- SDXL Workflow                   /-->
-[![img][Ot07]{ .artL width="360" }][Ot07]
+[![img][Ota3]{ .artL width="360" }][Ota3]
 
 Early days: ComfyUI quickly got complicated. Here's a workflow from then (right-click and open in a new tab for a closer look). I know: a dog's breakfast. 🥴 
 
@@ -276,13 +276,17 @@ Pretty neat, huh?
 
 ---
 
-Here's the prompt from that workflow:
+Here's a representative prompt from an SDXL workflow:
 
-<img src="/assets/images/emily/06-Screenshot.jpg" alt="Positive prompt" style="width: 600px;"/>
 
-I essentially wanted an image of a girl sitting in a French cafe. I got this:
+<!-- SDXL Workflow                   /-->
+[![img][Otb3]{ .artL width="360" }][Otb3]
 
-<img src="/assets/images/emily/07-ComfyUI_3.jpg" alt="Girl at a cafe" style="width: 450px;"/>
+
+And what that yields:
+
+...image of an early render...
+---
 
 So, wonky left leg, right hand has 3 fingers, nonsensical text on signs... and where the heck is she sitting? on the sidewalk?!? Also, what about that necklace?
 
@@ -298,11 +302,13 @@ But the technology has very, very quickly improved. ComfyUI itself dramatically 
 
 I would like to highlight what **ELSE** can be done with this process: image repair. Here's an original image I found online of Kalapana (the way I remember it, the original **Kaimu Beach**). This image has scratches, artifact blotches... in short, it's a really poor photograph (or possibly scan) of an old photograph:
 
-<img src="/assets/images/emily/18-KalapanaO.jpg" alt="Kaimu Beach" style="width: 850px;"/>
+.../images/emily/18-KalapanaO.jpg...
+---
 
 ...and here is how it looks, after ComfyUI fixed it:
 
-<img src="/assets/images/emily/19-KalapanaF.jpg" alt="Kaimu Beach" style="width: 850px;"/>
+.../images/emily/19-KalapanaF.jpg"...
+---
 
 So, there's that. 
 
@@ -317,11 +323,13 @@ I did have to tweak the prompt a bit, as you do. (*In Aussie parlance, a 'bit' u
 
 Earlier this year, January 11th, to be exact, I tried to 'fix' this image. I was using this state-of-the-art tech at the time called 'SUPIR'. 
 
-<img src="/assets/images/emily/20-AliceMaryBW.jpg" alt="AMSmith" style="width: 400px;"/>
+.../images/emily/20-AliceMaryBW.jpg"...
+---
 
 Overall, it seems pretty accurate, although the left eye still seems a bit off. Of course, the whole ComfyUI technology has moved on. No mention is made about SUPIR anymore on the ComfyUI subreddit. After all, SUPIR relied on SDXL tech, and we're now—Sept '25—in the Flux era. *Actually, even the Flux era appears to be waning*. This time, using the *original image* as input, Flux1 Kontext yielded this:
 
-<img src="/assets/images/emily/21-AliceMaryF.jpg" alt="AMSmith" style="width: 400px;"/>
+.../images/emily/21-AliceMaryF.jpg"...
+---
 
 The difference between the original, the SUPIR version and the Flux Kontext version is what keeps me addicted to this tech. No, it isn't perfect, but 🌟 **MY STARS** ✨ it is *head, shoulders and belly-button* above even expensive pay-for tech like [Topaz Labs](https://www.topazlabs.com/topaz-photo), which used to be a stand-alone installed program on your PC, but which they have now made an 'app'. Interestingly, the hardware requirements are virtually the same, so you are 'renting' their node-system for $17-$21 a month.
 
@@ -331,11 +339,13 @@ So, is this what Alice actually looked like? Who knows. Perhaps a newer, better,
 
 By the way, sometimes it helps to change the sampler and scheduler. Her dress had these dots on it in the original picture, and the **deis** sampler and **kl_optimal** scheduler wasn't doing the dress right. So, I went with bog-standard **euler** sampler and **ddim_uniform** scheduler to get this:
 
-<img src="/assets/images/emily/22-AliceMaryF2.jpg" alt="AMSmith" style="width: 400px;"/>
+.../emily/22-AliceMaryF2.jpg"...
+---
 
 And today (Sept 26th), as I revisit my workflows to convert them all to 'Sub-Graphs', I tried the **deis** sampler and **beta** scheduler and got this:
 
-<img src="/assets/images/emily/23-AliceMaryF4.jpg" alt="AMSmith" style="width: 500px;"/>
+.../images/emily/23-AliceMaryF4.jpg"...
+---
 
 Just for shits-n-giggles, tried the SRPO model on this process... **and ended up with a massive ___ F A I L**! 
 
@@ -364,7 +374,9 @@ Well, *quantization is the process of mapping continuous infinite values to a sm
 
 Answer for mere mortals like us: it's about accuracy, detail and approximation. 8-bit approximates (is a bit more accurate) a bit better than 4-bit or 2-bit. Still, whilst the 8-bit model created that last image, a 4-bit model created this:
 
-<img src="/assets/images/emily/23-AliceMaryF3.jpg" alt="AMSmith" style="width: 400px;"/>
+.../images/emily/23-AliceMaryF3.jpg"
+---
+
 <!-- vale on -->
 Not a shabby effort. Not as stellar as 8-bit but still heaps better than the original. Who know which one is the most accurate. Not from that time period, so it's likely to remain anyone's guess, for now.
 
@@ -380,13 +392,15 @@ The node collection on a graph called a *workflow* can become quite complex. Eve
 
 Then, the bright minds at ComfyUI came up with the concept of **Sub-Graph**. The name doesn't really do the magic justice. Consider this workflow (right-click and open in new tab to see it properly) :
 
-<img src="/assets/images/emily/33-SDXL-i2i.jpg" alt="SDXL WkFl" style="width: 950px;"/>
+.../images/emily/33-SDXL-i2i.jpg"
+---
 
 Of course, this did a lot back in the SDXL days. But it was a nightmare to navigate.
 
 That same workflow has, through the magic of *Sub Graph*, been simplified to this:
 
-<img src="/assets/images/emily/34-SDXL-i2i-SG.jpg" alt="SDXL SG" style="width: 950px;"/>
+.../images/emily/34-SDXL-i2i-SG.jpg"
+---
 
 Whole-buncha-nodes into 1 node. ⚡️
 
@@ -401,17 +415,7 @@ Oh, and by the way, that workflow I ran Alice through? Tamara followed:
 
 [![img][St25]{ .artL width="460" }][St25]
 
-
-
 <hr class="section-break strong" />
-
-
-
-[Back to the Index](../index.md)
-
-
-
-
 
 
 
@@ -426,9 +430,9 @@ Keeping the same images but changing the captions works because, on DA, **the ca
 
 A few guardrails that will keep it subtle *and* still sharp:
 
-## What to lean into
+### What to lean into
 
-### 1) Make it about *social meaning*, not anatomy
+1. Make it about *social meaning*, not anatomy
 
 Instead of “you have boobs / can’t hide,” go for:
 
@@ -438,7 +442,9 @@ Instead of “you have boobs / can’t hide,” go for:
 
 It keeps the theme while removing the fetish “body-fixation” hooks.
 
-### 2) Keep Celeste’s power in *interpretation*
+
+---
+2. Keep Celeste’s power in *interpretation*
 
 Celeste doesn’t need to say “wear this.” She can say:
 
@@ -447,7 +453,9 @@ Celeste doesn’t need to say “wear this.” She can say:
 
 That reads as confident and psychologically astute rather than kink-coded.
 
-### 3) Keep the humour, but aim it upward
+
+---
+3. Keep the humour, but aim it upward
 
 Mock the *social script*, not Charlie’s embarrassment.
 
@@ -456,7 +464,10 @@ Mock the *social script*, not Charlie’s embarrassment.
 
 That’s the kind of wit that tends to land with women readers.
 
-## What to avoid (the “subtlety killers”)
+
+### What to avoid 
+
+**(the “subtlety killers”)**
 
 These are the words/beats that turn subtle into “oh, it’s that genre”:
 
@@ -465,7 +476,8 @@ These are the words/beats that turn subtle into “oh, it’s that genre”:
 * humiliation beats (“exposed,” “everyone will laugh,” etc.)
 * parent/authority coercion as the engine (“mum made you,” “teacher insisted,” etc.)
 
-## A simple template you can reuse
+
+### A simple template you can reuse
 
 For each captioned image, try this 3-line structure:
 
@@ -483,7 +495,7 @@ That’s subtle, but still unmistakably your theme.
 
 If you paste one of your current “old style” captions and tell me what you want the *new* takeaway to be, I’ll rewrite it in 3–5 variants: (a) wry, (b) tender, (c) icy Celeste, (d) minimalist.
 
-
+---
 
 Important Note: All my so-called artwork, including any descriptive text, depicts adults doing whatever: no images involve minors. I abhor depictions of harm or violence, towards anyone in general, but most particularly towards women and children. None of the images reflect actual events: all depictions are imaginary.
 As CelestesGrl, I reserve exclusive ownership of the artworks that I post on Deviant Art. Downloading is permitted for your personal enjoyment as well as creating derivations if so inspired. Please be kind and acknowledge where your derivative was inspired.
@@ -491,6 +503,8 @@ As CelestesGrl, I reserve exclusive ownership of the artworks that I post on Dev
 Saying all that, please STEAL. You like the idea: it's YOURS. Run with it.
 
 <hr class="section-break strong" />
+
+
 
 <!-- Images References -->
 

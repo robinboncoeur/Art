@@ -134,18 +134,19 @@
 [St30]: /assets/images/base/30alice.jpg
 [St33]: /assets/images/base/33garden.jpg
 
-[Ot01]: /assets/images/other/overlocker01.jpg
-[Ot02]: /assets/images/other/overlocker02.jpg
-[Ot03]: /assets/images/other/overlocker03.jpg
-[Ot04]: /assets/images/other/overlocker04.jpg
-[Ot05]: /assets/images/other/overlocker05.jpg
-[Ot06]: /assets/images/other/overlocker06.jpg
-[Ot07]: /assets/images/other/SDXLWorkflow01.jpg
 [Ota1]: /assets/images/other/Anglesea1.jpg
 [Otb1]: /assets/images/other/Anglesea2.jpg
 [Otc1]: /assets/images/other/Anglesea3.jpg
 [Otd1]: /assets/images/other/Anglesea4.jpg
 [Ote1]: /assets/images/other/Anglesea5.jpg
+[Ota2]: /assets/images/other/overlocker01.jpg
+[Otb2]: /assets/images/other/overlocker02.jpg
+[Otc2]: /assets/images/other/overlocker03.jpg
+[Otd2]: /assets/images/other/overlocker04.jpg
+[Ote2]: /assets/images/other/overlocker05.jpg
+[Otf2]: /assets/images/other/overlocker06.jpg
+[Ota3]: /assets/images/other/SDXLWorkflow01.jpg
+[Otb3]: /assets/images/other/SDXLWorkflow02.jpg
 
 <!--
 😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 👗 👚 👜 👠 🩰 💄  💞 💖 ❤️ 💋 🎻 📒 🩸 💧 🚺 ❤️ 🫧 🌩 🌧 🧵 🪡 —
