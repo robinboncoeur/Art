@@ -4148,7 +4148,31 @@ His throat worked.
 
 I raised my hand as we pulled away from the kerb.
 
-"Let's cross that bridge when we come to it," I said. "We might just pop into Woolies and get you a toothbrush."
+"Let's cross that bridge when we come to it," I said. 
+
+We sat and listened to the engine for a moment.
+
+"What did Sarah tell you?" he finally asked.
+
+"Not much. Just that your mum was leaving him, and that he'd been drinking."
+
+Charlie stared at the dashboard.
+
+"I didn't know my dad drank."
+
+"Well," I said carefully, "there may have been other things that your mum wasn't able to accept anymore—"
+
+"I know." He turned to me. "They've been arguing. Like, a lot. On the phone."
+
+I waited.
+
+He sighed.
+
+"About me," he added, his voice dull.
+
+I bit my tongue. Words fought each other for a stage, but I shut them all down.
+
+"Like I said before, let's cross that bridge when we come to it," I said. "For now, we might just pop into Woolies and get you a toothbrush."
 
 As we were crossing the carpark, I got a text from Sarah.
 
@@ -4195,11 +4219,11 @@ Lauren motioned him over.
 
 "Hope I got everything you need. I was in a bit of a hurry," she said as she handed him the canvas bag. He disappeared into his room.
 
-By the time he'd re-emerged, everyone had a cuppa. Sarah pulled up a kitchen chair.
+By the time he'd re-emerged, everyone was holding a cup in their hands. Sarah pulled up a kitchen chair.
 
 "Everyone's tired, so we'll keep this short," she said. "Just want to make sure everyone's safe."
 
-She looked at Lauren. Charlie had settled beside his mum, glancing at her, then down at his hands. 
+She looked at Lauren. Charlie had settled beside his mum, glancing at her then down at his hands. 
 
 Lauren cleared her throat.
 
@@ -4273,7 +4297,7 @@ He got up then.
 
 "G'night, Celeste." 
 
-He disappeared into his room. 
+He disappeared into his room.
 
 I heard his door close.
 
