@@ -4107,6 +4107,7 @@ As the door clicked shut behind me, my phone buzzed.
 Sarah.
 
 **Charlie is staying at Celeste's**
+**She's picking him up at the bus stop now**
 
 I closed my eyes, took in the lingering warmth of the coming dusk. The evening air was warm and alive. 
 
@@ -4134,45 +4135,47 @@ I put my bag in my car and got in.
 
 [![Charlie][S21b]{ .artR width="460" }][S21b]
 
-
-
 [ *Celeste* ]
 
-I found Charlie standing at the bus stop, looking like something that had been ordered and then forgotten about.
+I found Charlie standing at the bus stop, looking like something that had been ordered and then forgotten about. 
 
-He slipped wordlessly into the passenger seat. I caught the quick glance in my direction.
+His messenger bag sat at his feet, his hair blown to one side by the evening sea breeze. He looked part worried, part resigned, and completely poised to disappear.
 
-His throat worked.
+I pulled up next to him.
 
-"I promise I'll find something soon."
+At first, it didn't register. Then he recognised me with a start. He picked up his messenger bag and slipped wordlessly into the passenger seat. I caught the quick glance in my direction.
+
+"You okay?" I asked.
+
+His throat worked. He gave a quick nod.
+
+"Thank you, Celeste." He sounded breathless, like he'd been running. "I promise I'll find something soon."
 
 I raised my hand as we pulled away from the kerb.
 
 "Let's cross that bridge when we come to it," I said. 
 
-We sat and listened to the engine for a moment.
+He stared out the side window for a moment.
 
 "What did Sarah tell you?" he finally asked.
 
-"Not much. Just that your mum was leaving him, and that he'd been drinking."
+"Not much. Just that your mum was leaving him, and that your dad had been drinking."
 
-Charlie stared at the dashboard.
+Charlie stared at the dashboard with a confused frown.
 
 "I didn't know my dad drank."
 
-"Well," I said carefully, "there may have been other things that your mum wasn't able to accept anymore—"
+"Well," I said carefully, "it's hard to know what exactly was happening."
 
-"I know." He turned to me. "They've been arguing. Like, a lot. On the phone."
+"I know." He turned to me. "Look, they've been arguing. Like, a lot. On the phone."
 
 I waited.
 
-He sighed.
+"I think it's been about me," he added, his voice dull.
 
-"About me," he added, his voice dull.
+I bit back words, words that fought each other for a stage. I shut them all down.
 
-I bit my tongue. Words fought each other for a stage, but I shut them all down.
-
-"Like I said before, let's cross that bridge when we come to it," I said. "For now, we might just pop into Woolies and get you a toothbrush."
+"Like I said before, let's cross that bridge when we come to it," I said. "For now, we'll just pop into Woolies and get you a toothbrush."
 
 As we were crossing the carpark, I got a text from Sarah.
 
@@ -4187,7 +4190,7 @@ We were in the medication aisle when my phone pinged again.
 
 **we're heading to your place with stuff for Charlie**
 
-I turned to him. 
+I sent her a thumbs-up emoji, and turned to him. 
 
 He was staring at toothbrushes.
 
@@ -4199,27 +4202,45 @@ His eyes caught mine, and he reddened slightly.
 
 He nodded. And selected what was on special.
 
-Sarah and Lauren were standing next to Lauren's little i20 when we got home. 
+Sarah and Lauren were standing next to Lauren's little i20 when we got home.
+
+Charlie got out of the car and went to his mum.
+
+"You okay, mum?"
+
+Lauren gave a short nod. She looked ready to collapse.
+
+I caught Sarah's eye. She tipped her head slightly and slipped her arm around Lauren's shoulders.
+
+"Let's go inside," she said.
 
 I unlocked the front door. It creaked as I pushed it open with my shoulder.
 
-Sarah marched in with all the confidence of someone assigned to take charge. Lauren followed her carrying a canvas bag, her shoulders a bit stiff. And Charlie stood on the landing, uncertain. I impatiently waved him in. 
+Sarah marched in with all the confidence of someone assigned to take charge. Lauren followed her carrying a canvas bag.
 
-"Tea!" I announced as I flipped on the kettle.
+Charlie stood on the landing, eyes wide. I impatiently waved him in. 
+
+"Anyone for a cup of tea?" I asked as I flipped on the kettle.
 
 Lauren settled slowly onto a corner of the couch and looked around her. 
+
+"That would be lovely," she said.
 
 "Where's the loo?" Sarah asked.
 
 I pointed.
 
-"Put your bag in your room, Charlie," I told him. "It's the last door on the right, after the toilet."
+"Isn't there an actress staying here with you?" Lauren asked.
+
+"She left last Tuesday for Paris," I replied, then turned to Charlie. "Why don't you put your bag in your room, Charlie. It's the last door on the right, after the toilet."
 
 Lauren motioned him over.
 
-"Hope I got everything you need. I was in a bit of a hurry," she said as she handed him the canvas bag. He disappeared into his room.
+"Got a few of your things here." She handed him the canvas bag. "Hope I got everything you need. I was in a bit of a hurry." 
 
-By the time he'd re-emerged, everyone was holding a cup in their hands. Sarah pulled up a kitchen chair.
+By the time he'd re-emerged from his room, everyone was holding a cup in their hands. 
+
+Sarah pulled up a kitchen chair.
 
 "Everyone's tired, so we'll keep this short," she said. "Just want to make sure everyone's safe."
 
@@ -4229,9 +4250,37 @@ Lauren cleared her throat.
 
 "That would be good," she said softly.
 
-Sarah turned to me.
+Sarah put her hands on her knees.
 
-"Your house, your rules."
+"Lauren is staying with me for the foreseeable future."
+
+She turned to Charlie.
+
+"And you'll stay here until you find accommodation elsewhere."
+
+Charlie's eyes were as wide as his mouth.
+
+"But—"
+
+Sarah looked at him sharply.
+
+"Better idea?"
+
+Lauren's face, still tired, now showed traces of concern. Her eyes sought mine.
+
+I gave her my best reassuring smile.
+
+"It was my idea as well," I said.
+
+"And before anyone starts," Sarah said briskly. "You're paying rent, Charlie. Same as the actress was."
+
+Charlie looked at me.
+
+I told him the amount.
+
+He nodded quickly.
+
+"Right then, Celeste," Sarah continued. "Your house, your rules."
 
 I thought for a moment.
 
@@ -4300,6 +4349,8 @@ He got up then.
 He disappeared into his room.
 
 I heard his door close.
+
+
 
 <hr class="section-break strong" />
 
@@ -4492,10 +4543,14 @@ Sarah moved to the door. Then she stopped.
 
 
 
+
+
+
+
+
 ## 19 How'd You Go?
 
-[Being edited...](W_Edits.md)
-
+[Being edited... 09-Sep-2026](W_Edits.md)
 
 
 <hr class="section-break strong" />

@@ -1,5 +1,6 @@
 # Edits
 
+
 [ *Celeste* ]
 
 I woke to a sound in the kitchenette. Which startled me at first and then I remembered.
@@ -51,6 +52,24 @@ He shrugged slightly.
 I held his eyes in mine for a moment, then bit into the toast.
 
 The car ride to work was notably silent.
+
+...
+
+
+========================
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
