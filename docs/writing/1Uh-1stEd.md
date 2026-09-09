@@ -4320,9 +4320,9 @@ I smiled at her.
 
 "Happy to help, Lauren," I said.
 
-Sarah was in the kitchenette gathering her things.
+Sarah got up.
 
-"Let's get you some rest, Lauren," she said.
+"Right then, that's tonight sorted," she said. She picked up her tote. "Let's get you some rest, Lauren."
 
 After the door closed behind them, I returned to the living room.
 
