@@ -1,57 +1,7 @@
 # Edits
 
 
-[ *Celeste* ]
 
-I woke to a sound in the kitchenette. Which startled me at first and then I remembered.
-
-*Charlie*.
-
-I slipped on a bathrobe and checked the time on my phone. 6:30. 
-
-Charlie had flicked on the kettle. He had already had a shower — judging by his carefully brushed and tied back, but still damp hair — and dressed. His wide eyes met mine. 
-
-My mouth moved into my best reassuring smile. 
-
-"Up early."
-
-"I'm sorry—" he murmured.
-
-I shook my head.
-
-"Don't." The kettle bubbled and clicked. "Help yourself to whatever, Charlie. Just going to have a quick shower."
-
-"Would you like a cuppa when you get out?"
-
-I studied him for a moment. It was Wardrobe talk, in my apartment. 
-
-I grinned.
-
-"Sure, why not?"
-
-When I returned to the kitchenette, a cup of tea was waiting for me, along with a plate of toast. 
-
-And an anxious face.
-
-"I hope that's okay."
-
-I frowned.
-
-"Charlie—"
-
-"You don't have to have it," he said hurriedly.
-
-"And you don't have to do this." I sat down in front of the toast and tea, staring at it.
-
-And then, at his face.
-
-He shrugged slightly.
-
-"Just used to doing it for my mum," he said.
-
-I held his eyes in mine for a moment, then bit into the toast.
-
-The car ride to work was notably silent.
 
 ...
 

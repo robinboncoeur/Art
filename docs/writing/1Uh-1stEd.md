@@ -4350,8 +4350,6 @@ He disappeared into his room.
 
 I heard his door close.
 
-
-
 <hr class="section-break strong" />
 
 
