@@ -4554,6 +4554,8 @@ Sarah moved to the door. Then she stopped.
 
 [ *Celeste* ]
 
+The drive to work was notably silent.
+
 The wind from last night hadn't died down. One could faintly smell the ocean at times, particularly when the wind was blowing as hard as it was this morning.
 
 Charlie and I entered Wardrobe, the wind slamming the door behind us.
