@@ -9,8 +9,6 @@
 
 
 
-
-
 Maybe this:
 
 * *Mara says: 'good, everyone's here' — conversation shifts to Celeste and Charlie*
