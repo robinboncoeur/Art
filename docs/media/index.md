@@ -50,7 +50,7 @@ Or so I thought. And then, I purchased Dorico 6, and found that Musescore 4—bo
 /-->
 
 
-[![Celeste][Stk1]{ .artL width="380" }][Stk1]
+[![Celeste][Stq1]{ .artL width="380" }][Stq1]
 
 **The Wrong Door**
 
@@ -78,20 +78,7 @@ Slightly [different orchestration](https://media.seabrae.org/audio/cg/music/TheW
   </div>
 </div>
 
----
 
-<div class="video-card video-card--portrait">
-  <div class="video-frame">
-    <video controls preload="metadata">
-      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoor-portrait.mp4" type="video/mp4">
-      Your browser does not support the video element.
-    </video>
-  </div>
-	<p class="video-caption">
-		<strong>Follow along on the score</strong>.<br> 
-			Best viewed full-sized in the browser. Right-click on the video, and select "Open Video in new tab" to display it full size.
-	</p> 
-</div>
 
 *Updated: 06-Aug-2026, 1100*
 
@@ -124,7 +111,7 @@ These pieces live in my head when I write.
 
 <div class="music-card music-card--with-art">
   <div>
-    <p>Kalinnikov: Serenade in G</p>
+    <p>Kalinnikov— Serenade in G</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://media.seabrae.org/audio/ytdl/Kalinnikov-SerenadeG.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -142,7 +129,7 @@ These pieces live in my head when I write.
 
 <div class="music-card music-card--with-art">
   <div>
-    <p>Finzi: Three Soliloquies</p>
+    <p>Finzi— Three Soliloquies</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://media.seabrae.org/audio/ytdl/GFinzi-3Soliloquies.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -156,15 +143,15 @@ These pieces live in my head when I write.
 
 
 
-*Note*: **this is the Reaper 'performance' of the third Soliloquy. What was involved was converting notes on a page to a score in MuseScore 4, exporting that to Reaper, and then, slowly asking the libraries to bring it to life. At this stage—8-Jul—still not done, but one can get a sense for what it will sound like, eventually.**
+
 
 [![Waiting at the Train][St29]{ .artL width="160" }][St29]
 
 <div class="music-card music-card--with-art">
   <div>
-    <p>Finzi: Third Soliloquy</p>
+    <p>Fuchs— Serenade #4</p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/music/Soliloquy3b.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/ytdl/Fuchs-Serenade4.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -199,7 +186,7 @@ These pieces live in my head when I write.
 
 <div class="music-card music-card--with-art">
   <div>
-    <p>Finzi: Prelude Op.25</p>
+    <p>Finzi— Prelude Op.25</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://media.seabrae.org/audio/ytdl/Finzi-Prelude25.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -220,7 +207,7 @@ These pieces live in my head when I write.
 
 <div class="music-card music-card--with-art">
   <div>
-    <p>Elgar: Minuet</p>
+    <p>Elgar— Minuet</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://media.seabrae.org/audio/ytdl/Elgar-Minuet.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -239,7 +226,7 @@ These pieces live in my head when I write.
 
 <div class="music-card music-card--with-art">
   <div>
-    <p>Finzi: Severn Rhapsody</p>
+    <p>Finzi— Severn Rhapsody</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://media.seabrae.org/audio/ytdl/Finzi-Severn-Rhapsody.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -259,7 +246,7 @@ These pieces live in my head when I write.
 
 <div class="music-card music-card--with-art">
   <div>
-    <p>Finzi—Love's Labour Lost</p>
+    <p>Finzi— Love's Labour Lost</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://media.seabrae.org/audio/ytdl/Finzi-LovesLost.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -276,9 +263,9 @@ These pieces live in my head when I write.
 
 <div class="music-card music-card--with-art">
   <div>
-    <p>Elgar—Mina</p>
+    <p>Finzi— Five Bagatelles</p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/ytdl/Elgar-Mina.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/ytdl/Finzi-5Bagatelles-Op23.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -294,7 +281,7 @@ These pieces live in my head when I write.
 
 <div class="music-card music-card--with-art">
   <div>
-    <p>Elgar—Serenade Mauresque</p>
+    <p>Elgar— Serenade Mauresque</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://media.seabrae.org/audio/ytdl/Elgar-SMauresq.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -308,11 +295,11 @@ These pieces live in my head when I write.
 
 
 
-[![Understanding][St35]{ .artL width="160" }][St35]
+[![ParkBench][S35a]{ .artL width="160" }][S35a]
 
 <div class="music-card music-card--with-art">
   <div>
-    <p>Holst—A Moorside Suite</p>
+    <p>Holst— A Moorside Suite</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://media.seabrae.org/audio/ytdl/Holst-AMoorsideSuite.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -325,13 +312,13 @@ These pieces live in my head when I write.
 
 
 
-[![Missing Her][St28]{ .artL width="160" }][St28]
+[![TryingOn][S28a]{ .artL width="160" }][S28a]
 
 <div class="music-card music-card--with-art">
   <div>
-    <p>Elgar—Carissima</p>
+    <p>Finzi- Clarinet-Concerto 2nd </p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/ytdl/Elgar-Carissima.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/ytdl/Finzi-Clarinet-Concerto-Op31-2ndMvmt.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -359,13 +346,13 @@ These pieces live in my head when I write.
 
 
 
-[![Coffee][St08]{ .artL width="160" }][St08]
+[![Coffee][Str1]{ .artL width="160" }][Str1]
 
 <div class="music-card music-card--with-art">
   <div>
-    <p>Elgar—Rosemary</p>
+    <p>RDouglas- Cantilena</p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/ytdl/Elgar-Rosemary.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/ytdl/RDouglas-Cantilena.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -375,7 +362,7 @@ These pieces live in my head when I write.
 
 
 
-
+<!--
 
 ## Lala Rookh
 
@@ -394,6 +381,33 @@ This is a piece I transcribed from hand-written manuscript. I have been asked to
   </div>
 </div>
 
+<hr class="section-break strong" />
+
+-->
+
+
+
+<div class="video-card video-card--portrait">
+  <div class="video-frame">
+    <video controls preload="metadata">
+      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoor-portrait.mp4" type="video/mp4">
+      Your browser does not support the video element.
+    </video>
+  </div>
+	<p class="video-caption">
+		<strong>Follow along on the score</strong>.<br> 
+			Best viewed full-sized in the browser. Right-click on the video, and select "Open Video in new tab" to display it full size.
+	</p> 
+</div>
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+<!--
 
 ## Notes to Self
 
@@ -401,8 +415,8 @@ To add musical pieces to this page, do the following:
 
 * copy the piece into the 'toserver' folder, optimise in Audacity if needed
 * ssh into server: ssh celestesh@i5seabrae
-* rsync -avhn --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/ytdl/
-* rsync -avh --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/ytdl/
+* rsync -avhn --progress --exclude='.DS_Store' ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/ytdl/
+* rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/ytdl/
 * ssh -t celestesh@i5Seabrae '
   sudo find /mnt/seamedia/public/audio/ytdl -type d -exec chmod 755 {} +
   sudo find /mnt/seamedia/public/audio/ytdl -type f -exec chmod 644 {} +
@@ -410,46 +424,14 @@ To add musical pieces to this page, do the following:
 
 <hr class="section-break strong" />
 
+-->
 
 <!--  Image references  -->
 
-[Br02]: ../assets/images/base/Bnr02c.jpg
 
-[Sk00]: ../assets/images/base/00Writer.jpg
+--8<-- "includes/image-references.md"
 
-[Sk09]: ../assets/images/sketches/09Metaphor.jpg
-[Sk10]: ../assets/images/sketches/10Bitoffun.jpg
-[Sk11]: ../assets/images/sketches/11Giaconda.jpg
-[Sk12]: ../assets/images/sketches/12Chorale.jpg
-[Sk13]: ../assets/images/sketches/13Retraite.jpg
-[Sk14]: ../assets/images/sketches/14Northwind.jpg
-[Sk15]: ../assets/images/sketches/15Waterfall.jpg
 
-[St00]: ../assets/images/base/00Writer.jpg
-
-[Sta1]: ../assets/images/base/01aKaimu.jpg
-[Stb1]: ../assets/images/base/01bRead.jpg
-[Stb1]: ../assets/images/base/01bRead.jpg
-[Ste1]: ../assets/images/base/01eWinter.jpg
-[Sth1]: ../assets/images/base/01hCeleste.jpg
-[Sti1]: ../assets/images/base/01iCeleste.jpg
-[Stj1]: ../assets/images/base/01jWriter.jpg
-[Stk1]: ../assets/images/base/01nCeleste.jpg
-[St09]: ../assets/images/base/09aParis.jpg
-[St10]: ../assets/images/base/10montvl.jpg
-[St12]: ../assets/images/base/12accost.jpg
-[St13]: ../assets/images/base/13donga.jpg
-[St14]: ../assets/images/base/30alice.jpg
-[St15]: ../assets/images/base/15orage.jpg
-[St16]: ../assets/images/base/16flight.jpg
-[St17]: ../assets/images/base/17Cafe.jpg
-[St29]:  ../assets/images/base/29Charlotte.jpg
-
-[St03]: ../assets/images/story/Scene03a.jpg
-[St08]: ../assets/images/story/Scene08a.jpg
-[St28]: ../assets/images/story/Scene28a.jpg
-[St35]: ../assets/images/story/Scene35a.jpg
-[St56]: ../assets/images/story/Scene56a.jpg
 
 <!--
 

@@ -160,11 +160,28 @@ For your purposes, I’d keep your own position very simple:
 
 That’s the line. Gentle enough to say. Strong enough to stand on. 🌿
 
-
-
-
-
 <hr class="section-break strong" />
+
+
+
+
+
+<!--
+
+## Notes to Self
+
+**GitHub Publishing**
+
+* cd /Users/robyn/Sites/art && ./publish.sh
+
+or
+
+* git pull
+
+-->
+
+
+
 
 <!-- Images References -->
 

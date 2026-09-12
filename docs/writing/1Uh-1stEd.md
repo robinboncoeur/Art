@@ -4766,13 +4766,16 @@ I'll scrub them."
 
 
 
+
+
+
 ## 21 Do Not Follow Her 🪡
 
 [ *Lauren* ]
 
 The workroom was already busy by eight-thirty. So busy that Tahlia had to open a window to let the steam out.
 
-I was halfway through writing 'linen blend, breathable, midweight' when Celeste looked up.
+I was halfway through writing 'linen blend, breathable, mid-weight' when Celeste looked up.
 
 “Lauren.” Her voice always sounded different when she was in leadership mode: calm, exact. “Can you confirm the supplier lead times? If we’re short on yardage, I need options by lunch.”
 

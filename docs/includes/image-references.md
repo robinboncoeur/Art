@@ -86,7 +86,7 @@
 [St00]: /assets/images/base/00Writer.jpg
 [Ts00]: /assets/images/base/00Emily.jpg
 [Sta1]: /assets/images/base/01aBout.jpg
-[Stb1]: /assets/images/base/01vRead.jpg
+[Stb1]: /assets/images/base/01bRead.jpg
 [Stc1]: /assets/images/base/01cActress.jpg
 [Std1]: /assets/images/base/01dLily.jpg
 [Ste1]: /assets/images/base/01eWinter.jpg
@@ -100,6 +100,9 @@
 [Stm1]: /assets/images/base/01mGrpTask.jpg
 [Stn1]: /assets/images/base/01nCeleste.jpg
 [Sto1]: /assets/images/base/01oCharli.jpg
+[Stp1]: /assets/images/base/01pSarah.jpg
+[Stq1]: /assets/images/base/01qCeleste.jpg
+[Str1]: /assets/images/base/01rCharli.jpg
 [Sta2]: /assets/images/base/02amusic.jpg
 [Stb2]: /assets/images/base/02bTahlia.jpg
 [Stc2]: /assets/images/base/02cLeah.jpg
@@ -130,6 +133,7 @@
 [St25]: /assets/images/base/25Tamara.jpg
 [St26]: /assets/images/base/26Celeste.jpg
 [St27]: /assets/images/base/27Charlotte.jpg
+
 [St29]: /assets/images/base/29Charlotte.jpg
 [St30]: /assets/images/base/30alice.jpg
 [St33]: /assets/images/base/33garden.jpg
