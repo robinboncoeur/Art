@@ -1,105 +1,10 @@
 # Aura
 
-## Miniatures
-
-**1) Incidental music for 'Celeste's Girl', Scene 1 "Are You Lost?"**
-
----
-
-<!--
-
-[![Wrong Door][St56]{ .artL width="160" }][St56]
-
-Updated: 11-July-2026, 1000
-
-<div class="music-card music-card--with-art">
-  <div>
-    <p>The Wrong Door - B</p>
-    <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoorB.mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
-</div>
-
-<hr class="section-break soft" />
 
 
 
 
-[![Wrong Door][St03]{ .artL width="160" }][St03]
-
-Updated: 11-July-2026, 1430
-
-<div class="music-card music-card--with-art">
-  <div>
-    <p>The Wrong Door - C</p>
-    <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoorC.mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
-</div>
-
-<hr class="section-break soft" />
-
-I'm calling this piece *fait accompli* with this final version. Time to move on. What I hoped to demonstrate is that—very much like with writing prose—writing music is a tiny bit of 'inspiration' followed by a lot of revision. We have so many tools at our disposal to help revision to be more meaningful, including AI and sound libraries and sharing with listeners / readers from around the globe, unthinkable a mere ten years ago. Well, the AI bit, anyway.
-
-Or so I thought. And then, I purchased Dorico 6, and found that Musescore 4—both Musescore and Dorico do music-notation—had been charitably masking harmonic flaws. Which I have since fixed. I will be doing more and more writing in Dorico: I can see why real composers use it. HUGE learning curve, but then, anything worth learn has that.
-
-/-->
-
-
-[![Celeste][Stq1]{ .artL width="380" }][Stq1]
-
-**The Wrong Door**
-
-<div class="music-card music-card--with-art">
-  <div>
-    <p>D
-    <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoorD.mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-    </p>
-  </div>
-</div>
-
-Slightly [different orchestration](https://media.seabrae.org/audio/cg/music/TheWrongDoor-Ec.pdf).
-
-<div class="music-card music-card--with-art">
-  <div>
-    <p>E
-    <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoor-Ec.mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-    </p>
-  </div>
-</div>
-
-
-
-*Updated: 06-Aug-2026, 1100*
-
----
-
-<!--
-KEEP AS EXAMPLE FOR NEXTCLOUD
-<source src="https://cloud.seabrae.org/index.php/s/BRfP6tqMftxTwWf/download" type="audio/mpeg">
-
-
-Very subtle motion. The girl sits quietly in class and glances up with mild curiosity. One soft blink at most. Preserve exact facial features, hair, clothing, and mood.
-/-->
-
-<hr class="section-break strong" />
-
-
-
-
-
-
-## Current—Playlist
+## Setting the Atmosphere
 
 
 [![Read][Stb1]{ .artR width="340" }][Stb1]
@@ -384,6 +289,106 @@ This is a piece I transcribed from hand-written manuscript. I have been asked to
 <hr class="section-break strong" />
 
 -->
+
+
+
+## Miniatures
+
+**1) Incidental music for 'Celeste's Girl', Scene 1 "Are You Lost?"**
+
+---
+
+<!--
+
+[![Wrong Door][St56]{ .artL width="160" }][St56]
+
+Updated: 11-July-2026, 1000
+
+<div class="music-card music-card--with-art">
+  <div>
+    <p>The Wrong Door - B</p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoorB.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<hr class="section-break soft" />
+
+
+
+
+[![Wrong Door][St03]{ .artL width="160" }][St03]
+
+Updated: 11-July-2026, 1430
+
+<div class="music-card music-card--with-art">
+  <div>
+    <p>The Wrong Door - C</p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoorC.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<hr class="section-break soft" />
+
+I'm calling this piece *fait accompli* with this final version. Time to move on. What I hoped to demonstrate is that—very much like with writing prose—writing music is a tiny bit of 'inspiration' followed by a lot of revision. We have so many tools at our disposal to help revision to be more meaningful, including AI and sound libraries and sharing with listeners / readers from around the globe, unthinkable a mere ten years ago. Well, the AI bit, anyway.
+
+Or so I thought. And then, I purchased Dorico 6, and found that Musescore 4—both Musescore and Dorico do music-notation—had been charitably masking harmonic flaws. Which I have since fixed. I will be doing more and more writing in Dorico: I can see why real composers use it. HUGE learning curve, but then, anything worth learn has that.
+
+/-->
+
+
+[![Celeste][Stq1]{ .artL width="380" }][Stq1]
+
+**The Wrong Door**
+
+<div class="music-card music-card--with-art">
+  <div>
+    <p>D
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoorD.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    </p>
+  </div>
+</div>
+
+Slightly [different orchestration](https://media.seabrae.org/audio/cg/music/TheWrongDoor-Ec.pdf).
+
+<div class="music-card music-card--with-art">
+  <div>
+    <p>E
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoor-Ec.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    </p>
+  </div>
+</div>
+
+
+
+*Updated: 11-Sep-2026*
+
+---
+
+<!--
+KEEP AS EXAMPLE FOR NEXTCLOUD
+<source src="https://cloud.seabrae.org/index.php/s/BRfP6tqMftxTwWf/download" type="audio/mpeg">
+
+
+Very subtle motion. The girl sits quietly in class and glances up with mild curiosity. One soft blink at most. Preserve exact facial features, hair, clothing, and mood.
+/-->
+
+<hr class="section-break soft" />
+
+
+
+
 
 
 
