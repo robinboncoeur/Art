@@ -251,7 +251,7 @@ These pieces live in my head when I write.
 
 
 
-[![Coffee][Str1]{ .artL width="160" }][Str1]
+[![Cantilena][Str1]{ .artL width="160" }][Str1]
 
 <div class="music-card music-card--with-art">
   <div>
@@ -266,6 +266,23 @@ These pieces live in my head when I write.
 <hr class="section-break soft" />
 
 
+
+
+
+
+[![Cantilena][Str1]{ .artL width="160" }][Str1]
+
+<div class="music-card music-card--with-art">
+  <div>
+    <p>Finzi- Clarinet Concerto 2nd Mvmt</p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/ytdl/Finzi-Clarinet-Concerto-Op31-2ndMvmt.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<hr class="section-break soft" />
 
 <!--
 
@@ -440,7 +457,7 @@ To add musical pieces to this page, do the following:
 
 <!--
 
-✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧——… …
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧💎 …
 
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 ——
 

@@ -4092,11 +4092,13 @@ A final message came back, firm as a hand at my elbow.
 
 *Tea.*
 
-Such an simple word.
+Such a simple word.
 
 Such an enormous mercy.
 
-I stood, wiped my cheeks with the heel of my hand, and went to the bedroom to pack. Items flew into my overnight bag with the quiet efficiency of someone no longer asking permission. 
+I stood, wiped my cheeks with the heel of my hand, and went to the bedroom to pack. Items flew into my overnight bag with the quiet efficiency of someone no longer asking permission. I stepped into Charles' tidy bedroom with a canvas tote and quickly threw in a few things he would need.
+
+*Just for tonight.*
 
 At the front door, I stopped.
 
@@ -4250,13 +4252,25 @@ Lauren cleared her throat.
 
 "That would be good," she said softly.
 
-Sarah put her hands on her knees.
+Sarah put her hands on her knees and leaned forward.
 
-"Lauren is staying with me for the foreseeable future."
+"Lauren is staying with me tonight."
 
 She turned to Charlie.
 
-"And you'll stay here until you find accommodation elsewhere."
+"And you'll stay here, Charlie."
+
+He nodded, still studying his hands.
+
+"Right then, that's tonight sorted," she said. She bunched her lips in that way I knew meant she was getting ready to say the awkward thing no one else wanted to say. "Just not tomorrow."
+
+"Can we just—" Lauren began, then stopped.
+
+Sarah had simply looked at her.
+
+Lauren closed her eyes.
+
+"There's no point in beating around the bush. Accommodation is as rare as hen's teeth." Sarah's eyes met mine. "Celeste is okay with you staying here while we work out what comes next."
 
 Charlie's eyes were as wide as his mouth.
 
@@ -4266,13 +4280,9 @@ Sarah looked at him sharply.
 
 "Better idea?"
 
-Lauren's face, still tired, now showed traces of concern. Her eyes sought mine.
+She stood.
 
-I gave her my best reassuring smile.
-
-"It was my idea as well," I said.
-
-"And before anyone starts," Sarah said briskly. "You're paying rent, Charlie. Same as the actress was."
+"And before anyone starts," she said briskly. "You're paying rent, Charlie. Same as the actress was."
 
 Charlie looked at me.
 
@@ -4308,10 +4318,6 @@ I turned to her.
 
 I bit my lip to keep from smiling.
 
-Sarah stood.
-
-"Anything else?"
-
 Lauren took a sip of her tea. Her shoulders seemed to have eased somewhat.
 
 "Just want to say thank you, Celeste," she murmured. "I—"
@@ -4320,9 +4326,13 @@ I smiled at her.
 
 "Happy to help, Lauren," I said.
 
-Sarah got up.
+Sarah turned to me.
 
-"Right then, that's tonight sorted," she said. She picked up her tote. "Let's get you some rest, Lauren."
+"Anything else?"
+
+I shook my head, and she picked up her tote. 
+
+"Let's get you some rest, Lauren."
 
 After the door closed behind them, I returned to the living room.
 
