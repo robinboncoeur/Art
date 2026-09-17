@@ -24,7 +24,7 @@ These pieces live in my head when I write.
   </div>
 </div>
 
-<hr class="section-break soft" />
+<hr class="section-break sweet" />
 
 
 
@@ -42,7 +42,7 @@ These pieces live in my head when I write.
   </div>
 </div>
 
-<hr class="section-break soft" />
+<hr class="section-break sweet" />
 
 
 
@@ -62,7 +62,7 @@ These pieces live in my head when I write.
   </div>
 </div>
 
-<hr class="section-break soft" />
+<hr class="section-break sweet" />
 
 
 
@@ -82,7 +82,7 @@ These pieces live in my head when I write.
   </div>
 </div>
 
-<hr class="section-break soft" />
+<hr class="section-break sweet" />
 
 
 
@@ -99,7 +99,7 @@ These pieces live in my head when I write.
   </div>
 </div>
 
-<hr class="section-break soft" />
+<hr class="section-break sweet" />
 
 
 
@@ -120,7 +120,7 @@ These pieces live in my head when I write.
   </div>
 </div>
 
-<hr class="section-break soft" />
+<hr class="section-break sweet" />
 
 
 
@@ -139,7 +139,7 @@ These pieces live in my head when I write.
   </div>
 </div>
 
-<hr class="section-break soft" />
+<hr class="section-break sweet" />
 
 
 
@@ -159,7 +159,7 @@ These pieces live in my head when I write.
   </div>
 </div>
 
-<hr class="section-break soft" />
+<hr class="section-break sweet" />
 
 
 
@@ -176,7 +176,7 @@ These pieces live in my head when I write.
   </div>
 </div>
 
-<hr class="section-break soft" />
+<hr class="section-break sweet" />
 
 
 
@@ -194,7 +194,7 @@ These pieces live in my head when I write.
   </div>
 </div>
 
-<hr class="section-break soft" />
+<hr class="section-break sweet" />
 
 
 
@@ -212,7 +212,7 @@ These pieces live in my head when I write.
   </div>
 </div>
 
-<hr class="section-break soft" />
+<hr class="section-break sweet" />
 
 
 
@@ -229,7 +229,7 @@ These pieces live in my head when I write.
   </div>
 </div>
 
-<hr class="section-break soft" />
+<hr class="section-break sweet" />
 
 
 
@@ -246,7 +246,7 @@ These pieces live in my head when I write.
   </div>
 </div>
 
-<hr class="section-break soft" />
+<hr class="section-break sweet" />
 
 
 
@@ -263,14 +263,14 @@ These pieces live in my head when I write.
   </div>
 </div>
 
-<hr class="section-break soft" />
+<hr class="section-break sweet" />
 
 
 
 
 
 
-[![Cantilena][Str1]{ .artL width="160" }][Str1]
+[![Cantilena][Stt1]{ .artL width="160" }][Stt1]
 
 <div class="music-card music-card--with-art">
   <div>
@@ -282,7 +282,7 @@ These pieces live in my head when I write.
   </div>
 </div>
 
-<hr class="section-break soft" />
+<hr class="section-break sweet" />
 
 <!--
 
@@ -331,7 +331,7 @@ Updated: 11-July-2026, 1000
   </div>
 </div>
 
-<hr class="section-break soft" />
+<hr class="section-break sweet" />
 
 
 
@@ -350,7 +350,7 @@ Updated: 11-July-2026, 1430
   </div>
 </div>
 
-<hr class="section-break soft" />
+<hr class="section-break sweet" />
 
 I'm calling this piece *fait accompli* with this final version. Time to move on. What I hoped to demonstrate is that—very much like with writing prose—writing music is a tiny bit of 'inspiration' followed by a lot of revision. We have so many tools at our disposal to help revision to be more meaningful, including AI and sound libraries and sharing with listeners / readers from around the globe, unthinkable a mere ten years ago. Well, the AI bit, anyway.
 
@@ -398,10 +398,10 @@ KEEP AS EXAMPLE FOR NEXTCLOUD
 <source src="https://cloud.seabrae.org/index.php/s/BRfP6tqMftxTwWf/download" type="audio/mpeg">
 
 
-Very subtle motion. The girl sits quietly in class and glances up with mild curiosity. One soft blink at most. Preserve exact facial features, hair, clothing, and mood.
+Very subtle motion. The girl sits quietly in class and glances up with mild curiosity. One sweet blink at most. Preserve exact facial features, hair, clothing, and mood.
 /-->
 
-<hr class="section-break soft" />
+<hr class="section-break sweet" />
 
 
 

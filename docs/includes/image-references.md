@@ -103,6 +103,8 @@
 [Stp1]: /assets/images/base/01pSarah.jpg
 [Stq1]: /assets/images/base/01qCeleste.jpg
 [Str1]: /assets/images/base/01rCharli.jpg
+[Sts1]: /assets/images/base/01sCharli.jpg
+[Stt1]: /assets/images/base/01tCharli.jpg
 [Sta2]: /assets/images/base/02amusic.jpg
 [Stb2]: /assets/images/base/02bTahlia.jpg
 [Stc2]: /assets/images/base/02cLeah.jpg

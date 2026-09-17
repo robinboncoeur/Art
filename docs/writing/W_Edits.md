@@ -1,6 +1,6 @@
 # Edits
 
-<hr class=”section-break strong” />
+<hr class="section-break strong" />
 
 
 
@@ -16,7 +16,7 @@ She's not the type to beat about the bush. She would cut straight to the chase.
 That's the only course I see.  
 Thoughts?
 
-<hr class=”section-break soft” />
+<hr class="section-break soft" />
 
 
 
@@ -26,7 +26,9 @@ Thoughts?
 
 ## A Safe Distance
 
-[![Emily][Ts00]{ .artR width=”260” }][Ts00]
+
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
+
 
 I think you're right. In fact, I think anything more delicate from Celeste at that exact moment would feel **false to Celeste**.
 
@@ -40,15 +42,19 @@ That changes the rules—not because Celeste suddenly acquires a right to his me
 
 So yes:
 
-> “Charlie, you've gone white. What is this stuff? Be honest with me.”
+> “Charlie, you've gone white. What is this stuff? Be honest with me."
 
 That's her.
 
-And I think **“Be honest with me”** is the important part. Not *Tell me what you've been hiding.* Not *What's going on?* Not *Why didn't you tell me?*
+And I think **“Be honest with me"** is the important part. Not *Tell me what you've been hiding.* Not *What's going on?* Not *Why didn't you tell me?*
 
 She's already realised the problem isn't merely the bottle.
 
-### Where I see the chapter going
+<hr class="section-break soft" />
+
+
+
+**Where I see the chapter going**
 
 I wouldn't outline it primarily as a **Spiro revelation chapter**. I'd outline it as the chapter in which **Celeste discovers Charlie's false theory of belonging**.
 
@@ -56,11 +62,11 @@ The medication gets them through the door.
 
 Charlie probably tries the smallest truthful answer first. That's his established strategy. He doesn't lie particularly well; he **minimises**.
 
-“What is this stuff?”
+“What is this stuff?"
 
-“Medicine.”
+“Medicine."
 
-“I worked that bit out, Charlie.”
+“I worked that bit out, Charlie."
 
 Perhaps she reads the label now. *Spironolactone.* Means nothing to her. She asks what it does.
 
@@ -68,7 +74,7 @@ And this is where I'd be careful about how much articulate endocrinology Charlie
 
 **It stops things.**
 
-“What things?”
+“What things?"
 
 And now we're getting somewhere dangerous.
 
@@ -82,13 +88,13 @@ She asks the obvious question:
 
 And *that's* where Charlie gives her the answer he has been telling himself:
 
-> “So I fit in.”
+> “So I fit in."
 
 I think Celeste is genuinely baffled.
 
 Fit in **where?**
 
-“At Wardrobe.”
+“At Wardrobe."
 
 And *that* is the moment the chapter changes direction.
 
@@ -98,7 +104,12 @@ Instead Charlie tells her that **this is about them.**
 
 The women.
 
-### And I think Celeste's first reaction might actually be disbelief
+<hr class="section-break soft" />
+
+
+
+
+**I think Celeste's first reaction might actually be disbelief**
 
 Not anger. Not yet.
 
@@ -114,7 +125,7 @@ He's been accepted. Trusted. Employed. Included. Fed. Teased. Taught. Defended. 
 
 So when Charlie eventually gets to:
 
-> “I thought if I didn't start looking like Graham or my dad, I'd be cool with the women.”
+> “I thought if I didn't start looking like Graham or my dad, I'd be cool with the women."
 
 Celeste suddenly encounters Charlie's internal model of Wardrobe.
 
@@ -132,7 +143,12 @@ And therefore puberty represents:
 
 Oh, Charlie. 😭
 
-### That's where Celeste can become Celeste
+<hr class="section-break soft" />
+
+
+
+
+**That's where Celeste can become Celeste**
 
 This is where I think she gets quite direct.
 
@@ -160,23 +176,23 @@ Because clearly it **does matter to Charlie**, even if she doesn't yet understan
 
 What she *can* attack is the conditional:
 
-**“Who told you that?”**
+**“Who told you that?"**
 
 Nobody.
 
-“Did Mara tell you that?”
+“Did Mara tell you that?"
 
 No.
 
-“Lucy?”
+“Lucy?"
 
 No.
 
-“Tahlia? Sarah? Me?”
+“Tahlia? Sarah? Me?"
 
 No.
 
-“Did you ask any of us?”
+“Did you ask any of us?"
 
 No.
 
@@ -184,11 +200,11 @@ Why not?
 
 And Charlie's answer is devastatingly Charlie:
 
-> “Because people don't always tell the truth about what they feel.”
+> “Because people don't always tell the truth about what they feel."
 
 And Celeste can immediately turn it:
 
-> “Are you telling me the truth?”
+> “Are you telling me the truth?"
 
 Silence.
 
@@ -202,19 +218,24 @@ If Charlie believes people conceal uncomfortable truths to preserve relationship
 
 And he knows it.
 
-### Then comes the second truth
+<hr class="section-break soft" />
+
+
+
+
+**Then comes the second truth**
 
 This is where I'd slow the chapter right down.
 
 Celeste now knows *fitting in at Wardrobe* isn't sufficient.
 
-> “So it's not just about fitting in, is it?”
+> “So it's not just about fitting in, is it?"
 
 Charlie shakes his head.
 
 And now I think your previously developed line belongs:
 
-> “Tell me the truth, then.”
+> “Tell me the truth, then."
 
 Not aggressively.
 
@@ -222,13 +243,13 @@ Probably very quietly.
 
 And Charlie has to reach for something he hasn't yet converted into identity language:
 
-> “Celeste, I was mostly frightened because— I was changing.”
+> “Celeste, I was mostly frightened because— I was changing."
 
 Perhaps that's all he can initially manage.
 
 Then:
 
-> “I was becoming something I…”
+> “I was becoming something I…"
 
 And he can't finish.
 
@@ -242,7 +263,7 @@ The reader can.
 
 Charlie might eventually get there himself:
 
-“I didn't want to look like Dad.”
+“I didn't want to look like Dad."
 
 That's safer.
 
@@ -254,7 +275,12 @@ But Celeste gradually realises that Wardrobe isn't the whole explanation. Wardro
 
 **The terror preceded the explanation.**
 
-### And this is where I'd end the chapter's emotional work
+<hr class="section-break soft" />
+
+
+
+
+**And this is where I'd end the chapter's emotional work**
 
 Celeste doesn't need to determine Charlie's identity.
 
@@ -272,9 +298,9 @@ That's very Celeste. 😄
 
 And perhaps Charlie tries:
 
-“But if I—”
+“But if I—"
 
-“No.”
+“No."
 
 Not *no, don't change*. Not *no, you're wrong about your body.*
 
@@ -290,7 +316,12 @@ Then that's something else.
 
 Something worth understanding.
 
-### So for tomorrow's outline, I'd think in terms of three movements
+<hr class="section-break soft" />
+
+
+
+
+**So for tomorrow's outline, I'd think in terms of three movements**
 
 Not necessarily three scenes—three emotional movements:
 
@@ -298,7 +329,7 @@ Not necessarily three scenes—three emotional movements:
    Charlie has been taking Spiro to stop changes.
 
 2. **Why?**
-   “So I fit in.” Celeste discovers Charlie believes Wardrobe's acceptance depends partly on his remaining physically non-threatening/non-masculine.
+   “So I fit in." Celeste discovers Charlie believes Wardrobe's acceptance depends partly on his remaining physically non-threatening/non-masculine.
 
 3. **Is that actually the whole truth?**
    No. Once Celeste removes Wardrobe as the justification, Charlie is left confronting the frightening residue:
@@ -324,7 +355,7 @@ He took it because, months before he possessed the language to ask *who am I?*, 
 Writing Friday is going to be quite something. 💜
 
 
-<hr class=”section-break strong” />
+<hr class="section-break strong" />
 
 
 
@@ -335,15 +366,16 @@ Writing Friday is going to be quite something. 💜
 
 [ *Celeste* ]
 
+...
 
 
-
+<hr class="section-break strong" />
 
 
 <!-- Images References -->
 
---8<-- ”includes/image-references.md”
+--8<-- "includes/image-references.md"
 
 🌷
 
-<hr class=”section-break strong” />
+<hr class="section-break strong" />
