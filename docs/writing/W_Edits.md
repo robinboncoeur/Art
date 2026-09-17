@@ -7,170 +7,322 @@
 
 ## Outline: Discussion
 
+Tomorrow is Writing Friday. I'll be doing an outline again — this seems to be a useful approach. Roughly, what do you see as the next direction?  
+See, I see Celeste as putting two and two together. She's realising this is him hiding something from her, something that this bottle is central to.  
+She's not the type to beat about the bush. She would cut straight to the chase.
+
+"Charlie, you've gone white. What is this stuff? Be honest with me."
+
+That's the only course I see.  
+Thoughts?
+
+<hr class=”section-break soft” />
+
+
+
+
+
+
+
+## A Safe Distance
 
 [![Emily][Ts00]{ .artR width=”260” }][Ts00]
 
+I think you're right. In fact, I think anything more delicate from Celeste at that exact moment would feel **false to Celeste**.
 
-* Celeste has a **much more interesting role** than simply discovering the spironolactone.  
-* What changes when Charlie moves into Celeste's house is not *Charlie's habit of concealment*.   
-* What changes is the **environment's ability to accommodate concealment**.
+She has spent the previous chapter *not* asking. She respected the disappearing. She respected the parcel. She explicitly gave him:
 
-At home, disappearing was architecture. Roger wasn't looking closely at Charlie except when he wanted something from him. Lauren loved him, but the household had its own tensions and she had learned her own forms of accommodation. Charlie could go to his room, shut a door, minimise himself, research privately, receive something privately, and answer questions minimally. His strategy worked because nobody was consistently attending to him.
+> *If it stops being nothing, I'm around.*
 
-At Celeste's, that's going to become increasingly difficult, because Celeste **pays attention**. And initially misreads what she's seeing.
+But now Charlie has gone **white** because she is holding his medicine.
 
-<hr class=”section-break soft” />
+That changes the rules—not because Celeste suddenly acquires a right to his medical information, but because **Charlie has visibly signalled distress**. She isn't interrogating a secret. She's responding to the person sitting in front of her.
 
+So yes:
 
+> “Charlie, you've gone white. What is this stuff? Be honest with me.”
 
-**Celeste has the right evidence and the wrong hypothesis**
+That's her.
 
-She already knows Charlie has a crush on her. Or at least she's increasingly confident of it.
-So a lot of odd behaviour has a perfectly plausible explanation.
+And I think **“Be honest with me”** is the important part. Not *Tell me what you've been hiding.* Not *What's going on?* Not *Why didn't you tell me?*
 
-* Charlie goes quiet when she enters the room. — *Oh. Me.*  
-* Charlie closes a browser window. — *Oh God. Probably something about me.*  
-* He seems acutely conscious of where she is in the house. — *Definitely me.*    
-* He becomes awkward if she casually asks what he's been doing. — *Poor bugger. He really does like me.*  
-* Perhaps she catches him looking at her and he immediately looks away. — *There. Case closed.*
+She's already realised the problem isn't merely the bottle.
 
-Except: **the pattern doesn't quite fit.** 
+### Where I see the chapter going
 
-* Some of Charlie's secrecy has nothing whatsoever to do with Celeste.   
-* And Celeste is observant enough eventually to realise that.  
-* **There's a part of his life he is actively preventing me from seeing.**
+I wouldn't outline it primarily as a **Spiro revelation chapter**. I'd outline it as the chapter in which **Celeste discovers Charlie's false theory of belonging**.
 
-And Celeste doesn't like the discovery:  
-* not because she believes herself entitled to know it,   
-* but because she's beginning to care about him.
+The medication gets them through the door.
 
-<hr class=”section-break soft” />
+Charlie probably tries the smallest truthful answer first. That's his established strategy. He doesn't lie particularly well; he **minimises**.
 
+“What is this stuff?”
 
+“Medicine.”
 
-**Charlie has never had to distinguish privacy from concealment**
+“I worked that bit out, Charlie.”
 
-Charlie thinks they're the same thing. His model is essentially:
+Perhaps she reads the label now. *Spironolactone.* Means nothing to her. She asks what it does.
 
-*If I don't want somebody to know something, I make sure they don't know it.*
+And this is where I'd be careful about how much articulate endocrinology Charlie possesses. He ordered it deliberately, so he knows what he wanted it to do. But emotionally his explanation may be painfully primitive:
 
-But Celeste has a more mature distinction:
+**It stops things.**
 
-* **Privacy:** *That's yours. I won't intrude.*   
-* **Secrecy:** *You are actively managing what I see because you're afraid of what happens if I know.*
+“What things?”
 
-And she begins recognising the second. That doesn't give her permission to investigate. It gives her reason to worry. That is *so* Celeste. She doesn't search his room. She doesn't inspect his phone. She doesn't corner him with *What's going on?* She doesn't recruit Sarah to interrogate him. Instead: 
+And now we're getting somewhere dangerous.
 
-* she starts leaving **doors open**. Not literal ones necessarily—although in this book, doors have become rather wonderfully literal. 😄
-* She gives Charlie opportunities to tell her things.
-* And he doesn't.
+**Changes.**
 
-<hr class=”section-break soft” />
+Celeste can put that beside the razor conversation. The shape conversation. Perhaps other things she's noticed. But she still shouldn't leap to gender.
 
+She asks the obvious question:
 
+**Why do you want to stop them?**
 
-**Which means Celeste's curiosity should probably evolve in stages**
+And *that's* where Charlie gives her the answer he has been telling himself:
 
-* At first it's affectionate amusement: *He's hiding his crush.*  
-* Then mild puzzlement: *No. Some of this isn't me.*  
-* Then observation: *He does that whenever the subject gets anywhere near his body.*  
-* Then concern: *He's frightened of me knowing something.*  
-* And finally the much more important realisation:  
+> “So I fit in.”
 
-**Whatever he's hiding, Charlie believes disclosure could cost him something.**
+I think Celeste is genuinely baffled.
 
-That is the moment Celeste's response changes. Because she doesn't actually need to know *what* it is yet. She needs Charlie to know:
+Fit in **where?**
 
-**You are not under examination here.**
+“At Wardrobe.”
 
-And that's the groundwork for the later spironolactone conversation.
+And *that* is the moment the chapter changes direction.
 
-<hr class=”section-break soft” />
+Because Celeste has probably been expecting something intensely personal—illness, body problem, something he was ashamed of, perhaps something involving her.
 
+Instead Charlie tells her that **this is about them.**
 
+The women.
 
+### And I think Celeste's first reaction might actually be disbelief
 
-**There are some lovely tiny tells available**
+Not anger. Not yet.
 
-I wouldn't make any one of them conspicuous. In fact, individually they should be nearly worthless. Collectively, Celeste notices a pattern.
+Something like:
 
-* Charlie is unusually protective of his messenger bag.  
-* A parcel arrives and disappears into his room immediately.  
-* He keeps track of when Celeste is likely to be home.  
-* He closes a tab when she walks past—not dramatically, just reflexively.  
-* He becomes evasive about spending.  
-* Perhaps he's suddenly very interested in when the bathroom is free, or spends longer there examining something and comes out the instant he hears movement.  
-* He wears something that conceals a physical change he has noticed.  
-* If Celeste casually mentions Graham, Roger, shaving, growing up, men's sizing—anything adjacent to adult maleness—Charlie doesn't necessarily react visibly enough for *her* to understand, but she registers that conversations sometimes simply **die**.
+*What?*
 
----
+Because from Celeste's perspective, this is absurd.
 
-And here's the important part:
+Charlie is **already one of them**.
 
-* *Charlie is good at hiding information.*   
-* *He* **isn't good** *at hiding the fact that he is hiding information.*
+He's been accepted. Trusted. Employed. Included. Fed. Teased. Taught. Defended. Given responsibility. Invited into people's lives.
 
-Especially from somebody who has begun watching him with affection. That feels exactly right for him.
+So when Charlie eventually gets to:
 
-* He has spent years perfecting **absence**.  
-* He has much less experience with **intimacy**.
+> “I thought if I didn't start looking like Graham or my dad, I'd be cool with the women.”
 
-<hr class=”section-break soft” />
+Celeste suddenly encounters Charlie's internal model of Wardrobe.
 
+And it's horrible.
 
+Not because Charlie thinks badly of the women. Quite the opposite.
 
-**The crush becomes camouflage**
+He thinks their acceptance has **terms and conditions**.
 
-I particularly love this because Charlie's crush can accidentally protect the deeper secret. Celeste repeatedly explains his behaviour to herself through the explanation she already possesses. And Charlie may realise that. Not cynically. He isn't manipulating Celeste. But perhaps there is one moment where she misinterprets something:
+He thinks he's been allowed into this extraordinary place because he's small, quiet, unthreatening, barely developed, not visibly masculine.
 
-*“Charlie, you know you don't have to disappear every time I come into the room.”*
+And therefore puberty represents:
 
-And he flushes.
+**expiry of membership.**
 
-* Celeste thinks: *Yep. Me.*  
-* Charlie thinks: *Thank God.*
+Oh, Charlie. 😭
 
-That's marvellous dramatic irony. Because the blush is real. His feelings for Celeste are real. His embarrassment is real. **And Celeste is still wrong.**
+### That's where Celeste can become Celeste
 
-We have been talking repeatedly about inference in this book — people observing Charlie accurately and interpreting him incompletely. This gives Celeste her own substantial version of it. 
+This is where I think she gets quite direct.
 
-<hr class=”section-break soft” />
+Because she can refute **that proposition** without touching Charlie's gender.
 
+That's vital.
 
+She cannot say:
 
+*You're a boy and we'd still love you as a boy.*
 
-**Most importantly: don't let Celeste solve Charlie**
+Because Charlie hasn't established that *boy* is something he wants defended.
 
-I think that's the trap to avoid. She shouldn't eventually think:
+She cannot say:
 
-* *Ah! Puberty. Spironolactone. Gender. I understand.*
+*You're really a girl.*
 
-No. She can get as far as:
+Obviously.
 
-* **Something is frightening him.** 
-* **It concerns something changing.** 
-* **He doesn't want me to know.** 
-* **And whatever it is, he thinks knowing it might change how I see him.**
+She doesn't even need:
 
-That's plenty. In fact, I'd have Celeste become increasingly **deliberate about not discovering it**. She sees an opportunity to look at something on his screen—and looks away. She finds his bag somewhere—and doesn't open it. A parcel comes—and she puts it outside his bedroom rather than examining the sender.
+*It doesn't matter what you look like.*
 
-Charlie says, “It's nothing,” and she knows perfectly well that isn't true.
+Because clearly it **does matter to Charlie**, even if she doesn't yet understand why.
 
-But she says:  
-“Okay.”  
-Not because she believes him.  
-Because **he has the right not to tell her**.  
-And then, perhaps:    
-“If it stops being nothing, I'm around.”  
-That's Celeste establishing something Charlie has almost no experience of:  
-**You can keep something private from me without having to hide from me.**
+What she *can* attack is the conditional:
 
-Oh, Robyn. That's important. Because ultimately *Unhidden* isn't going to require Charlie to surrender his privacy. It's going to require him to discover that **being known doesn't necessarily result in being harmed**. And that means moving into Celeste's isn't merely the practical solution to the Roger crisis.
+**“Who told you that?”**
 
-It's the point at which Charlie's lifelong survival mechanism starts failing.  
-Not because Celeste tears it away.  
-But because for the first time in his life:   
-**someone notices when he disappears — and leaves the light on for him anyway.** 🌿
+Nobody.
+
+“Did Mara tell you that?”
+
+No.
+
+“Lucy?”
+
+No.
+
+“Tahlia? Sarah? Me?”
+
+No.
+
+“Did you ask any of us?”
+
+No.
+
+Why not?
+
+And Charlie's answer is devastatingly Charlie:
+
+> “Because people don't always tell the truth about what they feel.”
+
+And Celeste can immediately turn it:
+
+> “Are you telling me the truth?”
+
+Silence.
+
+There.
+
+**That's your midpoint.**
+
+Because Celeste has caught the flaw.
+
+If Charlie believes people conceal uncomfortable truths to preserve relationships, then **that's exactly what he's doing now.**
+
+And he knows it.
+
+### Then comes the second truth
+
+This is where I'd slow the chapter right down.
+
+Celeste now knows *fitting in at Wardrobe* isn't sufficient.
+
+> “So it's not just about fitting in, is it?”
+
+Charlie shakes his head.
+
+And now I think your previously developed line belongs:
+
+> “Tell me the truth, then.”
+
+Not aggressively.
+
+Probably very quietly.
+
+And Charlie has to reach for something he hasn't yet converted into identity language:
+
+> “Celeste, I was mostly frightened because— I was changing.”
+
+Perhaps that's all he can initially manage.
+
+Then:
+
+> “I was becoming something I…”
+
+And he can't finish.
+
+**Don't help him finish it.**
+
+That's tremendously important.
+
+Celeste shouldn't supply *man*.
+
+The reader can.
+
+Charlie might eventually get there himself:
+
+“I didn't want to look like Dad.”
+
+That's safer.
+
+Or Graham.
+
+Or the boys at school.
+
+But Celeste gradually realises that Wardrobe isn't the whole explanation. Wardrobe supplied Charlie with somewhere he desperately didn't want to lose.
+
+**The terror preceded the explanation.**
+
+### And this is where I'd end the chapter's emotional work
+
+Celeste doesn't need to determine Charlie's identity.
+
+Her achievement can be much smaller and much more important:
+
+**She removes Wardrobe from the equation.**
+
+Whatever Charlie eventually decides about his body, he no longer needs to make that decision in order to preserve his membership.
+
+Something conceptually like:
+
+*You don't get to decide for all of us that we'd stop wanting you around.*
+
+That's very Celeste. 😄
+
+And perhaps Charlie tries:
+
+“But if I—”
+
+“No.”
+
+Not *no, don't change*. Not *no, you're wrong about your body.*
+
+**No, you don't get to make our acceptance conditional on something we never made conditional.**
+
+That is the gift Celeste can give him.
+
+And then—and I think this is crucial—**she leaves the body question with Charlie.**
+
+If you still don't want these changes after you know you don't have to stop them for *us*...
+
+Then that's something else.
+
+Something worth understanding.
+
+### So for tomorrow's outline, I'd think in terms of three movements
+
+Not necessarily three scenes—three emotional movements:
+
+1. **What is the bottle?**
+   Charlie has been taking Spiro to stop changes.
+
+2. **Why?**
+   “So I fit in.” Celeste discovers Charlie believes Wardrobe's acceptance depends partly on his remaining physically non-threatening/non-masculine.
+
+3. **Is that actually the whole truth?**
+   No. Once Celeste removes Wardrobe as the justification, Charlie is left confronting the frightening residue:
+
+   **Even if the women would accept me exactly as I became... I still don't want to become that.**
+
+And **that** is where I would stop pushing.
+
+Because that's enormous.
+
+It doesn't mean *therefore Charlotte*.
+
+It means Charlie has just discovered that his desire to stop masculinisation **survives removal of the social explanation**.
+
+That's the first time the question genuinely belongs to him.
+
+And suddenly the Spiro becomes even more important than before. He didn't take it because he knew he was Charlotte.
+
+He took it because, months before he possessed the language to ask *who am I?*, something inside him was already saying:
+
+**Not that. Please. Not that.**
+
+Writing Friday is going to be quite something. 💜
+
 
 <hr class=”section-break strong” />
 
@@ -183,273 +335,7 @@ But because for the first time in his life:
 
 [ *Celeste* ]
 
-Returning back to the flat — windy cold afternoon (wet bitumen + cut grass + wattle + eucalyptus + faint salt) — after a session with Deakin course adviser to discuss undergraduate business study, enrolment/pathway, fees and eventual MBA plans.
 
-*comes into the flat*
-
-```text
-“Hello to you too.”
-
-Charlie looked up.
-
-“Charlie, you know you don't have to disappear every time I come into the room.”
-```
-
-*starts fixing dinner, ruminating on Charlie's obsession with privacy*
-
-*Charlie hears activity in the kitchen, offers help*
-
-”Sure, if you'd like.”
-
-*Charlie cannot look at her*
-
-*over dinner, she makes a quip about having to pick up a few things at woolies, razors Something along the lines of her complaining that warmer weather means she's going to have to start shaving her legs again. Then perhaps she looks at Charlie's very smooth face and tosses out something thoughtless and affectionate: “You've got all this to look forward to.” Or even better, Charlie himself asks: “Razors?” “Legs,” I said. “Spring.” And then perhaps: “Although at this rate you'll be twenty-five before you need one.”*
-
-*Charlie And because we're in Celeste POV, we don't get his explanation. We get: Charlie's fork stopped halfway to his mouth.*
-
-*Then: “How'd you go at Deakin?” Oh. Subject change. And Celeste notices it.*
-
-*end scene*
-
----
-
-*Celeste is done early at Deakin, home unexpectedly, , Charli gets home 20 mins later, sees the parcel on the bench into his messenger bag, goes straight to room*
-
-*when he comes out, she looks at him, he reddens: ”It's— nothing.”*
-
-**I hadn't asked.**
-
-*In a kind, soft voice: ”If it stops being nothing, I'm around.”*
-
----
-
-*October, warm and wet. Charlie is up early, ready for work. Celeste gets up, goes to have a shower.*
-
-*Charlie, in his haste, forgot his bottle of Spironolactone on the bathroom sink.*
-
-*Celeste has her shower, brushes her teeth, and discovers the bottle.*
-
-*Scene ends with her coming out of the bathroom dressed in only a towel, holding the bottle.*
-
-*His eyes go to her. Then the bottle. And— whatever happens to his face tells Celeste that this is not nothing.*
-
-
-
-
-
-##
-
-It was raining — the sort of rain that colludes with the wind to make a mockery of umbrellas — when I left the Deakin Waterfront campus in Geelong. My little Swift bravely shouldered its way along the B100 and then the sun suddenly burst through the clouds, and the rain stopped.
-
-When I pulled into the little carpark at home, the sun was glistening on wet leaves of the wattle tree in the tiny garden area. The wind had died down, but I pulled my jacket around me. 
-
-Late afternoons still cooled down quickly.
-
-I pushed open the door to the flat with my shoulder. It protested with a creak. 
-
-And I heard a chair scrape on the floor.
-
-Charlie flicked a look at me as he gathered his things from the kitchenette table.
-
-”Hey.”
-
-”Hi Celeste.”
-
-I stopped. 
-
-And watched him.
-
-He seemed in a hurry.
-
-”Charlie.”
-
-He stopped. Looked at me.
-
-”You've been living here for over a month.” I shook my head. “I was hoping you'd know by now you don't have to disappear every time I come into the room.”
-
-With a fleeting smile, he dipped a shrug of acknowledgement.
-
-”Oh, I know.”
-
-And left anyway.
-
-I stared at the empty hallway.
-
-Didn't sound fun, having to live with someone you have a crush on.
-
-Although I might have sounded like a top graduate from the Confidence Academy to Lauren and Sarah on the idea of Charlie moving into my spare room, I actually *did* have some misgivings. Slight, true, but they were there. You don't have a wide-eyed admirer move in with you like it's no big deal.
-
-And yet.
-
-Over time, Charlie proved my judgment of him correct. He did more than his bit of the housework, which I called him on, but he just shrugged and carried on. Just like at Wardrobe, he didn't ogle, he didn't dominate our space, he didn't... hardly *exist*.
-
-The empty hallway seemed to stare back.
-
-I changed out of corporate into trackies and started dinner.
-
-At the first clatter of a pan on the stove, Charlie's face appeared.
-
-”Anything I can do?”
-
-”Want to peel the potatoes?”
-
-He stood quietly at the sink, eyes focused on the task.
-
-”So, how was Wardrobe?”
-
-”We got the first lot of dresses done today.” His voice was suddenly animated. ”Mara seemed happy — well, as happy as Mara gets. You know.”
-
-I knew.
-
-”Did you test any of them?”
-
-He said nothing. I looked at him. He was biting his lower lip.
-
-”What?”
-
-“Mara said she wants Bree and Lily wearing them now. She needs someone who actually fills them properly if we're checking the fit.”
-
-”Makes sense.”
-
-”She wanted me to do Lucy's job,” he said.
-
-”Fitting?”
-
-He nodded.
-
-“Watching where they pull. Pinning. Marking things.” He paused. ”I guess I'm the wrong, um— shape.”
-
-”She has a point, Charlie.”
-
-”I know.” He looked at the peeled potato in hand thoughtfully. ”Still—”
-
-”You miss it.”
-
-”Never thought I would,” he said quietly. He put the potato on the bench and started to peel the second one.
-
-”How many potatoes are left, Charlie?” I asked brightly.
-
-”Only a couple. Why?”
-
-”I'm thinking of picking up a few things tomorrow. We need coffee, I need razors—”
-
-”Razors?”
-
-I flashed him a grin.
-
-”Summer's coming, Charlie. Some of us have to shave. Needs must.”
-
-He pinked slightly.
-
-Stared at the potato again — a bit long. Then:
-
-”How'd you go at Deakin?”
-
-*Smooth, Charlie.*
-
-”Yeah, good! I'm eligible for HECS-HELP, or so they said.” 
-
-I eyed him. 
-
-He was staring intently at the potato peeler.
-
----
-
-A week later, my lunch meeting with the adviser finished abruptly as she was called away. The wind was coming up, promising another spring squall, so I downed my cappuccino and hopped into my Swift, hoping it would live up to its name.
-
-Which it did.
-
-The wind swept my skirt around as I climbed the steps to the flat. A small parcel lay on the landing, addressed to Charlie.
-
-I stepped into the flat, feeling like I'd stolen a few extra hours of daytime from the gods of labour. I dropped the parcel on the kitchen bench and flicked on the kettle.
-
-Later, a creak of the front door announced Charlie was home.
-
-”Hey!”
-
-He walked in a bit slowly.
-
-”You look tired. Big day?”
-
-He nodded and kicked off his sneakers, which he then very carefully arranged by the door. And arranged my heels as well.
-
-I watched him, a slow smile forming on my face. Nothing I could do to stop it.
-
-”Hey, something came for you today.”
-
-His face changed.
-
-”Oh?”
-
-I pointed at the bench.
-
-He grabbed the parcel and stuffed it — unopened — into his messenger bag.
-
-He gave me a quick smile.
-
-It wasn't his usual one.
-
-He went to his room.
-
-When he came back out, I was still sitting in the same place, still watching him.
-
-He swallowed.
-
-”It's— nothing.”
-
-*I didn't ask, did I?*
-
-I simply nodded.
-
-”If it stops being nothing, I'm around,” I said. ”What would you like for dinner, Charlie?”
-
-”Sushi? I can go fetch it,” he said quickly.
-
-I snorted.
-
-”What, in the dark, on your bike?”
-
-”Über Eats?”
-
-”Look, would a toastie suit?” I asked.
-
-”Yes, thanks. I can slice the onion, if you'd like,” he offered.
-
-*Sure, Charlie.*
-
----
-
-It was the morning of the thirty-first of October. I remember the date because Sarah had rung late in the afternoon the day before to ask what Charlie and I were doing for Halloween.
-
-*Halloween? Really?*
-
-Nevertheless, I did pull a black witch costume — the one I wore for Wardrobe's Halloween party the year before — out of the drawer at the bottom of my armoire. That drawer always stuck, as if resisting being opened.
-
-I lay the costume on the bed. 
-
-And left the drawer open while I had my shower.
-
-I was drying my hair when I noticed a white medicine bottle sitting on the bathroom sink near the toothbrush cup.
-
-*Not mine. Must be Charlie's.*
-
-I came out of the bathroom wrapped in a towel, carrying the little white bottle. 
-
-I stepped into the kitchenette.
-
-Charlie sat with his back to me.
-
-“Charlie.”
-
-He turned, flushed bright red at the sight of my towel, and looked away.
-
-I held out the bottle to him.
-
-“Charlie.”
-
-He turned back.
-
-When he saw what I held in my hand, his face suddenly went from red to white.
 
 
 
