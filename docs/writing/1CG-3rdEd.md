@@ -744,8 +744,6 @@ I turned slowly, and looked at him properly.
 
 And then, I walked away, back toward Wardrobe, back into steam and cloth-dust and the woman who didn’t take strays.
 
-
-
 <hr class="section-break soft" />
 
 

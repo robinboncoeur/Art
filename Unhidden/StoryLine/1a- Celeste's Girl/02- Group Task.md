@@ -1,0 +1,1 @@
+Celeste discovers Charlie is in her yr12 maths class. Socially, he's the 'held-back boy'. She does a '[[01-02 Group Task]]' with him and finds he has skills that could benefit her (currently, part-time) workplace: Wardrobe. Offers him the opportunity after class.

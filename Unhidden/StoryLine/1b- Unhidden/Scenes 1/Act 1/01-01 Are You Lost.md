@@ -7,9 +7,9 @@ charcount: 4047
 created: 2026-09-04
 modified: 2026-09-05
 act: 1
-pov: "[[Celeste]]"
+pov: "[[01- Celeste]]"
 characters:
-  - "[[Celeste]]"
+  - "[[01- Celeste]]"
   - "[[Charlie]]"
 location: "[[Torquay HS Library ladies' room]]"
 subtitle: Chapter 1
@@ -20,6 +20,7 @@ emotion: confusion, whimsy
 chapter: 1
 sequence: 1
 ---
+[[01- Celeste]]
 
 I normally don't go down that corridor at all.
 
@@ -99,7 +100,7 @@ I stepped out of the door first, positioning myself where anyone would see me be
 
 He nodded: quick, obedient. As he crossed the threshold he stopped, eyes flicking back to me.
 
-“Charlie,” I said lightly.
+“[[Charlie]],” I said lightly.
 
 “My name’s—"
 

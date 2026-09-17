@@ -1,0 +1,1 @@
+We introduce Mara, who set up Wardrobe. Also: Graham, head of Maintenance, who feels compelled to sack [[Charlie]] because he's not suitable. Mara finds out about Charlie, allows Celeste to discuss a position at Wardrobe with the proviso that she does not offer it as a rescue. Graham sacks Charlie.

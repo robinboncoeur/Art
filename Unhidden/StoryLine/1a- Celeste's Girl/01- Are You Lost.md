@@ -1,0 +1,1 @@
+[[01- Celeste]] finds [[Charlie]] in the ladies' toilet at the school library. He is star-struck (has a crush) and she is bemused by him.
