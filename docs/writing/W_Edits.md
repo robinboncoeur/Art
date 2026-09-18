@@ -515,7 +515,7 @@ My brows rose a fraction. His eyes caught mine briefly, and then went to the win
 
 I said nothing. My brows rose a bit more.
 
-"At first, I thought it was because, well, I was going to start looking like Graham," he continued. "And that everyone at Wardrobe would start thinking of me differently. I wouldn't be cool there anymore. You know."
+"I thought it was Wardrobe. Like—if I started looking like Graham, everyone there would start thinking of me differently. I wouldn't be cool there anymore. You know."
 
 I didn't.
 
@@ -529,7 +529,11 @@ The evening breeze lifted the sheers at the window, and a fragrance of wattles s
 
 "What do you mean?"
 
-"I realised that not being like him," he said quietly, "had nothing to do with whether I fit in at Wardrobe. At all."
+"But then I figured out they didn't care."
+
+"Who?"
+
+"The women. Whether I looked more like him."
 
 "Good."
 
@@ -639,11 +643,19 @@ Sheepishness was gone. Fear had won.
 
 My jaw clenched.
 
-"Charlie, we need to get you help," I told him, my voice gentle. I felt a resolve come around me, like armour.
+"Charlie, we need to get you help," I told him, my voice gentle. 
 
-*I was not going to let Charlie potentially kill himself.*
+I felt a resolve come around me, like armour.
 
-"We are going to get you help with this, Charlie," I said firmly. "Not optional. Definite.
+Whatever was happening to Charlie, it mattered enough that he'd risked his health to stop it.
+
+That was enough for me.
+
+"Charlie, we need to get you help," I said gently.
+
+His shoulders tightened.
+
+"We are going to get you help with this. Not optional. Definite."
 
 
 
