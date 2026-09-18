@@ -362,11 +362,306 @@ Writing Friday is going to be quite something. 💜
 
 
 
-## A Safe Distance
+
+
+
+
+
+
+
+## What is This?
 
 [ *Celeste* ]
 
-...
+Charlie's face had gone white.
+
+I stopped.
+
+*Something's not right.*
+
+Charlie stared at the bottle, but didn't move.
+
+I had a look at the label.
+
+"Spironolactone".
+
+That told me nothing.
+
+"What is this, Charlie?"
+
+His shoulders rose slightly. He swallowed.
+
+"Medicine."
+
+"No shit." I pressed my lips together briefly, exhaled sharply through my nose. "What's it for?"
+
+His eyes had gone vacant, staring at nothing.
+
+"Charlie?"
+
+He tipped his head.
+
+"It's to— stop things."
+
+I closed my eyes for an instant and gave my head a tiny shake.
+
+"Things?"
+
+He nodded, his face reddening again.
+
+"Things that were, like, happening to me."
+
+My annoyance vanished.
+
+"What was happening to you, Charlie?"
+
+"My legs."
+
+All sorts of conditions affecting lower limbs chased each other through my head. I tried to keep from shouting.
+
+"What was happening to your legs?"
+
+Charlie's eyes were fixed on my feet.
+
+I could barely hear the word.
+
+"Hair," he murmured.
+
+I felt my jaw click.
+
+"What?"
+
+His eyes slowly rose to meet mine.
+
+"Hair was starting to grow on my legs."
+
+I sat down — hard — in the other chair. A crow outside the window offered his opinion. Another joined it.
+
+"Hair," I said finally.
+
+He nodded.
+
+I looked at the bottle again.
+
+Then at Charlie.
+
+“You are taking medication to stop hair growing on your legs.”
+
+Another nod.
+
+I put the bottle carefully on the table.
+
+“Why?”
+
+I looked at his face then. There was a new look, something I'd never seen before.
+
+Pure, cold, gut-renching fear. His jaw quivered slightly even as his shoulders rose more.
+
+"It was happening. I wanted it to stop."
+
+"You didn't want hair—"
+
+"No, not just that," he cut in. "All of it. All of—"
+
+He stopped.
+
+The room was silent.
+
+I leaned back in my chair.
+
+"Okay."
+
+Charlie sat frozen in his chair.
+
+I rose.
+
+"I'm going to get dressed. I'm ready to listen whenever you're ready to talk to me, Charlie."
+
+I left the bottle on the table and went back to my room.
+
+The ride to work was quiet.
+
+---
+
+A few days later, I was sitting alone on the couch. The TV was on, but I had no idea what was happening on the screen. I yawned and thought I'd make an early mark.
+
+And then, Charlie appeared.
+
+"Celeste?"
+
+He approached me — cautiously, I thought. Sat down — *perched*, really — on the other end of the couch and glanced at me.
+
+I waited.
+
+"You said you, um, would listen," he said after a moment.
+
+I nodded.
+
+He wrapped his thin arms around himself, and tipped his head to one side. 
+
+"Not sure how to explain this," he started.
+
+"Begin anywhere."
+
+"So, the reason I couldn't answer you that day you found my medication in the bathroom was, well, I didn't really know *why* I was taking the medicine." He stopped. I looked sharply at him.
+
+"You're not making—"
+
+"Sense," he finished. He nodded. " I know. Hear me out. Please."
+
+My brows rose a fraction. His eyes caught mine briefly, and then went to the window.
+
+"So, I was freaking out, Celeste. My body was changing and it was freaking me out."
+
+I said nothing. My brows rose a bit more.
+
+"At first, I thought it was because, well, I was going to start looking like Graham," he continued. "And that everyone at Wardrobe would start thinking of me differently. I wouldn't be cool there anymore. You know."
+
+I didn't.
+
+"Go on."
+
+He frowned and rubbed his forehead.
+
+"That wasn't it, though. Not really."
+
+The evening breeze lifted the sheers at the window, and a fragrance of wattles softened the room.
+
+"What do you mean?"
+
+"I realised that not being like him," he said quietly, "had nothing to do with whether I fit in at Wardrobe. At all."
+
+"Good."
+
+The room was silent. The sheers swept into the room, and then settled back to the window.
+
+Charlie was staring at his hands.
+
+"I guess ever since I was a kid, I sort of hoped I wouldn't— you know, change."
+
+"Become a man?"
+
+I regretted the words the instant they left my mouth. His eyes widened, and some of the fear came back into his face.
+
+"Yes."
+
+I dipped my head slowly, thinking.
+
+"So, that medicine—"
+
+"Stops it," he said quickly.
+
+*This still didn't make sense.*
+
+"Why were you keeping the medicine a secret, Charlie?"
+
+He stared at me briefly, then back at his hands.
+
+"Um, because, well—"
+
+Suddenly, it clicked.
+
+"Is it prescription medicine?"
+
+His lips tightened.
+
+"You didn't get a prescription for it, did you?"
+
+He shook his head slowly.
+
+"You're taking script-only medicine without a script." I felt irritation rising in my throat. Swallowed it down.
+
+"Have you talked to anyone else about this?"
+
+He shook his head again.
+
+My hands rose, like a conductor controlling a quiet passage.
+
+"Look, all I know is: you're taking script-only medicine without a script." He looked up, the fear more obvious than ever. "You're not being safe, Charlie."
+
+His lower lip quivered.
+
+"Are you going to tell anyone?" he whispered.
+
+I pressed my lips together.
+
+"No." He let out a breath in loud puff. I held his gaze in mine. "You are."
+
+He seemed to shrink.
+
+"I— can't."
+
+"Can you tell me what you're taking, at least?"
+
+He paused for a moment, and then left the room. And came back with the bottle.
+
+He handed it to me.
+
+*Spironolactone.*
+
+I did a google search.
+
+*Anti-androgen.*
+
+"So, this affects your hormone levels?" I asked him.
+
+His lips went sideways. He nodded.
+
+"I'm not an expert, but I do know there's usually a reason a medicine is 'script-only'." 
+
+Next to the word 'spironolactone' I entered 'side effects'.
+
+Read.
+
+And crowded down the urge to scream at him.
+
+"Shit, Charlie, have you looked at the side effects?"
+
+He shrugged.
+
+"What? You don't care?"
+
+"I know about them."
+
+"'Heart pal-pitatations'," I read out loud. "Heart, Charlie! You're mucking around with something that could mess with your heart."
+
+I glanced at him.
+
+Fear and sheepishness shared equal space on his face, but fear still had the upper hand.
+
+I realised he'd already factored that in. He'd accepted the risks. There was nothing to be gained from pointing out that he could suddenly drop dead.
+
+I studied *my* hands.
+
+Finally, I looked at him.
+
+Sheepishness was gone. Fear had won.
+
+My jaw clenched.
+
+"Charlie, we need to get you help," I told him, my voice gentle. I felt a resolve come around me, like armour.
+
+*I was not going to let Charlie potentially kill himself.*
+
+"We are going to get you help with this, Charlie," I said firmly. "Not optional. Definite.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <hr class="section-break strong" />
