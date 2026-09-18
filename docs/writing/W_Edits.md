@@ -419,7 +419,7 @@ My annoyance vanished.
 
 All sorts of conditions affecting lower limbs chased each other through my head. I tried to keep from shouting.
 
-"What was happening to your legs?"
+"So, what was happening to your legs?"
 
 Charlie's eyes were fixed on my feet.
 
@@ -483,13 +483,15 @@ The ride to work was quiet.
 
 ---
 
-A few days later, I was sitting alone on the couch. The TV was on, but I had no idea what was happening on the screen. I yawned and thought I'd make an early mark.
+A few days later, I was sitting alone on the couch. The TV was on, but I had no idea what was happening on the screen. I yawned. 
+
+*Might make an early mark.*
 
 And then, Charlie appeared.
 
 "Celeste?"
 
-He approached me — cautiously, I thought. Sat down — *perched*, really — on the other end of the couch and glanced at me.
+He approached me — cautiously, I thought. Sat down — *perched*, really — on the other end of the couch.
 
 I waited.
 
@@ -503,7 +505,11 @@ He wrapped his thin arms around himself, and tipped his head to one side.
 
 "Begin anywhere."
 
-"So, the reason I couldn't answer you that day you found my medication in the bathroom was, well, I didn't really know *why* I was taking the medicine." He stopped. I looked sharply at him.
+"So, the reason I couldn't answer you that day you found my medication in the bathroom was, well, I didn't really have an answer."
+
+His face scrunched with frustration.
+
+"I wasn't sure *why* I was taking the medicine." He stopped. I looked sharply at him.
 
 "You're not making—"
 
@@ -527,15 +533,13 @@ He frowned and rubbed his forehead.
 
 The evening breeze lifted the sheers at the window, and a fragrance of wattles softened the room.
 
-"What do you mean?"
-
-"But then I figured out they didn't care."
+"I reckon they didn't actually care."
 
 "Who?"
 
-"The women. Whether I looked more like him."
+"The women. Whether I looked more like Graham."
 
-"Good."
+"They don't."
 
 The room was silent. The sheers swept into the room, and then settled back to the window.
 
@@ -554,6 +558,17 @@ I dipped my head slowly, thinking.
 "So, that medicine—"
 
 "Stops it," he said quickly.
+
+
+
+
+
+
+
+
+
+
+
 
 *This still didn't make sense.*
 
