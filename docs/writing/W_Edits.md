@@ -509,21 +509,84 @@ He wrapped his thin arms around himself, and tipped his head to one side.
 
 His face scrunched with frustration.
 
-"I wasn't sure *why* I was taking the medicine." He stopped. I looked sharply at him.
+"I couldn't sort-of put a proper reason to it." He looked down. "I just knew I had to." 
 
-"You're not making—"
+My brows rose a fraction. 
 
-"Sense," he finished. He nodded. " I know. Hear me out. Please."
+"I was freaking out, Celeste. My body was changing and it was freaking me out."
 
-My brows rose a fraction. His eyes caught mine briefly, and then went to the window.
+I said nothing, but my brows rose a bit more.
 
-"So, I was freaking out, Celeste. My body was changing and it was freaking me out."
+"At first, I thought it was Wardrobe. Like—if I started being like Graham, everyone there would start thinking of me differently. I wouldn't be cool there anymore. You know."
 
-I said nothing. My brows rose a bit more.
+I suppressed a laugh.
 
-"I thought it was Wardrobe. Like—if I started looking like Graham, everyone there would start thinking of me differently. I wouldn't be cool there anymore. You know."
+"You be like Graham. Yeah, that'll happen."
 
-I didn't.
+"You know what I mean."
+
+My mouth went sideways.
+
+"No, actually I don't." I squinted at him. "I thought maintenance proved that."
+
+"No, I mean—" He puffed. "I mean, like a *bloke*."
+
+"But Charlie, you—"
+
+I stopped. He'd gone still, a fear in his eyes that froze the thought before it could come out.
+
+Outside, a curlew announced curfew, her shrieks echoing through the night stillness.
+
+I permitted myself a wry smile.
+
+"Sorry," I said. "I was talking, not listening. Please go on."
+
+He stared at me.
+
+I wait. He said nothing.
+
+Then his shoulders lowered, barely.
+
+“I just—”
+
+He looked away again.
+
+"I just didn't want to be like— that."
+
+I nodded.
+
+"So, like Graham."
+
+"Or, like my dad."
+
+I lifted my head.
+
+*Oh.*
+
+"So, just a bloke in general."
+
+He dipped his head to one side, eyes on his twisting fingers. He stole a glance at me.
+
+"What?"
+
+"Nothing."
+
+"Bullshit. You keep looking at me."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 "Go on."
 
@@ -547,17 +610,32 @@ Charlie was staring at his hands.
 
 "I guess ever since I was a kid, I sort of hoped I wouldn't— you know, change."
 
-"Become a man?"
+"Become an adult?"
 
-I regretted the words the instant they left my mouth. His eyes widened, and some of the fear came back into his face.
+"Become like my dad."
+
+"Oh."
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 "Yes."
 
-I dipped my head slowly, thinking.
+I dipped my head slightly.
 
 "So, that medicine—"
 
-"Stops it," he said quickly.
+"Stops it."
 
 
 
