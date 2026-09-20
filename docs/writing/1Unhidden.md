@@ -3509,7 +3509,7 @@ He grinned and handed me the lead.
 
 "You can go for a ride on him if you want." He picked up his tools. "I won't be a minute," he said and disappeared into the tearoom. 
 
-The German shepherd seemed as friendly as his owner, all too happy to shared his slobber with me. 
+The German shepherd seemed as friendly as his owner, all too happy to share his slobber with me. 
 
 An afternoon breeze had picked up, and was blowing dead leaves through the loading dock. I felt my eyes water a bit. 
 
@@ -3579,7 +3579,7 @@ I stayed flat on my back and listened to the little noises of him un-being there
 
 The latch clicked.
 
-And the room didn’t go quiet so much as— hollow.
+And the room didn’t go quiet so much as — hollow.
 
 Vacant. 
 
@@ -3589,17 +3589,19 @@ I suppose it was fine.
 
 After all, the sex itself had been fine. Adequate. Not violent, not rude, not even selfish in a way that would make for the sort of story you'd tell your best friend.
 
-Adequate. And yet: meaningless.
+Adequate. 
+
+And yet: meaningless.
 
 No tenderness.
 
 No afterglow.
 
-No lingering hand at my waist as if my body was worth remembering. No kiss that said, I like being near you, instead of thank you for your service.
+No lingering hand at my waist as if my body was worth remembering. No kiss that said, 'I like being near you,' instead of thank you for your service.
 
-He’d been happy, of course. Men are generally happy when the world does what it’s told. He’d rolled off, stood up, and resumed being a person with plans. 
+He’d been happy, of course. Men are generally happy when the world does what it’s told. He’d rolled off, stood up, and resumed being a person with plans. And I remained exactly what I was: a surface the night had happened on. 
 
-And I remained exactly what I was: a surface the night had happened on. A surface that wondered why pleasure was being mistaken for intimacy.
+A surface that wondered why pleasure was being mistaken for intimacy.
 
 I had let myself hope, just a little.
 
@@ -3607,15 +3609,15 @@ That was on me.
 
 I rolled onto my side and stared at the patch of sheet he’d left behind — already cooling, already irrelevant. My fingers flexed once against the fabric, restless. 
 
-I didn't want— him. Nor did I want more.
+I didn't want — him. Nor did I want more.
 
-I wanted— meaning.
+I wanted — meaning.
 
 And in the quiet, uninvited, a thought arrived and sat down like I owed it money: is this the best a woman can hope for?
 
 My mouth tightened.
 
-The irritation rose again — not even at him, specifically. He was just— a free trial of the wider pattern.
+The irritation rose again — not even at him, specifically. He was just a free trial of the wider pattern.
 
 I let out a breath that wasn’t quite a laugh.
 
@@ -3631,7 +3633,7 @@ It rang longer than it should have. Then sound flooded in: wind, men’s laughte
 
 “Hey,” he said, voice bright. Pleased with himself. A pause. “You right?”
 
-“Yep,” I said crisply. “So, I’m *ending* this.”
+“Yep,” I said crisply. “I’m *ending* this.”
 
 A pause, like the words had reached his ears but couldn’t find a place to land.
 
@@ -3655,7 +3657,7 @@ His breath came out harsh.
 
 I looked at my bare feet on the carpet. The ordinary domesticity of the moment almost amused me. Almost.
 
-“No, this is actually the perfect place to do it,” I said. “You’re with your mates. You’ll recover. Quickly.”
+“No, this is actually the perfect place to do it,” I said. “You’re with your mates. You’ll be right.”
 
 He exhaled again, hard.
 
@@ -3673,7 +3675,7 @@ Silence.
 
 Not thoughtful silence. Not I hear you silence. Just… blank. Then he did what men did when they were offered a feeling they couldn’t quantify: he tried to bargain.
 
-“Look, I can be —I mean, I am… look, we can work on that.”
+“Look, I can be — I mean, I am… look, we can work on that.”
 
 I smiled without humour.
 
@@ -3681,7 +3683,7 @@ I smiled without humour.
 
 A small sound: frustration, offence.
 
-“So you’re just… done?”
+“So you’re just done?”
 
 “Yes.”
 
@@ -3695,7 +3697,7 @@ Another pause. A longer one. I could almost hear his brain searching for the cor
 
 “No,” I said, and the word landed like a door closing.
 
-“*Sarah*— don’t be like that.”
+“*Sarah*, don’t be like that.”
 
 I glanced at the phone as if it had said something stupid.
 
@@ -3721,7 +3723,7 @@ The quiet after was immediate, like a room after a door clicks shut.
 
 My phone buzzed — missed call. Another. I turned it over, face-down, and went to make coffee.
 
-The magpie outside warbled, pleased with itself.
+A magpie outside warbled, pleased with itself.
 
 ---
 
@@ -3729,9 +3731,7 @@ Carl turned up at Wardrobe with a tool belt and a polite expression, and without
 
 Mara pointed him toward the back wall where the lights had been flickering like a haunted-house feature. He listened. He nodded. He asked one sensible question. Then he got to work without making anyone’s day harder than it already was.
 
-I found myself idly wondering: is this what it looks like when a bloke is normal?
-
-Because the bar was low enough to trip over.
+I found myself idly wondering about him. A bit. 
 
 When he finished, he wiped his hands on a rag and looked at Mara.
 
@@ -3745,7 +3745,7 @@ I gave him a look without turning my head. “Sarah.”
 
 His gaze flicked to my hands — needle, thread, the precision of my work — then back to my face.
 
-“You make that look… easy.”
+“You make that look— easy.”
 
 I snorted. “It’s not.”
 
@@ -3769,7 +3769,9 @@ Carl glanced between us.
 
 “It’s allowed,” Mara said. “She needs feeding. You look like you do too.”
 
-I rolled my eyes because it was that or smile, and then, smiled after all because I was curious. We agreed on Saturday. Daylight. Somewhere with shade. Somewhere public enough that my life couldn’t accidentally become a man’s idea of “progress.”
+I rolled my eyes because it was that or smile, and then, smiled after all because I was curious.
+
+We agreed on Saturday. Daylight. Somewhere with shade. Somewhere public enough that my life couldn’t accidentally become a man’s idea of “progress.”
 
 ---
 
@@ -3777,7 +3779,9 @@ The date — if that’s what it was — was easy.
 
 Carl picked a place that wasn’t trying too hard. He arrived on time. He asked questions and actually waited for answers. He didn’t fill silence like it was a threat. When I teased him, he laughed, genuine. I didn’t feel like I had to armour myself.
 
-That should’ve felt like a relief. Instead it felt like standing in warm water and realising you’d forgotten what warm felt like.
+That should’ve felt like a relief. 
+
+Instead it felt like standing in warm water and realising you’d forgotten what warm felt like.
 
 Not because the water was wrong.
 
@@ -3801,7 +3805,7 @@ I tried to let my body meet it.
 
 It didn’t.
 
-Then, from a table behind us, I heard it. A woman’s laugh — silvery, unselfconscious, the kind that made the air lift. It wasn’t loud. It wasn’t even near. It was just… alive.
+Then, from a table behind us, I heard it. A woman’s laugh — silvery, unselfconscious, the kind that made the air lift. It wasn’t loud. It wasn’t even near. It was just— alive.
 
 And my body answered before my mind could tidy it up.
 
@@ -3874,9 +3878,6 @@ The handshake was firm, respectful, no attempt to make it mean more than it did.
 Then he stepped back, gave me one last nod, and walked away.
 
 <hr class="section-break strong" />
-
-
-
 
 
 
