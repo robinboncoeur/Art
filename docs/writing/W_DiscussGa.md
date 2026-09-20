@@ -145,9 +145,9 @@ A GP? *Her* GP? Can you ask a doctor about somebody who isn't their patient? Can
 A pharmacist is another possibility that could occur to her. She could walk into a chemist and ask a hypothetical question without naming Charlie at all:
 
 *If somebody was taking spironolactone they bought themselves, without seeing a doctor, is that dangerous?*
-
+<!-- vale off -->
 And the answer needn't be melodramatic. The pharmacist can essentially say: **they should see a doctor; this medication ordinarily warrants attention to blood pressure, kidney function and electrolytes.** Australian health guidance similarly notes that diuretic medicines can disturb electrolytes and that doctors monitor kidney function and electrolyte levels. ([Healthdirect][3])
-
+<!-- vale on -->
 That could be enormously effective because it gives Celeste **knowledge without authority**.
 
 She comes away knowing she was right to be concerned.
@@ -769,7 +769,7 @@ And the choice reveals something.
 
 I'd make the first GP visit quite mundane. Charlie explains that he's taking spironolactone because puberty has started changing him in ways he doesn't want. The GP doesn't need to solve Charlie's gender or even fully understand it. He needs to deal with the immediate clinical problem: unsupervised medication, dose, blood pressure, electrolytes/renal function, and *why is this nineteen-year-old trying to suppress masculinisation?*
 
-One medical wrinkle we'd want to research carefully before writing it: at **19**, “puberty blockers” in the usual GnRH-analogue sense may not function narratively quite as simply as they would in early adolescence, because Charlie is already well into/through much of endogenous puberty. We should verify what a Victorian GP plausibly would suggest or refer him for in 2025 rather than assuming the pathway. But structurally, the idea is excellent.
+One medical wrinkle we'd want to research carefully before writing it: at **19**, “puberty blockers” in the usual GnRH-analogue sense may not function in a narrative quite as simply as they would in early adolescence, because Charlie is already well into/through much of endogenous puberty. We should verify what a Victorian GP plausibly would suggest or refer him for in 2025 rather than assuming the pathway. But structurally, the idea is excellent.
 
 Because imagine the sequence if the medically appropriate alternative amounts to: **there are better-supervised ways of suppressing testosterone than what you're doing.**
 
@@ -2960,6 +2960,7 @@ That reversal is lovely. 💜
 <hr class="section-break strong" />
 
 -->
+
 
 <!--  Image references  -->
 

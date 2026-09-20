@@ -13,7 +13,6 @@
 
 
 
-
 ## Version Note
 
 **Unhidden** is the final edition of the [Celeste's Girl](1CG-2ndEd.md) story.
@@ -365,7 +364,7 @@ He glanced up at me again, his hazel eyes more searching now.
 
 “Waste? What do you mean?”
 
-“Waste of ability,” I clarified. “Waste of talent.” I kept my voice calm. “You’re just mis-allocated.”
+“Waste of ability,” I clarified. “Waste of talent.” I kept my voice calm. “You’re just misallocated.”
 
 I leaned closer, just enough to make my next words private.
 
@@ -3369,7 +3368,7 @@ Sarah drew her head back and frowned at him.
 
 "North Geelong."
 
-"Actually, it's closer to Lara," Lauren corrected. "It's the connection at Torquay. Such a long bus ride."
+"Actually, we're closer to Lara," Lauren corrected. "He has to change buses at Torquay. Makes for such a long bus ride."
 
 "I don't mind, Mum," he muttered.
 
@@ -3379,7 +3378,7 @@ I could see Mara tense. She gave Sarah one of her looks.
 
 "It's not that easy, Sarah," Lauren said. Her voice was gentle. "You need the right people. Not everyone's a quick read."
 
-"We're taking the order," Mara said. "Celeste, work out details. We'll reconvene when you know more."
+"Look, we're taking the order," Mara said. "Celeste, work out the details. We'll reconvene when you know more."
 
 ---
 
@@ -4951,7 +4950,7 @@ Celeste turned to the table and tapped the pattern paper, crisp.
 
 “Right,” she said. “Back to work.”
 
-I walked back to the central table where the 'Les Mis' patterns were spread and looked down at the sketches again. Hardship made costume. Nineteenth-century seams. 
+I walked back to the central table where the new patterns were spread and looked down at the sketches again. Hardship made costume. Nineteenth-century seams. 
 
 A company of women would mingle among Faire-goers wearing what we’d cut and stitched here. 
 
@@ -4982,7 +4981,7 @@ And smiled at her.
 
 [ *Lauren* ]
 
-By late afternoon Wardrobe smelled like steam and chalk and the faint metallic bite of scissors that had worked all day. The 'Les Mis' order had turned the workroom into a machine — pattern paper everywhere, fabrics in disciplined stacks, four different costumes hanging on mannequins like a small family of lives waiting to be worn. Every woman in the room moved with a tired focus: bodies exhausted, minds still sharp.
+By late afternoon Wardrobe smelled like steam and chalk and the faint metallic bite of scissors that had worked all day. The new order had turned the workroom into a machine — pattern paper everywhere, fabrics in disciplined stacks, four different costumes hanging on mannequins like a small family of lives waiting to be worn. Every woman in the room moved with a tired focus: bodies exhausted, minds still sharp.
 
 Mara stood at the central rack with her arms folded, eyes flicking from hem to seam to neckline like she was reading a story. In front of her, a bargain-basement laptop displayed a spreadsheet she was moving the contents of the ledger to. Celeste hovered beside her, pencil behind one ear, hair slightly disheveled — her favourite state, I’d noticed, the one she wore when she was building something.
 

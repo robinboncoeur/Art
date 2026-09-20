@@ -42,6 +42,7 @@ Heyer
 hors
 Hostinger
 Hullo
+hyperkalaemia
 img
 [Ii]nfluencers?
 J’Adore
@@ -66,7 +67,7 @@ Mara
 Mauresque
 meds
 Michaels
-Mis
+[Mm]isallocated?
 Mmm
 Montville
 Moorside
@@ -83,6 +84,7 @@ Queenslanders
 Qwen
 Rache
 reaticulate
+[Rr]ecalibrates?
 repinned
 rethread(ing|ed|s)?
 Retraite
@@ -112,6 +114,7 @@ Tallbanks
 tennies
 tensioning
 thingie
+[Tt]oasties?
 toserver
 [Tt]rackies?
 [Tt]radies?
