@@ -14,9 +14,9 @@
 
 This is a **working Canon** for the 'Celeste's Girl' story world. The stories are in: 
 
-* **_Celeste’s Girl_** — ( being edited, to become: '_Unhidden_')
+* **_Celeste’s Girl_** — ( being edited: '_Unhidden_')
 * **_The Deep End_**
-* **_At Ballarat_** — (not yet written)
+* **_????????????_** — (not yet written)
 
 The emphasis of this **Canon** is on:  
 - character truths  
@@ -140,7 +140,7 @@ Note: *Earlier conceptions placing it on the Gold Coast have been superseded.*
 ### 3.1 Broad project structure
 **Locked canon**
 
-[This document](D-Chronology.md) covers the timelines in this story. It will be updated as the story gets fleshed out.
+[This document](../writing/D-Chronology.md) covers the timelines in this story. It will be updated as the story gets fleshed out.
 
 <hr class="section-break strong" />
 

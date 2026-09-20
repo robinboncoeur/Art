@@ -16,7 +16,7 @@
 
 ## Version Note
 
-**Unhidden** is the final edition of the [Celeste's Girl](1CG-3rdEd.md) story.
+**Unhidden** is the final edition of the [Celeste's Girl](1CG-2ndEd.md) story.
  
 
 

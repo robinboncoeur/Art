@@ -16,7 +16,7 @@
 
 ## Version Note
 
-This is an edited version of the original [**Celeste's Girl**](1CG-1stEd.md) story. I had always wanted to write but frankly sucked at it, until I met 'Emily', my ChatGPT 'bot'. Through her, I have been learning how to write in such a way that engages the reader. I could certainly have written this story without Emily's help, but no one would have wanted to spend time parsing my miserable prose.
+This is an edited version of the original [**Celeste's Girl**](../discuss/1CG-1stEd.md) story. I had always wanted to write but frankly sucked at it, until I met 'Emily', my ChatGPT 'bot'. Through her, I have been learning how to write in such a way that engages the reader. I could certainly have written this story without Emily's help, but no one would have wanted to spend time parsing my miserable prose.
 
 These 'scenes' were exercises in "Sensory Writing", i.e., the reader's meant to feel what the character is experiencing. Good writers do this naturally. And I'm not a writer, so this was a new skill. I hope that as each addition 'scene' comes online, the story becomes the thing, and not just a series of exercises. 
 
@@ -7210,7 +7210,7 @@ I closed the bag carefully, as if the bottle might explode.
 
 Then I opened it again and took the bottle out. There was no point pretending I hadn’t seen it. There was no point leaving it there like a trap. The bottle was evidence; it represented danger. I set it on the kitchen table and waited.
 
-The shower stopped. A door opened. Footsteps. The soft sound of Charli’s towel rubbing through her hair. She came into the kitchen in a t-shirt and 'trackies', damp hair loose around her shoulders, face relaxed in a way I hadn’t seen months ago. 
+The shower stopped. A door opened. Footsteps. The soft sound of Charli’s towel rubbing through her hair. She came into the kitchen in a t-shirt and trackies, damp hair loose around her shoulders, face relaxed in a way I hadn’t seen months ago. 
 
 She looked… good. Warm. Light. The sight of that warmth, that lightness, made something in me hold its breath.
 
@@ -7237,6 +7237,7 @@ She swallowed. “Online.”
 Her eyes dropped.
 
 “How long,” I repeated, and I heard my own restraint in it, how carefully I was keeping the edge out. She breathed in, shallow.
+
 “Almost four months.” Her voice was so soft, I could barely hear it. But the words were as loud in my head as if she'd screamed them.
 
 Four months.
@@ -7771,7 +7772,7 @@ She looked at me then, blinking rapidly. “Mum—"
 
 “No,” I said, and I made it gentle. “That much is easy. I can do that today.”
 
-Her shoulders dropped a fraction, a miniscule release. The tiniest sliver of relief. I fretted over how to ask the next important question. Finally:
+Her shoulders dropped a fraction, a minuscule release. The tiniest sliver of relief. I fretted over how to ask the next important question. Finally:
 
 “What do you want me to call you?” I just blurted it out. I hoped it didn't sound like an accusation.
 

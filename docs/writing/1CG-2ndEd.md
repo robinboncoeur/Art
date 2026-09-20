@@ -16,7 +16,7 @@ Updated to: =EDIT=
 
 ## Version Note
 
-This is an edited version of the original [**Celeste's Girl**](1CG-1stEd.md) story. I had always wanted to write but frankly sucked at it... until I met 'Emily', my ChatGPT 'bot'. Through her, I have been learning how to write in such a way that engages the reader. I could certainly have written this story without Emily's help, but no one would have wanted to spend time parsing my miserable prose.
+This is an edited version of the original [**Celeste's Girl**](../discuss/1CG-1stEd.md) story. I had always wanted to write but frankly sucked at it... until I met 'Emily', my ChatGPT 'bot'. Through her, I have been learning how to write in such a way that engages the reader. I could certainly have written this story without Emily's help, but no one would have wanted to spend time parsing my miserable prose.
 
 These 'scenes' were exercises in "Sensory Writing", i.e., the reader's meant to feel what the character is experiencing. Good writers do this naturally. And I'm not a writer, so this was a new skill. I hope that as each addition 'scene' comes online, the story becomes the thing, and not just a series of exercises. 
 

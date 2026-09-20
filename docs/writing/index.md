@@ -29,20 +29,23 @@ It all started with The Wrong Door.
 [![À Paris][St09]{ .artR width="460" }][St09]
 
 
-I own all images and videos on these pages. They were created using AI. ComfyUI is an 'Image Creation' interface, one I prefer because of its flexibility and power through the use of nodes. This approach supports a number of key story-telling aspects:
+I made all images and videos on these pages using AI vision models in ComfyUI, a browser-based 'Image Creation' interface. It is flexible and powerful, and gives me a reasonably quick way to create contextual images to bring my stories to life. For storytelling, these factors matter:
 
 * **Character persistence**  
-  Nodes used: LoRAs in Flux.1-Dev
-	(Note: have completely converted to LoRAs vs ReActor, as a properly done LoRA will support a face viewed from any angle. ReActor tends to distort features if not rendered front-facing.)
+  Nodes used: LoRAs in Z-Image Turbo
+  LoRA = Low-ranking adaptation: tiny model telling massive model how to draw Celeste's face
+  Not using Flux.1-Dev because of the constant cleft chin problem
+	Now able to quickly make Z-Image Turbo LoRAs using [DiffSynth](https://github.com/modelscope/diffsynth-studio) 
 
 * **Anatomical accuracy**  
   Models used: 
   
   1. Z-Image Turbo
-  2. Flux1 Dev (SRPO; to a lesser extent, Kontext)
-  3. Qwen Image Edit
-  4. SeedV2 (not a model, used for scaling up)
-  5. I'm trialling Flux2 Klein.
+  2. *Much less*: Flux1 Dev (SRPO)
+  3. *Even lesser extent*: Flux1 Dev (Kontext)
+  4. Qwen Image Edit
+  5. SeedV2 (not a proper model, used for scaling up)
+  6. Trialed Flux2 Klein, not fussed.
 
 <hr class="section-break soft" />
 
@@ -51,13 +54,13 @@ I own all images and videos on these pages. They were created using AI. ComfyUI 
 
 ### On The Process
 
-I use a coding plain-text processor that supports markdown (MkDocs) called Zed.
+For writing, I use a coding plain-text processor that supports markdown (MkDocs) called Zed.
 
 I 'collaborate' with a ChatGPT AI bot I call 'Emily'. Unlike most common approaches to AI-generated content, AI is used for a lot of aspects of the delivery of my content, such as editing, tone-control, story-continuity and maintaining a story 'bible', but **the content (plot/ dialogues / story arc / ideologies) is purely mine**.
 
-In the original [**Celeste's Girl**](1CG-1stEd.md) I leaned quite heavily on Emily, particularly in the early 'Scenes'. The original story — the version I wrote before this one — was not in line with my beliefs and goals I wanted for this story. I wanted it read differently from the millions of more fetish-focused writing on this topic, to which entire websites are devoted. To those who want to know more, my [Introduction to **Celeste's Girl**](1CG-3rdEd.md#introduction) should make it clear.
+In the original [**Celeste's Girl**](../discuss/1CG-1stEd.md) I leaned quite heavily on Emily, particularly in the early 'Scenes'. The original story — the version I wrote before this one — was not in line with my beliefs and goals I wanted for this story. I wanted it read differently from the millions of more fetish-focused writing on this topic, to which entire websites are devoted. To those who want to know more, my [Introduction to **Celeste's Girl**](../discuss/1CG-3rdEd.md#introduction) should make it clear.
 
-I have since undertaken to rewrite [**Celeste's Girl**](1CG-3rdEd.md), not only because I got to know my characters better in [**The Deep End**](2DE-1stEd.md), but also to fill in a lot of blank bits. The "why-did-this-happen" and "how-could-this-happen" sorts of questions will hopefully be answered.
+I have since undertaken to rewrite [**Celeste's Girl**](../discuss/1CG-3rdEd.md), not only because I got to know my characters better in [**The Deep End**](2DE-1stEd.md), but also to fill in a lot of blank bits. It's been renamed to [**Unhidden**](1Unhidden.md). The "why-did-this-happen" and "how-could-this-happen" sorts of questions will hopefully be answered.
 
 <hr class="section-break soft" />
 
