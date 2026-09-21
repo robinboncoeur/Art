@@ -5330,9 +5330,11 @@ And left anyway.
 
 I stared at the empty hallway.
 
-Didn't sound fun, having to live with someone you have a crush on.
+*Didn't sound fun, having to live with someone you have a crush on.*
 
-Although I might have sounded like a top graduate from the Confidence Academy to Lauren and Sarah on the idea of Charlie moving into my spare room, I actually *did* have some misgivings. Slight, true, but they were there. You don't have a wide-eyed admirer move in with you like it's no big deal.
+Although I might have sounded like confidence itself to Lauren and Sarah on the idea of Charlie moving into my spare room, I actually *did* have some misgivings. Slight, true, but they were there. 
+
+You don't have a wide-eyed admirer move in with you like it's no big deal.
 
 And yet.
 
@@ -5352,7 +5354,7 @@ He stood quietly at the sink, eyes focused on the task.
 
 ”So, how was Wardrobe?”
 
-”We got the first lot of dresses done today.” His voice was suddenly animated. ”Mara seemed happy — well, as happy as Mara gets. You know.”
+”We got the first lot of dresses done today.” He seemed to relax a bit. ”Mara seemed happy — well, as happy as Mara gets. You know.”
 
 I knew.
 
@@ -5362,7 +5364,7 @@ He said nothing. I looked at him. He was biting his lower lip.
 
 ”What?”
 
-“Mara said she wants Bree and Lily wearing them now. She needs someone who actually fills them properly if we're checking the fit.”
+“Mara said she wants Bree and Lily testing them now. She needs someone who actually fills them properly if we're checking the fit.”
 
 ”Makes sense.”
 
@@ -5382,7 +5384,7 @@ He nodded.
 
 ”Never thought I would,” he said quietly. He put the potato on the bench and started to peel the second one.
 
-”How many potatoes are left, Charlie?” I asked brightly.
+”How many potatoes do we have left, Charlie?” I asked brightly.
 
 ”Only a couple. Why?”
 
@@ -5542,7 +5544,7 @@ His eyes had gone vacant, staring at nothing.
 
 "Charlie?"
 
-He tipped his head.
+He shrugged slightly.
 
 "It's to— *stop* things."
 
@@ -5560,9 +5562,9 @@ My annoyance vanished.
 
 "My legs."
 
-All sorts of conditions affecting lower limbs chased each other through my head. I tried to keep from shouting.
+All sorts of conditions affecting lower limbs chased each other through my head.
 
-"So, what was happening to your legs?"
+"Oh my lands, what was happening to your legs?"
 
 Charlie's eyes were fixed on my feet.
 
@@ -5594,6 +5596,8 @@ Another nod.
 
 I put the bottle carefully on the table.
 
+Pulled the towel tighter.
+
 “Why?”
 
 I looked at his face then.
@@ -5610,7 +5614,9 @@ His jaw quivered slightly even as his shoulders rose more.
 
 He stopped.
 
-The room was silent.
+And stared at the floor.
+
+The beating of wings outside the windows told me the crows had heard enough.
 
 I leaned back in my chair.
 
@@ -5642,8 +5648,6 @@ I waited.
 
 "You said you, um, would listen," he said after a moment.
 
-I nodded.
-
 He wrapped his thin arms around himself, and tipped his head to one side. 
 
 "Not sure how to explain this," he started.
@@ -5652,17 +5656,15 @@ He wrapped his thin arms around himself, and tipped his head to one side.
 
 He took in a breath.
 
-Breathed out.
-
-"So, the reason I couldn't answer you that day you found my medication in the bathroom was, well, I didn't really have an answer."
+"So, the reason I couldn't tell you more the other day — you know, when you *found* the medication was, well, I didn't really know how to explain it."
 
 His face scrunched with frustration.
 
-"I mean, I couldn't sort-of put a proper reason to it." He looked down. "I just knew I had to." 
+"I mean, I never really thought it through." He looked down. "I just knew I had to." 
 
 My brows rose a fraction. 
 
-"I was freaking out, Celeste. My body was starting to change and it was freaking me out."
+"Celeste, I was freaking out." He squeezed his eyes shut for a moment. "My body was starting to change and it was freaking me out."
 
 My brows rose a bit more.
 
@@ -5676,7 +5678,7 @@ I suppressed a laugh.
 
 My mouth went sideways.
 
-"No, actually I don't." I squinted at him. "I thought maintenance proved that."
+"No, actually I don't." I squinted at him. "I thought maintenance proved it."
 
 "No, I mean—" He puffed. "I mean, like a *bloke*."
 
@@ -5694,7 +5696,7 @@ I permitted myself a wry smile.
 
 "Sorry," I said. "I was talking, not listening. Please go on."
 
-He stared at me.
+In his eyes I saw that anguish again.
 
 I waited.
 
@@ -5704,23 +5706,23 @@ Then his shoulders lowered, barely.
 
 He looked away again.
 
-"I just didn't want to be like— that."
+"I just couldn't be like— that."
 
 I nodded.
 
-"So, like Graham."
+"Fine. You don't want to be like Graham."
 
 He dropped his gaze.
 
 "Or, like my dad."
 
-I lifted my head.
+I lifted my head and caught him glancing at me.
 
 *Oh.*
 
-"So, just a bloke in general."
+"So, just— generally like a bloke."
 
-He dipped his head to one side, eyes on his twisting fingers. He stole a glance at me.
+He dipped his head to one side, eyes on his twisting fingers. He stole another glance at me.
 
 "What?"
 
@@ -5730,7 +5732,7 @@ He dipped his head to one side, eyes on his twisting fingers. He stole a glance 
 
 His ears went red. His mouth did that Charlie-pout.
 
-"I was, um, worried."
+"I guess I'm, um, sort-of worried."
 
 "Worried?"
 
@@ -5751,7 +5753,6 @@ I didn't really know what to say to that.
 I could feel his eyes on me as I went to my room.
 
 <hr class="section-break strong" />
-
 
 
 
