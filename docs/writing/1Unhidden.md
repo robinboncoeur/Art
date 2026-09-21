@@ -3609,9 +3609,11 @@ That was on me.
 
 I rolled onto my side and stared at the patch of sheet he’d left behind — already cooling, already irrelevant. My fingers flexed once against the fabric, restless. 
 
-I didn't want — him. Nor did I want more.
+I didn't want— *him*. 
 
-I wanted — meaning.
+Nor did I want more.
+
+I wanted— *meaning*.
 
 And in the quiet, uninvited, a thought arrived and sat down like I owed it money: is this the best a woman can hope for?
 
@@ -4151,7 +4153,7 @@ At first, it didn't register. Then he recognised me with a start. He picked up h
 
 His throat worked. He gave a quick nod.
 
-"Thank you, Celeste." He sounded breathless, like he'd been running. "I promise I'll find something soon."
+"Thank you, Celeste." He sounded breathless. "I promise I'll find something soon."
 
 I raised my hand as we pulled away from the kerb.
 
@@ -4204,13 +4206,17 @@ His eyes caught mine, and he reddened slightly.
 
 He nodded. And selected what was on special.
 
+---
+
 Sarah and Lauren were standing next to Lauren's little i20 when we got home.
 
 Charlie got out of the car and went to his mum.
 
-"You okay, mum?"
+"You okay?"
 
-Lauren gave a short nod. She looked ready to collapse.
+Lauren gave a short nod.
+
+She looked ready to collapse.
 
 I caught Sarah's eye. She tipped her head slightly and slipped her arm around Lauren's shoulders.
 
@@ -4240,13 +4246,13 @@ Lauren motioned him over.
 
 "Got a few of your things here." She handed him the canvas bag. "Hope I got everything you need. I was in a bit of a hurry." 
 
-By the time he'd re-emerged from his room, everyone was holding a cup in their hands. 
+By the time he'd re-emerged from his room, everyone was holding a cup in their hands. Charlie settled beside his mum, glancing at her then down at his hands.
 
 Sarah pulled up a kitchen chair.
 
 "Everyone's tired, so we'll keep this short," she said. "Just want to make sure everyone's safe."
 
-She looked at Lauren. Charlie had settled beside his mum, glancing at her then down at his hands. 
+She looked at Lauren. 
 
 Lauren cleared her throat.
 
@@ -4264,11 +4270,9 @@ He nodded, still studying his hands.
 
 "Right then, that's tonight sorted," she said. She bunched her lips in that way I knew meant she was getting ready to say the awkward thing no one else wanted to say. "Just not tomorrow."
 
-"Can we just—" Lauren began, then stopped.
+"Can we just—" Lauren began, then stopped. 
 
 Sarah had simply looked at her.
-
-Lauren closed her eyes.
 
 "There's no point in beating around the bush. Accommodation is as rare as hen's teeth." Sarah's eyes met mine. "Celeste is okay with you staying here while we work out what comes next."
 
@@ -4280,17 +4284,15 @@ Sarah looked at him sharply.
 
 "Better idea?"
 
-She stood.
+His mouth closed slowly as his eyes flicked to me.
 
-"And before anyone starts," she said briskly. "You're paying rent, Charlie. Same as the actress was."
+"You'll be paying rent, Charlie," she said briskly, "same as the actress was."
 
-Charlie looked at me.
+Charlie gave a quick nod.
 
-I told him the amount.
+Sarah stood.
 
-He nodded quickly.
-
-"Right then, Celeste," Sarah continued. "Your house, your rules."
+"Right then, Celeste. Your house, your rules."
 
 I thought for a moment.
 
