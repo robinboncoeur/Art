@@ -357,7 +357,7 @@ Slightly [different orchestration](https://media.seabrae.org/audio/cg/music/TheW
 
 ## Music Player
 
-<div class="music-card music-card--with-art">
+<div class="music-card">
   <div>
     <p id="now-playing">Random music</p>
 
