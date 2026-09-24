@@ -284,28 +284,8 @@ These pieces live in my head when I write.
 
 <hr class="section-break sweet" />
 
-<!--
-
-## Lala Rookh
-
-[![Alice Mary Smith][St14]{ .artL width="220" }][St14]
-
-This is a piece I transcribed from hand-written manuscript. I have been asked to not share my transcribed score on IMSLP by the Royal Academy of Music Library in London, but I will share Reaper recording here, hoping to promote Alice Mary Smith's incredibly beautiful composition.
 
 
-<div class="music-card music-card--with-art">
-  <div>
-    <p>Alice Mary Smith-Lala Rookh</p>
-    <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/FjsYqnys2YSwL8X/download" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
-</div>
-
-<hr class="section-break strong" />
-
--->
 
 
 
@@ -313,53 +293,9 @@ This is a piece I transcribed from hand-written manuscript. I have been asked to
 
 **1) Incidental music for 'Celeste's Girl', Scene 1 "Are You Lost?"**
 
----
-
-<!--
-
-[![Wrong Door][St56]{ .artL width="160" }][St56]
-
-Updated: 11-July-2026, 1000
-
-<div class="music-card music-card--with-art">
-  <div>
-    <p>The Wrong Door - B</p>
-    <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoorB.mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
-</div>
-
-<hr class="section-break sweet" />
-
-
-
-
-[![Wrong Door][St03]{ .artL width="160" }][St03]
-
-Updated: 11-July-2026, 1430
-
-<div class="music-card music-card--with-art">
-  <div>
-    <p>The Wrong Door - C</p>
-    <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoorC.mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
-</div>
-
-<hr class="section-break sweet" />
-
-I'm calling this piece *fait accompli* with this final version. Time to move on. What I hoped to demonstrate is that—very much like with writing prose—writing music is a tiny bit of 'inspiration' followed by a lot of revision. We have so many tools at our disposal to help revision to be more meaningful, including AI and sound libraries and sharing with listeners / readers from around the globe, unthinkable a mere ten years ago. Well, the AI bit, anyway.
-
-Or so I thought. And then, I purchased Dorico 6, and found that Musescore 4—both Musescore and Dorico do music-notation—had been charitably masking harmonic flaws. Which I have since fixed. I will be doing more and more writing in Dorico: I can see why real composers use it. HUGE learning curve, but then, anything worth learn has that.
-
-/-->
-
 
 [![Celeste][Stq1]{ .artL width="380" }][Stq1]
+
 
 **The Wrong Door**
 
@@ -387,19 +323,8 @@ Slightly [different orchestration](https://media.seabrae.org/audio/cg/music/TheW
   </div>
 </div>
 
+*Updated: 25-Sep-2026*
 
-
-*Updated: 11-Sep-2026*
-
----
-
-<!--
-KEEP AS EXAMPLE FOR NEXTCLOUD
-<source src="https://cloud.seabrae.org/index.php/s/BRfP6tqMftxTwWf/download" type="audio/mpeg">
-
-
-Very subtle motion. The girl sits quietly in class and glances up with mild curiosity. One sweet blink at most. Preserve exact facial features, hair, clothing, and mood.
-/-->
 
 <hr class="section-break sweet" />
 
@@ -407,7 +332,7 @@ Very subtle motion. The girl sits quietly in class and glances up with mild curi
 
 
 
-
+## Video Version
 
 <div class="video-card video-card--portrait">
   <div class="video-frame">
@@ -427,6 +352,100 @@ Very subtle motion. The girl sits quietly in class and glances up with mild curi
 
 
 
+
+
+
+## Music Player
+
+<div class="music-card music-card--with-art">
+  <div>
+    <p id="now-playing">Random music</p>
+
+    <audio id="random-player" controls preload="metadata" class="music-player">
+    </audio>
+
+    <button id="next-track">Next random piece</button>
+  </div>
+</div>
+
+<script>
+const tracks = [
+  {
+    title: "Kalinnikov: Serenade in G",
+    src: "https://media.seabrae.org/audio/ytdl/Kalinnikov-SerenadeG.mp3"
+  },
+  {
+    title: "Finzi: Three Soliloquies",
+    src: "https://media.seabrae.org/audio/ytdl/GFinzi-3Soliloquies.mp3"
+  },
+  {
+    title: "Finzi: Severn Rhapsody",
+    src: "https://media.seabrae.org/audio/ytdl/Finzi-Severn-Rhapsody.mp3"
+  },
+  {
+    title: "Finzi: Clarinet Concerto, Op31-(2nd Mvmt)",
+    src: "https://media.seabrae.org/audio/ytdl/Finzi-Clarinet-Concerto-Op31-2ndMvmt.mp3"
+  },  
+  {
+    title: "Douglas: Cantilena",
+    src: "https://media.seabrae.org/audio/ytdl/RDouglas-Cantilena.mp3"
+  },  
+  {
+    title: "Elgar: Suite Mauresque",
+    src: "https://media.seabrae.org/audio/ytdl/Elgar-SMauresq.mp3"
+  },  
+  {
+    title: "Finzi: Five Bagatelles, Op23",
+    src: "https://media.seabrae.org/audio/ytdl/Finzi-5Bagatelles-Op23.mp3"
+  },  
+  {
+    title: "Elgar: Minuet",
+    src: "https://media.seabrae.org/audio/ytdl/Elgar-Minuet.mp3"
+  }];
+
+const player = document.getElementById("random-player");
+const title = document.getElementById("now-playing");
+const nextButton = document.getElementById("next-track");
+
+let shuffled = [];
+let position = 0;
+
+function shuffleTracks() {
+  shuffled = [...tracks];
+
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+
+  position = 0;
+}
+
+function loadNext() {
+  if (position >= shuffled.length) {
+    shuffleTracks();
+  }
+
+  const track = shuffled[position++];
+
+  title.textContent = track.title;
+  player.src = track.src;
+  player.load();
+}
+
+nextButton.addEventListener("click", () => {
+  loadNext();
+  player.play();
+});
+
+player.addEventListener("ended", () => {
+  loadNext();
+  player.play();
+});
+
+shuffleTracks();
+loadNext();
+</script>
 
 
 <!--

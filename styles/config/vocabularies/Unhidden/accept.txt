@@ -65,7 +65,7 @@ mansplaining
 Mara
 [Mm]asculinis(ation|ed|ing)
 Mauresque
-meds
+[Mm]eds
 Michaels
 [Mm]isallocated?
 Mmm

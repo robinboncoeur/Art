@@ -13,7 +13,7 @@
 
 
 
-## Don't Touch
+## Serious Meds
 
 [![Moi][St00]{ .artL width="160" }][St00]
 
@@ -25,9 +25,9 @@ Put to bed.
 
 Now, outlining the next chapter.
 
-*Celeste has a nagging concern about medication. She knows enough science — high school biology will tell you — that puberty is a hormone event, and that hormones are the body's regulators, and that they're important. And a medication that affects hormones ... dunno, but it doesn't sound safe, somehow.
-Her process could start there.
-Does she google 'spironolactone'?
+Celeste has a nagging concern about medication. She knows enough science — high school biology will tell you — that puberty is a hormone event, and that hormones are the body's regulators, and that they're important. And a medication that affects hormones ... dunno, but it doesn't sound safe, somehow.  
+Her process could start there.  
+Does she google 'spironolactone'?     
 And freak when she sees the side effects?
 And wonder who to talk to?
 
@@ -42,22 +42,13 @@ Seems a plausible turn of events.
 
 [ Emily ]
 
-Yes. I think that is **exactly the plausible next move**, and it gives Celeste a very different job from the one she had in *Ready To Listen*.
-
-That chapter was about **understanding Charlie**.
-
-This one can begin with Celeste realising:
+Yes. I think that is *exactly the plausible next move*, and it gives Celeste a very different job from the one she had in *Ready To Listen*. That chapter was about **understanding Charlie**. This one can begin with Celeste realising:
 
 **Hang on. Understanding why he did this doesn't mean what he did was safe.**
 
-And because she's eighteen, bright, scientifically literate, but *not medically trained*, her concern doesn't need to be sophisticated initially. In fact, it's stronger if it isn't.
-
-She knows puberty is driven by hormones. She knows Charlie has deliberately taken a drug to interfere with that process. And she knows enough biology to think:
-
-*Hormones do lots of things.*
-
-Then perhaps:
-
+And because she's eighteen, bright, scientifically literate, but *not medically trained*, her concern doesn't need to be sophisticated initially. In fact, it's stronger if it isn't. She knows puberty is driven by hormones. She knows Charlie has deliberately taken a drug to interfere with that process. And she knows enough biology to think:  
+*Hormones do lots of things.*  
+Then perhaps:  
 *What else does this stuff do?*
 
 So yes. **She Googles spironolactone.**
