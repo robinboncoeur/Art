@@ -52,30 +52,35 @@ nav:
 
   - Writing:
       - writing/index.md
-      - 📚 Unhidden: writing/1Uh-1stEd.md
-      - 📚 Celeste's Girl.v1: writing/1CG-1stEd.md
-      - 📚 Celeste's Girl.v2: writing/1CG-2ndEd.md
-      - 📚 Celeste's Girl.v3: writing/1CG-3rdEd.md
+      - 💞 Celeste's Girl (Orig): writing/1CG-2ndEd.md
+      - 💞 Unhidden (CG-Rev): writing/1Unhidden.md
       - 📚 The Deep End.v1: writing/2DE-1stEd.md
-      - Design Structures: writing/A-Structure.md
-      - Writing Emotional: writing/B-Emotions.md
+      - 🥰 Write Emotions: writing/B-Emotions.md
       - Writing Metaphors: writing/C-Metaphors.md
-      - Chronology—Story: writing/D-Chronology.md
-      - Canon-CelestesGrl: writing/E-StoryCanon.md
-      - Physical Layouts:  writing/F-SettingPlan.md
-      - 💎 →  Redirection: writing/G-Redirection.md
-      - 🌿 Write-Discuss1: writing/W_DiscussA.md
-      - 🌿 Write-Discuss2: writing/W_DiscussB.md
-      - 🌿 Write-Discuss3: writing/W_DiscussC.md
-      - 🌿 Write-Discuss4: writing/W_DiscussD.md
-      - 🌿 Write-Discuss5: writing/W_DiscussE.md
-      - 🌿 Write-Discuss6: writing/W_DiscussF.md
-      - 🌿 Write-Discuss7: writing/W_DiscussG.md
-      - 🌿 Write- Core 01: writing/W_TheCore1.md
-      - ☕ Write  →  Edit: writing/W_Edits.md
-      - 👭 Emily> Guiding: writing/W_Guiding.md
-      - 💞 Writing Friday: writing/W_Writing.md
-      - 📒 The Ledger-Ch9: writing/W_Ledger.md
+      - 🏔 Chronology 🏔: writing/D-Chronology.md
+      - 🌿 Settings Layout: writing/F-SettingPlan.md
+      - 👄 Write-DiscussE: writing/W_DiscussE.md
+      - 👭 Emily-DiscussEa: writing/W_DiscussEa.md
+      - 🌿 Write-DiscussF: writing/W_DiscussF.md
+      - 💎 Write-DiscussFa: writing/W_DiscussFa.md
+      - 🌿 Write-DiscussFb: writing/W_DiscussFb.md
+      - 🩸 Write-DiscussG: writing/W_DiscussG.md
+      - 🥼 Write-DiscussGa: writing/W_DiscussGa.md
+      - ☕ Write  💞  Edit: writing/W_Edits.md
+
+  - Discussion:
+      - discuss/index.md
+      - 📚 Celeste's Girl.v1: discuss/1CG-1stEd.md
+      - 📚 Celeste's Girl.v3: discuss/1CG-3rdEd.md
+      - Design Structures: discuss/A-Structure.md
+      - Canon-CelestesGrl: discuss/E-StoryCanon.md
+      - 💞 Writing Friday: discuss/W_Writing.md
+      - 📒 The Ledger-Ch9: discuss/W_Ledger.md
+      - 🍒 Cherry Picking: discuss/Sodom.md
+      - 🌿 Write-Discuss1: discuss/W_DiscussA.md
+      - 🌿 Write-Discuss2: discuss/W_DiscussB.md
+      - 🌿 Write-Discuss3: discuss/W_DiscussC.md
+      - 🌿 Write-Discuss4: discuss/W_DiscussD.md
 
   - Media:
       - media/index.md
@@ -85,18 +90,14 @@ nav:
   - Work:
       - work/index.md
       - Emily's Intelligence: work/01Emilyai.md
-      - Images in ComfyUI 💋: work/02Comfyui.md
+      - 💋 Images in ComfyUI: work/02Comfyui.md
       - ArtInt Illustrations: work/03CUIllus.md
       - Making LoRAs FluxGym: work/04FluxGym.md
       - Domains Transferring: work/05DomXfer.md
       - Banners-Website Misc: work/06Banners.md
-      - Video Scripts💛: work/08VScripts.md
+      - 💛 💜 Video Scripts: work/08VScripts.md
       - Ideas to Study: work/09ToStudy.md
       - Video in ComfyUI: work/10VideoCUI.md
-
-  - Discussion:
-      - discuss/index.md
-      - Cherry Picking: discuss/Sodom.md
 
 plugins:
   - search

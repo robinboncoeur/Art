@@ -13,10 +13,9 @@
 
 
 
-
 ## Version Note
 
-**Unhidden** is the final edition of the [Celeste's Girl](1CG-3rdEd.md) story.
+**Unhidden** is the final edition of the [Celeste's Girl](1CG-2ndEd.md) story.
  
 
 
@@ -365,7 +364,7 @@ He glanced up at me again, his hazel eyes more searching now.
 
 “Waste? What do you mean?”
 
-“Waste of ability,” I clarified. “Waste of talent.” I kept my voice calm. “You’re just mis-allocated.”
+“Waste of ability,” I clarified. “Waste of talent.” I kept my voice calm. “You’re just misallocated.”
 
 I leaned closer, just enough to make my next words private.
 
@@ -3369,7 +3368,7 @@ Sarah drew her head back and frowned at him.
 
 "North Geelong."
 
-"Actually, it's closer to Lara," Lauren corrected. "It's the connection at Torquay. Such a long bus ride."
+"Actually, we're closer to Lara," Lauren corrected. "He has to change buses at Torquay. Makes for such a long bus ride."
 
 "I don't mind, Mum," he muttered.
 
@@ -3379,7 +3378,7 @@ I could see Mara tense. She gave Sarah one of her looks.
 
 "It's not that easy, Sarah," Lauren said. Her voice was gentle. "You need the right people. Not everyone's a quick read."
 
-"We're taking the order," Mara said. "Celeste, work out details. We'll reconvene when you know more."
+"Look, we're taking the order," Mara said. "Celeste, work out the details. We'll reconvene when you know more."
 
 ---
 
@@ -3510,7 +3509,7 @@ He grinned and handed me the lead.
 
 "You can go for a ride on him if you want." He picked up his tools. "I won't be a minute," he said and disappeared into the tearoom. 
 
-The German shepherd seemed as friendly as his owner, all too happy to shared his slobber with me. 
+The German shepherd seemed as friendly as his owner, all too happy to share his slobber with me. 
 
 An afternoon breeze had picked up, and was blowing dead leaves through the loading dock. I felt my eyes water a bit. 
 
@@ -3580,7 +3579,7 @@ I stayed flat on my back and listened to the little noises of him un-being there
 
 The latch clicked.
 
-And the room didn’t go quiet so much as— hollow.
+And the room didn’t go quiet so much as — hollow.
 
 Vacant. 
 
@@ -3590,17 +3589,19 @@ I suppose it was fine.
 
 After all, the sex itself had been fine. Adequate. Not violent, not rude, not even selfish in a way that would make for the sort of story you'd tell your best friend.
 
-Adequate. And yet: meaningless.
+Adequate. 
+
+And yet: meaningless.
 
 No tenderness.
 
 No afterglow.
 
-No lingering hand at my waist as if my body was worth remembering. No kiss that said, I like being near you, instead of thank you for your service.
+No lingering hand at my waist as if my body was worth remembering. No kiss that said, 'I like being near you,' instead of thank you for your service.
 
-He’d been happy, of course. Men are generally happy when the world does what it’s told. He’d rolled off, stood up, and resumed being a person with plans. 
+He’d been happy, of course. Men are generally happy when the world does what it’s told. He’d rolled off, stood up, and resumed being a person with plans. And I remained exactly what I was: a surface the night had happened on. 
 
-And I remained exactly what I was: a surface the night had happened on. A surface that wondered why pleasure was being mistaken for intimacy.
+A surface that wondered why pleasure was being mistaken for intimacy.
 
 I had let myself hope, just a little.
 
@@ -3608,15 +3609,17 @@ That was on me.
 
 I rolled onto my side and stared at the patch of sheet he’d left behind — already cooling, already irrelevant. My fingers flexed once against the fabric, restless. 
 
-I didn't want— him. Nor did I want more.
+I didn't want— *him*. 
 
-I wanted— meaning.
+Nor did I want more.
+
+I wanted— *meaning*.
 
 And in the quiet, uninvited, a thought arrived and sat down like I owed it money: is this the best a woman can hope for?
 
 My mouth tightened.
 
-The irritation rose again — not even at him, specifically. He was just— a free trial of the wider pattern.
+The irritation rose again — not even at him, specifically. He was just a free trial of the wider pattern.
 
 I let out a breath that wasn’t quite a laugh.
 
@@ -3632,7 +3635,7 @@ It rang longer than it should have. Then sound flooded in: wind, men’s laughte
 
 “Hey,” he said, voice bright. Pleased with himself. A pause. “You right?”
 
-“Yep,” I said crisply. “So, I’m *ending* this.”
+“Yep,” I said crisply. “I’m *ending* this.”
 
 A pause, like the words had reached his ears but couldn’t find a place to land.
 
@@ -3656,7 +3659,7 @@ His breath came out harsh.
 
 I looked at my bare feet on the carpet. The ordinary domesticity of the moment almost amused me. Almost.
 
-“No, this is actually the perfect place to do it,” I said. “You’re with your mates. You’ll recover. Quickly.”
+“No, this is actually the perfect place to do it,” I said. “You’re with your mates. You’ll be right.”
 
 He exhaled again, hard.
 
@@ -3674,7 +3677,7 @@ Silence.
 
 Not thoughtful silence. Not I hear you silence. Just… blank. Then he did what men did when they were offered a feeling they couldn’t quantify: he tried to bargain.
 
-“Look, I can be —I mean, I am… look, we can work on that.”
+“Look, I can be — I mean, I am… look, we can work on that.”
 
 I smiled without humour.
 
@@ -3682,7 +3685,7 @@ I smiled without humour.
 
 A small sound: frustration, offence.
 
-“So you’re just… done?”
+“So you’re just done?”
 
 “Yes.”
 
@@ -3696,7 +3699,7 @@ Another pause. A longer one. I could almost hear his brain searching for the cor
 
 “No,” I said, and the word landed like a door closing.
 
-“*Sarah*— don’t be like that.”
+“*Sarah*, don’t be like that.”
 
 I glanced at the phone as if it had said something stupid.
 
@@ -3722,7 +3725,7 @@ The quiet after was immediate, like a room after a door clicks shut.
 
 My phone buzzed — missed call. Another. I turned it over, face-down, and went to make coffee.
 
-The magpie outside warbled, pleased with itself.
+A magpie outside warbled, pleased with itself.
 
 ---
 
@@ -3730,9 +3733,7 @@ Carl turned up at Wardrobe with a tool belt and a polite expression, and without
 
 Mara pointed him toward the back wall where the lights had been flickering like a haunted-house feature. He listened. He nodded. He asked one sensible question. Then he got to work without making anyone’s day harder than it already was.
 
-I found myself idly wondering: is this what it looks like when a bloke is normal?
-
-Because the bar was low enough to trip over.
+I found myself idly wondering about him. A bit. 
 
 When he finished, he wiped his hands on a rag and looked at Mara.
 
@@ -3746,7 +3747,7 @@ I gave him a look without turning my head. “Sarah.”
 
 His gaze flicked to my hands — needle, thread, the precision of my work — then back to my face.
 
-“You make that look… easy.”
+“You make that look— easy.”
 
 I snorted. “It’s not.”
 
@@ -3770,7 +3771,9 @@ Carl glanced between us.
 
 “It’s allowed,” Mara said. “She needs feeding. You look like you do too.”
 
-I rolled my eyes because it was that or smile, and then, smiled after all because I was curious. We agreed on Saturday. Daylight. Somewhere with shade. Somewhere public enough that my life couldn’t accidentally become a man’s idea of “progress.”
+I rolled my eyes because it was that or smile, and then, smiled after all because I was curious.
+
+We agreed on Saturday. Daylight. Somewhere with shade. Somewhere public enough that my life couldn’t accidentally become a man’s idea of “progress.”
 
 ---
 
@@ -3778,7 +3781,9 @@ The date — if that’s what it was — was easy.
 
 Carl picked a place that wasn’t trying too hard. He arrived on time. He asked questions and actually waited for answers. He didn’t fill silence like it was a threat. When I teased him, he laughed, genuine. I didn’t feel like I had to armour myself.
 
-That should’ve felt like a relief. Instead it felt like standing in warm water and realising you’d forgotten what warm felt like.
+That should’ve felt like a relief. 
+
+Instead it felt like standing in warm water and realising you’d forgotten what warm felt like.
 
 Not because the water was wrong.
 
@@ -3802,7 +3807,7 @@ I tried to let my body meet it.
 
 It didn’t.
 
-Then, from a table behind us, I heard it. A woman’s laugh — silvery, unselfconscious, the kind that made the air lift. It wasn’t loud. It wasn’t even near. It was just… alive.
+Then, from a table behind us, I heard it. A woman’s laugh — silvery, unselfconscious, the kind that made the air lift. It wasn’t loud. It wasn’t even near. It was just— alive.
 
 And my body answered before my mind could tidy it up.
 
@@ -3875,9 +3880,6 @@ The handshake was firm, respectful, no attempt to make it mean more than it did.
 Then he stepped back, gave me one last nod, and walked away.
 
 <hr class="section-break strong" />
-
-
-
 
 
 
@@ -4151,7 +4153,7 @@ At first, it didn't register. Then he recognised me with a start. He picked up h
 
 His throat worked. He gave a quick nod.
 
-"Thank you, Celeste." He sounded breathless, like he'd been running. "I promise I'll find something soon."
+"Thank you, Celeste." He sounded breathless. "I promise I'll find something soon."
 
 I raised my hand as we pulled away from the kerb.
 
@@ -4204,13 +4206,17 @@ His eyes caught mine, and he reddened slightly.
 
 He nodded. And selected what was on special.
 
+---
+
 Sarah and Lauren were standing next to Lauren's little i20 when we got home.
 
 Charlie got out of the car and went to his mum.
 
-"You okay, mum?"
+"You okay?"
 
-Lauren gave a short nod. She looked ready to collapse.
+Lauren gave a short nod.
+
+She looked ready to collapse.
 
 I caught Sarah's eye. She tipped her head slightly and slipped her arm around Lauren's shoulders.
 
@@ -4240,13 +4246,13 @@ Lauren motioned him over.
 
 "Got a few of your things here." She handed him the canvas bag. "Hope I got everything you need. I was in a bit of a hurry." 
 
-By the time he'd re-emerged from his room, everyone was holding a cup in their hands. 
+By the time he'd re-emerged from his room, everyone was holding a cup in their hands. Charlie settled beside his mum, glancing at her then down at his hands.
 
 Sarah pulled up a kitchen chair.
 
 "Everyone's tired, so we'll keep this short," she said. "Just want to make sure everyone's safe."
 
-She looked at Lauren. Charlie had settled beside his mum, glancing at her then down at his hands. 
+She looked at Lauren. 
 
 Lauren cleared her throat.
 
@@ -4264,11 +4270,9 @@ He nodded, still studying his hands.
 
 "Right then, that's tonight sorted," she said. She bunched her lips in that way I knew meant she was getting ready to say the awkward thing no one else wanted to say. "Just not tomorrow."
 
-"Can we just—" Lauren began, then stopped.
+"Can we just—" Lauren began, then stopped. 
 
 Sarah had simply looked at her.
-
-Lauren closed her eyes.
 
 "There's no point in beating around the bush. Accommodation is as rare as hen's teeth." Sarah's eyes met mine. "Celeste is okay with you staying here while we work out what comes next."
 
@@ -4280,17 +4284,15 @@ Sarah looked at him sharply.
 
 "Better idea?"
 
-She stood.
+His mouth closed slowly as his eyes flicked to me.
 
-"And before anyone starts," she said briskly. "You're paying rent, Charlie. Same as the actress was."
+"You'll be paying rent, Charlie," she said briskly, "same as the actress was."
 
-Charlie looked at me.
+Charlie gave a quick nod.
 
-I told him the amount.
+Sarah stood.
 
-He nodded quickly.
-
-"Right then, Celeste," Sarah continued. "Your house, your rules."
+"Right then, Celeste. Your house, your rules."
 
 I thought for a moment.
 
@@ -4951,7 +4953,7 @@ Celeste turned to the table and tapped the pattern paper, crisp.
 
 “Right,” she said. “Back to work.”
 
-I walked back to the central table where the 'Les Mis' patterns were spread and looked down at the sketches again. Hardship made costume. Nineteenth-century seams. 
+I walked back to the central table where the new patterns were spread and looked down at the sketches again. Hardship made costume. Nineteenth-century seams. 
 
 A company of women would mingle among Faire-goers wearing what we’d cut and stitched here. 
 
@@ -4982,7 +4984,7 @@ And smiled at her.
 
 [ *Lauren* ]
 
-By late afternoon Wardrobe smelled like steam and chalk and the faint metallic bite of scissors that had worked all day. The 'Les Mis' order had turned the workroom into a machine — pattern paper everywhere, fabrics in disciplined stacks, four different costumes hanging on mannequins like a small family of lives waiting to be worn. Every woman in the room moved with a tired focus: bodies exhausted, minds still sharp.
+By late afternoon Wardrobe smelled like steam and chalk and the faint metallic bite of scissors that had worked all day. The new order had turned the workroom into a machine — pattern paper everywhere, fabrics in disciplined stacks, four different costumes hanging on mannequins like a small family of lives waiting to be worn. Every woman in the room moved with a tired focus: bodies exhausted, minds still sharp.
 
 Mara stood at the central rack with her arms folded, eyes flicking from hem to seam to neckline like she was reading a story. In front of her, a bargain-basement laptop displayed a spreadsheet she was moving the contents of the ledger to. Celeste hovered beside her, pencil behind one ear, hair slightly disheveled — her favourite state, I’d noticed, the one she wore when she was building something.
 
@@ -5328,9 +5330,11 @@ And left anyway.
 
 I stared at the empty hallway.
 
-Didn't sound fun, having to live with someone you have a crush on.
+*Didn't sound fun, having to live with someone you have a crush on.*
 
-Although I might have sounded like a top graduate from the Confidence Academy to Lauren and Sarah on the idea of Charlie moving into my spare room, I actually *did* have some misgivings. Slight, true, but they were there. You don't have a wide-eyed admirer move in with you like it's no big deal.
+Although I might have sounded like confidence itself to Lauren and Sarah on the idea of Charlie moving into my spare room, I actually *did* have some misgivings. Slight, true, but they were there. 
+
+You don't have a wide-eyed admirer move in with you like it's no big deal.
 
 And yet.
 
@@ -5350,7 +5354,7 @@ He stood quietly at the sink, eyes focused on the task.
 
 ”So, how was Wardrobe?”
 
-”We got the first lot of dresses done today.” His voice was suddenly animated. ”Mara seemed happy — well, as happy as Mara gets. You know.”
+”We got the first lot of dresses done today.” He seemed to relax a bit. ”Mara seemed happy — well, as happy as Mara gets. You know.”
 
 I knew.
 
@@ -5360,7 +5364,7 @@ He said nothing. I looked at him. He was biting his lower lip.
 
 ”What?”
 
-“Mara said she wants Bree and Lily wearing them now. She needs someone who actually fills them properly if we're checking the fit.”
+“Mara said she wants Bree and Lily testing them now. She needs someone who actually fills them properly if we're checking the fit.”
 
 ”Makes sense.”
 
@@ -5380,7 +5384,7 @@ He nodded.
 
 ”Never thought I would,” he said quietly. He put the potato on the bench and started to peel the second one.
 
-”How many potatoes are left, Charlie?” I asked brightly.
+”How many potatoes do we have left, Charlie?” I asked brightly.
 
 ”Only a couple. Why?”
 
@@ -5512,11 +5516,253 @@ When he saw what I held in my hand, his face suddenly went from red to white.
 
 
 
+## 23 Ready to Listen
+
+[ *Celeste* ]
+
+I stopped.
+
+*Something's not right.*
+
+Charlie stared at the bottle, but didn't move.
+
+I had a look at the label.
+
+"Spironolactone."
+
+That told me nothing.
+
+"What is this, Charlie?"
+
+His shoulders rose slightly. He swallowed.
+
+"Medicine."
+
+"No shit." I pressed my lips together briefly, exhaled sharply through my nose. "What's it for?"
+
+His eyes had gone vacant, staring at nothing.
+
+"Charlie?"
+
+He shrugged slightly.
+
+"It's to— *stop* things."
+
+I closed my eyes for an instant and gave my head a tiny shake.
+
+"Things?"
+
+He nodded. The colour had returned to his face.
+
+"Things that were, like, happening to me."
+
+My annoyance vanished.
+
+"What was happening to you, Charlie?"
+
+"My legs."
+
+All sorts of conditions affecting lower limbs chased each other through my head.
+
+"Oh my lands, what was happening to your legs?"
+
+Charlie's eyes were fixed on my feet.
+
+I could barely hear the word.
+
+"Hair," he murmured.
+
+I felt my jaw click.
+
+"What?"
+
+His eyes slowly rose to meet mine.
+
+"Hair was starting to grow on my legs."
+
+I sat down — hard — in the other chair. A crow outside the window offered his opinion. Another joined it.
+
+"Hair," I said finally.
+
+He nodded.
+
+I looked at the bottle again.
+
+Then at Charlie.
+
+“You are taking medication to stop hair growing on your legs.”
+
+Another nod.
+
+I put the bottle carefully on the table.
+
+Pulled the towel tighter.
+
+“Why?”
+
+I looked at his face then.
+
+Anguish. 
+
+His jaw quivered slightly even as his shoulders rose more.
+
+"It was happening. I wanted it to stop."
+
+"You didn't want hair—"
+
+"No, not just that," he cut in. "All of it. All of—"
+
+He stopped.
+
+And stared at the floor.
+
+The beating of wings outside the windows told me the crows had heard enough.
+
+I leaned back in my chair.
+
+"Okay."
+
+Charlie sat frozen in his chair.
+
+I got up.
+
+"I'm going to get dressed. I'm ready to listen whenever you're ready to talk to me, Charlie."
+
+I left the bottle on the table and went back to my room.
+
+The ride to work was quiet.
+
+---
+
+A few evenings later, I was sitting alone on the couch. The TV was on, but I had no idea what was happening on the screen. I yawned. 
+
+*Might make an early mark.*
+
+And then, Charlie appeared.
+
+"Celeste?"
+
+He approached me — cautiously, I thought. Sat down slowly on the other end of the couch.
+
+I waited.
+
+"You said you, um, would listen," he said after a moment.
+
+He wrapped his thin arms around himself, and tipped his head to one side. 
+
+"Not sure how to explain this," he started.
+
+"Begin anywhere."
+
+He took in a breath.
+
+"So, the reason I couldn't tell you more the other day — you know, when you *found* the medication was, well, I didn't really know how to explain it."
+
+His face scrunched with frustration.
+
+"I mean, I never really thought it through." He looked down. "I just knew I had to." 
+
+My brows rose a fraction. 
+
+"Celeste, I was freaking out." He squeezed his eyes shut for a moment. "My body was starting to change and it was freaking me out."
+
+My brows rose a bit more.
+
+"At first, I thought it was Wardrobe. Like— if I started being like Graham, everyone there would start thinking of me differently. I wouldn't be cool there anymore. You know."
+
+I suppressed a laugh.
+
+"*You* be like Graham. Yeah, like that would happen."
+
+"You know what I mean."
+
+My mouth went sideways.
+
+"No, actually I don't." I squinted at him. "I thought maintenance proved it."
+
+"No, I mean—" He puffed. "I mean, like a *bloke*."
+
+"But Charlie, you—"
+
+I stopped. 
+
+He'd gone still. 
+
+The look in his eyes froze the thought before it could come out.
+
+Outside, a curlew announced curfew, her shrieks echoing through the night stillness.
+
+I permitted myself a wry smile.
+
+"Sorry," I said. "I was talking, not listening. Please go on."
+
+In his eyes I saw that anguish again.
+
+I waited.
+
+Then his shoulders lowered, barely.
+
+“I just—”
+
+He looked away again.
+
+"I just couldn't be like— that."
+
+I nodded.
+
+"Fine. You don't want to be like Graham."
+
+He dropped his gaze.
+
+"Or, like my dad."
+
+I lifted my head and caught him glancing at me.
+
+*Oh.*
+
+"So, just— generally like a bloke."
+
+He dipped his head to one side, eyes on his twisting fingers. He stole another glance at me.
+
+"What?"
+
+"Nothing."
+
+"Bullshit. You keep looking at me."
+
+His ears went red. His mouth did that Charlie-pout.
+
+"I guess I'm, um, sort-of worried."
+
+"Worried?"
+
+He not so much nodded as twitched.
+
+"That you might— hate me."
+
+I looked at him: proper, steady.
+
+I didn't really know what to say to that.
+
+*I didn't hate him, obviously.*
+
+*But what do you say to that?*
+
+"Well, I don't." I got up off the couch. Stretched. "Going to bed, Charlie. See you in the morning."
+
+I could feel his eyes on me as I went to my room.
+
+<hr class="section-break strong" />
 
 
-## 23
 
-[Being edited... 14-Sep-2026](W_Edits.md)
+
+
+
+
+## 24
+
+[Being edited... 19-Sep-2026](W_Edits.md)
 
 <!--
 

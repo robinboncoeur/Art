@@ -3,6 +3,7 @@ Anglesea
 Arbres
 artform
 blokey
+[Bb]loodwork
 [Bb]olognaise
 Bree
 C'mon
@@ -23,6 +24,7 @@ ebook
 else's
 eskie
 Faire
+ferals
 Fille
 Finlayson
 Finzi
@@ -32,7 +34,7 @@ frother
 Gartner
 Giaconda
 Gliga
-grainline
+grainlines?
 Greeves?
 handwheel
 Harri
@@ -40,6 +42,7 @@ Heyer
 hors
 Hostinger
 Hullo
+hyperkalaemia
 img
 [Ii]nfluencers?
 J’Adore
@@ -62,9 +65,9 @@ mansplaining
 Mara
 [Mm]asculinis(ation|ed|ing)
 Mauresque
-meds
+[Mm]eds
 Michaels
-Mis
+[Mm]isallocated?
 Mmm
 Montville
 Moorside
@@ -81,6 +84,7 @@ Queenslanders
 Qwen
 Rache
 reaticulate
+[Rr]ecalibrates?
 repinned
 rethread(ing|ed|s)?
 Retraite
@@ -110,7 +114,9 @@ Tallbanks
 tennies
 tensioning
 thingie
+[Tt]oasties?
 toserver
+[Tt]rackies?
 [Tt]radies?
 [Tt]ransformative
 Trimethoprim
@@ -119,6 +125,8 @@ tuplets
 unapologetically
 unbuffered
 underbuilt
+unsee
+unshed
 unthreaded?
 utes
 Uvalde
