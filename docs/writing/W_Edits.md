@@ -5,671 +5,249 @@
 
 
 
-## Outline: Discussion
+## Outline
 
-Tomorrow is Writing Friday. I'll be doing an outline again — this seems to be a useful approach. Roughly, what do you see as the next direction?  
-See, I see Celeste as putting two and two together. She's realising this is him hiding something from her, something that this bottle is central to.  
-She's not the type to beat about the bush. She would cut straight to the chase.
+[ *Charlie* ]
 
-"Charlie, you've gone white. What is this stuff? Be honest with me."
+Not sure why, but the creak of the front door sounded different that evening. Celeste kicked off her shoes and deposited the green rip-stop nylon Woolies bags on the table. A Granny Smith apple dropped out, rolling desperately for the edge of the table and freedom.
 
-That's the only course I see.  
-Thoughts?
+I caught it — a first: I normally couldn't catch a beach ball if it was tossed by a five-year-old. I grinned at Celeste. Her return smile didn't really meet requirements.
 
-<hr class="section-break soft" />
+"Hey, what's up?" I asked.
 
+She settled slowly into a chair.
 
+And sat for a moment.
 
+I indicated the shopping with my head.
 
+"Did you get your razors?"
 
+She nodded absently.
 
+"I called in at the chemists, Charlie."
 
-## A Safe Distance
+I felt my spine stiffen.
 
+"Oh?"
 
-[![Emily][Ts00]{ .artR width="260" }][Ts00]
+Celeste pursed her lips.
 
+"I asked about that medicine you're on."
 
-I think you're right. In fact, I think anything more delicate from Celeste at that exact moment would feel **false to Celeste**.
+I swallowed.
 
-She has spent the previous chapter *not* asking. She respected the disappearing. She respected the parcel. She explicitly gave him:
+"Oh yeah?"
 
-> *If it stops being nothing, I'm around.*
+"Yeah, the pharmacist told me it's script-only medicine."
 
-But now Charlie has gone **white** because she is holding his medicine.
+She looked at me expectantly. 
 
-That changes the rules—not because Celeste suddenly acquires a right to his medical information, but because **Charlie has visibly signalled distress**. She isn't interrogating a secret. She's responding to the person sitting in front of her.
+I had nothing to offer.
 
-So yes:
+"Who wrote the script for you?"
 
-> “Charlie, you've gone white. What is this stuff? Be honest with me."
+My stomach tightened a little. I couldn't look at her.
 
-That's her.
+"No one."
 
-And I think **“Be honest with me"** is the important part. Not *Tell me what you've been hiding.* Not *What's going on?* Not *Why didn't you tell me?*
+For a bit, the only sound was the tick of the kitchen clock.
 
-She's already realised the problem isn't merely the bottle.
+"No one," she repeated. "Where did you get it then, online?"
 
-<hr class="section-break soft" />
+I could feel my face harden into a scowl.
 
+I gave the smallest nod ever.
 
+*What business was it of hers?*
 
-**Where I see the chapter going**
+I glanced at Celeste. The look on her face reminded me of my Mum's when I'd done something incredibly fucking stupid.  
 
-I wouldn't outline it primarily as a **Spiro revelation chapter**. I'd outline it as the chapter in which **Celeste discovers Charlie's false theory of belonging**.
+My scowl went sideways.
 
-The medication gets them through the door.
+I breathed out in a puff.
 
-Charlie probably tries the smallest truthful answer first. That's his established strategy. He doesn't lie particularly well; he **minimises**.
+"Look, I've been keeping an eye on things. I mean, I feel *fine*. No weird stuff happening—"
 
-“What is this stuff?"
-
-“Medicine."
-
-“I worked that bit out, Charlie."
-
-Perhaps she reads the label now. *Spironolactone.* Means nothing to her. She asks what it does.
-
-And this is where I'd be careful about how much articulate endocrinology Charlie possesses. He ordered it deliberately, so he knows what he wanted it to do. But emotionally his explanation may be painfully primitive:
-
-**It stops things.**
-
-“What things?"
-
-And now we're getting somewhere dangerous.
-
-**Changes.**
-
-Celeste can put that beside the razor conversation. The shape conversation. Perhaps other things she's noticed. But she still shouldn't leap to gender.
-
-She asks the obvious question:
-
-**Why do you want to stop them?**
-
-And *that's* where Charlie gives her the answer he has been telling himself:
-
-> “So I fit in."
-
-I think Celeste is genuinely baffled.
-
-Fit in **where?**
-
-“At Wardrobe."
-
-And *that* is the moment the chapter changes direction.
-
-Because Celeste has probably been expecting something intensely personal—illness, body problem, something he was ashamed of, perhaps something involving her.
-
-Instead Charlie tells her that **this is about them.**
-
-The women.
-
-<hr class="section-break soft" />
-
-
-
-
-**I think Celeste's first reaction might actually be disbelief**
-
-Not anger. Not yet.
-
-Something like:
-
-*What?*
-
-Because from Celeste's perspective, this is absurd.
-
-Charlie is **already one of them**.
-
-He's been accepted. Trusted. Employed. Included. Fed. Teased. Taught. Defended. Given responsibility. Invited into people's lives.
-
-So when Charlie eventually gets to:
-
-> “I thought if I didn't start looking like Graham or my dad, I'd be cool with the women."
-
-Celeste suddenly encounters Charlie's internal model of Wardrobe.
-
-And it's horrible.
-
-Not because Charlie thinks badly of the women. Quite the opposite.
-
-He thinks their acceptance has **terms and conditions**.
-
-He thinks he's been allowed into this extraordinary place because he's small, quiet, unthreatening, barely developed, not visibly masculine.
-
-And therefore puberty represents:
-
-**expiry of membership.**
-
-Oh, Charlie. 😭
-
-<hr class="section-break soft" />
-
-
-
-
-**That's where Celeste can become Celeste**
-
-This is where I think she gets quite direct.
-
-Because she can refute **that proposition** without touching Charlie's gender.
-
-That's vital.
-
-She cannot say:
-
-*You're a boy and we'd still love you as a boy.*
-
-Because Charlie hasn't established that *boy* is something he wants defended.
-
-She cannot say:
-
-*You're really a girl.*
-
-Obviously.
-
-She doesn't even need:
-
-*It doesn't matter what you look like.*
-
-Because clearly it **does matter to Charlie**, even if she doesn't yet understand why.
-
-What she *can* attack is the conditional:
-
-**“Who told you that?"**
-
-Nobody.
-
-“Did Mara tell you that?"
-
-No.
-
-“Lucy?"
-
-No.
-
-“Tahlia? Sarah? Me?"
-
-No.
-
-“Did you ask any of us?"
-
-No.
-
-Why not?
-
-And Charlie's answer is devastatingly Charlie:
-
-> “Because people don't always tell the truth about what they feel."
-
-And Celeste can immediately turn it:
-
-> “Are you telling me the truth?"
-
-Silence.
-
-There.
-
-**That's your midpoint.**
-
-Because Celeste has caught the flaw.
-
-If Charlie believes people conceal uncomfortable truths to preserve relationships, then **that's exactly what he's doing now.**
-
-And he knows it.
-
-<hr class="section-break soft" />
-
-
-
-
-**Then comes the second truth**
-
-This is where I'd slow the chapter right down.
-
-Celeste now knows *fitting in at Wardrobe* isn't sufficient.
-
-> “So it's not just about fitting in, is it?"
-
-Charlie shakes his head.
-
-And now I think your previously developed line belongs:
-
-> “Tell me the truth, then."
-
-Not aggressively.
-
-Probably very quietly.
-
-And Charlie has to reach for something he hasn't yet converted into identity language:
-
-> “Celeste, I was mostly frightened because— I was changing."
-
-Perhaps that's all he can initially manage.
-
-Then:
-
-> “I was becoming something I…"
-
-And he can't finish.
-
-**Don't help him finish it.**
-
-That's tremendously important.
-
-Celeste shouldn't supply *man*.
-
-The reader can.
-
-Charlie might eventually get there himself:
-
-“I didn't want to look like Dad."
-
-That's safer.
-
-Or Graham.
-
-Or the boys at school.
-
-But Celeste gradually realises that Wardrobe isn't the whole explanation. Wardrobe supplied Charlie with somewhere he desperately didn't want to lose.
-
-**The terror preceded the explanation.**
-
-<hr class="section-break soft" />
-
-
-
-
-**And this is where I'd end the chapter's emotional work**
-
-Celeste doesn't need to determine Charlie's identity.
-
-Her achievement can be much smaller and much more important:
-
-**She removes Wardrobe from the equation.**
-
-Whatever Charlie eventually decides about his body, he no longer needs to make that decision in order to preserve his membership.
-
-Something conceptually like:
-
-*You don't get to decide for all of us that we'd stop wanting you around.*
-
-That's very Celeste. 😄
-
-And perhaps Charlie tries:
-
-“But if I—"
-
-“No."
-
-Not *no, don't change*. Not *no, you're wrong about your body.*
-
-**No, you don't get to make our acceptance conditional on something we never made conditional.**
-
-That is the gift Celeste can give him.
-
-And then—and I think this is crucial—**she leaves the body question with Charlie.**
-
-If you still don't want these changes after you know you don't have to stop them for *us*...
-
-Then that's something else.
-
-Something worth understanding.
-
-<hr class="section-break soft" />
-
-
-
-
-**So for tomorrow's outline, I'd think in terms of three movements**
-
-Not necessarily three scenes—three emotional movements:
-
-1. **What is the bottle?**
-   Charlie has been taking Spiro to stop changes.
-
-2. **Why?**
-   “So I fit in." Celeste discovers Charlie believes Wardrobe's acceptance depends partly on his remaining physically non-threatening/non-masculine.
-
-3. **Is that actually the whole truth?**
-   No. Once Celeste removes Wardrobe as the justification, Charlie is left confronting the frightening residue:
-
-   **Even if the women would accept me exactly as I became... I still don't want to become that.**
-
-And **that** is where I would stop pushing.
-
-Because that's enormous.
-
-It doesn't mean *therefore Charlotte*.
-
-It means Charlie has just discovered that his desire to stop masculinisation **survives removal of the social explanation**.
-
-That's the first time the question genuinely belongs to him.
-
-And suddenly the Spiro becomes even more important than before. He didn't take it because he knew he was Charlotte.
-
-He took it because, months before he possessed the language to ask *who am I?*, something inside him was already saying:
-
-**Not that. Please. Not that.**
-
-Writing Friday is going to be quite something. 💜
-
-
-<hr class="section-break strong" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-## What is This?
-
-[ *Celeste* ]
-
-Charlie's face had gone white.
+"Charlie."
 
 I stopped.
 
-*Something's not right.*
+Unlike my Mum, there was something else in her look, something like fear.
 
-Charlie stared at the bottle, but didn't move.
+"The pharmacist said that the reason only a doctor can give you that medicine is because you have to have tests first."
 
-I had a look at the label.
+I tilted back in my seat.
 
-"Spironolactone".
+"But I told you, Celeste: I feel fine."
 
-That told me nothing.
+The look in her eyes didn't change. If anything, it deepened.
 
-"What is this, Charlie?"
+"She said that things could go to custard long before you would '*feel*' anything."
 
-His shoulders rose slightly. He swallowed.
+I felt suddenly cold.
 
-"Medicine."
+"Really?"
 
-"No shit." I pressed my lips together briefly, exhaled sharply through my nose. "What's it for?"
+She pressed her lips together and nodded.
 
-His eyes had gone vacant, staring at nothing.
+"Who is your doctor?"
 
-"Charlie?"
+I shrugged.
 
-He tipped his head.
+"I don't really have one," I replied. "Mum went to this doctor for her lady stuff. I hardly ever got sick. Mum took care of me."
 
-"It's to— stop things."
+Celeste's face said my answer didn't tick any boxes.
 
-I closed my eyes for an instant and gave my head a tiny shake.
+"Everyone has a doctor!"
 
-"Things?"
+"Well, I don't."
 
-He nodded, his face reddening again.
+"Look, you need to see one, Charlie," she said seriously. "I think you should go see mine."
 
-"Things that were, like, happening to me."
+I stared at the table as I shrank a bit into my chair. My fingers had curled into a ball.
 
-My annoyance vanished.
+"You need to be *safe*, Charlie," she said softly.
 
-"What was happening to you, Charlie?"
+I tipped my head slightly.
 
-"My legs."
+"But, what if—"
 
-All sorts of conditions affecting lower limbs chased each other through my head. I tried to keep from shouting.
+The words froze in my mouth.
 
-"What was happening to your legs?"
+"What if?"
 
-Charlie's eyes were fixed on my feet.
+I closed my eyes.
 
-I could barely hear the word.
+And forced the words out.
 
-"Hair," he murmured.
+"They make me stop?"
 
-I felt my jaw click.
+Celeste put her elbows on the table and leaned towards me.
 
-"What?"
+"Charlie, what my doctor would do *first* is ask questions. And—"
 
-His eyes slowly rose to meet mine.
+"What if I don't know the answer?" I cut in.
 
-"Hair was starting to grow on my legs."
+"That's *actually* an answer," she replied. "Not knowing is an answer."
 
-I sat down — hard — in the other chair. A crow outside the window offered his opinion. Another joined it.
+I studied her face for a moment.
 
-"Hair," I said finally.
+"What I *do* know is: I can't *not* take the medicine."
 
-He nodded.
+"Then tell her that, Charlie."
 
-I looked at the bottle again.
+"Her?"
 
-Then at Charlie.
+"You're surprised?"
 
-“You are taking medication to stop hair growing on your legs.”
+"No-no-no, I just assumed—"
 
-Another nod.
+"Do you have a problem with her being a woman?"
 
-I put the bottle carefully on the table.
+Actually, I felt relief. Whether the doctor was a man or a woman shouldn't matter, I realised, but for some reason it did.
 
-“Why?”
+"No, the opposite."
 
-I looked at his face then. There was a new look, something I'd never seen before.
+"So, you'll go see her?"
 
-Pure, cold, gut-renching fear. His jaw quivered slightly even as his shoulders rose more.
+I dipped my head once.
 
-"It was happening. I wanted it to stop."
+"What do I tell her, Celeste?"
 
-"You didn't want hair—"
+"Just what you told me." She got up. "If nothing else, at least you'll get some tests done, just to make sure you're okay."
 
-"No, not just that," he cut in. "All of it. All of—"
+"She won't think I'm weird?"
 
-He stopped.
+"She's a *doctor*. A *professional*. That's her job, Charlie."
 
-The room was silent.
+She reached into the Woolies bag and pulled out a carton of almond milk. 
 
-I leaned back in my chair.
+"I'm going to try this with my coffee," she said. "Want to have a go?"
 
-"Okay."
+"Sure, why not?"
 
-Charlie sat frozen in his chair.
+Celeste grinned.
 
-I rose.
+"Great attitude. Make sure you have that when you go see the doctor."
 
-"I'm going to get dressed. I'm ready to listen whenever you're ready to talk to me, Charlie."
+I picked my phone.
 
-I left the bottle on the table and went back to my room.
+"What's the number of the surgery?"
 
-The ride to work was quiet.
+At first, the receptionist told me that Dr Darcy wasn't accepting any new patients. I was on speaker, so Celeste heard her.
+
+"Hi Eunice, it's Celeste."
+
+"Oh, hi Celeste!"
+
+"I was wondering if you could do me a huge favour and fit Charlie in, please?"
+
+In a few moments, the appointment was booked.
 
 ---
 
-A few days later, I was sitting alone on the couch. The TV was on, but I had no idea what was happening on the screen. I yawned and thought I'd make an early mark.
+I was fiddling with the tape holding the cotton ball in the crook of my elbow a couple of afternoons later when I heard the creak of the front door. As Celeste came into the kitchen. I felt a strange sort of jealousy: her perfume and hounds-tooth jacket gave her that enviable executive look. Her smile lit the room.
 
-And then, Charlie appeared.
+"Hiya, lovely," she said as she flicked on the kettle.
 
-"Celeste?"
+"Hi Celeste," I said. "How'd you got at—"
 
-He approached me — cautiously, I thought. Sat down — *perched*, really — on the other end of the couch and glanced at me.
+"No-no, *my* turn to ask this time," she said. "How did *you* go at the doctor's?"
 
-I waited.
+"Well, they took my blood. Like, straight-away."
 
-"You said you, um, would listen," he said after a moment.
+"Not surprised." The kettle dinged. I heard hot water fill a cup. "What did you think of Dr. Darcy?"
 
-I nodded.
+One shoulder popped up for a tick.
 
-He wrapped his thin arms around himself, and tipped his head to one side. 
+"She's nice. I mean, she's *really* nice."
 
-"Not sure how to explain this," he started.
+Celeste settled into a chair with a cup in one hand, her chin in the other.
 
-"Begin anywhere."
+"She asked me to hold off one day until they have the results back." I stretched my neck, which had been feeling tight for days. "But she said that if the results were okay, I could carry on taking them."
 
-"So, the reason I couldn't answer you that day you found my medication in the bathroom was, well, I didn't really know *why* I was taking the medicine." He stopped. I looked sharply at him.
+"How did that make you feel?"
 
-"You're not making—"
+I let out a big breath.
 
-"Sense," he finished. He nodded. " I know. Hear me out. Please."
+"Yeah. Good."
 
-My brows rose a fraction. His eyes caught mine briefly, and then went to the window.
+I looked up. Celeste's eyes were on me, her face thoughtful.
 
-"So, I was freaking out, Celeste. My body was changing and it was freaking me out."
+"Good?"
 
-I said nothing. My brows rose a bit more.
+I worried the tape holding the cotton ball again.
 
-"I thought it was Wardrobe. Like—if I started looking like Graham, everyone there would start thinking of me differently. I wouldn't be cool there anymore. You know."
+"She thinks a psychiatrist would be a good idea."
 
-I didn't.
+Celeste's expression didn't change.
 
-"Go on."
+"What do you think?"
 
-He frowned and rubbed his forehead.
+"I don't know *what* to think," I replied. I caught her gaze. "What about you? Do you think I'm a bit crazy?"
 
-"That wasn't it, though. Not really."
+"Finding your way isn't crazy."
 
-The evening breeze lifted the sheers at the window, and a fragrance of wattles softened the room.
+She'd never looked more beautiful.
 
-"What do you mean?"
+My phone pinged.
 
-"But then I figured out they didn't care."
+*The surgery.*
 
-"Who?"
+I stared at the message.
 
-"The women. Whether I looked more like him."
+"What does it say?"
 
-"Good."
+I read it off to her.
 
-The room was silent. The sheers swept into the room, and then settled back to the window.
+"We have been able to secure an appointment with Dr Winholmes, in Brunswick in 3 weeks time. Please reply 'Yes' to confirm, or 'No' to cancel this appointment."
 
-Charlie was staring at his hands.
+Celeste's brows raised slightly.
 
-"I guess ever since I was a kid, I sort of hoped I wouldn't— you know, change."
+I hesitated only for a moment.
 
-"Become a man?"
-
-I regretted the words the instant they left my mouth. His eyes widened, and some of the fear came back into his face.
-
-"Yes."
-
-I dipped my head slowly, thinking.
-
-"So, that medicine—"
-
-"Stops it," he said quickly.
-
-*This still didn't make sense.*
-
-"Why were you keeping the medicine a secret, Charlie?"
-
-He stared at me briefly, then back at his hands.
-
-"Um, because, well—"
-
-Suddenly, it clicked.
-
-"Is it prescription medicine?"
-
-His lips tightened.
-
-"You didn't get a prescription for it, did you?"
-
-He shook his head slowly.
-
-"You're taking script-only medicine without a script." I felt irritation rising in my throat. Swallowed it down.
-
-"Have you talked to anyone else about this?"
-
-He shook his head again.
-
-My hands rose, like a conductor controlling a quiet passage.
-
-"Look, all I know is: you're taking script-only medicine without a script." He looked up, the fear more obvious than ever. "You're not being safe, Charlie."
-
-His lower lip quivered.
-
-"Are you going to tell anyone?" he whispered.
-
-I pressed my lips together.
-
-"No." He let out a breath in loud puff. I held his gaze in mine. "You are."
-
-He seemed to shrink.
-
-"I— can't."
-
-"Can you tell me what you're taking, at least?"
-
-He paused for a moment, and then left the room. And came back with the bottle.
-
-He handed it to me.
-
-*Spironolactone.*
-
-I did a google search.
-
-*Anti-androgen.*
-
-"So, this affects your hormone levels?" I asked him.
-
-His lips went sideways. He nodded.
-
-"I'm not an expert, but I do know there's usually a reason a medicine is 'script-only'." 
-
-Next to the word 'spironolactone' I entered 'side effects'.
-
-Read.
-
-And crowded down the urge to scream at him.
-
-"Shit, Charlie, have you looked at the side effects?"
-
-He shrugged.
-
-"What? You don't care?"
-
-"I know about them."
-
-"'Heart pal-pitatations'," I read out loud. "Heart, Charlie! You're mucking around with something that could mess with your heart."
-
-I glanced at him.
-
-Fear and sheepishness shared equal space on his face, but fear still had the upper hand.
-
-I realised he'd already factored that in. He'd accepted the risks. There was nothing to be gained from pointing out that he could suddenly drop dead.
-
-I studied *my* hands.
-
-Finally, I looked at him.
-
-Sheepishness was gone. Fear had won.
-
-My jaw clenched.
-
-"Charlie, we need to get you help," I told him, my voice gentle. 
-
-I felt a resolve come around me, like armour.
-
-Whatever was happening to Charlie, it mattered enough that he'd risked his health to stop it.
-
-That was enough for me.
-
-"Charlie, we need to get you help," I said gently.
-
-His shoulders tightened.
-
-"We are going to get you help with this. Not optional. Definite."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+And then, typed 'yes'.
 
 
 
