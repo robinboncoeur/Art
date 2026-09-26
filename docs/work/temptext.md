@@ -67,7 +67,7 @@ That doesn't establish that the GAC charger is *cheap*. But it does demonstrate 
 
 ### And there's a lovely Queensland surprise in your PDF
 
-Evnex have actually thought about the Queensland rule we were discussing.
+**Evnex have actually thought about the Queensland rule we were discussing.**
 
 They say that Queensland home EV charging above 20 A requires active device management. Their solution is to give the charger a **20 A nameplate rating — 4.6 kW — so it complies without additional hardware or restrictions**. :chatgpt-content-reference{index="4"}
 
