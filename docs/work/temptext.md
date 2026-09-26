@@ -30,9 +30,9 @@ I have since read bleats and groans on Reddit about the 'included' charger: it's
 
 Yes — your understanding is basically right, with one important distinction between **“dumb”** and **“dangerous.”** And having looked up the current Australian information for your particular car, I think there are actually **three separate issues** tangled together here.
 
-First, **no, a permanently installed wall charger is not something you can assume comes with every new EV in Australia**. A portable charging cable may be supplied, but a wallbox is commonly an extra, a dealer incentive, or part of a particular promotion. The federal EV guidance itself only says an EV *may* come with its own charging cable. :chatgpt-content-reference{index="0"}
+First, **no, a permanently installed wall charger is not something you can assume comes with every new EV in Australia**. A portable charging cable may be supplied, but a wallbox is commonly an extra, a dealer incentive, or part of a particular promotion. The federal EV guidance itself only says an [EV *may* come with its own charging cable](https://www.energy.gov.au/electric-vehicles/electric-vehicle-basics/definitions-electric-vehicles).
 
-In your case, however, GAC really **is** running the 22 kW wall charger as a sales incentive. The current Q3 offer explicitly lists the **22 kW wall charger** as the bonus with the AION UT. :chatgpt-content-reference{index="1"} So your invoice saying “wall charger — No Charge” is consistent with GAC's promotion. It isn't something that ordinarily belongs to the car in the same sense as its wheels; it's a promotional inclusion.
+In your case, however, GAC really **is** running the 22 kW wall charger as a sales incentive. The current Q3 offer explicitly lists the [**22 kW wall charger** as the bonus with the AION UT](https://www.norrisgac.com.au/special-offers/m/offers/). So your invoice saying “wall charger — No Charge” is consistent with GAC's promotion. It isn't something that ordinarily belongs to the car in the same sense as its wheels; it's a promotional inclusion.
 
 ### But look at what they actually gave you
 
@@ -66,7 +66,7 @@ And there's another amusing wrinkle.
 
 Your **AION UT can't take 22 kW AC anyway.**
 
-GAC's Australian specification gives both the Premium and Luxury a maximum AC charging rate of **11 kW**. :chatgpt-content-reference{index="2"}
+GAC's Australian specification gives both the Premium and Luxury a [maximum AC charging rate of **11 kW**](https://www.gacgroup.com/en-au/configuration/AION%20UT/2025?utm_source=chatgpt.com).
 
 That makes perfect sense electrically: 11 kW is roughly 16 A × 230 V × 3 phases. The supplied 22 kW wallbox has twice the AC capacity the car can actually consume.
 
@@ -115,7 +115,7 @@ Then later:
 
 That's the feature you're describing, and it is genuinely useful on a single-phase home—particularly if you're contemplating a 7-ish kW EV charging circuit.
 
-The Australian Government's definition of smart charging explicitly includes the ability to **reduce the maximum EV load to stay within network constraints**, as well as scheduling and charging to take advantage of renewables or tariffs. :chatgpt-content-reference{index="3"}
+The Australian Government's definition of smart charging explicitly includes the ability to **reduce the maximum EV load to stay within network constraints**, as well as scheduling and charging [to take advantage of renewables or tariffs](https://www.energy.gov.au/electric-vehicles/electric-vehicle-basics/definitions-electric-vehicles).
 
 And given your solar, I would personally distinguish **three** capabilities when you're evaluating alternatives:
 
@@ -127,13 +127,13 @@ And given your solar, I would personally distinguish **three** capabilities when
 
 They're related, but a charger advertised as **“smart” doesn't necessarily do all three**.
 
-And here's where your Reddit discovery becomes interesting. I found what appears to be exactly the discussion you've encountered: AION UT owners complaining that the supplied 22 kW charger doesn't integrate with the app for scheduling, including an owner reporting trouble with delayed charging. That's anecdotal rather than authoritative technical documentation, so I wouldn't treat Reddit as proof of the charger's specifications—but it certainly gives us a reason to investigate before spending money installing it. :chatgpt-content-reference{index="4"}
+And here's where your Reddit discovery becomes interesting. I found what appears to be exactly the discussion you've encountered: AION UT owners complaining that the supplied 22 kW charger doesn't integrate with the app for scheduling, including an owner reporting trouble with delayed charging. That's anecdotal rather than authoritative technical documentation, so I wouldn't treat Reddit as proof of the charger's specifications—but it certainly gives us a reason to investigate before [spending money installing it](https://www.reddit.com/r/AustralianEV/comments/1ul8j51/gac_aion_ut_luxury_now_31990_driveaway_1000/). 
 
 ### There's also a Queensland wrinkle
 
 This one is particularly relevant to you.
 
-For a **single-phase EV charger above 20 A and up to 35 A**, Queensland has load-control requirements. Current guidance summarising the Queensland Electricity Connection Manual says applicable installations require an approved mechanism allowing the distribution network to manage that EV charging load during peak demand. :chatgpt-content-reference{index="5"}
+For a **single-phase EV charger above 20 A and up to 35 A**, Queensland has load-control requirements. Current guidance summarising the Queensland Electricity Connection Manual says applicable installations require an approved mechanism allowing the distribution network to [manage that EV charging load during peak demand](https://kb.ceri.net.au/network-load-control-schemes/load-control-requirements-for-evse-in-queensland). 
 
 That's **network load control**, though—not necessarily the same thing as dynamic *household* load balancing. That's another distinction worth keeping straight when talking to the electrician.
 
@@ -202,7 +202,7 @@ I searched the exact GAC part number and HICI model number and couldn't find pub
 
 More importantly, I found GAC's own original Australian promotional T&Cs, and there is a rather revealing sentence buried in them:
 
-> “Wall charger installation is not included and compatibility or suitability for installation at the purchaser's property is not guaranteed.” :chatgpt-content-reference{index="0"}
+> “Wall charger installation is not included and compatibility or suitability for installation at the purchaser's property is not guaranteed.”
 
 **Aha.**
 
@@ -214,7 +214,7 @@ This is where I think TPTB and you may actually be arguing about two different d
 
 GAC unquestionably **is** giving buyers the charger as a promotional incentive. Their current Q3 offer says:
 
-**AION UT — $31,990 drive-away + 22 kW wall charger.** :chatgpt-content-reference{index="1"}
+**AION UT — $31,990 drive-away + [22 kW wall charger.](https://www.norrisgac.com.au/special-offers/m/offers/)**
 
 So in the literal accounting sense, you didn't pay an invoice line of $1,500 for it. Your invoice reflects exactly that: **“wall charger — No Charge.”**
 
@@ -252,7 +252,7 @@ For **your house**, I'd take the second one every time.
 
 In fact, a 22 kW charger that your house can't supply at 22 kW and your car can't consume at 22 kW is an especially peculiar thing on which to hang a claimed $1,500 value. 😄
 
-The UT itself tops out at **11 kW AC**, while the promotional charger is 22 kW. Contemporary Australian reviews have noticed precisely this oddity: the supplied wallbox's 22 kW capability requires three-phase power, whereas most domestic charging will be much slower. :chatgpt-content-reference{index="2"}
+The UT itself tops out at **11 kW AC**, while the promotional charger is 22 kW. Contemporary Australian reviews have noticed precisely this oddity: the supplied wallbox's 22 kW capability requires three-phase power, whereas most [domestic charging will be much slower](https://theredline.com.au/2026-gac-aion-ut-review/).
 
 ### There's an even better piece of evidence in GAC's own promotion
 
@@ -261,7 +261,7 @@ GAC didn't originally bundle only this wallbox.
 For its first 600 Australian AION UTs, the company advertised:
 
 - **Bonus 10 A portable charger**
-- **Bonus 22 kW wall charger** :chatgpt-content-reference{index="3"}
+- **Bonus 22 kW wall charger**
 
 That's important because the two things clearly served different purposes.
 
@@ -271,7 +271,7 @@ The **22 kW wallbox** is the high-capacity fixed EVSE intended for an appropriat
 
 So I think we should also straighten out something from the beginning of our conversation: when you said you were given a “3-phase charger instead of a single-phase 10A”, **those weren't necessarily supposed to be alternatives**. Under at least the original launch promotion, buyers got **both**.
 
-Your current Q3 promotion, however, appears to specify only the **22 kW wall charger**, not the portable 10 A unit. :chatgpt-content-reference{index="4"}
+Your current Q3 promotion, however, appears to specify only the **22 kW wall charger**, not the portable 10 A unit.
 
 ### Where I think your strongest complaint actually lies
 
@@ -333,9 +333,9 @@ Yes. **This is the comparison that makes the $1,500 conversation meaningful.**
 
 And I agree: the [Evnex](https://www.evnex.com/au/products/evnex-e2-plus-1) really does look like a ~$1,400 piece of equipment, rather than merely having a large number printed beside “kW.”
 
-The **8-metre tethered Type 2 cable** is particularly important for your installation. But look at what else your $1,399 is actually buying: the E2 Plus is explicitly **7.4 kW single-phase**, and Evnex specifies charge scheduling, solar management and home-overload protection. :chatgpt-content-reference{index="0"}
+The **8-metre tethered Type 2 cable** is particularly important for your installation. But look at what else your $1,399 is actually buying: the E2 Plus is explicitly **7.4 kW single-phase**, and Evnex specifies charge scheduling, solar management and home-overload protection.
 
-More importantly, those aren't vague “smart charger” marketing claims. The package specifically includes the **8 m tethered Type 2 cable, mobile app, home overload protection, solar export diversion and the CT power sensor needed to measure household power flow**. It even has its own 4G connectivity. :chatgpt-content-reference{index="1"}
+More importantly, those aren't vague “smart charger” marketing claims. The package specifically includes the **8 m tethered Type 2 cable, mobile app, home overload protection, solar export diversion and the CT power sensor needed to measure household power flow**. It even has its own 4G connectivity.
 
 That's almost a checklist of what I would want **for your particular house**:
 
@@ -348,9 +348,9 @@ That's almost a checklist of what I would want **for your particular house**:
 - **Scheduling:** yes.
 - **App:** yes.
 - **Australian/NZ support:** yes, including seven-day customer support.
-- **Proper warranty:** four years for residential installations. :chatgpt-content-reference{index="2"}
+- **Proper warranty:** four years for residential installations.
 
-And the advertised retail price is quite unambiguous: **$1,399 including tax**, configured with an **8-metre Type 2 cable**. :chatgpt-content-reference{index="3"}
+And the advertised retail price is quite unambiguous: **$1,399 including tax**, configured with an **8-metre Type 2 cable**.
 
 So *that* gives some substance to your objection to the sales pitch.
 
@@ -386,7 +386,7 @@ That doesn't establish that the GAC charger is *cheap*. But it does demonstrate 
 
 **Evnex have actually thought about the Queensland rule we were discussing.**
 
-They say that Queensland home EV charging above 20 A requires active device management. Their solution is to give the charger a **20 A nameplate rating — 4.6 kW — so it complies without additional hardware or restrictions**. :chatgpt-content-reference{index="4"}
+They say that Queensland home EV charging above 20 A requires active device management. Their solution is to give the charger a **20 A nameplate rating — 4.6 kW — so it complies without additional hardware or restrictions**.
 
 That's worth talking through with your electrician because it changes one part of our earlier thinking. Although this is physically a **7.4 kW/32 A-capable single-phase charger**, in your Queensland installation its nominal configuration may be **20 A/4.6 kW** unless you go through the applicable managed-load arrangement.
 
@@ -451,7 +451,7 @@ TPTB see your point.
 
 Ha! 😄 **That is an excellent use for that temporary page.** You essentially turned my argument into a little independent briefing paper for TPTB rather than having to conduct the whole discussion verbally.
 
-And seeing it laid out as a page actually makes the distinction quite stark. The critical bit is on pages 2–3: the GAC unit's headline is essentially **“22 kW!”**, whereas the Evnex's value is in all the things it does *around* delivering electricity safely and usefully—load protection, CT monitoring, solar diversion, scheduling, connectivity, support—and being suited to your single-phase installation in the first place. :chatgpt-content-reference{index="0"} :chatgpt-content-reference{index="1"}
+And seeing it laid out as a page actually makes the distinction quite stark. The critical bit is on pages 2–3: the GAC unit's headline is essentially **“22 kW!”**, whereas the Evnex's value is in all the things it does *around* delivering electricity safely and usefully—load protection, CT monitoring, solar diversion, scheduling, connectivity, support—and being suited to your single-phase installation in the first place.
 
 And I'm pleased TPTB sees the distinction, because I don't think this is really about squeezing another freebie out of the dealer. **You don't want $1,500. You want the value that you were led to believe $1,500 represented.**
 
@@ -469,7 +469,7 @@ And I wouldn't begin combatively. Something like:
 
 That's firm without immediately accusing anyone of telling **porkies**. 😇
 
-If they say *“But this charger is worth $1,500,”* **then** your Evnex comparison becomes extremely useful. Because you can calmly show them what **$1,399 retail** buys in the Australian market: right down to that glorious **eight-metre tethered Type 2 lead**. Your page already captures that comparison nicely. :chatgpt-content-reference{index="2"}
+If they say *“But this charger is worth $1,500,”* **then** your Evnex comparison becomes extremely useful. Because you can calmly show them what **$1,399 retail** buys in the Australian market: right down to that glorious **eight-metre tethered Type 2 lead**. Your page already captures that comparison nicely.
 
 And incidentally, your little `/work/` system is rather clever. You've effectively created **“Julia, please read this before we spend the next forty minutes trying to explain it to one another”** as a web service. 😂💜
 
@@ -511,7 +511,7 @@ The crucial distinction is between **GAC's general promotional offer** and **wha
 
 You told him the house was **single-phase**. More significantly, *he raised the subject*: he asked whether you had single- or three-phase. That makes the electrical supply look relevant to the sales conversation rather than some circumstance Bartons couldn't possibly have known.
 
-Under Australian Consumer Law, the ACCC says the fit-for-purpose guarantee applies when a consumer tells a business the particular purpose for a product and relies on the business's advice. It specifically says the guarantee doesn't apply if the business tells the customer that the product won't meet that purpose and the customer buys it anyway. :chatgpt-content-reference{index="0"}
+Under Australian Consumer Law, the ACCC says the fit-for-purpose guarantee applies when a consumer tells a business the particular purpose for a product and relies on the business's advice. It specifically says the guarantee doesn't apply if the business tells the customer that the [product won't meet that purpose and the customer buys it anyway](https://www.accc.gov.au/business/selling-products-and-services/consumer-rights-and-guarantees).
 
 That latter bit is rather interesting here.
 
@@ -528,15 +528,15 @@ But that's **not the conversation you've described**.
 
 ### And the fine-print defence isn't quite the magic shield it sounds like
 
-The ACCC's guidance on promotions says conditions and limitations should be made clear **before purchase**, and gives an example where an important limitation appearing only in fine print doesn't cure the misleading overall offer. :chatgpt-content-reference{index="1"}
+The ACCC's guidance on promotions says conditions and limitations should be made clear **before purchase**, and gives an example where an important limitation appearing only in fine print [doesn't cure the misleading overall offer](https://www.accc.gov.au/consumers/advertising-and-promotions/cash-back-offers-gifts-and-prizes).
 
 Even more pointedly, the ACCC's current guidance says:
 
 > “Information in fine print and qualifications must not conflict with the overall message of the advertisement.”
 
-It also says representations about **value, benefits, qualities and performance** must be accurate, and that the rule applies to information supplied **verbally by staff**, not merely what's printed in advertising. :chatgpt-content-reference{index="2"}
+It also says representations about **value, benefits, qualities and performance** must be accurate, and that the rule applies to information supplied **verbally by staff**, [not merely what's printed in advertising](https://www.accc.gov.au/consumers/advertising-and-promotions/false-or-misleading-claims).
 
-Queensland Fair Trading puts it even more plainly: important facts can't simply be hidden in fine print; disclaimers need to be prominent and must not undermine or contradict the original proposition. :chatgpt-content-reference{index="3"}
+Queensland Fair Trading puts it even more plainly: important facts can't simply be hidden in fine print; disclaimers need to be prominent and must not undermine or [contradict the original proposition](https://www.qld.gov.au/community/fair-trading/business-advice-rights-and-responsibilities/avoid-using-unfair-business-practices-against-consumers/avoid-making-false-claims-about-products-or-services).
 
 So I wouldn't walk into Bartons thinking:
 
@@ -546,7 +546,7 @@ I'd walk in thinking:
 
 **“Those T&Cs are relevant. So is the sales conversation.”**
 
-There's also a second issue that I'd keep separate: the **“worth $1,500” representation**. The ACCC specifically includes claims about a product's **value** among representations that must be accurate and based on reasonable grounds. :chatgpt-content-reference{index="4"}
+There's also a second issue that I'd keep separate: the **“worth $1,500” representation**. The ACCC specifically includes claims about a product's **value** among representations that [must be accurate and based on reasonable grounds](https://www.accc.gov.au/consumers/advertising-and-promotions/false-or-misleading-claims).
 
 That doesn't mean *“therefore they owe Robyn an Evnex E2 Plus.”* We don't have enough to say that, and I wouldn't go into the meeting demanding one as though the legal conclusion were settled.
 
@@ -588,7 +588,7 @@ And stop again.
 
 That's the question I'd want him to answer.
 
-Because it doesn't require you to establish what the salesman *intended*. Under the ACCC's guidance, misleading conduct doesn't require an intention to mislead; what matters is the impression created. :chatgpt-content-reference{index="5"}
+Because it doesn't require you to establish what the salesman *intended*. Under the ACCC's guidance, misleading conduct doesn't require an intention to mislead; [what matters is the impression created](https://www.accc.gov.au/consumers/advertising-and-promotions/false-or-misleading-claims). 
 
 If necessary, the **second** question is:
 
@@ -607,6 +607,198 @@ So, no, I don't think *“I should have read the fine print”* is quite the mor
 Whether what happened here actually crosses that legal line would depend on the evidence. But you have enough that I would **absolutely have the conversation with Bartons before spending a cent installing that GAC charger**. 💜
 
 <hr class="section-break strong" />
+
+
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+## Failure to Communicate
+
+[![Moi][St00]{ .artL width="160" }][St00]
+
+
+[ Robyn ]
+
+On [this page, dated 17-July-2026](https://www.drive.com.au/caradvice/gac-under-fire-from-customers-over-chargers-incompatible-with-its-app/), the last paragraphs read:
+
+---
+
+“GAC Australia has received a number of customer enquiries regarding the functionality and capability of the complimentary GAC 22kW Wall Charger provided with vehicle purchase,” a spokesperson told *Drive*.
+
+“These enquiries are primarily related to the *unit’s design as a basic charging solution without smart networking features*. This matter has been escalated to GAC Headquarters, where potential software enhancements are currently being explored.
+
+“ **To ensure transparency and set appropriate expectations, the GAC dealer network has been briefed to clearly communicate the current capabilities and limitations of the supplied charger to customers prior to vehicle delivery.** ”
+
+That bolded bit **Did Not Happen**.
+
+<hr class="section-break soft" />
+
+
+
+
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
+
+
+[ Emily ]
+
+**Oh.**
+
+Yes, Robyn. **That changes the complexion of this quite substantially.** And importantly, it changes it without us needing to argue about whether you should have read GAC's promotional fine print.
+
+I've tried independently retrieving that Drive article; their page isn't currently accessible through my web retrieval, and searches aren't producing a cached copy of that statement. So for the precise wording below I'm relying on the passage you've supplied rather than claiming I've independently verified the article.
+
+But assuming *Drive* has quoted GAC Australia accurately, look at the chronology.
+
+**17 July 2026:** GAC Australia publicly acknowledges that customers have complained about the complimentary charger. GAC itself describes it as a **“basic charging solution without smart networking features.”**
+
+And then comes the important part:
+
+> “To ensure transparency and set appropriate expectations, the GAC dealer network has been briefed to clearly communicate the current capabilities and limitations of the supplied charger to customers prior to vehicle delivery.”
+
+You bought your AION UT **well after 17 July**.
+
+And from what you've told me, Bartons didn't merely fail to volunteer a technical detail. Their salesperson actually **initiated a conversation about your electrical installation**:
+
+> “Do you have single-phase or three-phase?”
+
+You said:
+
+> “Single-phase.”
+
+And apparently there was **no accompanying disclosure** along the lines of:
+
+> “Okay. You should know the complimentary charger is a basic 22 kW three-phase unit. It doesn't have smart networking/load-management features, and GAC doesn't guarantee its suitability for your property.”
+
+That's precisely the sort of conversation GAC's July statement says its dealers had been briefed to have.
+
+### This makes their T&C considerably less interesting to me
+
+Not irrelevant. Just much less persuasive as the end of the conversation.
+
+Suppose the manager says:
+
+> “Well, the terms say compatibility or suitability at your property isn't guaranteed.”
+
+Your answer now isn't really about the small print.
+
+It's:
+
+> **“I understand that. But on 17 July GAC Australia publicly stated that its dealer network had been briefed to clearly communicate the capabilities and limitations of this charger to customers before vehicle delivery. We purchased after that date. Nobody gave us that explanation. In fact, your salesperson specifically asked whether our house was single- or three-phase, we told him single-phase, and the charger was presented to us as a valuable inclusion. Why weren't GAC's disclosed instructions followed?”**
+
+That's a **much better question**.
+
+Because notice what you're *not* claiming.
+
+You're not saying the dealer promised you an Evnex.
+
+You're not saying the promotional charger was guaranteed to be suitable for every house.
+
+You're not saying every $1,500 charger must have solar diversion.
+
+You're not even arguing yet about Australian Consumer Law.
+
+You're saying:
+
+**GAC identified this exact customer-expectation problem. GAC says it responded by briefing its dealers to disclose the charger's limitations before delivery. We were customers after that briefing. That disclosure didn't happen.**
+
+That's wonderfully specific.
+
+### And there's another important piece
+
+GAC's own description, as reported by *Drive*, settles something we've been carefully avoiding asserting without evidence:
+
+**GAC itself calls this a “basic charging solution without smart networking features.”**
+
+So we no longer need Reddit anecdotes to establish that.
+
+That also makes your Evnex comparison much more defensible.
+
+We now have:
+
+**GAC complimentary EVSE:** according to GAC, a *basic charging solution without smart networking features*.
+
+versus
+
+**Evnex E2 Plus, $1,399 retail:** 7.4 kW single-phase, 8 m tethered Type 2, scheduling, solar smarts and home-overload protection, with CT sensor, solar-export diversion, app and 4G connectivity. :chatgpt-content-reference{index="0"}
+
+That's not you arbitrarily declaring the GAC charger “dumb.” **GAC has essentially made that distinction itself.**
+
+### I would save that Drive article immediately
+
+PDF it. Screenshot it. Keep the date and the complete article.
+
+You've now got a tidy little evidence bundle:
+
+1. **Your contract/invoice:** wall charger supplied as part of the transaction.
+2. **GAC charger carton:** identifies it as the Australian **Type 2 22 kW AC Charger**, part 8970090GAC502A.
+3. **Electrical label:** 22 kW, 400 V 3/N/PE, 32 A.
+4. **GAC's promotional T&C:** suitability isn't guaranteed.
+5. **17 July Drive article:** GAC acknowledges complaints, describes the unit as basic/no smart networking, and—most importantly—says dealers have been briefed to disclose its capabilities and limitations **before delivery**.
+6. **Your recollection of the sale:** salesman asks single/three-phase; you answer single-phase; no warning about the charger's limitations.
+7. **Evnex comparator:** an actual $1,399 retail smart charger that does the things you reasonably value.
+
+I wouldn't make the Evnex the centre of the initial complaint anymore.
+
+**The July GAC statement is stronger.**
+
+The Evnex becomes the proposed solution.
+
+I'd now approach Bartons with something closer to:
+
+> “We've discovered that GAC Australia publicly addressed complaints about this charger on 17 July. GAC said dealers had been briefed to clearly explain its capabilities and limitations before delivery. That didn't happen with us.
+>
+> “Your salesperson actually asked whether our home was single- or three-phase. We told him single-phase. At no point were we told that the supplied unit was a basic 22 kW three-phase charger without smart networking features, nor were its limitations explained to us.
+>
+> “We haven't installed or used it and it's still boxed. We'd like Bartons to help us resolve this by taking the supplied charger back and assisting us with a suitable single-phase smart charger.”
+
+Then see what they do.
+
+And if the manager produces the T&C and the Suck-To-Be-You Face™?
+
+I'd have the *Drive* article sitting there and say, very pleasantly:
+
+> **“Yes, I've read that clause. I've also read what GAC Australia said on 17 July about what its dealers had been instructed to tell customers before delivery. That's the part I'd like you to address.”**
+
+Then silence.
+
+Let **him** explain the discrepancy. 😏
+
+Because I think you've just found the most important piece of this puzzle.
+
+<hr class="section-break strong" />
+
+
+
+
+
+## Canon
+
+
+[![Moi][St00]{ .artL width="160" }][St00]
+
+
+[ Robyn ]
+
+
+<hr class="section-break soft" />
+
+
+
+
+
+[![Emily][Ts00]{ .artR width="260" }][Ts00]
+
+
+[ Emily ]
+
+
+
 
 
 
