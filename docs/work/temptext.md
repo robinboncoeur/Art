@@ -777,33 +777,6 @@ Because I think you've just found the most important piece of this puzzle.
 
 
 
-## Canon
-
-
-[![Moi][St00]{ .artL width="160" }][St00]
-
-
-[ Robyn ]
-
-
-<hr class="section-break soft" />
-
-
-
-
-
-[![Emily][Ts00]{ .artR width="260" }][Ts00]
-
-
-[ Emily ]
-
-
-
-
-
-
-
-
 <!-- Images References -->
 
 --8<-- "includes/image-references.md"
