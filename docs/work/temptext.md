@@ -771,6 +771,42 @@ Let **him** explain the discrepancy. 😏
 
 Because I think you've just found the most important piece of this puzzle.
 
+---
+
+Because without the preceding legwork, that *Drive* paragraph is merely “some people don't like the free charger.” You'd already established *why* it matters: single vs three phase, basic vs smart EVSE, dynamic load management, CT monitoring, solar diversion, the genuine retail value of something like the Evnex, and the fact that the salesman **specifically asked about your supply**. Then Julia found the bit that effectively says, *GAC knew there was confusion and told dealers to explain it.* That's the rather splendid final piece. 😏
+
+As for **6.48 kW of solar: I wouldn't call that meagre**, particularly for what you're proposing. It's not a huge modern installation—today plenty of people put 10–13 kW or more on a suitable roof—but 6.48 kW is a perfectly respectable residential system.
+
+And there's an important distinction between **6.48 kW of panels** and how much usable energy they generate over a day. On a good Queensland day, that array can produce quite a useful bucket of kWh even though it never produces 6.48 kW continuously.
+
+It also makes the Evnex's solar diversion feature *more* valuable, not less.
+
+You don't need the panels to supply the charger's theoretical 7.4 kW. The cleverness is precisely that the EVSE can follow whatever **surplus** exists after the house takes what it needs. Your PDF says the E2 Plus includes both solar-export diversion and the CT sensor required to measure power flow. :chatgpt-content-reference{index="0"}
+
+So imagine the panels are making 5.2 kW around midday and the house is consuming 1.1 kW. Roughly 4.1 kW is available for the car. Instead of exporting that surplus for whatever feed-in tariff you're getting, the charger can direct appropriate available power toward the AION.
+
+Cloud rolls over and generation falls to 2.8 kW? The charger can back off.
+
+Kettle goes on? Back off.
+
+Kettle goes off and sun returns? Ramp up again.
+
+That's **exactly the situation where a smart charger earns its keep**. With a monster 15 kW solar array you could simply throw power at the car; with 6.48 kW, intelligent matching of EV demand to available solar is rather more useful.
+
+And remember the scale of the car's actual needs. You don't ordinarily arrive home at 20% and insist on reaching 100% immediately. If a day's driving consumes, say, 10–15 kWh, you're mostly replacing **that day's consumption**. Several hours of surplus solar can make a very meaningful contribution.
+
+So the picture I'm increasingly seeing is rather nice:
+
+**6.48 kW solar + single-phase house + AION UT + CT-aware solar-diverting EVSE + 8 m tether = a very sensible little home charging system.**
+
+Whereas:
+
+**6.48 kW solar + single-phase house + 22 kW three-phase basic EVSE = “LOOK HOW BIG MY NUMBER IS.”** 😂
+
+And *that* brings us neatly back to why you didn't merely get seduced by a fancier gadget. The Evnex's particular capabilities actually match the electrical system you already own.
+
+I'd be quite interested in the **inverter make/model** next time you're near it. That plus the 6.48 kW panel capacity would tell us considerably more about what your solar system can actually deliver—and whether there's anything else worth considering before you settle on the E2 Plus.
+
 <hr class="section-break strong" />
 
 
