@@ -14,7 +14,7 @@
 ## $1500 Charger?
 
 
-Yes. **This is the comparison that makes the $1,500 conversation meaningful.** And I agree: the Evnex really does look like a ~$1,400 piece of equipment, rather than merely having a large number printed beside “kW.”
+Yes. **This is the comparison that makes the $1,500 conversation meaningful.** And I agree: the [Evnex](https://www.evnex.com/au/products/evnex-e2-plus-1) really does look like a ~$1,400 piece of equipment, rather than merely having a large number printed beside “kW.”
 
 The **8-metre tethered Type 2 cable** is particularly important for your installation. But look at what else your $1,399 is actually buying: the E2 Plus is explicitly **7.4 kW single-phase**, and Evnex specifies charge scheduling, solar management and home-overload protection. :chatgpt-content-reference{index="0"}
 
