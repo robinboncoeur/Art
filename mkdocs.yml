@@ -98,6 +98,7 @@ nav:
       - 💛 💜 Video Scripts: work/08VScripts.md
       - Ideas to Study: work/09ToStudy.md
       - Video in ComfyUI: work/10VideoCUI.md
+      - ✂ Temporary Reads ✂: work/temptext.md
 
 plugins:
   - search
