@@ -36,7 +36,7 @@ These pieces live in my head when I write.
   <div>
     <p>Finzi— Three Soliloquies</p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/ytdl/GFinzi-3Soliloquies.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/ytdl/Finzi-3Soliloquies.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -67,22 +67,6 @@ These pieces live in my head when I write.
 
 
 
-
-
-
-[![By The Sea][St15]{ .artL width="140" }][St15]
-
-<div class="music-card music-card--with-art">
-  <div>
-    <p>Beliczay—Serenade for Strings</p>
-    <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/ytdl/Beliczay-Serenade4Strings-Full.mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
-</div>
-
-<hr class="section-break sweet" />
 
 
 
@@ -170,7 +154,7 @@ These pieces live in my head when I write.
   <div>
     <p>Finzi— Five Bagatelles</p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/ytdl/Finzi-5Bagatelles-Op23.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/ytdl/Finzi-5Bagatelles.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -223,7 +207,7 @@ These pieces live in my head when I write.
   <div>
     <p>Finzi- Clarinet-Concerto 2nd </p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/ytdl/Finzi-Clarinet-Concerto-Op31-2ndMvmt.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/ytdl/Finzi-ClarinetC2.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -240,7 +224,7 @@ These pieces live in my head when I write.
   <div>
     <p>Finzi—Romance</p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/ytdl/Finzi-Romance_Op.11.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/ytdl/Finzi-Romance.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -251,38 +235,6 @@ These pieces live in my head when I write.
 
 
 
-[![Cantilena][Str1]{ .artL width="160" }][Str1]
-
-<div class="music-card music-card--with-art">
-  <div>
-    <p>RDouglas- Cantilena</p>
-    <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/ytdl/RDouglas-Cantilena.mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
-</div>
-
-<hr class="section-break sweet" />
-
-
-
-
-
-
-[![Cantilena][Stt1]{ .artL width="160" }][Stt1]
-
-<div class="music-card music-card--with-art">
-  <div>
-    <p>Finzi- Clarinet Concerto 2nd Mvmt</p>
-    <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/ytdl/Finzi-Clarinet-Concerto-Op31-2ndMvmt.mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
-</div>
-
-<hr class="section-break sweet" />
 
 
 
