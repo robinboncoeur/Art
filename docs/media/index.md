@@ -336,7 +336,7 @@ const tracks = [
   },
   {
     title: "Finzi: Clarinet Concerto, Op31-(2nd Mvmt)",
-    src: "https://media.seabrae.org/audio/ytdl/Finzi-Clarinet-Concerto-Op31-2ndMvmt.mp3"
+    src: "https://media.seabrae.org/audio/ytdl/Finzi-ClarinetC2.mp3"
   },  
   {
     title: "Douglas: Cantilena",
@@ -348,7 +348,7 @@ const tracks = [
   },  
   {
     title: "Finzi: Five Bagatelles, Op23",
-    src: "https://media.seabrae.org/audio/ytdl/Finzi-5Bagatelles-Op23.mp3"
+    src: "https://media.seabrae.org/audio/ytdl/Finzi-5Bagatelles.mp3"
   },  
   {
     title: "Elgar: Minuet",
