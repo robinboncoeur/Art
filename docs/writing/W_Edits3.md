@@ -1115,6 +1115,198 @@ And then, there's Sarah's.
 
 If things didn't match, it didn't matter: things were clean and working and *loved*.
 
+My feet hit the fuzzy throw rug.
+
+I threw on my dressing gown and made my way to the kitchen.
+
+Sarah glanced up at me, and her lips pressed into a little smile.
+
+"Morning, lovely," she said. "Sleeping in a bit?"
+
+I glanced at the clock.
+
+"Oh dear. I suppose I did."
+
+I turned to go back to the bedroom.
+
+"Nope!" Sarah was shaking her head. "Wardrobe can wait. You have a cup of tea and breakfast to address first."
+
+"But Mara—"
+
+Sarah's smile broadened.
+
+"—understands," Sarah finished for me, and pointed at my cup. "Tea."
+
+"I'm not going to let this become a habit," I said hurriedly.
+
+Sarah waved it aside.
+
+"Wardrobe isn't worried."
+
+We sat for a moment. The radio was off and so the apartment was silent, almost eerily so. When I looked up from my sandwich triangles, I caught Sarah's gaze.
+
+Her hair, tied up in her trademark tousled updo, shone above her head like a halo.
+
+My breath caught.
+
+[smooth this out]
+The smile on my lips faltered at first but found itself growing because of Sarah's encouraging smile.  
+
+"No radio?" I ventured.
+
+"I got sick of the chatter," she replied. "It's either doom and gloom, or trivial rubbish. Over it."
+
+"The quiet is lovely," I agreed.
+
+"Are you sure?"
+
+I nodded.
+
+"Why didn't you say so before?"
+
+"Your house. I don't make the rules, Sarah."
+
+"*Our* house," she corrected with a meaningful look. "Something bothers you, you tell me. Please."
+
+I felt like I'd stepped into space where I wasn't sure when I would touch the familiar. I studied her face.
+
+"You're amazing."
+
+She grinned.
+
+"Well, 'Amazing' needs to get dressed."
+
+I caught her warmth as she passed. Woman and Matière Première and washing powder and tea and — woman.
+
+My legs refused to function for a moment.
+
+Her footfalls went quiet.
+
+My heart didn't.
+
+---
+
+Mara was at the rails with Charlie, clipboard in hand, inspecting laces on the finished costumes when we arrived. I'd just shoved my tote into my cubicle when Mara called me over.
+
+"Charlie pointed something out to me this morning." She held up one of the dresses. A bit of rust had started to appear on one of the grommets.
+
+"That's not good."
+
+"It hasn't spread into the material," Mara said. "We will need to replace them immediately before it does. Please contact your supplier, Lauren."
+
+I gave her a quick nod and took my phone out of my hip pocket. Mara held the offending grommet as I took a picture.
+
+Charlie was already busy taking the finished dresses off the rails and placing them on his repair corner table.
+
+Sarah was at the hardware cupboard going through drawers.
+
+"Hey there's these stainless steel grommets—"
+
+I frowned.
+
+"That's what *these* were meant to be!"
+
+The door creaked open and Bree appeared with Lily in tow.
+
+Lily held out a hand, a radiant smile on her face. Bree stood proudly by as Lily collected admiring looks and comments at the sparkling piece adorning her ring finger. Mara eyed them for a moment with lips set.
+
+Then she went over.
+
+"Have a look?"
+
+She had a look.
+
+And gave a nod.
+
+Lily's eyes shone.
+
+She held out her hand. 
+
+Mara dropped some grommets in them.
+
+By noon, all the grommets on the finished dressed had been replaced.
+
+---
+
+The drive back to Sarah's was thoughtful. She looked more tired than usual.
+
+"Are you sleeping?"
+
+She looked over at me.
+
+"Yeah. Why do you ask?"
+
+"You just look more tired than usual."
+
+Her eyes lit up.
+
+"Thanks for noticing." She took in a breath. "It's just Martha: she's sticking around for a bit longer than usual."
+
+"Leafy greens for you tonight, girlfriend!" I slowed near the Woollies, then turned into the carpark. "Anything else we need? My shout."
+
+In the bread aisle, she gave me an odd look.
+
+"There's something with Charlie these days."
+
+I put the Helga's back on the shelf. The rustic baguette should be enough bread.
+
+"Oh?"
+
+Sarah was staring at me.
+
+"No?"
+
+I returned her stare.
+
+"What do you mean?"
+
+She gave a little shrug then and looked away.
+
+"It's probably nothing."
+
+"No, what *do* you mean?" I chucked a box of English Breakfast tea into the trolley. "Do you think he's in love or something?"
+
+"That's old news," she snorted. "No, there's something else, Lauren."
+
+A cold sea breeze blew through the car as we climbed in. 
+
+I felt Sarah's eyes on me again.
+
+"You know, I feel like I haven't paid enough attention to my own child sometimes, Sarah," I said as we pulled out of the carpark. "There's just so much about him that's a complete mystery to me."
+
+"You've had a lot on your plate," she said gently. "Things fall through the cracks."
+
+Sarah grabbed two of the Woollies bags when we arrived. A colder wind blew around us as we walked towards Sarah front door.
+
+"Your child shouldn't be one of those things," I said.
+
+Sarah gave a shrug.
+
+"Can you let us in?"
+
+I tipped my head at her.
+
+"I don't have the key."
+
+Her eyes widened.
+
+"I didn't give you a key yet?" She bit her lower lip as she lowered the grocery bags and fumbled in her purse.
+
+I was putting the leafy greens into the crisper when she came into the kitchen.
+
+"For you."
+
+In her hand was a Minnie Mouse key ring with a brand-new key.
+
+I looked at it, at her spread palm, at her open arms and finally, her warm eyes.
+
+"Take it."
+
+I gently lifted the key from her hand and felt my eyes go a bit wet.
+
+
+
+
 
 
 
