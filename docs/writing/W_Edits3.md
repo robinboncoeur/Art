@@ -1102,9 +1102,9 @@ None of this was temporary anymore.
 
 I woke before dawn, and studied the still somewhat unfamiliar sheers at the window and realised I'd slept the night through.
 
-And then, did my usual inventory. Charlie — he's fine, settling in at Celeste's. Work — no home health today, only Wardrobe. 
+And then, did my usual inventory. Charlie — he's fine, settling in at Celeste's. Work — no home health visits today, only Wardrobe.
 
-Wardrobe led to grommets, which led to Mara's face at the steamer throwing a 'tantie' and how it got fixed, which led to who fixed it. 
+'Wardrobe' led to 'grommets', which led to Mara's face at the steamer throwing a 'tantie' and how it got fixed, which led to who fixed it.
 
 Sarah.
 
@@ -1116,15 +1116,15 @@ The one who gave delicious hugs.
 
 My eyes lazily took in the coziness of the room. Tidy, without being anal. A dismantled, cleaned Dyson vacuum cleaner sat with other appliances near a power strip. She still didn't want me to bring my phone into my bedroom "let's let the dust settle a bit more."
 
-I snuggled into the linen sheets and thought of the homes I'd entered, medicine and dressings bag in hand.
+I snuggled into the linen sheets and thought of the homes I'd carried medicine and dressings bags into.
 
-Evening homes, with dim lightbulbs that tried to hide failed aspirations, settling instead for a throw rug rescued from Vinnies and floral wallpaper. 
+Evening homes, with dim reading lamps trying to hide failed aspirations, settling instead for a throw rug rescued from Vinnies and floral wallpaper. 
 
 Morning homes, chaotic, full of schoolbags and "where's my other shoe?" and only a micro-second away from a Promite jar bouncing off the tiles because the family cat enjoys seeing dismay on faces.
 
 Homes with long driveways and longer mortgages.
 
-Homes that, like the one she just left, had hinges and latches and drawers that were given a quick "I'll do it properly later" until the whole house felt McGuivered.
+Homes that, like the one I had just left, had hinges and latches and drawers that were given a quick "I'll do it properly later" until the whole house felt McGuivered.
 
 And then, there's Sarah's.
 
@@ -1158,14 +1158,13 @@ Sarah waved it aside.
 
 "Wardrobe isn't worried."
 
-We sat for a moment. The radio was off and so the apartment was silent, almost eerily so. When I looked up from my sandwich triangles, I caught Sarah's gaze.
+We sat for a moment. The radio was off and so the apartment was silent, almost eerily so. When I looked up from my sandwich triangles, I caught Sarah looking at me.
+
+And smiling.
 
 Her hair, tied up in her trademark tousled updo, shone above her head like a halo.
 
-My breath caught.
-
-[smooth this out]
-The smile on my lips faltered at first but found itself growing because of Sarah's encouraging smile.  
+My smile was made bolder by hers.
 
 "No radio?" I ventured.
 
@@ -1181,15 +1180,15 @@ I nodded.
 
 "Your house. I don't make the rules, Sarah."
 
-"*Our* house," she corrected with a meaningful look. "Something bothers you, you tell me. Please."
+"You share the space," she corrected with a meaningful look. "Something bothers you, you tell me. Please."
 
-I felt like I'd stepped into space where I wasn't sure when I would touch the familiar. I studied her face.
+I felt like I'd stepped into a place without anything familiar. I studied her face.
 
 "You're amazing."
 
 She grinned.
 
-"Well, 'Amazing' needs to get dressed."
+"Well, 'amazing' needs to get dressed."
 
 I caught her warmth as she passed. Woman and Matière Première and washing powder and tea and — woman.
 
@@ -1205,6 +1204,8 @@ Mara was at the rails with Charlie, clipboard in hand, inspecting laces on the f
 
 "Charlie pointed something out to me this morning." She held up one of the dresses. A bit of rust had started to appear on one of the grommets.
 
+I grimaced.
+
 "That's not good."
 
 "It hasn't spread into the material," Mara said. "We will need to replace them immediately before it does. Please contact your supplier, Lauren."
@@ -1215,7 +1216,7 @@ Charlie was already busy taking the finished dresses off the rails and placing t
 
 Sarah was at the hardware cupboard going through drawers.
 
-"Hey there's these stainless steel grommets—"
+"Hey, there's these stainless steel grommets—"
 
 I frowned.
 
@@ -1239,13 +1240,13 @@ She held out her hand.
 
 Mara dropped some grommets in them.
 
-By noon, all the grommets on the finished dressed had been replaced.
+By noon, all the grommets on the finished dresses had been replaced.
 
 ---
 
 The drive back to Sarah's was thoughtful. She looked more tired than usual.
 
-"Are you sleeping?"
+"Are you sleeping properly?"
 
 She looked over at me.
 
@@ -1253,11 +1254,9 @@ She looked over at me.
 
 "You just look more tired than usual."
 
-Her eyes lit up.
-
 "Thanks for noticing." She took in a breath. "It's just Martha: she's sticking around for a bit longer than usual."
 
-"Leafy greens for you tonight, girlfriend!" I slowed near the Woollies, then turned into the carpark. "Anything else we need? My shout."
+"Leafy greens for you tonight, girlfriend!" I slowed near the Woollies, and turned into the carpark. "Anything else we need? My shout."
 
 In the bread aisle, she gave me an odd look.
 
@@ -1291,21 +1290,19 @@ I felt Sarah's eyes on me again.
 
 "You've had a lot on your plate," she said gently. "Things fall through the cracks."
 
-Sarah grabbed two of the Woollies bags when we arrived. A colder wind blew around us as we walked towards Sarah front door.
+"Your child shouldn't be one of those things."
 
-"Your child shouldn't be one of those things," I said.
+Sarah grabbed both of the Woollies bags as we got out of the car. The wind seemed colder as we approached the front door. We stood at the door for a moment.
 
-Sarah gave a shrug.
+Sarah tipped her chin.
 
 "Can you let us in?"
-
-I tipped my head at her.
 
 "I don't have the key."
 
 Her eyes widened.
 
-"I didn't give you a key yet?" She bit her lower lip as she lowered the grocery bags and fumbled in her purse.
+"I didn't give you a key yet?" She bit her lower lip as she fumbled in her purse.
 
 I was putting the leafy greens into the crisper when she came into the kitchen.
 
@@ -1318,6 +1315,10 @@ I looked at it, at her spread palm, at her open arms and finally, her warm eyes.
 "Take it."
 
 I gently lifted the key from her hand and felt my eyes go a bit wet.
+
+"Don't lose it. It's my favourite Minnie Mouse keyring."
+
+I closed my fingers around the key.
 
 <hr class="section-break strong" />
 
@@ -1334,7 +1335,7 @@ I gently lifted the key from her hand and felt my eyes go a bit wet.
 
 I heard her place her keys into the bowl in the kitchen drawer.
 
-The kitchen light came on. The house inhaled.
+The hallway light came on. The house inhaled.
 
 So did I.
 
@@ -1346,21 +1347,11 @@ At Wardrobe, after Roger left and warmth had returned to the room, it had been h
 
 In the car, it had been her voice. Ridiculous, reckless words about her past that I’d felt land in my chest, changing my breathing and making my mouth dry.
 
-And then, last night, it was *all* of her. All of her melting into me, all of her warmth flowing over me like sea foam on a sunshine-baked beach, her hair tickling my nose, her face buried in my chest, her lips...
-
-I’d almost — almost — tilted her chin up.
-
-If I had, she wouldn’t have stopped me: her eyes had told me as much. Was that why I didn’t?
-
-I’d promised her we’d go at her speed. That night, that meant holding her until her breathing slowed, feeling her melt and then carefully, deliberately, letting the moment end with both of us still upright.
-
-But later, I wasn’t so sure.
-
-I noticed a lot about her in little things. Not the clear decisions or changes in direction, like blocked numbers or relearning how to breathe.
+I'd been noticing a lot about her in little things. Not the clear decisions or changes in direction, like blocked numbers or relearning how to breathe.
 
 No — little. Subtle.
 
-The way her eyes followed my hands while I rinsed plates, like my wrists held answers.
+The way her eyes followed my hands while I rinsed plates, as if my wrists held answers.
 
 The way she hovered half a second too long in the doorway before following me into the kitchen.
 
@@ -1370,7 +1361,7 @@ When Lauren first got here, she had been sorting her life out in real time, and 
 
 But tonight, all that felt about as relevant as last week’s shepherd's pie.
 
-Somewhere between Woollies, the drive home, and her key dropping into *our* key bowl, it all got spun around.
+Somewhere between Woollies, the drive home, and her key dropping into the key bowl, it all got spun around.
 
 I started thinking in her.
 
@@ -1378,29 +1369,11 @@ I started measuring the house by where she was.
 
 I started hearing quiet and taking it personally.
 
-I had been telling myself her stay with me was temporary. That it was about keeping Lauren safe. Nothing else mattered.
-
-And all that carefully designed scheme — one designed specifically to keep her safe, even from me — evaporated when I saw the hunger in her eyes. A raw, deep, clean hunger.
-
-I’d seen hunger before. Men wore it like a claim.
-
-Lauren’s wasn’t like that.
-
-Hers felt like something carefully folded away for so long that it wasn’t sure who owned it. When she leaned into me, when her fingers curled in my shirt, it came out in little, frightened pieces — no demand, just a plea not to be sent back.
-
-My scheme hadn’t even considered hunger as a possibility.
-
-And the real reason the scheme vanished?
-
-I felt that hunger, myself.
-
-I wanted the same thing.
-
-I wanted *her*.
+I wanted — *her*.
 
 We ate.
 
-We talked about safe things — Charlie, retaining a solicitor, whether Wardrobe would ever be able to move into premises that didn't need constant moral support. She sometime still showed the aftershocks from that first day, but there were more laughs than shivers now. Every time she smiled at me across the table, I could feel that key in the bowl in the kitchen drawer turn into a ring, one with its own sparkle: she wasn’t just passing through.
+We talked about safe things — Charlie, retaining a solicitor, whether Wardrobe would ever be able to move into premises that didn't need constant moral support. She sometimes still showed the aftershocks from that first day, but there were more laughs than shivers now.
 
 Later, when the dishes were done and the cups were rinsed and the house settled into its night-quiet, Lauren crossed the lounge room in one of my old shirts, sleeves long, hair still damp at the ends. She sat at the far end of the couch.
 
@@ -1412,7 +1385,7 @@ Closer than polite.
 
 The television murmured. Neither of us watched it.
 
-Her hands were folded like she was waiting to be told something.
+Her hands were folded in her lap. Carefully.
 
 Heat rose in my chest.
 
@@ -1428,7 +1401,7 @@ I didn’t own people. I didn’t take what wasn’t offered.
 
 *But I wanted her.*
 
-That hadn’t changed since Wardrobe and Woollies and her heart-stopping, ridiculous honesty in the car. If anything, the key in the bowl and the way she’d folded into my arms had made it worse — in the best possible way.
+That hadn’t changed since Wardrobe and Woollies and her heart-stopping, ridiculous honesty in the car. If anything, the key in the bowl had made it worse — in the best possible way.
 
 I turned my head.
 

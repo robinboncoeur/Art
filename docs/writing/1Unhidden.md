@@ -6014,7 +6014,417 @@ And then, typed 'yes'.
 
 
 
-## 25
+## 25 💞 Minnie Mouse
+
+[ *Lauren* ]
+
+I woke before dawn, and studied the still somewhat unfamiliar sheers at the window and realised I'd slept the night through.
+
+And then, did my usual inventory. Charlie — he's fine, settling in at Celeste's. Work — no home health visits today, only Wardrobe.
+
+'Wardrobe' led to 'grommets', which led to Mara's face at the steamer throwing a 'tantie' and how it got fixed, which led to who fixed it.
+
+Sarah.
+
+Sarah, who also did "darling sandwich geometry" and whose lifestyle insisted on "chaos is to be kept at bay."
+
+That Sarah.
+
+The one who gave delicious hugs.
+
+My eyes lazily took in the coziness of the room. Tidy, without being anal. A dismantled, cleaned Dyson vacuum cleaner sat with other appliances near a power strip. She still didn't want me to bring my phone into my bedroom "let's let the dust settle a bit more."
+
+I snuggled into the linen sheets and thought of the homes I'd carried medicine and dressings bags into.
+
+Evening homes, with dim reading lamps trying to hide failed aspirations, settling instead for a throw rug rescued from Vinnies and floral wallpaper. 
+
+Morning homes, chaotic, full of schoolbags and "where's my other shoe?" and only a micro-second away from a Promite jar bouncing off the tiles because the family cat enjoys seeing dismay on faces.
+
+Homes with long driveways and longer mortgages.
+
+Homes that, like the one I had just left, had hinges and latches and drawers that were given a quick "I'll do it properly later" until the whole house felt McGuivered.
+
+And then, there's Sarah's.
+
+If things didn't match, it didn't matter: things were clean and working and *loved*.
+
+My feet hit the fuzzy throw rug.
+
+I threw on my dressing gown and made my way to the kitchen.
+
+Sarah glanced up at me, and her lips pressed into a little smile.
+
+"Morning, lovely," she said. "Sleeping in a bit?"
+
+I glanced at the clock.
+
+"Oh dear. I suppose I did."
+
+I turned to go back to the bedroom.
+
+"Nope!" Sarah was shaking her head. "Wardrobe can wait. You have a cup of tea and breakfast to address first."
+
+"But Mara—"
+
+Sarah's smile broadened.
+
+"—understands," Sarah finished for me, and pointed at my cup. "Tea."
+
+"I'm not going to let this become a habit," I said hurriedly.
+
+Sarah waved it aside.
+
+"Wardrobe isn't worried."
+
+We sat for a moment. The radio was off and so the apartment was silent, almost eerily so. When I looked up from my sandwich triangles, I caught Sarah looking at me.
+
+And smiling.
+
+Her hair, tied up in her trademark tousled updo, shone above her head like a halo.
+
+My smile was made bolder by hers.
+
+"No radio?" I ventured.
+
+"I got sick of the chatter," she replied. "It's either doom and gloom, or trivial rubbish. Over it."
+
+"The quiet is lovely," I agreed.
+
+"Are you sure?"
+
+I nodded.
+
+"Why didn't you say so before?"
+
+"Your house. I don't make the rules, Sarah."
+
+"You share the space," she corrected with a meaningful look. "Something bothers you, you tell me. Please."
+
+I felt like I'd stepped into a place without anything familiar. I studied her face.
+
+"You're amazing."
+
+She grinned.
+
+"Well, 'amazing' needs to get dressed."
+
+I caught her warmth as she passed. Woman and Matière Première and washing powder and tea and — woman.
+
+My legs refused to function for a moment.
+
+Her footfalls went quiet.
+
+My heart didn't.
+
+---
+
+Mara was at the rails with Charlie, clipboard in hand, inspecting laces on the finished costumes when we arrived. I'd just shoved my tote into my cubicle when Mara called me over.
+
+"Charlie pointed something out to me this morning." She held up one of the dresses. A bit of rust had started to appear on one of the grommets.
+
+I grimaced.
+
+"That's not good."
+
+"It hasn't spread into the material," Mara said. "We will need to replace them immediately before it does. Please contact your supplier, Lauren."
+
+I gave her a quick nod and took my phone out of my hip pocket. Mara held the offending grommet as I took a picture.
+
+Charlie was already busy taking the finished dresses off the rails and placing them on his repair corner table.
+
+Sarah was at the hardware cupboard going through drawers.
+
+"Hey, there's these stainless steel grommets—"
+
+I frowned.
+
+"That's what *these* were meant to be!"
+
+The door creaked open and Bree appeared with Lily in tow.
+
+Lily held out a hand, a radiant smile on her face. Bree stood proudly by as Lily collected admiring looks and comments at the sparkling piece adorning her ring finger. Mara eyed them for a moment with lips set.
+
+Then she went over.
+
+"Have a look?"
+
+She had a look.
+
+And gave a nod.
+
+Lily's eyes shone.
+
+She held out her hand. 
+
+Mara dropped some grommets in them.
+
+By noon, all the grommets on the finished dresses had been replaced.
+
+---
+
+The drive back to Sarah's was thoughtful. She looked more tired than usual.
+
+"Are you sleeping properly?"
+
+She looked over at me.
+
+"Yeah. Why do you ask?"
+
+"You just look more tired than usual."
+
+"Thanks for noticing." She took in a breath. "It's just Martha: she's sticking around for a bit longer than usual."
+
+"Leafy greens for you tonight, girlfriend!" I slowed near the Woollies, and turned into the carpark. "Anything else we need? My shout."
+
+In the bread aisle, she gave me an odd look.
+
+"There's something with Charlie these days."
+
+I put the Helga's back on the shelf. The rustic baguette should be enough bread.
+
+"Oh?"
+
+Sarah was staring at me.
+
+"No?"
+
+I returned her stare.
+
+"What do you mean?"
+
+She gave a little shrug then and looked away.
+
+"It's probably nothing."
+
+"No, what *do* you mean?" I chucked a box of English Breakfast tea into the trolley. "Do you think he's in love or something?"
+
+"That's old news," she snorted. "No, there's something else, Lauren."
+
+A cold sea breeze blew through the car as we climbed in. 
+
+I felt Sarah's eyes on me again.
+
+"You know, I feel like I haven't paid enough attention to my own child sometimes, Sarah," I said as we pulled out of the carpark. "There's just so much about him that's a complete mystery to me."
+
+"You've had a lot on your plate," she said gently. "Things fall through the cracks."
+
+"Your child shouldn't be one of those things."
+
+Sarah grabbed both of the Woollies bags as we got out of the car. The wind seemed colder as we approached the front door. We stood at the door for a moment.
+
+Sarah tipped her chin.
+
+"Can you let us in?"
+
+"I don't have the key."
+
+Her eyes widened.
+
+"I didn't give you a key yet?" She bit her lower lip as she fumbled in her purse.
+
+I was putting the leafy greens into the crisper when she came into the kitchen.
+
+"For you."
+
+In her hand was a Minnie Mouse key ring with a brand-new key.
+
+I looked at it, at her spread palm, at her open arms and finally, her warm eyes.
+
+"Take it."
+
+I gently lifted the key from her hand and felt my eyes go a bit wet.
+
+"Don't lose it. It's my favourite Minnie Mouse keyring."
+
+I closed my fingers around the key.
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+
+## 26 💋 Always Tomorrow
+
+[ *Sarah* ]
+
+I heard her place her keys into the bowl in the kitchen drawer.
+
+The hallway light came on. The house inhaled.
+
+So did I.
+
+There was just so much about Lauren.
+
+On the couch that day she left her former life, it had been her body. The way she’d come into my arms like she was falling into something she hadn’t realised was for her. The way she’d clung, light but real, like she was afraid wanting too much might break the spell.
+
+At Wardrobe, after Roger left and warmth had returned to the room, it had been her smile. Triumphant and at the same time, thankful.
+
+In the car, it had been her voice. Ridiculous, reckless words about her past that I’d felt land in my chest, changing my breathing and making my mouth dry.
+
+I'd been noticing a lot about her in little things. Not the clear decisions or changes in direction, like blocked numbers or relearning how to breathe.
+
+No — little. Subtle.
+
+The way her eyes followed my hands while I rinsed plates, as if my wrists held answers.
+
+The way she hovered half a second too long in the doorway before following me into the kitchen.
+
+The way she recalibrated distance around me, as if she was testing invisible borders she wasn’t sure about.
+
+When Lauren first got here, she had been sorting her life out in real time, and I’d been doing what I do: keeping the day functional while she got about her business.
+
+But tonight, all that felt about as relevant as last week’s shepherd's pie.
+
+Somewhere between Woollies, the drive home, and her key dropping into the key bowl, it all got spun around.
+
+I started thinking in her.
+
+I started measuring the house by where she was.
+
+I started hearing quiet and taking it personally.
+
+I wanted — *her*.
+
+We ate.
+
+We talked about safe things — Charlie, retaining a solicitor, whether Wardrobe would ever be able to move into premises that didn't need constant moral support. She sometimes still showed the aftershocks from that first day, but there were more laughs than shivers now.
+
+Later, when the dishes were done and the cups were rinsed and the house settled into its night-quiet, Lauren crossed the lounge room in one of my old shirts, sleeves long, hair still damp at the ends. She sat at the far end of the couch.
+
+Polite distance.
+
+I sat down too. 
+
+Closer than polite.
+
+The television murmured. Neither of us watched it.
+
+Her hands were folded in her lap. Carefully.
+
+Heat rose in my chest.
+
+Protective.
+
+No.
+
+Possessive.
+
+The word annoyed me.
+
+I didn’t own people. I didn’t take what wasn’t offered.
+
+*But I wanted her.*
+
+That hadn’t changed since Wardrobe and Woollies and her heart-stopping, ridiculous honesty in the car. If anything, the key in the bowl had made it worse — in the best possible way.
+
+I turned my head.
+
+“Lauren.”
+
+She startled slightly. “Yes?”
+
+“Come over here, please. Next to me.”
+
+Her throat moved. 
+
+“Are you sure?” she whispered.
+
+“Yes.”
+
+She moved slowly — hesitantly — along the couch until our shoulders nearly touched.
+
+And stopped.
+
+I let the silence sit. Then, softer:
+
+“You don’t have to hold yourself like that.”
+
+I reached up, slow enough that she could see it coming, and touched her face. 
+
+Just fingertips. 
+
+She leaned in.
+
+That undid me.
+
+“I want to kiss you. May I?”
+
+She didn’t hesitate.
+
+“Yes.”
+
+I kissed her.
+
+Careful at first. Measured. Asking.
+
+She answered just as carefully.
+
+And then something changed. Her hands stopped hovering. They settled at my waist. Firmer. Certain.
+
+The kiss deepened.
+
+I felt the rush of the current and stepped into it. Pulled her closer. Felt the heat climb, and let it — let myself forget that I’d intended to be the steady one.
+
+Her breath shortened.
+
+So did mine.
+
+The space between us disappeared. Lauren pressed in more insistently — not frantic, just sure. Hungry in a way that felt startlingly honest.
+
+*Every part of me wanted that.*
+
+I matched her honesty.
+
+For a dangerous few moments, I let myself move along with her in the turbulent flow of the current. Her fingers tightened at my back. And then the kiss tipped — not wild, just fast. Fast enough that I could feel where it was leading, in myself and in her.
+
+I so terribly wanted to keep going.
+
+But I changed the air instead. 
+
+I took in a deep, deliberate breath. 
+
+Held it. 
+
+Let it out slower than the moment required, warm against her cheek. Kept my hand firm at her back, but stilled the other. Eased the angle of my mouth. Slowed the pressure, not the closeness.
+
+Stayed.
+
+Lauren’s breath stuttered at the gentler pace — not pulling away, just recalibrating. I touched my forehead lightly to her temple.
+
+“Stay with me, dear heart,” I murmured. An invitation.
+
+Her hands softened.
+
+Her mouth followed mine.
+
+The urgency grew richer as it deepened.
+
+Her breath turned heavier now, slower, warmer against my skin.
+
+I could smell soap and something faintly electric underneath it — the kind of scent that only shows up when someone stops pretending. I kissed her again, slower this time. Intentional. Thorough. Not rushing anywhere. Just letting it build properly.
+
+She made a quiet sound — different. Present.
+
+When I finally drew back a fraction to look into her eyes, she didn’t look regretful.
+
+She looked lit.
+
+I brushed my thumb along her jaw.
+
+“Softly-softly,” I said quietly. A promise. Her eyes held mine. Steady. “I’m not going anywhere.”
+
+She leaned into me again, willingly. And this time, when I draped the throw over us and she settled against my shoulder, the weight of her felt chosen, not collapsed. Her gift: herself, trusting. Her breathing evened out slowly.
+
+She fell asleep.
+
+I held her and felt her warmth.
+
+<hr class="section-break strong" />
+
 
 [Being edited... 25-Sep-2026](W_Edits.md)
 
