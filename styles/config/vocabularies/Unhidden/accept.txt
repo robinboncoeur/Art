@@ -86,7 +86,7 @@ Queenslanders
 Qwen
 Rache
 reaticulate
-[Rr]ecalibrates?
+[Rr]ecalibrate(s|d)?
 repinned
 rethread(ing|ed|s)?
 Retraite

@@ -557,6 +557,14 @@ I hated how easy it was to be found out around her.
 
 Sarah tilted her head slightly. The gesture was precise — an appraisal. Then she walked back into the hallway, crossing over to me with an enigmatic soft smile. I held very still, terrified of asking for too much.
 
+
+
+
+
+
+
+## White-Knuckling That Coffee
+
 She stopped a step away and looked at my hands.
 
 “Why don’t you put the coffee down,” she said carefully.
@@ -1081,7 +1089,14 @@ None of this was temporary anymore.
 
 
 
-## xx 
+
+
+
+
+
+
+
+## 25 💞 Minnie Mouse
 
 [ *Lauren* ]
 
@@ -1303,6 +1318,485 @@ I looked at it, at her spread palm, at her open arms and finally, her warm eyes.
 "Take it."
 
 I gently lifted the key from her hand and felt my eyes go a bit wet.
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+
+## 26 💋 Always Tomorrow
+
+[ *Sarah* ]
+
+I heard her place her keys into the bowl in the kitchen drawer.
+
+The kitchen light came on. The house inhaled.
+
+So did I.
+
+There was just so much about Lauren.
+
+On the couch that day she left her former life, it had been her body. The way she’d come into my arms like she was falling into something she hadn’t realised was for her. The way she’d clung, light but real, like she was afraid wanting too much might break the spell.
+
+At Wardrobe, after Roger left and warmth had returned to the room, it had been her smile. Triumphant and at the same time, thankful.
+
+In the car, it had been her voice. Ridiculous, reckless words about her past that I’d felt land in my chest, changing my breathing and making my mouth dry.
+
+And then, last night, it was *all* of her. All of her melting into me, all of her warmth flowing over me like sea foam on a sunshine-baked beach, her hair tickling my nose, her face buried in my chest, her lips...
+
+I’d almost — almost — tilted her chin up.
+
+If I had, she wouldn’t have stopped me: her eyes had told me as much. Was that why I didn’t?
+
+I’d promised her we’d go at her speed. That night, that meant holding her until her breathing slowed, feeling her melt and then carefully, deliberately, letting the moment end with both of us still upright.
+
+But later, I wasn’t so sure.
+
+I noticed a lot about her in little things. Not the clear decisions or changes in direction, like blocked numbers or relearning how to breathe.
+
+No — little. Subtle.
+
+The way her eyes followed my hands while I rinsed plates, like my wrists held answers.
+
+The way she hovered half a second too long in the doorway before following me into the kitchen.
+
+The way she recalibrated distance around me, as if she was testing invisible borders she wasn’t sure about.
+
+When Lauren first got here, she had been sorting her life out in real time, and I’d been doing what I do: keeping the day functional while she got about her business.
+
+But tonight, all that felt about as relevant as last week’s shepherd's pie.
+
+Somewhere between Woollies, the drive home, and her key dropping into *our* key bowl, it all got spun around.
+
+I started thinking in her.
+
+I started measuring the house by where she was.
+
+I started hearing quiet and taking it personally.
+
+I had been telling myself her stay with me was temporary. That it was about keeping Lauren safe. Nothing else mattered.
+
+And all that carefully designed scheme — one designed specifically to keep her safe, even from me — evaporated when I saw the hunger in her eyes. A raw, deep, clean hunger.
+
+I’d seen hunger before. Men wore it like a claim.
+
+Lauren’s wasn’t like that.
+
+Hers felt like something carefully folded away for so long that it wasn’t sure who owned it. When she leaned into me, when her fingers curled in my shirt, it came out in little, frightened pieces — no demand, just a plea not to be sent back.
+
+My scheme hadn’t even considered hunger as a possibility.
+
+And the real reason the scheme vanished?
+
+I felt that hunger, myself.
+
+I wanted the same thing.
+
+I wanted *her*.
+
+We ate.
+
+We talked about safe things — Charlie, retaining a solicitor, whether Wardrobe would ever be able to move into premises that didn't need constant moral support. She sometime still showed the aftershocks from that first day, but there were more laughs than shivers now. Every time she smiled at me across the table, I could feel that key in the bowl in the kitchen drawer turn into a ring, one with its own sparkle: she wasn’t just passing through.
+
+Later, when the dishes were done and the cups were rinsed and the house settled into its night-quiet, Lauren crossed the lounge room in one of my old shirts, sleeves long, hair still damp at the ends. She sat at the far end of the couch.
+
+Polite distance.
+
+I sat down too. 
+
+Closer than polite.
+
+The television murmured. Neither of us watched it.
+
+Her hands were folded like she was waiting to be told something.
+
+Heat rose in my chest.
+
+Protective.
+
+No.
+
+Possessive.
+
+The word annoyed me.
+
+I didn’t own people. I didn’t take what wasn’t offered.
+
+*But I wanted her.*
+
+That hadn’t changed since Wardrobe and Woollies and her heart-stopping, ridiculous honesty in the car. If anything, the key in the bowl and the way she’d folded into my arms had made it worse — in the best possible way.
+
+I turned my head.
+
+“Lauren.”
+
+She startled slightly. “Yes?”
+
+“Come over here, please. Next to me.”
+
+Her throat moved. 
+
+“Are you sure?” she whispered.
+
+“Yes.”
+
+She moved slowly — hesitantly — along the couch until our shoulders nearly touched.
+
+And stopped.
+
+I let the silence sit. Then, softer:
+
+“You don’t have to hold yourself like that.”
+
+I reached up, slow enough that she could see it coming, and touched her face. 
+
+Just fingertips. 
+
+She leaned in.
+
+That undid me.
+
+“I want to kiss you. May I?”
+
+She didn’t hesitate.
+
+“Yes.”
+
+I kissed her.
+
+Careful at first. Measured. Asking.
+
+She answered just as carefully.
+
+And then something changed. Her hands stopped hovering. They settled at my waist. Firmer. Certain.
+
+The kiss deepened.
+
+I felt the rush of the current and stepped into it. Pulled her closer. Felt the heat climb, and let it — let myself forget that I’d intended to be the steady one.
+
+Her breath shortened.
+
+So did mine.
+
+The space between us disappeared. Lauren pressed in more insistently — not frantic, just sure. Hungry in a way that felt startlingly honest.
+
+*Every part of me wanted that.*
+
+I matched her honesty.
+
+For a dangerous few moments, I let myself move along with her in the turbulent flow of the current. Her fingers tightened at my back. And then the kiss tipped — not wild, just fast. Fast enough that I could feel where it was leading, in myself and in her.
+
+I so terribly wanted to keep going.
+
+But I changed the air instead. 
+
+I took in a deep, deliberate breath. 
+
+Held it. 
+
+Let it out slower than the moment required, warm against her cheek. Kept my hand firm at her back, but stilled the other. Eased the angle of my mouth. Slowed the pressure, not the closeness.
+
+Stayed.
+
+Lauren’s breath stuttered at the gentler pace — not pulling away, just recalibrating. I touched my forehead lightly to her temple.
+
+“Stay with me, dear heart,” I murmured. An invitation.
+
+Her hands softened.
+
+Her mouth followed mine.
+
+The urgency grew richer as it deepened.
+
+Her breath turned heavier now, slower, warmer against my skin.
+
+I could smell soap and something faintly electric underneath it — the kind of scent that only shows up when someone stops pretending. I kissed her again, slower this time. Intentional. Thorough. Not rushing anywhere. Just letting it build properly.
+
+She made a quiet sound — different. Present.
+
+When I finally drew back a fraction to look into her eyes, she didn’t look regretful.
+
+She looked lit.
+
+I brushed my thumb along her jaw.
+
+“Softly-softly,” I said quietly. A promise. Her eyes held mine. Steady. “I’m not going anywhere.”
+
+She leaned into me again, willingly. And this time, when I draped the throw over us and she settled against my shoulder, the weight of her felt chosen, not collapsed. Her gift: herself, trusting. Her breathing evened out slowly.
+
+She fell asleep.
+
+I held her and felt her warmth.
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+
+## 27 💞 Care for Sore Feet
+
+[ *Sarah* ]
+
+People always assumed that because I was blonde, I must be a pampered princess. A hair-salon devotee, never missing a chance for a manicure or pedicure.
+
+Nothing could be further from the truth.
+
+I did my own nails, thank you very much. And I liked my feet in exactly three ways: in shoes, in sand at the beach, or ignored. They’d carried me through too many twelve-hour days on concrete for me to pretend they were pretty, and I’d always hated the idea of anyone fussing over them. Pedicures, foot massages, all that pricey pampered nonsense — it all sounded like conspicuous consumption for bragging rights.
+
+When I got on the bus on Thursday night, I was exhausted. The Queensland client had complained that the material for the petticoats was still too heavy, even though they’d agreed to it *in writing*.
+
+My feet were killing me.
+
+Lauren may have seen a dozen patients that day, but she came out of the kitchen wearing a warm smile as cheerful as the workout gear she was wearing. 
+
+A smile which quickly dissolved into a look of concern.
+
+“Oh, your poor feet.”
+
+I slowly deposited my weary body on the couch and idly wondered:
+
+"How did she know it was my feet?"
+
+The agony of pulling off runners was almost pleasurable — felt so good when it stopped hurting. 
+
+Lauren stood over me, shaking her head.
+
+“How do you expect to work tomorrow?”
+
+“I’ll be fine,” I mumbled. “Really, don’t worry about—"
+
+She disappeared back into the kitchen before I could finish my sentence. I heard the tap run, something fill under the stream, the soft clink of porcelain against the sink. A moment later, Lauren came back into the lounge bum-first, carrying a basin with steam rising from it.
+
+“No-no-no. I said I was—" I started.
+
+Lauren set the basin at my feet.
+
+“Shush, you. It’s my turn to do something for you,” she said.
+
+“I told you I don’t like people touching my feet.”
+
+“I’m not ‘people’,” she said. “Look, you held me together when I thought I was going to come apart at the seams. Please let me do this much.”
+
+One look into her eyes and I knew resistance would be a silly, egotistical gesture.
+
+“If you must.”
+
+Her mouth curved.
+
+“I must.”
+
+When something already hurts, adding heat seems like it would be cruel and unusual. And in those first agonising seconds, it was — it literally took my breath away.
+
+I finally managed to slow my breathing and open my eyes, and stared at my red feet. And then, I caught Lauren’s open-mouthed, intent gaze. She quickly looked away when she saw my expression.
+
+She focused on my feet.
+
+Her touch was almost tentative at first, feather-light. 
+
+At first, even that felt intense, but as the water cooled her touch became— tolerable.
+
+My shoulders lowered.
+
+I sighed.
+
+I squinted, slightly.
+
+Tolerable had become — nice.
+
+Lauren’s movements became stronger, more confident.
+
+I swallowed — looked at her, eyes wide.
+
+She glanced at me.
+
+“You right there?” she asked. 
+
+Her eyes held mine.
+
+I nodded. 
+
+*Oh my. This was — nice.*
+
+“I had no idea it could be—"
+
+“So pleasant?” She grinned. “Hang on, it gets better.”
+
+“How can it?”
+
+*It did.*
+
+Firm hands, slow, undulating pressure.
+
+My feet never knew what hit them.
+
+*Oh, my lands, it was so nice.*
+
+I melted into the couch.
+
+And let Lauren — do.
+
+My feet were slowly starting to feel like something I might actually want to belong to me again.
+
+However. 
+
+I wasn’t thinking about them as much as I was thinking about — Lauren. About how she could touch you with her eyes and her hands and confuse you as to which touch was more irresistible. 
+
+When she glanced up, her mouth curved in a small smile.
+
+“I guess you know how good you are, don’t you?”
+
+Her smile broadened as she dropped her gaze again, and her hands slid a little higher to run slowly up and down my calves.
+
+My breath caught.
+
+Oh. Oh.
+
+I bit my lower lip.
+
+Oh, Lauren.
+
+She glanced up at my face, a faint, shy pride in her eyes that didn’t quite match the confidence in her hands. Her fingertips traced lightly down my skin, a hint of nails in the mix that made my toes curl for reasons that had nothing to do with a day standing on concrete.
+
+“You *do* know, don’t you?”
+
+She shook her head, the movement small.
+
+“Then how—"
+
+“I know what I like,” she said. “I’m— working from that.”
+
+Heat climbed under my skin. I could feel my eyelids growing heavy, my breathing a little less tidy. Her touch grew bolder, more certain, as if my reactions were giving her feedback she trusted.
+
+“Relax,” she whispered.
+
+The sibilance of the word seemed to run straight up my spine. I let my head tip back against the couch, mouth parting on a small, helpless sound.
+
+She paused.
+
+“Still okay?”
+
+I opened my eyes. 
+
+She’d shifted, closer than before, warmth along my side. Her face was right there, searching mine.
+
+“Oh yes,” I said quickly. The honesty of it surprised me. “More than okay.”
+
+Something in her expression loosened. 
+
+She leaned in.
+
+I could have pulled back.
+
+I didn’t.
+
+Her lips met mine, soft as a question. 
+
+The melting I’d felt in my muscles spread, deeper now, centred somewhere entirely different. Her hand slipped up into my hair, fingers threading through it.
+
+“I love your hair,” she breathed against my mouth. “I’ve been wanting to tell you that properly.”
+
+Her breath tickled my cheek. I sighed, the sound caught between us.
+
+“Lauren…” My breathing had turned into a series of light, uneven pulls. “What are you…?”
+
+“Being brave,” she said quietly. “And hoping you want that too.”
+
+I answered her by kissing her back, properly this time. No half-measures. The way she responded — relief, hunger, care all tangled — made my head spin.
+
+Her hands didn’t stay at my hair. One traced the line of my neck, my shoulder, the curve of my side, mapping out new territory with a patient, deliberate touch that felt like both a question and an answer.
+
+I’d never been touched like that before: as if my whole body was a conversation, not a performance.
+
+Somehow I knew that I could ask her to slow down, to stop.
+
+And she would. 
+
+I had absolutely no interest in testing that theory.
+
+“Tell me if anything’s wrong,” she murmured.
+
+“I will,” I said. “You’re not… not doing anything wrong, Lauren.”
+
+If anything, she was doing something dangerously right.
+
+The nervous, work-battered woman who’d limped in the door an hour ago felt very far away.
+
+“Sarah.” 
+
+The word came quietly, between kisses, her forehead resting against mine.
+
+“Lauren?”
+
+“I’ve never done anything like this,” she said. “I mean, with a woman.”
+
+I let out a breath that was almost a laugh.
+
+“You and me both.”
+
+Her eyes searched mine, serious now.
+
+“We don’t have to go any further tonight. I meant it — there’s no rush.”
+
+I thought of our hug on the couch, her triumphant smile in Wardrobe, her voice saying reckless words, and the sound of her key in *our* bowl. 
+
+Of her hands on my feet, my calves, my hair.
+
+And then, of all the men who’d never cared if I was actually in the room.
+
+“I know,” I said. My voice surprised me with how steady it sounded. “But I don’t want to stop here.”
+
+Her breath caught. 
+
+“You’re sure.”
+
+It wasn’t quite a question, not quite a statement. I cupped her face, thumb brushing the corner of her mouth.
+
+“I want you,” I said. “Clumsy, new, whatever this is. I want it with you.”
+
+She kissed me again, slower this time.
+
+“Okay,” she murmured. “We go at your speed.”
+
+She took my hand and led me down the hallway to my bedroom, the same hallway where I’d first held her.
+
+My bedroom looked exactly as it always did.
+
+We took our time.
+
+Clothes became a series of small, mutual decisions rather than some frantic stripping. Here, a shirt; there, a waistband loosened; pauses built in for nerves and for laughter when an elbow got caught or a zip fought back. Every time I hesitated, she checked in with a look or a touch. Every time she hesitated, I answered with my hands on her, learning the new map of her skin.
+
+I’d had sex before. That wasn’t new. What was new was the way my body stayed in the room with me. The way every touch felt like a question I was allowed to answer honestly. The way pleasure didn’t feel extracted, but shared.
+
+At some point talking became difficult and then unnecessary. The conversation shifted to breathing, to the way she adjusted when I gasped, to the quiet, astonished sounds I realised were coming from me.
+
+We were clumsy, careful, occasionally giggling — and somehow, in the middle of all that, my whole nervous system lit up with the stunned realisation that this, right here, was what it felt like to be wanted and safe at the same time.
+
+Later, when the room had settled and the night noises outside the window had crept back into my awareness, Lauren lay curled against me, cheek tucked into the hollow beneath my collarbone like she’d always known it was there.
+
+“You okay?”
+
+She nodded against my skin. 
+
+“Very,” she said. “You?”
+
+I thought of all the schemes I’d made to keep her safe, even from myself. Of how quickly they’d evaporated when faced with her hunger and my own.
+
+“Happy,” I said. The word felt strange in my mouth. “Terrified. But happy.”
+
+She hummed, a tiny, satisfied sound.
+
+And drifted off before I did.
+
+<hr class="section-break strong" />
+
 
 
 
