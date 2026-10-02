@@ -57,6 +57,7 @@ Kilda
 Kirsty
 Kont(akt|ext)
 Lacrimosa
+[Ll]ightbulbs?
 [Ll]ippie
 Lisbeth
 Macca's
@@ -75,10 +76,11 @@ Moorside
 Northwind
 [Oo]verlockers?
 personhood
-PDF?
+PDFs?
 Pfaff
 poeme
 Powercor
+Promite
 Qld
 Queenslanders
 Qwen
@@ -133,6 +135,7 @@ Uvalde
 Vasile
 vegemite
 Vicks
+Vinnies
 [Ww]hat'll
 Winholmes
 [Ww]oolies

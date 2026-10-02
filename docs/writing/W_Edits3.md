@@ -1,4 +1,4 @@
-# Edits
+# Lauren and Sarah
 
 <hr class="section-break strong" />
 
@@ -1077,6 +1077,44 @@ The last clear thought I remember was simple and absolute:
 None of this was temporary anymore.
 
 <hr class="section-break strong" />
+
+
+
+
+## xx 
+
+[ *Lauren* ]
+
+I woke before dawn, and studied the still somewhat unfamiliar sheers at the window and realised I'd slept the night through.
+
+And then, did my usual inventory. Charlie — he's fine, settling in at Celeste's. Work — no home health today, only Wardrobe. 
+
+Wardrobe led to grommets, which led to Mara's face at the steamer throwing a 'tantie' and how it got fixed, which led to who fixed it. 
+
+Sarah.
+
+Sarah, who also did "darling sandwich geometry" and whose lifestyle insisted on "chaos is to be kept at bay."
+
+That Sarah.
+
+The one who gave delicious hugs.
+
+My eyes lazily took in the coziness of the room. Tidy, without being anal. A dismantled, cleaned Dyson vacuum cleaner sat with other appliances near a power strip. She still didn't want me to bring my phone into my bedroom "let's let the dust settle a bit more."
+
+I snuggled into the linen sheets and thought of the homes I'd entered, medicine and dressings bag in hand.
+
+Evening homes, with dim lightbulbs that tried to hide failed aspirations, settling instead for a throw rug rescued from Vinnies and floral wallpaper. 
+
+Morning homes, chaotic, full of schoolbags and "where's my other shoe?" and only a micro-second away from a Promite jar bouncing off the tiles because the family cat enjoys seeing dismay on faces.
+
+Homes with long driveways and longer mortgages.
+
+Homes that, like the one she just left, had hinges and latches and drawers that were given a quick "I'll do it properly later" until the whole house felt McGuivered.
+
+And then, there's Sarah's.
+
+If things didn't match, it didn't matter: things were clean and working and *loved*.
+
 
 
 
