@@ -184,7 +184,7 @@ These pieces live in my head when I write.
 
 
 
-[![ParkBench][S35a]{ .artL width="160" }][S35a]
+[![ParkBench][S28a]{ .artL width="160" }][S28a]
 
 <div class="music-card music-card--with-art">
   <div>
@@ -201,7 +201,7 @@ These pieces live in my head when I write.
 
 
 
-[![TryingOn][S28a]{ .artL width="160" }][S28a]
+[![TryingOn][S35a]{ .artL width="160" }][S35a]
 
 <div class="music-card music-card--with-art">
   <div>
