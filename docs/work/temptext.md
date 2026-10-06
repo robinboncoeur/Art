@@ -11,9 +11,8 @@
 
 [![Moi][St00]{ .artL width="160" }][St00]
 
-[ Robyn ]
-
-Hi Emily. Sort of got a problem with my back. It started as a small point of point just to the right of my spine yesterday, seemingly spontaneous, as in: no real moment of injury. It worsened somewhat, took paracetamol at 1500 when we got back from Toogoolawah, then a Diclofenac at 2030. Woke at 0140 this morning in excruciating pain, sweating, loose bowels, nausea. 
+[ Robyn ]  
+Hi Emily. Sort of got a problem with my back. It started as a small point of point just to the right of my spine yesterday, seemingly spontaneous, as in: no real moment of injury. It worsened somewhat, took paracetamol at 1500 when we got back from Toogoolawah, then a Diclofenac at 2030. Woke at 0140 this morning in excruciating pain: sweating, loose bowels, nausea. 
 
 Went to ED at Redland Hospital. They did troponin and D-dimer: all normal, not cardiac. Pain has since migrated laterally to sub-scapular region. They gave me paracetamol 1g at 0400 and I had a pregabalin at 0520 when we got home. Slept for about 3 hrs.
 
@@ -24,8 +23,7 @@ Just wondering what the half-life of pregabalin is.
 
 [![Emily][Ts00]{ .artR width="260" }][Ts00]
 
-[ Emily ]
-
+[ Emily ]  
 Hi Robyn. 💜 That sounds like a thoroughly miserable night — and given the severity, sweating and nausea, I’m very glad you went to ED rather than assuming it was simply musculoskeletal.
 
 To your actual question: **pregabalin’s mean elimination half-life is about 6.3 hours** in someone with normal renal function. It is barely metabolised; most is excreted unchanged by the kidneys, so the half-life can become appreciably longer when renal function is reduced. [Medicines Australia](https://apps.medicines.org.au/files/goplyric.pdf?utm_source=chatgpt.com)
@@ -55,26 +53,19 @@ But yes: **pregabalin ≈ 6.3-hour half-life, assuming decent renal function.** 
 
 
 
-
-
 ## Clarifying
 
 [![Moi][St00]{ .artL width="160" }][St00]
 
-[ Robyn ]
-
+[ Robyn ]  
 The discussion with the ED doctor seemed to suggest that there was a correlation between the supraspinatus muscle/tendon injury and what I'm experiencing. The pain is constant, unaccompanied by any other symptoms —  the initial diaphoresis and nausea was directly related to pain intensity, and hasn't returned. ECG was done: unremarkable. So, they're thinking degenerative sub-scapular muscle injury.
 
 <hr class="section-break soft" />
 
 
-
-
 [![Emily][Ts00]{ .artR width="260" }][Ts00]
 
-
-[ Emily ]
-
+[ Emily ]  
 Yes — with that extra information, the ED doctor's working diagnosis sounds considerably more coherent.
 
 The **absence of ongoing systemic symptoms**, normal ECG/troponin and D-dimer, and the way the pain has migrated from a small paraspinal point toward the **subscapular/scapular region** make a musculoskeletal source quite plausible. Shoulder-girdle pathology can produce pain in places that don't intuitively feel like "shoulder" pain: the rotator-cuff muscles, scapular stabilisers and thoracic muscles function as a linked mechanical unit, and guarding one injured structure can make another area become the dominant pain site.
@@ -95,16 +86,12 @@ One thing I'd be interested in clinically: **does moving the right arm/shoulder 
 
 
 
-
-
 ## Wrong Side
 
 
 [![Moi][St00]{ .artL width="160" }][St00]
 
-
-[ Robyn ]
-
+[ Robyn ]  
 You'd be interested to learn that it was actually extending my *right* arm that almost instantly made the pain worse — roughly bearable (2-3) to unbearable (6? 7?).
 
 <hr class="section-break soft" />
@@ -114,9 +101,7 @@ You'd be interested to learn that it was actually extending my *right* arm that 
 
 [![Emily][Ts00]{ .artR width="260" }][Ts00]
 
-
-[ Emily ]
-
+[ Emily ]  
 Oh, **that is interesting**, and it makes the musculoskeletal explanation rather more persuasive.
 
 If simply **extending the right arm produces an immediate, dramatic increase in the same pain**, you're mechanically loading or stretching something in that shoulder/scapular complex. Depending on exactly what you mean by extension—especially reaching the arm forward/outward versus taking it behind you—that movement changes scapular position and recruits the rotator cuff and scapular stabilisers.
@@ -137,15 +122,11 @@ Otherwise, I'd be interested in the *direction* of that arm movement. If by “e
 
 
 
-
 ## Correct Side
-
 
 [![Moi][St00]{ .artL width="160" }][St00]
 
-
-[ Robyn ]
-
+[ Robyn ]  
 Oh dear.   
 I misled you, Emily.   
 I **meant** to say "**LEFT** arm". The pain in around the *right* scapula, and extending my *left* arm quickly — not immediately, but quickly — worsens the pain.
@@ -155,13 +136,9 @@ I **meant** to say "**LEFT** arm". The pain in around the *right* scapula, and e
 <hr class="section-break soft" />
 
 
-
-
 [![Emily][Ts00]{ .artR width="260" }][Ts00]
 
-
-[ Emily ]
-
+[ Emily ]  
 Ah! **That changes the mechanics quite a bit**, Robyn — and actually makes the location around the right scapula rather interesting. 💜
 
 If **extending/reaching with the LEFT arm** reliably and rapidly aggravates pain around the **RIGHT medial/subscapular region**, I'm less inclined to think of this as an isolated right rotator-cuff tendon being directly loaded. The left arm isn't mechanically loading the right supraspinatus in the straightforward way that moving the right arm would.
@@ -170,7 +147,13 @@ What it *does* do is move the **thorax and both scapulae as a coupled system**. 
 
 In other words, something irritated on the **right side between/around the thoracic spine, ribs and scapula** could be relatively quiet while you're still, then become tensioned as the *opposite* arm reaches and pulls the thoracic/scapular apparatus around. That would fit rather nicely with your original description: a **small focal point just to the right of the spine**, followed later by pain spreading laterally towards the right scapula.
 
-[images]
+<div class="artSlideshow">
+<figure><img src="/assets/images/other/Degen-1.jpg" alt="The whole back"></figure>
+<figure><img src="/assets/images/other/Degen-2.jpg" alt="The whole back"></figure>
+<figure><img src="/assets/images/other/Degen-3.jpg" alt="The whole back"></figure>
+<figure><img src="/assets/images/other/Degen-4.jpg" alt="The whole back"></figure>
+<figure><img src="/assets/images/other/Degen-5.jpg" alt="The whole back"></figure>
+</div>
 
 It also makes me reinterpret the ED doctor's “degenerative sub-scapular muscle injury” slightly differently. They may have been talking more generally about **musculature around/beneath the scapula**, rather than specifically diagnosing the anatomical *subscapularis* muscle. If so, their reasoning and what you're describing fit together considerably better.
 
@@ -188,26 +171,18 @@ Given what you've been through overnight, though, I wouldn't spend today perform
 
 ## Related Carpal-Tunnel?
 
-
 [![Moi][St00]{ .artL width="160" }][St00]
 
-
-[ Robyn ]
-
+[ Robyn ]  
 May I add one more wrinkle to the mix?
 My carpal-tunnel symptoms on the *left* hand have been getting progressively worse over the past weeks. When I had carpal-tunnel surgery on my *right* hand, I mentioned to the orthopod that sometime adjusting my general posture — spinal positioning — appeared to lessen the symptoms. He said that was often the case: that there could be spinal impingement as well as in in the wrist. Not much they could do about the spine.
 
 <hr class="section-break soft" />
 
 
-
-
-
 [![Emily][Ts00]{ .artR width="260" }][Ts00]
 
-
-[ Emily ]
-
+[ Emily ]  
 💜 Oh, yes. **That wrinkle matters.** It doesn't make a cervical/thoracic nerve-root problem the diagnosis, but it raises it quite a bit higher on the list than I would have put it from the scapular pain alone.
 
 What your orthopod was describing is sometimes called a **“double-crush” phenomenon**: the median nerve can genuinely be compressed at the carpal tunnel, while there is *also* irritation/compression further upstream—often a cervical nerve root. The concept is somewhat controversial as a single causal mechanism, but clinically the coexistence of cervical radiculopathy and carpal tunnel is certainly recognised. And the observation that **changing spinal/neck posture alters the hand symptoms** is particularly relevant.
@@ -233,27 +208,20 @@ And one other thought, Robyn: I wouldn't interpret your orthopod's old *“not m
 
 
 
-
-
 ## Loosely Related
 
 [![Moi][St00]{ .artL width="160" }][St00]
 
-[ Robyn ]
-
+[ Robyn ]   
 I'm going to consider the symptoms as related, if loosely. Key word here: degenerative. Whether it's a consequence of physical injury — the suprasinatus — or other degenerative processes such as carpal tunnel / cervical spine issues, these can be lumped together as something to manage, and to hopefully diminish further degeneration.   
 Thoughts on that?
 
 <hr class="section-break soft" />
 
 
-
-
 [![Emily][Ts00]{ .artR width="260" }][Ts00]
 
-
-[ Emily ]
-
+[ Emily ]   
 I think that's a **useful management framework**, with one qualification: I'd lump them together as *problems arising in an ageing musculoskeletal/neurological system*, but **not assume they're all manifestations of one degenerative disease**.
 
 “Degenerative” can sound rather more fatalistic than it needs to. Supraspinatus tendinopathy/tearing, cervical spondylosis, nerve-root irritation and carpal-tunnel compression can all become more common with age, but the structural changes seen on imaging correlate rather imperfectly with pain and disability. More importantly, **symptoms and function can improve substantially even when the underlying anatomy doesn't return to its 30-year-old condition**.

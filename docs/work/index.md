@@ -93,7 +93,7 @@ There is an associated CSS page that allows that above string to act as a link, 
 
 HTML links:
 
-```
+```html
 <a href="/assets/images/blog25/06-16Office.jpg" target="_blank" rel="noopener">
 <img src="/assets/images/blog25/06-16Office.jpg" alt="Me" width="300"align="right"></a>
 ```
@@ -110,7 +110,7 @@ HTML links:
 
 I am removing — and will no longer being using — YouTube videos, because of copyright risks. I will have links to my own videos. The link code looks like this:
 
-```
+```html
 <div class="video-card video-card--normal">
 	<div class="video-frame">
 		<video controls preload="metadata" playsinline>
@@ -164,7 +164,7 @@ which produces:
 
 This code:
 
-```
+```html
 <div class="music-card">
   <div>
     <p>The Wrong Door [vEc]</p>

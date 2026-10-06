@@ -47,6 +47,9 @@ extra_css:
   - stylesheets/custom.css
   - stylesheets/extras.css
 
+extra_javascript:
+  - javascripts/slideshow.js
+
 nav:
   - Home: index.md
 
