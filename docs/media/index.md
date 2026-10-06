@@ -312,6 +312,8 @@ Slightly [different orchestration](https://media.seabrae.org/audio/cg/music/TheW
 <div class="randomMusicPlayer"></div>
 
 
+<hr class="section-break strong" />
+
 <!--
 
 ## Notes to Self
