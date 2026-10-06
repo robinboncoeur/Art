@@ -49,6 +49,7 @@ extra_css:
 
 extra_javascript:
   - javascripts/slideshow.js
+  - javascripts/music-player.js
 
 nav:
   - Home: index.md
