@@ -320,6 +320,15 @@ async function loadGallery(slideshow, galleryUrl) {
 
 	try {
 
+		// Mark JSON-backed slideshows as full galleries.
+		//
+		// This gives CSS a separate class to style, without
+		// changing the appearance of our older story slideshows.
+		//
+		slideshow.classList.add("artGallery");
+
+
+
 		// ----------------------------------------------------
 		// Ask the server for gallery.json
 		// ----------------------------------------------------
@@ -401,57 +410,42 @@ async function loadGallery(slideshow, galleryUrl) {
 			const figure =
 				document.createElement("figure");
 
+			// Create a fixed-size visual stage for the image.
+			//
+			// The <figure> will contain BOTH this stage and, when present,
+			// a caption underneath it. Keeping the stage separate means
+			// captions cannot alter the displayed image dimensions.
+			//
+			const stage =
+				document.createElement("div");
+
+			stage.className = "artSlideStage";
+
+
 			const image =
 				document.createElement("img");
 
-
-			// new URL(filename, directory) safely combines:
-			//
-			//     .../gallery/
-			//
-			// and:
-			//
-			//     B-017-SheKnows.jpg
-			//
 			image.src =
 				new URL(
 					item.file,
 					imageBaseUrl
 				).href;
 
-
-			// We don't yet have proper descriptions for every
-			// image. An empty alt attribute is preferable to
-			// using the filename as meaningless screen-reader
-			// chatter.
-			//
-			// Later we can add a separate "alt" field to JSON.
-			//
 			image.alt = "";
-
-
-			// Ask the browser not to download every gallery
-			// image immediately.
-			//
-			// With 30 images now -- and potentially many more
-			// later -- this is worth doing.
-			//
 			image.loading = "lazy";
 
 
-			figure.appendChild(image);
+			// Put the image inside its stage...
+			//
+			stage.appendChild(image);
 
 
-			// ------------------------------------------------
-			// Add caption ONLY when one actually exists.
-			// ------------------------------------------------
+			// ...and put the stage inside the figure.
 			//
-			// An empty string ("") is false-like in JavaScript,
-			// so this block simply doesn't execute for our
-			// currently empty captions.
-			//
+			figure.appendChild(stage);
+
+
 			if (item.caption) {
-
 				const caption =
 					document.createElement("figcaption");
 

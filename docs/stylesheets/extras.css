@@ -727,3 +727,89 @@
 		right: 0.5rem;
 	}
 }
+
+
+/* ===== Full artwork gallery ===== */
+
+/*
+ * A JSON-backed art gallery is deliberately larger than the
+ * ordinary story slideshows embedded in chapter text.
+ *
+ * width: 100%
+ *     Use all the horizontal space available to us.
+ *
+ * max-width: 1100px
+ *     ...but don't become absurdly wide on a large monitor.
+ */
+.artSlideshow.artGallery {
+	width: 100%;
+	max-width: 1100px;
+	margin: 2rem auto;
+}
+
+
+/*
+ * Give every gallery slide the same-sized "stage".
+ *
+ * aspect-ratio: 16 / 10 means that the browser can calculate
+ * the stage height from its width before the image even loads.
+ *
+ * This is what prevents the material underneath the gallery
+ * jumping up and down when we move between portrait and
+ * landscape images.
+ */
+.artGallery figure {
+	aspect-ratio: 16 / 10;
+	background: #111;
+}
+
+
+/*
+ * The image stage keeps every slide the same visual size,
+ * regardless of whether the source image is landscape,
+ * square or portrait.
+ */
+.artGallery .artSlideStage {
+	aspect-ratio: 16 / 10;
+	background: #111;
+}
+
+
+/*
+ * Fit the complete image inside the stage without cropping.
+ */
+.artGallery .artSlideStage img {
+	display: block;
+	width: 100%;
+	height: 100%;
+	max-height: none;
+	object-fit: contain;
+	background: #111;
+}
+
+
+/*
+ * Captions live BELOW the fixed image stage, so adding text
+ * never changes the size or position of the artwork itself.
+ */
+.artGallery figcaption {
+	padding: 0.8rem 1.25rem 0.9rem;
+	background: var(--md-default-bg-color);
+	text-align: center;
+}
+
+/*
+ * On smaller screens, a slightly taller stage gives portrait
+ * images more useful space.
+ */
+@media (max-width: 760px) {
+
+	.artSlideshow.artGallery {
+		margin: 1.25rem auto;
+		border-radius: 14px;
+	}
+
+	.artGallery .artSlideStage {
+		aspect-ratio: 4 / 3;
+	}
+}
