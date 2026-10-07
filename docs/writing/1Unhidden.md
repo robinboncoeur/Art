@@ -62,7 +62,7 @@ What does it cost her? What does it cost them? What does everyone gain that none
 
 
 
-## 1 Are You Lost?
+## 1 🚪 Are You Lost?
 
 
 [![Charlotte][S01a]{ .artR width="400" }][S01a]
@@ -186,7 +186,7 @@ For now.
 
 
 
-## 2 Group Task
+## 2 📐 Group Task
 
 
 [![Charlotte][S02a]{ .artR width="440" }][S02a]
@@ -405,7 +405,7 @@ I could feel him watching me walk away.
 
 
 
-## 3 Wardrobe 🧵
+## 3 👗 Wardrobe
 
 
 [![Charlie][S03a]{ .artR width="460" }][S03a]
@@ -743,7 +743,7 @@ I turned slowly, and looked at him properly.
 
 “I know that,” I said. “Otherwise, I’d be wasting my time.”
 
-And then, I walked away, back toward Wardrobe, back into steam and cloth-dust and the woman who didn’t take strays.
+And then, I walked away, back toward Wardrobe, back to the steam and cloth-dust and the woman who didn’t take strays.
 
 <hr class="section-break strong" />
 
@@ -755,7 +755,7 @@ And then, I walked away, back toward Wardrobe, back into steam and cloth-dust an
 
 
 
-## 4 First Day 🧵
+## 4 💼 First Day
 
 
 [![Charlie][S04a]{ .artR width="460" }][S04a]
@@ -775,7 +775,7 @@ Time of year: December, January
 
 [ *Celeste* ]
 
-Charlie arrived ten minutes early. He stood outside Wardrobe as if the door had a sign: "For Authorised Personnel Only". There was no phone in his hand. He stood quietly waiting, his worn leather messenger bag at his feet, folded scrap of paper in one hand, fingers worrying the edge until it softened. Every now and then he glanced at the door — as if to check whether the world had changed its mind.
+Charlie arrived ten minutes early. He waited outside Wardrobe as if the door had a sign: "For Authorised Personnel Only". There was no phone in his hand. He stood quietly waiting, his worn leather messenger bag at his feet, folded scrap of paper in one hand, fingers worrying the edge until it softened. Every now and then he glanced at the door — as if to check whether the world had changed its mind.
 
 Inside, Wardrobe moved the way it always did: rails clacking softly as garments were shifted, the new steamer hissing like it meant business, the constant quiet conversation between fabric and hands.
 
@@ -889,7 +889,7 @@ Mara’s voice was flat.
 
 “And if you tear the fabric?”
 
-“The I’d have to patch it.” His features changed, as if he was thinking of the worst thing possible: “And a patch would show.”
+“Then I’d have to patch it.” His features changed, as if he was thinking of the worst thing possible: “And a patch would show.”
 
 Mara’s eyes narrowed slightly.
 
@@ -1536,7 +1536,7 @@ Mara waited.
 
 "We're just concerned for his future,” Lauren said finally. She looked thoughtful for a moment, then seemed to remember something. Reaching into her tote bag, she produced a folded piece of cloth, which she handed to Mara.
 
-"Charlie showed me this last night," she said. "The lace had separated from the cap. He'd sewn it back."
+"Charles showed me this last night," she said. "The lace had separated from the cap. He'd sewn it back."
 
 Mara's lips twitched slightly. She slowly unfolded it.
 
@@ -2623,7 +2623,7 @@ Mara's eyes sharpened.
 
 The blonde straightened.
 
-"I don't think it's inappropriate."
+"I don't think it's appropriate."
 
 Mara stood. 
 
