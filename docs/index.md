@@ -97,7 +97,7 @@ I am not writing it to chase a market. I am writing it because the subject matte
 
 <div
     class="artSlideshow"
-    data-gallery="https://media.seabrae.org/images/gallery/gallery.json">
+    data-gallery="https://media.seabrae.org/images/art/gallery/gallery.json">
 </div>
 
 <hr class="section-break strong" />
