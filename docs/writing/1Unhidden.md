@@ -2506,7 +2506,6 @@ Time of year: March. Note: Charlie's late puberty intrudes, Charlie's solution: 
 
 [![Charlie][S12a]{ .artR width="460" }][S12a]
 
-<!--
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
@@ -2517,6 +2516,7 @@ Time of year: March. Note: Charlie's late puberty intrudes, Charlie's solution: 
 </div>
 
 
+<!--
 This was Scene 12 — "The Ledger".
 Time of year: End of April
 -->
@@ -3040,7 +3040,7 @@ And the ledger sat confidently between pincushion and shears, vindicated.
 ## 12 🧵 Touch
 
 [![Sarah][S12b]{ .artR width="460" }][S12b]
-<!--
+
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
@@ -3051,6 +3051,7 @@ And the ledger sat confidently between pincushion and shears, vindicated.
 </div>
 
 
+<!--
 Time of year:
 -->
 
@@ -3241,7 +3242,7 @@ Lauren's hand.
 
 
 ## 13 💄 Not Boutique
-<!--
+
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
@@ -3252,6 +3253,7 @@ Lauren's hand.
 </div>
 
 
+<!--
 Time of year
 -->
 
