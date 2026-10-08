@@ -67,17 +67,18 @@ What does it cost her? What does it cost them? What does everyone gain that none
 
 [![Charlotte][S01a]{ .artR width="400" }][S01a]
 
-<!--
+
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <div class="music-label">Scene One</div>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Scene01-CelestesGirl.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/Chapter01-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
 </div>
 
+<!--
 Time of year: Late November
 -->
 
@@ -191,16 +192,18 @@ For now.
 
 [![Charlotte][S02a]{ .artR width="440" }][S02a]
 
-<!--
+
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <div class="music-label">Scene Two</div>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Scene02-CelestesGirl.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/Chapter02-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
 </div>
+
+<!--
 Time of year: Late November
 -->
 
@@ -410,18 +413,20 @@ I could feel him watching me walk away.
 
 [![Charlie][S03a]{ .artR width="460" }][S03a]
 
-<!--
+
 <div class="music-card music-card--with-art">
   <img src="/assets/images/story/Scene03a.jpg" alt="Charlie" class="music-art">
 
   <div class="music-content">
     <div class="music-label">Scene Three</div>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Scene03-CelestesGirl.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/Chapter03-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
 </div>
+
+<!--
 Time of year: December, January
 -->
 
@@ -765,7 +770,7 @@ And then, I walked away, back toward Wardrobe, back to the steam and cloth-dust 
   <div class="music-content">
     <div class="music-label">Scene Four</div>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Scene02-CelestesGirl.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/Chapter04-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -1086,17 +1091,18 @@ His shoulders seemed to drop, the tiniest bit.
 
 [![Charlie][S05a]{ .artR width="460" }][S05a]
 
-<!--
+
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <div class="music-label">Scene Five</div>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Scene05-CelestesGirl.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/Chapter05-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
 </div>
 
+<!--
 Time of year: December, January
 -->
 
@@ -1274,9 +1280,19 @@ He rose and took the sleeve from her.
 
 
 
-## 6 Spaces ✨
+## 6 ✨ Spaces
 
 [![Charlie][S06a]{ .artR width="460" }][S06a]
+
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <div class="music-label">Scene Five</div>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter06-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
 
 <!--
 Time of year: February
@@ -1445,11 +1461,22 @@ And Wardrobe cautiously resumed breathing wool and chalk dust.
 
 
 
-## 7 Lauren ✨
+## 7 🪡 Lauren
 
 [![Charlie][S07a]{ .artR width="460" }][S07a]
 
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <div class="music-label">Scene Five</div>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter07-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
 <!--
+
 TIME: February
 
 APPEARING / WHAT WE KNOW:
@@ -1664,10 +1691,20 @@ And Lauren nodded.
 
 
 
-## 8 Morning Tea ✨
+## 8 ☕ Morning Tea
 
 
 [![Charlie][S08a]{ .artR width="460" }][S08a]
+
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <div class="music-label">Scene Five</div>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter08-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
 
 <!--
 This was Scene 8 — "Infrastructure".
@@ -1850,9 +1887,19 @@ I already knew that was unrealistic.
 
 
 
-## 9 Signal, not Noise ✨
+## 9 🌺 Signal, not Noise
 
 [![Charlie][S09a]{ .artR width="460" }][S09a]
+
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <div class="music-label">Scene Five</div>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter09-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
 
 <!--
 This was Scene 9 — "Noise or Signal".
@@ -1887,7 +1934,7 @@ The envelope was plain and official-looking. Lauren didn’t open it, but left i
 
 She slid the printed sheet forward.
 
-On it was a photograph of a Faire actress Sarah wearing the new jacket prototype. Sarah’s arms were raised in a dramatic pose, the kind that usually tore seams under the arm and split closures at the waist. The jacket had clearly held: clean line, no gaping, no strain.
+On it was a photograph of a Faire actress wearing the new jacket prototype. Her arms were raised in a dramatic pose, the kind that usually tore seams under the arm and split closures at the waist. The jacket had clearly held: clean line, no gaping, no strain.
 
 Below the image Lauren had typed a legend:
 
@@ -2118,9 +2165,19 @@ The door clicked shut.
 
 
 
-## 10 Not My First Choice 👗
+## 10 👗 Not My First Choice
 
 [![Charlie][S10a]{ .artR width="460" }][S10a]
+
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <div class="music-label">Scene Five</div>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter10-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
 
 <!--
 TIME: March
@@ -2459,6 +2516,16 @@ Time of year: March. Note: Charlie's late puberty intrudes, Charlie's solution: 
 
 
 ## 11 The Ledger 📒
+
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <div class="music-label">Scene Five</div>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter11-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
 
 <!--
 [![Charlie][S12a]{ .artR width="460" }][S12a]
@@ -2984,9 +3051,21 @@ And the ledger sat confidently between pincushion and shears, vindicated.
 
 ## 12 Sarah
 
-
 [![Sarah][S12b]{ .artR width="460" }][S12b]
 
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <div class="music-label">Scene Five</div>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter12-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<!--
+Time of year:
+-->
 
 [ *Sarah* ]
 
@@ -3175,6 +3254,20 @@ Lauren's hand.
 
 
 ## 13 Not Boutique
+
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <div class="music-label">Scene Five</div>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter13-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<!--
+Time of year
+-->
 
 [ *Celeste* ]
 
