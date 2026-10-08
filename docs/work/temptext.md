@@ -327,7 +327,7 @@ And yes: **I'd leave that diclofenac sitting where it is tonight unless a clinic
 
 
 
-## ^-Hourly
+## 6-Hourly
 
 [![Moi][St00]{ .artL width="160" }][St00]
 
