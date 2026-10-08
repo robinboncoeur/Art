@@ -6552,7 +6552,7 @@ Lauren set the basin at my feet.
 
 “I told you I don’t like people touching my feet.”
 
-“I’m not ‘people’,” she said. “Look, you held me together when I thought I was going to come apart at the seams. Please let me do this much.”
+“I’m not ‘people’,” she said. “Look, you've been on your feet all day. They need care. Let me look after them.”
 
 One look into her eyes and I knew resistance would be a silly, egotistical gesture.
 
@@ -6630,7 +6630,7 @@ Oh. Oh.
 
 I bit my lower lip.
 
-Oh, Lauren.
+*Oh, Lauren.*
 
 She glanced up at my face, a faint, shy pride in her eyes that didn’t quite match the confidence in her hands. Her fingertips traced lightly down my skin, a hint of nails in the mix that made my toes curl for reasons that had nothing to do with a day standing on concrete.
 
@@ -6676,7 +6676,7 @@ Her breath tickled my cheek. I sighed, the sound caught between us.
 
 “Lauren…” My breathing had turned into a series of light, uneven pulls. “What are you…?”
 
-“Being brave,” she said quietly. “And hoping you want that too.”
+“Being brave,” she said quietly. “And hoping you still want me to.”
 
 I answered her by kissing her back, properly this time. No half-measures. The way she responded — relief, hunger, care all tangled — made my head spin.
 
@@ -6732,7 +6732,7 @@ It wasn’t quite a question, not quite a statement. I cupped her face, thumb br
 
 She kissed me again, slower this time.
 
-“Okay,” she murmured. “Then you lead.”
+“Okay,” she murmured. “Show me.”
 
 She took my hand and led me down the hallway to my bedroom, the same hallway where I’d first held her.
 
@@ -6756,20 +6756,11 @@ She nodded against my skin.
 
 “Very,” she said. “You?”
 
-I thought of all the schemes I’d made to keep her safe, even from myself. Of how quickly they’d evaporated when faced with her hunger and my own.
-
 “Happy,” I said. The word felt strange in my mouth. “Terrified. But happy.”
 
 She hummed, a tiny, satisfied sound.
 
 And drifted off before I did.
-
-
-
-
-
-
-
 
 <hr class="section-break strong" />
 
