@@ -89,9 +89,9 @@ Cinematic medium close-up portrait of a young woman with soft, natural features 
 
 ### Voices
 
-1. Celeste Shelley     - Freya   [ElevenLabs-VoiceID: u8ADrbquiJqufR9XMtb8] 
-2. Charlotte Rossignol - Daisy   [ElevenLabs-VoiceID:]
-3. Sarah 
+1. Celeste Shelley     - Freya      [ElevenLabs-VoiceID: u8ADrbquiJqufR9XMtb8] 
+2. Charlotte Rossignol - Daisy      [ElevenLabs-VoiceID:]
+3. Sarah               - Valory B   [ElevenLabs-VoiceID:]
 4. Lauren
 5. Brittany
 6. Mara
@@ -110,6 +110,6 @@ Cinematic medium close-up portrait of a young woman with soft, natural features 
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧👟 …
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 
 
-rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/audio/cg/
+rsync -avh --progress --exclude='.DS_Store' ~/Desktop/toserver/ i5Seabrae:~/seamedia/public/audio/cg/
 
 /-->
