@@ -56,9 +56,8 @@ nav:
 
   - Writing:
       - writing/index.md
-      - 💞 Celeste's Girl (Orig): writing/1CG-2ndEd.md
-      - 💞 Unhidden (CG-Rev): writing/1Unhidden.md
-      - 📚 The Deep End.v1: writing/2DE-1stEd.md
+      - 💞 Unhidden: writing/1Unhidden.md
+      - 📚 The Deep End: writing/2DE-1stEd.md
       - 🥰 Write Emotions: writing/B-Emotions.md
       - Writing Metaphors: writing/C-Metaphors.md
       - 🏔 Chronology 🏔: writing/D-Chronology.md
@@ -70,6 +69,7 @@ nav:
   - Discussion:
       - discuss/index.md
       - 📚 Celeste's Girl.v1: discuss/1CG-1stEd.md
+      - 💞 Celeste's Girl.v2: discuss/1CG-2ndEd.md
       - 📚 Celeste's Girl.v3: discuss/1CG-3rdEd.md
       - Design Structures: discuss/A-Structure.md
       - Canon-CelestesGrl: discuss/E-StoryCanon.md
