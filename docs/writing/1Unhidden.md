@@ -410,15 +410,11 @@ I could feel him watching me walk away.
 
 ## 3 👗 Wardrobe
 
-
 [![Charlie][S03a]{ .artR width="460" }][S03a]
 
-
 <div class="music-card music-card--with-art">
-  <img src="/assets/images/story/Scene03a.jpg" alt="Charlie" class="music-art">
-
   <div class="music-content">
-    <div class="music-label">Scene Three</div>
+    <div class="music-label">Scene Four</div>
     <audio controls preload="metadata" class="music-player">
       <source src="https://media.seabrae.org/audio/cg/Chapter03-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
