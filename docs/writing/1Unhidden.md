@@ -6105,11 +6105,11 @@ And then, did my usual inventory. Charlie — he's fine, settling in at Celeste'
 
 'Wardrobe' led to 'grommets', which led to Mara's face at the steamer throwing a 'tantie' and how it got fixed, which led to who fixed it.
 
-Sarah.
+*Sarah.*
 
 Sarah, who also did "darling sandwich geometry" and whose lifestyle insisted on "chaos is to be kept at bay."
 
-That Sarah.
+*That Sarah.*
 
 The one who gave delicious hugs.
 
@@ -6125,7 +6125,7 @@ Homes with long driveways and longer mortgages.
 
 Homes that, like the one I had just left, had hinges and latches and drawers that were given a quick "I'll do it properly later" until the whole house felt McGuivered.
 
-And then, there's Sarah's.
+And then, there was Sarah's.
 
 If things didn't match, it didn't matter: things were clean and working and *loved*.
 
@@ -6143,7 +6143,7 @@ I glanced at the clock.
 
 I turned to go back to the bedroom.
 
-"Nope!" Sarah was shaking her head. "Wardrobe can wait. You have a cup of tea and breakfast to address first."
+"Nope!" Sarah was shaking her head. "Wardrobe can wait. You have a cup of tea and breakfast to attend to first."
 
 "But Mara—"
 
@@ -6177,7 +6177,7 @@ I nodded.
 
 "Why didn't you say so before?"
 
-"Your house. I don't make the rules, Sarah."
+"Your home. I don't make the rules, Sarah."
 
 "You share the space," she corrected with a meaningful look. "Something bothers you, you tell me. Please."
 
@@ -6185,7 +6185,7 @@ I felt like I'd stepped into a place without anything familiar. I studied her fa
 
 "You're amazing."
 
-She grinned.
+She grinned and got up.
 
 "Well, 'amazing' needs to get dressed."
 
@@ -6229,15 +6229,11 @@ Then she went over.
 
 "Have a look?"
 
-She had a look.
+Lily held out her hand. 
 
-And gave a nod.
+Mara had a look and gave a nod.
 
-Lily's eyes shone.
-
-She held out her hand. 
-
-Mara dropped some grommets in them.
+She turned Lily's palm upward and dropped some grommets in them.
 
 By noon, all the grommets on the finished dresses had been replaced.
 
@@ -6259,15 +6255,11 @@ She looked over at me.
 
 In the bread aisle, she gave me an odd look.
 
-"There's something with Charlie these days."
+"Do you think there might be something with Charlie these days?"
 
 I put the Helga's back on the shelf. The rustic baguette should be enough bread.
 
-"Oh?"
-
-Sarah was staring at me.
-
-"No?"
+I turned to see Sarah staring at me.
 
 I returned her stare.
 
@@ -6301,13 +6293,15 @@ Sarah tipped her chin.
 
 Her eyes widened.
 
-"I didn't give you a key yet?" She bit her lower lip as she fumbled in her purse.
+"I haven't given you a key yet?" She bit her lower lip as she fumbled in her purse.
 
 I was putting the leafy greens into the crisper when she came into the kitchen.
 
 "For you."
 
-In her hand was a Minnie Mouse key ring with a brand-new key.
+In her hand was a brand-new key
+
+On a Minnie Mouse key ring.
 
 I looked at it, at her spread palm, at her open arms and finally, her warm eyes.
 
@@ -6316,8 +6310,6 @@ I looked at it, at her spread palm, at her open arms and finally, her warm eyes.
 I gently lifted the key from her hand and felt my eyes go a bit wet.
 
 "Don't lose it. It's my favourite Minnie Mouse keyring."
-
-I closed my fingers around the key.
 
 <hr class="section-break strong" />
 
