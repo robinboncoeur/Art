@@ -2,10 +2,11 @@
 
 ## Celeste
 
-[Quiet, reflective narration] Lauren came back a fortnight later, on a warm Tuesday morning. Tuesdays were the days Mara pretended she had time. She didn’t, of course. Mara never did. But Tuesdays were when she scheduled those "need-to-get-done" tasks. The cutting table was clear, the mannequin was dressed in half a bodice, and the new jacket prototype sat like a dare. Lauren stepped in with nothing but a flat folder under her arm and a tote on her shoulder. She looked neat, composed, and slightly sharpened around the edges. Mara glanced up.
-[Dry] “What now,” she said drily. If she thought Lauren was an inconvenience, she hid it well.
+[Quiet, reflective narration] Lauren came back a fortnight later, on a warm Tuesday morning. Tuesdays were the days Mara pretended she had time. She didn’t, of course. Mara never did. But Tuesdays were when she scheduled those "need-to-get-done" tasks. The cutting table was clear, the mannequin was dressed in half a bodice, and the new jacket prototype sat like a dare. Lauren stepped in with nothing but a flat folder under her arm and a tote on her shoulder. She looked neat, composed, and slightly sharpened around the edges. 
+Mara glanced up.
+[Drily] “What now,” she said drily.
 Lauren didn’t waste time warming the air.
-“His father—"
+[Clearly] “His father—"
 She stopped. Mara’s mouth tightened.
 [Clearly] “I told him Charlie had made other plans,” Lauren said. “Roger didn't take it well.”
 Mara’s eyes flicked to the folder.
@@ -63,8 +64,8 @@ Mara's eyebrows barely twitched.
 
 
 Mara gave a single nod, staring at the envelope.
-[Clearly] "This is for me."
-[Calmly] "It is." Lauren pulled out a folded document. “Charlie and I have talked it over,” she continued, still calm, “he wants to stay here to learn the trade. I'm happy that there is a future in it. *For him.* This is real.”
+[Clearly] "I take it this is for me."
+[Calmly] "It is." Lauren pulled out a folded document. “Charlie  wants to stay here to learn the trade. I'm happy that there is a future in it. *For him.* This is real.”
 She handed Mara the document.
 Mara unfolded the paper carefully.
 [Clearly] “You are asking for commitment.”
