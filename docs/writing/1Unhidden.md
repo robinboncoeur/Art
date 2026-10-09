@@ -60,7 +60,6 @@ What does it cost her? What does it cost them? What does everyone gain that none
 
 
 
-
 ## 1 🚪 Are You Lost?
 
 
@@ -3478,8 +3477,17 @@ A girl with a German accent — one of the Faire palace actresses who worked wit
 
 ## 14 No Room
 
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter14-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
 <!--
-Time of year: March
+Time of year:
 -->
 
 [ *Charlie* ]
@@ -3651,6 +3659,19 @@ It was weird how at that moment, that huge dining room felt small.
 
 
 ## 15 The Missing Spark 📱
+
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter15-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<!--
+Time of year:
+-->
 
 [ *Sarah* ]
 
@@ -3971,6 +3992,19 @@ Then he stepped back, gave me one last nod, and walked away.
 
 ## 16 A Door That Locks
 
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter16-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<!--
+Time of year:
+-->
+
 [ *Lauren* ]
 
 Wardrobe had always been busy in the way a good kitchen was busy — productive noise, purposeful movement, women speaking in shorthand because competence didn’t need speeches.
@@ -4217,8 +4251,20 @@ I put my bag in my car and got in.
 
 ## 17 Tonight is Sorted
 
-
 [![Charlie][S21b]{ .artR width="460" }][S21b]
+
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter17-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<!--
+Time of year:
+-->
 
 [ *Celeste* ]
 
@@ -4456,6 +4502,19 @@ I heard his door close.
 
 ## 18 Some Doors Lock 🚪
 
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter18-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<!--
+Time of year:
+-->
+
 [ *Lauren* ]
 
 Sarah’s home wasn’t imposing, or fashionable, or striking. It was… contained.
@@ -4641,16 +4700,17 @@ Sarah moved to the door. Then she stopped.
 
 ## 19 How'd You Go?
 
-<!--
-<div class="music-card">
-  <div>
-    <p>Sketch 15—Waterfall</p>
+<div class="music-card music-card--with-art">
+  <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-    	<source src="https://media.seabrae.org/audio/sk/Sketch15.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/Chapter19-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
 </div>
+
+<!--
+Time of year:
 -->
 
 [ *Celeste* ]
@@ -4872,6 +4932,19 @@ I'll scrub them."
 
 ## 20 Do Not Follow Her 🪡
 
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter20-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<!--
+Time of year:
+-->
+
 [ *Lauren* ]
 
 The workroom was already busy by eight-thirty. So busy that Tahlia had to open a window to let the steam out.
@@ -5062,6 +5135,19 @@ And smiled at her.
 
 
 ## 21 💞 Test Fit
+
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter21-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<!--
+Time of year:
+-->
 
 [ *Lauren* ]
 
@@ -5373,6 +5459,19 @@ Neither did Sarah.
 
 ## 22 Crushing
 
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter22-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<!--
+Time of year:
+-->
+
 [ *Celeste* ]
 
 It was raining — the sort of rain that colludes with the wind to make a mockery of umbrellas — when I left the Deakin Waterfront campus in Geelong. My little Swift bravely shouldered its way along the B100 and then the sun suddenly burst through the clouds, and the rain stopped.
@@ -5598,6 +5697,19 @@ When he saw what I held in my hand, his face suddenly went from red to white.
 
 
 ## 23 Ready to Listen
+
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter23-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<!--
+Time of year:
+-->
 
 [ *Celeste* ]
 
@@ -5841,11 +5953,23 @@ I could feel his eyes on me as I went to my room.
 
 
 
+
 ## 24 Professional
 
-
-
 [ *Charlie* ]
+
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter24-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<!--
+Time of year:
+-->
 
 Not sure why, but the creak of the front door sounded different that evening. Celeste kicked off her shoes and deposited the green rip-stop nylon Woolies bags on the table. A Granny Smith apple dropped out, rolling desperately for the edge of the table and freedom.
 
@@ -6097,6 +6221,19 @@ And then, typed 'yes'.
 
 ## 25 💞 Minnie Mouse
 
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter25-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<!--
+Time of year:
+-->
+
 [ *Lauren* ]
 
 I woke before dawn, and studied the still somewhat unfamiliar sheers at the window and realised I'd slept the night through.
@@ -6322,6 +6459,20 @@ I gently lifted the key from her hand and felt my eyes go a bit wet.
 
 ## 26 💋 Always Tomorrow
 
+
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter26-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<!--
+Time of year:
+-->
+
 [ *Sarah* ]
 
 I heard her place her keys into the bowl in the kitchen drawer.
@@ -6503,6 +6654,19 @@ I held her and felt her warmth.
 
 
 ## 27 💞 Care for Sore Feet
+
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter27-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<!--
+Time of year:
+-->
 
 [ *Sarah* ]
 
