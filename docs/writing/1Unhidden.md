@@ -6438,7 +6438,7 @@ I was putting the leafy greens into the crisper when she came into the kitchen.
 
 "For you."
 
-In her hand was a brand-new key
+In her hand was a brand-new key.
 
 On a Minnie Mouse key ring.
 

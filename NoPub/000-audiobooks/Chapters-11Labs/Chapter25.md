@@ -1,13 +1,13 @@
 # Chapter 25
 
-## Celeste
+## Lauren
 
 [Quiet, reflective narration] I woke before dawn, and studied the still somewhat unfamiliar sheers at the window and realised I'd slept the night through.
 And then, did my usual inventory. Charlie — he's fine, settling in at Celeste's. Work — no home health visits today, only Wardrobe.
 'Wardrobe' led to 'grommets', which led to Mara's face at the steamer throwing a 'tantie' and how it got fixed, which led to who fixed it.
-*Sarah.*
+[softly] *Sarah.* 
 Sarah, who also did "darling sandwich geometry" and whose lifestyle insisted on "chaos is to be kept at bay."
-*That Sarah.*
+[gently] *That Sarah.*
 The one who gave delicious hugs.
 My eyes lazily took in the coziness of the room. Tidy, without being anal. A dismantled, cleaned Dyson vacuum cleaner sat with other appliances near a power strip. She still didn't want me to bring my phone into my bedroom "let's let the dust settle a bit more."
 I snuggled into the linen sheets and thought of the homes I'd carried medicine and dressings bags into.
@@ -24,10 +24,10 @@ Sarah glanced up at me, and her lips pressed into a little smile.
 I glanced at the clock.
 "Oh dear. I suppose I did."
 I turned to go back to the bedroom.
-"Nope!" Sarah was shaking her head. "Wardrobe can wait. You have a cup of tea and breakfast to attend to first."
+[clearly] "Nope!" Sarah was shaking her head. "Wardrobe can wait. You have a cup of tea and breakfast to attend to first."
 "But Mara—"
 Sarah's smile broadened.
-"—understands," Sarah finished for me, and pointed at my cup. "Tea."
+"—understands," Sarah finished for me, and pointed at my cup. [clearly] "Tea."
 "I'm not going to let this become a habit," I said hurriedly.
 Sarah waved it aside.
 "Wardrobe isn't worried."
@@ -55,14 +55,14 @@ My heart didn't.
 ---
 
 Mara was at the rails with Charlie, clipboard in hand, inspecting laces on the finished costumes when we arrived. I'd just shoved my tote into my cubicle when Mara called me over.
-"Charlie pointed something out to me this morning." She held up one of the dresses. A bit of rust had started to appear on one of the grommets.
+[clearly] "Charlie pointed something out to me this morning." She held up one of the dresses. A bit of rust had started to appear on one of the grommets.
 I grimaced.
 "That's not good."
 "It hasn't spread into the material," Mara said. "We will need to replace them immediately before it does. Please contact your supplier, Lauren."
 I gave her a quick nod and took my phone out of my hip pocket. Mara held the offending grommet as I took a picture.
 Charlie was already busy taking the finished dresses off the rails and placing them on his repair corner table.
 Sarah was at the hardware cupboard going through drawers.
-"Hey, there's these stainless steel grommets—"
+[clearly] "Hey, there's these stainless steel grommets—"
 I frowned.
 "That's what *these* were meant to be!"
 The door creaked open and Bree appeared with Lily in tow.
@@ -91,7 +91,7 @@ I returned her stare.
 "What do you mean?"
 She gave a little shrug then and looked away.
 "It's probably nothing."
-"No, what *do* you mean?" I chucked a box of English Breakfast tea into the trolley. "Do you think he's in love or something?"
+[clearly] "No, what *do* you mean?" I chucked a box of English Breakfast tea into the trolley. "Do you think he's in love or something?"
 "That's old news," she snorted. "No, there's something else, Lauren."
 A cold sea breeze blew through the car as we climbed in. 
 I felt Sarah's eyes on me again.
@@ -106,7 +106,7 @@ Her eyes widened.
 "I haven't given you a key yet?" She bit her lower lip as she fumbled in her purse.
 I was putting the leafy greens into the crisper when she came into the kitchen.
 "For you."
-In her hand was a brand-new key
+In her hand was a brand-new key.
 On a Minnie Mouse key ring.
 I looked at it, at her spread palm, at her open arms and finally, her warm eyes.
 "Take it."
