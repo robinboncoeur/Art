@@ -1,6 +1,6 @@
 # Chapter 9
 
-## Text
+## Celeste
 
 [Quiet, reflective narration] Lauren came back a fortnight later, on a warm Tuesday morning. Tuesdays were the days Mara pretended she had time. She didn’t, of course. Mara never did. But Tuesdays were when she scheduled those "need-to-get-done" tasks. The cutting table was clear, the mannequin was dressed in half a bodice, and the new jacket prototype sat like a dare. Lauren stepped in with nothing but a flat folder under her arm and a tote on her shoulder. She looked neat, composed, and slightly sharpened around the edges. Mara glanced up.
 [Dry] “What now,” she said drily. If she thought Lauren was an inconvenience, she hid it well.

@@ -1,5 +1,7 @@
 # Chapter 12
+
 ## Sarah
+
 [clearly] I hate public transport. 
 I normally got a lift to the Faire with Lily, but her shift didn't start until nine. Thankfully, the bus was almost empty when I got on except for some long-haired person in the back. I slid into a seat and waited for the throng of tourists to board at the next ten stops. They never came. One of the other actresses — one I didn't know and didn't care to, either — got on near the edge of town. 
 She didn't appear to want to chat, although she seemed to recognise me. I was fine with that.

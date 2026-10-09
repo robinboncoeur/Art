@@ -1,6 +1,6 @@
 # Chapter 11
 
-## Text
+## Celeste
 
 Mara put a ledger on the table one morning.
 Thick. Hard cover. The kind that you'd worry about offending if you dropped it. It claimed a spot between pincushion and shears on the repairs table, beside the tin of chalk, accompanied by a wooden stool that hadn't seen varnish in decades.

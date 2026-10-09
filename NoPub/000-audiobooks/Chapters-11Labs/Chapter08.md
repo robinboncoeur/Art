@@ -1,6 +1,6 @@
 # Chapter 8
 
-## Text
+## Celeste
 
 [Quiet, reflective narration] Lauren came back a week later looking tired, because mothers always do.
 But she didn’t bring keys to crush in her palm.

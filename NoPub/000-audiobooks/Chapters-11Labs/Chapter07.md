@@ -1,6 +1,6 @@
 # Chapter 7
 
-## Text
+## Celeste
 
 [Quiet, reflective] I was at the rail tagging garment bags when Lauren Rossignol arrived.
 [Quiet, reflective] She didn't come to Wardrobe like a mother arriving at a principal's office. Instead, she stepped into the room respectfully, like someone realising she'd entered a place where skilled hands were at work. A canvas tote on her shoulder and her car keys in her hand, her gaze swept the room, at the rails, the mannequin wearing Lily's palace dress with pins in place.

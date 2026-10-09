@@ -1,6 +1,6 @@
 # Chapter 10
 
-## Text
+## Celeste
 
 [clearly] “Look at this.”
 Mara slid a thin archival print-out across the cutting table. The image was a plate from an old catalogue: eighteenth century, late enough that it carried a Georgian neatness, early enough that it still remembered softness. A woman’s garment, fitted through the back, generous through the skirt, closures designed for working hands. 
