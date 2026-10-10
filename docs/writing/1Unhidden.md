@@ -6928,7 +6928,7 @@ And drifted off before I did.
 
 
 
-## 28 Being Written
+## 28 *Being Written*
 
 <div class="music-card music-card--with-art">
   <div class="music-content">
@@ -6944,7 +6944,7 @@ Time of year:
 -->
 
 
-[Being Written... 09-Oct-2026](W_Edits1.md)
+[*Being Written...* 09-Oct-2026](W_Edits1.md)
 
 
 
@@ -7674,14 +7674,14 @@ For the first time since Queensland had become a solid thing on the calendar, I 
 
 
 
-## 56 Flying North, as Charli 🛫
+## xx Flying North, as Charli 🛫
 
 [![Charlie][S56a]{ .artR width="460" }][S56a]
 
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter56-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/Chapterxx-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
