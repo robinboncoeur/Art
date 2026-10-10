@@ -15,11 +15,9 @@
 
 ## Emotions Overview
 
+[![Our Emily][Ts00]{ .artR width="280" }][Ts00]
 
-[![The Writer][St00]{ .artR width="460" }][St00]
-
-
-Oh, that is not a massive favour at all — that is an *excellent* idea 🌿. And yes, I can see exactly where the problem begins. You start with something concrete:  
+Oh, that is an *excellent* idea 🌿. I can see exactly where the problem begins. You start with something concrete:  
 > Her mouth curved pleasantly.
 
 Then drift toward interpretation:  
@@ -56,9 +54,7 @@ I’ll also show you where the line starts tipping into “thesis” or abstract
 
 ## 1. Happiness
 
-
-[![img][St03a]{ .artR width="460" }][St03a]
-
+[![Leah][S26c]{ .artR width="400" }][S26c]
 
 **Happiness / pleasure / ease**
 
@@ -114,18 +110,9 @@ Those aren’t wrong, exactly, but they step away from the body.
 
 
 
-
-
-
-
-
-
-
 ## 2. Delight / amusement
 
-
-[![img][St05a]{ .artR width="460" }][St05a]
-
+[![img][Std1]{ .artR width="460" }][Std1]
 
 ### Common physical tells
 
@@ -168,15 +155,9 @@ Those aren’t wrong, exactly, but they step away from the body.
 
 
 
-
-
-
-
 ## 3. Relief
 
-
-[![img][St06a]{ .artR width="460" }][St06a]
-
+[![img][St06]{ .artR width="460" }][St06]
 
 ### Common physical tells
 
@@ -219,16 +200,9 @@ Those aren’t wrong, exactly, but they step away from the body.
 
 
 
-
-
-
-
-
 ## 4. Nervousness / unease
 
-
-[![img][St07a]{ .artR width="460" }][St07a]
-
+[![Not the Product][St12]{ .artR width="460" }][St12]
 
 ### Common physical tells
 
@@ -275,16 +249,9 @@ Those aren’t wrong, exactly, but they step away from the body.
 
 
 
-
-
-
-
-
 ## 5. Embarrassment
 
-
-[![img][St08a]{ .artR width="460" }][St08a]
-
+[![img][St08]{ .artR width="460" }][St08]
 
 ### Common physical tells
 
@@ -328,13 +295,9 @@ Those aren’t wrong, exactly, but they step away from the body.
 
 
 
-
-
 ## 6. Shame / being exposed
 
-
-[![img][St09a]{ .artR width="460" }][St09a]
-
+[![img][St09]{ .artR width="460" }][St09]
 
 This is heavier than embarrassment. More internal collapse.
 
@@ -381,16 +344,10 @@ This is heavier than embarrassment. More internal collapse.
 
 
 
-
-
-
-
-
-
 ## 7. Sadness
 
 
-[![img][St10a]{ .artR width="460" }][St10a]
+[![img][St10]{ .artR width="460" }][St10]
 
 
 ### Common physical tells
@@ -443,7 +400,7 @@ This is heavier than embarrassment. More internal collapse.
 ## 8. Grief / deep hurt
 
 
-[![img][St11a]{ .artR width="460" }][St11a]
+[![img][St11]{ .artR width="460" }][St11]
 
 
 ### Common physical tells
@@ -488,7 +445,7 @@ This is heavier than embarrassment. More internal collapse.
 ## 9. Fear
 
 
-[![img][St12a]{ .artR width="460" }][St12a]
+[![img][St12]{ .artR width="460" }][St12]
 
 
 
@@ -543,7 +500,7 @@ This is heavier than embarrassment. More internal collapse.
 ## 10. Anger — hot
 
 
-[![img][St13a]{ .artR width="460" }][St13a]
+[![img][St13]{ .artR width="460" }][St13]
 
 
 ### Common physical tells
@@ -601,7 +558,7 @@ That last one is excellent for strong women characters, incidentally.
 ## 11. Anger — cold / controlled
 
 
-[![img][St14a]{ .artR width="460" }][St14a]
+[![img][St14]{ .artR width="460" }][St14]
 
 
 ### Common physical tells
@@ -647,7 +604,7 @@ That last one is excellent for strong women characters, incidentally.
 ## 12. Irritation
 
 
-[![img][St15a]{ .artR width="460" }][St15a]
+[![img][St15]{ .artR width="460" }][St15]
 
 
 ### Common physical tells
@@ -689,7 +646,7 @@ That last one is excellent for strong women characters, incidentally.
 ## 13. Affection / tenderness
 
 
-[![img][St16a]{ .artR width="460" }][St16a]
+[![img][St16]{ .artR width="460" }][St16]
 
 
 ### Common physical tells
@@ -740,7 +697,7 @@ That one has real emotional weight.
 ## 14. Longing / wanting
 
 
-[![img][St17a]{ .artR width="460" }][St17a]
+[![img][St17]{ .artR width="460" }][St17]
 
 
 ### Common physical tells
@@ -783,7 +740,7 @@ That one has real emotional weight.
 ## 15. Suspicion / scrutiny
 
 
-[![img][St18a]{ .artR width="460" }][St18a]
+[![img][St18]{ .artR width="460" }][St18]
 
 
 ### Common physical tells
@@ -827,7 +784,7 @@ That one has real emotional weight.
 ## 16. Confusion / uncertainty
 
 
-[![img][St19a]{ .artR width="460" }][St19a]
+[![img][St19]{ .artR width="460" }][St19]
 
 
 ### Common physical tells
@@ -868,7 +825,7 @@ That one has real emotional weight.
 ## 17. Determination / resolve
 
 
-[![img][St20a]{ .artR width="460" }][St20a]
+[![img][St20]{ .artR width="460" }][St20]
 
 
 ### Common physical tells
@@ -908,7 +865,7 @@ That one has real emotional weight.
 ## 18. Defensiveness
 
 
-[![img][St21a]{ .artR width="460" }][St21a]
+[![img][St21]{ .artR width="460" }][St21]
 
 
 ### Common physical tells
@@ -947,7 +904,7 @@ That one has real emotional weight.
 ## Useful by body-part
 
 
-[![img][St22a]{ .artR width="460" }][St22a]
+[![img][St22]{ .artR width="460" }][St22]
 
 
 Sometimes it helps to think less in “emotion words” and more in **which part of the body is telling the truth**.
@@ -1047,7 +1004,7 @@ Sometimes it helps to think less in “emotion words” and more in **which part
 ## Interruption
 
 
-[![img][St23a]{ .artR width="460" }][St23a]
+[![img][St23]{ .artR width="460" }][St23]
 
 
 🌿 Something gets disrupted:  
@@ -1138,7 +1095,7 @@ choosing to stay*
 ## Interruption Types 
 
 
-[![img][St24a]{ .artR width="460" }][St24a]
+[![img][St24]{ .artR width="460" }][St24]
 
 
 *(Micro-Calibration)*
@@ -1232,7 +1189,7 @@ choosing to stay*
 ## Swaps
 
 
-[![img][St25a]{ .artR width="460" }][St25a]
+[![img][St25]{ .artR width="460" }][St25]
 
 
 I’m going to suggest swaps that keep your rhythm and don’t “rewrite the scene,” just diversify the somatics.
@@ -1359,7 +1316,7 @@ Each keeps your sentence structure almost identical.
 ## Pattern tweaks
 
 
-[![img][St27a]{ .artR width="460" }][St27a]
+[![img][St27]{ .artR width="460" }][St27]
 
 
 **Pattern tweaks that will do a lot**
@@ -1412,7 +1369,7 @@ But even without that: with the swaps above, this excerpt will instantly feel mo
 ## Transformation examples
 
 
-[![img][St28a]{ .artR width="460" }][St28a]
+[![img][St28]{ .artR width="460" }][St28]
 
 
 Here’s the kind of conversion you’re after.
@@ -1490,7 +1447,7 @@ He could not seem to lift his gaze.
 ## A very useful principle
 
 
-[![img][St29a]{ .artR width="460" }][St29a]
+[![img][St29]{ .artR width="460" }][St29]
 
 
 When stuck, run the emotion through this sequence:
@@ -1557,7 +1514,7 @@ That sort of thing is gold.
 ## Compact Starter Bank
 
 
-[![img][St30a]{ .artR width="460" }][St30a]
+[![img][St30]{ .artR width="460" }][St30]
 
 
 **for your own notes**
@@ -1641,7 +1598,7 @@ You could keep a little page like this in your writing file:
 **on your example**
 
 
-[![img][St31a]{ .artR width="460" }][St31a]
+[![img][St31]{ .artR width="460" }][St31]
 
 
 Of your three:
@@ -1680,7 +1637,7 @@ This is genuinely worth building into a proper craft sheet for you. I’d be ver
 ## New Site Challenges
 
 
-[![img][St32a]{ .artR width="460" }][St32a]
+[![img][St32]{ .artR width="460" }][St32]
 
 
 Oh this is a deliciously practical question. 🧵✂️
@@ -1842,7 +1799,7 @@ Your instincts are excellent here. You’re building texture, not drama — and 
 ## Summary
 
 
-[![img][St33a]{ .artR width="460" }][St33a]
+[![img][St33]{ .artR width="460" }][St33]
 
 
 Different women, different somatic tells.
@@ -1878,49 +1835,14 @@ They’re all *true* for Charli. The issue isn’t “don’t use them,” it’
 
 Below is a **mini-dictionary** you can paste straight into your toolkit, *and* then I’ll point to exact spots in your excerpt where you can swap things with minimal disruption.
 
-<!--
 
-?{:\x1-M`7L^ObF.
+<hr class="section-break strong" />
 
-/-->
 
-<!--      Image Links       /-->
+<!--  Image references  -->
 
-[Bnr03b]: ../assets/images/base/Bnr03b.jpg
-[St00]: ../assets/images/base/00Writer.jpg
+--8<-- "includes/image-references.md"
 
-[St03a]: ../assets/images/story/Scene03a.jpg
-[St05a]: ../assets/images/story/Scene05a.jpg
-[St06a]: ../assets/images/story/Scene06a.jpg
-[St07a]: ../assets/images/story/Scene07a.jpg
-[St08a]: ../assets/images/story/Scene08a.jpg
-[St09a]: ../assets/images/story/Scene09a.jpg
-[St10a]: ../assets/images/story/Scene10a.jpg
-[St11a]: ../assets/images/story/Scene11a.jpg
-[St12a]: ../assets/images/story/Scene12a.jpg
-[St13a]: ../assets/images/story/Scene13a.jpg
-[St14a]: ../assets/images/story/Scene14a.jpg
-[St15a]: ../assets/images/story/Scene15a.jpg
-[St16a]: ../assets/images/story/Scene16a.jpg
-[St17a]: ../assets/images/story/Scene17a.jpg
-[St18a]: ../assets/images/story/Scene18a.jpg
-[St19a]: ../assets/images/story/Scene19a.jpg
-[St20a]: ../assets/images/story/Scene20a.jpg
-[St21a]: ../assets/images/story/Scene21a.jpg
-[St22a]: ../assets/images/story/Scene22a.jpg
-[St23a]: ../assets/images/story/Scene23a.jpg
-[St24a]: ../assets/images/story/Scene24a.jpg
-[St25a]: ../assets/images/story/Scene25a.jpg
-[St26a]: ../assets/images/story/Scene26a.jpg
-[St27a]: ../assets/images/story/Scene27a.jpg
-[St28a]: ../assets/images/story/Scene28a.jpg
-[St29a]: ../assets/images/story/Scene29a.jpg
-[St30a]: ../assets/images/story/Scene30a.jpg
-[St31a]: ../assets/images/story/Scene31a.jpg
-[St32a]: ../assets/images/story/Scene32a.jpg
-[St33a]: ../assets/images/story/Scene33a.jpg
-[St34a]: ../assets/images/story/Scene34a.jpg
-[St35a]: ../assets/images/story/Scene35a.jpg
 
 <!--
 
@@ -1929,3 +1851,6 @@ Below is a **mini-dictionary** you can paste straight into your toolkit, *and* t
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 —
 /-->
 <hr class="section-break strong" />
+<!--
+?{:\x1-M`7L^ObF.
+/-->

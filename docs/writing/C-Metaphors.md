@@ -58,7 +58,8 @@ For Charlotte, the answer is yes—especially in moments of learning, pressure, 
 
 That gives you permission to stay.
 
----
+[![Celeste & Charlotte at Kaimu][St01]{ .artR width="400" }][St01]
+
 
 ##### 🧵 2. The real test: is it *behaving truthfully*?
 
