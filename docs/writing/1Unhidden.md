@@ -3479,6 +3479,8 @@ A girl with a German accent — one of the Faire palace actresses who worked wit
 
 ## 14 No Room
 
+[![Watching the waves][Stg1]{ .artR width="400" }][Stg1]
+
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
