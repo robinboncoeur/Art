@@ -222,28 +222,13 @@ Fin
 
 
 
+<hr class="section-break strong" />
 
+<!-- Images References -->
 
-<!--           Image Links         /-->
+--8<-- "includes/image-references.md"
 
-[Br01]: ../assets/images/base/Bnr02a.jpg
-[St00]: ../assets/images/base/00Writer.jpg
-
-[Sta1]: ../assets/images/base/01aKaimu.jpg
-[Stb1]: ../assets/images/base/01vRead.jpg
-[Stc1]: ../assets/images/base/01cActress.jpg
-[Std1]: ../assets/images/base/01dLily.jpg
-[Ste1]: ../assets/images/base/01eWinter.jpg
-[Sta2]: ../assets/images/base/02amusic.jpg
-[St03]: ../assets/images/base/03mists.jpg
-[St04]: ../assets/images/base/04maiden.jpg
-[St05]: ../assets/images/base/05flight.jpg
-[St06]: ../assets/images/base/06office.jpg
-[St07]: ../assets/images/base/07WritingFriday.jpg
-[St08]: ../assets/images/base/08maiden.jpg
-[St09]: ../assets/images/base/09aParis.jpg
-[St10]: ../assets/images/base/10montvl.jpg
-
+🌷
 
 <!-- vale off -->
 Brilee

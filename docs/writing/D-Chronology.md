@@ -367,11 +367,13 @@ This book asks: **Can I remain myself in a world that doesn't naturally operate 
 
 
 
+<hr class="section-break strong" />
 
-
-<!--  Image references  -->
+<!-- Images References -->
 
 --8<-- "includes/image-references.md"
+
+🌷
 
 <!--
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— … …

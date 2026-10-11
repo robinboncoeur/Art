@@ -2105,3 +2105,13 @@ That privilege must surely be mine.
 ## Scripts Link
 
 [SubslikeScriptv-The Norwood Builder](https://subslikescript.com/series/The_Adventures_of_Sherlock_Holmes-86661/season-2/episode-3-The_Norwood_Builder)
+
+<hr class="section-break strong" />
+
+<!-- Images References -->
+
+--8<-- "includes/image-references.md"
+
+🌷
+
+<hr class="section-break strong" />

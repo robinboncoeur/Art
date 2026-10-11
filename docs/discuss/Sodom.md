@@ -551,17 +551,14 @@ For those of you who wished to continue sincere discussion, I hope my edits abov
 
 And many, many thanks to those of you who offered support and kudos for the thread.
 
+<
 <hr class="section-break strong" />
 
+<!-- Images References -->
 
+--8<-- "includes/image-references.md"
 
-<!--  Image references  -->
-
-[Br01]: ../assets/images/base/Bnr01c.jpg
-
-[Sk00]: ../assets/images/base/00Writer.jpg
-
-
+🌷
 
 
 <!--

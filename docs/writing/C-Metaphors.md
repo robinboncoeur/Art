@@ -1109,11 +1109,13 @@ When you’re ready in the next thread, we’ll bring this exact instinct into S
 
 Looking forward to it. ✨
 
+<hr class="section-break strong" />
 
-
-<!--   Image Links    /-->
+<!-- Images References -->
 
 --8<-- "includes/image-references.md"
+
+🌷
 
 <!--
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻 💧 🚺  —
