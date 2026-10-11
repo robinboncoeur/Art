@@ -127,6 +127,7 @@
 [Stc1]: https://media.seabrae.org/images/art/base/01cActress.jpg
 [Stc2]: https://media.seabrae.org/images/art/base/02cLeah.jpg
 [Std1]: https://media.seabrae.org/images/art/base/01dLily.jpg
+[Std2]: https://media.seabrae.org/images/art/base/02dCharlie.jpg
 [Ste1]: https://media.seabrae.org/images/art/base/01eWinter.jpg
 [Stf1]: https://media.seabrae.org/images/art/base/01ftrain.jpg
 [Stg1]: https://media.seabrae.org/images/art/base/01gKaimu.jpg

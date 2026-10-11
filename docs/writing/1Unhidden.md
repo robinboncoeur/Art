@@ -2156,7 +2156,7 @@ The door clicked shut.
 
 ## 10 👗 Not My First Choice
 
-[![Charlie][S10a]{ .artR width="460" }][S10a]
+[![Charlie testing a jacket][Std2]{ .artR width="360" }][Std2]
 
 <div class="music-card music-card--with-art">
   <div class="music-content">
