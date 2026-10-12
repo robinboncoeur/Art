@@ -875,22 +875,18 @@ To add musical pieces to this page, do the following:
 * rsync -avhn --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/ytdl/
 * rsync -avh --progress ~/Desktop/toserver/ celestesh@i5Seabrae:/mnt/seamedia/public/audio/ytdl/
 * sudo chown -R celestesh:celestesh celestesh@i5Seabrae:/mnt/seamedia/public/audio/ytdl/.
+
+
 <!-- vale on -->
-<!--  Image references  -->
-
-[Br02]: ../assets/images/base/Bnr02c.jpg
-
-[Sk00]: ../assets/images/base/00Writer.jpg
-
-[Sk09]: ../assets/images/sketches/09Metaphor.jpg
-[Sk10]: ../assets/images/sketches/10Bitoffun.jpg
-[Sk11]: ../assets/images/sketches/11Giaconda.jpg
-[Sk12]: ../assets/images/sketches/12Chorale.jpg
-[Sk13]: ../assets/images/sketches/13Retraite.jpg
-[Sk14]: ../assets/images/sketches/14Northwind.jpg
-[Sk15]: ../assets/images/sketches/15Waterfall.jpg
 
 
+<hr class="section-break strong" />
+
+<!-- Images References -->
+
+--8<-- "includes/image-references.md"
+
+🌷
 
 
 
