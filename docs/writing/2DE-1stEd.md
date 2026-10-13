@@ -300,7 +300,7 @@ Her gaze held mine, deep and dark.
 
 “I love you too, Celeste.”
 
-The screen went back and the phone sat warm on my lap, suddenly heavy. I stared at nothing in particular. My stomach had that folding-in feeling again, the same one I’d had at the airport watching Charli walk away.
+The screen went black and the phone sat warm on my lap, suddenly heavy. I stared at nothing in particular. My stomach had that folding-in feeling again, the same one I’d had at the airport watching Charli walk away.
 
 The phone buzzed again.
 
@@ -348,7 +348,7 @@ I pressed my lips together.
 
 "Yes?"
 
-"I told that this was Charli's first trip away from home and that she needed someone to sort of keep her out of trouble. You know, boys and all that."
+"I told her that this was Charli's first trip away from home and that she needed someone to sort of keep her out of trouble. You know, boys and all that."
 
 "Sarah!"
 
@@ -360,7 +360,7 @@ Sarah had a point.
 
 "Celeste, she'll be in Wardrobe, most of the time. Brittany's promised me she'd stay close."
 
-I took moment. Then, decided.
+I took a moment. Then, decided.
 
 "Okay," I said. "Let's do one day at a time. I'll have a chat to her tomorrow night, see how she went. If she still wants to stay, fine." I stared out the window at the fading light. "If she doesn't—"
 
