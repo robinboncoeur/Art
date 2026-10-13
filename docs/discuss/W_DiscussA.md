@@ -1,4 +1,4 @@
-# Discussions
+# Chapter 6 - Pivotal
 
 
 [![img][Bra01]{ .artC width="1110" }][Bra01]
@@ -17,18 +17,18 @@
 
 [ Emily ]
 
-* Wardrobe learns Charlie rather than being told who Charlie is. Celeste's earlier assessment isn't transferable trust. The women need their own evidence.
+* Wardrobe learns Charlie rather than being told who Charlie is. Celeste's earlier assessment isn't transferable trust. The women need their own evidence.  
 * Charlie is observed doing ordinary work. No trial constructed around him; Wardrobe has its own business and he exists within it.
-* His qualities acquire value in this environment. Quiet/non-intrusive; attentive/caring; literal/precise; unshowy/reliable; listening/teachable; technically interested/competent.
-* Safety is behavioural, not anatomical. Lily's changing is particularly useful evidence: she notices Charlie is there and carries on. He doesn't look.
-* Charlie does more than merely refrain from bad behaviour. The window is the crucial positive act. He notices a privacy vulnerability that affects someone else and quietly fixes it.
-* He doesn't seek credit for doing the right thing. Window shut; back to mending. No performance. Mara notices. Very important. She's gathering evidence. Celeste notices Mara noticing. Which lets us see the assessment occurring without Mara explaining it.
-* Leah provides an outside/social connection. Charlie isn't a blank creature who sprang into existence at Wardrobe. She knows him from orchestra; her approach also shows his awkwardness under personal attention.
-* Mara protects the work rather than protecting Charlie as a fragile boy. “Leah, you're on rails.” Boundary established; everybody gets on with it.
-* Wardrobe itself must become real. Deliveries, invoices, fittings, actresses, steaming, over-locking, coffee, storage, interruptions, Mara managing people. Charlie has joined an existing workplace.
-* The women are not a monolith. Lily, Leah, Lucy, Tahlia, Mara and Celeste respond differently and have different jobs, temperaments and relationships.
-* Charlie should not yet understand what's happening socially. Certainly no I've found my people revelation. At this stage he still thinks in terms of having been transferred to another job after Graham found him useless.
-* No latent-femininity breadcrumbs. Nothing about Wardrobe accepting him because he's somehow secretly “one of the girls.” They're responding to Charlie-as-Charlie.
+* His qualities acquire value in this environment. Quiet/non-intrusive; attentive/caring; literal/precise; unshowy/reliable; listening/teachable; technically interested/competent.  
+* Safety is behavioural, not anatomical. Lily's changing is particularly useful evidence: she notices Charlie is there and carries on. He doesn't look.  
+* Charlie does more than merely refrain from bad behaviour. The window is the crucial positive act. He notices a privacy vulnerability that affects someone else and quietly fixes it.  
+* He doesn't seek credit for doing the right thing. Window shut; back to mending. No performance. Mara notices. Very important.   She's gathering evidence. Celeste notices Mara noticing. Which lets us see the assessment occurring without Mara explaining it.
+* Leah provides an outside/social connection. Charlie isn't a blank creature who sprang into existence at Wardrobe. She knows him from orchestra; her approach also shows his awkwardness under personal attention.  
+* Mara protects the work rather than protecting Charlie as a fragile boy. “Leah, you're on rails.” Boundary established; everybody gets on with it.  
+* Wardrobe itself must become real. Deliveries, invoices, fittings, actresses, steaming, over-locking, coffee, storage, interruptions, Mara managing people. Charlie has joined an existing workplace.  
+* The women are not a monolith. Lily, Leah, Lucy, Tahlia, Mara and Celeste respond differently and have different jobs, temperaments and relationships.  
+* Charlie should not yet understand what's happening socially. Certainly no I've found my people revelation. At this stage he still thinks in terms of having been transferred to another job after Graham found him useless.  
+* No latent-femininity breadcrumbs. Nothing about Wardrobe accepting him because he's somehow secretly “one of the girls.” They're responding to Charlie-as-Charlie.  
 * And the endpoint we've now articulated particularly clearly: not accepted, not trusted, not one of them — noticed. Wardrobe has begun accumulating its own evidence.
 
 <hr class="section-break strong" />
