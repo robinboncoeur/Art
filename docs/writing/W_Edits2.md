@@ -27,7 +27,7 @@ I glanced at the clock in the kitchenette.
 
 "Well, *I* mind," I said carefully. "Coming home in the dark, that's just not on. Seriously, why don't you let me take you?"
 
-The look in his eyes reminded me of a pair of doe eyes looking up to meedt mine in the girl's bathroom a year ago.
+The look in his eyes reminded me of a pair of doe eyes looking up to meet mine in the girl's bathroom a year ago.
 
 "I don't want to inconvenience you," he said softly.
 
@@ -57,23 +57,23 @@ Charlie stared at his empty plate for a moment. Then, his eyebrows rose.
 
 He tipped his head.
 
-"Answering the psychologist." He frowned slightly. "I— I didn't see Dr Winholmes today. I was just asked a bunch of questions by this dude with bad breath."
+"Answering the psychologist." He frowned slightly. "I— I didn't see Dr Winholmes today. Just this dude with bad breath asked me a whole lot of questions."
 
 "You were sitting that close you could smell his breath?"
 
 Charlie grimaced.
 
-"No. He sat at his desk: he was writing stuff down. And frowning a lot. And asking a bunch of questions I couldn't answer."
+"No. He sat at his desk: he was writing stuff down. And frowning a lot. And asking questions I couldn't answer."
 
-"Those are answers too, Charlie."
+"Not being able to answer is an answer too, Charlie."
 
 "I know. But—"
 
 "Look, you don't have to tell me anything. In fact—"
 
-"But I want to," he blurted out. "I'm more confused than ever. All I know is, I don't want to become like my dad."
+"No, but I want to," he blurted out. "After talking to that dude, I'm more confused than ever. All I know is, I don't want to become like my dad."
 
-"Did you tell him that?"
+"You told him that?"
 
 He nodded, his lips pinched sideways. "I don't think he was impressed." He folded the page over to another document. "I'm meant to see someone else before I see Dr Winholmes—" He stared at the page before him. I held out my hand.
 
