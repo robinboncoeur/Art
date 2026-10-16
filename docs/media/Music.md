@@ -99,7 +99,7 @@ ETA: I've reviewed this score. I found glaring issues (not all, clearly) which I
 
 Some time ago I transcribed from a [hand-written manuscript](https://archive.org/details/GB-Lam_MS1671) a Symphony by a twenty-five year old (at the time) young lady named Alice Mary Smith. Foolishly, I thought I'd try to write from the heart, as she did, which ended up as this "poeme".
 
-In broad strokes, the piece sort-of follows me out the door of post-op recovery to the garden beds and footpath and storm drain and well, hard physical labour. I was going from full-time nursing career to frenetic hard 'yakka', which brought into focus that my health was not optimal. Years of wearing lead and transferring patients had exacted a toll. Despite steps we took to preserve (and improve) what health we enjoyed, which included removing processed foods from the diet (particularly anything with sugar - thank you, Dr Robert Lustig) the years had betrayed me. I let my twenty-five year-old brain dictate utter nonsense to my 70yo body and my back finally gave out. You'll appreciate the point that the injury took place (second timpani roll), subsequently followed by reflection upon ones own mortality. The grandchildren are the fun run-around bit right before the end where I learn to smell the roses.
+In broad strokes, the piece sort-of follows me out the door of post-op recovery to the garden beds and footpath and storm drain and well, hard physical labour. I was going from full-time nursing career to frenetic hard 'yakka', which brought into focus that my health was not optimal. Years of wearing lead and transferring patients had exacted a toll. Despite steps we took to preserve (and improve) what health we enjoyed, which included removing processed foods from the diet (particularly anything with sugar) the years had betrayed me. I let my twenty-five year-old brain dictate utter nonsense to my 70yo body and my back finally gave out. You'll appreciate the point that the injury took place (second timpani roll), subsequently followed by reflection upon ones own mortality. The grandchildren are the fun run-around bit right before the end where I learn to smell the roses.
 
 Hope you enjoy.
 
@@ -158,12 +158,12 @@ This is not a happy piece. Nor is it completely done. It's one I've struggled wi
 
 
 In the Louvre hangs a painting most non-french people think of as Mona Lisa. The French call her [La Joconde](https://MuseScore.com/user/29275325/scores/7603490) which loosely translated means "jovial", a sentiment which I hoped to convey with this little piece.
-<!-- vale on -->
+
 
 Penne Vodka - an actual real composer - has been making awesome suggestions to improve my efforts at orchestration. Spreading out harmonic threads over first and second woodwind instruments added a lot of richness.
 
 I've also been watching the [OrchestrationOnline](https://www.youtube.com/@OrchestrationOnline) course-ware on YouTube with Thomas Goss. Interestingly, the deeper I got into the lessons, the more I wondered whatever in the world possessed me to think I could do this! There were aspects that gelled quickly, whereas others left me with a feeling I should probably get back to doing counterpoint or even basic harmony.
-
+<!-- vale on -->
 Edited to add (2025-Sept-15): I have revisited this piece. The published version disappeared from my site on [MuseScore.com](https://MuseScore.com/robynsveil). I ended up not using the Spitfire Strings and Woodwinds for MuseSounds as their articulations are quite different to the standard MuseSounds, so I'm sticking with standard. 
 
 [The Score](http://musescore.com/user/29275325/scores/7603490).
@@ -806,7 +806,7 @@ The stylistic solution would be divide into 4 parts:
 - Fl,Ob, Cl, Bassoon 	
 - double 	
 - Vln1, Vln2, Clarinet and CB/VC. 
-	
+<!-- vale off -->
 You can reinforce certain lines intermittently with brass (as you did in m29 etc). This would result in "clarity of line", important especially in this style. You have done well to break up the texture now and then. By the way, all recommend - including [Thomas Goss, an online favorite of many](https://orchestrationonline.com/bio/) - to not have a key signature with horns in F. Usually the horns and trumpets, cornets do not have a key signature.
 
 I've been away a while and now I'm getting caught up. I put some new NP renditions up which might support your opinion of NP. I've heard they're waffling a bit on NP support, or it may come later than sooner. Don't know.
@@ -833,7 +833,7 @@ Penne Vodka (Joe DiRienzo, New York)
 [Free Samples Libraries](https://theremin.music.uiowa.edu/MIS.html)
 
 [Thomas Goss' Orchestration Online](https://orchestrationonline.com/services/composer/)
-
+<!-- vale on -->
 [AdmiralBumblebee's Reaper Scripts](https://www.admiralbumblebee.com/ReaperScripts.html#reaticulate---website)
 
 [How to use reaticulate](https://seventhsam.com/blog/blog/how-to-use-reaticulate-to-manage-your-sample-library-articulations)

@@ -71,7 +71,7 @@ Charlie grimaced.
 
 "Look, you don't have to tell me anything. In fact—"
 
-"No, but I want to," he blurted out. "After talking to that dude, I'm more confused than ever. All I know is, I don't want to become like my dad."
+"No, but I want to," he blurted out. "I don't really know what I want. I do know what I don't want: I don't want to become like my dad."
 
 "You told him that?"
 
@@ -85,7 +85,7 @@ It was a referral form. Behind it was a order for laboratory tests: I could make
 
 "I'm sorry," he said quietly. "I didn't mean to be complicated."
 
-"Charlie, you're *complex*, not *complicated*," I said firmly. "Nothing wrong with that."
+"Charlie, you're *complex*, not *complicated*," I said firmly. "That's not unusual: we're all a bit complex."
 
 His shoulders seemed to ease slightly.
 
@@ -99,7 +99,7 @@ Charlie shrugged.
 
 I felt suddenly self-conscious.
 
-"What are you looking at?"
+"What?"
 
 He looked away quickly.
 
@@ -127,7 +127,7 @@ I had a crazy thought: 'we could do the same to your hair' but immediately kicke
 
 He flicked me a shy glance and a quick nod.
 
-"I know this sounds weird, but I'm almost, like, envious or something."
+"I know this sounds weird, but I feel almost, like, envious or something."
 
 "Oh?"
 
@@ -139,23 +139,21 @@ He flicked me a shy glance and a quick nod.
 
 His voice had gone a bit dark. I felt my spine stiffen. His mouth opened as if to speak, and then, closed it again.
 
-"Will you be seeing that psychologist again?"
+"Do you have another appointment with him?"
 
 Charlie shook his head.
-
-"I don't think so."
 
 ---
 
 I was sitting in my little Swift outside Dr Winholmes rooms scrolling through the archives of a costume website on my phone when I noticed Charlie exit the building. I put my phone away as he climbed in.
 
-"All good?"
+"All good? How was she?"
 
 Charlie flashed me a smile: a genuine, warm upward curve of the lips. He attached his seatbelt.
 
 "Chalk and cheese."
 
-"You saw Dr Winholmes?"
+"Dr Winholmes?"
 
 "Yes, Celeste. She's amazing. It was so different from last week. For one thing, she smelled nice."
 
@@ -191,7 +189,7 @@ Behind them, a voice boomed:
 
 It was Bree. She was grinning at Charlie, who smiled back, unperturbed. Bree slipped an arm around his slender shoulders as they walked towards the tearoom, where they found Lily opening the bag from the Thai takeaway.
 
-"Pad thai for me and for the lovely Charlie," she said cheerfully, "and a Massaman beef for the brave Bree."
+"Pad Thai for me and for the lovely Charlie," she said cheerfully, "and a beef curry for the brave Bree."
 
 Charlie reddened even as he smiled. His smile froze slightly as he caught Sarah staring at him with raised eyebrows. He focused his attention on his noodles.
 

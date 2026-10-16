@@ -328,7 +328,7 @@ To add musical pieces to this page, do the following:
   sudo find /mnt/seamedia/public/audio/ytdl -type d -exec chmod 755 {} +
   sudo find /mnt/seamedia/public/audio/ytdl -type f -exec chmod 644 {} +
 '
--->
+
 
 <hr class="section-break strong" />
 
@@ -358,7 +358,7 @@ The rain had stopped before dawn, leaving the old road silver beneath the moon. 
 
 [Gentle pause, then quiet realization] 
 
-
+-->
 
 
 <!--  Image references  -->

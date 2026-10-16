@@ -87,6 +87,7 @@ Qwen
 Rache
 reaticulate
 [Rr]ecalibrate(s|d)?
+Redland
 repinned
 rethread(ing|ed|s)?
 Retraite
