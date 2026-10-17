@@ -6,8 +6,138 @@
 
 
 
+## What I Don't Want
 
-## 
+[ *Charlie* ]
+
+I hadn't been entirely truthful to Celeste when she asked about my family doctor and i told her I didn't have one. Mum used to take me to see Dr Harwood in Lara every so often, not because she felt there was something that needed looking at but just to shut Dad up. He was forever going on about how I wasn't going to amount to much because I wouldn't stand up to some of the footy boys when they were having a go at me. 
+
+Dr Harwood had suggested doing workouts at a gym. I hated the gym: it stank of unwashed bodies and sweaty rubber and smelly socks. I went a total of twice: the second time I clumsily dropped a weight on my foot — it had slipped off the barbell — and so I had to have an x-ray to make sure it wasn't broken. 
+
+And limped for a month after that.
+
+Nothing more was said about gyms.
+
+Mara gave me the day off to go to Brunswick, which was near Melbourne. My appointment wasn't until the afternoon — good job it wasn't, because the bus trip was over three hours. One way.
+
+Turns out Dr Winholmes wasn't even in that day, and so I was led into the room that smelled of garlic that had gotten its second wind.
+
+"Come-in, come-in, mate!"
+
+This dude in a Queen t-shirt — Queen: the music group, not the royal party — and skinny jeans beckoned to me from behind his desk. The t-shirt had its work cut out for it: the dude clearly had gotten his money's worth at workout gyms.
+
+I approached cautiously.
+
+He indicated a chair.
+
+I sat.
+
+He attempted a disarming smile. Which failed.
+
+"Hi, Charles, is it? My name's Ash. I'm a psychiatric registrar working with Dr Winholmes. She has asked me to do an initial assessment with you today. Is that okay with you?"
+
+*What if I said no?*
+
+"Yeah-okay."
+
+He frowned slightly as he studied the form on the desk. 
+
+"Right. So, what made you decide to come and see Dr Winholmes?"
+
+"Celeste's doctor."
+
+He looked up from his form.
+
+"I see. And why would Celeste's doctor want you to see Dr Winholmes?"
+
+"Because I was taking medicine to stop my body from changing."
+
+"Oh." He cleared his throat. "What sorts of changes were you trying to prevent?"
+
+I stared at my hands for a while.
+
+"That's all right. We can come back to that. What medicine were you taking?"
+
+"Spironolactone."
+
+"Right." He scribbled on his paper for a moment, then sat back in his chair, leaning his cheek against his fist as he studied me. "Are you still taking Spironolactone?"
+
+"Celeste's doctor put me on some other stuff."
+
+He nodded slowly.
+
+"Who is Celeste?"
+
+I felt my face heat up.
+
+"My — roomie."
+
+The room was silent except for the pen scribbling on paper. Then:
+
+"Are you working?"
+
+"Yes, at Wardrobe."
+
+"Wardrobe? What's that?"
+
+"We maintain costumes for the Historical Faire at Anglesea."
+
+"Wow, really?" Ash's smile was a lot more real. "I was there last weekend with my partner. Those costumes are next level!"
+
+I gave what I hoped was a nice smile. And then:
+
+"What is your role at Wardrobe?"
+
+"Repairs. And testing."
+
+"Testing?"
+
+I felt the knot in my stomach ease a bit.
+
+"Yeah, my boss is very clever. She is a costume designer. We're making a lot of the newer ones ourselves."
+
+"Do you enjoy your work?"
+
+I nodded, and watched him scribble some more.
+
+"Can you describe to me what you do when you test a new garment?"
+
+By the time I'd finished explaining what I did, the knot was almost gone.
+
+"Sounds like you have an important position there at Wardrobe. Good people?"
+
+I smiled.
+
+"Best place in the world to work. Best people in the world to work with."
+
+"What would you say makes it that way?"
+
+I thought a bit.
+
+"I feel like I— um, fit in." I was babbling, now. "Like, I'm part of the team. They don't seem to mind I'm a — bloke."
+
+That last bit felt like it was taking teeth with it as it came out of my mouth.
+
+Ash put his pen down.
+
+"I think we've covered everything that we need to today, Charles."
+
+I looked at him.
+
+"We have?"
+
+
+
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+## The Psychologist
 
 [ *Celeste* ]
 
@@ -57,13 +187,13 @@ Charlie stared at his empty plate for a moment. Then, his eyebrows rose.
 
 He tipped his head.
 
-"Answering the psychologist." He frowned slightly. "I— I didn't see Dr Winholmes today. Just this dude with bad breath asked me a whole lot of questions."
+"Answering the psychologist." He frowned slightly. "I— I didn't see Dr Winholmes today. Just this dude who smelled of garlic asked me a whole lot of questions."
 
-"You were sitting that close you could smell his breath?"
+"How close were you sitting to him?"
 
 Charlie grimaced.
 
-"No. He sat at his desk: he was writing stuff down. And frowning a lot. And asking questions I couldn't answer."
+"No. He sat at his desk: he was writing it down. And asking about work. And about changes, stuff I couldn't answer."
 
 "Not being able to answer is an answer too, Charlie."
 
@@ -203,7 +333,7 @@ Bree pursed her lips.
 
 "They haven't." Her eyebrows rose meaningfully as she glanced at Charlie. Lily followed her gaze, a smile flickering on her lips. 
 
-Mara appeared at the door.
+Mara appeared at the door just then.
 
 "You're not recruiting my staff, are you, Bree?"
 
@@ -213,7 +343,7 @@ Mara looked over her glasses at Bree.
 
 "That's good then."
 
-Charlie gave no sign that he was listening but his blushes betrayed him.
+Charlie did not look up but his face did go a bit pink.
 
 ---
 
