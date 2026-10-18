@@ -126,8 +126,11 @@ I looked at him.
 
 "We have?"
 
+He nodded.
 
+"Let's set up your next appointment, shall we?"
 
+It was a long bus ride home.
 
 <hr class="section-break strong" />
 
@@ -141,7 +144,7 @@ I looked at him.
 
 [ *Celeste* ]
 
-Charlie got back from Melbourne very late that night. He threw me a pinched smile as he pulled off his sneakers.
+Charlie got back very late that night. He threw me a pinched smile as he pulled off his sneakers.
 
 "How did you go?"
 
@@ -151,7 +154,7 @@ He settled into his chair, dropping his messenger bag at his feet.
 
 I glanced at the clock in the kitchenette.
 
-"Eight forty-five. Are you sure I can't take you to your appointments?"
+"Eight forty-five. You're spending your life on a bus."
 
 "I don't mind," he murmured.
 
@@ -159,13 +162,15 @@ I glanced at the clock in the kitchenette.
 
 The look in his eyes reminded me of a pair of doe eyes looking up to meet mine in the girl's bathroom a year ago.
 
-"I don't want to inconvenience you," he said softly.
+"I just hate to inconvenience you," he said softly.
 
-"But you're okay with me worrying about you instead?"
+"But you're okay with me *worrying* about you instead?"
 
-His eyes went round. He bit his lip and his right shoulder rose a fraction.
+His eyes went round.
 
 *Oh.*
+
+He bit his lip and his right shoulder rose a fraction.
 
 "Hungry?"
 
@@ -175,9 +180,9 @@ He nodded.
 
 We ate in silence for a while.
 
-"Is it okay if I ask you a few questions, Celeste?"
+"I was thinking about all this weird stuff on the bus home," he said finally.
 
-"Of course!"
+"Oh? Like what?"
 
 Charlie stared at his empty plate for a moment. Then, his eyebrows rose.
 
@@ -187,25 +192,25 @@ Charlie stared at his empty plate for a moment. Then, his eyebrows rose.
 
 He tipped his head.
 
-"Answering the psychologist." He frowned slightly. "I— I didn't see Dr Winholmes today. Just this dude who smelled of garlic asked me a whole lot of questions."
+"Answering the psychologist." He frowned slightly. "I— I didn't see Dr Winholmes today. Just this dude who smelled of garlic."
 
 "How close were you sitting to him?"
 
 Charlie grimaced.
 
-"No. He sat at his desk: he was writing it down. And asking about work. And about changes, stuff I couldn't answer."
+"I wasn't close. He was sitting at his desk, asking me all these of questions. And he was writing stuff, even if I didn't know the answer."
 
-"Not being able to answer is an answer too, Charlie."
+"No answer is an answer too, Charlie."
 
-"I know. But—"
+"I guess. But—"
 
 "Look, you don't have to tell me anything. In fact—"
 
-"No, but I want to," he blurted out. "I don't really know what I want. I do know what I don't want: I don't want to become like my dad."
+"No, I want to," he blurted out. "I just— don't really know what I want. I do know what I don't want: I don't want to become like my dad."
 
 "You told him that?"
 
-He nodded, his lips pinched sideways. "I don't think he was impressed." He folded the page over to another document. "I'm meant to see someone else before I see Dr Winholmes—" He stared at the page before him. I held out my hand.
+He nodded, his lips pinched sideways. "He seemed like a nice man." He folded the page over to another document. I held out my hand.
 
 "Have a look?"
 
@@ -213,7 +218,7 @@ It was a referral form. Behind it was a order for laboratory tests: I could make
 
 "You look stressed."
 
-"I'm sorry," he said quietly. "I didn't mean to be complicated."
+"I reckon I'm a bit complicated," he said quietly.
 
 "Charlie, you're *complex*, not *complicated*," I said firmly. "That's not unusual: we're all a bit complex."
 

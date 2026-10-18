@@ -205,7 +205,7 @@ These pieces live in my head when I write.
 
 <div class="music-card music-card--with-art">
   <div>
-    <p>Finzi- Clarinet-Concerto 2nd </p>
+    <p>Finzi- Clarinet-Concerto 2nd</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://media.seabrae.org/audio/ytdl/Finzi-ClarinetC2.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -222,7 +222,7 @@ These pieces live in my head when I write.
 
 <div class="music-card music-card--with-art">
   <div>
-    <p>Finzi—Romance</p>
+    <p>Finzi— Romance</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://media.seabrae.org/audio/ytdl/Finzi-Romance.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -243,22 +243,20 @@ These pieces live in my head when I write.
 
 ## Miniatures
 
-**1) Incidental music for 'Celeste's Girl', Scene 1 "Are You Lost?"**
-
+**Incidental music for 'Celeste's Girl'**
+**Scene 1 "Are You Lost?"**
 
 [![Celeste][Stq1]{ .artL width="380" }][Stq1]
-
 
 **The Wrong Door**
 
 <div class="music-card music-card--with-art">
   <div>
-    <p>D
+    <p>The Wrong Door - D</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoorD.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
-    </p>
   </div>
 </div>
 
@@ -266,17 +264,13 @@ Slightly [different orchestration](https://media.seabrae.org/audio/cg/music/TheW
 
 <div class="music-card music-card--with-art">
   <div>
-    <p>E
+    <p>The Wrong Door - E</p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoor-Ec.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
-    </p>
   </div>
 </div>
-
-*Updated: 25-Sep-2026*
-
 
 <hr class="section-break sweet" />
 
@@ -314,7 +308,31 @@ Slightly [different orchestration](https://media.seabrae.org/audio/cg/music/TheW
 
 <hr class="section-break strong" />
 
+
+
+
+
+
+
+
+*Updated: 18-Oct-2026*
+
+<!--  Image references  -->
+
+--8<-- "includes/image-references.md"
+
 <!--
+
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧💎 💼 …
+
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 📐——
+
+/-->
+
+
+<!--
+
+<hr class="section-break strong" />
 
 ## Notes to Self
 
@@ -327,26 +345,9 @@ To add musical pieces to this page, do the following:
 * ssh -t celestesh@i5Seabrae '
   sudo find /mnt/seamedia/public/audio/ytdl -type d -exec chmod 755 {} +
   sudo find /mnt/seamedia/public/audio/ytdl -type f -exec chmod 644 {} +
-'
 
 
-<hr class="section-break strong" />
-
-
-## Test Tags
-
-The rain had stopped before dawn, leaving the old road silver beneath the moon. Mara tightened her cloak and listened. Somewhere beyond the pines, a bell rang once, then fell silent.
-
-[Quiet, reflective narration] She had promised herself she would not return. Yet there she was, standing before the gate with mud on her boots and the key cold against her palm.
-
-[Building tension, measured pace] The lock turned easily. Too easily. The door opened inward with a long, weary sigh, and the house breathed out the scent of dust, cedar, and something faintly sweet.
-
-[Softly, with wonder] On the table in the entryway sat a single lantern, already lit.
-
-[Warm, intimate narration] Beside it was a note in her father's handwriting. Only four words were written there.
-
-[Gentle pause, then quiet realization] I knew you would come.
-
+## Test Tags for ElevenLabs
 
 [Quiet, reflective narration] 
 
@@ -359,19 +360,3 @@ The rain had stopped before dawn, leaving the old road silver beneath the moon. 
 [Gentle pause, then quiet realization] 
 
 -->
-
-
-<!--  Image references  -->
-
-
---8<-- "includes/image-references.md"
-
-
-
-<!--
-
-✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧💎 💼 …
-
-😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 📐——
-
-/-->
