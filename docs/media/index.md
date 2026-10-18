@@ -4,7 +4,7 @@
 
 
 
-## Setting the Atmosphere
+## 🎻 Setting the Atmosphere
 
 
 [![Read][Stb1]{ .artR width="340" }][Stb1]
@@ -301,7 +301,7 @@ Slightly [different orchestration](https://media.seabrae.org/audio/cg/music/TheW
 
 
 
-## Music Player
+## Random Listening
 
 <div class="randomMusicPlayer"></div>
 
@@ -325,12 +325,27 @@ Slightly [different orchestration](https://media.seabrae.org/audio/cg/music/TheW
 
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧💎 💼 …
 
-😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 📐——
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 📐 🎶 🎼 🎻
 
 /-->
 
 
 <!--
+
+
+<hr class="section-break strong" />
+
+<h2 id="music-player">Music Player<a class="headerlink" href="#music-player" title="Permanent link">&para;</a></h2>
+
+<div class="randomMusicPlayer"></div>
+
+<hr class="section-break strong" />
+
+
+
+
+
+
 
 <hr class="section-break strong" />
 
