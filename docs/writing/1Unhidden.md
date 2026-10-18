@@ -6942,11 +6942,11 @@ And drifted off before I did.
 </div>
 
 <!--
-Time of year:
+Time of year: Mid November (closing down on Celeste's birthday, the 21st)
 -->
 
 
-[*Being Written...* 09-Oct-2026](W_Edits1.md)
+[*Being Written...* 18-Oct-2026](W_Edits2.md)
 
 
 
