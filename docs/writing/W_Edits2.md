@@ -12,7 +12,7 @@
 
 I hadn't been entirely truthful to Celeste when she asked about my family doctor and I told her I didn't have one. Mum used to take me to see Dr Harwood in Lara every so often, not because she felt there was something that needed looking at but just to shut Dad up. He was forever going on about how I wasn't going to amount to much because I wouldn't stand up to some of the footy boys when they were having a go at me. 
 
-Dr Harwood had suggested doing workouts at a gym. I hated the gym: it stank of unwashed bodies and sweaty rubber and smelly socks. I went a total of twice: the second time I clumsily dropped a weight on my foot — it had slipped off the barbell — and so I had to have an x-ray to make sure it wasn't broken. 
+Dr Harwood had suggested doing workouts at a gym. I hated the gym: it stank of unwashed bodies and sweaty rubber and smelly socks. I went a grand total of twice: the second time I clumsily dropped a weight on my foot — it had slipped off the barbell — and so I had to have an x-ray to make sure it wasn't broken. 
 
 And limped for a month after that.
 
@@ -278,9 +278,9 @@ Charlie's face had gone completely pink.
 
 "You don't?"
 
-"No." I leaned back in my chair. "I'm envious of girls with naturally wavy hair."
+"No." I leaned back in my chair. "*I'm* envious of girls with naturally wavy hair."
 
-"Yeah, but that's different," he said with a frown.
+"Yeah, but that's different."
 
 "How so?"
 
@@ -300,7 +300,7 @@ His shoulders rose.
 
 "Next Thursday. At four-thirty."
 
-"Right! There's no way you're taking the bus, Charlie."
+"Right! Well, there's no way you're taking the bus, Charlie."
 
 He tipped his head.
 
@@ -326,7 +326,7 @@ I grinned.
 
 I turned on the indicator as we joined the homeward-bound traffic.
 
-"It's funny," Charlie continued. "Even though she was asking a lot of the same questions Ash di last week, but I didn't feel the least bit nervous around her. At all."
+"It's funny," Charlie continued. "Even though she was asking a lot of the same questions Ash did last week, but I didn't feel the least bit nervous around her. At all."
 
 His fingers worried the leather strap of his messenger bag.
 
@@ -346,7 +346,7 @@ We were about ten minutes from home when he finally spoke.
 
 He nodded.
 
- "And she wanted to know about my Mum."
+"And she wanted to know about my Mum."
 
 "Not your dad?"
 
@@ -370,7 +370,7 @@ He'd gone pink again.
 
 "Never mind," he mumbled.
 
-"No, what is it?"
+"No, what was it?"
 
 He clasped his hands tightly together.
 
@@ -378,7 +378,7 @@ He clasped his hands tightly together.
 
 ---
 
-Sarah and Tahlia had just finished packing up the last of the dresses and were taping the boxes when Charlie emerged from his repair corner with several lace caps.
+Sarah and Tahlia had just finished packing up the last of the dresses and were taping the boxes when Charlie emerged from his repair corner with several lace caps. His hair was still in the style I showed him yesterday, twisting the sides together before typing them into a loose ponytail. He had spent ages on it that morning. It was a lot tidier than usual, and it kept most of his hair away from his face. Most of it.
 
 "Were these meant to go with the dresses?"
 
@@ -386,9 +386,7 @@ Tahlia shook her head.
 
 "They're not on the invoice."
 
-Charlie nodded, and turned to return to the repair corner. His hair was still in the style I showed him yesterday, twisting the sides together before typing them into a loose ponytail. He had spent ages on it that morning. It was a lot tidier than usual, and it kept most of his hair away from his face. Most of it.
-
-Just then, a voice behind them boomed:
+Charlie nodded, and turned to return to the repair corner. Just then, a voice behind them boomed:
 
 "Time you girls had lunch!"
 
@@ -400,7 +398,9 @@ Lily was peering into the Thai takeaway bag.
 
 "Pad Thai for me and for the lovely Charlie," Lily said cheerfully, "and a beef curry for the brave Bree."
 
-Charlie's face went slightly pink. His smile froze slightly: Sarah had just come in, and was staring at him with raised eyebrows. 
+Charlie's face went slightly pink and he beamed.
+
+But then Sarah came into the tearoom, and was staring at him with raised eyebrows, and his smile froze slightly. 
 
 He ducked his head down and focused on his noodles.
 
@@ -444,7 +444,7 @@ I started the engine.
 
 He spun in his seat to face me.
 
-"It was about *you*."
+"It was talking about *you*."
 
 "Me?"
 
@@ -582,7 +582,7 @@ I looked over at him. His shoulders were almost level with his ears.
 
 His mouth went sideways.
 
-"Yeah, I guess."
+"Yeah."
 
 I opened my door.
 
@@ -594,9 +594,9 @@ There was a lot of writing. In pencil.
 
 Words everywhere — very disjointed — not like him at all.
 
-Some words were written hard, the pencil pushed against the paper so firmly it had for a little groove.
+Some words were written hard, the pencil pushed against the paper so firmly it had formed little grooves.
 
-Others, written lightly, softly, almost tenderly.
+Other words, written lightly, softly, almost tenderly.
 
 I saw my name among those other words. Several times.
 
@@ -644,7 +644,7 @@ His head bobbed again.
 
 "Good, because you're going to brush my hair next." 
 
-His eyes widened as I handed him the brush.
+I handed him the brush.
 
 <hr class="section-break strong" />
 
@@ -667,7 +667,11 @@ But now, there was a new smell.
 
 Me.
 
-Celeste wore J'Adore by Dior. ALways. She'd tried another scent once, a little sampler, which she then gave to me.
+Celeste's perfume was J'Adore by Dior. ALways. It was her.
+
+She'd tried another scent once, a little sampler, which she then gave to me.
+
+Matière Première. Cologne Cèdrat.
 
 "Hold out your hand," she said that morning as we were getting ready to leave for work.
 
@@ -675,7 +679,7 @@ I did.
 
 She sprayed — two little spritzes — on my left wrist.
 
-"*Don't* rub your wrists together," she said firmly. "I see women doing that and it kills the scent's ability to burn down."
+"*Don't* rub your wrists together," she said firmly. "Stupid thing to do. It kills the scent's ability to burn down."
 
 I stood quietly, feeling it slowly dry on my skin.
 
@@ -691,7 +695,7 @@ The way I stitched, the way I touched cloth, the way I ate, even.
 
 I felt like a different person. 
 
-A person I really liked being.
+I was a person I really liked being.
 
 I was so wrapped up in this newness — this beautifulness — this soft lovely way of being that I never even considered what others might think.
 
@@ -713,13 +717,11 @@ She beamed at the spotless kitchenette.
 
 "Aren't you just the ideal wife," she said teasingly. I felt like melting, her words, her smile, her warmth felt so good.
 
-And then, suddenly, had thoughts. Words appeared in my head that left me cold.
+And then, suddenly, had thoughts. Words appeared in my head that left me cold. I folded the tea towel and hung it to dry, and sat down listless on the couch.
 
 "You okay?"
 
-I could feel her eyes seeking mine.
-
-I folded the tea towel and hung it to dry.
+She sat down next to me, close enough so I could feel her warmth. Her eyes finally found mine.
 
 "I'm not sure what to think."
 
@@ -739,15 +741,71 @@ I'd never considered that perhaps, I was not allowing myself to... something.
 
 *Be?*
 
-I pushed at the window and found it was actually open. Which was frightening.
+I was pushing at an emotional window and finding it was actually open. 
 
-Who was I?
+Which was frightening. 
 
+It really shouldn't be.
 
+At all.
 
+*Who was I?*
 
+I thought of how I felt that day: those Cèdrat notes kept bubbling up such happiness. 
 
+*Why not?*
 
+Celeste was watching me.
+
+I leaned forward.
+
+Ventured:
+
+"Celeste?"
+
+"Yes?"
+
+I swallowed. Hard. I pulled in a breath, made as if to speak.
+
+Stopped.
+
+Tried again.
+
+Stopped again.
+
+Swallowed again.
+
+Celeste was still watching me.
+
+"Celeste," I finally managed, my voice a bit hoarse. "I was— happy." I licked my dry lips. "Today."
+
+"I know."
+
+"I don't think I was ever this happy. I never thought I *could* ever be that happy. I—"
+
+Celeste's eyes never left mine. Her face was expressionless.
+
+"You really want this, don't you?"
+
+Something in me went very still.
+
+Her words sounded like they were hiding a warning.
+
+"Is that a bad thing?"
+
+"Neither good or bad," she replied. "But don't be fooled: it's not all ribbons and bows."
+
+"What do you mean?"
+
+It was getting dark. The sheer curtain waved in as a dog batked in the distance. An aeroplane droned overhead. My right knee was dancing a little jig on its own. I tried to still it but it wouldn't listen.
+
+"I wouldn't let one day's experience make the decision for you."
+
+"I haven't 'decided' anything," I said.
+
+"I could be wrong, but I think you *have* decided."
+
+My right leg was driving me nuts — it had a way of getting me in trouble when it did its little jig.
 
 
 
