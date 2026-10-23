@@ -10,7 +10,7 @@
 
 [ *Charlie* ]
 
-I hadn't been entirely truthful to Celeste when she asked about my family doctor and i told her I didn't have one. Mum used to take me to see Dr Harwood in Lara every so often, not because she felt there was something that needed looking at but just to shut Dad up. He was forever going on about how I wasn't going to amount to much because I wouldn't stand up to some of the footy boys when they were having a go at me. 
+I hadn't been entirely truthful to Celeste when she asked about my family doctor and I told her I didn't have one. Mum used to take me to see Dr Harwood in Lara every so often, not because she felt there was something that needed looking at but just to shut Dad up. He was forever going on about how I wasn't going to amount to much because I wouldn't stand up to some of the footy boys when they were having a go at me. 
 
 Dr Harwood had suggested doing workouts at a gym. I hated the gym: it stank of unwashed bodies and sweaty rubber and smelly socks. I went a total of twice: the second time I clumsily dropped a weight on my foot — it had slipped off the barbell — and so I had to have an x-ray to make sure it wasn't broken. 
 
@@ -62,11 +62,13 @@ I stared at my hands for a while.
 
 "Right." He scribbled on his paper for a moment, then sat back in his chair, leaning his cheek against his fist as he studied me. "Are you still taking Spironolactone?"
 
+I shook my head.
+
 "Celeste's doctor put me on some other stuff."
 
 He nodded slowly.
 
-"Who is Celeste?"
+"And who is Celeste?"
 
 I felt my face heat up.
 
@@ -172,7 +174,7 @@ I glanced at the clock in the kitchenette.
 
 "I don't mind," he murmured.
 
-"Well, *I* mind," I said carefully. "Coming home in the dark, that's just not on. Seriously, why don't you let me take you?"
+"Well, *I* mind," I said carefully. "You coming home in the dark, that's just not on. Seriously, why don't you let me take you?"
 
 The look in his eyes reminded me of a pair of doe eyes looking up to meet mine in the girl's bathroom a year ago.
 
@@ -212,9 +214,9 @@ He tipped his head.
 
 Charlie grimaced.
 
-"I wasn't close. He was sitting at his desk, asking me all these questions. And he was writing stuff, even if I didn't know the answer."
+"I wasn't close. He was sitting at his desk, asking me all these questions. And he was writing stuff, even if I didn't have an answer."
 
-"No answer is an answer too, Charlie."
+"No answer can be an answer too, Charlie."
 
 "I know. But I just didn't know what to say to some of his questions."
 
@@ -320,15 +322,15 @@ I grinned.
 
 "How does she do her hair?"
 
-"In a bob." He pursed his lips. "She speaks very gently. And she doesn't sit at a desk: we sat on a couch. I just felt a lot more relaxed, like straight away."
+"In a bob." He pursed his lips. "Her voice is so gentle. We just sat there on her couch and had a chat. She made me feel a lot more relaxed, like straight away."
 
 I turned on the indicator as we joined the homeward-bound traffic.
 
-"It's funny," Charlie continued. "She was asking a lot of the same questions as Ash last week, but I didn't feel nervous around her. At all. Even though I didn't have any more answers than I did last week, either."
+"It's funny," Charlie continued. "Even though she was asking a lot of the same questions Ash di last week, but I didn't feel the least bit nervous around her. At all."
 
 His fingers worried the leather strap of his messenger bag.
 
-"I did tell her I envied you your hair. You know?"
+"I did tell her," he continued quietly, "that I envied you your hair. You know?"
 
 I knew.
 
@@ -338,7 +340,13 @@ I gave him space.
 
 We were about ten minutes from home when he finally spoke.
 
-"You know, Dr Winholmes didn't even ask why I was taking that medicine, Celeste." He wrapped his arms around himself. "She did want to know about my Mum."
+"You know, Dr Winholmes didn't even ask why I was taking that medicine, Celeste." He wrapped his arms around himself.
+
+"Did she ask about your work?"
+
+He nodded.
+
+ "And she wanted to know about my Mum."
 
 "Not your dad?"
 
@@ -378,29 +386,35 @@ Tahlia shook her head.
 
 "They're not on the invoice."
 
-Charlie nodded, and turned to return to the repair corner. His hair was still in as immaculate a ponytail as when we'd left home. He had spent ages on it that morning.
+Charlie nodded, and turned to return to the repair corner. His hair was still in the style I showed him yesterday, twisting the sides together before typing them into a loose ponytail. He had spent ages on it that morning. It was a lot tidier than usual, and it kept most of his hair away from his face. Most of it.
 
 Just then, a voice behind them boomed:
 
-"When are you girls doing lunch?"
+"Time you girls had lunch!"
 
-It was Bree. She grinned at Charlie, who smiled back, a genuine smile. Bree slipped an arm around his slender shoulders as they walked towards the tearoom, where they found Lily opening the bag from the Thai takeaway.
+It was Bree. She was grinning at Charlie. He smiled back, a genuine smile. 
+
+Bree slipped an arm around his slender shoulders and guided him towards the tearoom. 
+
+Lily was peering into the Thai takeaway bag.
 
 "Pad Thai for me and for the lovely Charlie," Lily said cheerfully, "and a beef curry for the brave Bree."
 
-Charlie's face went slightly pink. His smile froze slightly as he caught Sarah staring at him with raised eyebrows. He focused his attention on his noodles.
+Charlie's face went slightly pink. His smile froze slightly: Sarah had just come in, and was staring at him with raised eyebrows. 
 
-"You know, there's another position opening in the palace," Bree said. 
+He ducked his head down and focused on his noodles.
+
+"You know, Charlie, there's another position opening in the palace," Bree said. 
 
 Lily looked puzzled.
 
 "I didn't realise any of the guys had left."
 
-Bree pursed her lips.
+Bree suppressed a smile.
 
 "They haven't."
 
-Her eyebrows rose meaningfully as she glanced at Charlie. Lily followed her gaze, a smile flickering on her lips. 
+She glanced at Charlie, who was pretending not to hear. A smile flickered on Lily's lips. 
 
 Mara appeared at the door just then.
 
@@ -416,7 +430,7 @@ Charlie did not look up but his lips thinned the slightest bit.
 
 ---
 
-Charlie was standing next to the Swift when I returned with the shopping from Woollies. He looked full of — something.
+Ther was a Woollies just up the road from Dr Winholmes' rooms. When I returned to the car, Charlie was waiting for me. He looked full of — something.
 
 "Good session?"
 
@@ -474,13 +488,31 @@ Neither of us spoke for a while.
 
 He sat wringing his hands.
 
-I drove, unable to come up with a response to that.
+We rode along in silence. I couldn't find a response to that.
 
-My little Swift shouldered its way down the M1.
+*A friend.*
 
-*It didn't make sense.*
+I glanced at him and felt something tighten in my chest.
 
-There were two truths, here. One: he'd been taking medication to stop himself from into turning into a more masculine version of himself. And yet, to the psychiatrist he'd indicated an unrelated reason: he didn't want to lose my friendship. Try as I might, I couldn't get the maths to math.
+I wasn't ready for this. 
+
+This was about *him*. 
+
+Not *me*.
+
+Since when did it become about *me*?
+
+My little Swift shouldered its way through the wind down the M1.
+
+I took in a deep breath. 
+
+There were two truths, here. 
+
+One: he'd been taking medication to stop becoming an adult male. He hated what was happening and took medicine to stop it.
+
+But two, that was not his greatest fear. It was that he didn't want to lose my friendship. 
+
+Try as I might, I couldn't get the maths to math.
 
 The wind had calmed by the time we got to Geelong.
 
@@ -502,36 +534,214 @@ I selected my words carefully.
 
 He sat for a moment — his hands completely still.
 
-"Yeah," he said quietly.
+"Yeah," he said quietly. "I just wanted to stay the way I was."
 
-"We're still friends, aren't we?"
+"No one just stays the way they are, Charlie."
+
+He was silent.
+
+I turned on the indicator and pointed the Swift towards the ocean. And home.
+
+"I'm going to change too," I said. "It's inevitable."
+
+"Yeah, but you'll still be—" 
+
+He stopped.
+
+"Be what?"
+
+"Soft," he whispered.
+
+*Soft.*
+
+"Okay."
+
+His gaze was fixed on his hands.
+
+And then, his hand moved slowly up his arm.
+
+I glanced at his arm. 
+
+Even in the fading light I could tell the hair on his arm was fine, not unlike my own.
+
+I bit my lower lip.
+
+We turned into the driveway. I parked under the mulberry tree and turned off the engine.
+
+And we sat for a moment.
+
+Finally, I asked him, "Did you tell Dr Winholmes this?"
+
+Silence.
+
+I looked over at him. His shoulders were almost level with his ears.
+
+"I don't know what to tell her," he mumbled. "I mean, I only know what I *don't* like."
+
+"That's not true, Charlie," I said firmly. "You like your work in Wardrobe. You like to keep things tidy. You like my hair. And, I guess you like me."
+
+His mouth went sideways.
+
+"Yeah, I guess."
+
+I opened my door.
+
+"Let's go in."
+
+As soon as he entered the kitchenette, he opened his messenger bag and pulled a document out of a folder. Wordlessly he handed it to me. 
+
+There was a lot of writing. In pencil.
+
+Words everywhere — very disjointed — not like him at all.
+
+Some words were written hard, the pencil pushed against the paper so firmly it had for a little groove.
+
+Others, written lightly, softly, almost tenderly.
+
+I saw my name among those other words. Several times.
+
+I looked up. His eyes were fixed on mine. Doe eyes, filled with something soft, something I saw that day in the girls' restroom, something I'd put aside then, quickly, defensively.
+
+And now, the instinct rose to do it again.
+
+I breathed in slowly. And looked into his eyes.
+
+I had an idea. 
+
+I took his arm and led him to a chair.
+
+"Sit." 
+
+I went to my room.
+
+And found my hair brush.
+
+I returned to the kitchette. 
+
+Charlie had not moved.
+
+"Are you okay with me touching your hair, Charlie?"
+
+He nodded.
+
+I felt a thud in my chest as I undid his ponytail. His hair was surprisingly fine, clean, soft. I ran my brush through it as smooth as silk. I wove the hair on each side to contain it and brought it together into a higher ponytail.
+
+I turned to face him.
+
+"Want to see?"
+
+His face shone with anticipation and hope mixed with curiosity. We went to the mirror in the hall, where he stood and studied his appearance for quite some time. His eyes flicked over to me.
+
+"Am I okay like this?"
+
+"Do you feel okay?"
+
+His nod seemed shy, as if reluctant to admit to anything.
+
+"Did you enjoy having your hair brushed?"
+
+His head bobbed again.
+
+"Good, because you're going to brush my hair next." 
+
+His eyes widened as I handed him the brush.
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+
+## Which Is It
+
+[ *Charlie* ]
+
+Everything had changed at Wardrobe.
+
+Or so it seemed. I mean, it was still the same place. Still had that smell of lanolin, of chalk dust, of the soaps in the laundry and faintly of someone's perfume, perhaps Lily's. The wind was sometimes kind and pushed the porta-pottie smell towards the road, and then, sometimes not.
+
+But now, there was a new smell.
+
+Me.
+
+Celeste wore J'Adore by Dior. ALways. She'd tried another scent once, a little sampler, which she then gave to me.
+
+"Hold out your hand," she said that morning as we were getting ready to leave for work.
+
+I did.
+
+She sprayed — two little spritzes — on my left wrist.
+
+"*Don't* rub your wrists together," she said firmly. "I see women doing that and it kills the scent's ability to burn down."
+
+I stood quietly, feeling it slowly dry on my skin.
+
+She took my hand and lifted my wrist to her nose.
+
+"This perfume was *meant* for you!"
+
+She guided my wrist to my nose.
+
+And my day was just— different from that moment on.
+
+The way I stitched, the way I touched cloth, the way I ate, even.
+
+I felt like a different person. 
+
+A person I really liked being.
+
+I was so wrapped up in this newness — this beautifulness — this soft lovely way of being that I never even considered what others might think.
+
+Not until morning tea, anyway.
+
+And then, I noticed Sarah.
+
+She wore this really odd smile. I smiled back, and her smile broadened.
+
+I nibbled on my sandwich, slowly. Normally, I would have devoured it in a few bites, but it seemed wrong, now. Mum came into the tearoom then, and the temperature changed. Just a bit.
+
+They sat together, chattering about the next shipment, but there was something more, something not being said out loud, and yet that something was as plain as day. Mum was happy, relaxed, and leaning into Sarah's space as much as Sarah was enveloping Mum's.
 
 ---
 
-Quick outline:
+I'd just finished cleaning up after dinner that evening when Celeste appeared.
 
-They arrive at home.
+She beamed at the spotless kitchenette.
 
-Celeste comments about how nice Charlie's hair had been all day.
+"Aren't you just the ideal wife," she said teasingly. I felt like melting, her words, her smile, her warmth felt so good.
 
-She noticed.
+And then, suddenly, had thoughts. Words appeared in my head that left me cold.
 
-Of course she did.
+"You okay?"
 
-She has an idea. She has him sit down, and she takes a brush, undoes his ponytail, and redoes it in the style of the image.
+I could feel her eyes seeking mine.
 
-In the course of which, she asks:  
-1) whether he's okay with this and   
-2) if he finds his hair being brushed enjoyable. 
+I folded the tea towel and hung it to dry.
 
-He replies in the affirmative to both and she says as she finishes: "Good, because you're going to brush my hair next." 
+"I'm not sure what to think."
 
-Chapter ends.
+"About what?"
 
-Boom.
+"About... who I am."
 
+The cold seemed to spread.
 
+"It's whoever you allow yourself to be, Charlie."
 
+*Allow.*
+
+I had no idea what to make of that word.
+
+I'd never considered that perhaps, I was not allowing myself to... something. 
+
+*Be?*
+
+I pushed at the window and found it was actually open. Which was frightening.
+
+Who was I?
 
 
 
