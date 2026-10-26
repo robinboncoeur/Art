@@ -283,7 +283,7 @@ Slightly [different orchestration](https://media.seabrae.org/audio/cg/music/TheW
 <div class="video-card video-card--portrait">
   <div class="video-frame">
     <video controls preload="metadata">
-      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoor-portrait.mp4" type="video/mp4">
+      <source src="https://media.seabrae.org/audio/cg/music/TheWrongDoor.mp4" type="video/mp4">
       Your browser does not support the video element.
     </video>
   </div>
