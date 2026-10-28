@@ -10,9 +10,9 @@
 
 [ *Charlie* ]
 
-I hadn't been entirely truthful to Celeste when she asked about my family doctor and I told her I didn't have one. Mum used to take me to see Dr Harwood in Lara every so often, not because she felt there was something that needed looking at but just to shut Dad up. He was forever going on about how I wasn't going to amount to much because I wouldn't stand up to some of the footy boys when they were having a go at me. 
+I sort of didn't tell Celeste the actual truth when she asked about my family doctor and I told her I didn't have one. Mum used to take me to see Dr Harwood in Lara every so often, not because she felt there was something that needed looking at but just to shut Dad up. Dad was forever going on about how I need to bulk up a bit and that I wasn't going to amount to anything because I couldn't stand up to the footy boys when they were having a go at me. 
 
-Dr Harwood had suggested doing workouts at a gym. I hated the gym: it stank of unwashed bodies and sweaty rubber and smelly socks. I went a grand total of twice: the second time I clumsily dropped a weight on my foot — it had slipped off the barbell — and so I had to have an x-ray to make sure it wasn't broken. 
+Dr Harwood had suggested doing workouts at a gym. I hated the gym: it stank of unwashed bodies and sweaty rubber and smelly socks. I went a grand total of twice: the second time I clumsily dropped a weight on my foot — it had slipped off the barbell — which swelled up sp bad I couldn't even wear shoes for a bit. 
 
 And limped for a month after that.
 
@@ -20,7 +20,7 @@ Nothing more was said about gyms.
 
 Mara gave me the day off to go to Brunswick, which was near Melbourne. My appointment wasn't until the afternoon — good job it wasn't, because the bus trip was over three hours. One way.
 
-Turns out Dr Winholmes wasn't even in that day, and so I was led into the room that smelled of garlic that had gotten its second wind.
+Turns out Dr Winholmes wasn't in that day. I was led into the room that smelled of garlic revisited.
 
 "Come-in, come-in, mate!"
 
@@ -32,9 +32,9 @@ He indicated a chair.
 
 I sat.
 
-He attempted a disarming smile. Which failed.
+He attempted a disarming smile. Which failed to disarm.
 
-"Hi, Charles, is it? My name's Ash. I'm a psychiatric registrar working with Dr Winholmes. She has asked me to do an initial assessment with you today. Is that okay with you?"
+"Hi... Charles, is it? My name's Ash. I'm a psychiatric registrar working with Dr Winholmes. She has asked me to do an initial assessment with you today. Is that okay with you?"
 
 *What if I said no?*
 
@@ -48,19 +48,19 @@ He frowned slightly as he studied the form on the desk.
 
 He looked up from his form.
 
-"I see. And why would Celeste's doctor want you to see Dr Winholmes?"
+"I see. And why did you see Celeste's doctor?"
 
 "Because I was taking medicine to stop my body from changing."
 
-"Oh." He cleared his throat. "What sorts of changes were you trying to prevent?"
+"Right." He cleared his throat. "So, what sorts of changes were you trying to prevent?"
 
 I stared at my hands for a while.
 
-"That's all right. We can come back to that. What medicine were you taking?"
+"That's all right," he said carefully. "We can come back to that. What medicine were you taking?"
 
 "Spironolactone."
 
-"Right." He scribbled on his paper for a moment, then sat back in his chair, leaning his cheek against his fist as he studied me. "Are you still taking Spironolactone?"
+"Okay." He scribbled on his paper for a moment, then sat back in his chair, leaning his cheek against his fist as he studied me. "Are you still taking Spironolactone?"
 
 I shook my head.
 
@@ -68,7 +68,7 @@ I shook my head.
 
 He nodded slowly.
 
-"And who is Celeste?"
+"Who is Celeste?"
 
 I felt my face heat up.
 
@@ -76,7 +76,7 @@ I felt my face heat up.
 
 The room was silent except for the pen scribbling on paper. Then:
 
-"Are you employed?"
+"Are you working?"
 
 "Yes, at Wardrobe."
 
@@ -96,9 +96,9 @@ I gave what I hoped was a nice smile. And then:
 
 I felt the knot in my stomach ease a bit.
 
-"Yeah, my boss is very clever. She is a costume designer. We're making a lot of the newer ones ourselves."
+"Yeah, we're making some new costumes. My boss is very clever. She is a costume designer."
 
-"Do you enjoy your work?"
+"So, you enjoy your work?"
 
 I nodded, and watched him scribble some more.
 
@@ -176,9 +176,9 @@ I glanced at the clock in the kitchenette.
 
 "Well, *I* mind," I said carefully. "You coming home in the dark, that's just not on. Seriously, why don't you let me take you?"
 
-The look in his eyes reminded me of a pair of doe eyes looking up to meet mine in the girl's bathroom a year ago.
+The look in his eyes reminded me of those doe eyes of his looking up to meet mine in the girl's bathroom a year ago.
 
-"I just hate to inconvenience you," he said softly.
+"It's just, I hate to inconvenience you," he said softly.
 
 "But you're okay with me *worrying* about you instead?"
 
@@ -188,7 +188,7 @@ His eyes went round.
 
 He bit his lip and his right shoulder rose a fraction.
 
-"Hungry?"
+"You hungry?"
 
 He nodded.
 
@@ -210,7 +210,7 @@ He tipped his head.
 
 "No." He frowned slightly. "It wasn't Dr Winholmes, just this dude who smelled of garlic."
 
-"How close were you sitting to him?"
+"Smelled of garlic? How close were you sitting to him?"
 
 Charlie grimaced.
 
@@ -218,15 +218,15 @@ Charlie grimaced.
 
 "No answer can be an answer too, Charlie."
 
-"I know. But I just didn't know what to say to some of his questions."
+"I know. But I just didn't know what to tell him."
 
-"Look, you don't have to tell anyone anything you don't want to. In fact, you don't have to tell me anything either."
+"Look, you don't have to tell anyone *anything* you don't want to. Anyone. Including me."
 
-"No, but I *want* to," he blurted out. 
+"Oh, but no, I *want* to tell you," he blurted out. 
 
 I waited.
 
-"I just— don't really know what I want," he said finally. "I definitely don't want to become like my dad."
+"I just— don't really *know* what I want," he said finally. "I definitely *don't* want to become like my dad."
 
 "You told him that?"
 
@@ -264,7 +264,7 @@ I snorted.
 
 "Tap-water straight. Hardly pretty."
 
-"No, it's how you put it up. It just looks so, um, smart."
+"No, it's how you— um, put it up. It just looks so, um, smart."
 
 "You like how I style my hair?"
 
@@ -274,11 +274,11 @@ He flicked me a shy glance and a quick nod.
 
 Charlie's face had gone completely pink.
 
-"Why do you think it's weird?"
+"Why do you think that's weird?"
 
-"You don't?"
+"Don't you?"
 
-"No." I leaned back in my chair. "*I'm* envious of girls with naturally wavy hair."
+"No, I don't." I leaned back in my chair. "*I'm* envious of girls with naturally wavy hair."
 
 "Yeah, but that's different."
 
@@ -288,19 +288,29 @@ I heard a short puff of annoyance.
 
 "You know!"
 
-I eyed him and shook my head.
+I shook my head.
 
-"I don't." I permitted myself the tiniest smile. "You know, your hair is long enough to—" 
+"No, I don't know." 
 
 His shoulders rose.
 
+"You're envious of *girls*!"
+
+"Yeah, so? Don't tell me you've never been envious of a girl. I mean, before today."
+
+"Not of her *looks*."
+
+I eyed him.
+
+"You sure?"
+
 "Celeste!"
 
-"Just sayin'." I got up. "When's your next appointment?"
+"Just sayin'." I got up. "So, when's your next appointment?"
 
 "Next Thursday. At four-thirty."
 
-"Right! Well, there's no way you're taking the bus, Charlie."
+"Right!" I faced him and said firmly, "Well, there's no way you're taking the bus next Thursday, Charlie."
 
 He tipped his head.
 
@@ -310,19 +320,19 @@ I was sitting in my little Swift outside Dr Winholmes' rooms scrolling through t
 
 "All good? How'd you go?"
 
-Charlie flashed me a smile: a genuine one. He attached his seatbelt.
+Charlie flashed me a smile: a genuine one.
 
 "She's really nice, Celeste."
 
 "Dr Winholmes?"
 
-"Yes, Celeste. She's amazing. It was so different from last week. For one thing, she smelled nice."
+"Yes." He attached his seatbelt. "She's amazing. It was so different from last week. For one thing, she smelled nice."
 
 I grinned.
 
 "How does she do her hair?"
 
-"In a bob." He pursed his lips. "Her voice is so gentle. We just sat there on her couch and had a chat. She made me feel a lot more relaxed, like straight away."
+"In a bob." He pursed his lips. "Her voice is so gentle, Celeste. We just sat there on her couch and had a chat. She made me feel so relaxed, like straight away."
 
 I turned on the indicator as we joined the homeward-bound traffic.
 
@@ -332,7 +342,167 @@ His fingers worried the leather strap of his messenger bag.
 
 "I did tell her," he continued quietly, "that I envied you your hair. You know?"
 
-I knew.
+"Good. What did she say?"
+
+"She wanted to know what I liked about it."
+
+I waited, eyebrows raised.
+
+"Um, I said I liked how you would do different things to it, and it always looked cool." He stopped. I glanced over and saw his face had reddened slightly.
+
+"You're blushing."
+
+"No, I'm not."
+
+"C'mon, tell me. What else did she say?"
+
+"She asked me if—" 
+
+Another pause.
+
+"She asked you what?"
+
+"If I'd like to do my hair like that." I could barely hear him, he spoke so quietly.
+
+"Would you?"
+
+Silence. When I looked over at him, he looked away quickly. 
+
+And gave a quick nod.
+
+"Cool."
+
+I could feel his eyes, wide now with amazement, on me.
+
+"Really?"
+
+"Sure. It'd be fun, don't you think?"
+
+He stared at the dashboard.
+
+"Wow," he said finally.
+
+"What." I wasn't so much asking as declaring the obvious.
+
+*What's the big deal?*
+
+"I never thought I could—" He faltered.
+
+The car was quiet for a long while, the only sound being the engine doing its thing.
+
+As we turned off the highway, he said quietly,
+
+"I should probably wash my hair."
+
+"Do you use conditioner?"
+
+"No."
+
+"You should."
+
+He took a long time in the bathroom. He finally emerged in shorts and a t-shirt, toweling his hair vigorously.
+
+"Charlie, what are you doing?"
+
+His hands stopped moving.
+
+"Drying my hair?"
+
+"That's how to dry a St Bernard, not your hair."
+
+"That's how I always dry my hair."
+
+"I thought you wanted to try something new."
+
+His mouth went sideways.
+
+"Yeah. I do."
+
+I handed him my brush.
+
+He brought it up to his head.
+
+I shook my head.
+
+"Start at the ends."
+
+He was a long time brushing his hair out. It was time well spent.
+
+He was almost finished when there was a knock on the door.
+
+It was our neighbour, Max.
+
+"Sorry to bother you, Celeste, but I just wanted to let you know that I'm moving out tomorrow."
+
+"So, you took that job in Adelaide?"
+
+Max nodded.
+
+"Hope I'm making a good move. Anyway, you'll hear a bunch of commotion tomorrow." He held out his hand. "Just wanted to say goodbye. It's been lovely being your neighbour."
+
+He waved to Charlie, who gave a shy wave back.
+
+When I closed the door, I noticed Charlie had put the brush behind him.
+
+"Why did you stop?"
+
+Charlie reddened, and bit his lip.
+
+"I— um—"
+
+I tipped my chin at the brush behind his back.
+
+"What are you doing with the brush?"
+
+He reddened a bit more.
+
+"I didn't want Max to see."
+
+"See what?"
+
+His eyes rose to mine. Imploring. Then, away.
+
+"Charlie."
+
+He puffed.
+
+"Me doing this," he said quietly.
+
+"What, brushing your hair?"
+
+He nodded.
+
+I stared at him for a moment.
+
+"Okay." I looked at the brush, then him. "Do you want to finish brushing your hair?"
+
+He swallowed and slowly resumed: careful, thoughtful strokes.
+
+I sat down next to him.
+
+I said nothing.
+
+Just smiled.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 On the M1, we passed a bus. Out of the corner of my eye I could see Charlie staring at it. He seemed lost in thought.
 
