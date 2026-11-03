@@ -144,5 +144,7 @@
 [Str1]: https://media.seabrae.org/images/art/base/01rCharli.jpg
 [Sts1]: https://media.seabrae.org/images/art/base/01sCharli.jpg
 [Stt1]: https://media.seabrae.org/images/art/base/01tCharli.jpg
-[Stu1]: https://media.seabrae.org/images/art/base/01gKaimu.jpg
+[Stu1]: https://media.seabrae.org/images/art/base/01uDream.jpg
+[Stv1]: https://media.seabrae.org/images/art/base/01vPastDue.jpg
+[Stw1]: https://media.seabrae.org/images/art/base/01wCharlotte.jpg
 [Ts00]: https://media.seabrae.org/images/art/base/00Emily.jpg
