@@ -42,13 +42,11 @@ docs/
 
 
 
-### Editing Content
+## Editing Content
 
 I write content directly into markdown, inserting the tags as needed. I use a very lightweight but also quite powerful plain text editor called 'Zed'. I can download [Zed from Here](https://zed.dev/) or in Terminal, simply enter:
 
-```bash
-curl -f https://zed.dev/install.sh | sh
-```
+**curl -f https://zed.dev/install.sh | sh**
 
 <hr class="section-break strong" />
 
@@ -65,28 +63,35 @@ curl -f https://zed.dev/install.sh | sh
 [![Writer][Stj1]{ .artR width="340" }][Stj1]
 
 
-**Emily-Assisted**  
-For externally-stored images (most will be stored on my image server or GitHub, for my pages)::
+**Art Catalogue**  
 
-```
-![Me](https://art.tightbytes.com/assets/images/blog25/06-16Office.jpg){: align=left width=300 }
-```
+Images will be stored on an image server for all pages. The image catalogue reference document called *image-references.md* lives in an /include folder, and is the same document — but with different entries — for all sites. The entries are in a column, and use this syntax:
 
-and for those stored with the data files on GitHub::
-
-```
-![Celeste](images/C01-Aa.jpg){: align=left width=300 }
+```text
+[code]: https://my.cool.url/path/to/the/folder/image.jpg
 ```
 
-I currently use this approach:
+For example, the image of the girl with the rose in her hair has this reference:
 
-```
-[![Writer][Stj1]{ .artR width="340" }][Stj1]
+```text
+[St00]: https://media.seabrae.org/images/art/base/00Writer.jpg
 ```
 
-There is an associated CSS page that allows that above string to act as a link, to create the rounded corners and a bit of 'pull-in' with a mouse hover, sizing and so forth. Also, image links are in an image-references page, which makes all images available all over the site.
+Then, on the web page itself, at the bottom of every page is this entry:
+
+```text
+<!-- Images References -->
+- - 8 < - - "includes/image-references.md"
+🌷
+```
+
+Note: *remove the spaces in this part of the command:* **- - 8 < - -**  *for it to work.*
 
 <hr class="section-break soft" />
+
+
+
+
 
 
 ### Deprecated
@@ -111,16 +116,16 @@ HTML links:
 I am removing — and will no longer being using — YouTube videos, because of copyright risks. I will have links to my own videos. The link code looks like this:
 
 ```html
-<div class="video-card video-card--normal">
-	<div class="video-frame">
-		<video controls preload="metadata" playsinline>
-			<source src="https://media.seabrae.org/videos/eu/AnneIsCooking.mp4" type="video/mp4">
-			Your browser does not support the video tag.
-		</video>
+	<div class="video-card video-card--normal">
+		<div class="video-frame">
+			<video controls preload="metadata" playsinline>
+				<source src="https://media.seabrae.org/videos/eu/AnneIsCooking.mp4" type="video/mp4">
+				Your browser does not support the video tag.
+			</video>
+		</div>
+		<p class="video-caption">
+			<strong>Soldiers, à la Française</strong> Anne is cooking in Montmartre.
 	</div>
-	<p class="video-caption">
-		<strong>Soldiers, à la Française</strong> Anne is cooking in Montmartre.
-</div>
 ```
 
 which produces:

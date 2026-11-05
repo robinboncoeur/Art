@@ -98,6 +98,7 @@ nav:
   - Work:
       - work/index.md
       - Emily's Intelligence: work/01Emilyai.md
+      - 🪡Linux/Docker Tasks: work/07LinuxCLI.md
       - 💋 Images in ComfyUI: work/02Comfyui.md
       - ArtInt Illustrations: work/03CUIllus.md
       - Making LoRAs FluxGym: work/04FluxGym.md
