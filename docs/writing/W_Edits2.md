@@ -12,7 +12,9 @@
 
 I sort of didn't tell Celeste the actual truth when she asked about my family doctor and I told her I didn't have one. Mum used to take me to see Dr Harwood in Lara every so often, not because she felt there was something that needed looking at but just to shut Dad up. Dad was forever going on about how I need to bulk up a bit and that I wasn't going to amount to anything because I couldn't stand up to the footy boys when they were having a go at me. 
 
-Dr Harwood had suggested doing workouts at a gym. I hated the gym: it stank of unwashed bodies and sweaty rubber and smelly socks. I went a grand total of twice: the second time I clumsily dropped a weight on my foot — it had slipped off the barbell — which swelled up sp bad I couldn't even wear shoes for a bit. 
+Dr Harwood had suggested doing workouts at a gym. 
+
+However, I hated the gym: it stank of unwashed bodies and sweaty rubber and smelly socks. I went a grand total of twice: the second time I clumsily dropped a weight on my foot — it had slipped off the barbell. My foot swelled up sp bad I couldn't even wear shoes for a bit. 
 
 And limped for a month after that.
 
@@ -24,7 +26,7 @@ Turns out Dr Winholmes wasn't in that day. I was led into the room that smelled 
 
 "Come-in, come-in, mate!"
 
-This dude in a Queen t-shirt — Queen: the music group, not the royal party — and skinny jeans beckoned to me from behind his desk. The t-shirt had its work cut out for it: the dude clearly had gotten his money's worth at workout gyms.
+A guy in a Queen t-shirt — Queen: the music group, not royalty — and skinny jeans beckoned to me from behind his desk. He had clearly gotten his money's worth from his gym membership.
 
 I approached cautiously.
 
@@ -34,7 +36,7 @@ I sat.
 
 He attempted a disarming smile. Which failed to disarm.
 
-"Hi... Charles, is it? My name's Ash. I'm a psychiatric registrar working with Dr Winholmes. She has asked me to do an initial assessment with you today. Is that okay with you?"
+"Hi... Charles, is it? My name's Ash. I'm a psychiatric registrar working with Dr Winholmes. She has asked me to do an initial assessment today. Is that okay with you?"
 
 *What if I said no?*
 
@@ -98,7 +100,7 @@ I felt the knot in my stomach ease a bit.
 
 "Yeah, we're making some new costumes. My boss is very clever. She is a costume designer."
 
-"So, you enjoy your work?"
+"You enjoy your work?"
 
 I nodded, and watched him scribble some more.
 
@@ -110,7 +112,7 @@ By the time I'd finished explaining what I did, the knot was almost gone.
 
 I smiled.
 
-"Best place in the world to work. Best people in the world to work with."
+"Best place in the world to work. Best place in the world to work."
 
 "What would you say makes it that way?"
 
@@ -314,9 +316,311 @@ I eyed him.
 
 He tipped his head.
 
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+
+## Filigree
+
+[ *Charlie* ]
+
+There was only one item on the repair pile that afternoon, a palace gown with a loose bit of lace trim on a sleeve. The lace was hanging on by a few threads. It wasn't one of the Wardrobe gowns: none of them ever lost shaping or trim or anything.
+
+I rubbed the lace cautiously between my fingers.
+
+And for a weird reason, flashed on Ash's Queen t-shirt.
+
+"For instance, I really enjoy working out," I remember him telling me. And I remember his biceps flexing under his shirt. And then he said in an oddly gentle voice, "That doesn't mean everyone does. Or has to."
+
+I gave the lace a slight tug. It unravelled further.
+
+In our lace drawer, I found some lace on a roll of a similar design. I could feel Mara's eyes on me. Her eyebrows rose slightly.
+
+It was her version of: 'carry on'.
+
+I sat down and draped the dress over my knees. The smell of a hot iron caught my attention. Leah was standing over a the caraco jacket staring in disbelief at the bottom of an iron in her hand. 
+
+"Too hot?"
+
+Leah glanced at me.
+
+"It wasn't working at all before, so I turned it up."
+
+"Is there water in the thingie?"
+
+Leah seemed to sag a bit. Her lips pinched a bit as she shook her head.
+
+"I think I might have burnt the collar—"
+
+"Have a look?"
+
+She unplugged the iron and brought the jacket over, settling into a chair next to me. The hot iron smell mixed with something nicer. Bergamot. And vanilla.
+
+"You should keep playing your oboe," she said softly, her eyes flicking over to Mara.
+
+"I suck at the oboe."
+
+"I know." Her lips curled slightly. "Still. Don't give it up. You don't know how good you could be if you give up straight-away."
+
+I remember she was an amazing clarinet player: in fact, she was so good she'd played a solo piece in the school orchestra. I remember the piece: the second movement of Finzi's Clarinet Concerto.
+
+I'd been hearing that clarinet in my head the last few days.
+
+I put down the lace and the dress, and examined the collar.
+
+It was scorched. 
+
+I began to slowly unpick it.
+
+Leah was studying my hands as I worked.
+
+I gave her a quick smile.
+
+And happened to notice that her hair was up in one of those 'French girl' updos.
+
+Leah noticed.
+
+"What?"
+
+She frowned.
+
+I looked away quickly.
+
+"Sorry."
+
+"What were you looking at?"
+
+I felt heat rise in my face.
+
+"Your hair."
+
+Her frown went sideways.
+
+"What about my hair?"
+
+I swallowed. Hard. 
+
+*Time to be truthful.*
+
+"It's really pretty."
+
+Her face went blank.
+
+"Um, thanks." 
+
+A short pause. 
+
+"I guess."
+
+Her eyes followed the *lame* in my hand. The collar was halfway off before I looked up again. 
+
+Now, she staring at *me*.
+
+"You should do something with *your* hair."
+
+"What do you mean? I *do!*"
+
+"Yeah-right, you brush it and tie it back? Whoop-dee-do."
+
+"Back to your ironing." Mara's voice rose over the steamer. Leah gave me a look — lips squeezed, eyebrows raised — as she got up. She flounced back to her iron.
+
+I stared at the half-removed collar.
+
+*"That doesn't mean everyone..."*
+
+I couldn't keep my eyes off Leah's hair. 
+
+And caught the grin she gave me.
+
+I grinned back.
+
+Reflex. 
+
 ---
 
-I was sitting in my little Swift outside Dr Winholmes' rooms scrolling through the archives of a costume website on my phone when I noticed Charlie exit the building. I put my phone away as he climbed in.
+When I got back to the apartment, Celeste stood frowning at the open fridge.
+
+"This is the hardest part, you know. Deciding."
+
+"Do you want me to cook tonight?" I offered.
+
+"Not really. You always make pasta."
+
+"So what's wrong with pasta?"
+
+"I'm a bit over it. I'd like to try something new."
+
+"Something new—" I began.
+
+And froze.
+
+Her eyes went to me. The fridge beeped.
+
+I shook my head.
+
+"I— never mind," I muttered.
+
+There was a pause. Her eyes seemed laser-focused.
+
+The fridge beeped again.
+
+"What were you going to say?"
+
+"It doesn't have anything to do with food."
+
+Her mouth tightened.
+
+"Hair, then?"
+
+I was suddenly intensely aware of everything: the position of my body, the look on my face. 
+
+*How did she know?*
+
+I suddenly felt the old fear. I could taste it — I felt myself move towards it as if it was a magnet.
+
+"Don't."
+
+"Don't what?"
+
+"Don't— disappear." 
+
+I sat down slowly, carefully, almost gingerly, as if the chair was made of crystal. 
+
+I bit a nail.
+
+"What were you and Leah talking about?"
+
+"She'd scorched the collar of a jacket—"
+
+"No," Celeste cut in. "I mean, what were you *talking* about?"
+
+"Music."
+
+"You were looking at *her*. It wasn't about music."
+
+My face felt suddenly on fire. Celeste grinned.
+
+"Yeah, I guess," I admitted.
+
+"Are you attracted to her?"
+
+"To Leah?" Celeste's grin broadened. The fire grew more intense. "No way!"
+
+"You couldn't keep your eyes off her today. Everybody saw it."
+
+*Oh shit.*
+
+"I was just— looking at her—" I squeezed my eyes shut. "Hair."
+
+Celeste's gaze softened.
+
+"Ah."
+
+*"It doesn't mean..."* 
+
+The words sat in the air between us, words Celeste hadn't heard, but which seemed like a thin curtain.
+
+"So, you like her hairstyle?"
+
+I nodded. Slowly, a reluctant admission.
+
+An flood of guilt followed. 
+
+*I shouldn't.*
+
+"Would you like to do your hair like that?"
+
+The curtain whisked away, silently. The lights in the room seemed brighter, somehow. There was no point in lying. Celeste was looking right through me, just like she did in the girl's bathroom a year ago.
+
+I hung my head, my eyes travelling to hers timidly, fearfully.
+
+I expected mockery. Or even, a bit of teasing.
+
+What I got was— matter-of-fact. 
+
+"Yes or no?"
+
+"Yes?"
+
+"What's the big deal, Charlie?" My mouth fell open. 
+
+Celeste seemed, sort of almost angry.
+
+*"It doesn't..."*
+
+"It's *your* hair, Charlie. You can do whatever you want with your hair."
+
+"But what if I look stupid?"
+
+Celeste's back straightened.
+
+"Are you really worried about that? Or something else?"
+
+She'd picked up a Vogue magazine and began flipping through it.
+
+And stopped on a page.
+
+For a while, she studied the images. She would look over at me, then back at the images. 
+
+Finally, she turned the magazine around towards me.
+
+"Here you go. Have a look. That's Leah's hairstyle, explained. Doesn't look all that hard."
+
+I scanned the images.
+
+*Was I actually allowed to do this?*
+
+I looked at Celeste's face. She was studying me.
+
+"Think you could do it?"
+
+I shook my head.
+
+"Why?"
+
+"Because it's — too pretty."
+
+*I wasn't allowed pretty, was I?*
+
+"You're objecting to pretty? What's *wrong* with pretty? You don't like pretty?"
+
+"No, I *like* it, but—"
+
+"You *do* like it."
+
+"Yes, I do."
+
+"But."
+
+"But... is it cool for me to do— pretty?" The last word came out in a whisper.
+
+"It's cool for you to do anything you want with your hair."
+
+"Even pretty?"
+
+Yes, even pretty." She leaned forward, her eyes locked on mine. "You. Just. Do. You."
+
+I slowly covered my mouth with both hands.
+
+I had no idea who I was.
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+## The Hairbrush
+
+[ *Celeste* ]
+
+I was scrolling through the archives of a costume website on my phone when I noticed Charlie exit Dr Winholmes' surgery. I put my phone away as he climbed in.
 
 "All good? How'd you go?"
 
@@ -364,30 +668,6 @@ Another pause.
 
 "If I'd like to do my hair like that." I could barely hear him, he spoke so quietly.
 
-"Would you?"
-
-Silence. When I looked over at him, he looked away quickly. 
-
-And gave a quick nod.
-
-"Cool."
-
-I could feel his eyes, wide now with amazement, on me.
-
-"Really?"
-
-"Sure. It'd be fun, don't you think?"
-
-He stared at the dashboard.
-
-"Wow," he said finally.
-
-"What." I wasn't so much asking as declaring the obvious.
-
-*What's the big deal?*
-
-"I never thought I could—" He faltered.
-
 The car was quiet for a long while, the only sound being the engine doing its thing.
 
 As we turned off the highway, he said quietly,
@@ -412,11 +692,11 @@ His hands stopped moving.
 
 "That's how I always dry my hair."
 
-"I thought you wanted to try something new."
+"Maybe you'd like to try something new."
 
 His mouth went sideways.
 
-"Yeah. I do."
+"Okay."
 
 I handed him my brush.
 
@@ -484,6 +764,7 @@ I said nothing.
 
 Just smiled.
 
+<hr class="section-break strong" />
 
 
 
@@ -492,115 +773,13 @@ Just smiled.
 
 
 
+## That Session
 
+[ *Celeste* ]
 
+I called in at the Woollies just up the road from Dr Winholmes' rooms to pick up a few things. When I returned to the car, Charlie was waiting for me.
 
-
-
-
-
-
-
-
-
-
-On the M1, we passed a bus. Out of the corner of my eye I could see Charlie staring at it. He seemed lost in thought.
-
-I gave him space. 
-
-We were about ten minutes from home when he finally spoke.
-
-"You know, Dr Winholmes didn't even ask why I was taking that medicine, Celeste." He wrapped his arms around himself.
-
-"Did she ask about your work?"
-
-He nodded.
-
-"And she wanted to know about my Mum."
-
-"Not your dad?"
-
-"Yeah, my dad too. A little."
-
-I caught a quick glance in my direction.
-
-"Could I ask you a favour, Celeste?"
-
-Something in my chest seemed to jump.
-
-*Charlie's never asked me for anything.*
-
-"Sure."
-
-A rather long silence followed.
-
-"Charlie?"
-
-He'd gone pink again.
-
-"Never mind," he mumbled.
-
-"No, what was it?"
-
-He clasped his hands tightly together.
-
-"Could— could you show me how you style your hair?"
-
----
-
-Sarah and Tahlia had just finished packing up the last of the dresses and were taping the boxes when Charlie emerged from his repair corner with several lace caps. His hair was still in the style I showed him yesterday, twisting the sides together before typing them into a loose ponytail. He had spent ages on it that morning. It was a lot tidier than usual, and it kept most of his hair away from his face. Most of it.
-
-"Were these meant to go with the dresses?"
-
-Tahlia shook her head.
-
-"They're not on the invoice."
-
-Charlie nodded, and turned to return to the repair corner. Just then, a voice behind them boomed:
-
-"Time you girls had lunch!"
-
-It was Bree. She was grinning at Charlie. He smiled back, a genuine smile. 
-
-Bree slipped an arm around his slender shoulders and guided him towards the tearoom. 
-
-Lily was peering into the Thai takeaway bag.
-
-"Pad Thai for me and for the lovely Charlie," Lily said cheerfully, "and a beef curry for the brave Bree."
-
-Charlie's face went slightly pink and he beamed.
-
-But then Sarah came into the tearoom, and was staring at him with raised eyebrows, and his smile froze slightly. 
-
-He ducked his head down and focused on his noodles.
-
-"You know, Charlie, there's another position opening in the palace," Bree said. 
-
-Lily looked puzzled.
-
-"I didn't realise any of the guys had left."
-
-Bree suppressed a smile.
-
-"They haven't."
-
-She glanced at Charlie, who was pretending not to hear. A smile flickered on Lily's lips. 
-
-Mara appeared at the door just then.
-
-"You're not headhunting my staff, are you, Bree?"
-
-"I would *never!*"
-
-Mara looked over her glasses at Bree.
-
-"That's good then."
-
-Charlie did not look up but his lips thinned the slightest bit.
-
----
-
-Ther was a Woollies just up the road from Dr Winholmes' rooms. When I returned to the car, Charlie was waiting for me. He looked full of — something.
+He looked full of — *something*.
 
 "Good session?"
 
@@ -618,13 +797,11 @@ He spun in his seat to face me.
 
 "Me?"
 
-Charlie seemed almost breathless.
-
 "I told her that I really liked how you did your hair." He cleared his throat. "Dr Winholmes wanted to know all about it. What did I find so appealing. What was my favourite style. All that kind of stuff."
 
 "So, all you talked about was my hair?"
 
-"Yep." He attached his seatbelt. "She didn't ask any questions about me. She asked about you. And about Wardrobe."
+"Pretty much." He attached his seatbelt. "She didn't ask any questions about me. She asked about you. And about Wardrobe."
 
 "What did you tell her about me?"
 
@@ -646,11 +823,11 @@ I let it go.
 
 "And you said?"
 
-"I, um." He faltered.
+"I, um." His smile faded.
 
 We eased onto the motorway. A strong wind was buffeting the little car.
 
-"I told her that it was losing you as a friend."
+"That it was losing you as a friend."
 
 The words sat between us as if they were glowing in neon lights. 
 
@@ -684,23 +861,23 @@ But two, that was not his greatest fear. It was that he didn't want to lose my f
 
 Try as I might, I couldn't get the maths to math.
 
-The wind had calmed by the time we got to Geelong.
+The wind pushed the car around the whole time on the motorway. It wasn't until we got to Geelong that things eased a bit.
 
-And then, suddenly, so did I. 
-
-I got it.
+And then — suddenly — I got it.
 
 The secrecy.
 
-The hiding.
+"What were you actually worried about, Charlie?"
 
-A tiny bit of it was possibly embarrassment.
 
-But it was definitely something more powerful.
 
-I selected my words carefully.
+---
 
-"Were you worried that you would lose my friendship if I'd found out about the meds, Charlie?"
+---
+
+
+
+
 
 He sat for a moment — his hands completely still.
 
