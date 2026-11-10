@@ -6153,7 +6153,7 @@ In a few moments, the appointment was booked.
 
 ---
 
-I was fiddling with the tape holding the cotton ball in the crook of my elbow a couple of afternoons later when I heard the creak of the front door. As Celeste came into the kitchen. I felt a strange sort of jealousy: her perfume and hounds-tooth jacket gave her that enviable executive look. Her smile lit the room.
+I was fiddling with the tape holding the cotton ball in the crook of my elbow a couple of afternoons later when I heard the creak of the front door. As Celeste came into the kitchen. I felt a strange sort of jealousy: her perfume and hounds-tooth jacket gave her that executive look. Her smile lit the room.
 
 "Hiya, lovely," she said as she flicked on the kettle.
 
@@ -6171,7 +6171,7 @@ One shoulder popped up for a tick.
 
 Celeste settled into a chair with a cup in one hand, her chin in the other.
 
-"She asked me to hold off one day until they have the results back." I stretched my neck, which had been feeling tight for days. "But she said that if the results were okay, I could carry on taking them."
+"She asked me to hold off on the meds — just for one day. Just until they have the results back." I stretched my neck, which had been feeling tight for days. "And she said that if the results were okay, I could carry on taking them."
 
 "How did that make you feel?"
 
