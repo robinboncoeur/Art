@@ -6,156 +6,6 @@
 
 
 
-## What I Don't Want
-
-[ *Charlie* ]
-
-I sort of didn't tell Celeste the actual truth when she asked about my family doctor and I told her I didn't have one. Mum used to take me to see Dr Harwood in Lara every so often, not because she felt there was something that needed looking at but just to shut Dad up. Dad was forever going on about how I need to bulk up a bit and that I wasn't going to amount to anything because I couldn't stand up to the footy boys when they were having a go at me. 
-
-Dr Harwood had suggested doing workouts at a gym. 
-
-However, I hated the gym: it stank of unwashed bodies and sweaty rubber and smelly socks. I went a grand total of twice: the second time I clumsily dropped a weight on my foot — it had slipped off the barbell. My foot swelled up sp bad I couldn't even wear shoes for a bit. 
-
-And limped for a month after that.
-
-Nothing more was said about gyms.
-
-Mara gave me the day off to go to Brunswick, which was near Melbourne. My appointment wasn't until the afternoon — good job it wasn't, because the bus trip was over three hours. One way.
-
-Turns out Dr Winholmes wasn't in that day. I was led into the room that smelled of garlic revisited.
-
-"Come-in, come-in, mate!"
-
-A guy in a Queen t-shirt — Queen: the music group, not royalty — and skinny jeans beckoned to me from behind his desk. He had clearly gotten his money's worth from his gym membership.
-
-I approached cautiously.
-
-He indicated a chair.
-
-I sat.
-
-He attempted a disarming smile. Which failed to disarm.
-
-"Hi... Charles, is it? My name's Ash. I'm a psychiatric registrar working with Dr Winholmes. She has asked me to do an initial assessment today. Is that okay with you?"
-
-*What if I said no?*
-
-"Yeah-okay."
-
-He frowned slightly as he studied the form on the desk. 
-
-"Right. So, what made you decide to come and see Dr Winholmes?"
-
-"Celeste's doctor."
-
-He looked up from his form.
-
-"I see. And why did you see Celeste's doctor?"
-
-"Because I was taking medicine to stop my body from changing."
-
-"Right." He cleared his throat. "So, what sorts of changes were you trying to prevent?"
-
-I stared at my hands for a while.
-
-"That's all right," he said carefully. "We can come back to that. What medicine were you taking?"
-
-"Spironolactone."
-
-"Okay." He scribbled on his paper for a moment, then sat back in his chair, leaning his cheek against his fist as he studied me. "Are you still taking Spironolactone?"
-
-I shook my head.
-
-"Celeste's doctor put me on some other stuff."
-
-He nodded slowly.
-
-"Who is Celeste?"
-
-I felt my face heat up.
-
-"My — roomie."
-
-The room was silent except for the pen scribbling on paper. Then:
-
-"Are you working?"
-
-"Yes, at Wardrobe."
-
-"Wardrobe? What's that?"
-
-"We maintain costumes for the Historical Faire at Anglesea."
-
-"Wow, really?" Ash's smile was a lot more real. "I was there last weekend with my partner. Those costumes are next level!"
-
-I gave what I hoped was a nice smile. And then:
-
-"What is your role at Wardrobe?"
-
-"Repairs. And testing."
-
-"Testing?"
-
-I felt the knot in my stomach ease a bit.
-
-"Yeah, we're making some new costumes. My boss is very clever. She is a costume designer."
-
-"You enjoy your work?"
-
-I nodded, and watched him scribble some more.
-
-"Can you describe to me what you do when you test a new garment?"
-
-By the time I'd finished explaining what I did, the knot was almost gone.
-
-"Sounds like you have an important position there at Wardrobe. Good people?"
-
-I smiled.
-
-"Best place in the world to work. Best place in the world to work."
-
-"What would you say makes it that way?"
-
-I thought a bit.
-
-"I feel like I— um, fit in." I was babbling, now. "Like, I'm part of the team. They don't seem to mind I'm a — bloke."
-
-That last bit felt like it was taking teeth with it as it came out of my mouth.
-
-Ash put his pen down.
-
-"May I ask you something, Charles?"
-
-I hesitated a moment, then nodded.
-
-"You said that your co-workers don't seem to have a problem with you being a bloke. I take it they're all women?"
-
-"Yes."
-
-"But do *you* mind?"
-
-I looked at him. Speechless.
-
-The knot came back suddenly.
-
-He waited.
-
-"Well, I don't want to look like one."
-
-"All right. I think that something you and Dr Winholmes can talk about, Charles."
-
-I felt frozen in my chair. I watched him type something into his PC, then heard his printer wake up.
-
-"The lab work your doctor did was important." He pulled a form from the printer, scribbled on it and handed it to me. "However, we will need you to do another blood test before you see Dr Winholmes. And let's set up your next appointment, shall we?"
-
-It was a long bus ride home.
-
-<hr class="section-break strong" />
-
-
-
-
-
 
 
 ## Complex, Not Complicated
@@ -178,7 +28,7 @@ I glanced at the clock in the kitchenette.
 
 "Well, *I* mind," I said carefully. "You coming home in the dark, that's just not on. Seriously, why don't you let me take you?"
 
-The look in his eyes reminded me of those doe eyes of his looking up to meet mine in the girl's bathroom a year ago.
+For a moment, I saw the boy who'd looked up at me in the girls' bathroom a year ago.
 
 "It's just, I hate to inconvenience you," he said softly.
 
@@ -202,7 +52,7 @@ We ate in silence for a while.
 
 "Oh? Like what?"
 
-Charlie stared at his empty plate for a moment. Then, his eyebrows rose.
+Charlie stared at his empty plate for a moment.
 
 "Well, like, why am I so freaked out by hair growing on my legs."
 
@@ -210,7 +60,7 @@ Charlie stared at his empty plate for a moment. Then, his eyebrows rose.
 
 He tipped his head.
 
-"No." He frowned slightly. "It wasn't Dr Winholmes, just this dude who smelled of garlic."
+"No." He frowned slightly. "It wasn't Dr Winholmes, just this guy who smelled of garlic."
 
 "Smelled of garlic? How close were you sitting to him?"
 
@@ -232,7 +82,9 @@ I waited.
 
 "You told him that?"
 
-He shook his head, his lips pinched sideways, as he pulled out a stapled-together set of papers from his bag and folded the first page over. I held out my hand.
+"Not exactly."
+
+He pulled out a stapled-together set of papers from his bag and folded the first page over. I held out my hand.
 
 "Have a look?"
 
@@ -240,7 +92,7 @@ It was a pathology request form. I could make out the words 'oestrogen' and 'tes
 
 "I reckon I'm a bit complicated," he said quietly.
 
-"Charlie, you're *complex*, not *complicated*," I said firmly. "That's not unusual: we're all a bit complex."
+"Charlie, you're *complex*, not *complicated*," I said firmly. "And that's okay."
 
 His shoulders seemed to ease slightly. His gaze drifted up to my hair. I saw his mouth soften.
 

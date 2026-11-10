@@ -6930,8 +6930,200 @@ And drifted off before I did.
 
 
 
-## 28 *Being Written*
+## 28 What I Don't Want
 
+[ *Charlie* ]
+
+I sort of told Celeste a porkie when she asked about my family doctor and I told her I didn't have one. Mum used to take me to see Dr Harwood in Lara every so often, not because she felt there was something that needed looking at but just to shut Dad up. Dad was forever going on about how I need to bulk up a bit and that I wasn't going to amount to anything because I couldn't stand up to the footy boys when they were having a go at me. 
+
+Dr Harwood had suggested doing workouts at a gym. 
+
+I remember hating the gym. It stank of sweat and rubber and old socks. I went a grand total of twice: the second time I managed to let a ten-kilo plate slip off a barbell onto my foot. My foot swelled up so bad I couldn't even put on my shoe for a month. 
+
+Nothing more was said about gyms. Even Dad stopped giving me dramas about it, although I could tell on those few weekends he was home that he wasn't impressed with his son. Like, at all.
+
+Pretty sure he would freak if he knew I was taking medicine to stop those changes he kept going on about.
+
+Mara gave me the day off to go to Brunswick. My appointment wasn't until the afternoon — good job it wasn't, because the bus trip was over three hours. One way.
+
+That was the longest three hours of my life.
+
+What was I going to tell Dr Winholmes? I tried to think of all sorts of things she might ask, and finally just gave up and stared out the window. A hard knot was growing in my stomach.
+
+And all that worrying was for nothing. Turns out Dr Winholmes wasn't even in that day. 
+
+Her rooms were a stone's throw from the bus stop, near a major intersection in an old weatherboard house, converted into consulting rooms. Looked like they'd done the renos on the cheap.
+
+After waiting in a corner with ancient magazines and a rack of pamphlets, I was led into a consulting room that smelled of garlic revisited.
+
+"Come-in come-in, mate!"
+
+This seriously buff bloke in a Queen t-shirt and skinny jeans beckoned to me from behind his desk. 
+
+He attempted a disarming smile. 
+
+Which failed to disarm.
+
+I approached cautiously.
+
+He indicated a chair.
+
+"Hi... Charles, is it? My name's Ash. I'm a psychiatric registrar working with Dr Winholmes. She has asked me to do an initial assessment today."
+
+I sat.
+
+"Is that okay with you?"
+
+*What if I said no?*
+
+"Yeah-okay."
+
+He studied the form on the desk. 
+
+"Right. So, why did you wish to see Dr Winholmes?"
+
+"Celeste's doctor wanted me to."
+
+He looked up from his form.
+
+"Right-o. And why did you see Celeste's doctor?"
+
+"Because I was taking medicine to stop my body from changing."
+
+"Okay." He cleared his throat. "So, what sorts of changes were you trying to prevent?"
+
+I stared at my hands for a while. When I finally glanced at him, his eyebrows said 'I'm waiting'.
+
+"I— um—"
+
+"That's all right," he said carefully. "We can come back to that. What medicine were you taking?"
+
+"Spironolactone."
+
+"Right!" He scribbled on his paper for a moment, then sat back in his chair, leaning his cheek against his fist as he studied me. "Are you still taking Spironolactone?"
+
+I shook my head.
+
+"Celeste's doctor put me on something else."
+
+He nodded slowly.
+
+"So, who is Celeste?"
+
+I felt my face heat up.
+
+"My— roomie."
+
+The room was silent except for the pen scribbling on paper. Then:
+
+"Are you currently working?"
+
+"Yes, at Wardrobe."
+
+"Wardrobe? What's that?"
+
+"We maintain costumes for the Historical Faire at Anglesea."
+
+"Wow, really?" Ash seemed to loosen up. "I was there last weekend with my partner. Those costumes are next level! So, what is your role at Wardrobe?"
+
+"I do repairs. Oh, and I used to do testing."
+
+"Testing?"
+
+I felt the knot in my stomach ease a bit.
+
+"Yeah, I was testing some of our new costumes. My boss is very clever. She is a costume designer."
+
+"Do you enjoy your work?"
+
+I nodded, and watched him scribble some more.
+
+"Can you describe to me what you do when you test a new garment?"
+
+By the time I'd finished talking, the knot was almost gone.
+
+"Sounds like you have an important position there at Wardrobe. You get on with the people?"
+
+I smiled.
+
+"Oh yes. Best place in the world."
+
+"That good, hey?"
+
+"Yep."
+
+"What makes it so good?"
+
+I thought a bit.
+
+"I feel like I— um, fit in. Like, I'm part of the team. They don't seem to mind I'm a— bloke."
+
+As soon as I said that last bit, I wished I hadn't.
+
+Ash put his pen down.
+
+"May I ask you something, Charles?"
+
+I hesitated a moment, then nodded.
+
+"You said that your co-workers don't seem to have a problem with you being a bloke."
+
+"Yeah."
+
+"Why would they mind?"
+
+I stared at him.
+
+"Well, they're all *women*."
+
+"Yeah?"
+
+He waited.
+
+"Does it bother *you*?" he asked finally.
+
+I looked at him. Speechless.
+
+The knot came back suddenly.
+
+"What do you mean?"
+
+"Does it bother you, being a bloke?"
+
+My mouth went dry.
+
+"Well, all I know is I don't want to look like one."
+
+I could feel his eyes on me.
+
+"Have you felt that way for a while?"
+
+My shoulders did a sort of shrug.
+
+"I guess so."
+
+Outside, the pedestrian crossing's chirp changed to that "doop-doop-doop" sound when it's safe to cross.
+
+I stared at my hands.
+
+"All right, Charles," I heard him say finally. "I think that's something you might want to explore with Dr Winholmes."
+
+I watched him type something into his PC, then heard his printer wake up.
+
+"I'd like another set of blood tests before you see Dr Winholmes, just to check how you're going on the new medication." He pulled a form from the printer, scribbled on it and handed it to me. "Let's set up your next appointment, shall we?"
+
+As I boarded the bus, I wished I hadn't yapped so much. What was Ash going to do with what I'd told him? What would Dr Winholmes think of me?
+
+It was a long bus ride home.
+
+<hr class="section-break strong" />
+
+
+
+
+## 29 *Being Written*
+
+<!--
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
@@ -6940,13 +7132,14 @@ And drifted off before I did.
     </audio>
   </div>
 </div>
+-->
 
 <!--
 Time of year: Mid November (closing down on Celeste's birthday, the 21st)
 -->
 
 
-[*Being Written...* 18-Oct-2026](W_Edits2.md)
+[*Being Written...* 10-Nov-2026](W_Edits2.md)
 
 
 

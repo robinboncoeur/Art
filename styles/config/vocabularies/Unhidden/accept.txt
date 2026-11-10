@@ -81,6 +81,7 @@ personhood
 PDFs?
 Pfaff
 poeme
+[Pp]orkies?
 Powercor
 Promite
 Qld
@@ -90,6 +91,7 @@ Rache
 reaticulate
 [Rr]ecalibrate(s|d)?
 Redland
+[Rr]enos?
 repinned
 rethread(ing|ed|s)?
 Retraite
