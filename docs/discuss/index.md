@@ -1,6 +1,6 @@
 # Discussions
 
-[![Run for It][Br01]{ .artC width="1100" }][Br01]
+[![Run for It][BrcS1]{ .artC width="1100" }][BrcS1]
 
 <hr class="section-break strong" />
 
@@ -72,14 +72,22 @@ He told his followers to inject themselves with bleach to kill a virus, said to 
 
 The man speaks on a 4th grade level, has no critical thinking skills and the only book he has seemed to have read is Mein Kampf.
 
+❤️
+
 <hr class="section-break strong" />
 
 
 
+<!-- Images References -->
+
+--8<-- "includes/image-references.md"
+
+🌷
 
 
-<!--  Image references  -->
+<hr class="section-break strong" />
 
-[Br01]: ../assets/images/base/Bnr01b.jpg
-
-[Sk00]: ../assets/images/base/00Writer.jpg
+<!--
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧👢✨…
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  —
+/-->
