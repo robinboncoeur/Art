@@ -5461,7 +5461,7 @@ Neither did Sarah.
 
 
 
-## 22 Crushing
+## 22 💎 Crushing
 
 <div class="music-card music-card--with-art">
   <div class="music-content">
@@ -5700,7 +5700,7 @@ When he saw what I held in my hand, his face suddenly went from red to white.
 
 
 
-## 23 Ready to Listen
+## 23 🛋 Ready to Listen
 
 <div class="music-card music-card--with-art">
   <div class="music-content">
@@ -5958,7 +5958,7 @@ I could feel his eyes on me as I went to my room.
 
 
 
-## 24 Professional
+## 24 💻 Professional
 
 <div class="music-card music-card--with-art">
   <div class="music-content">
@@ -6930,7 +6930,7 @@ And drifted off before I did.
 
 
 
-## 28 What I Don't Want
+## 28 💼 What I Don't Want
 
 [ *Charlie* ]
 
@@ -7121,7 +7121,7 @@ It was a long bus ride home.
 
 
 
-## 29 ## Complex, Not Complicated
+## 29 🌧 Complex, Not Complicated
 
 [ *Celeste* ]
 
