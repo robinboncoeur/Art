@@ -7121,7 +7121,105 @@ It was a long bus ride home.
 
 
 
-## 29 *Being Written*
+## 29 ## Complex, Not Complicated
+
+[ *Celeste* ]
+
+Charlie got back very late that night. He threw me a pinched smile as he pulled off his sneakers.
+
+"How did you go?"
+
+He shrugged as he settled into his chair, dropping his messenger bag at his feet.
+
+"Yeah-alright."
+
+I glanced at the clock in the kitchenette.
+
+"Eight forty-five. You're spending your life on a bus."
+
+"I don't mind," he murmured.
+
+"Well, *I* mind," I said carefully. "You coming home in the dark, that's just not on. Seriously, why don't you let me take you?"
+
+For a moment, I saw the boy who'd looked up at me in the girls' bathroom a year ago.
+
+"It's just, I hate to inconvenience you," he said softly.
+
+"But you're okay with me *worrying* about you instead?"
+
+His eyes went round.
+
+*Oh.*
+
+He bit his lip and his right shoulder rose a fraction.
+
+"You hungry?"
+
+He nodded.
+
+"Okay with sandwiches?"
+
+We ate in silence for a while.
+
+"I was thinking about all kinds of stuff on the bus home," he said finally.
+
+"Oh? Like what?"
+
+Charlie stared at his empty plate for a moment.
+
+"Well, like, what have I started?" His eyes sought mine. "Can you imagine my Dad, if he found out." His eyes widened. "Or even my Mum."
+
+I leaned back in my chair, and rubbed my neck.
+
+"Charlie, you're nineteen!"
+
+He bit a nail.
+
+"So?"
+
+"You *do* know you have the right to make choices, right?"
+
+"Even a weird one like this?"
+
+"*Especially* an unusual one like this — and why do you call it weird?"
+
+"It doesn't seem weird to you?"
+
+I shook my head.
+
+"There's absolutely nothing wrong with knowing what you don't want."
+
+He stopped looking at me, staring at nothing instead for quite a while.
+
+I waited.
+
+Finally, he focused on the rest of his sandwich.
+
+"I guess I'll just need to sort next what I *do* want, hey?" he murmured.
+
+"Process of elimination."
+
+He grinned and got up, grabbing our empty plates.
+
+"When's your next appointment?" I asked him.
+
+"Next Thursday. At four-thirty."
+
+"Right!" I stood and faced him. "Well, there's no way you're taking the bus next Thursday, Charlie."
+
+He tipped his head and took the plates into the kitchenette.
+
+A moment later, I heard the tap and the clink of cutlery on plates.
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+## 30 *Being Written*
 
 <!--
 <div class="music-card music-card--with-art">
@@ -7139,7 +7237,7 @@ Time of year: Mid November (closing down on Celeste's birthday, the 21st)
 -->
 
 
-[*Being Written...* 10-Nov-2026](W_Edits2.md)
+[*Being Written...* 11-Nov-2026](W_Edits2.md)
 
 
 
