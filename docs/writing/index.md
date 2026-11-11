@@ -31,21 +31,21 @@ It all started with The Wrong Door.
 
 I made all images and videos on these pages using AI vision models in ComfyUI, a browser-based 'Image Creation' interface. It is flexible and powerful, and gives me a reasonably quick way to create contextual images to bring my stories to life. For storytelling, these factors matter:
 
-* **Character persistence**  
-  Nodes used: LoRAs in Z-Image Turbo
-  LoRA = Low-ranking adaptation: tiny model telling massive model how to draw Celeste's face
-  Not using Flux.1-Dev because of the constant cleft chin problem
-	Now able to quickly make Z-Image Turbo LoRAs using [DiffSynth](https://github.com/modelscope/diffsynth-studio) 
+* **Character persistence**    
+  Nodes used: LoRAs in Z-Image Turbo  
+  LoRA = Low-ranking adaptation: tiny model telling massive model how to draw Celeste's face  
+  Not using Flux.1-Dev because of the constant cleft chin problem  
+	Now able to quickly make Z-Image Turbo LoRAs using [DiffSynth](https://github.com/modelscope/diffsynth-studio)   
 
 * **Anatomical accuracy**  
   Models used: 
   
-  1. Z-Image Turbo
-  2. *Much less*: Flux1 Dev (SRPO)
-  3. *Even lesser extent*: Flux1 Dev (Kontext)
-  4. Qwen Image Edit
-  5. SeedV2 (not a proper model, used for scaling up)
-  6. Trialed Flux2 Klein, not fussed.
+  1. Z-Image Turbo  
+  2. *Much less*: Flux1 Dev (SRPO)  
+  3. *Even lesser extent*: Flux1 Dev (Kontext)  
+  4. Qwen Image Edit  
+  5. SeedV2 (not a proper model, used for scaling up)  
+  6. Trialed Flux2 Klein, not fussed.  
 
 <hr class="section-break soft" />
 
