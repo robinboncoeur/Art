@@ -5960,14 +5960,10 @@ I could feel his eyes on me as I went to my room.
 
 ## 24 💻 Professional
 
-<div class="music-card music-card--with-art">
-  <div class="music-content">
-    <audio controls preload="metadata" class="music-player">
+<div class="music-card music-card--with-art"><div class="music-content"><audio controls preload="metadata" class="music-player">
       <source src="https://media.seabrae.org/audio/cg/Chapter24-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
-    </audio>
-  </div>
-</div>
+</audio></div></div>
 
 <!--
 Time of year:
@@ -7122,6 +7118,15 @@ It was a long bus ride home.
 
 
 ## 29 🌧 Complex, Not Complicated
+
+<div class="music-card music-card--with-art">
+	<div class="music-content">
+		<audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/Chapter29-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+	</div>
+</div>
 
 [ *Celeste* ]
 
