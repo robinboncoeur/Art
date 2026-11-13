@@ -1,7 +1,5 @@
 # Charlie And Celeste
 
-
-
 <hr class="section-break strong" />
 
 
@@ -13,13 +11,13 @@
 
 [ *Charlie* ]
 
-There was only one item on the repair pile that afternoon, a palace gown with a loose bit of lace trim on a sleeve. The lace was hanging on by a few threads. It wasn't one of the Wardrobe gowns: none of them ever lost shaping or trim or anything.
+The only one item on the repair pile that afternoon was a palace gown with a loose bit of lace trim on a sleeve. It was one of the last store-bought gowns.
 
-I rubbed the lace cautiously between my fingers and gave it a slight tug. A single thread gripped the filigree into an ugly pucker.
+I rubbed the lace cautiously between my fingers and then gave it a slight tug. A single thread gripped the filigree into an ugly pucker.
 
-In our lace drawer, I found some lace on a roll of a similar design. I sat down and draped the dress over my knees.
+I found some in the lace drawer of a similar design. 
 
-Ihe smell of a scorched cloth got my attention. Leah was standing over a the caraco jacket staring at the bottom of an iron. 
+As I sat down and draped the dress over my knees, the smell of a scorched cloth got my attention. Leah was standing over a the caraco jacket staring at the bottom of an iron. 
 
 "Too hot?"
 
@@ -53,9 +51,7 @@ I began to slowly unpick it.
 
 Leah studied my hands as I worked.
 
-I gave her a quick smile.
-
-Her hair was up in one of those 'French girl' updos.
+When I gave her a quick smile, I noticed her hair was up in one of those 'French girl' updos.
 
 "What are you looking at?"
 
@@ -77,7 +73,7 @@ I swallowed and tucked my head down.
 
 "It's really pretty."
 
-Tahlia's overlocker whirred.
+The old Bosch front-loader ended its final drying spin with a loud rattle.
 
 "Um, thanks." A short pause. "I guess."
 
@@ -93,19 +89,19 @@ Leah was staring at *me*. Well — actually — my hair.
 
 "Ironing." Mara's voice rose over the steamer. 
 
-Leah wagged her eyebrows and grinned as she flounced back to her corner.
+Leah wagged her eyebrows at me with a grin as she flounced back to her corner.
 
 I stared at the half-removed collar.
 
 *"You should try something new..."*
 
-I couldn't thinking about Leah's hair. 
+I couldn't stop thinking about Leah's hair. 
 
 ---
 
 The rain made the front door stick more than usual that night when I got home. 
 
-Celeste was frowning at the open fridge.
+I found Celeste frowning at the open fridge.
 
 "I can't decide what to make."
 
@@ -115,11 +111,9 @@ Celeste was frowning at the open fridge.
 
 "What's wrong with pasta?"
 
-She closed the fridge and opened the freezer.
+She closed the fridge.
 
-"I'm a bit over it. You should try something new."
-
-*Something new.*
+"I'm a bit over it." She opened the freezer. "You should try something new."
 
 I stopped.
 
@@ -149,7 +143,7 @@ Celeste grinned.
 
 "Hair?"
 
-"I told her I liked her hair. And then, she was like, *I* should try something new."
+"I told her I liked her hair. And then, she was like, 'you should try something new.' Meaning me."
 
 The words sat in the air between us.
 
@@ -211,7 +205,7 @@ Finally, she turned the magazine around towards me.
 
 "Have a look. That's Leah's hairstyle, step by step."
 
-I quickly scanned the images and then, at Celeste's face.
+I quickly scanned the images and then, Celeste's face.
 
 "What do you think?"
 
@@ -229,7 +223,7 @@ I shook my head.
 
 "But... it isn't cool for *me* to do pretty, is it?" 
 
-The last word came out in a whisper.
+The last bit came out in almost a whisper.
 
 The sheers moved again.
 
@@ -287,7 +281,7 @@ The kettle dinged cheerfully.
 
 [ *Celeste* ]
 
-I was scrolling through the archives of a costume website on my phone when I noticed Charlie exit Dr Winholmes' surgery. I put my phone away as he climbed in.
+I was scrolling through the archives of a costume website on my phone when I noticed Charlie exit Dr Winholmes' rooms. I put my phone away as he climbed in.
 
 "All good? How'd you go?"
 
@@ -297,19 +291,19 @@ Charlie flashed me a smile: a genuine one.
 
 "Dr Winholmes?"
 
-"Yes." He attached his seatbelt. "She's amazing. It was so different from last week. For one thing, she smelled nice."
+"Yes." He attached his seatbelt. "She's amazing. For one thing, she smelled nice."
 
 I grinned.
 
 "How does she do her hair?"
 
-"In a bob." He pursed his lips. "Her voice is so gentle, Celeste. We just sat on her couch chatting. Totally chill."
+"In a bob." He pursed his lips. "We just sat on her couch and chatted. Totally chill."
 
 I turned on the indicator as we joined the homeward-bound traffic.
 
 His fingers worried the leather strap of his messenger bag.
 
-"I did tell her," he continued quietly, "that I, um, liked your hair. You know?"
+"I told her that I, um, liked your hair," he continued quietly.
 
 "What did she say?"
 
@@ -319,11 +313,11 @@ I waited.
 
 "Um, I said you would sometimes do different things, and your hair would always looked cool."
 
-An e-vehicle swept past us.
+A semi roared past us.
 
 "What did she say about that?"
 
-"Not much. She actually didn't talk much."
+"Nothing. She actually didn't say all that much."
 
 "Did you expect her to?"
 
@@ -339,9 +333,9 @@ Nodded.
 
 "Cool. Have a shower. And be sure to use conditioner, okay?"
 
-He took a long time in the bathroom. He finally emerged in shorts and a t-shirt, toweling his hair vigorously.
+He took a long time in the bathroom. When he finally emerged in shorts and a t-shirt, he was toweling his hair vigorously.
 
-"Charlie, what are you doing?"
+"What are you doing?"
 
 His hands stopped moving.
 
@@ -349,7 +343,7 @@ His hands stopped moving.
 
 "That's how you dry a St Bernard."
 
-"Oh, well, that's how I usually—"
+"But that's how I usually—"
 
 "Maybe you'd like to try something new."
 
@@ -363,9 +357,7 @@ He brought it up to the crown of his head.
 
 "No, start at the ends."
 
-He was a long time brushing his hair out. It was time well spent.
-
-He was almost finished when there was a knock on the door.
+He was a long time brushing his hair out. He was almost finished when there was a knock on the door.
 
 It was our neighbour, Max.
 
@@ -411,19 +403,69 @@ He nodded.
 
 I stared at him for a moment.
 
-"Okay." I looked at the brush, then him. "Do you want to finish brushing your hair?"
+"Okay." I looked at the brush, then him. "Do you want to finish?"
 
 He swallowed and slowly resumed.
 
 I sat down next to him.
 
-I said nothing.
-
-Just smiled.
+And gave him a smile.
 
 <hr class="section-break strong" />
 
 
+
+
+
+
+
+
+
+## Chignon
+
+I stared at my reflection in the mirror.
+
+My reflection stared back at me.
+
+Disbelief.
+
+Celeste had gone to bed an hour earlier. I was in the same place she'd left me.
+
+I could see my eyes: they were on my hair.
+
+And then, on my face.
+
+Puzzled.
+
+I really truly don't think that I ever, ever had looked at myself that closely, that long, in my entire life, all together, ever. Never. I mean, if you added up all the minutes I'd ever looked at myself in the mirror ever since I was born, that night would have been heaps longer. By a long shot.
+
+I couldn't get my head around what I was seeing.
+
+I didn't know the person in the mirror.
+
+It was someone else.
+
+Yet, it was me.
+
+I'd nod.
+
+It nodded.
+
+I would smile.
+
+It would smile right back.
+
+I really liked what I was seeing in the mirror.
+
+I didn't want it to go away, or to go back to what I was used to seeing.
+
+I didn't want to go to bed.
+
+But I had to.
+
+Bed.
+
+<hr class="section-break strong" />
 
 
 
