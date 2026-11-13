@@ -11,13 +11,13 @@
 
 [ *Charlie* ]
 
-The only one item on the repair pile that afternoon was a palace gown with a loose bit of lace trim on a sleeve. It was one of the last store-bought gowns.
+The only item on the repair pile that afternoon was a palace gown with a loose bit of lace trim on a sleeve. It was one of the last store-bought gowns.
 
-I rubbed the lace cautiously between my fingers and then gave it a slight tug. A single thread gripped the filigree into an ugly pucker.
+I rubbed the lace cautiously between my fingers and gave it a slight tug. A single thread gripped the filigree into an ugly pucker.
 
-I found some in the lace drawer of a similar design. 
+I looked for lace to replace it, lace of a similar design. 
 
-As I sat down and draped the dress over my knees, the smell of a scorched cloth got my attention. Leah was standing over a the caraco jacket staring at the bottom of an iron. 
+As I sat down and draped the dress over my knees, the smell of a scorched cloth got my attention. Leah was standing over a caraco jacket staring at the bottom of an iron. 
 
 "Too hot?"
 
@@ -25,7 +25,7 @@ Leah glanced at me.
 
 "It wasn't working at all before, so I turned it up."
 
-"Do you have any water in the thingie?"
+"Is there any water in the thingie?"
 
 Leah seemed to sag a bit. Her lips pinched as she shook the iron.
 
@@ -33,25 +33,33 @@ Leah seemed to sag a bit. Her lips pinched as she shook the iron.
 
 "Have a look?"
 
-She brought the jacket over, settling into a chair next to me. The scorched smell mixed with something nicer. Bergamot. And vanilla.
+She brought the jacket over, settling into a chair next to me. 
 
-"You should keep playing your oboe," she said softly, her eyes flicking over to Mara.
+I put down the lace and the dress. The scorched smell mixed with something nicer. Bergamot. And vanilla.
+
+"You should keep playing your oboe," she said softly as I examined the collar.
 
 "I suck at the oboe."
 
-"I know." Her lips curled slightly. "Still. Don't give it up. You don't know how good you could be if you give up."
+"I know."
 
-Leah was an amazing clarinet player: in fact, so good she'd played the solo in the second movement of Finzi's Clarinet Concerto.
+Leah was an amazing clarinet player. She was the Paganini of clarinetists: so good in fact that her solo of the second movement of Finzi's Clarinet Concerto earned her a standing ovation from an audience who had no clue who Gerald Finzi even was. 
 
-I put down the lace and the dress.
+It was at the same time her finest hour and my lowest musical moment.
+
+Her lips curled slightly. 
+
+"Still. Don't give it up. You don't know how good you could be."
+
+I shrugged.
+
+"Yeah, I suppose."
 
 The collar was scorched. 
 
-I began to slowly unpick it.
+I gave her a quick smile and pick up the *lame*.
 
-Leah studied my hands as I worked.
-
-When I gave her a quick smile, I noticed her hair was up in one of those 'French girl' updos.
+And noticed her hair was up in one of those 'French girl' updos.
 
 "What are you looking at?"
 
@@ -59,9 +67,9 @@ I looked away quickly.
 
 "Sorry."
 
-I felt heat rise in my face.
-
 "What were you looking at?"
+
+I felt heat rise in my face.
 
 "Your hair."
 
@@ -69,17 +77,19 @@ Her frown softened.
 
 "What about my hair?"
 
-I swallowed and tucked my head down. 
+I began to slowly unpick the seam. 
 
-"It's really pretty."
+"It's really pretty," I mumbled.
 
-The old Bosch front-loader ended its final drying spin with a loud rattle.
+"Um, thanks." Her brows did a quick frown. "I *guess*."
 
-"Um, thanks." A short pause. "I guess."
+I focused on the seam. 
 
-I focused on the stitching. The collar was halfway off before I looked up again. 
+The old Bosch front-loader had just ended its final spin cycle with a loud rattle and the collar was almost off before I looked up again. 
 
-Leah was staring at *me*. Well — actually — my hair.
+Leah was staring at *me*. 
+
+Well — actually — my hair.
 
 "You should try something new."
 
@@ -87,9 +97,9 @@ Leah was staring at *me*. Well — actually — my hair.
 
 "I don't know. Just, *something* besides tying it back."
 
-"Ironing." Mara's voice rose over the steamer. 
+"Ironing." Mara's voice cut through the hiss the steamer. 
 
-Leah wagged her eyebrows at me with a grin as she flounced back to her corner.
+Leah wagged her eyebrows at me as she flounced back to her corner.
 
 I stared at the half-removed collar.
 
