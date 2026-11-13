@@ -15,19 +15,11 @@
 
 There was only one item on the repair pile that afternoon, a palace gown with a loose bit of lace trim on a sleeve. The lace was hanging on by a few threads. It wasn't one of the Wardrobe gowns: none of them ever lost shaping or trim or anything.
 
-I rubbed the lace cautiously between my fingers.
+I rubbed the lace cautiously between my fingers and gave it a slight tug. A single thread gripped the filigree into an ugly pucker.
 
-And for a weird reason, flashed on Ash's Queen t-shirt.
+In our lace drawer, I found some lace on a roll of a similar design. I sat down and draped the dress over my knees.
 
-"For instance, I really enjoy working out," I remember him telling me. And I remember his biceps flexing under his shirt. And then he said in an oddly gentle voice, "That doesn't mean everyone does. Or has to."
-
-I gave the lace a slight tug. It unravelled further.
-
-In our lace drawer, I found some lace on a roll of a similar design. I could feel Mara's eyes on me. Her eyebrows rose slightly.
-
-It was her version of: 'carry on'.
-
-I sat down and draped the dress over my knees. The smell of a hot iron caught my attention. Leah was standing over a the caraco jacket staring in disbelief at the bottom of an iron in her hand. 
+Ihe smell of a scorched cloth got my attention. Leah was standing over a the caraco jacket staring at the bottom of an iron. 
 
 "Too hot?"
 
@@ -35,265 +27,256 @@ Leah glanced at me.
 
 "It wasn't working at all before, so I turned it up."
 
-"Is there water in the thingie?"
+"Do you have any water in the thingie?"
 
-Leah seemed to sag a bit. Her lips pinched a bit as she shook her head.
+Leah seemed to sag a bit. Her lips pinched as she shook the iron.
 
 "I think I might have burnt the collar—"
 
 "Have a look?"
 
-She unplugged the iron and brought the jacket over, settling into a chair next to me. The hot iron smell mixed with something nicer. Bergamot. And vanilla.
+She brought the jacket over, settling into a chair next to me. The scorched smell mixed with something nicer. Bergamot. And vanilla.
 
 "You should keep playing your oboe," she said softly, her eyes flicking over to Mara.
 
 "I suck at the oboe."
 
-"I know." Her lips curled slightly. "Still. Don't give it up. You don't know how good you could be if you give up straight-away."
+"I know." Her lips curled slightly. "Still. Don't give it up. You don't know how good you could be if you give up."
 
-I remember she was an amazing clarinet player: in fact, she was so good she'd played a solo piece in the school orchestra. I remember the piece: the second movement of Finzi's Clarinet Concerto.
+Leah was an amazing clarinet player: in fact, so good she'd played the solo in the second movement of Finzi's Clarinet Concerto.
 
-I'd been hearing that clarinet in my head the last few days.
+I put down the lace and the dress.
 
-I put down the lace and the dress, and examined the collar.
-
-It was scorched. 
+The collar was scorched. 
 
 I began to slowly unpick it.
 
-Leah was studying my hands as I worked.
+Leah studied my hands as I worked.
 
 I gave her a quick smile.
 
-And happened to notice that her hair was up in one of those 'French girl' updos.
+Her hair was up in one of those 'French girl' updos.
 
-Leah noticed.
-
-"What?"
-
-She frowned.
+"What are you looking at?"
 
 I looked away quickly.
 
 "Sorry."
 
-"What were you looking at?"
-
 I felt heat rise in my face.
+
+"What were you looking at?"
 
 "Your hair."
 
-Her frown went sideways.
+Her frown softened.
 
 "What about my hair?"
 
-I swallowed. Hard. 
-
-*Time to be truthful.*
+I swallowed and tucked my head down. 
 
 "It's really pretty."
 
-Her face went blank.
+Tahlia's overlocker whirred.
 
-"Um, thanks." 
+"Um, thanks." A short pause. "I guess."
 
-A short pause. 
+I focused on the stitching. The collar was halfway off before I looked up again. 
 
-"I guess."
+Leah was staring at *me*. Well — actually — my hair.
 
-Her eyes followed the *lame* in my hand. The collar was halfway off before I looked up again. 
+"You should try something new."
 
-Now, she staring at *me*.
+"What do you mean?"
 
-"You should do something with *your* hair."
+"I don't know. Just, *something* besides tying it back."
 
-"What do you mean? I *do!*"
+"Ironing." Mara's voice rose over the steamer. 
 
-"Yeah-right, you brush it and tie it back? Whoop-dee-do."
-
-"Back to your ironing." Mara's voice rose over the steamer. Leah gave me a look — lips squeezed, eyebrows raised — as she got up. She flounced back to her iron.
+Leah wagged her eyebrows and grinned as she flounced back to her corner.
 
 I stared at the half-removed collar.
 
-*"That doesn't mean everyone..."*
+*"You should try something new..."*
 
-I couldn't keep my eyes off Leah's hair. 
-
-And caught the grin she gave me.
-
-I grinned back.
-
-Reflex. 
+I couldn't thinking about Leah's hair. 
 
 ---
 
-When I got back to the apartment, Celeste stood frowning at the open fridge.
+The rain made the front door stick more than usual that night when I got home. 
 
-"This is the hardest part, you know. Deciding."
+Celeste was frowning at the open fridge.
 
-"Do you want me to cook tonight?" I offered.
+"I can't decide what to make."
 
-"Not really. You always make pasta."
+"Do you want me to cook tonight?"
 
-"So what's wrong with pasta?"
+"Not really, Charlie. All you ever make is pasta."
 
-"I'm a bit over it. I'd like to try something new."
+"What's wrong with pasta?"
 
-"Something new—" I began.
+She closed the fridge and opened the freezer.
 
-And froze.
+"I'm a bit over it. You should try something new."
 
-Her eyes went to me. The fridge beeped.
+*Something new.*
 
-I shook my head.
+I stopped.
 
-"I— never mind," I muttered.
+Her eyebrows rose.
 
-There was a pause. Her eyes seemed laser-focused.
+I shook my head slowly.
 
-The fridge beeped again.
+The freezer beeped.
 
 "What were you going to say?"
 
-"It doesn't have anything to do with food."
+"Nothing."
 
 Her mouth tightened.
 
-"Hair, then?"
+"You sure?"
 
-I was suddenly intensely aware of everything: the position of my body, the look on my face. 
+"It's just—." My breath came out in a huff. "That's what Leah said today."
 
-*How did she know?*
+"Why, what was she talking about?"
 
-I suddenly felt the old fear. I could taste it — I felt myself move towards it as if it was a magnet.
+My face felt suddenly hot. 
 
-"Don't."
+"Hair."
 
-"Don't what?"
+Celeste grinned.
 
-"Don't— disappear." 
+"Hair?"
 
-I sat down slowly, carefully, almost gingerly, as if the chair was made of crystal. 
+"I told her I liked her hair. And then, she was like, *I* should try something new."
 
-I bit a nail.
+The words sat in the air between us.
 
-"What were you and Leah talking about?"
+I watched the sheers at the window sway gently.
 
-"She'd scorched the collar of a jacket—"
+"What do you think you want to try?"
 
-"No," Celeste cut in. "I mean, what were you *talking* about?"
+My mind was a blank.
 
-"Music."
+"I dunno."
 
-"You were looking at *her*. It wasn't about music."
+"Antonio Banderas?"
 
-My face felt suddenly on fire. Celeste grinned.
+"No."
 
-"Yeah, I guess," I admitted.
+That came out rather more quickly than I wanted. Celeste's look was sharp.
 
-"Are you attracted to her?"
+"Oh that's right," she said, "we don't like blokey."
 
-"To Leah?" Celeste's grin broadened. The fire grew more intense. "No way!"
+The heat in my face wasn't easing off any.
 
-"You couldn't keep your eyes off her today. Everybody saw it."
+"You don't want to cut it any shorter, right?"
 
-*Oh shit.*
+I couldn't think of anything to say, so just shook my head.
 
-"I was just— looking at her—" I squeezed my eyes shut. "Hair."
+"Well, how about doing your hair like Leah's, then?"
 
-Celeste's gaze softened.
+It felt like someone had turned up the lights, somehow.
 
-"Ah."
+My eyes went to hers, cautiously.
 
-*"It doesn't mean..."* 
+I expected mockery. 
 
-The words sat in the air between us, words Celeste hadn't heard, but which seemed like a thin curtain.
+Or at least, teasing.
 
-"So, you like her hairstyle?"
-
-I nodded. Slowly, a reluctant admission.
-
-An flood of guilt followed. 
-
-*I shouldn't.*
-
-"Would you like to do your hair like that?"
-
-The curtain whisked away, silently. The lights in the room seemed brighter, somehow. There was no point in lying. Celeste was looking right through me, just like she did in the girl's bathroom a year ago.
-
-I hung my head, my eyes travelling to hers timidly, fearfully.
-
-I expected mockery. Or even, a bit of teasing.
-
-What I got was— matter-of-fact. 
+What I got was — matter-of-fact. 
 
 "Yes or no?"
 
 "Yes?"
 
-"What's the big deal, Charlie?" My mouth fell open. 
+I could feel my back go rigid. 
 
-Celeste seemed, sort of almost angry.
+Celeste's eyes never left me as she settled back in her chair.
 
-*"It doesn't..."*
+"What's the big deal, Charlie?" 
 
-"It's *your* hair, Charlie. You can do whatever you want with your hair."
+I had no words.
 
-"But what if I look stupid?"
+Celeste puffed through her nose. 
 
-Celeste's back straightened.
-
-"Are you really worried about that? Or something else?"
-
-She'd picked up a Vogue magazine and began flipping through it.
+She picked up a Vogue magazine and began flipping through it.
 
 And stopped on a page.
 
-For a while, she studied the images. She would look over at me, then back at the images. 
+For a while, she studied the page. Every now and then, she glanced at me.
 
 Finally, she turned the magazine around towards me.
 
-"Here you go. Have a look. That's Leah's hairstyle, explained. Doesn't look all that hard."
+"Have a look. That's Leah's hairstyle, step by step."
 
-I scanned the images.
+I quickly scanned the images and then, at Celeste's face.
 
-*Was I actually allowed to do this?*
-
-I looked at Celeste's face. She was studying me.
-
-"Think you could do it?"
+"What do you think?"
 
 I shook my head.
 
-"Why?"
+"Why not?"
 
-"Because it's — too pretty."
+"It's too — pretty."
 
-*I wasn't allowed pretty, was I?*
+"You don't like pretty?"
 
-"You're objecting to pretty? What's *wrong* with pretty? You don't like pretty?"
+"No-no, I *like* it, but—"
 
-"No, I *like* it, but—"
+"But?"
 
-"You *do* like it."
+"But... it isn't cool for *me* to do pretty, is it?" 
 
-"Yes, I do."
+The last word came out in a whisper.
 
-"But."
+The sheers moved again.
 
-"But... is it cool for me to do— pretty?" The last word came out in a whisper.
+"Only you can decide that, Charlie."
 
-"It's cool for you to do anything you want with your hair."
+I pressed my knuckles against my lips. 
 
-"Even pretty?"
+Hard.
 
-Yes, even pretty." She leaned forward, her eyes locked on mine. "You. Just. Do. You."
+*Pretty.*
 
-I slowly covered my mouth with both hands.
+Someone had just given me something utterly priceless.
 
-I had no idea who I was.
+And I had no idea what to do with it.
+
+I felt almost breathless.
+
+*What if I said yes?*
+
+My eyes met Celeste's.
+
+"If you think it's cool..."
+
+"This isn't about me," Celeste said clearly.
+
+I nodded quickly.
+
+"I know. It's just — I never thought I'd be allowed—"
+
+"Allowed?"
+
+My knee began a nervous jig. I heard her snort.
+
+"You are your own worst enemy, Charlie." She got up and went into the kitchenette. "You can do anything you want with your hair." 
+
+I heard the flick of the kettle switch.
+
+"Even pretty, though?"
+
+"Pretty. Blokey. Dreadlocks. Or, shave it all off." Her head popped around the corner. "Just. Do. You."
+
+Priceless.
+
+The kettle dinged cheerfully.
 
 <hr class="section-break strong" />
+
 
 
 
@@ -320,49 +303,41 @@ I grinned.
 
 "How does she do her hair?"
 
-"In a bob." He pursed his lips. "Her voice is so gentle, Celeste. We just sat there on her couch and had a chat. She made me feel so relaxed, like straight away."
+"In a bob." He pursed his lips. "Her voice is so gentle, Celeste. We just sat on her couch chatting. Totally chill."
 
 I turned on the indicator as we joined the homeward-bound traffic.
 
-"It's funny," Charlie continued. "Even though she was asking a lot of the same questions Ash did last week, but I didn't feel the least bit nervous around her. At all."
-
 His fingers worried the leather strap of his messenger bag.
 
-"I did tell her," he continued quietly, "that I envied you your hair. You know?"
+"I did tell her," he continued quietly, "that I, um, liked your hair. You know?"
 
-"Good. What did she say?"
+"What did she say?"
 
 "She wanted to know what I liked about it."
 
-I waited, eyebrows raised.
+I waited.
 
-"Um, I said I liked how you would do different things to it, and it always looked cool." He stopped. I glanced over and saw his face had reddened slightly.
+"Um, I said you would sometimes do different things, and your hair would always looked cool."
 
-"You're blushing."
+An e-vehicle swept past us.
 
-"No, I'm not."
+"What did she say about that?"
 
-"C'mon, tell me. What else did she say?"
+"Not much. She actually didn't talk much."
 
-"She asked me if—" 
+"Did you expect her to?"
 
-Another pause.
+He shrugged.
 
-"She asked you what?"
+As we pulled into our carpark, I asked him, pointblank,
 
-"If I'd like to do my hair like that." I could barely hear him, he spoke so quietly.
+"Want to try something with your hair tonight?"
 
-The car was quiet for a long while, the only sound being the engine doing its thing.
+He looked over then, eyes wide.
 
-As we turned off the highway, he said quietly,
+Nodded.
 
-"I should probably wash my hair."
-
-"Do you use conditioner?"
-
-"No."
-
-"You should."
+"Cool. Have a shower. And be sure to use conditioner, okay?"
 
 He took a long time in the bathroom. He finally emerged in shorts and a t-shirt, toweling his hair vigorously.
 
@@ -372,9 +347,9 @@ His hands stopped moving.
 
 "Drying my hair?"
 
-"That's how to dry a St Bernard, not your hair."
+"That's how you dry a St Bernard."
 
-"That's how I always dry my hair."
+"Oh, well, that's how I usually—"
 
 "Maybe you'd like to try something new."
 
@@ -384,11 +359,9 @@ His mouth went sideways.
 
 I handed him my brush.
 
-He brought it up to his head.
+He brought it up to the crown of his head.
 
-I shook my head.
-
-"Start at the ends."
+"No, start at the ends."
 
 He was a long time brushing his hair out. It was time well spent.
 
@@ -416,7 +389,7 @@ Charlie reddened, and bit his lip.
 
 I tipped my chin at the brush behind his back.
 
-"What are you doing with the brush?"
+"Why did you hide the brush?"
 
 He reddened a bit more.
 
@@ -440,7 +413,7 @@ I stared at him for a moment.
 
 "Okay." I looked at the brush, then him. "Do you want to finish brushing your hair?"
 
-He swallowed and slowly resumed: careful, thoughtful strokes.
+He swallowed and slowly resumed.
 
 I sat down next to him.
 
@@ -451,233 +424,6 @@ Just smiled.
 <hr class="section-break strong" />
 
 
-
-
-
-
-
-
-## That Session
-
-[ *Celeste* ]
-
-I called in at the Woollies just up the road from Dr Winholmes' rooms to pick up a few things. When I returned to the car, Charlie was waiting for me.
-
-He looked full of — *something*.
-
-"Good session?"
-
-His lips went thin suppressing a smile. A quick nod.
-
-"It was."
-
-I started the engine.
-
-"What was the best bit?"
-
-He spun in his seat to face me.
-
-"It was talking about *you*."
-
-"Me?"
-
-"I told her that I really liked how you did your hair." He cleared his throat. "Dr Winholmes wanted to know all about it. What did I find so appealing. What was my favourite style. All that kind of stuff."
-
-"So, all you talked about was my hair?"
-
-"Pretty much." He attached his seatbelt. "She didn't ask any questions about me. She asked about you. And about Wardrobe."
-
-"What did you tell her about me?"
-
-His voice was warm: happy, even.
-
-"That you'd found the medicine and that you asked a chemist about it. And that you'd asked your doctor to — make sure I was okay."
-
-He fell silent. I glanced over: he was biting his lower lip.
-
-"Anything else?"
-
-"Um, not really." His pink cheeks told another story.
-
-I let it go.
-
-"What did she want to know about Wardrobe?"
-
-"Who worked there, what I did, how did I get on with others... oh, and what was my biggest fear."
-
-"And you said?"
-
-"I, um." His smile faded.
-
-We eased onto the motorway. A strong wind was buffeting the little car.
-
-"That it was losing you as a friend."
-
-The words sat between us as if they were glowing in neon lights. 
-
-Neither of us spoke for a while.
-
-He sat wringing his hands.
-
-We rode along in silence. I couldn't find a response to that.
-
-*A friend.*
-
-I glanced at him and felt something tighten in my chest.
-
-I wasn't ready for this. 
-
-This was about *him*. 
-
-Not *me*.
-
-Since when did it become about *me*?
-
-My little Swift shouldered its way through the wind down the M1.
-
-I took in a deep breath. 
-
-There were two truths, here. 
-
-One: he'd been taking medication to stop becoming an adult male. He hated what was happening and took medicine to stop it.
-
-But two, that was not his greatest fear. It was that he didn't want to lose my friendship. 
-
-Try as I might, I couldn't get the maths to math.
-
-The wind pushed the car around the whole time on the motorway. It wasn't until we got to Geelong that things eased a bit.
-
-And then — suddenly — I got it.
-
-The secrecy.
-
-"What were you actually worried about, Charlie?"
-
-
-
----
-
----
-
-
-
-
-
-He sat for a moment — his hands completely still.
-
-"Yeah," he said quietly. "I just wanted to stay the way I was."
-
-"No one just stays the way they are, Charlie."
-
-He was silent.
-
-I turned on the indicator and pointed the Swift towards the ocean. And home.
-
-"I'm going to change too," I said. "It's inevitable."
-
-"Yeah, but you'll still be—" 
-
-He stopped.
-
-"Be what?"
-
-"Soft," he whispered.
-
-*Soft.*
-
-"Okay."
-
-His gaze was fixed on his hands.
-
-And then, his hand moved slowly up his arm.
-
-I glanced at his arm. 
-
-Even in the fading light I could tell the hair on his arm was fine, not unlike my own.
-
-I bit my lower lip.
-
-We turned into the driveway. I parked under the mulberry tree and turned off the engine.
-
-And we sat for a moment.
-
-Finally, I asked him, "Did you tell Dr Winholmes this?"
-
-Silence.
-
-I looked over at him. His shoulders were almost level with his ears.
-
-"I don't know what to tell her," he mumbled. "I mean, I only know what I *don't* like."
-
-"That's not true, Charlie," I said firmly. "You like your work in Wardrobe. You like to keep things tidy. You like my hair. And, I guess you like me."
-
-His mouth went sideways.
-
-"Yeah."
-
-I opened my door.
-
-"Let's go in."
-
-As soon as he entered the kitchenette, he opened his messenger bag and pulled a document out of a folder. Wordlessly he handed it to me. 
-
-There was a lot of writing. In pencil.
-
-Words everywhere — very disjointed — not like him at all.
-
-Some words were written hard, the pencil pushed against the paper so firmly it had formed little grooves.
-
-Other words, written lightly, softly, almost tenderly.
-
-I saw my name among those other words. Several times.
-
-I looked up. His eyes were fixed on mine. Doe eyes, filled with something soft, something I saw that day in the girls' restroom, something I'd put aside then, quickly, defensively.
-
-And now, the instinct rose to do it again.
-
-I breathed in slowly. And looked into his eyes.
-
-I had an idea. 
-
-I took his arm and led him to a chair.
-
-"Sit." 
-
-I went to my room.
-
-And found my hair brush.
-
-I returned to the kitchette. 
-
-Charlie had not moved.
-
-"Are you okay with me touching your hair, Charlie?"
-
-He nodded.
-
-I felt a thud in my chest as I undid his ponytail. His hair was surprisingly fine, clean, soft. I ran my brush through it as smooth as silk. I wove the hair on each side to contain it and brought it together into a higher ponytail.
-
-I turned to face him.
-
-"Want to see?"
-
-His face shone with anticipation and hope mixed with curiosity. We went to the mirror in the hall, where he stood and studied his appearance for quite some time. His eyes flicked over to me.
-
-"Am I okay like this?"
-
-"Do you feel okay?"
-
-His nod seemed shy, as if reluctant to admit to anything.
-
-"Did you enjoy having your hair brushed?"
-
-His head bobbed again.
-
-"Good, because you're going to brush my hair next." 
-
-I handed him the brush.
-
-<hr class="section-break strong" />
 
 
 
@@ -837,9 +583,6 @@ It was getting dark. The sheer curtain waved in as a dog batked in the distance.
 "I could be wrong, but I think you *have* decided."
 
 My right leg was driving me nuts — it had a way of getting me in trouble when it did its little jig.
-
-
-
 
 <hr class="section-break strong" />
 
