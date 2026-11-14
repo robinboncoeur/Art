@@ -36,7 +36,7 @@ I write character-driven fiction about gender, power, belonging, and the women w
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Scene00-CelestesGirl.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Scene00-CelestesGirl.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -69,7 +69,7 @@ What does it cost her? What does it cost them? What does everyone gain that none
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter01-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter01-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -193,7 +193,7 @@ For now.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter02-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter02-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -411,7 +411,7 @@ I could feel him watching me walk away.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter03-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter03-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -760,7 +760,7 @@ And then, I walked away, back toward Wardrobe, back to the steam and cloth-dust 
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter04-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter04-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -1087,7 +1087,7 @@ His shoulders seemed to drop, the tiniest bit.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter05-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter05-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -1278,7 +1278,7 @@ He rose and took the sleeve from her.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter06-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter06-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -1458,7 +1458,7 @@ And Wardrobe cautiously resumed breathing wool and chalk dust.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter07-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter07-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -1688,7 +1688,7 @@ And Lauren nodded.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter08-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter08-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -1882,7 +1882,7 @@ I already knew that was unrealistic.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter09-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter09-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -2161,7 +2161,7 @@ The door clicked shut.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter10-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter10-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -2510,7 +2510,7 @@ Time of year: March. Note: Charlie's late puberty intrudes, Charlie's solution: 
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter11-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter11-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -3045,7 +3045,7 @@ And the ledger sat confidently between pincushion and shears, vindicated.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter12-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter12-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -3247,7 +3247,7 @@ Lauren's hand.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter13-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter13-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -3484,7 +3484,7 @@ A girl with a German accent — one of the Faire palace actresses who worked wit
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter14-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter14-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -3667,7 +3667,7 @@ It was weird how at that moment, that huge dining room felt small.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter15-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter15-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -3999,7 +3999,7 @@ Then he stepped back, gave me one last nod, and walked away.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter16-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter16-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -4260,7 +4260,7 @@ I put my bag in my car and got in.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter17-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter17-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -4509,7 +4509,7 @@ I heard his door close.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter18-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter18-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -4707,7 +4707,7 @@ Sarah moved to the door. Then she stopped.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter19-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter19-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -4939,7 +4939,7 @@ I'll scrub them."
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter20-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter20-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -5143,7 +5143,7 @@ And smiled at her.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter21-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter21-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -5466,7 +5466,7 @@ Neither did Sarah.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter22-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter22-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -5705,7 +5705,7 @@ When he saw what I held in my hand, his face suddenly went from red to white.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter23-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter23-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -5961,7 +5961,7 @@ I could feel his eyes on me as I went to my room.
 ## 24 💻 Professional
 
 <div class="music-card music-card--with-art"><div class="music-content"><audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter24-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter24-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
 </audio></div></div>
 
@@ -6224,7 +6224,7 @@ And then, typed 'yes'.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter25-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter25-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -6463,7 +6463,7 @@ I gently lifted the key from her hand and felt my eyes go a bit wet.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter26-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter26-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -6658,7 +6658,7 @@ I held her and felt her warmth.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter27-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter27-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -7119,14 +7119,16 @@ It was a long bus ride home.
 
 ## 29 🌧 Complex, Not Complicated
 
+
 <div class="music-card music-card--with-art">
-	<div class="music-content">
-		<audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter29-Unhidden.mp3" type="audio/mpeg">
+  <div class="music-content">
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter29-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
-	</div>
+  </div>
 </div>
+
 
 [ *Celeste* ]
 
@@ -7230,7 +7232,7 @@ A moment later, I heard the tap and the clink of cutlery on plates.
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapter28-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter28-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -7979,7 +7981,7 @@ For the first time since Queensland had become a solid thing on the calendar, I 
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/Chapterxx-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapterxx-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
