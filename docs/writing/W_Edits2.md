@@ -97,7 +97,7 @@ Well — actually — my hair.
 
 "I don't know. Just, *something* besides tying it back."
 
-"Ironing." Mara's voice cut through the hiss the steamer. 
+"Ironing." Mara's voice cut through the hiss of the steamer. 
 
 Leah wagged her eyebrows at me as she flounced back to her corner.
 
@@ -171,7 +171,7 @@ My mind was a blank.
 
 That came out rather more quickly than I wanted. Celeste's look was sharp.
 
-"Oh that's right," she said, "we don't like blokey."
+"Oh that's right," she said, "we don't do blokey."
 
 The heat in my face wasn't easing off any.
 
@@ -197,15 +197,7 @@ What I got was — matter-of-fact.
 
 I could feel my back go rigid. 
 
-Celeste's eyes never left me as she settled back in her chair.
-
-"What's the big deal, Charlie?" 
-
-I had no words.
-
-Celeste puffed through her nose. 
-
-She picked up a Vogue magazine and began flipping through it.
+Celeste picked up a Vogue magazine and began flipping through it.
 
 And stopped on a page.
 
@@ -231,9 +223,7 @@ I shook my head.
 
 "But?"
 
-"But... it isn't cool for *me* to do pretty, is it?" 
-
-The last bit came out in almost a whisper.
+"Well... it isn't cool for *me* to do pretty, is it?" 
 
 The sheers moved again.
 
@@ -245,7 +235,7 @@ Hard.
 
 *Pretty.*
 
-Someone had just given me something utterly priceless.
+Someone had just shown me something utterly appealing.
 
 And I had no idea what to do with it.
 
@@ -426,7 +416,7 @@ And gave him a smile.
 
 
 
-
+## And then, a ton of work!!!
 
 
 
