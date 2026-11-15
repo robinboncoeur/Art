@@ -7226,7 +7226,458 @@ A moment later, I heard the tap and the clink of cutlery on plates.
 
 
 
-## 30 *Being Written*
+## 30 ꧁༺Filigree༻꧂
+
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter30-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+[ *Charlie* ]
+
+The only item on the repair pile that afternoon was a palace gown with a bit of lace trim coming loose from a sleeve. It was one of the last store-bought gowns.
+
+I rubbed the lace cautiously between my fingers and gave it a slight tug. A single thread gripped the filigree into an ugly pucker.
+
+I looked for lace to replace it, lace of a similar design. 
+
+As I sat down and draped the dress over my knees, I suddenly smelled scorched cloth. Leah was standing over a caraco jacket staring at the bottom of an iron. 
+
+"Too hot?"
+
+Leah glanced at me.
+
+"It wasn't working at all before, so I turned it up."
+
+"Is there any water in the thingie?"
+
+Leah seemed to sag a bit. Her lips pinched as she shook the iron.
+
+"I think I might have burnt the collar—"
+
+"Have a look?"
+
+She brought the jacket over, settling into a chair next to me. 
+
+I put down the lace and the dress. The scorched smell mixed with something nicer. Bergamot. And vanilla.
+
+"You should keep playing your oboe," she said softly as I examined the collar.
+
+"I suck at the oboe."
+
+"I know. Still."
+
+Leah was an amazing clarinet player — so good in fact that her performance of the second movement of Finzi's Clarinet Concerto got a standing ovation from kids who had no clue who Gerald Finzi even was. 
+
+I've been hearing it in my head ever since.
+
+"Don't give it up. You don't know how good you could be."
+
+I shrugged.
+
+"Yeah, I suppose."
+
+The collar was scorched. 
+
+I gave her a quick smile and picked up the *lame*.
+
+And noticed her hair.
+
+"What are you looking at?"
+
+I looked away quickly.
+
+"Sorry."
+
+"What were you looking at?"
+
+I felt heat rise in my face.
+
+"Your hair."
+
+Her frown softened.
+
+"What about my hair?"
+
+I began to slowly unpick the seam. 
+
+"It's really pretty," I mumbled.
+
+"Um, thanks." Her brows did a quick frown. "I *guess*."
+
+I focused on the seam. 
+
+The old Bosch front-loader had just ended its final spin cycle with a loud rattle and the collar was almost off before I looked up again. 
+
+Leah was staring at *me*. 
+
+Well — actually — *my* hair.
+
+"You should try something new."
+
+"What do you mean?"
+
+"I don't know. Just, *something* besides tying it back."
+
+"Ironing." Mara's voice cut through the hiss of the steamer. 
+
+Leah wagged her eyebrows at me as she flounced back to her corner.
+
+I stared at the half-removed collar.
+
+*"You should try something new..."*
+
+I couldn't stop thinking about Leah's hair. 
+
+---
+
+The rain made the front door stick more than usual that night when I got home. 
+
+I found Celeste frowning at the open fridge.
+
+"I can't decide what to make."
+
+"Do you want me to cook tonight?"
+
+"Not really, Charlie. All you ever make is pasta."
+
+"What's wrong with pasta?"
+
+She closed the fridge.
+
+"I'm a bit over it." She opened the freezer. "You should try something new."
+
+I stopped.
+
+Her eyebrows rose.
+
+I shook my head slowly.
+
+The freezer beeped.
+
+"What were you going to say?"
+
+"Nothing."
+
+Her mouth tightened.
+
+"You sure?"
+
+"It's just—." My breath came out in a huff. "That's what Leah said today."
+
+"Why, what was she talking about?"
+
+My face felt suddenly hot. 
+
+"Hair."
+
+Celeste grinned.
+
+"Hair?"
+
+"I told her I liked her hair. And then, she was like, 'you should try something new.'"
+
+The words sat in the air between us.
+
+"What do you think you'd like to try?"
+
+My mind was a blank.
+
+"I dunno."
+
+"Antonio Banderas?"
+
+"No."
+
+That came out rather more quickly than I wanted. Celeste's look was sharp.
+
+"Oh that's right," she said, "we don't do blokey."
+
+The heat in my face wasn't easing off any.
+
+"You don't want cutting it any shorter, right?"
+
+I couldn't think of anything to say.
+
+Stared at nothing.
+
+"Well, how about doing your hair like Leah's, then?"
+
+It felt like someone had turned up the lights, somehow.
+
+My eyes went to hers, cautiously.
+
+I expected mockery. 
+
+Or at least, teasing.
+
+What I got was — matter-of-fact. 
+
+"Yes or no?"
+
+I could feel my back go rigid. 
+
+"Yes?"
+
+Celeste shrugged and picked up her phone.
+
+Flipped her fingers slowly, searching.
+
+Then stopped.
+
+For a while, she studied the screen. Every now and then, she glanced at me.
+
+Finally, she turned the screen towards me.
+
+"Have a look. That's Leah's hairstyle, step by step."
+
+I quickly scanned the images and then, Celeste's face.
+
+It was serious, thoughtful.
+
+"What do you think?"
+
+I shook my head, totally reflex.
+
+"Why not?"
+
+I thought for a moment.
+
+"I guess maybe because it's too — pretty."
+
+She looked puzzled.
+
+"You don't like pretty?"
+
+I would have thought the 'why' was obvious.
+
+"No-no, I *like* it, but—"
+
+"But?"
+
+*I have to explain this?*
+
+"Well... it isn't cool for *me* to do pretty, is it?" 
+
+Celeste leaned her head against her folded hand.
+
+"Only you can decide that, Charlie."
+
+I pressed my knuckles hard against my lips. 
+
+*Pretty.*
+
+Pretty was an option.
+
+I had no idea what to do with that option.
+
+I felt almost breathless.
+
+*What if I said yes?*
+
+My eyes met Celeste's again.
+
+"If you think it's cool..."
+
+"This isn't about me."
+
+There it was, that no-nonsense sound to her voice.
+
+I tipped my head. 
+
+Reflex.
+
+"I know," I said. "It's just — I never thought I'd be allowed—"
+
+"Allowed?"
+
+My knee began a nervous jig. I heard her snort.
+
+"You are your own worst enemy, Charlie. Do whatever you want." 
+
+She got up and went into the kitchenette. I heard the flick of the kettle switch.
+
+"Even pretty, though?"
+
+"Pretty. Blokey. Dreadlocks. Or, shave it all off." Her head popped around the corner. "Just. Do. You."
+
+The kettle dinged cheerfully.
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+## 31 👩 The Hairbrush
+
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter31-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+[ *Celeste* ]
+
+I was browsing a costume website on my phone when Charlie emerged from Dr Winholmes' rooms. I put it away as he climbed in.
+
+"All good? How'd you go?"
+
+Charlie flashed me a smile: a genuine one.
+
+"She's really nice, Celeste."
+
+"Dr Winholmes?"
+
+"Yes." He attached his seatbelt. "She's amazing. For one thing, she smelled nice."
+
+I grinned.
+
+"How does she do her hair?"
+
+"In a bob." He pursed his lips. "We sat on her couch and just — chatted. Totally chill."
+
+The indicator clicked as we joined the homeward-bound traffic.
+
+We sat for a while listening to the Swift being a Swift.
+
+"She asked me about my dad," he said finally.
+
+"Oh?"
+
+His fingers worried the leather strap of his messenger bag.
+
+"Yeah."
+
+I waited.
+
+"We were talking about where I was living. And why. And work. You know — Wardrobe."
+
+A semi roared past us. 
+
+I glanced over at him. His eyes were fixed on my hands on the steering wheel. He glanced at my face, and his lips pinched together.
+
+"How do you feel about it all?" I asked.
+
+He shrugged.
+
+"I'm not sure, Celeste." His brow furrowed slightly. "I just get the feeling that it's all sort-of up to me, you know?"
+
+"Did she say that?"
+
+His head turned to the window.
+
+"Not really." He paused. "I um, sort-of got that from you."
+
+I flicked my hand at him.
+
+"I'm your roomie. That's it." 
+
+I instantly hated how cold that sounded.
+
+*Still.*
+
+"I know," he murmured.
+
+We both stared into the darkness.
+
+Finally, we pulled into our carpark. I shut off the engine and turned to him.
+
+"Want to try something with your hair tonight?"
+
+He turned slowly towards me, eyes wide.
+
+Nodded.
+
+"Cool. Go have a shower. And be sure to use conditioner, okay?"
+
+He took a long time in the bathroom. When he finally emerged in shorts and a t-shirt, he was toweling his hair vigorously.
+
+"What are you doing?"
+
+His hands stopped moving.
+
+"Drying my hair?"
+
+"That's how you dry a St Bernard."
+
+"Okay, so—"
+
+"Maybe you'd like to try something new."
+
+I handed him my brush.
+
+He brought it up to the crown of his head.
+
+"Start at the ends."
+
+He took his time, eyes flicking to me every now and then. 
+
+There was a knock on the door.
+
+It was our neighbour, Max.
+
+"Sorry to bother you, Celeste, but I just wanted to let you know that I'm moving out tomorrow."
+
+"So, you took that job in Adelaide?"
+
+Max nodded.
+
+"Hope I'm making a good move." He held out his hand. "Anyway, it's been lovely being your neighbour."
+
+He waved to Charlie, who gave a shy wave back.
+
+When I closed the door, I noticed Charlie had put the brush behind him.
+
+"Why are you hiding the brush?"
+
+Charlie reddened and bit his lip.
+
+"I didn't want Max to see."
+
+"See what?"
+
+His eyes rose to mine. Imploring. Then, away.
+
+"Charlie."
+
+He puffed.
+
+"Me doing this," he said quietly.
+
+"What, brushing your hair?"
+
+He nodded.
+
+I looked at him for a moment.
+
+"Okay." I looked at the brush, then him. "Do you want to finish?"
+
+He swallowed and slowly resumed.
+
+I sat down next to him.
+
+And gave him a smile.
+
+<hr class="section-break strong" />
+
+
+
+
+
+
+
+
+## *Being Written*
 
 <!--
 <div class="music-card music-card--with-art">
