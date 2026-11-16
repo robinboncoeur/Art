@@ -5885,7 +5885,7 @@ I stopped.
 
 He'd gone still. 
 
-In his eyes I saw that anguish again.
+In his eyes I saw anguish. Again.
 
 That look froze the thought before it could come out.
 
