@@ -5516,7 +5516,7 @@ I stared at the empty hallway.
 
 *Didn't sound fun, having to live with someone you have a crush on.*
 
-Although I might have sounded like confidence itself to Lauren and Sarah on the idea of Charlie moving into my spare room, I actually *did* have some misgivings. Slight, true, but they were there. 
+Although I might have sounded like confidence itself to Lauren and Sarah on the idea of Charlie moving into my spare room, I initially *did* have some misgivings. Slight, true, but they were there. 
 
 You don't have a wide-eyed admirer move in with you like it's no big deal.
 
