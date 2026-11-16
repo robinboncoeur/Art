@@ -5863,7 +5863,7 @@ My brows rose a fraction.
 
 "Celeste, I was freaking out." He squeezed his eyes shut for a moment. "My body was starting to change and it was freaking me out."
 
-His eyes squeezed shut and he bit his lip.
+He bit his lip.
 
 "At first, I thought it was Wardrobe. Like— if I started being like Graham, everyone there would start thinking of me differently. I wouldn't be cool there anymore. You know."
 
