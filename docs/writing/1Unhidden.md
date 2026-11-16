@@ -5737,7 +5737,7 @@ His shoulders rose slightly. He swallowed.
 
 "No shit." I pressed my lips together briefly, exhaled sharply through my nose. "What's it for?"
 
-His eyes had gone vacant, staring at nothing.
+His eyes had gone vacant.
 
 "Charlie?"
 
