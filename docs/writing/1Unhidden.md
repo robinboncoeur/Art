@@ -5853,31 +5853,31 @@ He wrapped his thin arms around himself, and tipped his head to one side.
 
 He took in a breath.
 
-"So, the reason I couldn't tell you more the other day — you know, when you *found* the medication was, well, I didn't really know how to explain it."
+"So, the reason I couldn't tell you more the other day — you know, when you *found* the medicine was, well, I didn't really know how to explain it."
 
 His face scrunched with frustration.
 
-"I mean, I never really thought it through." He looked down. "I just knew I had to." 
+"I mean, I never really thought it through." He looked down. "I just knew it had to stop." 
 
 My brows rose a fraction. 
 
 "Celeste, I was freaking out." He squeezed his eyes shut for a moment. "My body was starting to change and it was freaking me out."
 
-My brows rose a bit more.
+His eyes squeezed shut and he bit his lip.
 
 "At first, I thought it was Wardrobe. Like— if I started being like Graham, everyone there would start thinking of me differently. I wouldn't be cool there anymore. You know."
 
-I suppressed a laugh.
+I gave a sharp puff.
 
-"*You* be like Graham. Yeah, like that would happen."
+"*You* be like Graham. Yeah, like that could even happen."
 
 "You know what I mean."
 
-My mouth went sideways.
+"No, actually I don't." I squinted at him. "I thought your epic fail at maintenance made that clear."
 
-"No, actually I don't." I squinted at him. "I thought maintenance proved it."
+He shook his head slowly.
 
-"No, I mean—" He puffed. "I mean, like a *bloke*."
+"Yeah. No. I mean—" He puffed. "I mean, being like a — *bloke*."
 
 "But Charlie, you—"
 
@@ -5885,41 +5885,45 @@ I stopped.
 
 He'd gone still. 
 
-The look in his eyes froze the thought before it could come out.
+In his eyes I saw that anguish again.
+
+That look froze the thought before it could come out.
 
 Outside, a curlew announced curfew, her shrieks echoing through the night stillness.
 
-I permitted myself a wry smile.
+I gave him an apologetic smile.
 
 "Sorry," I said. "I was talking, not listening. Please go on."
 
-In his eyes I saw that anguish again.
-
 I waited.
 
-Then his shoulders lowered, barely.
+His shoulders lowered, barely.
 
 “I just—”
 
-He looked away again.
+He looked at me.
 
 "I just couldn't be like— that."
 
-I nodded.
-
-"Fine. You don't want to be like Graham."
+"Fine." I studied his face. "You don't want to be like Graham."
 
 He dropped his gaze.
 
-"Or, like my dad."
+He head moved.
 
-I lifted my head and caught him glancing at me.
+Slowly.
+
+"Or, like my dad."
 
 *Oh.*
 
+I sat back.
+
 "So, just— generally like a bloke."
 
-He dipped his head to one side, eyes on his twisting fingers. He stole another glance at me.
+He dipped his head to one side in agreement, his fingers twisting in his lap. 
+
+Finally, he stole another glance at me.
 
 "What?"
 
@@ -5945,7 +5949,17 @@ I didn't really know what to say to that.
 
 *But what do you say to that?*
 
-"Well, I don't." I got up off the couch. Stretched. "Going to bed, Charlie. See you in the morning."
+"Well, I don't." 
+
+His eyes searched mine.
+
+"Look, I won't pretend I don't find all this a bit confusing. But *hate* you?" I shook my head. "Why would I do that?"
+
+He said nothing for a moment, and then nodded. 
+
+I got off the couch.
+
+"Going to bed, Charlie. See you in the morning."
 
 I could feel his eyes on me as I went to my room.
 
@@ -5971,11 +5985,15 @@ Time of year:
 
 [ *Charlie* ]
 
-Not sure why, but the creak of the front door sounded different that evening. Celeste kicked off her shoes and deposited the green rip-stop nylon Woolies bags on the table. A Granny Smith apple dropped out, rolling desperately for the edge of the table and freedom.
+When Celeste got home that night she deposited the green ripstop nylon Woolies bags on the table. A Granny Smith apple dropped out, rolling desperately for the edge of the table and freedom.
 
-I caught it — a first: I normally couldn't catch a beach ball if it was tossed by a five-year-old. I grinned at Celeste. Her return smile didn't really meet requirements.
+I surprised myself and caught it.
 
-"Hey, what's up?" I asked.
+I grinned at Celeste.
+
+Her return smile didn't reach her eyes.
+
+"What's up?" I asked.
 
 She settled slowly into a chair.
 
@@ -6037,7 +6055,7 @@ I stopped.
 
 Unlike my Mum, there was something else in her look, something like fear.
 
-"The pharmacist said that the reason only a doctor can give you that medicine is because you have to have tests first."
+""The pharmacist said you need blood tests, Charlie."
 
 I tilted back in my seat.
 
@@ -6045,7 +6063,7 @@ I tilted back in my seat.
 
 The look in her eyes didn't change. If anything, it deepened.
 
-"She said that things could go to custard long before you would '*feel*' anything."
+"She said that things could go to custard long before you would *feel* anything."
 
 I felt suddenly cold.
 
@@ -6059,15 +6077,15 @@ I shrugged.
 
 "I don't really have one," I replied. "Mum went to this doctor for her lady stuff. I hardly ever got sick. Mum took care of me."
 
-Celeste's face said my answer didn't tick any boxes.
+Celeste wasn't having a bar of it.
 
 "Everyone has a doctor!"
 
 "Well, I don't."
 
-"Look, you need to see one, Charlie," she said seriously. "I think you should go see mine."
+"Regardless, you need to see one, Charlie," she said seriously. "I think you should go see mine."
 
-I stared at the table as I shrank a bit into my chair. My fingers had curled into a ball.
+I stared at the table as I shrank a bit into my chair. My hands had formed fists.
 
 "You need to be *safe*, Charlie," she said softly.
 
@@ -6091,37 +6109,19 @@ Celeste put her elbows on the table and leaned towards me.
 
 "What if I don't know the answer?" I cut in.
 
-"That's *actually* an answer," she replied. "Not knowing is an answer."
+"Then tell them you don't know."
 
 I studied her face for a moment.
 
-"What I *do* know is: I can't *not* take the medicine."
+"I can't *not* take the medicine."
 
-"Then tell her that, Charlie."
-
-"Her?"
-
-"You're surprised?"
-
-"No-no-no, I just assumed—"
-
-"Do you have a problem with her being a woman?"
-
-Actually, I felt relief.
-
-"No, the opposite."
-
-"So, you'll go see her?"
+"Tell her that, Charlie."
 
 I dipped my head once.
 
-"What do I tell her, Celeste?"
-
-"Just what you told me." She got up. "If nothing else, at least you'll get some tests done, just to make sure you're okay."
-
 "She won't think I'm weird?"
 
-"She's a *doctor*. A *professional*. That's her job, Charlie."
+"I really don't think so."
 
 She reached into the Woolies bag and pulled out a carton of almond milk. 
 
@@ -6129,37 +6129,19 @@ She reached into the Woolies bag and pulled out a carton of almond milk.
 
 "Sure, why not?"
 
-Celeste grinned.
-
-"Great attitude. Make sure you have that when you go see the doctor."
-
-I picked my phone.
-
-"What's the number of the surgery?"
-
-At first, the receptionist told me that Dr Darcy wasn't accepting any new patients. I was on speaker, so Celeste heard her.
-
-"Hi Eunice, it's Celeste."
-
-"Oh, hi Celeste!"
-
-"I was wondering if you could do me a huge favour and fit Charlie in, please?"
-
-In a few moments, the appointment was booked.
-
 ---
 
-I was fiddling with the tape holding the cotton ball in the crook of my elbow a couple of afternoons later when I heard the creak of the front door. As Celeste came into the kitchen. I felt a strange sort of jealousy: her perfume and hounds-tooth jacket gave her that executive look. Her smile lit the room.
+I was fiddling with the tape holding the cotton ball in the crook of my elbow a couple of afternoons later when I heard the creak of the front door and Celeste came into the kitchen.
 
 "Hiya, lovely," she said as she flicked on the kettle.
 
-"Hi Celeste," I said. "How'd you got at—"
+"Hi Celeste," I said. "How'd you go at—"
 
 "No-no, *my* turn to ask this time," she said. "How did *you* go at the doctor's?"
 
 "Well, they took my blood. Like, straight-away."
 
-"Not surprised." The kettle dinged. I heard hot water fill a cup. "What did you think of Dr. Darcy?"
+"Not surprised." The kettle dinged. Celeste poured herself a cup. "What did you think of Dr. Darcy?"
 
 One shoulder popped up for a tick.
 
@@ -6169,15 +6151,11 @@ Celeste settled into a chair with a cup in one hand, her chin in the other.
 
 "She asked me to hold off on the meds — just for one day. Just until they have the results back." I stretched my neck, which had been feeling tight for days. "And she said that if the results were okay, I could carry on taking them."
 
-"How did that make you feel?"
+"So you're happy with that?"
 
 I let out a big breath.
 
-"Yeah. Good."
-
-I looked up. Celeste's eyes were on me, her face thoughtful.
-
-"Good?"
+"Oh yes."
 
 I worried the tape holding the cotton ball again.
 
@@ -6189,27 +6167,9 @@ Celeste's expression didn't change.
 
 "I don't know *what* to think," I replied. I caught her gaze. "What about you? Do you think I'm a bit crazy?"
 
-"Finding your way isn't crazy."
+Celeste shook her head.
 
-She'd never looked more beautiful.
-
-My phone pinged.
-
-*The surgery.*
-
-I stared at the message.
-
-"What does it say?"
-
-I read it off to her.
-
-"We have been able to secure an appointment with Dr Winholmes, in Brunswick in 3 weeks time. Please reply 'Yes' to confirm, or 'No' to cancel this appointment."
-
-Celeste's brows raised slightly.
-
-I hesitated only for a moment.
-
-And then, typed 'yes'.
+"No, Charlie."
 
 <hr class="section-break strong" />
 
