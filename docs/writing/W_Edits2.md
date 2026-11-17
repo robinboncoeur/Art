@@ -5,12 +5,75 @@
 
 
 
-## Introspection and Growth
+## 
+
+[ *Celeste* ]
+
+A French-twist roll is one of the simplest hairstyles ever. 
+
+Twist, tuck and pin. 
+
+Done.
+
+I grinned at the surprised look on Charlie's face.
+
+"That's it?" he asked.
+
+I shrugged.
+
+"What did you expect?"
+
+With a small, puzzled shake of his head, his eyes returned to his reflection in the mirror.
+
+"Now, you do it."
+
+His eyes went wide as I pulled the pins out.
+
+His somewhat damp hair cascaded down his back.
+
+And his shoulders sagged a bit.
+
+"You made it look so easy."
+
+"Maybe because I've done it before."
+
+I sat down next to him, twisted away slightly and reached up to grasp my hair.
+
+"Do what I do."
+
+Suddenly he was Charlie of Wardrobe. In the mirror I watched his hands mirror mine.
+
+"That's it. Now, tuck."
+
+His head tilted sideways to see the back of mine, slender arms in the air, fingers tightly gripping his hair.
+
+"Charlie, that's your *hair*, not Graham's ladder. You've got a death-grip on it."
+
+"Oh, sorry—"
+
+I snorted.
+
+"Loosen up, mate. There's no quiz on Friday."
+
+His fingers relaxed their grip and a few strands fell away. 
+
+"Okay, now turn... and turn. That's it."
+
+
+
+<hr class="section-break strong" />
+
+
+
+
+
 
 
 
 
 ## Chignon
+
+[ *Charlie* ]
 
 I stared at my reflection in the mirror.
 
