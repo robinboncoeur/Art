@@ -2,7 +2,7 @@
 Anglesea
 Arbres
 artform
-blokey
+[Bb]lokey
 [Bb]loodwork
 [Bb]olognaise
 Bree
@@ -47,7 +47,7 @@ Hullo
 hyperkalaemia
 img
 [Ii]nfluencers?
-J’Adore
+J'Adore
 Jeune
 Kaimu
 Kalapana

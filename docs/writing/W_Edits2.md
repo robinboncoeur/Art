@@ -57,9 +57,11 @@ I snorted.
 
 His fingers relaxed their grip and a few strands fell away. 
 
-"Okay, now turn... and turn. That's it."
+"Okay, now turn it... and turn it again. That's it."
 
+I handed him a hairpin.
 
+"Start at the bottom."
 
 <hr class="section-break strong" />
 
@@ -168,7 +170,7 @@ I felt like a different person.
 
 I was a person I really liked being.
 
-I was so wrapped up in this newness — this beautifulness — this soft lovely way of being that I never even considered what others might think.
+I was so wrapped up in this newness — just feeling beautiful, such a soft, lovely way of being — that I never even considered what others might think.
 
 Not until morning tea, anyway.
 
@@ -268,7 +270,7 @@ Her words sounded like they were hiding a warning.
 
 "What do you mean?"
 
-It was getting dark. The sheer curtain waved in as a dog batked in the distance. An aeroplane droned overhead. My right knee was dancing a little jig on its own. I tried to still it but it wouldn't listen.
+It was getting dark. The sheer curtain swayed as a dog barked in the distance. An aeroplane droned overhead. My right knee was dancing a little jig on its own. I tried to still it but it wouldn't listen.
 
 "I wouldn't let one day's experience make the decision for you."
 

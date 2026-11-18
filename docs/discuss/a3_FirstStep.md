@@ -994,9 +994,8 @@ And let the reader sit with what has just happened. ❤️
 
 
 
-<!--
 
-## Section Discussion
+## From a Comment
 
 
 [![Moi][St00]{ .artL width="160" }][St00]
@@ -1004,6 +1003,28 @@ And let the reader sit with what has just happened. ❤️
 
 [ Robyn ]
 
+Note: *from* [*here*](https://www.deviantart.com/celestesgrl/art/The-Deep-End-Scene-Thirty-Five-1362725829).
+
+Thank you for asking your question. :heart: 
+
+I would normally encourage you to read 'Celeste's Girl' as it provides clues to Charlotte's development, but at this stage, I would actually encourage you to NOT read it, as I am rewriting it completely, particularly the first bit. The new edition has a new name too: 'Unhidden'. But I'll give you the executive summary. 
+
+Charlotte started out as this reedy, short, sensitive, talented but academically challenged boy who never really adjusted well to the school — or, to be honest, any social — environment. He developed a strategy that worked: he disappeared. Not literally, of course, but just did whatever he had to so that no one noticed him. 
+
+And then he met Celeste in year 12. She was a powerful influence in his life, but even more powerful was Wardrobe, where he ended up working. He found "his people" there: the women of Wardrobe. They discouraged him from "disappearing", so, chameleon-like, he fit in. And discovered — very much secondarily — that he actually liked the life of a woman. Caveat: she liked the life of a woman with women, women who saw her as one of them. And so, whilst Charli (and then subsequently: Charlotte) blossomed in the Wardrobe environment because she fit in so well, she never really solved the core problem: discovering who she was. Was it because of the old saw: "Men do, women are"? Possibly a factor.
+
+I'm rewriting the story for a number of reasons:   
+1. it was originally a series of exercises in "sensory writing", aided heavily by AI   
+2. although the ideas and much of the text was mine, some of the 'exposition' was clearer as written by AI   
+3. I really didn't have a clear sense of my characters - that didn't really happen until 'The Deep End'   
+
+I still use AI, but in an advisory capacity. I "discuss" plot ideas, directions, conversation, "would an Aussie woman say this?", research on things related to the story I don't have ready access to, and tone — this one is crucial, making sure all the characters don't all sound the same. 
+
+Then, I sit and write. I have a clear vision of what is happening and writing becomes almost effortless.
+
+I want Charlotte's story to be engaging, do a lot more showing than telling, focus less on the craft of sewing and costume design and provide the reader with more hints on how such a thing could actually happen. I'm not interested in spectacle: there's enough of that sort of literature already. 
+<!-- vale off -->
+There's a lot more to be said, but you asked for the time, and I've handed you an iFixit tool set and a clock kit. 😅
 
 <hr class="section-break soft" />
 
@@ -1018,6 +1039,8 @@ And let the reader sit with what has just happened. ❤️
 
 <hr class="section-break strong" />
 
+<!-- vale on -->
+<!--
 
 
 

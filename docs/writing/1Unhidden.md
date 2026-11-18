@@ -7350,9 +7350,9 @@ The words sat in the air between us.
 My mind was a blank.
 
 "I dunno."
-
+<!-- vale off -->
 "Antonio Banderas?"
-
+<!-- vale on -->
 "No."
 
 That came out rather more quickly than I wanted. Celeste's look was sharp.
