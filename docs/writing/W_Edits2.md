@@ -5,7 +5,7 @@
 
 
 
-## 
+## Getting Creative
 
 [ *Celeste* ]
 
@@ -53,15 +53,82 @@ His head tilted sideways to see the back of mine, slender arms in the air, finge
 
 I snorted.
 
-"Loosen up, mate. There's no quiz on Friday."
+"Loosen up, mate."
 
-His fingers relaxed their grip and a few strands fell away. 
+His shoulders dropped noticably.
+
+His fingers relaxed their grip and a few strands fell away.
+
+And his shoulders popped back up slightly.
+
+"You're going for a relaxed, casual style." I peered at him. "That's the look Leah does."
+
+He nodded quickly, his face expectant.
 
 "Okay, now turn it... and turn it again. That's it."
 
 I handed him a hairpin.
 
 "Start at the bottom."
+
+He winced as the first pin grazed his scalp.
+
+"Get used to that," I said with a grin, handing him another pin.
+
+He hesitated.
+
+"About a quarter of the way up."
+
+When he had placed the last pin, he turned to me, eyes questioning.
+
+I pointed at the mirror.
+
+"Have a look?"
+
+He turned, stared, and slowly his mouth fell open.
+
+He frowned, his head tilting slightly.
+
+And his eyes darted to me.
+
+I smiled.
+
+"What do you think?"
+
+"I was going to ask *you*," he murmured.
+
+"It really doesn't matter what *I* think, Charlie."
+
+"Yes it does." He held me in his gaze. "Do you think I look stupid?"
+
+I grimaced.
+
+"What kind of question is that?"
+
+He turned back to the mirror.
+
+"Do you?"
+
+I sat down at the table.
+
+"Ask yourself this, Charlie. 'Why would my roomie want me to look stupid?'" I leaned my chin into my fist. "Honestly."
+
+He tipped his head.
+
+*Okay.*
+
+Turned back to the mirror.
+
+"You're just not used to doing anything, like, *creative* with your hair." My eyebrows rose. "Are you?"
+
+
+
+
+
+
+
+
+
 
 <hr class="section-break strong" />
 
