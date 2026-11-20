@@ -207,7 +207,7 @@ He still had the shop tag in his hand. Turned it over.
 
 I could see him visibly bracing as he got out of the car at Wardrobe, but said nothing.
 
-He scurried into the tearoom to put away his messenger bag like a tree-rat running along fence. 
+He scurried into the tearoom to put away his messenger bag like a tree-rat running along a fence. 
 
 And barely came out from his repair corner all day.
 
@@ -223,23 +223,19 @@ He looked up from the bodice he was working on.
 
 He shrugged dismissively.
 
-"Nah-I'm-alright."
-
-The words came out in a blur.
-
-"Just thought I'd check."
+"Nah-I'm-right."
 
 He wasn't able to look at me.
 
 The drive home was a quiet one.
 
-He'd just finished scrubbing the potatoes and was stabbing them with a steak knive when he said, quietly,
+He'd just finished scrubbing the potatoes and was stabbing them with a steak knife when he said, quietly,
 
 "I guess I need to learn confidence."
 
-I pulled a chunk of mince mix out of the bowl and began to roll it betwwen my palms.
+I pulled a blob of mince mix out of the bowl and began to roll it betwwen my palms.
 
-"Remember that day Mara had you go interview the actresses at the palace?"
+"Remember that day Mara had you interview actresses at the palace?"
 
 His eyebrows rose slightly. He opened the microwave and placed the potatoes inside.
 
@@ -257,15 +253,13 @@ He shrugged.
 
 And grimaced.
 
-"Yeah, nah, I get it."
-
 ---
 
-Friday had become out fish-n-chips night. As the smell of fish and calimari filled the car, Charlie said,
+Friday had become our fish-n-chips night. As we got into the car, dinner in hand, Charlie said,
 
 "You were right."
 
-I looked over. He seemed to be studying the road.
+I looked over.
 
 "About?"
 
@@ -279,7 +273,7 @@ We turned into our driveway.
 
 "Actually, you do," I said. "Just, not the way you think."
 
-"How did you learn it?" he asked as I unlocked the door.
+"How did *you* learn it?" he asked as I unlocked the door.
 
 And gave it a push with my shoulder.
 
@@ -303,21 +297,17 @@ He nodded, his face serious.
 
 I studied my last calimari ring as if it might hold the answer.
 
-"Skills?"
-
 My calimari ring sat impassively on my plate.
 
-I thought back to eighth grade. Mum was teaching me table manners — specifically, where knife and fork and spoon go on a table setting and how to use them. And then, in eighth grade, a girl showed me something different: chopsticks. 
+I thought back to year eight. Mum was teaching me table manners — specifically, where knife and fork and spoon go on a table setting and how to use them. And then, in year eight, a Japanese girl showed me how to use chopsticks. 
 
-I remember watching her eat and thinking I could never be that good.
+I remember watching her chopsticks flick back and forth between the bowl and her lips and thinking I could never be that good.
 
-All these years later, I could still use chopsticks. Not all that well, but quite confidently.
+I still use chopsticks for certain meals. Not all that well, but quite confidently.
 
-It seemed confidence and ability were related, but only loosely.
+Perhaps confidence and ability were related, but only loosely.
 
-I still had no idea how to explain it to Charlie.
-
-
+I still had no idea how to explain confidence to Charlie.
 
 <hr class="section-break strong" />
 
