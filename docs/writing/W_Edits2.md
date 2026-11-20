@@ -9,15 +9,15 @@
 
 [ *Celeste* ]
 
-Charlie's somewhat damp hair cascaded down his back.
+Charlie's damp hair cascaded down his back.
 
 "You'll need to dry your hair a bit more, Charlie."
 
-His shoulders sagged a bit as he stared at the blowdryer.
+His shoulders sagged a bit.
 
 "Really?"
 
-"It's not going to bite. Just do mostly the bottom half."
+"Just do the bottom half."
 
 As he dried his hair, I put mine up.
 
@@ -33,11 +33,11 @@ I grinned at the surprised look on Charlie's face.
 
 I shrugged.
 
-"Been doing this for a while, Charlie." I pulled the pins out. "Now, you do it." I twisted away slightly. "Do what I do."
+"Been doing this for a while, Charlie." I pulled the pins out. "Now, you do it." I twisted away slightly — my back to him — so he could see. "Do what I do."
 
 I reached up to grasp my hair.
 
-Suddenly he was Charlie of Wardrobe. In the mirror I watched his hands mirror mine.
+And there he was: Charlie of Wardrobe. In the mirror I watched his hands mirror mine.
 
 "That's it. Now, tuck."
 
@@ -47,15 +47,13 @@ His head tilted sideways to see the back of mine, slender arms in the air, finge
 
 "Oh, sorry—"
 
-His shoulders dropped noticably.
+His shoulders dropped noticeably.
 
-His fingers relaxed their grip, then frose as a few strands fell away.
+His fingers relaxed their grip, then froze as a few strands fell away.
 
 "You're going for a relaxed, casual style." I peered at him. "That's the look Leah does."
 
 His eyes returned to his reflection in the mirror.
-
-He nodded quickly, his face expectant.
 
 "Okay, now turn it... and turn it again. That's it."
 
@@ -67,7 +65,9 @@ He winced as the first pin grazed his scalp.
 
 "You'll get used to that," I said with a grin, handing him another pin.
 
-He hesitated.
+He nodded quickly, his face expectant. 
+
+Hesitated.
 
 "About a quarter of the way up."
 
@@ -137,7 +137,7 @@ His nod was just a twitch.
 
 "Maybe—"
 
-"How about we do something with the ponytail?"
+"How about doing something with the ponytail?"
 
 His eyebrows tried to hide in his forehead.
 
@@ -167,7 +167,7 @@ Charlie settled in the repair corner with his ledger.
 
 When Lauren came in later that morning, Charlie visibly stiffened.
 
-Lauren smiled at him and went over to where Sarah had finished with the last of the shop-keeper's dresses.
+Lauren smiled at him and went over to where Sarah had finished with the last of the shopkeeper's dresses.
 
 "I brought you a coffee," she said to Sarah, indicating the tearoom with her thumb.
 
@@ -303,12 +303,19 @@ He nodded, his face serious.
 
 I studied my last calimari ring as if it might hold the answer.
 
-"Charlie, it's not like a skill," I said finally. "Not really."
+"Skills?"
 
+My calimari ring sat impassively on my plate.
 
+I thought back to eighth grade. Mum was teaching me table manners — specifically, where knife and fork and spoon go on a table setting and how to use them. And then, in eighth grade, a girl showed me something different: chopsticks. 
 
+I remember watching her eat and thinking I could never be that good.
 
+All these years later, I could still use chopsticks. Not all that well, but quite confidently.
 
+It seemed confidence and ability were related, but only loosely.
+
+I still had no idea how to explain it to Charlie.
 
 
 
