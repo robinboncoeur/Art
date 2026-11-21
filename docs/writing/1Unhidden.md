@@ -3477,7 +3477,7 @@ A girl with a German accent — one of the Faire palace actresses who worked wit
 
 
 
-## 14 No Room
+## 14 🌩 No Room
 
 [![Watching the waves][Stg1]{ .artR width="400" }][Stg1]
 
@@ -3662,7 +3662,7 @@ It was weird how at that moment, that huge dining room felt small.
 
 
 
-## 15 The Missing Spark 📱
+## 15 📱 Not Shaped Like You
 
 <div class="music-card music-card--with-art">
   <div class="music-content">
@@ -3994,7 +3994,7 @@ Then he stepped back, gave me one last nod, and walked away.
 
 
 
-## 16 A Door That Locks
+## 16 🔑 A Door That Locks
 
 <div class="music-card music-card--with-art">
   <div class="music-content">
@@ -4253,7 +4253,7 @@ I put my bag in my car and got in.
 
 
 
-## 17 Tonight is Sorted
+## 17 🛋 Tonight is Sorted
 
 [![Charlie][S21b]{ .artR width="460" }][S21b]
 
@@ -4504,7 +4504,7 @@ I heard his door close.
 
 
 
-## 18 Some Doors Lock 🚪
+## 18 🚪 Some Doors Lock 
 
 <div class="music-card music-card--with-art">
   <div class="music-content">
@@ -4702,7 +4702,7 @@ Sarah moved to the door. Then she stopped.
 
 
 
-## 19 How'd You Go?
+## 19 📒 How'd You Go?
 
 <div class="music-card music-card--with-art">
   <div class="music-content">
@@ -4934,7 +4934,7 @@ I'll scrub them."
 
 
 
-## 20 Do Not Follow Her 🪡
+## 20 🪡 Do Not Follow Her
 
 <div class="music-card music-card--with-art">
   <div class="music-content">
