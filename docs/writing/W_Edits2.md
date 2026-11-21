@@ -111,9 +111,7 @@ He tipped his head.
 
 *Okay.*
 
-Turned back to the mirror.
-
-"The real question is this: do *you* like it?"
+"The only question is this: do *you* like it?"
 
 He nodded slowly.
 
@@ -161,13 +159,15 @@ His face set as he stared down the road.
 
 "No."
 
-As we entered Wardrobe, I could see his eyes dart around the room. Mara nodded at me as we entered and took no notice of him at all. Tahlia didn't look up from her overlocker. Lucy eas busy pinning a sleeve on a new palace gown and Sarah focused on the steamer.
+As we entered Wardrobe, I could see his eyes dart around the room. Mara nodded at me as we entered and took no notice of him at all. Tahlia didn't look up from her overlocker. Lucy was busy pinning a sleeve on a new palace gown and Sarah focused on the steamer.
 
-Charlie settled in the repair corner with his ledger.
+[![Carlie and the ledger][u32a]{ .artR width="400" }][u32a]
+
+Charlie settled in the repair corner with his ledger. 
 
 When Lauren came in later that morning, Charlie visibly stiffened.
 
-Lauren smiled at him and went over to where Sarah had finished with the last of the shopkeeper's dresses.
+Lauren gave him a quick smile and went over to where Sarah had finished with the last of the shopkeeper's dresses.
 
 "I brought you a coffee," she said to Sarah, indicating the tearoom with her thumb.
 

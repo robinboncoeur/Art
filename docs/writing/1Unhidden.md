@@ -7186,9 +7186,9 @@ A moment later, I heard the tap and the clink of cutlery on plates.
 
 
 
-## 30 ꧁༺Filigree༻꧂
+## 30 ꧁༺ Filigree
 
-[![An old gown][U30a]{ .artR width="400" }][U30a]
+[![An old gown][u30a]{ .artR width="400" }][u30a]
 
 <div class="music-card music-card--with-art">
   <div class="music-content">
