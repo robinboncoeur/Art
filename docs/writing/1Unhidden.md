@@ -4381,7 +4381,7 @@ By the time he'd re-emerged from his room, everyone was holding a cup in their h
 
 Sarah pulled up a kitchen chair.
 
-"Everyone's tired, so we'll keep this short," she said. "Just want to make sure everyone's safe."
+"Everyone's tired, so we'll keep this short," she said.
 
 She looked at Lauren. 
 
@@ -4391,7 +4391,7 @@ Lauren cleared her throat.
 
 Sarah put her hands on her knees and leaned forward.
 
-"Lauren is staying with me tonight."
+"Just want to make sure everyone's safe. Lauren is staying with me tonight."
 
 She turned to Charlie.
 
@@ -4399,7 +4399,7 @@ She turned to Charlie.
 
 He nodded, still studying his hands.
 
-"Right then, that's tonight sorted," she said. She bunched her lips in that way I knew meant she was getting ready to say the awkward thing no one else wanted to say. "Just not tomorrow."
+"Right then, that's tonight sorted," she said. "Just not tomorrow." She bunched her lips like she knew she'd said the awkward thing no one else wanted to say.
 
 "Can we just—" Lauren began, then stopped. 
 
@@ -4437,7 +4437,7 @@ I shrugged.
 
 "The toilet door locks. Use it. If it's shut, assume it's engaged." I remembered something. "Oh, and don't leave wet towels on the floor."
 
-Sarah raised an eyebrow. "Those are your rules?"
+Sarah raised an eyebrow. "*Those* are your rules?"
 
 "What? They're good rules."
 
