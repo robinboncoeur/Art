@@ -1942,7 +1942,7 @@ Mara studied the photo for a moment before motioning me over.
 
 Mara’s mouth twitched as her eyebrows rose slightly — almost amused, almost approving.
 
-“You took the picture?”
+“You took pictures?”
 
 "I had a free afternoon last week," Lauren said with a shrug, "so I did a tour of the Faire. I noticed your prototype."
 
@@ -2185,7 +2185,7 @@ Testing is work, not an event.
 👗 
 -->
 
-[ Celeste ]
+[ *Celeste* ]
 
 “Look at this.”
 
