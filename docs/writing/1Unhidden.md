@@ -5909,7 +5909,7 @@ He looked at me.
 
 He dropped his gaze.
 
-He head moved.
+His head moved.
 
 Slowly.
 
