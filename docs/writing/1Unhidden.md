@@ -7318,7 +7318,7 @@ I found Celeste frowning at the open fridge.
 
 "What's wrong with pasta?"
 
-She closed the fridge.
+She closed the fridge with a shrug.
 
 "I'm a bit over it." She opened the freezer. "You should try something new."
 
@@ -7326,11 +7326,11 @@ I stopped.
 
 Her eyebrows rose.
 
-I shook my head slowly.
-
 The freezer beeped.
 
 "What were you going to say?"
+
+I shook my head slowly.
 
 "Nothing."
 
@@ -7340,21 +7340,21 @@ Her mouth tightened.
 
 "It's just—." My breath came out in a huff. "That's what Leah said today."
 
-"Why, what was she talking about?"
+"Oh?"
 
 My face felt suddenly hot. 
 
-"Hair."
+"She meant — my hair."
 
 Celeste grinned.
 
-"Hair?"
+"Your hair?"
 
-"I told her I liked her hair. And then, she was like, 'you should try something new.'"
+"Well, I told her I liked *her* hair. And then, she was like, 'you should try something new.'"
 
 The words sat in the air between us.
 
-"What do you think you'd like to try?"
+"So, what do you think you'd like to try?"
 
 My mind was a blank.
 
@@ -7366,35 +7366,27 @@ My mind was a blank.
 
 That came out rather more quickly than I wanted. Celeste's look was sharp.
 
-"Oh that's right," she said, "we don't do blokey."
+"Oh that's right," she said, "we're not doing blokey."
 
 The heat in my face wasn't easing off any.
 
-"You don't want cutting it any shorter, right?"
-
-I couldn't think of anything to say.
-
-Stared at nothing.
+I stared at nothing.
 
 "Well, how about doing your hair like Leah's, then?"
 
-It felt like someone had turned up the lights, somehow.
+It suddenly felt like someone had turned up the lights, somehow. My eyes went to hers, cautiously.
 
-My eyes went to hers, cautiously.
-
-I expected mockery. 
-
-Or at least, teasing.
+I expected mockery. Or at least, teasing.
 
 What I got was — matter-of-fact. 
 
 "Yes or no?"
 
-I could feel my back go rigid. 
+I could feel my back go stiff. 
 
 "Yes?"
 
-Celeste shrugged and picked up her phone.
+Celeste picked up her phone.
 
 Flipped her fingers slowly, searching.
 
@@ -7412,19 +7404,19 @@ It was serious, thoughtful.
 
 "What do you think?"
 
-I shook my head, totally reflex.
+I shook my head.
 
 "Why not?"
 
 I thought for a moment.
 
-"I guess maybe because it's too — pretty."
+"It's — too *pretty*."
 
 She looked puzzled.
 
 "You don't like pretty?"
 
-I would have thought the 'why' was obvious.
+I squinted at her.
 
 "No-no, I *like* it, but—"
 
@@ -7446,7 +7438,7 @@ Pretty was an option.
 
 I had no idea what to do with that option.
 
-I felt almost breathless.
+I felt breathless.
 
 *What if I said yes?*
 
@@ -7454,13 +7446,11 @@ My eyes met Celeste's again.
 
 "If you think it's cool..."
 
-"This isn't about me."
+"This isn't about *me*."
 
 There it was, that no-nonsense sound to her voice.
 
 I tipped my head. 
-
-Reflex.
 
 "I know," I said. "It's just — I never thought I'd be allowed—"
 
@@ -7470,11 +7460,15 @@ My knee began a nervous jig. I heard her snort.
 
 "You are your own worst enemy, Charlie. Do whatever you want." 
 
-She got up and went into the kitchenette. I heard the flick of the kettle switch.
+She got up and went into the kitchenette and flicked on the kettle. 
 
-"Even pretty, though?"
+"You okay with toasties? Got some fresh ham today."
 
-"Pretty. Blokey. Dreadlocks. Or, shave it all off." Her head popped around the corner. "Just. Do. You."
+I followed her into the kitchen.
+
+"Sure." I frowned slightly. "Even *pretty*, though?"
+
+"Pretty. Blokey. Dreadlocks. Or shave it off." She wagged her brows at me, like Leah did. "Just. Do. You."
 
 The kettle dinged cheerfully.
 
