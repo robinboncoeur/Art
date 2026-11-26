@@ -6888,6 +6888,15 @@ And drifted off before I did.
 
 ## 28 💼 What I Don't Want
 
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter28-Unhidden.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
 [ *Charlie* ]
 
 I sort of told Celeste a porkie when she asked about my family doctor and I told her I didn't have one. Mum used to take me to see Dr Harwood in Lara every so often, not because she felt there was something that needed looking at but just to shut Dad up. Dad was forever going on about how I need to bulk up a bit and that I wasn't going to amount to anything because I couldn't stand up to the footy boys when they were having a go at me. 
@@ -7639,30 +7648,30 @@ And gave him a smile.
 
 
 
-## *Being Written*
+## 32 *Being Written*
 
-<!--
+
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <audio controls preload="metadata" class="music-player">
-      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter28-Unhidden.mp3" type="audio/mpeg">
+      <source src="https://media.seabrae.org/audio/cg/unhidden/Chapter32-Unhidden.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
 </div>
--->
+
+
 
 <!--
 Time of year: Mid November (closing down on Celeste's birthday, the 21st)
 -->
 
 
-[*Being Written...* 11-Nov-2026](W_Edits2.md)
+[*Being Written...* 23-Nov-2026](W_Edits2.md)
 
 
 
 <hr class="section-break strong" />
-
 
 
 
