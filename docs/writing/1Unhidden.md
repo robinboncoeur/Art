@@ -7334,8 +7334,6 @@ I shook my head slowly.
 
 "Nothing."
 
-Her mouth tightened.
-
 "You sure?"
 
 "It's just—." My breath came out in a huff. "That's what Leah said today."
@@ -7437,8 +7435,6 @@ I pressed my knuckles hard against my lips.
 Pretty was an option.
 
 I had no idea what to do with that option.
-
-I felt breathless.
 
 *What if I said yes?*
 
