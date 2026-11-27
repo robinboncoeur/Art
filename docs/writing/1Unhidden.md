@@ -7456,7 +7456,7 @@ My knee began a nervous jig. I heard her snort.
 
 "You are your own worst enemy, Charlie. Do whatever you want." 
 
-She got up and went into the kitchenette and flicked on the kettle. 
+She got up and went into the kitchenette and pulled the sandwich-maker out of the cupboard. 
 
 "You okay with toasties? Got some fresh ham today."
 
@@ -7464,9 +7464,9 @@ I followed her into the kitchen.
 
 "Sure." I frowned slightly. "Even *pretty*, though?"
 
-"Pretty. Blokey. Dreadlocks. Or shave it off." She wagged her brows at me, like Leah did. "Just. Do. You."
+"Pretty. Blokey. Dreadlocks. Or shave it off." She wagged her brows at me and plugged in the sandwich maker. "Just. Do. You."
 
-The kettle dinged cheerfully.
+The sandwich-maker ticked as it began to heat up.
 
 <hr class="section-break strong" />
 
