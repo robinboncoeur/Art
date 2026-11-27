@@ -11,15 +11,13 @@
 
 Charlie's damp hair cascaded down his back.
 
-"You'll need to dry your hair a bit more, Charlie."
-
-His shoulders sagged a bit.
+"You'll want to dry your hair a bit more, Charlie."
 
 "Really?"
 
-"Just do the bottom half."
+"Just the bottom half."
 
-As he dried his hair, I put mine up.
+As the dryer blew his hair about, I put mine up.
 
 A French-twist roll is one of the simplest hairstyles ever. 
 
@@ -33,27 +31,23 @@ I grinned at the surprised look on Charlie's face.
 
 I shrugged.
 
-"Been doing this for a while, Charlie." I pulled the pins out. "Now, you do it." I twisted away slightly — my back to him — so he could see. "Do what I do."
-
-I reached up to grasp my hair.
+"Practice?" I pulled the pins out. "Now, you do it." I twisted away so my back was to him. "Do what I do." I reached up to grasp my hair.
 
 And there he was: Charlie of Wardrobe. In the mirror I watched his hands mirror mine.
 
 "That's it. Now, tuck."
 
-His head tilted sideways to see the back of mine, slender arms in the air, fingers tightly gripping his hair.
+His head tilted sideways to see the back of mine, slender arms in the air, hair in a viselike grip.
 
-"Charlie, that's your *hair*, not Graham's ladder. You've got a death-grip on it."
+"Charlie, that's your *hair*, not Graham's ladder."
 
 "Oh, sorry—"
 
-His shoulders dropped noticeably.
+His fingers began to relax their grip, then froze as a few strands fell away.
 
-His fingers relaxed their grip, then froze as a few strands fell away.
+"You want it to look relaxed. Casual." I peered at him. "Not maid of honour."
 
-"You're going for a relaxed, casual style." I peered at him. "That's the look Leah does."
-
-His eyes returned to his reflection in the mirror.
+He flushed a bit as his eyes returned to the mirror.
 
 "Okay, now turn it... and turn it again. That's it."
 
@@ -63,11 +57,9 @@ I handed him a hairpin.
 
 He winced as the first pin grazed his scalp.
 
-"You'll get used to that," I said with a grin, handing him another pin.
+"Careful. They bite." I grinned and handed him another pin.
 
-He nodded quickly, his face expectant. 
-
-Hesitated.
+He gave a single nod and then hesitated.
 
 "About a quarter of the way up."
 
@@ -91,31 +83,21 @@ He frowned, his head tilting slightly.
 
 I snorted.
 
-"It really doesn't matter what *I* think, Charlie."
+"It doesn't matter what *I* think, Charlie."
 
 "Yes it does." He held me in his gaze. "Do you think I look stupid?"
 
-I grimaced.
-
-"What kind of question is that?"
+"No." 
 
 He turned back to the mirror.
 
-"*Do* you?"
+I sat down at the table and leaned my chin into my fist.
 
-I sat down at the table.
+"The real question is this: do *you* like it, Charlie?"
 
-"No I don't, Charlie." I leaned my chin into my fist.
+After a moment, he nodded slowly.
 
-He tipped his head.
-
-*Okay.*
-
-"The only question is this: do *you* like it?"
-
-He nodded slowly.
-
-"Yes."
+"Yes." His eyes were fixed on the mirror.
 
 "Cool." I unplugged the hairdryer. "Think you can put it up by yourself in the morning?"
 
@@ -125,57 +107,59 @@ He turned to face me then, his face pale.
 
 I waited.
 
-His hands went to his cheeks as he looked at the floor.
+His hands went to his cheeks as he looked at his reflection in the mirror again.
 
-I tried not to smile.
+I left to go to the bathroom.
 
-"Too much all at one go?"
+He was still staring at himself in the mirror when I returned.
 
-His nod was just a twitch.
+"It looks really nice, Charlie."
 
-"Maybe—"
+His head dipped slightly, as if agreeing with me cost him something.
+
+"You don't seem sure."
+
+He twitched.
+
+"Well—"
+
+*Right then.*
 
 "How about doing something with the ponytail?"
 
-His eyebrows tried to hide in his forehead.
-
 "Like?"
 
-"Maybe— a loose braid?"
+"A loose braid on the sides?"
 
 He reached up and pulled the pins out.
-
-"Maybe."
 
 ---
 
 The next morning, he wore his hair in loose braids ending in a ponytail.
 
-"I'm a little unsure about this," he said in the car.
+"Do I look okay?"
 
-"You can always take the braids out, Charlie."
+"Yes, Charlie."
 
-His face set as he stared down the road.
+He stared down the road, his face expressionless.
 
-"No."
-
-As we entered Wardrobe, I could see his eyes dart around the room. Mara nodded at me as we entered and took no notice of him at all. Tahlia didn't look up from her overlocker. Lucy was busy pinning a sleeve on a new palace gown and Sarah focused on the steamer.
+As we entered Wardrobe, out of the corner of my eye I could see his dart around the room. Mara nodded at me as we entered. Tahlia didn't look up from her overlocker. Lucy was busy pinning a sleeve on a new palace gown. Sarah was focused steaming a prototype woollen skirt.
 
 [![Carlie and the ledger][u32a]{ .artR width="400" }][u32a]
 
-Charlie settled in the repair corner with his ledger. 
+Charlie disappeared in the repair corner with his ledger. 
 
-When Lauren came in later that morning, Charlie visibly stiffened.
+Lauren came in later that morning with a cheery "hello girls" and morning tea. I noticed Charlie visibly stiffen. Lauren gave him a quick smile and went over to where Sarah had finished with the last of the shopkeeper's dresses.
 
-Lauren gave him a quick smile and went over to where Sarah had finished with the last of the shopkeeper's dresses.
+"I brought you an iced latte," she said.
 
-"I brought you a coffee," she said to Sarah, indicating the tearoom with her thumb.
-
-"Thank you, lovely," Sarah replied as she curled up the steamer hose.
+"Thank you, lovely." Sarah stretched, curled up the steamer hose and followed Lauren to the tearoom.
 
 Charlie went back to his ledger.
 
-Later that afternoon, Leah came in from her meeting at the palace. She gave Charlie a smile.
+---
+
+Later that afternoon, Leah came in from her meeting with the actresses at the palace. She winked at Charlie.
 
 "Like the braids," she said simply and then, went over to Mara to report.
 
@@ -183,75 +167,83 @@ I could see him redden the slightest bit.
 
 At closing, Lauren sidled up to him.
 
-"Nice to see you doing a bit of grooming, Charlie," she said with a gentle smile.
+"Nice to see you doing a bit of grooming, Charlie."
 
-He smiled back, his lips not entirely committing. 
-
-More like a Dustin Hoffman than a Geena Davis.
+He smiled but his lips were not committed.
 
 He was quiet on the drive home.
 
 ---
 
-He did his own braids the next morning.
-
-And even selected a new t-shirt to wear, one I hadn't seen before. It was an unusual colour.
+He did his hair in braids again the next morning. He wore a t-shirt I hadn't seen before.
 
 "That's new. What colour is that?"
 
-He still had the shop tag in his hand. Turned it over.
+He regarded the shop tag in his hand. Turned it over.
 
 "Um, 'Twilight Lavender'?"
 
-"It suits you, Charlie." I smiled. "Something different to your usual beige and grey."
+"It suits you, Charlie." I smiled. "Makes a nice change from your usual beige and grey."
 
-I could see him visibly bracing as he got out of the car at Wardrobe, but said nothing.
+Once we got to Wardrobe, he scurried into the tearoom to put away his messenger bag like a possum escaping a goana. And barely came out from his repair corner all day.
 
-He scurried into the tearoom to put away his messenger bag like a tree-rat running along a fence. 
+He'd just finished scrubbing the potatoes that evening and was stabbing them with a steak knife when he said,
 
-And barely came out from his repair corner all day.
+"I guess I need to learn confidence." His voice was quiet.
 
-I finally decided to call him on it.
+I pulled a blob of mince mix out of the bowl and began to shape it into a ball.
 
-"You right, there, mate?"
+"Confidence just happens, Charlie." I pressed the ball between my palms, flattening it. "Remember that day Mara had you interview actresses at the palace?"
 
-He looked up from the bodice he was working on.
-
-"Yeah?"
-
-"You don't seem so sure."
-
-He shrugged dismissively.
-
-"Nah-I'm-right."
-
-He wasn't able to look at me.
-
-The drive home was a quiet one.
-
-He'd just finished scrubbing the potatoes and was stabbing them with a steak knife when he said, quietly,
-
-"I guess I need to learn confidence."
-
-I pulled a blob of mince mix out of the bowl and began to roll it betwwen my palms.
-
-"Remember that day Mara had you interview actresses at the palace?"
-
-His eyebrows rose slightly. He opened the microwave and placed the potatoes inside.
+Charlie opened the microwave and placed the potatoes inside.
 
 "I was petrified."
 
 The microwave beeped nine times in rapid succession.
 
-"You were." I carefully placed the mince ball on the baking paper as the microwave started up. 
+"Yeah, you were." I carefully placed the mince ball on the baking paper as the microwave started up. "I remember, your hands were shaking."
 
-And pulled another chunk of mince mix from the bowl. 
+"They weren't!"
 
-"And how long did that last?"
+"Oh, yes they *were*." I grinned and pulled another chunk of mince mix from the bowl."But you got over it."
 
 He shrugged. 
 
 And grimaced.
+
+"Yeah, but this is different, Celeste."
+
+"How so?"
+
+"Well, it's not about work."
+
+My shoulders went up slightly.
+
+*Fair enough.*
+
+"Can you pretend it is?"
+
+He stopped. Tiny frowns and fleeting grimaces chased each other across his face.
+
+"Pretend."
+
+"That's what *I* do when I'm not sure."
+
+His look went incredulous.
+
+"Nah!" He seemed to be absorbing 'pretend' like he'd never heard it before. 
+
+Finally, he pinched his lips together.
+
+"So, you're telling me—"
+
+"Yep." I slapped the patty onto the wax paper. "I used to pretend a fair bit." I pushed the patty flat, and tried to shape the edges. Failed. "Then, after a while, I didn't have to."
+
+"A while?"
+
+"A while."
+
+I couldn't help him more than that.
 
 ---
 
@@ -263,19 +255,19 @@ I looked over.
 
 "About?"
 
-"Confidence."
+"Pretending."
 
 The turn signal clicked as I turned south onto our street.
 
-"I mean," he continued finally, "I guess you don't really *learn* confidence."
+"I mean," he continued finally, "It's getting easier." He cleared his throat. "At work, I mean."
 
 We turned into our driveway.
 
-"Actually, you do," I said. "Just, not the way you think."
+"How so?"
 
-"How did *you* learn it?" he asked as I unlocked the door.
+"Going to work is — different now." He puffed. "Easier." 
 
-And gave it a push with my shoulder.
+I unlocked the door and gave it a push with my shoulder.
 
 It scraped on the floor.
 
@@ -283,33 +275,37 @@ Charlie went into the kitchenette and got out plates and cutlery. I peeled back 
 
 "Tomato sauce or mayo?"
 
-"Mayo," I replied. "I'm going back to my Flemish roots."
+"Mayo."
 
-"I didn't know you had ancestors in Belgium."
+He nodded. His face went serious as he sat down.
 
-I suppressed a grin.
+"It just seems no one cares. At work, I mean."
 
-"I don't."
+I studied my calimari rings. They sat impassively on my plate.
 
-He nodded, his face serious.
+I thought back to year eight. Mum was teaching me table manners — specifically, where knife and fork and spoon go on a table setting and how to use them. And then, we had this Japanese exchange student staying with us for a bit. She showed me how to use chopsticks. 
 
-"So, how did you learn confidence?"
+I remember watching her eat. 
 
-I studied my last calimari ring as if it might hold the answer.
-
-My calimari ring sat impassively on my plate.
-
-I thought back to year eight. Mum was teaching me table manners — specifically, where knife and fork and spoon go on a table setting and how to use them. And then, in year eight, a Japanese girl showed me how to use chopsticks. 
-
-I remember watching her chopsticks flick back and forth between the bowl and her lips and thinking I could never be that good.
-
-I still use chopsticks for certain meals. Not all that well, but quite confidently.
-
-Perhaps confidence and ability were related, but only loosely.
+She would hold her bowl close to her mouth, her chopsticks flicking back and forth between the bowl and her lips. I remember thinking how cool it was that my Mum was fine with her holding her bowl like that, and also that I could never be that good. Over time, I did learn to use chopsticks — not skillfully, but confidently nevertheless.
 
 I still had no idea how to explain confidence to Charlie.
 
 <hr class="section-break strong" />
+
+
+
+
+
+
+
+Mum came over to my repair corner one late January afternoon. It was beastly, really hot and sticky, even with the window open and a breeze blowing through. Sarah had finally given up steaming garments and was actually sitting with Tahlia learning about the overlocker.
+
+"I just wanted you to know that I think you've really made a nice change to your appearance, Charlie," she said softly. I could feel my cheeks go a bit hot.
+
+"Aw Mum," I started, but she broke in.
+
+"Sarah noticed too." Her smile went wide. "Big improvement! Her words, Charlie."
 
 
 
