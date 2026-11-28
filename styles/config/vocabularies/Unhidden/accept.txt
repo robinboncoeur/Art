@@ -35,6 +35,7 @@ frother
 Gartner
 Giaconda
 Gliga
+[Gg]oannas?
 grainlines?
 Greeves?
 handwheel

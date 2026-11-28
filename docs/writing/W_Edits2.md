@@ -31,13 +31,15 @@ I grinned at the surprised look on Charlie's face.
 
 I shrugged.
 
-"Practice?" I pulled the pins out. "Now, you do it." I twisted away so my back was to him. "Do what I do." I reached up to grasp my hair.
+"Practice?" He switched off the hairdryer as I pulled the pins out. "Now, you do it." I twisted away so my back was to him. "Do what I do." I popped a hairpin between my lips and reached up to grasp my hair.
 
-And there he was: Charlie of Wardrobe. In the mirror I watched his hands mirror mine.
+And there he was: Charlie of Wardrobe. In the mirror I watched his hands mirror mine. 
 
-"That's it. Now, tuck."
+Right down to the hairpin pinched between his lips.
 
-His head tilted sideways to see the back of mine, slender arms in the air, hair in a viselike grip.
+"That's it. Now, tuck," I said out of the corner of my mouth.
+
+His head tilted sideways to see the back of mine, slender arms in the air, hair in a vise-like grip.
 
 "Charlie, that's your *hair*, not Graham's ladder."
 
@@ -45,21 +47,21 @@ His head tilted sideways to see the back of mine, slender arms in the air, hair 
 
 His fingers began to relax their grip, then froze as a few strands fell away.
 
-"You want it to look relaxed. Casual." I peered at him. "Not maid of honour."
+"You want it to look relaxed. Casual." I removed the hairpin from my lips. "Not maid of honour."
 
 He flushed a bit as his eyes returned to the mirror.
 
 "Okay, now turn it... and turn it again. That's it."
 
-I handed him a hairpin.
+I angled my pin into the roll.
 
 "Start at the bottom."
 
 He winced as the first pin grazed his scalp.
 
-"Careful. They bite." I grinned and handed him another pin.
+"Careful. They bite." I grinned as he grabbed another pin.
 
-He gave a single nod and then hesitated.
+He hesitated.
 
 "About a quarter of the way up."
 
@@ -143,13 +145,13 @@ The next morning, he wore his hair in loose braids ending in a ponytail.
 
 He stared down the road, his face expressionless.
 
-As we entered Wardrobe, out of the corner of my eye I could see his dart around the room. Mara nodded at me as we entered. Tahlia didn't look up from her overlocker. Lucy was busy pinning a sleeve on a new palace gown. Sarah was focused steaming a prototype woollen skirt.
+As we entered Wardrobe, I caught him glancing around the room. Mara nodded at me as we entered. Tahlia didn't look up from her overlocker. Lucy was busy pinning a sleeve on a new palace gown. Sarah was focused steaming a prototype woollen skirt.
 
 [![Carlie and the ledger][u32a]{ .artR width="400" }][u32a]
 
 Charlie disappeared in the repair corner with his ledger. 
 
-Lauren came in later that morning with a cheery "hello girls" and morning tea. I noticed Charlie visibly stiffen. Lauren gave him a quick smile and went over to where Sarah had finished with the last of the shopkeeper's dresses.
+Lauren came in later that morning with a cheery "hello girls" and morning tea. I noticed Charlie stiffen. Lauren gave him a quick smile and went over to where Sarah had finished with the last of the shopkeeper's dresses.
 
 "I brought you an iced latte," she said.
 
@@ -157,11 +159,9 @@ Lauren came in later that morning with a cheery "hello girls" and morning tea. I
 
 Charlie went back to his ledger.
 
----
-
 Later that afternoon, Leah came in from her meeting with the actresses at the palace. She winked at Charlie.
 
-"Like the braids," she said simply and then, went over to Mara to report.
+"Like the braids," she said, and then went over to Mara to report.
 
 I could see him redden the slightest bit.
 
@@ -175,25 +175,27 @@ He was quiet on the drive home.
 
 ---
 
-He did his hair in braids again the next morning. He wore a t-shirt I hadn't seen before.
+He did his hair in braids again the next morning. He wore a t-shirt I hadn't seen before, brand-new judging from the creases.
 
-"That's new. What colour is that?"
+"Nice t-shirt. What colour is that?"
 
-He regarded the shop tag in his hand. Turned it over.
+He glanced at the shop tag he'd just removed. Turned it over.
 
 "Um, 'Twilight Lavender'?"
 
-"It suits you, Charlie." I smiled. "Makes a nice change from your usual beige and grey."
+"It suits you, Charlie." I smiled. "Makes a change from your usual beige and grey."
 
-Once we got to Wardrobe, he scurried into the tearoom to put away his messenger bag like a possum escaping a goana. And barely came out from his repair corner all day.
+Once we got to Wardrobe, he scurried into the tearoom to put away his messenger bag like a possum escaping a goanna. And barely came out from his repair corner all day.
 
 He'd just finished scrubbing the potatoes that evening and was stabbing them with a steak knife when he said,
 
-"I guess I need to learn confidence." His voice was quiet.
+"I guess I need to learn confidence." 
+
+His voice was quiet.
 
 I pulled a blob of mince mix out of the bowl and began to shape it into a ball.
 
-"Confidence just happens, Charlie." I pressed the ball between my palms, flattening it. "Remember that day Mara had you interview actresses at the palace?"
+"It'll come, Charlie." I pressed the ball between my palms, flattening it. "Remember that day Mara had you interview actresses at the palace?"
 
 Charlie opened the microwave and placed the potatoes inside.
 
@@ -208,8 +210,6 @@ The microwave beeped nine times in rapid succession.
 "Oh, yes they *were*." I grinned and pulled another chunk of mince mix from the bowl."But you got over it."
 
 He shrugged. 
-
-And grimaced.
 
 "Yeah, but this is different, Celeste."
 
@@ -231,9 +231,9 @@ He stopped. Tiny frowns and fleeting grimaces chased each other across his face.
 
 His look went incredulous.
 
-"Nah!" He seemed to be absorbing 'pretend' like he'd never heard it before. 
+"Nah!"  
 
-Finally, he pinched his lips together.
+He seemed to be absorbing 'pretend' like he'd never heard it before. Finally, he pinched his lips together.
 
 "So, you're telling me—"
 
@@ -281,7 +281,7 @@ He nodded. His face went serious as he sat down.
 
 "It just seems no one cares. At work, I mean."
 
-I studied my calimari rings. They sat impassively on my plate.
+I studied my calamari rings. They sat impassively on my plate.
 
 I thought back to year eight. Mum was teaching me table manners — specifically, where knife and fork and spoon go on a table setting and how to use them. And then, we had this Japanese exchange student staying with us for a bit. She showed me how to use chopsticks. 
 
