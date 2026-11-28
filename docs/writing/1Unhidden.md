@@ -7792,11 +7792,11 @@ The next morning, he wore his hair in loose braids ending in a ponytail.
 
 He stared down the road, his face expressionless.
 
-As we entered Wardrobe, I caught him glancing around the room. Mara nodded at me as we entered. Tahlia didn't look up from her overlocker. Lucy was busy pinning a sleeve on a new palace gown. Sarah was focused steaming a prototype woollen skirt.
+As we entered Wardrobe, I caught him glancing around the room. Mara nodded at me as we entered. Tahlia didn't look up from her overlocker. Lucy was busy pinning a sleeve on a new palace gown. Sarah was focused on steaming a prototype woollen skirt.
 
 [![Carlie and the ledger][u32a]{ .artR width="400" }][u32a]
 
-Charlie disappeared in the repair corner with his ledger. 
+Charlie disappeared into the repair corner with his ledger. 
 
 Lauren came in later that morning with a cheery "hello girls" and morning tea. I noticed Charlie stiffen. Lauren gave him a quick smile and went over to where Sarah had finished with the last of the shopkeeper's dresses.
 
@@ -7854,7 +7854,7 @@ The microwave beeped nine times in rapid succession.
 
 "They weren't!"
 
-"Oh, yes they *were*." I grinned and pulled another chunk of mince mix from the bowl."But you got over it."
+"Oh, yes they *were*." I grinned and pulled another chunk of mince mix from the bowl. "But you got over it."
 
 He shrugged. 
 
@@ -7884,7 +7884,7 @@ He seemed to be absorbing 'pretend' like he'd never heard it before. Finally, he
 
 "So, you're telling me—"
 
-"Yep." I slapped the patty onto the wax paper. "I used to pretend a fair bit." I pushed the patty flat, and tried to shape the edges. Failed. "Then, after a while, I didn't have to."
+"Yep." I slapped the patty onto the baking paper. "I used to pretend a fair bit." I pushed the patty flat, and tried to shape the edges. Failed. "Then, after a while, I didn't have to."
 
 "A while?"
 
@@ -7918,7 +7918,7 @@ I unlocked the door and gave it a push with my shoulder.
 
 It scraped on the floor.
 
-Charlie went into the kitchenette and got out plates and cutlery. I peeled back the sticky-tape holding the wrapping paper.
+Charlie went into the kitchenette and got out plates and cutlery. I peeled back the sticky tape holding the wrapping paper.
 
 "Tomato sauce or mayo?"
 
@@ -7934,7 +7934,7 @@ I thought back to year eight. Mum was teaching me table manners — specifically
 
 I remember watching her eat. 
 
-She would hold her bowl close to her mouth, her chopsticks flicking back and forth between the bowl and her lips. I remember thinking how cool it was that my Mum was fine with her holding her bowl like that, and also that I could never be that good. Over time, I did learn to use chopsticks — not skillfully, but confidently nevertheless.
+She would hold her bowl close to her mouth, her chopsticks flicking back and forth between the bowl and her lips. I remember thinking how cool it was that my Mum was fine with her holding her bowl like that, and also that I could never be that good. Over time, I did learn to use chopsticks — not skilfully, but confidently nevertheless.
 
 I still had no idea how to explain confidence to Charlie.
 
