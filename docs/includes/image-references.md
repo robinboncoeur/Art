@@ -195,3 +195,5 @@
 [sk14]: https://media.seabrae.org/images/art/sketches/14Northwind.jpg
 [sk15]: https://media.seabrae.org/images/art/sketches/15Waterfall.jpg
 [tr01]: https://media.seabrae.org/images/art/sketches/AMSmith.jpg
+[u30a]: https://media.seabrae.org/images/art/unhidden/Chapter30a.jpg
+[u32a]: https://media.seabrae.org/images/art/unhidden/Chapter32a.jpg

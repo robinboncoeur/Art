@@ -7638,7 +7638,7 @@ And gave him a smile.
 
 
 
-## 32 Getting Creative
+## 32 🛋 Getting Creative
 
 <div class="music-card music-card--with-art">
   <div class="music-content">
